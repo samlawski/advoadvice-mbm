@@ -15,7 +15,7 @@ layout: page
           {{post.content | truncatewords: 40}}<br><br>
           <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
         </div><!-- post.body -->
-        <small>- {{post.date | date: "%d. %B %Y" }} :: {{site.team_members[post.team_member].name}}</small>
+        <small>- {{post.date | date: "%d. %B %Y" }} :: {{post.team_member}}</small>
       </article>
     {% endfor %}
 
