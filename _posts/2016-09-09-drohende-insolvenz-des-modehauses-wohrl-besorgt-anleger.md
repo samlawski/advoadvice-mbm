@@ -1,10 +1,19 @@
 ---
-title: "Drohende Insolvenz des Modehauses Wöhrl besorgt Anleger"
-date: 2016-09-09 02:00:00 -0500
+title: Drohende Insolvenz des Modehauses Wöhrl besorgt Anleger
+date: 2016-09-09T07:00:00.000Z
 layout: post
-categories: ["Modehaus Wöhrl", "Insolvenz", "Anleger", "Mittelstandsanleihe", "Rendite", "Zinsen", "Gläubiger", "Amsterdamer Holding"]
-team_member: dr-sven-tintemann
+categories:
+  - Modehaus Wöhrl
+  - Insolvenz
+  - Anleger
+  - Mittelstandsanleihe
+  - Rendite
+  - Zinsen
+  - Gläubiger
+  - Amsterdamer Holding
+team_member: kim-oliver-klevenhagen
 ---
+
 
 Das Modehaus Wöhrl platzierte im Jahre 2013 seine erste Mittelstandsanleihe. Dabei wurde ein Volumen von insgesamt 30 Millionen Euro emittiert. Die Mittelstandsanleihe WKN. A1R0YA/ ISIN. DE000A1R0YA4 sah eine Laufzeit von 5 Jahren vor und wäre demnach im Jahr 2018 fällig. In Aussicht gestellt wurde ein Zinssatz von 6,5 %.
 
@@ -34,7 +43,6 @@ Zwischenzeitlich soll das Modeunternehmen durch eine Amsterdamer Holding überno
 
 Sollten die Anleger ihre Gelder nicht zurückerhalten, wird ihnen dringend geraten, ihre eventuell bestehenden Ansprüche überprüfen zu lassen. Insbesondere eine Haftung der Berater, welche unter Umständen nicht über das bestehende Totalverlustrisiko aufgeklärt haben, kommt in Betracht.
 
-Für eine kostenlose Erstberatung stehen die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB unter 030-921 000 40 oder per Email unter [info@advoadvice.de](mailto:info@advoadvice.de) gerne zur Verfügung.
+Für eine kostenlose Erstberatung stehen die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB unter 030-921 000 40 oder per Email unter [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) gerne zur Verfügung.
 
 [Fragebogen](/samples/content_entries/Fragebogen_W_hrl.pdf "Fragebogen Wöhrl Anleihe") und [Anmeldeformular für Gläubigergemeinschaft](/samples/content_entries/Anmeldeformular_zur_Gesch_digtengemeinschaft_W_hrl.pdf "Anmeldeformular Wöhrl Anleihe") hier downloaden.
-
