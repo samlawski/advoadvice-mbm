@@ -1,0 +1,81 @@
+---
+layout: page
+---
+
+<div class="row">
+  <section id="blog" class="col-md-8 col-lg-9 margin-tb-20">
+    <a href="/blog">< Zurück zum Blog</a>
+    <article class="blog-post">
+      <h1 class="padding-20">
+        {{page.title}}
+      </h1>
+      <div class="padding-20">
+        {{ content }}
+      </div><!-- post.body -->
+      {% if page.categories %}
+        <div class="tags margin-20">
+          <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
+          {% for tag in page.categories %}
+            <span class="label label-default">{{ tag | escape }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+      <small>- {{page.date | date: "%d. %B %Y" }} :: {{page.team_member}}</small>
+
+    </article>
+
+    <section>
+      <hr>
+      <h3 class="editable">Das könnte Sie auch interessieren</h3>
+      <div class="row">
+        {% assign counter = 0 %}
+
+        {% for other_post in contents.posts %}
+          {% comment %}Go through all the posts starting with the newest{% endcomment %}
+          {% unless other_post.title == post.title %}
+            {% comment %}Ignore THIS post{% endcomment %}
+            {% for tag in post.tags %}
+              {% comment %}Go through all tags of THIS post{% endcomment %}
+              {% if counter < 3 %}
+                {% comment %}If there are not yet three suggested posts do ...{% endcomment %}
+                {% if other_post.tags contains tag %}
+                  {% comment %}Does the recent post contain any of THIS post's tags?{% endcomment %}
+                  <div class="col-sm-4">
+                    <div class="blog-post">
+                      <h5>
+                        <a class="post-link" href="{{ other_post.url | prepend: site.baseurl }}">
+                          {{ other_post.title }}
+                        </a>
+                      </h5>
+                    </div><!-- // blog-post -->
+                  </div><!-- // col -->
+                  {% assign counter = counter | plus: 1 %}
+                  {% break %}
+                {% endif %}<!-- // if contains -->
+              {% endif %}<!-- // if posts_counter -->
+            {% endfor %}<!-- // for post.tags -->
+          {% endunless %}
+        {% endfor %}<!-- // for contents.posts -->
+
+        {% if counter == 0 %}
+          {% for new_post in contents.posts limit:3 %}
+            {% unless new_post.title == post.title %}
+              <div class="col-sm-4">
+                <div class="blog-post">
+                  <h5>
+                    <a class="post-link" href="{{ new_post.url | prepend: site.baseurl }}">
+                      {{ new_post.title }}
+                    </a>
+                  </h5>
+                </div><!-- // blog-post -->
+              </div><!-- // col -->
+            {% endunless %}
+          {% endfor %}<!-- // for contents.posts -->
+        {% endif %}
+      </div><!-- // row -->
+    </section>
+  </section>
+
+  <!-- SIDEBAR -->
+  {% include sidebar.html %}
+</div><!-- row -->

@@ -1,0 +1,51 @@
+<header class="index_header" id="themen">
+  <div class="nav-spacer">
+    <nav id="navigation" class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="a-scroll navbar-logo" href="#themen">
+            <img src="/uploads/images/logo-bw-small.png" />
+          </a>
+          <div class="text-center">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span> Menü <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </button>
+          </div>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a class="a-scroll editable" href="#themen">Themen</a></li>
+            <li><a class="a-scroll editable" href="#team">Team</a></li>
+            <li><a class="a-scroll editable" href="#formulare">Formulare</a></li>
+            <li><a class="a-scroll editable" href="#blog">Blog</a></li>
+            <li><a id="kontakt_link" class="a-scroll editable" href="#kontakt">Kontakt</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+  </div><!-- / nav-spacer -->
+
+  <div class="container">
+    <!-- HEADER LOGO -->
+    <section class="row">
+      <div class="col-xs-offset-1 col-xs-10 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 col-lg-offset-4 col-lg-4">
+        <img src="/uploads/images/logo.png" class="title-img img-responsive" />
+      </div><!-- col -->
+    </section>
+    <!-- / HEADER LOGO -->
+
+    <!-- HEADER TEXT -->
+    <section class="text-center nav-boxes">
+      {% for topic in page.topthemen %}
+        {% unless forloop.first %}
+          <span class="hidden-xs">-</span>
+        {% endunless %}
+        <div class="nav-box" data-toggle="tooltip" data-placement="bottom" title="Mehr erfahren">
+          {{topic}}
+        </div><!-- navbox -->
+      {% endfor %}
+    </section>
+    <!-- / HEADER TEXT -->
+  </div><!-- container -->
+</header>

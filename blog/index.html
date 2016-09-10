@@ -1,0 +1,44 @@
+---
+title: Blog
+layout: page
+---
+
+<div class="row">
+  <!-- BLOG POSTS -->
+  <section id="blog" class="col-md-8 col-lg-9 margin-tb-20">
+    {% for post in site.posts %}
+      <article class="blog-post">
+        <h1 class="padding-20">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+        </h1>
+        <div class="padding-20">
+          {{post.content | truncatewords: 40}}<br><br>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
+        </div><!-- post.body -->
+        <small>- {{post.date | date: "%d. %B %Y" }} :: {{site.team_members[post.team_member].name}}</small>
+      </article>
+    {% endfor %}
+
+      <!-- <nav>
+        <ul class="pager">
+          {% if paginate.previous_page %}
+            <li class="previous">
+              <a href="{{ paginate.previous.url }}">
+                <span aria-hidden="true">&larr;</span><span class="hidden-xs"> Neue Beiträge</span>
+              </a>
+            </li>
+          {% endif %}
+          {% if paginate.next_page %}
+            <li class="next">
+              <a href="{{ paginate.next.url }}">
+                <span class="hidden-xs">Ältere Beiträge</span> <span aria-hidden="true">&rarr;</span>
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+      </nav> -->
+  </section>
+
+  <!-- SIDEBAR -->
+  {% include sidebar.html %}
+</div><!-- row -->
