@@ -1,18 +1,19 @@
 <form method="post" action="/danke.html">
   <div class="form-group">
-    <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="email" value="" required>
+    <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="Name" value="" required>
   </div>
   <div class="form-group">
-    <input type="text" class="form-control" placeholder="Telefonnummer" name="telefonnummer" value="">
+    <input type="text" class="form-control" placeholder="Telefonnummer" name="Telefonnummer" value="">
   </div>
   <div class="form-group">
-    <input type="email" class="form-control" placeholder="Email Adresse*" name="_replyto" value="" required>
+    <input type="email" class="form-control" placeholder="Email Adresse*" name="email" value="" required>
   </div>
   <div class="form-group">
-    <textarea class="form-control" placeholder="Ihre Nachricht*" rows="4" name="message" required></textarea>
+    <textarea class="form-control" placeholder="Ihre Nachricht*" rows="4" name="Nachricht" required></textarea>
   </div>
   <input type="hidden" name="_subject" value="Nachricht vom Kontaktformular">
   <input type="hidden" name="_to" value="admin@advoadvice.de">
   <input type="text" name="_gotcha" style="display: none;">
+  <div class="g-recaptcha" data-sitekey="your_site_key"></div>
   <input type="submit" class="btn btn-default" value="Abschicken">
 </form>
