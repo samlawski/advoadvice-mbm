@@ -36,9 +36,10 @@ markdown: kramdown
 # Plugins
 gems:
   - jekyll-paginate
-  # - jekyll-related-posts
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-related:
-  max_count: 3
+tag_page_layout: tag_page
+tag_page_dir: tag

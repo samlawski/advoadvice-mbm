@@ -220,6 +220,10 @@ h1, h2, h3, h4, h5 {
   transition: box-shadow 0.4s;
 }
 
+a.label-default, a:link.label-default, a:hover.label-default {
+  color: white;
+}
+
 .blog-post img {
   max-width: 100%;
   height: auto;
