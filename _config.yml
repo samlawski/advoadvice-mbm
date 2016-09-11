@@ -28,8 +28,8 @@ defaults:
     scope:
       path: "_topics" # empty string for all files
     values:
-      layout: "page"
-      
+      layout: "topic"
+
 # Build settings
 markdown: kramdown
 
