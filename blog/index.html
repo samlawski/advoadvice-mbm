@@ -15,7 +15,9 @@ layout: page
           {{post.content | truncatewords: 40}}<br><br>
           <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
         </div><!-- post.body -->
-        <small>- {{post.date | date: "%d. %B %Y" }} :: {{post.team_member}}</small>
+        {% assign team_member_id = "/team_members/" | append: post.team_member %}
+        {% assign team_member = site.team_members | where: "id", team_member_id | first %}
+        <small>- {{post.date | date: "%d. %B %Y" }} :: {{team_member.name}}</small>
       </article>
     {% endfor %}
 

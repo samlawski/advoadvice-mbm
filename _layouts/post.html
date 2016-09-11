@@ -20,7 +20,9 @@ layout: page
           {% endfor %}
         </div>
       {% endif %}
-      <small>- {{page.date | date: "%d. %B %Y" }} :: {{page.team_member}}</small>
+      {% assign team_member_id = "/team_members/" | append: page.team_member %}
+      {% assign team_member = site.team_members | where: "id", team_member_id | first %}
+      <small>- {{page.date | date: "%d. %B %Y" }} :: {{ team_member.name }}</small>
 
     </article>
 

@@ -17,7 +17,7 @@ collections:
   team_members:
     output: true
   posts:
-    permalink: /blog/:title
+    permalink: /blog/:title/
 
 # Build settings
 markdown: kramdown
