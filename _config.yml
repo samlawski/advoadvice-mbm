@@ -25,6 +25,9 @@ markdown: kramdown
 # Plugins
 gems:
   - jekyll-paginate
+  - jekyll-related-posts
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+related:
+  max_count: 3
