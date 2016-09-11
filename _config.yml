@@ -21,3 +21,10 @@ collections:
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+paginate: 6
+paginate_path: "/blog/page:num/"
