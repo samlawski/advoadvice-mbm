@@ -2,7 +2,7 @@
 title: "Baxter - vorläufiger Insolvenzverwalter meldet sich"
 date: 2016-02-08 17:00:00 -0600
 layout: post
-categories: ["Baxter", "Sachwert", "Insolvenz", "Insolvenzverwalter", "Anwalt", "Hilfe", "Anlegergemeinschaft", "Beratung"]
+tags: ["Baxter", "Sachwert", "Insolvenz", "Insolvenzverwalter", "Anwalt", "Hilfe", "Anlegergemeinschaft", "Beratung"]
 team_member: dr-sven-tintemann
 ---
 

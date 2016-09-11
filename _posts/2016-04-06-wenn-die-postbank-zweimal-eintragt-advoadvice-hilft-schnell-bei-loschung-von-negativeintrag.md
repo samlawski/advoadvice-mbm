@@ -2,7 +2,7 @@
 title: "Wenn die Postbank zweimal einträgt - AdvoAdvice hilft schnell bei Löschung von Negativeintrag"
 date: 2016-04-06 17:00:00 -0500
 layout: post
-categories: ["Schufa-Eintrag", "Postbank", "Deutsche Postbank Ag", "Negativeintrag", "Urteil", "Landgericht Verden", "VuR 2011 191 ff", "Dr. Tintemann", "schnelle Hilfe", "erneuter Eintrag"]
+tags: ["Schufa-Eintrag", "Postbank", "Deutsche Postbank Ag", "Negativeintrag", "Urteil", "Landgericht Verden", "VuR 2011 191 ff", "Dr. Tintemann", "schnelle Hilfe", "erneuter Eintrag"]
 team_member: dr-sven-tintemann
 ---
 

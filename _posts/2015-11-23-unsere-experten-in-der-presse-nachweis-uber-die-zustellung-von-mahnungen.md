@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Nachweis über die Zustellung von Mahnungen"
 date: 2015-11-23 12:49:00 -0600
 layout: post
-categories: ["Mahnung", "Zustellung", "Nachweis", "BDSG"]
+tags: ["Mahnung", "Zustellung", "Nachweis", "BDSG"]
 team_member: dr-sven-tintemann
 ---
 

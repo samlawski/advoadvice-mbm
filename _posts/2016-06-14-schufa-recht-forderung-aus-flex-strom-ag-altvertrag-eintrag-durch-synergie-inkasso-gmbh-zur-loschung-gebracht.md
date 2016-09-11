@@ -2,7 +2,7 @@
 title: "Schufa-Recht: Forderung aus Flex Strom AG Altvertrag – Eintrag durch Synergie Inkasso GmbH zur Löschung gebracht"
 date: 2016-06-14 09:45:00 -0500
 layout: post
-categories: ["Schufa", "Schufa-Recht", "Dr. Sven Tintemann", "Schufa-Experte", "Negativeintrag", "Synergie Inkasso", "FlexStrom AG", "Steuerberater", "AdvoAdvice"]
+tags: ["Schufa", "Schufa-Recht", "Dr. Sven Tintemann", "Schufa-Experte", "Negativeintrag", "Synergie Inkasso", "FlexStrom AG", "Steuerberater", "AdvoAdvice"]
 team_member: dr-sven-tintemann
 ---
 

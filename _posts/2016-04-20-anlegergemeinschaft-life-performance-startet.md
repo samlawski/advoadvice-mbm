@@ -2,7 +2,7 @@
 title: "Anlegergemeinschaft Life Performance startet"
 date: 2016-04-20 17:00:00 -0500
 layout: post
-categories: ["Life Performance", "Anlegergemeinschaft", "Haftung", "Anleger", "Geschäftsführerin", "Berater", "Vermittler", "Simone Ramminger", "Dr. Sven Tintemann", "AdvoAdvice", "Fragebogen", "Geschädigte", "BaFin", "Totalverlustrisiko"]
+tags: ["Life Performance", "Anlegergemeinschaft", "Haftung", "Anleger", "Geschäftsführerin", "Berater", "Vermittler", "Simone Ramminger", "Dr. Sven Tintemann", "AdvoAdvice", "Fragebogen", "Geschädigte", "BaFin", "Totalverlustrisiko"]
 team_member: dr-sven-tintemann
 ---
 

@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Besserer Schutz für Ersparnisse"
 date: 2016-01-02 09:53:00 -0600
 layout: post
-categories: ["Einlagensicherung", "Sicherheit", "Banken", "Konto", "Entschädigung", "Rückzahlung"]
+tags: ["Einlagensicherung", "Sicherheit", "Banken", "Konto", "Entschädigung", "Rückzahlung"]
 team_member: dr-sven-tintemann
 ---
 

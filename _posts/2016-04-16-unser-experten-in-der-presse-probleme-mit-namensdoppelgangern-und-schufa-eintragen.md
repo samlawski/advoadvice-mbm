@@ -2,7 +2,7 @@
 title: "Unser Experten in der Presse: Probleme mit Namensdoppelgängern und Schufa-Einträgen"
 date: 2016-04-16 17:00:00 -0500
 layout: post
-categories: ["Doppelgänger", "Namensdoppelgänger", "Namensverwechslung", "Schufa", "Auskunftei", "Radio", "Interview", "Antenne 1", "Sven Tintemann", "Experte", "Löschung", "Datenübersicht", "Selbstauskunft"]
+tags: ["Doppelgänger", "Namensdoppelgänger", "Namensverwechslung", "Schufa", "Auskunftei", "Radio", "Interview", "Antenne 1", "Sven Tintemann", "Experte", "Löschung", "Datenübersicht", "Selbstauskunft"]
 team_member: dr-sven-tintemann
 ---
 

@@ -16,16 +16,27 @@ url: "" # the base hostname & protocol for your site
 collections:
   team_members:
     output: true
+  topics:
+    output: true
+    permalink: /themen/:path/
   posts:
     permalink: /blog/:title/
 
+# Default settings
+defaults:
+  -
+    scope:
+      path: "_topics" # empty string for all files
+    values:
+      layout: "page"
+      
 # Build settings
 markdown: kramdown
 
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-related-posts
+  # - jekyll-related-posts
 
 paginate: 6
 paginate_path: "/blog/page:num/"

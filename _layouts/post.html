@@ -12,10 +12,10 @@ layout: page
       <div class="padding-20">
         {{ content }}
       </div><!-- post.body -->
-      {% if page.categories %}
+      {% if page.tags %}
         <div class="tags margin-20">
           <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
-          {% for tag in page.categories %}
+          {% for tag in page.tags %}
             <span class="label label-default">{{ tag | escape }}</span>
           {% endfor %}
         </div>
@@ -31,7 +31,7 @@ layout: page
       <h3 class="editable">Das könnte Sie auch interessieren</h3>
       <related-posts />
 
-      
+
       <div class="row">
         {% assign counter = 0 %}
 

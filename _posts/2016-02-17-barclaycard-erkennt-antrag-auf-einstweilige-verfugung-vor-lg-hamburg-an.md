@@ -2,7 +2,7 @@
 title: "Barclaycard erkennt Antrag auf einstweilige Verfügung vor LG Hamburg an"
 date: 2016-02-17 17:00:00 -0600
 layout: post
-categories: ["Barclaycard", "Bank", "Landgericht", "Hamburg", "Erfolg", "Anerkenntnis", "Prozess", "Schufa", "Tintemann", "Hilfe", "Barclays Bank PLC"]
+tags: ["Barclaycard", "Bank", "Landgericht", "Hamburg", "Erfolg", "Anerkenntnis", "Prozess", "Schufa", "Tintemann", "Hilfe", "Barclays Bank PLC"]
 team_member: dr-sven-tintemann
 ---
 

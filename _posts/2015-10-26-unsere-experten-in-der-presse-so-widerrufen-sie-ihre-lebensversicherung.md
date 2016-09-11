@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: So widerrufen Sie Ihre Lebensversicherung"
 date: 2015-10-26 11:17:00 -0500
 layout: post
-categories: ["Vertrag", "widerrufen", "Lebensversicherung"]
+tags: ["Vertrag", "widerrufen", "Lebensversicherung"]
 team_member: kim-oliver-klevenhagen
 ---
 

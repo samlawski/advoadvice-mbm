@@ -2,7 +2,7 @@
 title: "KTG Agrar SE – Anleger können sich auf Gläubigerportal registrieren"
 date: 2016-08-02 17:00:00 -0500
 layout: post
-categories: ["KTG Agrar", "Registrierung", "Insolvenz", "Anleihe", "Biowertpapier II", "Biowertpapier III", "Gläubigerversammlung", "Insolvenzeröffnung", "Anlegergemeinschaft", "Anmeldung von Forderungen", "ISIN: DE000A0DN1J4", "ISIN:DE000A1H3VN9", "ISIN:DE000A11QGQ1"]
+tags: ["KTG Agrar", "Registrierung", "Insolvenz", "Anleihe", "Biowertpapier II", "Biowertpapier III", "Gläubigerversammlung", "Insolvenzeröffnung", "Anlegergemeinschaft", "Anmeldung von Forderungen", "ISIN: DE000A0DN1J4", "ISIN:DE000A1H3VN9", "ISIN:DE000A11QGQ1"]
 team_member: dr-sven-tintemann
 ---
 

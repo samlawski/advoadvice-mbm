@@ -2,7 +2,7 @@
 title: "Baxter Sachwert - erste Forderungen gegenüber Insolvenzverwalter geltend gemacht"
 date: 2016-03-10 17:00:00 -0600
 layout: post
-categories: ["Baxter", "Insolvenz", "Anmeldung", "Forderung", "Darlehen", "Kündigung", "Fälligkeit", "Voigt Saulus", "Pleite"]
+tags: ["Baxter", "Insolvenz", "Anmeldung", "Forderung", "Darlehen", "Kündigung", "Fälligkeit", "Voigt Saulus", "Pleite"]
 team_member: dr-sven-tintemann
 ---
 

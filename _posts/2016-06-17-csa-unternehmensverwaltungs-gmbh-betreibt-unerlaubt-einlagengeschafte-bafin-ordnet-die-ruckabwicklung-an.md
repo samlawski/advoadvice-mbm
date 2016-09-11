@@ -2,7 +2,7 @@
 title: "CSA Unternehmensverwaltungs-GmbH betreibt unerlaubt Einlagengeschäfte – BaFin ordnet die Rückabwicklung an"
 date: 2016-06-17 09:15:00 -0500
 layout: post
-categories: ["Anlegerschutz", "Bankrecht", "Kapitalmarktrecht", "BaFin", "AdvoAdvice", "KWG", "Rückabwicklung", "CSA Unternehmensverwaltungs-GmbH", "CSA", "Einlagengeschäft"]
+tags: ["Anlegerschutz", "Bankrecht", "Kapitalmarktrecht", "BaFin", "AdvoAdvice", "KWG", "Rückabwicklung", "CSA Unternehmensverwaltungs-GmbH", "CSA", "Einlagengeschäft"]
 team_member: dr-sven-tintemann
 ---
 

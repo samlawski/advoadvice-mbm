@@ -2,7 +2,7 @@
 title: "ING-DiBa widerruft Negativeintrag nach außergerichtlichem Schreiben "
 date: 2016-04-27 17:00:00 -0500
 layout: post
-categories: ["ING-DiBa", "Schufa", "Negativeintrag", "Löschung", "Widerruf", "Restschuldbefreiung", "Jahresende", "Dr. Tintemann", "AdvoAdvice", "Hilfe"]
+tags: ["ING-DiBa", "Schufa", "Negativeintrag", "Löschung", "Widerruf", "Restschuldbefreiung", "Jahresende", "Dr. Tintemann", "AdvoAdvice", "Hilfe"]
 team_member: dr-sven-tintemann
 ---
 

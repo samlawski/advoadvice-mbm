@@ -2,7 +2,7 @@
 title: "Wohnsitz im Ausland schützt nicht vor Schufa Eintrag"
 date: 2016-03-09 17:00:00 -0600
 layout: post
-categories: ["Ausland", "Schufa", "Negativeintrag", "Titel", "Titulierung", "Schufa-Eintrag", "Zustellung", "Erfolg", "Vollstreckungsbescheid"]
+tags: ["Ausland", "Schufa", "Negativeintrag", "Titel", "Titulierung", "Schufa-Eintrag", "Zustellung", "Erfolg", "Vollstreckungsbescheid"]
 team_member: dr-sven-tintemann
 ---
 

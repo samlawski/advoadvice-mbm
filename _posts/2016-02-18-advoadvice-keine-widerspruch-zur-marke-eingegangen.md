@@ -2,7 +2,7 @@
 title: "AdvoAdvice - keine Widerspruch zur Marke eingegangen"
 date: 2016-02-18 17:00:00 -0600
 layout: post
-categories: ["AdvoAdvice", "Marke", "Widerspruch", "Markengesetz", "Wortmarke", "Bildmarke", "Patentamt", "Markenamt"]
+tags: ["AdvoAdvice", "Marke", "Widerspruch", "Markengesetz", "Wortmarke", "Bildmarke", "Patentamt", "Markenamt"]
 team_member: dr-sven-tintemann
 ---
 

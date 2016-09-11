@@ -2,7 +2,7 @@
 title: "Wirksamer Widerruf von Verbraucherdarlehensverträgen nur bei vollständiger Übernahme der gesetzlichen Musterbelehrung"
 date: 2016-03-21 18:00:00 -0500
 layout: post
-categories: ["Widerrufsbelehrung", "Darlehensverträge", "Darlehensvertrag", "Musterbelehrung", "Widerrufs-Joker", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice"]
+tags: ["Widerrufsbelehrung", "Darlehensverträge", "Darlehensvertrag", "Musterbelehrung", "Widerrufs-Joker", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice"]
 team_member: kim-oliver-klevenhagen
 ---
 

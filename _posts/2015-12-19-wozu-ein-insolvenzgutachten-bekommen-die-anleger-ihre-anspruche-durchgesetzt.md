@@ -2,7 +2,7 @@
 title: "Novum Consult GmbH - Zustellung unmöglich?"
 date: 2015-12-19 07:14:00 -0600
 layout: post
-categories: ["Novum Consult Gmbh", "bank- und Kapitalmarktrecht"]
+tags: ["Novum Consult Gmbh", "bank- und Kapitalmarktrecht"]
 team_member: dr-sven-tintemann
 ---
 

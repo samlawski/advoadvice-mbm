@@ -2,7 +2,7 @@
 title: "Die Mittelstandsanleihe - was Anleger wissen müssen"
 date: 2016-09-09 02:00:00 -0500
 layout: post
-categories: ["Mittelstandsanleihe", "Was tun", "Wertpapiere", "Finanzkrise", "Risiken der Anleihe", "Totalverlust", "Verlustrisiko", "Advoadvice", "Berlin"]
+tags: ["Mittelstandsanleihe", "Was tun", "Wertpapiere", "Finanzkrise", "Risiken der Anleihe", "Totalverlust", "Verlustrisiko", "Advoadvice", "Berlin"]
 team_member: dr-sven-tintemann
 ---
 

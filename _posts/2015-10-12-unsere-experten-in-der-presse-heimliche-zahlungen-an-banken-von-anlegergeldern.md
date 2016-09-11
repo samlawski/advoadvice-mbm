@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Heimliche Zahlungen an Banken von Anlegergeldern"
 date: 2015-10-12 10:33:00 -0500
 layout: post
-categories: ["Bank", "Anlage", "Berater", "Vermittlung", "Provision", "Schadensersatz", "Kick-back"]
+tags: ["Bank", "Anlage", "Berater", "Vermittlung", "Provision", "Schadensersatz", "Kick-back"]
 team_member: dr-sven-tintemann
 ---
 

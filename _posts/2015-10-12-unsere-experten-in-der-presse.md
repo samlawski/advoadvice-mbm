@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Negativeinträge durch Inkassofirmen"
 date: 2015-10-12 12:41:00 -0500
 layout: post
-categories: ["Negativeintrag", "Inkasso", "Schufa", "Datenschutz", "Auskunfteien"]
+tags: ["Negativeintrag", "Inkasso", "Schufa", "Datenschutz", "Auskunfteien"]
 team_member: dr-sven-tintemann
 ---
 

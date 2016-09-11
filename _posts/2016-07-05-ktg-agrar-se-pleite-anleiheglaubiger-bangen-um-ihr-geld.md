@@ -2,7 +2,7 @@
 title: "KTG Agrar SE pleite – Anleihegläubiger bangen um ihr Geld "
 date: 2016-07-05 17:00:00 -0500
 layout: post
-categories: ["KTG Agrar SE", "Anleihe", "Biowertpapier II", "Biowertpapier III", "Insolvenz", "Aktie", "Amtsgericht Hamburg", "Insolvenzantrag", "Eigeninsolvenzantrag", "Insolvenz in Eigenregie", "Mittelstandsanleihe", "Anlegergemeinschaft", "www.ktg-agrar.de"]
+tags: ["KTG Agrar SE", "Anleihe", "Biowertpapier II", "Biowertpapier III", "Insolvenz", "Aktie", "Amtsgericht Hamburg", "Insolvenzantrag", "Eigeninsolvenzantrag", "Insolvenz in Eigenregie", "Mittelstandsanleihe", "Anlegergemeinschaft", "www.ktg-agrar.de"]
 team_member: dr-sven-tintemann
 ---
 

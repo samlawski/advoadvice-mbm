@@ -2,7 +2,7 @@
 title: "Schufa-Recht: Außergerichtlicher Erfolg gegen die Telekom Deutschland GmbH"
 date: 2016-08-19 06:00:00 -0500
 layout: post
-categories: ["Schufa-Recht", "AdvoAdvice", "Telekom Deutschland GmbH", "Außergerichtlicher Erfolg", "Widerruf Schufa Eintrag", "Mahnbescheid"]
+tags: ["Schufa-Recht", "AdvoAdvice", "Telekom Deutschland GmbH", "Außergerichtlicher Erfolg", "Widerruf Schufa Eintrag", "Mahnbescheid"]
 team_member: dr-sven-tintemann
 ---
 

@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Widerruf von Lebensversicherungen"
 date: 2016-02-02 17:00:00 -0600
 layout: post
-categories: ["Euro am Sonntag", "Widerruf", "Lebensversicherung", "Artikel", "Presse", "Tintemann"]
+tags: ["Euro am Sonntag", "Widerruf", "Lebensversicherung", "Artikel", "Presse", "Tintemann"]
 team_member: dr-sven-tintemann
 ---
 

@@ -2,7 +2,7 @@
 title: "Baxter Sachwert - Wie sicher sind die Sachwerte für die Anleger abgesichert?"
 date: 2016-02-28 17:00:00 -0600
 layout: post
-categories: ["Baxter", "Sachwert", "Grundschuld", "Teilgrundschuld", "Absicherung", "Anleger", "Sicherheit", "Notar", "Bank", "Anwalt", "Beratung", "Hilfe", "Opfer"]
+tags: ["Baxter", "Sachwert", "Grundschuld", "Teilgrundschuld", "Absicherung", "Anleger", "Sicherheit", "Notar", "Bank", "Anwalt", "Beratung", "Hilfe", "Opfer"]
 team_member: dr-sven-tintemann
 ---
 

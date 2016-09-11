@@ -2,7 +2,7 @@
 title: "Schufa-Recht: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch noch Erfolg gegen die Santander Consumer Bank AG"
 date: 2016-06-21 06:40:00 -0500
 layout: post
-categories: ["Schufa Holding AG", "Schufa-Recht", "Schufa-Experte", "AdvoAdvice", "Santander Consumer Bank AG", "Norisbank", "Volkswagen Bank", "Negativeintrag", "Tintemann", "BDSG"]
+tags: ["Schufa Holding AG", "Schufa-Recht", "Schufa-Experte", "AdvoAdvice", "Santander Consumer Bank AG", "Norisbank", "Volkswagen Bank", "Negativeintrag", "Tintemann", "BDSG"]
 team_member: dr-sven-tintemann
 ---
 

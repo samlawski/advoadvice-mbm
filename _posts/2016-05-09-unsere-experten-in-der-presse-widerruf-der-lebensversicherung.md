@@ -2,7 +2,7 @@
 title: "Unsere Experten in der Presse: Widerruf der Lebensversicherung"
 date: 2016-05-09 17:00:00 -0500
 layout: post
-categories: ["Widerruf", "Lebensversicherung", "Widerspruch", "Belehrung", "Klage", "Courtage", "Makler", "Vermittler", "AdvoAdvice", "Dr. Sven Tintemann", "Portfolio International"]
+tags: ["Widerruf", "Lebensversicherung", "Widerspruch", "Belehrung", "Klage", "Courtage", "Makler", "Vermittler", "AdvoAdvice", "Dr. Sven Tintemann", "Portfolio International"]
 team_member: dr-sven-tintemann
 ---
 

@@ -2,7 +2,7 @@
 title: "Brest-Tauros GmbH – Alles nur leere Versprechungen?"
 date: 2016-08-26 07:00:00 -0500
 layout: post
-categories: ["Brest-Tauros GmbH", "Kapitalanlage", "BaFin", "Nachrangdarlehen", "Haftung", "Anlegerschutz", "AdovAdvice", "Berlin"]
+tags: ["Brest-Tauros GmbH", "Kapitalanlage", "BaFin", "Nachrangdarlehen", "Haftung", "Anlegerschutz", "AdovAdvice", "Berlin"]
 team_member: dr-sven-tintemann
 ---
 

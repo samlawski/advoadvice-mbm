@@ -2,7 +2,7 @@
 title: "Fristloses Kündigungsrecht für Vermieter bei Angebot der Untervermietung über „airbnb“"
 date: 2016-08-26 07:00:00 -0500
 layout: post
-categories: ["airbnb", "Mietrecht", "Kündigung", "Wohnraum", "Berlin", "Untervermietung", "AdvoAdvice"]
+tags: ["airbnb", "Mietrecht", "Kündigung", "Wohnraum", "Berlin", "Untervermietung", "AdvoAdvice"]
 team_member: dr-sven-tintemann
 ---
 

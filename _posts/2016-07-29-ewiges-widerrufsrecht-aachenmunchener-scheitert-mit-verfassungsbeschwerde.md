@@ -2,7 +2,7 @@
 title: "„Ewiges Widerrufsrecht“ – AachenMünchener scheitert mit Verfassungsbeschwerde"
 date: 2016-07-29 02:00:00 -0500
 layout: post
-categories: ["Ewiges Widerrufsrecht", "Versicherung", "Verfassungsbeschwerde", "Bundesverfassungsgericht", "AdvoAdvice"]
+tags: ["Ewiges Widerrufsrecht", "Versicherung", "Verfassungsbeschwerde", "Bundesverfassungsgericht", "AdvoAdvice"]
 team_member: dr-sven-tintemann
 ---
 

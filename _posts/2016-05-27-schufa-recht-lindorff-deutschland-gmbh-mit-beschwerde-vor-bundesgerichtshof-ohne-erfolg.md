@@ -2,7 +2,7 @@
 title: "Schufa-Recht: Lindorff Deutschland GmbH mit Beschwerde vor Bundesgerichtshof ohne Erfolg"
 date: 2016-05-27 05:00:00 -0500
 layout: post
-categories: ["Schufa", "Schufa Holding AG", "Lindorff Deutschland GmbH", "BGH", "Streitwert", "Beschluss", "Berlin"]
+tags: ["Schufa", "Schufa Holding AG", "Lindorff Deutschland GmbH", "BGH", "Streitwert", "Beschluss", "Berlin"]
 team_member: dr-sven-tintemann
 ---
 

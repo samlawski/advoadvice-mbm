@@ -2,7 +2,7 @@
 title: "Hanseatische Fußball Kontor GmbH: Vorläufiges Insolvenzverfahren eröffnet"
 date: 2016-07-26 07:00:00 -0500
 layout: post
-categories: ["HFK GmbH", "Hanseatische Fußball Kontor GmbH", "Schwerin", "Insolvenzverfahren", "Anleger", "Anlegerschutz", "Transfers", "Investition", "Rendite", "AdvoAdvice"]
+tags: ["HFK GmbH", "Hanseatische Fußball Kontor GmbH", "Schwerin", "Insolvenzverfahren", "Anleger", "Anlegerschutz", "Transfers", "Investition", "Rendite", "AdvoAdvice"]
 team_member: dr-sven-tintemann
 ---
 

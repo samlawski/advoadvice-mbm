@@ -2,7 +2,7 @@
 title: "Chefarztbehandlung nur vom Chefarzt!"
 date: 2016-08-30 09:00:00 -0500
 layout: post
-categories: ["Behandlung", "Krankenhaus", "Chefarzt", "Einwilligung", "Oberarzt", "Rechtswidrig", "Konsequenzen", "Schadensersatz"]
+tags: ["Behandlung", "Krankenhaus", "Chefarzt", "Einwilligung", "Oberarzt", "Rechtswidrig", "Konsequenzen", "Schadensersatz"]
 team_member: dr-sven-tintemann
 ---
 

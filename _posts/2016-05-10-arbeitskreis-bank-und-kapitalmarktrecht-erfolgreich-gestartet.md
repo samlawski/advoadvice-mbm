@@ -2,7 +2,7 @@
 title: "Arbeitskreis Bank- und Kapitalmarktrecht erfolgreich gestartet"
 date: 2016-05-10 12:00:00 -0500
 layout: post
-categories: ["Arbeitskreis", "Bankrecht", "Kapitalmarktrecht", "Anwaltsverein", "Kirchner", "Christiani", "Liebscher", "Tintemann"]
+tags: ["Arbeitskreis", "Bankrecht", "Kapitalmarktrecht", "Anwaltsverein", "Kirchner", "Christiani", "Liebscher", "Tintemann"]
 team_member: dr-sven-tintemann
 ---
 

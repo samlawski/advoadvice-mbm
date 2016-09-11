@@ -2,7 +2,7 @@
 title: "BAXTER Sachwert GmbH & Co. KG - Anlegergemeinschaft gestartet"
 date: 2016-02-02 17:00:00 -0600
 layout: post
-categories: ["Baxter", "Anlegergemeinschaft", "Haftung", "Geschäftsführer", "Berlin", "Notarhaftung"]
+tags: ["Baxter", "Anlegergemeinschaft", "Haftung", "Geschäftsführer", "Berlin", "Notarhaftung"]
 team_member: dr-sven-tintemann
 ---
 

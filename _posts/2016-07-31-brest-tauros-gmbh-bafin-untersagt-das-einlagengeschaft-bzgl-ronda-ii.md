@@ -2,7 +2,7 @@
 title: "Brest-Tauros GmbH - BaFin untersagt das Einlagengeschäft bzgl. Ronda II"
 date: 2016-07-31 17:00:00 -0500
 layout: post
-categories: ["Brest-Tauros GmbH", "Einlagengeschäft", "BaFin", "Bundesanstalt für Finanzdienstleistungsaufsicht", "Abwicklung", "Darlehen mit Grundschuldbesicherung", "Ronda II", "Einstellung", "Haftung", "Anleger", "Anlegergemeinschaft", "Kreditwesengesetz", "KWG"]
+tags: ["Brest-Tauros GmbH", "Einlagengeschäft", "BaFin", "Bundesanstalt für Finanzdienstleistungsaufsicht", "Abwicklung", "Darlehen mit Grundschuldbesicherung", "Ronda II", "Einstellung", "Haftung", "Anleger", "Anlegergemeinschaft", "Kreditwesengesetz", "KWG"]
 team_member: dr-sven-tintemann
 ---
 

@@ -2,7 +2,7 @@
 title: "Baxter Sachwert – AdvoAdvice beantragt Akteneinsicht beim Insolvenzgericht"
 date: 2016-03-14 18:00:00 -0500
 layout: post
-categories: ["Baxter", "AdvoAdvice", "Akteneinsicht", "Insolvenz", "Insolvenzgericht", "Voigt Salus", "Insolvenzgutachten", "Anleger", "Schaden", "Amtsgericht", "Charlottenburg"]
+tags: ["Baxter", "AdvoAdvice", "Akteneinsicht", "Insolvenz", "Insolvenzgericht", "Voigt Salus", "Insolvenzgutachten", "Anleger", "Schaden", "Amtsgericht", "Charlottenburg"]
 team_member: dr-sven-tintemann
 ---
 

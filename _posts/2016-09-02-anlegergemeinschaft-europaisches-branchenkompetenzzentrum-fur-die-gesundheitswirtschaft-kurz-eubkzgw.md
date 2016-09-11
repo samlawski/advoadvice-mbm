@@ -2,7 +2,7 @@
 title: "Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft (kurz: EUBKZGW)"
 date: 2016-09-02 10:00:00 -0500
 layout: post
-categories: ["EUBKZGW", "Anlegergemeinschaft", "Insolvenz", "Insolvenzverfahren", "AdvoAdvice", "Berlin", "Schadensersatz", "Vermittler", "Berater"]
+tags: ["EUBKZGW", "Anlegergemeinschaft", "Insolvenz", "Insolvenzverfahren", "AdvoAdvice", "Berlin", "Schadensersatz", "Vermittler", "Berater"]
 team_member: dr-sven-tintemann
 ---
 

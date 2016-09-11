@@ -2,7 +2,7 @@
 title: "Hip-Hop und Recht – Bundesverfassungsgericht vs. Bundesgerichtshof – Thema: Sampling"
 date: 2016-05-31 17:00:00 -0500
 layout: post
-categories: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Sampling", "Urteil", "Verfassungsbeschwerde", "Urheberrecht"]
+tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Sampling", "Urteil", "Verfassungsbeschwerde", "Urheberrecht"]
 team_member: dr-sven-tintemann
 ---
 

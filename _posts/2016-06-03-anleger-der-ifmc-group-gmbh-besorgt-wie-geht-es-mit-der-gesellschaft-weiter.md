@@ -2,7 +2,7 @@
 title: "AdvoAdvice Rechtsanwälte mbB zur aktuellen Entwicklung IFMC –Group GmbH "
 date: 2016-06-03 04:00:00 -0500
 layout: post
-categories: ["IFMC-Group GmbH", "BaFin", "Einlagengeschäft", "KWG", "Handelsregister", "Insolvenzverfahren", "Haftung", "Berater"]
+tags: ["IFMC-Group GmbH", "BaFin", "Einlagengeschäft", "KWG", "Handelsregister", "Insolvenzverfahren", "Haftung", "Berater"]
 team_member: dr-sven-tintemann
 ---
 

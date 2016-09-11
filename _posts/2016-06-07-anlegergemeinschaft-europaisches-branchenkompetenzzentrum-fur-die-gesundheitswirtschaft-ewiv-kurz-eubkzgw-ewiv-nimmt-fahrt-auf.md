@@ -2,7 +2,7 @@
 title: "Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft EWIV (kurz EUBKZGW EWIV)“ nimmt Fahrt auf"
 date: 2016-06-07 03:50:00 -0500
 layout: post
-categories: ["EUBKZGW", "EWIV", "Anlagegesellschaft", "Schadensersatz", "Anlegergemeinschaft", "AdvoAdvice Rechtsanwälte", "Berlin", "Geschädigtengemeinschaft", "Insolvenzverfahren"]
+tags: ["EUBKZGW", "EWIV", "Anlagegesellschaft", "Schadensersatz", "Anlegergemeinschaft", "AdvoAdvice Rechtsanwälte", "Berlin", "Geschädigtengemeinschaft", "Insolvenzverfahren"]
 team_member: dr-sven-tintemann
 ---
 

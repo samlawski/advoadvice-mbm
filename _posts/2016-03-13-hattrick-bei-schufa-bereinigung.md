@@ -2,7 +2,7 @@
 title: "Hattrick bei Schufa Bereinigung"
 date: 2016-03-13 18:00:00 -0500
 layout: post
-categories: ["Schufa", "Volkswagen Bank", "Hattrick", "Löschung", "Widerruf", "Bank", "Inkasso", "Fehler", "Klage", "Erfolg", "Anwalt", "Rechtsanwalt", "AdvoAdvice", "Experte", "Tintemann", "Klevenhagen"]
+tags: ["Schufa", "Volkswagen Bank", "Hattrick", "Löschung", "Widerruf", "Bank", "Inkasso", "Fehler", "Klage", "Erfolg", "Anwalt", "Rechtsanwalt", "AdvoAdvice", "Experte", "Tintemann", "Klevenhagen"]
 team_member: dr-sven-tintemann
 ---
 

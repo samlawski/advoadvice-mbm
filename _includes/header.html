@@ -37,13 +37,12 @@
 
     <!-- HEADER TEXT -->
     <section class="text-center nav-boxes">
-      {% for topic in page.topthemen %}
+      {% assign topics = site.topics | where: "featured", true %}
+      {% for topic in topics %}
         {% unless forloop.first %}
           <span class="hidden-xs">-</span>
         {% endunless %}
-        <div class="nav-box" data-toggle="tooltip" data-placement="bottom" title="Mehr erfahren">
-          {{topic}}
-        </div><!-- navbox -->
+        <a href="{{topic.url}}" class="nav-box">{{topic.title}}</a><!-- navbox -->
       {% endfor %}
     </section>
     <!-- / HEADER TEXT -->
