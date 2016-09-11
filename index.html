@@ -30,11 +30,11 @@ hintergrund_bild_path: "/uploads/images/title.jpg"
           <div class="col-sm-12 col-md-6">
             <h4>{{ member.name }}</h4>
             <p>
-              {{member.vita}}
+              {{member.content}}
             </p>
             <ul>
               {% for topic in member.themen %}
-                <li>{{topic.title}}</li>
+                <li>{{topic}}</li>
               {% endfor %}
             </ul>
             <p>
