@@ -42,4 +42,4 @@ gems:
 paginate: 6
 paginate_path: "/blog/page:num/"
 tag_page_layout: tag_page
-tag_page_dir: tag
+tag_page_dir: /blog/thema/

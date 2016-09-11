@@ -241,7 +241,20 @@ a.label-default, a:link.label-default, a:hover.label-default {
 }
 
 .tags {
-  color: #999;
+  color: white;
+  i {
+    color: #999;
+  }
+  a {
+    color: white;
+    font-size: 0.7em;
+    background-color: #999;
+    padding: 4px;
+    border-radius: 4px;
+  }
+  a:hover {
+    background-color: #777;
+  }
 }
 
 /* ----- footer */

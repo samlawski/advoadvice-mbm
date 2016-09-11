@@ -15,9 +15,7 @@ layout: page
       {% if page.tags %}
         <div class="tags margin-20">
           <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
-          {% for tag in page.tags %}
-            <a href="/tag/{{tag | slugify }}/" class="label label-default">{{ tag | escape }}</a>
-          {% endfor %}
+          {{ page | tags}}
         </div>
       {% endif %}
       {% assign team_member_id = "/team_members/" | append: page.team_member %}
