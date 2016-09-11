@@ -30,7 +30,7 @@ Betroffene Anlegern wird bei der Kanzlei AdvoAdvice Rechtsanwälte mbB die Mögl
 
 &nbsp;
 
-Füllen Sie bei Interesse unseren [Fragebogen für geschädigte Anleger](/samples/content_entries/Fragebogen_f_r_gesch_digte_Anleger.pdf "Fragebogen Brest-Tauros GmbH") aus und senden Sie diesen an [info@advoadvice.de](mailto:info@advoadvice.de "Link: mailto:info@advoadvice.de") oder per Fax an 030 921 00 410. Unsere Rechtsanwälte erreichen Sie unter 030 921 000 40.
+Füllen Sie bei Interesse unseren [Fragebogen für geschädigte Anleger](/uploads/dokumente/Fragebogen_f_r_gesch_digte_Anleger.pdf "Fragebogen Brest-Tauros GmbH") aus und senden Sie diesen an [info@advoadvice.de](mailto:info@advoadvice.de "Link: mailto:info@advoadvice.de") oder per Fax an 030 921 00 410. Unsere Rechtsanwälte erreichen Sie unter 030 921 000 40.
 
   
 

@@ -20,5 +20,5 @@ Hierzu kommentiert Dr. Tintemann: "Die Sache zeigt, dass es bei größeren Unter
 
 Personen, die von negativen Einträgen bei Auskunfteien (z.B. Schufa, Bürgel, Creditreform etc.) betroffen sind, sollten sich möglichst schnell an einen erfahrenen Rechtsanwalt auf diesem Rechtsgebiet werden. Es laufen für den Antrag auf Erlass einer einstweiligen Verfügung kurze Fristen, die nicht versäumt werden sollten.
 
-Für eine Anfrage stellt die Kanzlei AdvoAdvice Rechtsanwälte mbB extra einen speziell entwickelten [Fragebogen für Negativeinträge bei Auskunfteien](/samples/content_entries/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf "Fragebogen Negativeinträge") zur Verfügung.&nbsp;
+Für eine Anfrage stellt die Kanzlei AdvoAdvice Rechtsanwälte mbB extra einen speziell entwickelten [Fragebogen für Negativeinträge bei Auskunfteien](/uploads/dokumente/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf "Fragebogen Negativeinträge") zur Verfügung.&nbsp;
 

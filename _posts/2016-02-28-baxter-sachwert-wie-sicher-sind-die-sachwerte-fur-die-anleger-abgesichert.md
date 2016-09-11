@@ -37,5 +37,5 @@ Fazit:
   
 Beworbene Sicherheit ist nicht gleichzusetzen mit dem tatsächlichen Erhalt einer Sicherheit. Zuzugeben ist, dass hier der äußere Anschein so gestaltet wurde, dass der Anleger glauben durfte, dass sein ausgereichtes Darlehen ausreichend besichert ist. Jetzt kann der Anleger nur noch hoffen, dass der vorläufige Insolvenzverwalter ausreichend Kapital oder verwertbaren Grundbesitz sicherstellen kann, so dass der einzelne Anleger keinen Totalverlust erleidet.  
   
-Geschädigten Anlegern ist daher dringend zu raten, sich anwaltlich beraten zu lassen. Gerne steht Ihnen die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB für eine erste Beratung zur Verfügung. Unseren Fragebogen in Sachen Baxter finden Sie hier: --\> [Zum Fragebogen](/samples/content_entries/Fragebogen_Baxter.pdf "Zum Fragebogen Baxter")
+Geschädigten Anlegern ist daher dringend zu raten, sich anwaltlich beraten zu lassen. Gerne steht Ihnen die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB für eine erste Beratung zur Verfügung. Unseren Fragebogen in Sachen Baxter finden Sie hier: --\> [Zum Fragebogen](/uploads/dokumente/Fragebogen_Baxter.pdf "Zum Fragebogen Baxter")
 

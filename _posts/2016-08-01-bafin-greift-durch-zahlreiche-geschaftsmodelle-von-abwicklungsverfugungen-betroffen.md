@@ -54,35 +54,35 @@ Dem Rechtsanwalt Johannes Praß wirft die BaFin vor, auf der Grundlage von Darle
 
 Der Bescheid ist nach Angaben der BaFin auf deren Homepage noch nicht bestandskräftig.
 
-&nbsp; 
+&nbsp;
 
 **Hans-Joachim Herrmann – CTG Care Tec Group:**
 
- 
+
 
 Hans-Joachim Herrmann, handelnd unter CTG Care Tec Group untersagte die BaFin am 14.06.2016 das öffentliche Angebot von Genussscheinen wegen Verstoßes gegen das Wertpapierprospektgesetz.
 
- 
+
 
 Die BaFin begründete die Untersagung damit, dass das Unternehmen keinen Wertpapierprospekt, der die nach dem Wertpapierprospektgesetz und der dazu gehörenden Verordnung (EG) Nr. 809/2004 sowie der Verordnung (EU) 462/2013 erforderlichen Angaben enthält.
 
- 
+
 
 Die Verfügung ist nach Angaben der BaFin seit dem 19.07.2016 unanfechbar.
 
- 
+
 
 **SPS Bank N.V.:**
 
- 
+
 
 Die BaFin hat der SPS Bank N.V. das weitere Betreiben des Einlagengeschäfts und des Kreditgeschäfts untersagt und die unverzügliche Abwicklung der unerlaubt betriebenen Geschäfte angeordnet.
 
- 
+
 
 Die BaFin wirft dem Unternehmen vor, in Deutschland unerlaubt tätig zu sein. Die SPS Bank N.V. betreibe durch die Entgegennahme von Geldern im Zusammenhang mit den von ihr angebotenen Sichteinlagen (Girokonten sowie Tagesgeldkonten) und Sparkonten das Einlagengeschäft im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 KWG. Ebenso betreibe sie durch die Gewährung der von ihr angebotenen Finanzierungen das Kreditgeschäft nach § 1 Abs. 1 Satz 2 Nr. 2 KWG, gibt die BaFin auf Ihrer Homepage an.
 
- 
+
 
 Eine Zulassung von der Europäischen Zentralbank (EZB) oder der niederländischen Zentralbank (DNB), liege, anders als auf der Homepage der Firma in deren Impressum impliziert werde, nicht vor.
 
@@ -98,5 +98,4 @@ Ebenfalls haften bei einem Verstoß gegen § 32 KWG die verantwortlich handelnde
 
 Betroffene Anlegern wird bei der Kanzlei AdvoAdvice Rechtsanwälte mbB die Möglichkeit angeboten, sich zu einer Anlegergemeinschaft zusammenzuschließen, um Informationen auszutauschen, Ansprüche zu bündeln und gemeinsam mehr zu erreichen.
 
-Füllen Sie bei Interesse unseren [Fragebogen für geschädigte Anleger](/samples/content_entries/Fragebogen_f_r_gesch_digte_Anleger.pdf "Link: /samples/content\_entries/Fragebogen\_f\_r\_gesch\_digte\_Anleger.pdf") aus und senden Sie diesen an [info@advoadvice.de](mailto:info@advoadvice.de "Link: mailto:info@advoadvice.de") oder per Fax an 030 921 00 410. Unsere Rechtsanwälte erreichen Sie unter 030 921 000 40.
-
+Füllen Sie bei Interesse unseren [Fragebogen für geschädigte Anleger](/uploads/dokumente/Fragebogen_f_r_gesch_digte_Anleger.pdf) aus und senden Sie diesen an [info@advoadvice.de](mailto:info@advoadvice.de) oder per Fax an 030 921 00 410. Unsere Rechtsanwälte erreichen Sie unter 030 921 000 40.

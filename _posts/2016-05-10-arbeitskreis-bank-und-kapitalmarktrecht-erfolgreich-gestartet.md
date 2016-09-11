@@ -10,7 +10,7 @@ Berlin, den 10.05.2016
 
 Im Berliner Anwaltsverein ist der Arbeitskreis Bank- und Kapitalmarktrecht erfolgreich gestartet. Nach der Begrüßung der anwesenden Rechtsanwältinnen und Rechtsanwälte aus verschiedenen Fachdisziplinen freute sich RA Christian Christiani, Geschäftsführer des Berlins Anwaltsvereins, den nunmehr 12. Arbeitskreis für Fachanwälte eröffnen zu können. Er betonte die Möglichkeiten der interdisziplinären Zusammenarbeit mit anderen Fachgebieten und die große Schnittmenge der relevanten Themen. Zudem wurden alle anwesenden Kollegen eingeladen, sich im Rahmen des Arbeitskreises mit Beiträgen, Referaten und Vorschlägen zur Einladung interessanter Referenten zu beteiligen.&nbsp;
 
-Die Sitzungen des Arbeitskreises sollen fortan im Rhythmus von zwei Monaten immer jeden zweiten Dienstag um 19.00 Uhr in einem ungraden Monat abgehalten werden. Die nächste Sitzung wurde für den 12.07.2016 eingeplant. Eine gesonderte Einladung der bereits zum Arbeitskreis registrierten Teilnehmer wird per Email erfolgen.&nbsp; ![](/samples/assets/Bild_Arbeitskreis.JPG)
+Die Sitzungen des Arbeitskreises sollen fortan im Rhythmus von zwei Monaten immer jeden zweiten Dienstag um 19.00 Uhr in einem ungraden Monat abgehalten werden. Die nächste Sitzung wurde für den 12.07.2016 eingeplant. Eine gesonderte Einladung der bereits zum Arbeitskreis registrierten Teilnehmer wird per Email erfolgen.&nbsp; ![](/uploads/dokumente//Bild_Arbeitskreis.JPG)
 
 Die ersten Eröffnungsreferate wurden gehalten durch:&nbsp;
 

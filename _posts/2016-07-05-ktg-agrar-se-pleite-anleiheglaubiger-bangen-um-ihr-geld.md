@@ -54,7 +54,7 @@ Die Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB haben eine große E
 
  
 
-Bei Interesse an unserer Anlegergemeinschaft füllen Sie bitte unseren [Fragebogen](/samples/content_entries/Fragebogen_KTG_Agrar_SE.pdf "Fragebogen KTG Agrar SE") aus, welchen wir für Sie zum Download bereit halten.
+Bei Interesse an unserer Anlegergemeinschaft füllen Sie bitte unseren [Fragebogen](/uploads/dokumente/Fragebogen_KTG_Agrar_SE.pdf "Fragebogen KTG Agrar SE") aus, welchen wir für Sie zum Download bereit halten.
 
  
 

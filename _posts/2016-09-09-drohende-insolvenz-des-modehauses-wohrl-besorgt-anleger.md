@@ -45,4 +45,4 @@ Sollten die Anleger ihre Gelder nicht zurückerhalten, wird ihnen dringend gerat
 
 Für eine kostenlose Erstberatung stehen die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB unter 030-921 000 40 oder per Email unter [info@advoadvice.de](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) gerne zur Verfügung.
 
-[Fragebogen](/samples/content_entries/Fragebogen_W_hrl.pdf "Fragebogen Wöhrl Anleihe") und [Anmeldeformular für Gläubigergemeinschaft](/samples/content_entries/Anmeldeformular_zur_Gesch_digtengemeinschaft_W_hrl.pdf "Anmeldeformular Wöhrl Anleihe") hier downloaden.
+[Fragebogen](/uploads/dokumente/Fragebogen_W_hrl.pdf "Fragebogen Wöhrl Anleihe") und [Anmeldeformular für Gläubigergemeinschaft](/uploads/dokumente/Anmeldeformular_zur_Gesch_digtengemeinschaft_W_hrl.pdf "Anmeldeformular Wöhrl Anleihe") hier downloaden.

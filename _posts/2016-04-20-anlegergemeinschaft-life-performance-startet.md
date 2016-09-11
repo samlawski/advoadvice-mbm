@@ -16,7 +16,7 @@ Hintergründe für Schadensersatzansprüche gegen die verantwortlich handelnde G
 
 Zudem muss natürlich geprüft werden, ob eine Falschberatung der Anleger erfolgt ist. Diese liegt dann vor, wenn Risiken der Kapitalanlage nicht aufgezeigt wurden. Zudem hätte der Berater / Vermittler auch die Notwendigkeit der Zulassung der Anlage nach dem Kreditwesengesetz (KWG) prüfen müssen. War diese fraglich, hätte das dem Kunden mitgeteilt werden müssen. Hier sind viele Kunden aus sicheren Anlagen in Lebensversicherungsverträgen in eine wirklich sehr unsichere Kapitalanlage geleitet worden, die auf jeden Fall ein Totalverlustrisiko hatte.&nbsp;
 
-Die Beraterhaftung muss daher in jedem Fall überprüft werden. Kunden sollten hierzu nicht ihren Berater direkt befragen, sondern die Beratungsleistung durch einen unabhängigen Rechtsexperten überprüfen lassen. Hierzu haben die Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB einen [Fragebogen Life Performance](/samples/content_entries/Fragebogen_Life_Performance.pdf "Fragebogen Life Performance") entwickelt.&nbsp;
+Die Beraterhaftung muss daher in jedem Fall überprüft werden. Kunden sollten hierzu nicht ihren Berater direkt befragen, sondern die Beratungsleistung durch einen unabhängigen Rechtsexperten überprüfen lassen. Hierzu haben die Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB einen [Fragebogen Life Performance](/uploads/dokumente/Fragebogen_Life_Performance.pdf "Fragebogen Life Performance") entwickelt.&nbsp;
 
 Oftmals deckt die Rechtsschutzversicherung die Kosten für eine Erstberatung oder für eine Inanspruchnahme der Berater / Vermittler. Eine Deckungsanfrage wird durch die Kanzlei gerne für die betroffenen Anleger übernommen.&nbsp;
 

@@ -10,7 +10,7 @@ Der Radiosender Antenne 1 berichtete am Mittwoch, den 13.04.2016 über Probleme 
 
 Das komplette Interview von Antenne 1 können Sie hier nachhören:
 
-- [Mitschnitt](/samples/assets/Mitschnitt_Namensdoppelgaenger.mp3 "Mitschnitt\_Namensdoppelga...")
+- [Mitschnitt](/uploads/dokumente//Mitschnitt_Namensdoppelgaenger.mp3 "Mitschnitt\_Namensdoppelga...")
 
 ![](http://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)
 

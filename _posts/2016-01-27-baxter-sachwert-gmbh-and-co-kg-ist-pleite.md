@@ -41,4 +41,4 @@ Die Anleger sollten ihre Darlehensverträge, welche sie mit der BAXTER Sachwert 
 Die Klärung dieser Fragen haben sowohl Auswirkungen auf die Forderungen im Rahmen des Insolvenzverfahrens als auch Auswirkungen auf die Inanspruchnahme der verantwortlich handelnden Personen.
 
 **Auch betroffen?**
-**[Fragebogen ausfüllen](/samples/content_entries/Fragebogen_Baxter.pdf)**
+**[Fragebogen ausfüllen](/uploads/dokumente/Fragebogen_Baxter.pdf)**
