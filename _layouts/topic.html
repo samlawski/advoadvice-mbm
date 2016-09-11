@@ -15,25 +15,6 @@ layout: default
           {{ content }}
         </div><!-- post.body -->
       </div>
-
-      <!-- <h1 class="editable padding-20">Blog-Artikel zum Thema:</h1>
-      <section id="blog" class="padding-20">
-        {% for post in paginator.posts %}
-          <article class="blog-post">
-            <h1 class="padding-20">
-              <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-            </h1>
-            <div class="padding-20">
-              {{post.content | truncatewords: 40}}<br><br>
-              <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
-            </div>
-            {% assign team_member_id = "/team_members/" | append: post.team_member %}
-            {% assign team_member = site.team_members | where: "id", team_member_id | first %}
-            <small>- {{post.date | date: "%d. %B %Y" }} :: {{team_member.name}}</small>
-          </article>
-        {% endfor %}
-      </section> -->
-
     </section>
 
     <!-- SIDEBAR -->
