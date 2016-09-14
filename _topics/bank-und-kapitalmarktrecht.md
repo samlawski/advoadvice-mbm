@@ -16,15 +16,21 @@ Das Bankrecht ist sehr umfangreich, da es die zahlreichen Rechtsbeziehungen zwis
 
 ##### Falschberatung bei geschlossenen Fonds (Schiffsfonds, Immobilienfonds, Filmfonds usw.)
 
-&nbsp;
+In den letzten Jahren, besonders vor der sog. Lehman-Krise, aber auch danach, wurde zahlreichen Bankkunden eine Investition in sog. geschlossene Fonds empfohlen. Hierzu z&auml;hlen vor allem Beteiligungen an Schiffsfonds, Immobilienfonds, Filmfonds und Leasingfonds.&nbsp;
+
+Hierbei muss die Bank durch ihren Berater auf die Risiken der Kapitalanlagen, die meist bis zum Totalverlustrisiko reichen, hinweisen. Tut sie dies nicht oder passt das Produkt nicht zum Anlagewunsch des Anlegers, liegt eine Falschberatung vor, die zu einem Anspruch auf R&uuml;ckabwicklung der Kapitalanlage f&uuml;hrt. Gleiches gilt auch, wenn die Bank Provisionen verschweigt, die hinter dem R&uuml;cken des Kunden von der Fondsgesellschaft an die Bank zur&uuml;ck flie&szlig;en, auch bekannt als Kick Backs oder Provisionsr&uuml;ckverg&uuml;tung.&nbsp;
+
+Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anleger gegen Banken und Sparkassen in Klagen auf R&uuml;ckabwicklung und Schadensersatz vertreten.&nbsp;
 
 ##### Fehler bei der Verm&ouml;gensverwaltung
 
-&nbsp;
+Anleger, die ein gr&ouml;&szlig;eres Verm&ouml;gen angesammelt haben, schlie&szlig;en oftmals mit einer Bank einen Vertrag zur Verwaltung eines gewissen Verm&ouml;gens ab. Diese T&auml;tigkeit der Bank bezeichnet man auch als Verm&ouml;gensverwaltung. Die
+
+Verst&ouml;&szlig;t die Bank gegen die im Verm&ouml;gensverwaltungsvertrag festgelegten Grunds&auml;tze und Vorgaben, macht sie sich ggf. schadensersatzpflichtig.&nbsp;
 
 ##### Swaps / Zinsdifferenzgesch&auml;fte / Fremdw&auml;hrungsdarlehen
 
-&nbsp;
+Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnelleren R&uuml;ckzahlung von Darlehen sog. Swap-Gesch&auml;fte, Fremdw&auml;hrungsdarlehen oder Zinsdifferenzgesch&auml;fte angeboten. Die hierzu ergangene Rechtsprechung ist umfangreich. Dr. Tintemann hat hier mehrere Anleger gegen verschiedene Banken vertreten und oftmals gute au&szlig;ergerichtliche Einigungen erzielen k&ouml;nnen. &nbsp;&nbsp;
 
 ##### Umfinanzierung / Umschuldung von Darlehen
 
