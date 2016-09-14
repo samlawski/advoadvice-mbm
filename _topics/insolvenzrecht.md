@@ -3,13 +3,7 @@ featured: true
 ---
 
 
-### Insolvenzrecht - AdvoAdvice mbB<!--[if lt IE 9]>
-	<script src="http://tintemann.de/wp-content/themes/twentythirteen/js/html5.js"></script>
-	<![endif]--><!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ --><!-- / Yoast SEO plugin. --><!--[if lt IE 9]>
-<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://tintemann.de/wp-content/themes/twentythirteen/css/ie.css' type='text/css' media='all' />
-<![endif]--><!--StartFragment-->
-
-### Insolvenzrecht und Verbraucherinsolvenz:
+### Regelinsolvenz und Verbraucherinsolvenz:
 
 Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.&nbsp;
 
@@ -263,6 +257,4 @@ Zehlendorf = Amtsgericht Berlin-Sch&ouml;neberg
 
 &nbsp;
 
-##### Ansprechpartner: Rechtsanwalt Dr. Tintemann
-
-<!--EndFragment-->
+##### Ansprechpartner: Rechtsanwalt Dr. Tintemann<!--EndFragment-->
