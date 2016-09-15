@@ -33,6 +33,4 @@ In &sect; 28 b BDSG ist nun auch das sog. Scoringverfahren gesetzlich eindeutig 
 
 Es ist daher notwendig, einen Negativeintrag anwaltlich &uuml;berpr&uuml;fen zu lassen, wenn Sie diesen vorzeitig zur L&ouml;schung bringen m&ouml;chten. Da die einmeldenden Stellen oftmals Fehler machen, kann dieses zur vorzeitigen L&ouml;schung und zur Verpflichtung der einmeldenden Stelle f&uuml;hren, diesen zu widerrufen. Anspruchsgegner ist meist nicht die Schufa Holding AG, sondern der ehemalige Vertragspartner, der die Meldung vorgenommen hat oder ein von diesem beauftragtes Inkasso-Unternehmen
 
-Ansprechpartner: Rechtsanwalt Tintemann
-
-<!--EndFragment-->
+##### Ansprechpartner: Rechtsanwalt Tintemann<!--EndFragment-->
