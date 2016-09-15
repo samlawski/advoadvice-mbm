@@ -24,7 +24,7 @@ Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anl
 
 #### Fehler bei der Verm&ouml;gensverwaltung
 
-Anleger, die ein gr&ouml;&szlig;eres Verm&ouml;gen angesammelt haben, schlie&szlig;en oftmals mit einer Bank einen Vertrag zur Verwaltung eines gewissen Verm&ouml;gens ab. Diese T&auml;tigkeit der Bank bezeichnet man auch als Verm&ouml;gensverwaltung. Die
+Anleger, die ein gr&ouml;&szlig;eres Verm&ouml;gen angesammelt haben, schlie&szlig;en oftmals mit einer Bank einen Vertrag zur Verwaltung eines gewissen Verm&ouml;gens ab. Diese T&auml;tigkeit der Bank bezeichnet man auch als Verm&ouml;gensverwaltung.
 
 Verst&ouml;&szlig;t die Bank gegen die im Verm&ouml;gensverwaltungsvertrag festgelegten Grunds&auml;tze und Vorgaben, macht sie sich ggf. schadensersatzpflichtig.&nbsp;
 
