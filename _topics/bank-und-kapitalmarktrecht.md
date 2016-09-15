@@ -48,6 +48,10 @@ Das Kapitalmarktrecht umfasst den gesamten Kapitalmarkt, der von b&ouml;rsennoti
 
 &nbsp;
 
+#### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
+
+&nbsp;
+
 #### gescheiterte Lebensversicherungsaufk&auml;ufer&nbsp;
 
 In den letzten Jahren haben zahlreiche Anbieter Lebensversicherungen sowie Rentenversicherung und Bausparvertr&auml;ge aufgekauft. Diese Vertr&auml;ge wurden meist gek&uuml;ndigt. Dem Kunden wurde nach einer bestimmten Laufzeit eine wesentlich &uuml;ber dem R&uuml;ckkaufswert liegende Zahlung in Aussicht gestellt.&nbsp;
