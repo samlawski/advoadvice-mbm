@@ -50,6 +50,8 @@ Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnel
 
 Das Kapitalmarktrecht umfasst den gesamten Kapitalmarkt, der von b&ouml;rsennotierten Kapitalanlagen bis hin zu kleinen Start-Up Unternehmen, Crowdfunding und vor allem auch immer wieder den sog. grauen Kapitalmarkt.
 
+&nbsp;
+
 ### **Fondsbeteiligungen (Leasingfonds / Schiffsfonds / Immobilienfonds)**
 
 In den letzten Jahren haben Banken, Vermittlungsfirmen und Finanzberater vor allem Kapitalanlagen in sog. geschlossene Fonds u.a. auch als Altersvorsorge oder als Steuersparmodelle f&uuml;r &Auml;rzte, Apotheker und Unternehmer empfohlen. Auf Risiken wie z.B. Totalverlust, Nachhaftung, aber auch auf Provisionsr&uuml;ckverg&uuml;tung (Kick-Back) und verdeckte Innenprovisionen wurde oftmals nicht hingewiesen.
@@ -67,6 +69,8 @@ Zu unterscheiden ist zwischen der Prospekthaftung im engeren Sinne, die eine Haf
 Die Prospekthaftung ist immer dann denkbar, wenn bei dem Vertrieb der Kapitalanlage ein Wertpapierprospekt oder ein Verkaufsprospekt (fr&uuml;her auch Emissionsprospekt genannt) verwendet wurde. Sie kommt auch denn in Frage, wenn kein Prospekt verwendet wurde, aber h&auml;tte verwendet werden m&uuml;ssen (Haftung f&uuml;r fehlenden Prospekt).
 
 Die M&ouml;glichkeiten f&uuml;r Prospektfehler sind so vielf&auml;ltig wie die Kapitalanlagen selbst und bed&uuml;rfen einer anwaltlichen Pr&uuml;fung, da sie f&uuml;r den Laien in der Regel nicht erkennbar sind.
+
+&nbsp;
 
 ### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
 
@@ -114,6 +118,8 @@ Unterl&auml;sst ein Unternehmen eine Ad-Hoc Mitteilung oder gibt diese zu sp&aum
 
 Das Bankaufsichtsrecht ist ein Spezialgebiet von AdvoAdvice. Zu Fragen der Haftung der Kapitalmarktaufsicht hat Dr. Tintemann seine Promotion an der Freien Universit&auml;t Berlin verfasst. Wesentliche Schwerpunkte sind hier:&nbsp;
 
+&nbsp;
+
 ### Beratung zur Erlaubnispflicht von Kapitalanlagen nach &sect; 32 KWG
 
 Das Kreditwesengesetz regelt u.a., dass f&uuml;r das Betreiben von Bankgesch&auml;ften und Finanzdienstleistungen eine Erlaubnis nach &sect; 32 KWG notwendig ist. Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) ist die W&auml;chterin &uuml;ber die Einhaltung des KWG. Sie erteilt Erlaubnisse und untersagt Unternehmen, die erlaubnispflichtige Gesch&auml;fte ohne Erlaubnis betreiben, den Gesch&auml;ftsbetrieb und ordnet die Abwicklung an.
@@ -131,6 +137,8 @@ Die Erstellung von Wertpapierprospekten und Verm&ouml;gensverkaufsprospekten ist
 Dr. Tintemann hat in den letzten Jahren mehre Unternehmen bei Fragen rund um die inhaltlichen und rechtlichen Anforderungen von Prospekten und in Bezug auf das Billigungsverfahren bei der BaFin beraten. Er gilt insbesondere als Experte f&uuml;r Fragen rund im Wertpapierprospekte f&uuml;r US-amerikanische Aktiengesellschaften (US-Corporation, Inc.), welche ihre Aktien auch auf de deutschen Markt anbieten m&ouml;chten.
 
 Auch in Bezug auf Anleihen, Anleihebedingungen und entsprechende Wertpapierprospekte hat Dr. Tintemann bereits Genossenschaften und andere Anbieter rechtliche beraten und diese bei dem Billigungsprozess juristisch unterst&uuml;tzt.
+
+&nbsp;
 
 ### Vertretung in Verfahren insbesondere bei Abwicklungsverf&uuml;gungen gegen die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht - BaFin&nbsp;
 
