@@ -17,7 +17,7 @@ Sollte dies nicht zum Erfolg f&uuml;hren, bleibt als M&ouml;glichkeit das Insolv
 
 In Berlin sind die folgenden Gerichte f&uuml;r die entsprechenden Bezirke bei Insolvenzantragstellung zust&auml;ndig:
 
-A
+**A**
 
 Adlershof = Amtsgericht Berlin-K&ouml;penick
 
@@ -27,7 +27,7 @@ Alt-Hohensch&ouml;nhausen = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
 Alt-Treptow = Amtsgericht Berlin-K&ouml;penick
 
-B
+**B**
 
 Baumschulenweg = Amtsgericht Berlin-K&ouml;penick
 
@@ -45,7 +45,7 @@ Buch = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
 
 Buckow = Amtsgericht Berlin-Neuk&ouml;lln
 
-C
+**C**
 
 Charlottenburg-Nord = Amtsgericht Berlin-Tiergarten
 
@@ -53,11 +53,11 @@ Charlottenburg S&uuml;dost: Savignyplatz = Amtsgericht Berlin-Tiergarten
 
 Charlottenburg S&uuml;dwest: Karl-August-Platz = Amtsgericht Berlin-Charlottenburg
 
-D
+**D**
 
 Dahlem = Amtsgericht Berlin-Charlottenburg
 
-F
+**F**
 
 Falkenberg = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
@@ -77,7 +77,7 @@ Friedrichshain: Boxhagener Kiez = Amtsgericht Berlin-Lichtenberg
 
 Frohnau = Amtsgericht Berlin-Wedding
 
-G
+**G**
 
 Gatow = Amtsgericht Berlin-Spandau
 
@@ -89,7 +89,7 @@ Gr&uuml;nau = Amtsgericht Berlin-K&ouml;penick
 
 Grunewald = Amtsgericht Berlin-Charlottenburg
 
-H
+**H**
 
 Hakenfelde = Amtsgericht Berlin-Spandau
 
@@ -107,11 +107,11 @@ Hellersdorf = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
 Hermsdorf = Amtsgericht Berlin-Wedding
 
-J
+**J**
 
 Johannisthal = Amtsgericht Berlin-K&ouml;penick
 
-K
+**K**
 
 Karlshorst = Amtsgericht Berlin-Lichtenberg
 
@@ -127,7 +127,7 @@ K&ouml;penick = AmtsgerichtBerlin-K&ouml;penick
 
 Kreuzberg = Amtsgericht Tempelhof/Kreuzberg
 
-L
+**L**
 
 Lankwitz = Amtsgericht Berlin-Sch&ouml;neberg
 
@@ -139,7 +139,7 @@ Lichterfelde = Amtsgericht Berlin-Sch&ouml;neberg
 
 L&uuml;bars = Amtsgericht Berlin-Wedding
 
-M
+**M**
 
 Mahlsdorf = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
@@ -159,7 +159,7 @@ Moabit = AmtsgerichtBerlin-Tiergarten
 
 M&uuml;ggelheim = Amtsgericht Berlin-K&ouml;penick
 
-N
+**N**
 
 Neu-Hohensch&ouml;nhausen = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
@@ -171,11 +171,11 @@ Niedersch&ouml;nhausen = Amtsgericht Berlin-Wedding
 
 Nikolassee = Amtsgericht Berlin-Sch&ouml;neberg
 
-O
+**O**
 
 Obersch&ouml;neweide= Amtsgericht Berlin-K&ouml;penick
 
-P
+**P**
 
 Pankow= Amtsgericht Berlin-Pankow/Wei&szlig;ensee
 
@@ -187,7 +187,7 @@ Prenzlauer Berg: 10405 10407 10409 10435 10437 10439 = Amtsgericht Berlin-Mitte
 
 Prenzlauer Berg: Goethestr. 2-8 und Baumbachstr. 17-999 = Amtsgericht Pankow/Wei&szlig;ensee
 
-R
+**R**
 
 Rahnsdorf = Amtsgericht Berlin-K&ouml;penick
 
@@ -199,7 +199,7 @@ Rudow = Amtsgericht Berlin-Neuk&ouml;lln
 
 Rummelsburg = Amtsgericht Berlin-Lichtenberg
 
-S
+**S**
 
 Schmargendorf = Amtsgericht Berlin-Charlottenburg
 
@@ -219,7 +219,7 @@ Stadtrandsiedlung Malchow = Amtsgericht Berlin-Hohensch&ouml;nhausen
 
 Steglitz = Amtsgericht Berlin-Sch&ouml;neberg
 
-T
+**T**
 
 Tegel = Amtsgericht Wedding – teilw. AG Spandau
 
@@ -227,7 +227,7 @@ Tempelhof = Amtsgericht Berlin-Tempelhof/Kreuzberg
 
 Tiergarten = Amtsgericht Berlin-Tiergarten
 
-W
+**W**
 
 Waidmannslust = Amtsgericht Berlin-Wedding
 
@@ -251,7 +251,7 @@ Wilmersdorf teilweise = Amtsgericht Berlin-Sch&ouml;neberg
 
 Wittenau = Amtsgericht Charlottenburg
 
-Z
+**Z**
 
 Zehlendorf = Amtsgericht Berlin-Sch&ouml;neberg
 
