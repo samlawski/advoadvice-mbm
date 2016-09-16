@@ -10,9 +10,13 @@ Das Bank- und Kapitalmarktrecht ist der Hauptschwerpunkt der Kanzlei AdvoAdvice 
 
 Das Bankrecht ist sehr umfangreich, da es die zahlreichen Rechtsbeziehungen zwischen Banken sowie Sparkassen und deren Kunden beinhaltet. Hier ist daher eine Spezialisierung auf einzelne Fallgruppen unabdingbar. Die Experten der Kanzlei AdvoAdvice sind hier vor allem auf folgende Fallgruppen spezialisiert:
 
+&nbsp;
+
 #### Wideruf von Darlehenvertr&auml;gen (sog. Widerrufs-Joker)
 
 &nbsp;
+
+#### &nbsp;
 
 #### Falschberatung bei geschlossenen Fonds (Schiffsfonds, Immobilienfonds, Filmfonds usw.)
 
@@ -22,15 +26,21 @@ Hierbei muss die Bank durch ihren Berater auf die Risiken der Kapitalanlagen, di
 
 Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anleger gegen Banken und Sparkassen in Klagen auf R&uuml;ckabwicklung und Schadensersatz vertreten.&nbsp;
 
+&nbsp;
+
 #### Fehler bei der Verm&ouml;gensverwaltung
 
 Anleger, die ein gr&ouml;&szlig;eres Verm&ouml;gen angesammelt haben, schlie&szlig;en oftmals mit einer Bank einen Vertrag zur Verwaltung eines gewissen Verm&ouml;gens ab. Diese T&auml;tigkeit der Bank bezeichnet man auch als Verm&ouml;gensverwaltung.
 
 Verst&ouml;&szlig;t die Bank gegen die im Verm&ouml;gensverwaltungsvertrag festgelegten Grunds&auml;tze und Vorgaben, macht sie sich ggf. schadensersatzpflichtig.&nbsp;
 
+&nbsp;
+
 #### Swaps / Zinsdifferenzgesch&auml;fte / Fremdw&auml;hrungsdarlehen
 
 Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnelleren R&uuml;ckzahlung von Darlehen sog. Swap-Gesch&auml;fte, Fremdw&auml;hrungsdarlehen oder Zinsdifferenzgesch&auml;fte angeboten. Die hierzu ergangene Rechtsprechung ist umfangreich. Dr. Tintemann hat hier mehrere Anleger gegen verschiedene Banken vertreten und oftmals gute au&szlig;ergerichtliche Einigungen erzielen k&ouml;nnen. &nbsp;&nbsp;
+
+&nbsp;
 
 #### Umfinanzierung / Umschuldung von Darlehen
 
@@ -42,11 +52,19 @@ Das Kapitalmarktrecht umfasst den gesamten Kapitalmarkt, der von b&ouml;rsennoti
 
 #### **Fondsbeteiligungen (Leasingfonds / Schiffsfonds / Immobilienfonds)**
 
+In den letzten Jahren haben Banken, Vermittlungsfirmen und Finanzberater vor allem Kapitalanlagen in sog. geschlossene Fonds u.a. auch als Altersvorsorge oder als Steuersparmodelle f&uuml;r &Auml;rzte, Apotheker und Unternehmer empfohlen. Auf Risiken wie z.B. Totalverlust, Nachhaftung, aber auch auf Provisionsr&uuml;ckverg&uuml;tung (Kick-Back) und verdeckte Innenprovisionen wurde oftmals nicht hingewiesen.
+
+Schiffsfonds, Leasefonds, Immobilienfonds u.a. Produkte haben sich oft nicht so entwickelt, wie die Anleger und Berater dies erwartet h&auml;tten. Es gilt somit die Frage zu kl&auml;ren, ob eine R&uuml;ckabwicklung m&ouml;glich ist oder ein Widerruf hilft, Weiterzahlungsverpflichtungen f&uuml;r die Zukunft zu stoppen. Oft haften auch Berater, Banken, Hinterm&auml;nner oder Initiatoren sowie Treuh&auml;nder und Prospektersteller. &nbsp;&nbsp;
+
 &nbsp;
 
 #### Prospekthaftung
 
-&nbsp;
+Prospekthaftung ist ein viel bem&uuml;hter Begriff im Internet, wenn es um die Geltendmachung von Schadensersatzanspr&uuml;chen bei Kapitalanlagen geht.&nbsp;
+
+Zu unterscheiden ist zwischen der Prospekthaftung im engeren Sinne, die eine Haftung f&uuml;r den Prospektersteller und Verwender f&uuml;hrt. Wichtig als die Prospekthaftung im engeren Sinne ist noch die Prospekthaftung im weiteren Sinne, welche keiner Inanspruchnahme besonderen pers&ouml;nlichen Vertrauens bedarf.
+
+Die Prospekthaftung ist immer dann denkbar, wenn bei dem Vertrieb der Kapitalanlage ein Wertpapierprospekt oder ein Verkaufsprospekt (fr&uuml;her auch Emissionsprospekt genannt) verwendet wurde. Sie kommt auch denn in Frage, wenn kein Prospekt verwendet wurde, aber h&auml;tte verwendet werden m&uuml;ssen (Haftung f&uuml;r fehlenden Prospekt).
 
 #### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
 
