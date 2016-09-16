@@ -46,6 +46,8 @@ Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnel
 
 &nbsp;
 
+&nbsp;
+
 ## Kapitalmarktrecht
 
 Das Kapitalmarktrecht umfasst den gesamten Kapitalmarkt, der von b&ouml;rsennotierten Kapitalanlagen bis hin zu kleinen Start-Up Unternehmen, Crowdfunding und vor allem auch immer wieder den sog. grauen Kapitalmarkt.
