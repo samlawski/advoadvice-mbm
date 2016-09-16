@@ -13,6 +13,8 @@ Zudem beraten wir Anleger und Versicherungsnehmer zu der Frage, ob ein Lebensver
 
 Ansprechpartner ist hier Rechtsanwalt Dr. Tintemann mit seinem Team, welches in der Vergangen zur o.g. Entscheidung des EuGH ma&szlig;geblich beigetragen hat.&nbsp;
 
+&nbsp;
+
 ### Schwere Krankheiten Versicherung (Dread Disease)
 
 Im Bereich des Versicherungsrechts besch&auml;ftigt sich die Kanzlei auch mit den so genannten Dread-Disease-Versicherungen. Diese Versicherungen sind eine Alternative zur Berufsunf&auml;higkeits- bzw. Erwerbsunf&auml;higkeitsversicherung und solle eine finanzielle Absicherung f&uuml;r den Fall bieten, dass eine schwere Erkrankung eintritt.
@@ -26,6 +28,8 @@ Aber was ist, wenn der Versicherer trotz Vorliegen der Erkrankung und Ablauf der
 Hier beraten wir Versicherungsnehmer zu der Frage, ob die Versicherung die Leistung verweigern kann und unterst&uuml;tzen die Versicherungsnehmer bei der Durchsetzung ihrer Interessen gegen&uuml;ber dem Versicherungsunternehmen. Dabei richtet sich das Augenmerk auf die dem Vertrag zugrunde liegenden Allgemeinen Versicherungsbedingungen, in welchen geregelt ist, ob der Versicherer von seiner Leistungspflicht befreit ist. Nach unseren Erfahrungen verweisen die Versicherer nur zu gern auf das Vorliegen von Ausschlussgr&uuml;nden, um so ihre Leistungsverpflichtung in Abrede zu stellen. Die Argumentation der Versicherer h&auml;lt aber nicht immer einer juristischen &Uuml;berpr&uuml;fung stand.
 
 Ansprechpartner ist hier Rechtsanwalt Dr. Tintemann mit seinem Team, welches in der Vergangenheit schon betroffenen Versicherungsnehmern zielf&uuml;hrend helfen konnte, wodurch diese zu ihrer berechtigten Geldleistung gekommen sind.&nbsp;
+
+&nbsp;
 
 ### Abwicklung von Wassersch&auml;den und Brandsch&auml;den
 
