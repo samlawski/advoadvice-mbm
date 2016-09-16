@@ -94,11 +94,19 @@ Die fehlerhafte Beratung muss der Anleger in einem Gerichtsprozess beweisen. Hie
 
 &nbsp;
 
-#### Squeeze Out Verfahren
+#### Squeeze Out und Spruchverfahren
+
+Wenn es einem Investor gelingt, einen Aktienanteil einer Aktiengesellschaft von mehr als 95 % zu erwerben, kann er einen sog. Squeeze Out Beschluss herbeif&uuml;hren. Durch den Squezze Out werden die restlichen 5 % der Aktion&auml;re aus dem Unternehmen herausgedr&auml;ngt. Die Aktion&auml;re erhalten von demjenigen, der den Ausschluss herbeif&uuml;hrt, eine Abfindung. Das Gesetz sieht hier nur eine Abfindung in Geld (sog. Barabfindung) und nicht in Anteilen oder Aktien anderer Unternehmen vor.
+
+Sind die ausgeschlossenen Aktion&auml;re mit der H&ouml;he der Barabfindung nicht einverstanden, was regelm&auml;&szlig;ig der Fall ist, kann sich an den Squezze Out, der auch mit einer Anfechtungsklage bek&auml;mpft werden kann, ein sog. Spruchverfahren anschlie&szlig;en, in welchem die ausgeschlossenen Aktion&auml;re um eine Erh&ouml;hung ihrer Barabfindung k&auml;mpfen. Die Abfindung wird hierbei in einem extra hierf&uuml;r geschaffenen Verfahren durch das Gericht &uuml;berpr&uuml;ft.
 
 &nbsp;
 
 #### Unterlassene Ad-Hoc Mitteilungen
+
+Unterlassene Ad-Hoc Mitteilungen sind momentan in aller Munde. Gerade bei gro&szlig;en b&ouml;rsennotierten Unternehmen, wie z.B. der Telekom oder auch der Volkswagen AG, spielen die Ad-Hoc Mitteilungen eine wichtige Rolle.
+
+Unterl&auml;sst ein Unternehmen eine Ad-Hoc Mitteilung oder gibt diese zu sp&auml;t heraus, k&ouml;nnen hiervon betroffene Aktion&auml;re Schadensersatz f&uuml;r hierdurch eingetretene Verluste verlangen. Oftmals f&uuml;hren unterlassene oder versp&auml;tete Ad-Hoc Mitteilungen zu Verfahren nach dem Gesetz &uuml;ber Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (KapMuG). Hierbei werden sog. Musterklagen eingereicht, um in dem KapMuG-Verfahren kl&auml;ren zu lassen, ob ein Versto&szlig; gegen die Ad-Hoc Pflicht oder auch ein Prospektfehler (s.o.) vorliegt.
 
 &nbsp;
 
