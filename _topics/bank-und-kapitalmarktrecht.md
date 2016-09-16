@@ -66,6 +66,8 @@ Zu unterscheiden ist zwischen der Prospekthaftung im engeren Sinne, die eine Haf
 
 Die Prospekthaftung ist immer dann denkbar, wenn bei dem Vertrieb der Kapitalanlage ein Wertpapierprospekt oder ein Verkaufsprospekt (fr&uuml;her auch Emissionsprospekt genannt) verwendet wurde. Sie kommt auch denn in Frage, wenn kein Prospekt verwendet wurde, aber h&auml;tte verwendet werden m&uuml;ssen (Haftung f&uuml;r fehlenden Prospekt).
 
+Die M&ouml;glichkeiten f&uuml;r Prospektfehler sind so vielf&auml;ltig wie die Kapitalanlagen selbst und bed&uuml;rfen einer anwaltlichen Pr&uuml;fung, da sie f&uuml;r den Laien in der Regel nicht erkennbar sind.
+
 #### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
 
 &nbsp;
