@@ -82,7 +82,15 @@ Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anl
 
 SAM Management Group AG, Thormann Capital GmbH, Pecus, Dr. Mayer und Cie. GmbH, GFI, EFI, DIG AG usw.
 
+&nbsp;
+
 #### Falschberatung durch Anlageberater und Versicherungsmakler
+
+Der Finanzberater oder Versicherungsmakler ist oftmals die Vertrauensperson des Kapitalanlegers bis zu dem Zeitpunkt, wenn die Kapitalanlage nicht das h&auml;lt, was einst versprochen wurde und sich defizit&auml;r entwickelt.
+
+Viele Kunden haben hier Bedenken, sich gegen ihren Berater zu wenden und diesen in Anspruch zu nehmen. Dieser ist auch oft das vermeintlich schw&auml;chste Glied in der finanziellen Kette. Dennoch gibt es oft keine andere M&ouml;glichkeit um verlorenes Geld wieder zur&uuml;ck zu erlangen.
+
+Die fehlerhafte Beratung muss der Anleger in einem Gerichtsprozess beweisen. Hierzu dienen oft Zeugenaussagen oder Beratungsdokumente, mit der die Beratungsfehler bewiesen werden.
 
 &nbsp;
 
