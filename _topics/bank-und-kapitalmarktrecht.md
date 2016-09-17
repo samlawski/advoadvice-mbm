@@ -58,13 +58,23 @@ Die M&ouml;glichkeiten f&uuml;r Prospektfehler sind so vielf&auml;ltig wie die K
 
 ### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
 
-### &nbsp;
+Das System „Steuersparmodell Eigentumswohnungen“ ist ebenso einfach wie genial. Die Verlockung ist in der Regel gro&szlig;. Denn die Vermittler solcher Eigentumswohnungen preisen ihre Immobilien in der Regel als einmalige Gelegenheit zum Steuersparen an. Gleichzeitig suggerieren die Vermittler, dass es sich um eine hervorragende M&ouml;glichkeit handelt, f&uuml;r das Alter vorzusorgen, weil, wie jeder wei&szlig;, eine Immobilie eine hervorragende Geldanlage darstellt. Als wirksamste Verkaufsargumente gelten in der Regel der scheinbar g&uuml;nstige Preis, der sich durch die Einnahmen aus Vermietung und durch Steuerr&uuml;ckerstattungen ohne weiteres amortisiert, sowie die Wertsteigerung der Immobilie.
 
-### gescheiterte Lebensversicherungsaufk&auml;ufer&nbsp;
+Diese Hauptargumente versuchen die Vermittler von Eigentumswohnungen den potentiellen Anlegern durch immer dasselbe Berechnungsbeispiel schmackhaft zu machen. H&auml;ufig bzw. nie erw&auml;hnt wird dabei, dass die Lage bzw. der Zustand der Immobilien weder f&uuml;r eine gute Vermietbarkeit noch f&uuml;r eine langfristige Wertsteigerung sprechen. Hinzukommt kommt h&auml;ufig der viel zu hohe Preis und eine falsche Berechnung der Steuerverg&uuml;nstigungen. Aus diesem Grunde hat sich auch der Begriff Schrottimmobilie durchgesetzt.
+
+Unter diesen Begriff fallen kombinierte Vertr&auml;ge, in denen Anlegern durch einen Strukturvertrieb vermietete Eigentumswohnungen angeboten werden. Durch die Einschaltung eines Strukturvertriebs erh&ouml;ht sich der Kaufpreis zudem erheblich durch eine Vielzahl von Innenprovisionen gegen&uuml;ber dem tats&auml;chlich angemessenen Kaufpreis. Die Anlage als Altersvorsorge ist mithin kaum haltbar. Nicht selten vergessen die Vermittler auch &uuml;ber die weiteren Pflichten aus dem Eigentum aufzukl&auml;ren und realistische Finanzierungen in ihre &Uuml;berlegungen mit einzubeziehen.
+
+Im ung&uuml;nstigsten Fall hat der Anleger daher weniger als zwei Tage Bedenkzeit, um sich danach „gl&uuml;cklicher“ Eigent&uuml;mer bzw. gebundener K&auml;ufer einer Wohnung nennen zu k&ouml;nnen.
+
+Die erworbenen Wohnung gesehen haben dabei die wenigsten und ein „wundersch&ouml;nes“ Darlehen gibt es vom Vermittler gleich mit dazu. Dieses kann dann &uuml;ber Jahrzehnte zur&uuml;ckgezahlt werden. Alles aus einer Hand.
+
+Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Klevenhagen ist seit vielen Jahren Experte f&uuml;r alle Fragen bez&uuml;glich solcher Anlagemodelle. Denn: Erst nachdem die Eigentumswohnung erworben wurde und meist das erste bzw. zweite Jahr verstrichen ist, stellen die meisten Anleger fest, dass die ihnen gemachten Versprechungen in keinster Weise eingetroffen sind. Die Finanzierung der fremdgenutzten und fremdfinanzierten Eigentumswohnung l&auml;sst sich nicht mehr aufbringen. An diesem Punkt kann jedem betroffenen Anleger nur dringendst empfohlen werden, anwaltlichen Rat zu suchen. Denn die M&ouml;glichkeit f&uuml;r Anleger, denen Schrottimmobilien verkauft wurden und die nun die R&uuml;ckabwicklung suchen, hat sich stetig verbessert. Eine genaue rechtliche Analyse des Einzelfalls ist bei AdvoAdvice selbstverst&auml;ndlich. Denn nur so k&ouml;nnen wir gemeinsam mit Ihnen den besten Weg finden, Ihnen wirtschaftlich sinnvoll zu helfen. Nicht immer ist ein m&ouml;glicherweise langj&auml;hriger Gerichtsprozess die richtige L&ouml;sung. H&auml;ufig gibt es au&szlig;ergerichtliche L&ouml;sungsm&ouml;glichkeiten, die schneller zum Ziel f&uuml;hren.
+
+### Gescheiterte Lebensversicherungsaufk&auml;ufer&nbsp;
 
 In den letzten Jahren haben zahlreiche Anbieter Lebensversicherungen sowie Rentenversicherung und Bausparvertr&auml;ge aufgekauft. Diese Vertr&auml;ge wurden meist gek&uuml;ndigt. Dem Kunden wurde nach einer bestimmten Laufzeit eine wesentlich &uuml;ber dem R&uuml;ckkaufswert liegende Zahlung in Aussicht gestellt.&nbsp;
 
-Diese Modelle hat die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht zwischenzeitig oftmals als erlaubnispflichtiges Einlagengesch&auml;ft bewertet und den Unternehmen die Abwicklung der Gesch&auml;fte aufgegeben. Hier stellt sich dann die Frage nach der Haftung von Beratern, Initiatoren, Hinterm&auml;nnern, Gesch&auml;ftsf&uuml;hrern bzw. Vorst&auml;nden sowie auch von Rechtsanw&auml;lten, die massenhaft Versicherungsvertr&auml;ge gek&uuml;ndigt und Gelder weitergeleitet haben.&nbsp;
+Diese Modelle hat die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht zwischenzeitig oftmals als erlaubnispflichtiges Einlagengesch&auml;ft bewertet und den Unternehmen die Abwicklung der Gesch&auml;fte aufgegeben. Hier stellt sich dann die Frage nach der Haftung von Beratern, Initiatoren, Hinterm&auml;nnern, Gesch&auml;ftsf&uuml;hrern bzw. Vorst&auml;nden sowie auch von Rechtsanw&auml;lten, die massenhaft Versicherugsvertr&auml;ge gek&uuml;ndigt und Gelder weitergeleitet haben.&nbsp;
 
 Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anleger vertreten, die ihr Geld bei folgenden Gesellschaften angelegt hatten:
 
