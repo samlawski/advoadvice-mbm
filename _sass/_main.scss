@@ -63,6 +63,16 @@ h1, h2, h3, h4, h5 {
   background-color: #DEEBFF;
 }
 
+@media (max-width: 767px) {
+  .cta, .cta:visited, .cta:link {
+    font-size: 1.1em;
+  }
+  .btn-second {
+    padding: 6px 6px;
+    font-size: 1em;
+  }
+}
+
 
 /* ====== Specific styling ======== */
 #notification {
@@ -94,6 +104,11 @@ h1, h2, h3, h4, h5 {
 /* For ScrollMagic Scene */
 .nav-spacer {
   height: 60px;
+}
+@media (max-width: 767px) {
+  .nav-spacer {
+    height: 80px;
+  }
 }
 
 .navbar-logo {
@@ -136,7 +151,6 @@ h1, h2, h3, h4, h5 {
 }
 
 @media (max-width: 767px) {
-
   .title-img {
     padding: 70px 0;
   }
@@ -235,6 +249,15 @@ a.label-default, a:link.label-default, a:hover.label-default {
 }
 
 @media (max-width: 767px) {
+  h1 {
+    font-size: 1.5em;
+  }
+  .team-box {
+    margin: 0;
+  }
+  #blog ul {
+    padding-left: 0;
+  }
   .blog-post h1 {
     font-size: 1.5em;
   }
