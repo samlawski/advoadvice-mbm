@@ -10,13 +10,9 @@ Das Bank- und Kapitalmarktrecht ist der Hauptschwerpunkt der Kanzlei AdvoAdvice 
 
 Das Bankrecht ist sehr umfangreich, da es die zahlreichen Rechtsbeziehungen zwischen Banken sowie Sparkassen und deren Kunden beinhaltet. Hier ist daher eine Spezialisierung auf einzelne Fallgruppen unabdingbar. Die Experten der Kanzlei AdvoAdvice sind hier vor allem auf folgende Fallgruppen spezialisiert:
 
-&nbsp;
-
 ### Wideruf von Darlehenvertr&auml;gen (sog. Widerrufs-Joker)
 
-&nbsp;
-
-#### &nbsp;
+Bei problematischen oder teuren Immobiliendarlehen kann die eigene oder unternehmerische Wirtschaftslage schnell in eine existenzgef&auml;hrdende Schieflage geraten. Nicht nachvollziehbare Vorf&auml;lligkeitsentsch&auml;digungen erdr&uuml;cken Ihren finanziellen Spielraum. Kreative, durchsetzbare L&ouml;sungsvorschl&auml;ge m&uuml;ssen erarbeitet werden um rechtssicher eine dauerhafte Zukunftsperspektive zu schaffen. Der so genannte Widerrufsjoker kann Ihnen helfen, wenn die in Ihrem Darlehensvertrag enthaltene Widerrufserkl&auml;rung fehlerhaft ist. Ein Vielzahl von Gerichtsentscheidungen aller Instanzen hat dabei den Darlehensnehmern recht gegeben und Ihnen die M&ouml;glichkeit verschafft, auch Ihren Darlehensvertrag mit guten Chancen auf etwaige Fehler zu pr&uuml;fen. Eine fehlerhafte Widerrufserkl&auml;rung erlaubt auch noch Jahre nach Abschluss der Vertr&auml;ge eine Aufl&ouml;sung des Vertrages. Dabei wird die ausgezahlte Darlehenssumme ohne Anfall einer Vorf&auml;lligkeitsentsch&auml;digung mit den bereits gezahlten Darlehensraten inklusive Zinsen verrechnet. Aufgrund der derzeit herrschenden historischen Niedrigzinsphase kann dann zur Schuldentilgung h&auml;ufig ein weitaus g&uuml;nstigerer Kredit aufgenommen werden oder der Kredit komplett mit Eigenmitteln abgel&ouml;st werden. Die juristischen Hintergr&uuml;nde sind wegen der Vielzahl der von Banken verwendeten unterschiedlichen Formulierungen sehr komplex und die Rechtsprechung ist uferlos. Viele Fallen lauern. Wir umschiffen gemeinsam mit Ihnen die Untiefen dieses Rechtsgebietes und helfen Ihnen, Ihre individuellen Ziele zu verwirklichen.
 
 ### Falschberatung bei geschlossenen Fonds (Schiffsfonds, Immobilienfonds, Filmfonds usw.)
 
@@ -26,15 +22,11 @@ Hierbei muss die Bank durch ihren Berater auf die Risiken der Kapitalanlagen, di
 
 Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anleger gegen Banken und Sparkassen in Klagen auf R&uuml;ckabwicklung und Schadensersatz vertreten.&nbsp;
 
-&nbsp;
-
 ### Fehler bei der Verm&ouml;gensverwaltung
 
 Anleger, die ein gr&ouml;&szlig;eres Verm&ouml;gen angesammelt haben, schlie&szlig;en oftmals mit einer Bank einen Vertrag zur Verwaltung eines gewissen Verm&ouml;gens ab. Diese T&auml;tigkeit der Bank bezeichnet man auch als Verm&ouml;gensverwaltung.
 
 Verst&ouml;&szlig;t die Bank gegen die im Verm&ouml;gensverwaltungsvertrag festgelegten Grunds&auml;tze und Vorgaben, macht sie sich ggf. schadensersatzpflichtig.&nbsp;
-
-&nbsp;
 
 ### Swaps / Zinsdifferenzgesch&auml;fte / Fremdw&auml;hrungsdarlehen
 
@@ -44,23 +36,15 @@ Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnel
 
 ### Umfinanzierung / Umschuldung von Darlehen
 
-&nbsp;
-
-&nbsp;
-
 ## Kapitalmarktrecht
 
 Das Kapitalmarktrecht umfasst den gesamten Kapitalmarkt, der von b&ouml;rsennotierten Kapitalanlagen bis hin zu kleinen Start-Up Unternehmen, Crowdfunding und vor allem auch immer wieder den sog. grauen Kapitalmarkt.
-
-&nbsp;
 
 ### **Fondsbeteiligungen (Leasingfonds / Schiffsfonds / Immobilienfonds)**
 
 In den letzten Jahren haben Banken, Vermittlungsfirmen und Finanzberater vor allem Kapitalanlagen in sog. geschlossene Fonds u.a. auch als Altersvorsorge oder als Steuersparmodelle f&uuml;r &Auml;rzte, Apotheker und Unternehmer empfohlen. Auf Risiken wie z.B. Totalverlust, Nachhaftung, aber auch auf Provisionsr&uuml;ckverg&uuml;tung (Kick-Back) und verdeckte Innenprovisionen wurde oftmals nicht hingewiesen.
 
 Schiffsfonds, Leasefonds, Immobilienfonds u.a. Produkte haben sich oft nicht so entwickelt, wie die Anleger und Berater dies erwartet h&auml;tten. Es gilt somit die Frage zu kl&auml;ren, ob eine R&uuml;ckabwicklung m&ouml;glich ist oder ein Widerruf hilft, Weiterzahlungsverpflichtungen f&uuml;r die Zukunft zu stoppen. Oft haften auch Berater, Banken, Hinterm&auml;nner oder Initiatoren sowie Treuh&auml;nder und Prospektersteller. &nbsp;&nbsp;
-
-&nbsp;
 
 ### Prospekthaftung
 
@@ -71,8 +55,6 @@ Zu unterscheiden ist zwischen der Prospekthaftung im engeren Sinne, die eine Haf
 Die Prospekthaftung ist immer dann denkbar, wenn bei dem Vertrieb der Kapitalanlage ein Wertpapierprospekt oder ein Verkaufsprospekt (fr&uuml;her auch Emissionsprospekt genannt) verwendet wurde. Sie kommt auch denn in Frage, wenn kein Prospekt verwendet wurde, aber h&auml;tte verwendet werden m&uuml;ssen (Haftung f&uuml;r fehlenden Prospekt).
 
 Die M&ouml;glichkeiten f&uuml;r Prospektfehler sind so vielf&auml;ltig wie die Kapitalanlagen selbst und bed&uuml;rfen einer anwaltlichen Pr&uuml;fung, da sie f&uuml;r den Laien in der Regel nicht erkennbar sind.
-
-&nbsp;
 
 ### Schrottimmobilien / Steuersparmodelle / Immobilienrecht
 
@@ -88,8 +70,6 @@ Dr. Tintemann und RA Klevenhagen haben hier in den letzten Jahren zahlreiche Anl
 
 SAM Management Group AG, Thormann Capital GmbH, Pecus, Dr. Mayer und Cie. GmbH, GFI, EFI, DIG AG usw.
 
-&nbsp;
-
 ### Falschberatung durch Anlageberater und Versicherungsmakler
 
 Der Finanzberater oder Versicherungsmakler ist oftmals die Vertrauensperson des Kapitalanlegers bis zu dem Zeitpunkt, wenn die Kapitalanlage nicht das h&auml;lt, was einst versprochen wurde und sich defizit&auml;r entwickelt.
@@ -98,15 +78,11 @@ Viele Kunden haben hier Bedenken, sich gegen ihren Berater zu wenden und diesen 
 
 Die fehlerhafte Beratung muss der Anleger in einem Gerichtsprozess beweisen. Hierzu dienen oft Zeugenaussagen oder Beratungsdokumente, mit der die Beratungsfehler bewiesen werden.
 
-&nbsp;
-
 ### Squeeze Out und Spruchverfahren
 
 Wenn es einem Investor gelingt, einen Aktienanteil einer Aktiengesellschaft von mehr als 95 % zu erwerben, kann er einen sog. Squeeze Out Beschluss herbeif&uuml;hren. Durch den Squezze Out werden die restlichen 5 % der Aktion&auml;re aus dem Unternehmen herausgedr&auml;ngt. Die Aktion&auml;re erhalten von demjenigen, der den Ausschluss herbeif&uuml;hrt, eine Abfindung. Das Gesetz sieht hier nur eine Abfindung in Geld (sog. Barabfindung) und nicht in Anteilen oder Aktien anderer Unternehmen vor.
 
 Sind die ausgeschlossenen Aktion&auml;re mit der H&ouml;he der Barabfindung nicht einverstanden, was regelm&auml;&szlig;ig der Fall ist, kann sich an den Squezze Out, der auch mit einer Anfechtungsklage bek&auml;mpft werden kann, ein sog. Spruchverfahren anschlie&szlig;en, in welchem die ausgeschlossenen Aktion&auml;re um eine Erh&ouml;hung ihrer Barabfindung k&auml;mpfen. Die Abfindung wird hierbei in einem extra hierf&uuml;r geschaffenen Verfahren durch das Gericht &uuml;berpr&uuml;ft.
-
-&nbsp;
 
 ### Unterlassene Ad-Hoc Mitteilungen
 
@@ -114,13 +90,9 @@ Unterlassene Ad-Hoc Mitteilungen sind momentan in aller Munde. Gerade bei gro&sz
 
 Unterl&auml;sst ein Unternehmen eine Ad-Hoc Mitteilung oder gibt diese zu sp&auml;t heraus, k&ouml;nnen hiervon betroffene Aktion&auml;re Schadensersatz f&uuml;r hierdurch eingetretene Verluste verlangen. Oftmals f&uuml;hren unterlassene oder versp&auml;tete Ad-Hoc Mitteilungen zu Verfahren nach dem Gesetz &uuml;ber Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (KapMuG). Hierbei werden sog. Musterklagen eingereicht, um in dem KapMuG-Verfahren kl&auml;ren zu lassen, ob ein Versto&szlig; gegen die Ad-Hoc Pflicht oder auch ein Prospektfehler (s.o.) vorliegt.
 
-&nbsp;
-
 ## Bankaufsichtsrecht
 
 Das Bankaufsichtsrecht ist ein Spezialgebiet von AdvoAdvice. Zu Fragen der Haftung der Kapitalmarktaufsicht hat Dr. Tintemann seine Promotion an der Freien Universit&auml;t Berlin verfasst. Wesentliche Schwerpunkte sind hier:&nbsp;
-
-&nbsp;
 
 ### Beratung zur Erlaubnispflicht von Kapitalanlagen nach &sect; 32 KWG
 
@@ -130,8 +102,6 @@ Um diese Probleme zu vermeiden, ist es f&uuml;r viele Unternehmen wichtig, sich 
 
 Dr. Tintemann hat &uuml;ber Rechtsprobleme bei der Untersagung der Gesch&auml;ftst&auml;tigkeit von Unternehmen durch die BaFin promoviert und gilt als Experte auf diesem Rechtsgebiet. Er hat hier bereits mehrere Unternehmen bei der Konzeption von Gesch&auml;ftsmodellen beraten und auch gegen&uuml;ber der BaFin vertreten.
 
-&nbsp;
-
 ### Beratung bei der Erstellung von Wertpapierprospekten und (Verm&ouml;gens-)Verkaufsprospekten
 
 Die Erstellung von Wertpapierprospekten und Verm&ouml;gensverkaufsprospekten ist f&uuml;r Unternehmen, die Kapitalanlagen f&uuml;r ein breites Spektrum an Anlegern zur Verf&uuml;gung stellen, weiterhin unerl&auml;sslich. Der Prospekt muss bei der Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht - BaFin - zur Billigung eingereicht werden. Erst wenn der Prospekt zur Verwendung freigegeben wurde, ist ein Vertriebsstart f&uuml;r die Emittentin gefahrlos und rechtssicher m&ouml;glich.
@@ -140,12 +110,8 @@ Dr. Tintemann hat in den letzten Jahren mehre Unternehmen bei Fragen rund um die
 
 Auch in Bezug auf Anleihen, Anleihebedingungen und entsprechende Wertpapierprospekte hat Dr. Tintemann bereits Genossenschaften und andere Anbieter rechtliche beraten und diese bei dem Billigungsprozess juristisch unterst&uuml;tzt.
 
-&nbsp;
-
 ### Vertretung in Verfahren insbesondere bei Abwicklungsverf&uuml;gungen gegen die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht - BaFin&nbsp;
 
 Verst&ouml;&szlig;t ein Unternehmen gegen das Kreditwesengesetz, so erh&auml;lt es von der Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht - BaFin - eine Abwicklungsverf&uuml;gung. Diese f&uuml;hrt dazu, dass das Unternehmen alle von den Kunden eingezahlten Gelder sofort an diese zur&uuml;ckzahlen muss. Da dies meist nicht m&ouml;glich ist, f&uuml;hrt dies ggf. zu finanziellen Schwierigkeiten im Unternehmen bis hin zur Insolvenz.
 
 Dr. Tintemann vertritt hier Unternehmen im Vorfeld der Ermittlungen der BaFin oder der Bundesbank, geht aber auch, soweit notwendig, gegen entsprechende Verwaltungsakte der BaFin mit Klagen vor dem zust&auml;ndigen Verwaltungsgericht Frankfurt am Main vor.
-
-&nbsp;
