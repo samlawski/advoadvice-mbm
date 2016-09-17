@@ -32,9 +32,9 @@ Verst&ouml;&szlig;t die Bank gegen die im Verm&ouml;gensverwaltungsvertrag festg
 
 Vielen Darlehensnehmern wurden in den letzten Jahren zur Absicherung oder schnelleren R&uuml;ckzahlung von Darlehen sog. Swap-Gesch&auml;fte, Fremdw&auml;hrungsdarlehen oder Zinsdifferenzgesch&auml;fte angeboten. Die hierzu ergangene Rechtsprechung ist umfangreich. Dr. Tintemann hat hier mehrere Anleger gegen verschiedene Banken vertreten und oftmals gute au&szlig;ergerichtliche Einigungen erzielen k&ouml;nnen. &nbsp;&nbsp;
 
-### &nbsp;
-
 ### Umfinanzierung / Umschuldung von Darlehen
+
+Die deutsche und internationale Rechtsprechung im Bankrecht entwickelt sich rasant weiter, vieles ver&auml;ndert sich. Global agierende Geldh&auml;user entwickeln st&auml;ndig neue Produkte und passen ihre Gesch&auml;ftsmodelle an. Welche Rechte haben Sie? Kann man den Darlehensvertrag noch nach Jahren widerrufen um die Vorf&auml;lligkeitsentsch&auml;digung abzuwehren oder zur&uuml;ckzuerhalten? Ist die Ihnen gegen&uuml;ber verlangte Vorf&auml;lligkeitsentsch&auml;digung dem Grunde und der H&ouml;he nach berechtigt? Wie f&uuml;hrt man taktisch sinnvolle Verhandlungen mit Banken, um seine wirtschaftliche Situation zu verbessern? Haben Sie einen Anspruch auf Schadenersatz auch gegen Ihre Bank, weil diese eine v&ouml;llig &uuml;berteuerte Immobilie finanziert hat? Wie ist es zur der Kreditentscheidung gekommen, die Ihnen jetzt wirtschaftlich schwer zu schaffen macht? Wir wissen, dass auch das Verhalten der Banken und die Rolle von Finanzierungsvermittlern bei der Darlehensgew&auml;hrung eine wichtige Rolle bei der Durchsetzung Ihrer Anspr&uuml;che spielen kann.
 
 ## Kapitalmarktrecht
 
