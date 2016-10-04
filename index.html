@@ -34,7 +34,7 @@ hintergrund_bild_path: "/uploads/images/title.jpg"
             </p>
             <ul>
               {% for topic in member.themen %}
-                <li>{{topic}}</li>
+                <li><a href="{{topic.link}}">{{topic.titel}}</a></li>
               {% endfor %}
             </ul>
             <p>
