@@ -1,6 +1,6 @@
 ---
 title: BGH - kein pauschales Bank-Mindestentgelt für geduldete Überziehung
-date: 2016-11-07 00:00:00
+date: 2016-11-04 00:00:00
 layout: post
 tags:
   - Bundesgerichtshof
