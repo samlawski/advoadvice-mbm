@@ -1,10 +1,22 @@
 ---
-title: "BAXTER Sachwert GmbH & Co. KG ist pleite"
-date: 2016-01-27 13:39:00 -0600
+title: 'BAXTER Sachwert GmbH & Co. KG ist pleite'
+date: 2016-01-27 19:39:00
 layout: post
-tags: ["Baxter", "insolvent", "Darlehen", "besichert", "Hilfe", "Anwalt", "Anleger"]
+tags:
+  - Baxter
+  - Sachwert
+  - Amtsgericht
+  - Charlottenburg
+  - 36b IN 6761/15
+  - insolvent
+  - Darlehen
+  - besichert
+  - Hilfe
+  - Anwalt
+  - Anleger
 team_member: dr-sven-tintemann
 ---
+
 
 Die BAXTER Sachwert GmbH & Co. KG hat beim Amtsgericht Charlottenburg einen Antrag auf Eröffnung des Insolvenzverfahrens gestellt. Mit Beschluss vom 26.01.2016 hat das Amtsgericht Charlottenburg (Az.: 36b IN 6761/15) das vorläufige Insolvenzverfahren angeordnet und Herrn Rechtsanwalt Joachim Voigt-Salus zum vorläufigen Insolvenzverwalter bestellt.
 
@@ -40,5 +52,4 @@ Die Anleger sollten ihre Darlehensverträge, welche sie mit der BAXTER Sachwert 
 
 Die Klärung dieser Fragen haben sowohl Auswirkungen auf die Forderungen im Rahmen des Insolvenzverfahrens als auch Auswirkungen auf die Inanspruchnahme der verantwortlich handelnden Personen.
 
-**Auch betroffen?**
-**[Fragebogen ausfüllen](/uploads/dokumente/Fragebogen_Baxter.pdf)**
+**Auch betroffen?****[Fragebogen ausfüllen](/uploads/dokumente/Fragebogen_Baxter.pdf)**
