@@ -14,6 +14,8 @@ tags:
   - Hilfe
   - Anwalt
   - Anleger
+  - kapital-markt intern
+  - kmi
 team_member: dr-sven-tintemann
 ---
 
