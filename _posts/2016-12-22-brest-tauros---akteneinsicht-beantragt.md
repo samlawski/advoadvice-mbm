@@ -1,6 +1,6 @@
 ---
 title: Brest Tauros - Akteneinsicht beantragt
-date: 2016-12-20 00:00:00
+date: 2016-12-22 00:00:00
 layout: post
 tags:
   - Brest Tauros
