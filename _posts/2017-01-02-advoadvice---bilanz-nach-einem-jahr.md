@@ -1,5 +1,5 @@
 ---
-title: AdvoAdvice - Blianz nach einem Jahr
+title: AdvoAdvice - Bilanz nach einem Jahr
 date: 2017-01-02 00:00:00
 layout: post
 tags:
