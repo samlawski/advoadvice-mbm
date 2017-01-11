@@ -1,23 +1,18 @@
 ---
-title: LG Dessau-Roplau verurteilt SAM AG Vermittler
-date: 2017-01-10 00:00:00
+title: LG Dessau-Rosslau verurteilt SAM AG Vermittler
+date: 2017-01-16 00:00:00
 layout: post
 tags:
-  - Premium Safe Ldt.
-  - Vermittler
+  - LG Dessau-Rosslau
+  - Urteil
   - Schadensersatz
-  - verurteilt
-  - Landgericht Magdeburg
-  - Finanzberater
-  - Umschuldung
-  - Hauskredit
-  - Tilgung
-  - Beratung
-  - sichere Geldanlage
-  - 21.000 Euro
-  - Anlageberatung
-  - Anlagevermittlung
-  - Totalverlustrisiko
-  - Prospekt
+  - SAM AG
+  - Berater
+  - Vermittler
+  - Falschberatung
+  - Prozesserfolg
+  - erste Instanz
 team_member: dr-sven-tintemann
 ---
+
+
