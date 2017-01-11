@@ -23,3 +23,5 @@ In seiner Entscheidung f&uuml;hrte das Gericht aus, dass dem Kl&auml;ger ein zut
 Das Gericht stellte fest, dass die erforderliche Aufkl&auml;rung durch den verurteilten Berater nicht erfolgt sei. Insbesondere habe er die Anlagem&ouml;glichkeit als besonders sicher dargestellt und es dabei unterlassen, auf die mit der Anlageform einhergehenden Risiken und Unsicherheiten hinzuweisen. Dem war der Berater aus Sicht des Gerichts nicht in ausreichender Art und Weise entgegengetreten. Das Gericht verurteilte ihn daher zum Schadensersatz.
 
 Die Entscheidung ist noch nicht rechtskr&auml;ftig, da der erstinstanzlich verurteilte Berater noch das Rechtsmittel der Berufung einlegen kann.
+
+&nbsp;
