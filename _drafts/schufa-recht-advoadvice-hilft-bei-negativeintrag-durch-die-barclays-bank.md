@@ -22,9 +22,11 @@ Im August k&uuml;ndigte die Betroffene einen Kredit bei der Barclays Bank. F&uum
 
 Auf diesen Umstand umgehend aufmerksam und kontaktierte die eintragende Bank mit der Aufforderung den Eintrag zu widerrufen und zu l&ouml;schen. Anfang Oktober bescheinigte die Bank ihr zwar, dass der Eintrag als erledigt vermerkt wurde (Das hei&szlig;t, dass die Forderung einmal existierte, aber ausgeglichen wurde), ein Widerruf erfolgte jedoch nicht.
 
-Daraufhin kontaktierte die Frau die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB mit der Bitte, sie bei der Probleml&ouml;sung zu unterst&uuml;tzen. Der hausinterne Schufa-Experte Rechtsanwalt Dr. Tintemann setzte sogleich ein Schreiben auf, in welchem er der Gegenseite die Umst&auml;nde n&auml;her brachte. Darin wurde die Barclays Bank sodann auch auf gefordert den Negativeintrag bei der Schufa Holding AG zu widerrufen. Trotz dessen, dass die Barclays Bank den Negativeintrag f&uuml;r berechtigt hielt, wurde der Negativeintrag aus Kulanz widerrufen.
+Daraufhin kontaktierte die Frau die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB mit der Bitte, sie bei der Probleml&ouml;sung zu unterst&uuml;tzen. Der hausinterne Schufa-Experte Rechtsanwalt Dr. Tintemann setzte sogleich ein Schreiben auf, in welchem er der Gegenseite die Umst&auml;nde n&auml;her brachte. Darin wurde die Barclays Bank sodann auch auf gefordert den Negativeintrag bei der Schufa Holding AG zu widerrufen.
 
-Aus Sicht des zust&auml;ndigen Rechtsanwaltes Dr. Tintemann zeigen sich in diesem Fall einige Thematiken aus dem Schufa-Recht nahezu exemplarisch auf: &nbsp;
+Trotz dessen, dass die Barclays Bank den Negativeintrag f&uuml;r berechtigt hielt, wurde der Negativeintrag aus Kulanz widerrufen. Sichtlich erfreut bedankte sich die Mandantin f&uuml;r den tollen Erfolg den durch die Arbeit von Herrn Dr. Tintemann in dieser rechtlichen Angelegenheit erzielt werden konnte.
+
+Aus Sicht des zust&auml;ndigen Rechtsanwaltes zeigen sich in diesem Fall einige Thematiken aus dem Schufa-Recht nahezu exemplarisch auf: &nbsp;
 
 *„In vielen F&auml;llen kommt es vor, dass die Einmeldevoraussetzungen &uuml;berhaupt nicht gegeben sind, oder deren vollkommenes Vorliegend zumindest zweifelhaft erscheint. Die Betroffene handelte vorliegend sehr schnell und kontaktierte selbst die Barclays Bank. Damit erreichte sie zwar einen Erledigungsvermerk, die Forderung blieb aber im Schufa-Datenbestand stehen. Erst nach der Intervention durch die Rechtsanw&auml;lte konnte der eigentlich rechtm&auml;&szlig;ige Zustand wieder hergestellt werden. Es zeigt sich, dass h&auml;ufig erst die Inanspruchnahme anwaltlicher Hilfe erfolgsversprechend ist und dass es bei Negativeintr&auml;gen auch oft darauf ankommt schnell zu handeln.“*
 
