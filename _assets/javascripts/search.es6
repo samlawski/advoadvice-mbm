@@ -37,9 +37,16 @@ var search = (function(){
 
   // Methods
   var getPosts = function(callback){
-    $.getJSON("/blog/posts-api.json", function(data){
-      callback(data);
-    });
+    stored_posts = sessionStorage.posts
+
+    if(stored_posts && stored_posts.length > 100){
+      callback(JSON.parse(stored_posts));
+    }else{
+      $.getJSON("/blog/posts-api.json", function(data){
+        sessionStorage.posts = JSON.stringify(data);
+        callback(data);
+      });
+    }
   };
 
   var initLunr = function(search_value, initLunr_callback){
