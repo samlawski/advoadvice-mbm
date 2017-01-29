@@ -7,7 +7,7 @@
 
 # Site settings
 title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
-email: your-email@domain.com
+email: info@advoadvice.com
 keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
 description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,8 +38,17 @@ gems:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-tagging-related_posts
+  - jekyll-assets
 
 paginate: 6
 paginate_path: "/blog/page:num/"
 tag_page_layout: tag_page
 tag_page_dir: /blog/thema/
+assets:
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+exclude:
+  - Gemfile
+  - Gemfile.lock
