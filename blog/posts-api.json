@@ -1,0 +1,10 @@
+---
+---
+[{% for post in site.posts %}{% assign team_member_id = "/team_members/" | append: post.team_member %}{% assign team_member = site.team_members | where: "id", team_member_id | first %}{
+  "title": "{{ post.title | strip_html | strip_newlines | xml_escape }}",
+  "author": "{{ team_member.name | xml_escape }}",
+  "url": "{{ post.url | xml_escape }}",
+  "date": {{post.date | date: "%d. %B %Y" | jsonify }},
+  "content_truncated": {{ post.content | strip_html | truncatewords: 40 | jsonify }},
+  "content": {{ post.content | strip_html | strip_newlines | jsonify }}
+}{% unless forloop.last %},{% endunless %}{% endfor %}]
