@@ -3,6 +3,23 @@ title: Einrichtungskette Butlers insolvent - Was Anleger jetzt wissen müssen
 date: 2017-02-07 00:00:00
 layout: post
 tags:
+  - Butlers
+  - Insolvenz
+  - Insolvenzantrag
+  - Amtsgericht Köln
+  - 71 IN 24/14
+  - 'Butlers GmbH & Co. KG'
+  - Butlers Beteiligungs GmbH
+  - Dr. Jörg Bornheimer
+  - Insolvenzverwalter
+  - Namens-Genussrecht
+  - Genussrecht
+  - Verzinsung
+  - '4%'
+  - Kapitalverlust
+  - Sanierung
+  - Insolvenztabelle
+  - Anmeldung
 team_member: dr-sven-tintemann
 ---
 
