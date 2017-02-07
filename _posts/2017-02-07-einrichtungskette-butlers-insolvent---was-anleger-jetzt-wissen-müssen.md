@@ -20,6 +20,7 @@ tags:
   - Sanierung
   - Insolvenztabelle
   - Anmeldung
+  - Totalverlust
 team_member: dr-sven-tintemann
 ---
 
