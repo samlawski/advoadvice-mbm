@@ -1,10 +1,24 @@
 ---
-title: "Hattrick bei Schufa Bereinigung"
-date: 2016-03-13 18:00:00 -0500
+title: Hattrick bei Schufa Bereinigung
+date:
 layout: post
-tags: ["Schufa", "Volkswagen Bank", "Hattrick", "Löschung", "Widerruf", "Bank", "Inkasso", "Fehler", "Klage", "Erfolg", "Anwalt", "Rechtsanwalt", "AdvoAdvice", "Experte", "Tintemann", "Klevenhagen"]
+tags:
+  - Schufa Eintrag
+  - Schufa-Recht
+  - Schufa Holding AG
+  - Negativeintrag
+  - widerrufen
+  - BDSG
+  - Volkswagen Bank
+  - Inkassounternehmen
+  - Mahnung
+  - Schufa-Hinweis
+  - Klage
+  - Erfolg
+  - AdvoAdvice
 team_member: dr-sven-tintemann
 ---
+
 
 Am Anfang des letzten Jahres, wandte sich ein verzweifelter Mann an die Rechtsanwälte Kim Oliver Klevenhagen und Dr. Sven Tintemann. Ihm war aufgefallen, dass in seiner Schufa-Auskunft mehrere Negativeinträge zu finden waren. Allesamt waren seiner Meinung nach unberechtigt und er bat um Hilfe bei der Löschung der Einträge.
 
@@ -16,7 +30,6 @@ Es galt jedoch, auch noch einen weiteren (dritten) Eintrag zu beseitigen, der wi
 
 Die Schufa-Experten Dr. Tintemann und Kim Oliver Klevenhagen zeigten sich zuversichtlich, auch weiteren Betroffenen in Zukunft helfen zu können.
 
-Der Kommentar der Experten von AdvoAdvice: _„Es ist immer wieder wichtig, einen Schufa-Eintrag bis ins kleinste Detail zu überprüfen, da sich erst dann zeigt, ob der Eintrag berechtigt war oder nicht. Eine Bank oder auch andere Unternehmen (z.B. Inkasso-Firma) darf einen Schufa-Eintrag nur unter bestimmten Voraussetzungen veranlassen. Ob diese Voraussetzungen vorliegen, hängt manchmal an einem entscheidenden Satz. Es muss hier genau das Bundesdatenschutzgesetz geprüft und angewandt werden.“_
+Der Kommentar der Experten von AdvoAdvice: *„Es ist immer wieder wichtig, einen Schufa-Eintrag bis ins kleinste Detail zu überprüfen, da sich erst dann zeigt, ob der Eintrag berechtigt war oder nicht. Eine Bank oder auch andere Unternehmen (z.B. Inkasso-Firma) darf einen Schufa-Eintrag nur unter bestimmten Voraussetzungen veranlassen. Ob diese Voraussetzungen vorliegen, hängt manchmal an einem entscheidenden Satz. Es muss hier genau das Bundesdatenschutzgesetz geprüft und angewandt werden.“*
 
 Es wird daher empfohlen, sich bei einem problematischen Schufa-Eintrag oder auch bei Einträgen in anderen Auskunfteien (Creditreform, Bürgel, etc.) an eine Kanzlei zu wenden, welche sich auf Schufa-Angelegenheiten spezialisiert hat.
-
