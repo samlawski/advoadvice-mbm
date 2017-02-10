@@ -1,10 +1,26 @@
 ---
-title: "Barclaycard erkennt Antrag auf einstweilige Verfügung vor LG Hamburg an"
-date: 2016-02-17 17:00:00 -0600
+title: 'Schufa-Eintrag: Barclaycard erkennt Antrag auf einstweilige Verfügung vor LG Hamburg an'
+date:
 layout: post
-tags: ["Barclaycard", "Bank", "Landgericht", "Hamburg", "Erfolg", "Anerkenntnis", "Prozess", "Schufa", "Tintemann", "Hilfe", "Barclays Bank PLC"]
+tags:
+  - Schufa Eintrag
+  - Schufa-Recht
+  - Schufa Holding AG
+  - Negativeintrag
+  - Widerruf
+  - Löschung
+  - BDSG
+  - Barclays Bank PLC
+  - Barclaycard
+  - Landgericht Hamburg
+  - Anerkenntnis
+  - Prozess
+  - Mahnschreiben
+  - Prozesserfolg
+  - AdvoAdvice
 team_member: dr-sven-tintemann
 ---
+
 
 Rechtsanwalt aus Hessen gegen negativen Schufa-Eintrag verteidigt. Barclays Bank PLC erkennt nach Verhandlung vor dem LG Hamburg am 18.02.2016 einen Antrag auf Erlass einer Einstweiligen Verfügung an.
 
@@ -17,4 +33,3 @@ Dr. Sven Tintemann, Partner bei Advoadvice, kommentiert: “Es ging hier um die 
 Der Erfolg zeigt, dass bei Vorliegen eines Schufa-Negativeintrags schnelles und entschlossenes Handeln notwendig ist.
 
 Die Bank muss nun die Kosten des Rechtsstreit tragen. Der Rechtsanwalt aus Hessen war begeistert und kann nun einen geplanten Kredit aufnehmen und neue Kanzleiräume anmieten.
-
