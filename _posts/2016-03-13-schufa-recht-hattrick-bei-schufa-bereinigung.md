@@ -1,5 +1,5 @@
 ---
-title: Hattrick bei Schufa Bereinigung
+title: 'Schufa-Recht: Hattrick bei Schufa Bereinigung'
 date:
 layout: post
 tags:
