@@ -1,6 +1,6 @@
 ---
 title: 'Schufa-Recht: Negativeinträge aus der Sicht des Vermieters'
-date: 2017-02-10 02:00:00
+date: 2017-02-10 00:00:00
 layout: post
 tags:
   - Schufa Eintrag
