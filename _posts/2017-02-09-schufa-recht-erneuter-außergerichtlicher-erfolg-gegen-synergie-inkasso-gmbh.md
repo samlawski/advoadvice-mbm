@@ -3,21 +3,20 @@ title: 'Schufa-Recht: Erneuter außergerichtlicher Erfolg gegen Synergie Inkasso
 date: 2017-02-09 00:00:00
 layout: post
 tags:
+  - Schufaeintrag
   - Schufa-Recht
   - Schufa Holding AG
   - Negativeintrag
-  - Schufa-Eintrag
-  - Experte
-  - AdvoAdvice
   - Löschung
-  - Widerruf Schufa-Eintrag
+  - Widerruf
+  - BDSG
   - Synergie Inkasso GmbH
   - FlexStrom AG
   - Stromversorger
   - Stromlieferung
   - Aufrechnung
-  - Erfolg
   - Kostenübernahme
+  - AdvoAdvice
 team_member: dr-sven-tintemann
 ---
 
