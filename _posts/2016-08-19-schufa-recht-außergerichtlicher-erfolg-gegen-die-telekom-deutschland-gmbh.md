@@ -1,6 +1,6 @@
 ---
 title: 'Schufa-Recht: Außergerichtlicher Erfolg gegen die Telekom Deutschland GmbH'
-date:
+date: 2016-08-19 12:00:00
 layout: post
 tags:
   - Schufa Eintrag
