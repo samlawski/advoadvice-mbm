@@ -1,6 +1,6 @@
 ---
 title: 'Schufa-Recht: ING-DiBa widerruft Negativeintrag nach außergerichtlichem Schreiben'
-date:
+date: 2016-12-27 00:00:00
 layout: post
 tags:
   - Schufaeintrag
@@ -34,4 +34,4 @@ In vielen Fällen kann Betroffenen bereits außergerichtlich, also ohne teures 
 
 Auch die betroffene Mandantin kann nunmehr zufrieden das Kapitel Restschuldbefreiung nach über zehn Jahren abschließen und ein neues Leben beginnen, unabhängig von Negativeinträgen in Auskunfteien.
 
-Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;).
