@@ -3,8 +3,10 @@ title: Brest Tauros - Insolvenz eröffnet
 date: 2016-12-01 00:00:00
 layout: post
 tags:
-  - Brest Tauros
   - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - Brest Tauros
   - eröffnet
   - Akteneinsicht
   - beantragt
