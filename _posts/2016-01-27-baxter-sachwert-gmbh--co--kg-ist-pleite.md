@@ -3,8 +3,10 @@ title: 'BAXTER Sachwert GmbH & Co. KG ist pleite'
 date: 2016-01-27 19:39:00
 layout: post
 tags:
-  - Baxter
-  - Sachwert
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - 'Baxter Sachwert GmbH & Co. KG'
   - Amtsgericht
   - Charlottenburg
   - 36b IN 6761/15
