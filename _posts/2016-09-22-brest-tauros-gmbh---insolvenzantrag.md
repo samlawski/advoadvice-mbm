@@ -1,19 +1,18 @@
 ---
 title: Brest-Tauros GmbH - Insolvenzantrag
-date: 2016-09-22T00:00:00.000Z
+date: 2016-09-22 00:00:00
 layout: post
 tags:
-  - Brest-Tauros GmbH
-  - Insolvenzverfahren
-  - Anleger
-  - RONDA II
-  - Verbraucherschutz
-  - Advoadvice
-  - Berlin
-  - Amtsgericht Leipzig
-  - Rechtsanwalt Dr. Rainer Bähr
   - Insolvenz
-  -
+  - Anlegerschutz
+  - Ansprüche
+  - Brest Tauros GmbH
+  - Leipzig
+  - Insolvenzantrag
+  - Insolvenzverfahren
+  - Erstberatung
+  - Erfahrung
+  - Anlegergemeinschaft
 team_member: dr-sven-tintemann
 ---
 
