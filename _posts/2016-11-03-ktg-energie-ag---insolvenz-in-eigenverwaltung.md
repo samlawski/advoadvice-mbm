@@ -6,10 +6,10 @@ tags:
   - Insolvenz
   - Anlegerschutz
   - Ansprüche
+  - KTG Energie AG
+  - KTG Agrar SE
   - Insolvenzverfahren
   - Erstberatung
-  - KTG Energie AG
-  - KTG Agrar
   - Eigenverwaltung
   - Insolvenzanmeldung
   - Anleihe
