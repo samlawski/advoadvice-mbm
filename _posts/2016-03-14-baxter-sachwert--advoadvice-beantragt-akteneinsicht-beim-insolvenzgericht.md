@@ -1,10 +1,25 @@
 ---
-title: "Baxter Sachwert – AdvoAdvice beantragt Akteneinsicht beim Insolvenzgericht"
-date: 2016-03-14 18:00:00 -0500
+title: Baxter Sachwert – AdvoAdvice beantragt Akteneinsicht beim Insolvenzgericht
+date:
 layout: post
-tags: ["Baxter", "AdvoAdvice", "Akteneinsicht", "Insolvenz", "Insolvenzgericht", "Voigt Salus", "Insolvenzgutachten", "Anleger", "Schaden", "Amtsgericht", "Charlottenburg"]
+tags:
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - 'Baxter Sachwert GmbH & Co. KG'
+  - Baxter
+  - AdvoAdvice
+  - Akteneinsicht
+  - Insolvenzgericht
+  - Voigt Salus
+  - Insolvenzgutachten
+  - Anleger
+  - Schaden
+  - Amtsgericht
+  - Charlottenburg
 team_member: dr-sven-tintemann
 ---
+
 
 Die Rechtsanwälte der AdvoAdvice Partnerschaft von Rechtsanwälten mbB vertreten betroffene Anleger in Sachen Baxter Sachwert GmbH & Co. KG. Dies ist bekannt. Die Anlegergemeinschaft nimmt Formen an. Erste Akten sind angelegt und Deckungsanfragen an vorhandene Rechtsschutzversicherungen gestellt.
 
@@ -31,4 +46,3 @@ Je früher Akteneinsicht beantragt wird, desto wahrscheinlicher ist es, dass dem
 Sollte das Insolvenzverfahren nicht zur Eröffnung gelangen, kann bereits die Beantragung der Akteneinsicht in diesem frühen Stadium dazu beitragen, dass vor Übersendung der Insolvenzakte an die Strafverfolgungsbehörden Akteneinsicht gewährt wird und nicht erst dort Akteneinsicht beantragt werden muss, was erneut zu Verzögerungen führen würde.
 
 Gerne stehen die Rechtsanwälte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB den geschädigten Darlehensgebern für die sie bewegenden Fragen zur Verfügung. Wir unterstützen Sie gerne bei der Prüfung und der Durchsetzung Ihrer Ansprüche.
-
