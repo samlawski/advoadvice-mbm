@@ -3,8 +3,10 @@ title: Einrichtungskette Butlers insolvent - Was Anleger jetzt wissen müssen
 date: 2017-02-07 00:00:00
 layout: post
 tags:
-  - Butlers
   - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - Butlers
   - Insolvenzantrag
   - Amtsgericht Köln
   - 71 IN 24/14
@@ -21,6 +23,7 @@ tags:
   - Insolvenztabelle
   - Anmeldung
   - Totalverlust
+  - InsO
 team_member: dr-sven-tintemann
 ---
 
