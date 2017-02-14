@@ -1,16 +1,30 @@
 ---
-title: "Hanseatische Fußball Kontor GmbH: Vorläufiges Insolvenzverfahren eröffnet"
-date: 2016-07-26 07:00:00 -0500
+title: 'Hanseatische Fußball Kontor GmbH: Vorläufiges Insolvenzverfahren eröffnet'
+date:
 layout: post
-tags: ["HFK GmbH", "Hanseatische Fußball Kontor GmbH", "Schwerin", "Insolvenzverfahren", "Anleger", "Anlegerschutz", "Transfers", "Investition", "Rendite", "AdvoAdvice"]
+tags:
+  - Insolvenz
+  - Verbraucherinformation
+  - Erstberatung
+  - HFK GmbH
+  - Hanseatische Fußball Kontor GmbH
+  - Schwerin
+  - Insolvenzverfahren
+  - Anleger
+  - Anlegerschutz
+  - Transfers
+  - Investition
+  - Rendite
+  - AdvoAdvice
 team_member: dr-sven-tintemann
 ---
+
 
 Die [Hanseatische Fußball Kontor GmbH](http://www.fussballkontor.de "Link: http://www.fussballkontor.de") (August-Bebel-Str. 3, 19055 Schwerin) steht kurz vor dem Aus. Das Amtsgericht Schwerin hat auf Antrag der Gläubiger ein vorläufiges Insolvenzverfahren eröffnet (Az. 580 IN 325/16). Auch die Kanzlei AdvoAdvice Rechtsanwälte mbB vertritt Anlegerinteressen in dieser Angelegenheit, weshalb sich Rechtsanwalt Dr. Tintemann vertieft mit der Hanseatische Fußball Kontor GmbH auseinandergesetzt hat.
 
 **Was ist die Hanseatische Fußball Kontor GmbH und was ist ihr Ziel?**
 
-Im Prinzip handelt es sich bei der Fußball Kontor GmbH um eine große Investitionsgemeinschaft, welche von dem Rechtsanwalt Kai-Volker Langhinrichs (Schwerin) geführt wird. Dabei wurden nach eigenen Angaben ca. 24. Mio. Euro an Darlehen von über 2.500 Anlegern eingesammelt. Mit diesem Geld beteiligte sich die Gesellschaft hauptsächlich an Transferrechten von Fußballspielern, um bei einem Weiterverkauf an den hohen Transfererlösen beteiligt zu werden. Von diesen Erlösen sollten dann die genutzten Darlehen (solche mit einem qualifizierten Nachrang – also solche, bei denen der Anleger als Letzter in der Reihe der Gläubiger steht) &nbsp;abbezahlt werden.
+Im Prinzip handelt es sich bei der Fußball Kontor GmbH um eine große Investitionsgemeinschaft, welche von dem Rechtsanwalt Kai-Volker Langhinrichs (Schwerin) geführt wird. Dabei wurden nach eigenen Angaben ca. 24. Mio. Euro an Darlehen von über 2.500 Anlegern eingesammelt. Mit diesem Geld beteiligte sich die Gesellschaft hauptsächlich an Transferrechten von Fußballspielern, um bei einem Weiterverkauf an den hohen Transfererlösen beteiligt zu werden. Von diesen Erlösen sollten dann die genutzten Darlehen (solche mit einem qualifizierten Nachrang – also solche, bei denen der Anleger als Letzter in der Reihe der Gläubiger steht)  abbezahlt werden.
 
 Aufgrund von firmeninternen Umstrukturierungen wurde zudem auch in verschiedene Vereine investiert. Dabei tritt vor allem die Beteiligung an der SK Austria Klagenfurt in den Vordergrund, welche im Moment jedoch mit lediglich [sieben Spielern](http://www.transfermarkt.de/sk-austria-klagenfurt/kader/verein/28760/saison_id/2016) und der [verweigerten Lizenz](http://www.fussballkontor.de/news/lizenz-verweigert.html) für den österreichischen Profifußball vor enormen Problemen steht.
 
@@ -38,5 +52,4 @@ Zudem müssen Anleger ihre Ansprüche gegen Berater und Hintermänner prüfen la
 
 Aus diesem Grund sollten sich betroffene Darlehensgeber schnellstmöglich an einen Fachanwalt für Bank- und Kapitalmarktrecht wenden, um Ihre Forderungen noch bestmöglich geltend zu machen.
 
-Die Kanzlei AdvoAdvice Rechtsanwälte mbB sind in Sachen Anlegerschutz und als Experten für Massenschäden bekannt und vertreten die Rechte von Geschädigten in Sachen Hanseatisches Fußball Kontor. Betroffene sollten einen Fragebogen für geschädigte Anleger ausfüllen und diesen zur Erstprüfung bei [info@advoadvice.de](mailto:info@advoadvice.de) einreichen. Rufen sie gerne unverbindlich unter 030 – 921 000 40 an.&nbsp;
-
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB sind in Sachen Anlegerschutz und als Experten für Massenschäden bekannt und vertreten die Rechte von Geschädigten in Sachen Hanseatisches Fußball Kontor. Betroffene sollten einen Fragebogen für geschädigte Anleger ausfüllen und diesen zur Erstprüfung bei [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) einreichen. Rufen sie gerne unverbindlich unter 030 – 921 000 40 an.
