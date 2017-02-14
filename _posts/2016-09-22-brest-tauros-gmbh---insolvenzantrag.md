@@ -13,6 +13,7 @@ tags:
   - Erstberatung
   - Erfahrung
   - Anlegergemeinschaft
+  - Ronda I
 team_member: dr-sven-tintemann
 ---
 
