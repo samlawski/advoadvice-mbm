@@ -3,8 +3,10 @@ title: 'BAXTER Sachwert GmbH & Co. KG - Anlegergemeinschaft gestartet'
 date: 2016-02-02 23:00:00
 layout: post
 tags:
-  - Baxter
-  - Sachwert
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - 'Baxter Sachwert GmbH & Co. KG'
   - Anlegergemeinschaft
   - Rechtsanwalt
   - Dr. Tintemann
