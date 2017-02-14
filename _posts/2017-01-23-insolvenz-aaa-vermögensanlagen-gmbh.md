@@ -3,10 +3,11 @@ title: Insolvenz AAA Vermögensanlagen GmbH
 date: 2017-01-23 00:00:00
 layout: post
 tags:
+  - Insolvenz
+  - Verbraucherinformation
   - AAA Vermögensanlagen GmbH
   - Leipzig
   - insolvent
-  - Insolvenz
   - Amtsgericht Leipzig
   - Bearbeitungsgebühren
   - 403 IN 1404/16
