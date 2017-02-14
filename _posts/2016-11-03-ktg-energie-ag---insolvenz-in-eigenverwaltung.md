@@ -3,9 +3,13 @@ title: KTG Energie AG - Insolvenz in Eigenverwaltung
 date: 2016-11-03 00:00:00
 layout: post
 tags:
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - Insolvenzverfahren
+  - Erstberatung
   - KTG Energie AG
   - KTG Agrar
-  - Insolvenz
   - Eigenverwaltung
   - Insolvenzanmeldung
   - Anleihe
@@ -44,4 +48,4 @@ Die Anleger sollten sich aber nicht darauf verlassen, dass allein aufgrund der g
 Außerdem bieten die Experten der Berliner Anwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB die Prüfung möglicher Ansprüche gegen die Verantwortlichen der KTG Energie AG an. Dazu können nicht nur der Vorstand, sondern auch beteiligte Wirtschaftsprüfer, Banken und Prospektersteller gehören. Ein Schadensersatzanspruch gegen einen persönlichen Anlagenberater ist ebenfalls denkbar, falls die Investition auf Anraten eines solchen erfolgt sein sollte.
 
 Für eine telefonische Erstberatung stehen die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB unter 030-921 000 40 gerne zur Verfügung.
-<br>Sie können auch gerne unter [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) unsere Formulare für geschädigte Kapitalanleger anfordern.
+<br>Sie können auch gerne unter [info@advoadvice.de](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) unsere Formulare für geschädigte Kapitalanleger anfordern.
