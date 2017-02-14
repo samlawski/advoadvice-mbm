@@ -6,7 +6,7 @@ tags:
   - Insolvenz
   - Anlegerschutz
   - Ansprüche
-  - Brest Tauros
+  - Brest-Tauros GmbH
   - eröffnet
   - Akteneinsicht
   - beantragt
