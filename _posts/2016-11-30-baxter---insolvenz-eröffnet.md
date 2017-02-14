@@ -6,9 +6,9 @@ tags:
   - Insolvenz
   - Anlegerschutz
   - Ansprüche
+  - 'Baxter Sachwert GmbH & Co. KG'
   - Insolvenzverfahren
   - InsO
-  - Baxter
   - Amtsgericht
   - Charlottenburg
   - Insolvezgutachten
