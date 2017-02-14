@@ -3,6 +3,8 @@ title: S.G. Wohnbau GmbH pleite
 date: 2016-11-17 00:00:00
 layout: post
 tags:
+  - Insolvenz
+  - Verbraucherinformation
   - S.G. Wohnbau Gmbh
   - Insolvenzmasse
   - Amtsgericht Stuttgart
