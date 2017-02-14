@@ -1,10 +1,22 @@
 ---
-title: "Baxter Sachwert - erste Forderungen gegenüber Insolvenzverwalter geltend gemacht"
-date: 2016-03-10 17:00:00 -0600
+title: Baxter Sachwert - erste Forderungen gegenüber Insolvenzverwalter geltend gemacht
+date:
 layout: post
-tags: ["Baxter", "Insolvenz", "Anmeldung", "Forderung", "Darlehen", "Kündigung", "Fälligkeit", "Voigt Saulus", "Pleite"]
+tags:
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
+  - 'Baxter Sachwert GmbH & Co. KG'
+  - Anmeldung
+  - Forderung
+  - Darlehen
+  - Kündigung
+  - Fälligkeit
+  - Voigt Saulus
+  - Pleite
 team_member: dr-sven-tintemann
 ---
+
 
 Wie sich zwischenzeitlich herumgesprochen haben dürfte, hat die BAXTER Sachwert GmbH & Co. KG, Eigenantrag auf Eröffnung des Insolvenzverfahrens gestellt. Ein Eigenantrag auf Eröffnung des Insolvenzverfahrens wird in aller Regel immer dann gestellt, wenn die Gesellschaft zahlungsunfähig zu sein scheint. Oftmals werden aber die Eigenanträge viel zu spät gestellt, nämlich dann erst, wenn die Gesellschaft tatsächlich schon zahlungsunfähig ist.
 
@@ -29,4 +41,3 @@ Fakt ist, dass ein Darlehen, welches nicht gekündigt ist, weiterläuft, egal ob
 Geschädigte Darlehensgeber sollten sich anwaltlich beraten lassen, um Ihre Ansprüche bereits im vorläufigen Insolvenzverfahren zu sichern.
 
 Hier stehen Ihnen die Rechtsanwälte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB gerne beratend und unterstützend zur Seite. Rufen Sie uns einfach an (oder übersenden Sie uns den zum Download zur Verfügung gestellten ausgefüllten Fragebogen und wir setzen uns dann mit Ihnen in Verbindung).
-
