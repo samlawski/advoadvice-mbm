@@ -1,6 +1,6 @@
 ---
 title: Brest-Tauros GmbH – Alles nur leere Versprechungen?
-date:
+date: 2016-08-26 23:00:00
 layout: post
 tags:
   - Insolvenz

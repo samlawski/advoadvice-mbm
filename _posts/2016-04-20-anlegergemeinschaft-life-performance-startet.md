@@ -1,6 +1,6 @@
 ---
 title: Anlegergemeinschaft Life Performance startet
-date:
+date: 2016-04-20 23:00:00
 layout: post
 tags:
   - Insolvenz

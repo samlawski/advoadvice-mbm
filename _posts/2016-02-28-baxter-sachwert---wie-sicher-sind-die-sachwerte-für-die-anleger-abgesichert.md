@@ -1,6 +1,6 @@
 ---
 title: Baxter Sachwert - Wie sicher sind die Sachwerte für die Anleger abgesichert?
-date:
+date: 2016-02-28 23:00:00
 layout: post
 tags:
   - Insolvenz
