@@ -35,4 +35,4 @@ Betroffene Anleger sollten nun pr&uuml;fen lassen, ob sie noch Ersatzanspr&uuml;
 
 Schadensersatzanspr&uuml;che aus Falschberatung k&ouml;nnen wohl auch im Insolvenzverfahren der Primus Produktmanagement GmbH zur Insolvenztabelle angemeldet werden, da die Gesellschaft sich als Komplement&auml;rin der In-Genium eine erfolgte Falschberatung nach der Rechtsprechung des BGH zum Az. II ZR 69/12 zurechnen lassen muss.
 
-Rechtsanwalt Dr. Tintemann hatte bereits im August 2013 vor einer Anlage bei der In-Genium Galvano Fonds GmbH & Co. KG gewarnt ([Link](http://tintemann.de/in-genium-galvano-fonds-gmbh-co-kg-fehlerhafte-widerrufsbelehrung-fuhrt-zur-ausstiegsmoglichkeit.html)) und auf Ausstiegsm&ouml;glichkeiten wegen Fehlern bei der Widerrufsbelehrung hingewiesen.
+Rechtsanwalt Dr. Tintemann hatte bereits im August 2013 vor einer Anlage bei der In-Genium Galvano Fonds GmbH & Co. KG gewarnt ([Link](http://tintemann.de/in-genium-galvano-fonds-gmbh-co-kg-fehlerhafte-widerrufsbelehrung-fuhrt-zur-ausstiegsmoglichkeit.html)) und auf Ausstiegsm&ouml;glichkeiten wegen Fehlern bei der Widerrufsbelehrung hingewiesen.&nbsp;
