@@ -3,6 +3,8 @@ title: Leasetrend AG - Klagen gegen Anleger erfolglos
 date: 2016-11-09 00:00:00
 layout: post
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
   - Leasetrend AG
   - Klage
   - Rückzahlung
