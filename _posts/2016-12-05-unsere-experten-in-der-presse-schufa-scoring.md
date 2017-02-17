@@ -5,12 +5,13 @@ layout: post
 tags:
   - Experten
   - Presse
-  - Schufa
-  - Scoring
+  - Schufa-Recht
+  - PRev
   - Zeitschrift für Revisionspraxis
+  - Scoring
   - Transparenz
   - Berechtigtes Interesse
-  - PRev
+  - Schufa Holding AG
   - Dr. Tintemann
   - AdvoAdvice
 team_member: dr-sven-tintemann
