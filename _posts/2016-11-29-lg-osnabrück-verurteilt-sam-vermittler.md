@@ -3,6 +3,9 @@ title: LG Osnabrück verurteilt SAM Vermittler
 date: 2016-11-29 00:00:00
 layout: post
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
   - SAM AG
   - LG Osnabrück
   - Vermittler
@@ -43,4 +46,4 @@ Die Entscheidung ist noch nicht rechtskräftig. Der beklagte Vermittler hat die 
 
 Die Kanzlei AdvoAdvice vertritt Anleger der SAM Management Group AG teils erstinstanzlich, aber vor allem in Berufungsverfahren gegen Verantwortliche und Hintermänner sowie gegen Berater und Vermittler der Kapitalanlage.
 
-Betroffene Anleger können sich an die Kanzlei AdvoAdvice Rechtsanwälte mbB für weitere Informationen und eine Ersteinschätzung wenden. AdvoAdvice Rechtsanwälte mbB erreichen betroffene Anleger unter 030-921 000 40 oder per mail [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;). Die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen, beide Fachanwälte für Bank- und Kapitalmarktrecht, verfügen über eine hohe Expertise und jahrelange Berufserfahrung in diesen und ähnlichen Fällen des Anlegerschutzes.
+Betroffene Anleger können sich an die Kanzlei AdvoAdvice Rechtsanwälte mbB für weitere Informationen und eine Ersteinschätzung wenden. AdvoAdvice Rechtsanwälte mbB erreichen betroffene Anleger unter 030-921 000 40 oder per mail [info@advoadvice.de](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;). Die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen, beide Fachanwälte für Bank- und Kapitalmarktrecht, verfügen über eine hohe Expertise und jahrelange Berufserfahrung in diesen und ähnlichen Fällen des Anlegerschutzes.
