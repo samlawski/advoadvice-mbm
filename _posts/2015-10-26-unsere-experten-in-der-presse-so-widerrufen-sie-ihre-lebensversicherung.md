@@ -4,10 +4,11 @@ date: 2015-10-26 16:17:00
 layout: post
 tags:
   - Experten
-  - Widerrufsjoker
   - Presse
+  - Versicherungsrecht
+  - Bild Zeitung
   - Bild
-  - Bild-Zeitung
+  - Widerrufsjoker
   - Vertrag
   - widerrufen
   - Klevenhagen
