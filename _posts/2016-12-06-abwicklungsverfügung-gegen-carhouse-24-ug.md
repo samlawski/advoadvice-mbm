@@ -3,6 +3,8 @@ title: Abwicklungsverfügung gegen Carhouse 24 UG
 date: 2016-12-06 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
+  - Kapitalmarktrecht
   - BaFin
   - Carhouse 24 UG
   - Investmentkredit
