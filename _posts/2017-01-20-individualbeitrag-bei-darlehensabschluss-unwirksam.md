@@ -3,6 +3,7 @@ title: Individualbeitrag bei Darlehensabschluss unwirksam
 date: 2017-01-20 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
   - Individualbeitrag
   - Darlehen
   - Darlehensvertrag
