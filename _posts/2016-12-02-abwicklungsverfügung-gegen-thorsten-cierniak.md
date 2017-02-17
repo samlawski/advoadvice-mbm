@@ -3,6 +3,8 @@ title: Abwicklungsverfügung gegen Thorsten Cierniak
 date: 2016-12-02 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
+  - Kapitalmarktrecht
   - BaFin
   - Abwicklungsverfügung
   - Cierniak
