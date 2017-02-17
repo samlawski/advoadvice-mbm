@@ -3,13 +3,12 @@ title: 'Unsere Experten in der Presse: Nachweis über die Zustellung von Mahnung
 date: 2015-11-23 18:49:00
 layout: post
 tags:
-  - Schufa Recht
-  - Rechtsanwalt
-  - Anwalt
   - Experten
   - Presse
+  - Schufa-Recht
   - Verbraucher und Recht
   - VuR
+  - Rechtsanwalt
   - Mahnung
   - Zustellung
   - Nachweis
