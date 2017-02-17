@@ -3,13 +3,15 @@ title: 'Anleger aufgepasst! Die BaFin ordnet die Abwicklung des Einlagen- und Kr
 date: 2016-10-28 00:00:00
 layout: post
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
   - Immo Perfekt AG
   - BaFin
   - Zwangsversteigerung
   - Einlagengeschäft
   - Darlehensnehmer
   - Anleger
-  - Anlegerschutz
   - Betroffen
   - Schadensersatz
   - KWG
