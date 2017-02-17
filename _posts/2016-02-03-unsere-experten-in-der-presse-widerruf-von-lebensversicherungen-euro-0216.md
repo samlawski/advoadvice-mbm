@@ -5,12 +5,13 @@ layout: post
 tags:
   - Experten
   - Presse
+  - Versicherungsrecht
+  - €uro
   - Widerrufsjoker
   - Anwalt
   - Rechtsanwalt
   - Widerruf
   - Lebensversicherung
-  - Euro
   - Chance
   - Millionen
   - Tintemann
