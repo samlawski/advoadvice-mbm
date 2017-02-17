@@ -3,6 +3,9 @@ title: Investition in Pflegeimmobilie - nicht immer eine kluge Investition
 date: 2016-11-21 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
+  - Kapitalmarktrecht
+  - Anlegerschutz
   - Pflegeimmobilie
   - Schrottimmobilie
   - Wertzuwachs
