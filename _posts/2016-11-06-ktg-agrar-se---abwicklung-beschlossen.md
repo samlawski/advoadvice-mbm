@@ -3,6 +3,9 @@ title: KTG Agrar SE - Abwicklung beschlossen
 date: 2016-11-06 00:00:00
 layout: post
 tags:
+  - Insolvenz
+  - Anlegerschutz
+  - Ansprüche
   - KTG Agrar SE
   - Gläubigerversammlung
   - Abwicklung
