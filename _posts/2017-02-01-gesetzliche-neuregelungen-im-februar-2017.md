@@ -3,6 +3,11 @@ title: Gesetzliche Neuregelungen im Februar 2017
 date: 2017-02-01 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
+  - Schlichtung
+  - Streitbeilegung
+  - Gurtpflicht
+  - Umzugskostenpauschale
 team_member: dr-sven-tintemann
 ---
 
