@@ -5,6 +5,7 @@ layout: post
 tags:
   - Experten
   - Presse
+  - Bank- und Kapitalmarktrecht
   - Portfolio International
   - 100.000 Euro
   - Rechtsanwalt
