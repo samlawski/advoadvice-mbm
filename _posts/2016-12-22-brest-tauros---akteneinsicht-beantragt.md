@@ -3,6 +3,9 @@ title: Brest Tauros - Akteneinsicht beantragt
 date: 2016-12-22 00:00:00
 layout: post
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
   - Brest Tauros
   - Insolvenz
   - Akteneinsicht
@@ -19,12 +22,12 @@ team_member: dr-sven-tintemann
 ---
 
 
-Die Rechtsanw&auml;lte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB vertreten die gesch&auml;digten Anleger in Sachen Brest Tauros-GmbH. F&uuml;r die bereits erfolgreich gegr&uuml;ndete Anlegergemeinschaft nehmen die Rechtsanw&auml;lte die Forderungsanmeldung zur Insolvenztabelle f&uuml;r die durch sie vertretenen Mandanten vor.
+Die Rechtsanwälte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB vertreten die geschädigten Anleger in Sachen Brest Tauros-GmbH. Für die bereits erfolgreich gegründete Anlegergemeinschaft nehmen die Rechtsanwälte die Forderungsanmeldung zur Insolvenztabelle für die durch sie vertretenen Mandanten vor.
 
-Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB verl&auml;sst sich f&uuml;r ihre Mandanten jedoch nicht auf das Ergebnis einer m&ouml;glichen sehr bescheidenen Insolvenzquote, sondern m&ouml;chte weitere Anspruchsgegner in Haftung nehmen.
+Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB verlässt sich für ihre Mandanten jedoch nicht auf das Ergebnis einer möglichen sehr bescheidenen Insolvenzquote, sondern möchte weitere Anspruchsgegner in Haftung nehmen.
 
-Wichtige Erkenntnisse f&uuml;r die Verfolgung der zivilrechtlichen Anspr&uuml;che erhoffen sich die Rechtsanw&auml;lte daher aus dem Insolvenzgutachten. Sie haben hierf&uuml;r beim Amtsgericht Leipzig die Gew&auml;hrung von Akteneinsicht zum Insolvenzverfahren der Brest-Tauros GmbH (Aktenzeichen des Insolvenzgerichts – 405 IN 1742/16) beantragt.
+Wichtige Erkenntnisse für die Verfolgung der zivilrechtlichen Ansprüche erhoffen sich die Rechtsanwälte daher aus dem Insolvenzgutachten. Sie haben hierfür beim Amtsgericht Leipzig die Gewährung von Akteneinsicht zum Insolvenzverfahren der Brest-Tauros GmbH (Aktenzeichen des Insolvenzgerichts – 405 IN 1742/16) beantragt.
 
-Wie bereits berichtet, richtet sich die Vornahme einer Akteneinsicht auf die Gewinnung wertvoller Informationen, wie die Anspr&uuml;che der gesch&auml;digten Darlehensgeber der Brest-Tauros GmbH weiter verfolgt werden k&ouml;nnen. Insbesondere sollen so f&uuml;r die gesch&auml;digten Anleger die Verantwortlichen ausfindig gemacht werden.
+Wie bereits berichtet, richtet sich die Vornahme einer Akteneinsicht auf die Gewinnung wertvoller Informationen, wie die Ansprüche der geschädigten Darlehensgeber der Brest-Tauros GmbH weiter verfolgt werden können. Insbesondere sollen so für die geschädigten Anleger die Verantwortlichen ausfindig gemacht werden.
 
-Gerne stehen die Rechtsanw&auml;lte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB den gesch&auml;digten Darlehensgebern f&uuml;r die sie bewegenden Fragen zur Verf&uuml;gung. Wir unterst&uuml;tzen Sie auch gern bei der Pr&uuml;fung und Durchsetzung aller in Betracht kommenden Anspr&uuml;che.
+Gerne stehen die Rechtsanwälte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB den geschädigten Darlehensgebern für die sie bewegenden Fragen zur Verfügung. Wir unterstützen Sie auch gern bei der Prüfung und Durchsetzung aller in Betracht kommenden Ansprüche.
