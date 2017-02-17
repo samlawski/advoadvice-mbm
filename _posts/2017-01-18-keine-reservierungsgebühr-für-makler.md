@@ -3,6 +3,7 @@ title: Keine Reservierungsgebühr für Makler
 date: 2017-01-18 00:00:00
 layout: post
 tags:
+  - Verbraucherinformation
   - Reservierungsvereinbarung
   - Makler
   - Immobilienkredit
