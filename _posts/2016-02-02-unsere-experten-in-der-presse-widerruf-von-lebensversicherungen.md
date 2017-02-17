@@ -4,13 +4,14 @@ date: 2016-02-02 23:00:00
 layout: post
 tags:
   - Experten
+  - Presse
+  - Versicherungsrecht
   - Euro am Sonntag
   - Widerruf
   - Lebensversicherung
   - Widerrufsjoker
   - Rentenpolice
   - Artikel
-  - Presse
   - Tintemann
   - Januar 2016
   - Rechtsanwalt
