@@ -1,9 +1,11 @@
 ---
-title: Widerruf von Darlehen wegen fehlender Angabe zur Aussichtsbehörde?
+title: Widerruf von Darlehen wegen fehlender Angabe zur Aufsichtsbehörde?
 date: 2017-01-06 00:00:00
 layout: post
 tags:
   - Widerruf
+  - Darlehen
+  - Bankrecht
   - Widerrufsjoker
   - Immobiliendarlehen
   - Sparkasse
