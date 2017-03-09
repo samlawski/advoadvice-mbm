@@ -3,6 +3,37 @@ title: BGH zu Bankenhaftung bei Schrottimmobilien
 date: 2017-03-09 00:00:00
 layout: post
 tags:
+  - Anlegerschutz
+  - Kapitalmarktecht
+  - Ansprüche
+  - Betroffener
+  - Bankkunden
+  - Bankrecht
+  - Bankenhaftung
+  - Bundesgerichtshof
+  - BGH
+  - XI ZR 145/14
+  - 18.10.2016
+  - Urteil
+  - Kaufpreis
+  - Verkehrswert
+  - grobes Missverhältnis
+  - vereinfachtes Ertragswertverfahren
+  - Eigentumswohnung
+  - Schrottimmobilie
+  - Schadensersatz
+  - Zwangsvollstreckung
+  - Grundschuld
+  - Vollstreckungsunterwerfung
+  - Wertgutachten
+  - sittenwidrig überteuert
+  - § 138 BGB
+  - Marktwert
+  - Vergleichswertverfahren
+  - Ertragswertverfahren
+  - Sachwertverfahren
+  - positive Kenntnis
+  - keine eigene Nachforschungspflicht
 team_member: kim-oliver-klevenhagen
 ---
 
