@@ -3,6 +3,24 @@ title: BGH zu Klausel bei Berufungsunfähigkeitsversicherung
 date: 2017-03-10 00:00:00
 layout: post
 tags:
+  - Versicherungsrecht
+  - Berufungsunfähigkeit
+  - Verbraucherverband
+  - Versicherungsverein auf Gegenseitigkeit
+  - Landgericht Berlin
+  - Schreibtischtätigkeit
+  - Klausel
+  - unwirksam
+  - Untersagung
+  - Verwendung
+  - Kammergericht
+  - Revision
+  - Bundesgerichtshof
+  - IV ZR 91/16
+  - Allgemeine Versicherungsbedingungen
+  - Erwerbsunfähigkeitsversicherung
+  - Erwerbungsunfähigkeit
+  - durchschnittlicher Versicherungsnehmer
 team_member: dr-sven-tintemann
 ---
 
@@ -13,7 +31,7 @@ Der Kl&auml;ger, ein Verbraucherverband, hatte gegen den Beklagten, einen Versic
 
 Das Landgericht Berlin gab dem Verbraucherverband Recht und bewertet diese Klausel als unwirksam und untersagte dem Versicherungsverein auf Gegenseitigkeit sowohl die Verwendung der Klausel als auch ein Berufen darauf bei der &Uuml;berpr&uuml;fung des Eintritts der Leistungspflicht des Berufsunf&auml;higkeitsversicherers.
 
-Dies lie&szlig; sich der Versicherungsverein auf Gegenseitigkeit nicht gefallen und rief das Kammergericht Berlin. Das Kammergericht Berlin best&auml;tigte die Auffassung des Landgerichts Berlin und verhalf der eingelegten Berufung nicht zum Erfolg. Jedoch lie&szlig; das Kammergericht Berlin aufgrund der grunds&auml;tzlichen Bedeutung bezogen auf die Auslegung von Versicherungsklauseln die Revision zum Bundesgerichtshof zu.
+Dies lie&szlig; sich der Versicherungsverein auf Gegenseitigkeit nicht gefallen und ging in die Berufung vor das Kammergericht Berlin. Das Kammergericht Berlin best&auml;tigte die Auffassung des Landgerichts Berlin und verhalf der eingelegten Berufung nicht zum Erfolg. Jedoch lie&szlig; das Kammergericht Berlin aufgrund der grunds&auml;tzlichen Bedeutung bezogen auf die Auslegung von Versicherungsklauseln die Revision zum Bundesgerichtshof zu.
 
 So musste sich nun der Bundesgerichtshof mit der Klausel befassen. Am 15. Februar 2017 verk&uuml;ndete er zum Aktenzeichen IV ZR 91/16 das Urteil.
 
@@ -41,13 +59,13 @@ Dies ist jedoch f&uuml;r einen durchschnittlichen Versicherungsnehmer nicht erke
 
 **Welche Folgen hat diese Feststellung des Bundesgerichtshofs?**
 
-Der Versicherer darf sich bei Vorliegen einer unwirksamen Klausel nicht mehr auf diese berufen. Dies f&uuml;hrt zum einen dazu, dass er den Eintritt des Versicherungsfalls „Berufsunf&auml;higkeit“ nicht mehr der Begr&uuml;ndung zur&uuml;ckweisen kann, dass diese noch gar nicht eingetreten ist. Zum anderen muss der Versicherer nunmehr anhand der konkreten Berufsaus&uuml;bung pr&uuml;fen, ob Berufsunf&auml;higkeit eingetreten und er damit leistungspflichtig ist.
+Der Versicherer darf sich bei Vorliegen einer unwirksamen Klausel nicht mehr auf diese berufen. Dies f&uuml;hrt zum einen dazu, dass er den Eintritt des Versicherungsfalls „Berufsunf&auml;higkeit“ nicht mehr mit der Begr&uuml;ndung zur&uuml;ckweisen kann, dass diese noch gar nicht eingetreten ist. Zum anderen muss der Versicherer nunmehr anhand der konkreten Berufsaus&uuml;bung pr&uuml;fen, ob Berufsunf&auml;higkeit eingetreten und er damit zur Leistung aus dem Versicherungsvertrag verpflichtet ist.
 
 **Fazit:**
 
-Es ist leider der Regelfall, dass die Berufsunf&auml;higkeitsversicherer sich gerne ihrer Leistungspflicht entziehen und auf Klauseln in ihren Allgemeinen Versicherungsbedingungen verweisen, wonach sie nicht leisten m&uuml;ssen. Jahrelang hat der Versicherungsnehmer jedoch treu und brav seine Pr&auml;mien gezahlt, um f&uuml;r den Fall der F&auml;lle hinsichtlich seines Lebensunterhalts abgesichert zu sein.
+Es ist leider der Regelfall, dass die Berufsunf&auml;higkeitsversicherer sich gerne ihrer Leistungspflicht entziehen und hierzu auf Klauseln in ihren Allgemeinen Versicherungsbedingungen verweisen, wonach sie nicht leisten m&uuml;ssen. Jahrelang hat der Versicherungsnehmer jedoch treu und brav seine Pr&auml;mien gezahlt, um f&uuml;r den Fall der F&auml;lle hinsichtlich seines Lebensunterhalts abgesichert zu sein.
 
-Nicht immer hat der Berufsunf&auml;higkeitsversicherer Recht mit seiner Aussage und die Klausel auf die er sich beruft, h&auml;lt einer Kontrolle nicht stand.
+Nicht immer hat der Berufsunf&auml;higkeitsversicherer Recht mit einer Ablehnung des Versicherungsfalls. Denn die eine oder andere Klausel auf die er sich beruft, h&auml;lt einer Kontrolle durch die Gericht oftmals nicht stand.
 
 Die Rechtsanw&auml;lte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB helfen betroffenen Versicherungsnehmern, Ihre Anspr&uuml;che gegen&uuml;ber dem Berufsunf&auml;higkeitsversicherer durchzusetzen und so zu Ihrem Recht zu kommen.
 
