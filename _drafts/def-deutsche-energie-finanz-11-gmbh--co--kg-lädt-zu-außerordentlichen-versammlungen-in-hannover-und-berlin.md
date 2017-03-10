@@ -1,6 +1,6 @@
 ---
 title: 'DEF Deutsche Energie Finanz 11 GmbH & Co. KG lädt zu außerordentlichen Versammlungen in Hannover und Berlin'
-date: 2017-03-10 00:00:00
+date: 2017-03-13 00:00:00
 layout: post
 tags:
   - Anlegerschutz
@@ -37,4 +37,4 @@ team_member: dr-sven-tintemann
 ---
 
 
-Hier kommt noch der richtige Text hin...
+Hier kommt noch der richtige Text hin…
