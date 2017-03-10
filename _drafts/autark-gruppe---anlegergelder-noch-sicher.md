@@ -13,7 +13,6 @@ tags:
   - Genussrecht
   - Autark
   - Autark-Gruppe
-  - Firmengeflecht
   - Autark Beteiligungs UG (haftungsbeschränkt)
   - Autark Capital Care GmbH
   - Autark Holding GmbH
@@ -21,6 +20,9 @@ tags:
   - Autark Invest AG
   - Dortmund
   - Liechtenstein
+  - FAZ
+  - Stiftung Warentest
+  - 15 O 152/16
 team_member: dr-sven-tintemann
 ---
 
@@ -38,6 +40,10 @@ Zur gleichen Gesch&auml;ftsanschrift ist die Autark Capital Care GmbH zu finden.
 Noch eine Gesellschaft hat ihren Sitz Im Defdahl 10c, 44141 Dortmund: die Autark Vertrieb- und Beteiligung GmbH.&nbsp; Auch hier war Herr J&ouml;rg S. aus Lennestadt einmal als Gesch&auml;ftsf&uuml;hrer bestellt. Am 11.09.2015 wurde ein Verschmelzungsvertrag mit der AUTARK Holding GmbH geschlossen. Wenig &uuml;berraschend hatte auch die AUTARK Holding GmbH ihren Sitz Im Defdahl 10 C, 44141 Dortmund und wies als Gesch&auml;ftsf&uuml;hrer Herrn J&ouml;rg S. auf.
 
 Das Firmengeflecht soll bis nach Liechtenstein zur Autark Invest AG f&uuml;hren.
+
+**Negative Presseberichte in der FAZ und Warnung bei der Stiftung Warentest**
+
+Erst im Januar hatte es Presseberichte in der Frankfurter Allgemeinen Zeitung (kurz FAZ) &uuml;ber die Autark Invest AG gegeben ([Zum Artikel der FAZ](http://www.faz.net/aktuell/finanzen/anleihen-zinsen/stiftung-warentest-warnt-vor-autark-gruppe-14629872.html)). Die Stiftung Warentest hatte die Anleger sogar ausdr&uuml;cklich vor einer weiteren Ratenzahlung an die Autark Invest AG gewarnt und berichtet, dass drei Staatanwaltschaften aktiv seien und es eine Gef&auml;hrung von Anlegerngeldern in H&ouml;he von 135 Mio Euro g&auml;be ([Zur Stiftung Warentest](https://www.test.de/Autark-Group-AG-Anleger-sollten-Einzahlungen-stoppen-5121689-0/)).
 
 **Hilfe f&uuml;r die Anleger notwendig – Haftungsgegner muss gepr&uuml;ft werden**
 
