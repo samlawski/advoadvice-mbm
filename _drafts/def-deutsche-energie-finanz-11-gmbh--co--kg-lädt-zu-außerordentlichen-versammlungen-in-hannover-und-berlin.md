@@ -1,6 +1,6 @@
 ---
 title: 'DEF Deutsche Energie Finanz 11 GmbH & Co. KG lädt zu außerordentlichen Versammlungen in Hannover und Berlin'
-date: 2017-03-13 00:00:00
+date: 2017-03-11 00:00:00
 layout: post
 tags:
   - Anlegerschutz
@@ -37,7 +37,7 @@ team_member: dr-sven-tintemann
 ---
 
 
-Die DEF Deutsche Energie Finanz 11 GmbH & Co. KG, Pappelallee 28, 22089 Hamburg meldet sich bei ihren Anlegern mit Schreiben vom 01.03.2017 und l&auml;dt diese zu Informationsveranstaltungen ein. Hintergrund der Veranstaltungen sind nach Angaben der Gesellschaft die aktuelle wirtschaftliche Situation der Gesellschaft und ein Liquidit&auml;tsengpass. Konkret findet eine Informationsveranstaltung im „Leonardo Hotel Hannover Airport“, Petzelstra&szlig;e 60, 30669 Hannover in der Zeit von 18 bis 21 Uhr statt. Eine weitere Veranstaltung folgt am 15.03.2017 im „Leonardo Hotel Berlin“, Wilmersdorfer Stra&szlig;e 32, 10585 Berlin im Zeitraum von 18 bis 21 Uhr.
+Die DEF Deutsche Energie Finanz 11 GmbH & Co. KG, Pappelallee 28, 22089 Hamburg meldet sich bei ihren Anlegern mit Schreiben vom 01.03.2017 und l&auml;dt diese zu Informationsveranstaltungen ein. Hintergrund der Veranstaltungen sind nach Angaben der Gesellschaft die aktuelle wirtschaftliche Situation der Gesellschaft und ein Liquidit&auml;tsengpass. Konkret findet eine Informationsveranstaltung am 14.03.2017 im „Leonardo Hotel Hannover Airport“, Petzelstra&szlig;e 60, 30669 Hannover in der Zeit von 18 bis 21 Uhr statt. Eine weitere Veranstaltung folgt am 15.03.2017 im „Leonardo Hotel Berlin“, Wilmersdorfer Stra&szlig;e 32, 10585 Berlin im Zeitraum von 18 bis 21 Uhr.
 
 Rechtsanwalt Dr. Tintemann, Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei AdvoAdvice Rechtsanw&auml;lte mbB in Berlin, kommentiert den Vorgang wie folgt:
 
