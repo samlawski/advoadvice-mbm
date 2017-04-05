@@ -29,6 +29,8 @@ team_member: dr-sven-tintemann
 
 AdvoAdvice hilft erneut einem Rechtsanwalt aus Hessen nunmehr auch in letzter Konsequenz, einen negativen Schufa-Eintrag abzuwenden. Die Barclays Bank PLC hatte bereits im Februar 2016 nach dem Antrag auf Erlass einer einstweiligen Verf&uuml;gung, den Antrag auf Widerruf des Negativeintrages anerkannt.[ Wir berichteten.](http://advoadvice.de/blog/schufa-eintrag-barclaycard-erkennt-antrag-auf-einstweilige-verf%C3%BCgung-vor-lg-hamburg-an/)
 
+![](/uploads/versions/lg-hamburg-außenansicht---x----1280-720x---.JPG)
+
 Im Anschluss daran wollte die Barclays Bank PLC die Einmeldevoraussetzungen dann doch in einem weiteren Gerichtsverfahren, dem sog. Hauptsacheverfahren, &uuml;berpr&uuml;fen lassen. Dadurch kam es zu einem weiteren Verfahren vor dem Landgericht Hamburg. Nach dem Austauschen der Schrifts&auml;tze und weiteren Verhandlungen, gelangte man schlie&szlig;lich zum nahezu gleichen Ergebnis, wie im Verfahren um den Erlass einer einstweiligen Vef&uuml;gung. Es wurde im Hauptsacheverfahren festgestellt, dass sich die Klageantr&auml;ge auf L&ouml;schung des Negativeintrages und auf Scorewertberichtigung mittlerweile erledigt hatten, da die Barclays Bank den streitigen Eintrag widerrufen und sich der Scorewert des betroffenen Rechtsanwalts hierdurch verbessert hatte. Die Kosten der Erledigung hatte die Beklagte Barclays Bank zu tragen.
 
 Zudem wurde die Barclays Bank zur Unterlassung in der Zukunft verurteilt ebenso wie zur &Uuml;bernahme au&szlig;ergerichtlich entstandener Rechtsanwaltskosten in H&ouml;he von 787,42 Euro. Auch die Kosten des Rechtsstreits wurden der Beklagten Barclays Bank PLC auferlegt.
