@@ -19,8 +19,10 @@ Was soll dann aber GOOD BANK sein? Vielleicht das Gegenteil von [BAD BANK](https
 
 Nein, GOOD BANK ist auch nicht das Name f&uuml;r ein neues verbraucherfreundliches Kreditinstitut, sondern eine neue Gesch&auml;ftsidee eines Betreibers einer Restaurantkette.
 
-GOOD BANK wirbt damit, das erste „vertical farm to table“ Restaurant der Welt zu sein. Bedeutet also ganz praktisch, dass die Zutaten f&uuml;r das Essen vor Ort im Restaurant selbst angebaut und geerntet werden.
+[GOOD BANK](http://good-bank.de/ueber-uns/)wirbt damit, das erste „vertical farm to table“ Restaurant der Welt zu sein. Bedeutet also ganz praktisch, dass die Zutaten f&uuml;r das Essen vor Ort im Restaurant selbst angebaut und geerntet werden.
 
 Man wird sehen, wie diese Gesch&auml;ftsidee des vertical Farming beim Verbraucher ankommt.
 
 Verbraucherfreundliche Bank, leider nein. Gesundes und leckeres Essen kann aber auch ein gutes Investment in die eigene Gesundheit und Zukunft sein.
+
+Siehe auch: http://good-bank.de/ueber-uns/
