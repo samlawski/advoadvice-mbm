@@ -1,16 +1,26 @@
 ---
 title: Good Bank Filiale in Berlin eröffnet
-date: 2017-04-04 00:00:00
+date: 2017-04-06 00:00:00
 layout: post
 tags:
-  - Anlegerschutz
-  - Kapitalmarktrecht
-  - BaFin
-  - Abwicklungsverfügung
-  - Dieter Böser
-  - Mahnbescheid
-  - 16.03.2017
-  - Einlagengeschäft
-  - KWG
+  - Good Bank
+  - Bad Bank
+  - Restaurant
+  - eigener Anbau
+  - Salat
+  - Vertical Farming
 team_member: dr-sven-tintemann
 ---
+
+
+F&auml;hrt man an der Rosa-Luxemburg Stra&szlig;e 5 in Berlin-Mitte vorbei, k&ouml;nnte man schnell zu dem Eindruck gelangen, dass dort mal wieder ein neues Bankhaus er&ouml;ffnet hat. Dies insbesondere wegen des vor der T&uuml;r prangenden Schriftzuges GOOD BANK.
+
+Was soll dann aber GOOD BANK sein? Vielleicht das Gegenteil von BAD BANK, also einer Bank, in welche die Banken ihre Schulden und ihre toxischen Papiere abschieben. Also dann eine Bank, in die die Banken ihre Gewinnpapiere verlagern?
+
+Nein, GOOD BANK ist auch nicht das Name f&uuml;r ein neues verbraucherfreundliches Kreditinstitut, sondern eine neue Gesch&auml;ftsidee eines Betreibers einer Restaurantkette.
+
+GOOD BANK wirbt damit, das erste „vertical farm to table“ Restaurant der Welt zu sein. Bedeutet also ganz praktisch, dass die Zutaten f&uuml;r das Essen vor Ort im Restaurant selbst angebaut und geerntet werden.
+
+Man wird sehen, wie diese Gesch&auml;ftsidee des vertical Farming beim Verbraucher ankommt.
+
+Verbraucherfreundliche Bank, leider nein. Gesundes und leckeres Essen kann aber auch ein gutes Investment in die eigene Gesundheit und Zukunft sein.
