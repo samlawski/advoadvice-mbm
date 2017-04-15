@@ -1,27 +1,26 @@
 ---
 title: Unsere Experten in der Presse - WELT über Lehman Klagen
-date: 2017-04-07 00:00:00
+date: 2017-04-21 00:00:00
 layout: post
 tags:
-  - Schufa-Eintrag
-  - Schufa-Recht
-  - Schufa Holding AG
-  - Negativeintrag
-  - Löschung
-  - Widerruf
-  - BDSG
-  - Barclays Bank PLC
-  - Urteil
-  - Anerkenntnisurteil
-  - LG Hamburg
-  - AdvoAdvice
-  - Einstweilige Verfügung
-  - Hauptsache
-  - Hauptsacheklage
-  - Musterurteil
-  - Verbraucher und Recht
-  - VuR 2016 S. 388 ff.
-  - Tintemann
-  - Advoadvice
+  - Experten
+  - Presse
+  - Anlegerschutz
+  - Bankrecht
+  - WELT
+  - Lehman Brothers
+  - Klage
+  - Falschberatung
+  - Citibank
+  - Targobank
+  - Dresdner Bank
+  - Hamburger Sparkasse
 team_member: dr-sven-tintemann
 ---
+
+
+In unserer neuen Reihe "Best of Presse und Medien" berichten wir nun einmal w&ouml;chentlich &uuml;ber eine bereits in der Vergangenheit liegende Berichterstattung &uuml;ber unsere Experten aus Presse, Medien oder Fachpresse.
+
+Heute in Beitragsklassiker vom 08.02.2010 aus der Tageszeitung WELT &uuml;ber Klagen von Lehman Anlegern.
+
+Einen [Link zum Artikel in der WELT](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html) finden Sie hier.
