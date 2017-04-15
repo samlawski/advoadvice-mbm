@@ -23,4 +23,6 @@ In unserer neuen Reihe "Best of Presse und Medien" berichten wir nun einmal w&ou
 
 Heute in Beitragsklassiker vom 08.02.2010 aus der Tageszeitung WELT &uuml;ber Klagen von Lehman Anlegern.
 
+[![WELT Online Logo - Fremde Marke](/uploads/versions/weltonline-logo---x----200-200x---.png)](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html)
+
 Einen [Link zum Artikel in der WELT](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html) finden Sie hier.
