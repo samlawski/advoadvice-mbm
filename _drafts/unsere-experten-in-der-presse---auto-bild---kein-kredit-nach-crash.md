@@ -20,6 +20,6 @@ Eine besondere Story brachte im Februar 2014 die Zeitschrift Auto Bild in ihrer 
 
 ![AUTO BILD Logo - Fremde Marke](/uploads/versions/auto-bild-logo---x----200-200x---.jpg)
 
-* Den Link zu dem von uns eingescannten Artikel finden Sie hier.
+Den Link zu dem von uns eingescannten Artikel finden Sie hier.
 
 &nbsp;
