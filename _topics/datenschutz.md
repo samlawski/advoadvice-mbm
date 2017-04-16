@@ -10,8 +10,7 @@ Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel imme
 * Meldungen und Scoring durch die Schufa Holding AG sowie andere Auskunfteien
 * Mi&szlig;brauch von Schufa-Meldungen als Inkasso- oder Druckmittel
 
-
-Wichtige Informationen zur vorzeitigen L&ouml;schung eines SCHUFA-Negativeintrages
+**Wichtige Informationen zur vorzeitigen L&ouml;schung eines SCHUFA-Negativeintrages**
 
 Die Schufa Holding AG (auch bekannt als Schutzgemeinschaft f&uuml;r die allgemeine Kreditsicherung) besteht als Gemeinschaftseinrichtung der kreditgebenden Wirtschaft. Die Kunden und Mitglieder der Schufa sind vor allem Unternehmen der Wirtschaft, die ihren Kunden Kredite oder Vertr&auml;ge mit langen Laufzeiten gew&auml;hren und daher auf deren Bonit&auml;t wesentlichen Wert legen.
 
