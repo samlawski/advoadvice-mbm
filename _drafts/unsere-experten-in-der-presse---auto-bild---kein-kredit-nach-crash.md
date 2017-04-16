@@ -23,3 +23,5 @@ Eine besondere Story brachte im Februar 2014 die Zeitschrift Auto Bild in ihrer 
 Den Link zu dem von uns eingescannten [Artikel als PDF Dokument](/uploads/Auto-Bild-Kein-Kredit-nach-Crash.pdf) finden Sie hier.
 
 &nbsp;
+
+&nbsp;
