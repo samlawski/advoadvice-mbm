@@ -11,6 +11,8 @@ tags:
   - Schufa Holding AG
   - Best of
 team_member: dr-sven-tintemann
+topics: 
+  - Schufa
 ---
 
 
