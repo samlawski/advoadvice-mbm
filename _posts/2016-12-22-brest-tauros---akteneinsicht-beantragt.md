@@ -18,6 +18,7 @@ tags:
   - BaFin
   - Einlagengeschäft
   - KWG
+topics: []
 team_member: dr-sven-tintemann
 ---
 

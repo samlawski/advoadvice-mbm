@@ -3,6 +3,7 @@ title: "Aktuelle Rechtsprechung zum Widerruf von Lebensversicherungen nach dem P
 date: 2016-08-30 09:00:00 -0500
 layout: post
 tags: ["Policenmodell", "Widerruf", "Lebensversicherung", "Ewiges Widerrufsrecht", "BGH", "BVerfG", "Karlsruhe"]
+topics: []
 team_member: dr-sven-tintemann
 ---
 

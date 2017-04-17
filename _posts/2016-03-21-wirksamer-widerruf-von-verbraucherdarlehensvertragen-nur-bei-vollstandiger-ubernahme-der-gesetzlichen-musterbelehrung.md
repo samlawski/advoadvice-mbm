@@ -3,6 +3,7 @@ title: "Wirksamer Widerruf von Verbraucherdarlehensverträgen nur bei vollständ
 date: 2016-03-21 18:00:00 -0500
 layout: post
 tags: ["Widerrufsbelehrung", "Darlehensverträge", "Darlehensvertrag", "Musterbelehrung", "Widerrufs-Joker", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice"]
+topics: []
 team_member: kim-oliver-klevenhagen
 ---
 

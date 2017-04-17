@@ -18,6 +18,7 @@ tags:
   - Widerruf auch nach Rückzahlung
   - XI ZR 501/15
   - kein besonderer Vertrauenstatbestand
+topics: []
 team_member: kim-oliver-klevenhagen
 ---
 

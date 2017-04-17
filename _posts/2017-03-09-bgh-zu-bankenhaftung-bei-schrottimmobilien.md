@@ -34,6 +34,7 @@ tags:
   - Sachwertverfahren
   - positive Kenntnis
   - keine eigene Nachforschungspflicht
+topics: []
 team_member: kim-oliver-klevenhagen
 ---
 

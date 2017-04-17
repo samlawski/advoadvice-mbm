@@ -14,6 +14,7 @@ tags:
   - vorbörsliche Aktien
   - Penny Stock
   - Vertriebskosten
+topics: []
 team_member: dr-sven-tintemann
 ---
 

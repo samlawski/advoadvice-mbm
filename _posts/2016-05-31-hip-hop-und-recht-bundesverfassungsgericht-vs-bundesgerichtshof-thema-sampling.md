@@ -3,6 +3,7 @@ title: "Hip-Hop und Recht – Bundesverfassungsgericht vs. Bundesgerichtshof –
 date: 2016-05-31 17:00:00 -0500
 layout: post
 tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Sampling", "Urteil", "Verfassungsbeschwerde", "Urheberrecht"]
+topics: []
 team_member: dr-sven-tintemann
 ---
 

@@ -21,6 +21,7 @@ tags:
   - Erwerbsunfähigkeitsversicherung
   - Erwerbungsunfähigkeit
   - durchschnittlicher Versicherungsnehmer
+topics: []
 team_member: dr-sven-tintemann
 ---
 

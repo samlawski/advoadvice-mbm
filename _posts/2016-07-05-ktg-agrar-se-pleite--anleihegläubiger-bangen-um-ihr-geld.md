@@ -18,6 +18,7 @@ tags:
   - Mittelstandsanleihe
   - Anlegergemeinschaft
   - www.ktg-agrar.de
+topics: []
 team_member: dr-sven-tintemann
 ---
 

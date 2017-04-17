@@ -13,6 +13,7 @@ tags:
   - KWG
   - Kreditwesengesetz
   - Emission
+topics: []
 team_member: dr-sven-tintemann
 ---
 

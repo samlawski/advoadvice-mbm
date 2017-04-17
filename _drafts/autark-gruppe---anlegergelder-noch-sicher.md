@@ -23,6 +23,7 @@ tags:
   - FAZ
   - Stiftung Warentest
   - 15 O 152/16
+topics: []
 team_member: dr-sven-tintemann
 ---
 

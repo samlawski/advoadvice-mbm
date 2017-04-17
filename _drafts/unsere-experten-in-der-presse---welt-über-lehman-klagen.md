@@ -15,6 +15,7 @@ tags:
   - Targobank
   - Dresdner Bank
   - Hamburger Sparkasse
+topics: []
 team_member: dr-sven-tintemann
 ---
 

@@ -18,6 +18,7 @@ tags:
   - 'ISIN: DE000A0DN1J4'
   - 'ISIN:DE000A1H3VN9'
   - 'ISIN:DE000A11QGQ1'
+topics: []
 team_member: dr-sven-tintemann
 ---
 

@@ -33,6 +33,7 @@ tags:
   - Procuratio Deutsche Sachwerte Verwaltungs UG (haftungsbeschränkt)
   - DEF Management GmbH
   - Hamburg
+topics: []
 team_member: dr-sven-tintemann
 ---
 

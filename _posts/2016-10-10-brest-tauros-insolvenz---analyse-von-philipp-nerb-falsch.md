@@ -17,6 +17,7 @@ tags:
   - Kreditwesengesetz
   - BaFin
   - grundbuchliche Besicherung
+topics: []
 team_member: dr-sven-tintemann
 ---
 
