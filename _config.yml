@@ -37,7 +37,7 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll/tagging
-  - jekyll-tagging-related_posts
+  # - jekyll-tagging-related_posts
   - jekyll-assets
 
 paginate: 6

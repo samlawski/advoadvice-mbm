@@ -7,11 +7,14 @@ GEM
     babel-transpiler (0.7.0)
       babel-source (>= 4.0, < 6)
       execjs (~> 2.0)
+    classifier-reborn (2.1.0)
+      fast-stemmer (~> 1.0)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     execjs (2.7.0)
     extras (0.1.0)
       forwardable-extended (~> 2.5)
+    fast-stemmer (1.0.2)
     fastimage (2.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
@@ -35,11 +38,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-tagging (1.0.1)
-      ruby-nuggets
-    jekyll-tagging-related_posts (0.2.2)
-      jekyll (~> 3.0)
-      jekyll-tagging (~> 1.0.0)
+    jekyll-tagging (1.1.0)
+      nuggets
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -48,7 +48,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    nuggets (1.0.0)
+    nuggets (1.5.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rack (1.6.5)
@@ -56,8 +56,6 @@ GEM
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
     rouge (1.11.1)
-    ruby-nuggets (1.0.0)
-      nuggets (= 1.0.0)
     safe_yaml (1.0.4)
     sass (3.4.23)
     sprockets (3.6.3)
@@ -73,11 +71,11 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
+  classifier-reborn
   jekyll (= 3.2)
   jekyll-assets
   jekyll-paginate
-  jekyll-tagging
-  jekyll-tagging-related_posts
+  jekyll-tagging (= 1.1.0)
   sprockets-es6
 
 BUNDLED WITH
