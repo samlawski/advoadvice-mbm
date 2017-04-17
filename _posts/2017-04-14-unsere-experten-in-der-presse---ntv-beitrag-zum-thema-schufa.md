@@ -12,7 +12,7 @@ tags:
   - Best of
 team_member: dr-sven-tintemann
 topics: 
-  - Schufa
+  - schufa
 ---
 
 
