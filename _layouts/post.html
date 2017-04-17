@@ -21,7 +21,6 @@ layout: page
       {% assign team_member_id = "/team_members/" | append: page.team_member %}
       {% assign team_member = site.team_members | where: "id", team_member_id | first %}
       <small>- {{page.date | date: "%d. %B %Y" }} :: {{ team_member.name }}</small>
-
     </article>
 
     {% if site.related_posts.size >= 1 %}
@@ -39,7 +38,6 @@ layout: page
             </div><!-- // blog-post -->
           </div><!-- // col -->
         {% endfor %}
-
       </section>
     {% endif %}
   </section>

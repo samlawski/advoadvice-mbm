@@ -1,6 +1,7 @@
 <section class="col-md-4 col-lg-3">
 
   {% unless page.path contains "_topics" %}
+    <!--  Show only on blog -->
     <div class="margin-tb-20">
       <input type="text" id="search_input" class="form-control" placeholder="Suche" />
     </div><!-- search -->
@@ -27,4 +28,26 @@
       <a href="#kontakt" class="a-scroll cta editable">Rückruftermin vereinbaren</a>
     </p>
   </div><!-- second-bg -->
+
+  {% if page.path contains "_topics" %}
+    <!--  Show only on on Topic page -->
+    {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
+    {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
+
+    {% if topic_posts.size >= 1 %}
+      <div class="margin-tb-20">
+        <h3 class="editable">Artikel zum Thema</h3>
+
+        {% for related_post in topic_posts limit: 3 %}
+          <div class="blog-post">
+            <h5>
+              <a href="{{ related_post.url }}">
+                {{ related_post.title }}
+              </a>
+            </h5>
+          </div><!-- // blog-post -->
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endif %}
 </section>
