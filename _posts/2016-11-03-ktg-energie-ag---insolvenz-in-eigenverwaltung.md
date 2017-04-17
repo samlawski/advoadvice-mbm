@@ -13,8 +13,8 @@ tags:
   - Eigenverwaltung
   - Insolvenzanmeldung
   - Anleihe
-  - 'WKN: A1ML25'
-  - 'ISIN: DE000A1ML257'
+  - "WKN A1ML25"
+  - "ISIN DE000A1ML257"
   - Gustav Zeck Stiftung
 topics: []
 team_member: dr-sven-tintemann
