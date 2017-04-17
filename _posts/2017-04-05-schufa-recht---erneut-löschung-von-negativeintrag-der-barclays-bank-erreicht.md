@@ -16,7 +16,8 @@ tags:
   - Bankkunden
   - Tintemann
   - AdvoAdvice
-topics: []
+topics:
+  - schufa
 team_member: dr-sven-tintemann
 ---
 

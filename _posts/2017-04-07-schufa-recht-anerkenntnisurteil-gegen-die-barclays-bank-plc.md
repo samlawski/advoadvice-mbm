@@ -23,7 +23,8 @@ tags:
   - VuR 2016 S. 388 ff.
   - Tintemann
   - Advoadvice
-topics: []
+topics:
+  - schufa
 team_member: dr-sven-tintemann
 ---
 
