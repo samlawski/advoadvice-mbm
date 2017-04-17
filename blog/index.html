@@ -12,7 +12,7 @@ layout: page
           <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
         </h1>
         <div class="padding-20">
-          {{post.content | truncatewords: 40}}<br><br>
+          {{post.content | strip_html | truncatewords: 40}}<br><br>
           <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
         </div><!-- post.body -->
         {% assign team_member_id = "/team_members/" | append: post.team_member %}
