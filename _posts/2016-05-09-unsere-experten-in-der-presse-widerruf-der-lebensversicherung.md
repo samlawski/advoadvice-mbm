@@ -17,7 +17,9 @@ tags:
   - Vermittler
   - AdvoAdvice
   - Dr. Sven Tintemann
-topics: []
+topics:
+  - medien
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
