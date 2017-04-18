@@ -289,6 +289,19 @@ a.label-default, a:link.label-default, a:hover.label-default {
   }
 }
 
+/* ----- sidebar */
+
+.medien-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 13px;
+
+  img {
+    width: 52px;
+    margin-right: 8px;
+  }
+}
+
 /* ----- footer */
 
 .lastfooter {
