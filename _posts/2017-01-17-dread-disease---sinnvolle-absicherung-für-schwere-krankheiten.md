@@ -14,7 +14,8 @@ tags:
   - Krebs
   - Schlaganfall
   - Gesundheitsfragen
-topics: []
+topics:
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
