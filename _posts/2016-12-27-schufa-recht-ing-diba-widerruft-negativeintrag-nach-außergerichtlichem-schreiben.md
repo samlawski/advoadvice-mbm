@@ -2,6 +2,7 @@
 title: 'Schufa-Recht: ING-DiBa widerruft Negativeintrag nach außergerichtlichem Schreiben'
 date: 2016-12-27 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Schufaeintrag
   - Schufa-Recht

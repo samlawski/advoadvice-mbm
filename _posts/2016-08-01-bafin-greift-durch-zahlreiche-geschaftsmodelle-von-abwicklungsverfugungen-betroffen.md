@@ -2,6 +2,7 @@
 title: "BaFin greift durch – zahlreiche Geschäftsmodelle von Abwicklungsverfügungen betroffen"
 date: 2016-08-01 17:00:00 -0500
 layout: post
+feature_bild_path: ""
 tags: ["BaFin", "Fact Swiss AG", "Altimeter Worldwide Services JLT", "Rechtsanwalt Johannes Praß", "Manfred Huber", "Einlagengeschäft", "Kreditgeschäft", "Abwicklung", "KWG", "Kreditwesengesetz", "Untersagung", "Abwickler", "Darlehen", "SPS Bank N.V.", "Care Tec Group", "Hans-Joachim Herrmann"]
 topics: []
 team_member: dr-sven-tintemann

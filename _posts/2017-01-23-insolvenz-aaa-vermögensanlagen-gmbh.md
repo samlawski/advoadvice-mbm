@@ -2,6 +2,7 @@
 title: Insolvenz AAA Vermögensanlagen GmbH
 date: 2017-01-23 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Insolvenz
   - Verbraucherinformation

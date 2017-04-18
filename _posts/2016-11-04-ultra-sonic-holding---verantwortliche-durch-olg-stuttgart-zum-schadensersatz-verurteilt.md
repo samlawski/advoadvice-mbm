@@ -2,6 +2,7 @@
 title: Ultra Sonic Holding - Verantwortliche durch OLG Stuttgart zum Schadensersatz verurteilt
 date: 2016-11-04 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

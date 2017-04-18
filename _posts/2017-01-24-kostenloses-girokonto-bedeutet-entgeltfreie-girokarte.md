@@ -2,6 +2,7 @@
 title: Kostenloses Girokonto bedeutet entgeltfreie Girokarte
 date: 2017-01-24 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Verbraucherinformation
   - Girokonto

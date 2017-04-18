@@ -2,6 +2,7 @@
 title: 'Unser Experten in der Presse: Probleme mit Namensdoppelgängern und Schufa-Einträgen'
 date: 2016-04-16 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Experten
   - Presse

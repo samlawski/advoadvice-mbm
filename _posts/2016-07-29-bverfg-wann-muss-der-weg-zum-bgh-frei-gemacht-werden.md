@@ -2,6 +2,7 @@
 title: "BVerfG: Wann muss der Weg zum BGH frei gemacht werden?"
 date: 2016-07-29 07:00:00 -0500
 layout: post
+feature_bild_path: ""
 tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Revision", "Versicherungsrecht", "Urteil", "Advoadvice", "Widerruf"]
 topics: []
 team_member: dr-sven-tintemann

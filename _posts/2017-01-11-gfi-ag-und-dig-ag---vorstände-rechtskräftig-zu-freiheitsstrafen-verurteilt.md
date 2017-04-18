@@ -2,6 +2,7 @@
 title: GFI AG und DIG AG - Vorstände rechtskräftig zu Freiheitsstrafen verurteilt
 date: 2017-01-11 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Verbraucherinformation
   - Kapitalmarktrecht

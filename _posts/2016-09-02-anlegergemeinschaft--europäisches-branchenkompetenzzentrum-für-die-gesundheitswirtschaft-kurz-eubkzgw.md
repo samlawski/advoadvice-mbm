@@ -2,6 +2,7 @@
 title: 'Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft (kurz: EUBKZGW)'
 date: 2016-09-02 23:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Insolvenz
   - Anlegerschutz

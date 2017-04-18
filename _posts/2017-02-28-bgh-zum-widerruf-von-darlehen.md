@@ -2,6 +2,7 @@
 title: BGH zum Widerruf von Darlehen
 date: 2017-02-28 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Widerruf
   - Darlehen

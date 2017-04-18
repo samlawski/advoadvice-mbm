@@ -2,6 +2,7 @@
 title: LG Osnabrück verurteilt SAM Vermittler
 date: 2016-11-29 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

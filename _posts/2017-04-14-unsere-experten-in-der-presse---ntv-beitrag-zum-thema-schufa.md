@@ -2,6 +2,7 @@
 title: Unsere Experten in der Presse - NTV Beitrag zum Thema Schufa
 date: 2017-04-14 00:00:00
 layout: post
+feature_bild_path: "/uploads/versions/ntv-logo---x----200-200x---.png"
 tags:
   - Experten
   - Presse

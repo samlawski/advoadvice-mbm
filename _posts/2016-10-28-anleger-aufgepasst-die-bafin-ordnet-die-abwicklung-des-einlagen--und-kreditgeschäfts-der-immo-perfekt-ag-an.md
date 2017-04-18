@@ -2,6 +2,7 @@
 title: 'Anleger aufgepasst! Die BaFin ordnet die Abwicklung des Einlagen- und Kreditgeschäfts der Immo Perfekt AG an'
 date: 2016-10-28 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

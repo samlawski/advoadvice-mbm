@@ -2,6 +2,7 @@
 title: Lease Trend AG kann kein Abfindungsguthaben mehr geltend machen – Prozesserfolg vor dem LG Frankfurt am Main
 date: 2017-04-03 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktecht

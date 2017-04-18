@@ -2,6 +2,7 @@
 title: BGH zu Klausel bei Berufungsunfähigkeitsversicherung
 date: 2017-03-10 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Versicherungsrecht
   - Berufungsunfähigkeit

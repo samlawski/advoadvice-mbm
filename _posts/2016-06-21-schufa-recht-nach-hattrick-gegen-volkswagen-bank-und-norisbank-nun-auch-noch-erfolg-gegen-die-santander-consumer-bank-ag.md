@@ -2,6 +2,7 @@
 title: 'Schufa-Recht: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch noch Erfolg gegen die Santander Consumer Bank AG'
 date: 2016-06-21 12:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Schufa Eintrag
   - Schufa-Recht

@@ -2,6 +2,7 @@
 title: 'Schufa-Recht: Negativeintrag bei Soldat im Afghanistan-Einsatz – Santander Consumer Bank AG widerruft Eintrag'
 date: 2016-09-08 12:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Schufa Eintrag
   - Schufa-Recht

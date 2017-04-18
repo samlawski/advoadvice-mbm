@@ -2,6 +2,7 @@
 title: Das Widerrufsrecht bei Immobiliendarlehen ist tot - es lebe die Zinsreduzierung bei Verstößen gegen die Kreditwürdigkeitsprüfung
 date: 2016-10-11 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Widerruf
   - Darlehensnehmer

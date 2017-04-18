@@ -2,6 +2,7 @@
 title: Aufklärungspflicht des Anlageberaters über seine Provision
 date: 2017-03-08 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

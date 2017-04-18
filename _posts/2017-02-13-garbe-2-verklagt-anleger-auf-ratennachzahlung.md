@@ -2,6 +2,7 @@
 title: Garbe 2 verklagt Anleger auf Ratennachzahlung
 date: 2017-02-13 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

@@ -2,6 +2,7 @@
 title: 'Die Hansa-Haus Kühlungsborn Capital GmbH & Co. KG ist insolvent!'
 date: 2016-09-29 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Insolvenz
   - Verbraucherinformation

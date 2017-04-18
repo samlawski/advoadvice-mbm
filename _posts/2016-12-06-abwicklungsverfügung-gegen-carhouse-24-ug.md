@@ -2,6 +2,7 @@
 title: Abwicklungsverfügung gegen Carhouse 24 UG
 date: 2016-12-06 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Verbraucherinformation
   - Kapitalmarktrecht

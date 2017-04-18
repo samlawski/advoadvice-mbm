@@ -2,6 +2,7 @@
 title: 'Unsere Experten in der Presse: Negativeinträge durch Inkassofirmen'
 date: 2015-10-12 17:41:00
 layout: post
+feature_bild_path: ""
 tags:
   - Schufa Recht
   - Experten

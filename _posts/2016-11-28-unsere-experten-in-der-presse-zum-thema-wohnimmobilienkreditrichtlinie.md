@@ -2,6 +2,7 @@
 title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-11-28 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Experten
   - Presse

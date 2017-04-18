@@ -2,6 +2,7 @@
 title: 'Unsere Experten in der Presse: Widerruf der Lebensversicherung'
 date: 2016-05-09 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Experten
   - Presse

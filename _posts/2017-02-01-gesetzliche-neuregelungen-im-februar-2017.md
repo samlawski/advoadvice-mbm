@@ -2,6 +2,7 @@
 title: Gesetzliche Neuregelungen im Februar 2017
 date: 2017-02-01 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Verbraucherinformation
   - Schlichtung

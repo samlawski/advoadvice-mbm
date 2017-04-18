@@ -2,6 +2,7 @@
 title: "ALAG Auto-Mobil GmbH & Co. KG unterliegt vor Pfälzischem Oberlandesgericht Zweibrücken"
 date: 2016-08-12 02:30:00 -0500
 layout: post
+feature_bild_path: ""
 tags: ["ALAG", "Automobil", "ALAG Auto-Mobil GmbH & Co. KG", "OLG", "Zweibrücken", "Prozess", "Erfolg", "AdvoAdvice", "Klevenhagen"]
 topics: []
 team_member: kim-oliver-klevenhagen

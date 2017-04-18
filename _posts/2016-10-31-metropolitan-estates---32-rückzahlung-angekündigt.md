@@ -2,6 +2,7 @@
 title: 'Metropolitan Estates - 32% Rückzahlung angekündigt'
 date: 2016-10-31 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

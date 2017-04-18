@@ -2,6 +2,7 @@
 title: Waren sich Butlers Anleger über Risiken im klaren?
 date: 2017-02-17 00:00:00
 layout: post
+feature_bild_path: ""
 tags:
   - Insolvenz
   - Anlegerschutz
