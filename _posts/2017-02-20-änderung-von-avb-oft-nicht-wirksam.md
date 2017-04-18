@@ -10,7 +10,8 @@ tags:
   - unwirksam
   - VVG
   - Versicherungsvertragsgesetz
-topics: []
+topics:
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
