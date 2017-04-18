@@ -13,7 +13,9 @@ tags:
   - widerrufen
   - Klevenhagen
   - Rechtsanwalt
-topics: []
+topics:
+  - medien
+  - versicherungsrecht
 team_member: kim-oliver-klevenhagen
 ---
 
