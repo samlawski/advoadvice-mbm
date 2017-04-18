@@ -11,7 +11,9 @@ tags:
   - kostenlos
   - Landgericht Düsseldorf
   - überraschende Klauseln
-topics: []
+topics:
+  - bank-und-kapitalmarktrecht
+  - sonstiges
 team_member: dr-sven-tintemann
 ---
 
