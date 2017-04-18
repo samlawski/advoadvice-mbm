@@ -24,7 +24,9 @@ tags:
   - Anmeldung
   - Totalverlust
   - InsO
-topics: []
+topics:
+  - insolvenzrecht
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
