@@ -11,7 +11,9 @@ tags:
   - Bundesgerichtshof
   - unwirksam
   - OLG Düsseldorf
-topics: []
+topics:
+  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
