@@ -10,10 +10,11 @@ tags:
   - NTV
   - Schufa Holding AG
   - Best of
-topics: []
-team_member: dr-sven-tintemann
-topics: 
+topics:
   - schufa
+  - medien
+  - datenschutz
+team_member: dr-sven-tintemann
 ---
 
 
