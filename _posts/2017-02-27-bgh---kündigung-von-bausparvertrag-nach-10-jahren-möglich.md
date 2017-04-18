@@ -26,7 +26,9 @@ tags:
   - Bauspargeschäft
   - §489 Abs. 1 Nr. 3 BGB
   - zehn Jahre Kündigungsfrist
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
