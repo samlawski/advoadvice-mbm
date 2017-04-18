@@ -17,7 +17,9 @@ tags:
   - 2-12 O 189/15
   - OLG Frankfurt
   - 1 U 32/13
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
