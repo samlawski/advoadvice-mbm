@@ -14,7 +14,9 @@ tags:
   - Insolvenzverwalter
   - Rechtsanwalt Tobias Hohmann
   - Anmeldung bis zum 23.02.2017
-topics: []
+topics:
+  - insolvenzrecht
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
