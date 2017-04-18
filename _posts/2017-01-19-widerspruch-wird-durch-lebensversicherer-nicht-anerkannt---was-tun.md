@@ -14,7 +14,8 @@ tags:
   - 19.12.2013
   - § 5 a VVG
   - Bundesgerichtshof
-topics: []
+topics:
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
