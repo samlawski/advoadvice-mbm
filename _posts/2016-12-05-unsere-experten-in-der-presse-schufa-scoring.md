@@ -14,7 +14,9 @@ tags:
   - Schufa Holding AG
   - Dr. Tintemann
   - AdvoAdvice
-topics: []
+topics:
+  - medien
+  - schufa
 team_member: dr-sven-tintemann
 ---
 
