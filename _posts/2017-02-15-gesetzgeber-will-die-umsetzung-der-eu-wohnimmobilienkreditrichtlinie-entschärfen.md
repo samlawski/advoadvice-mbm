@@ -11,7 +11,8 @@ tags:
   - Kreditwürdigkeitsprüfung
   - Kreditvergabe
   - Förderdarlehen
-topics: []
+topics:
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
