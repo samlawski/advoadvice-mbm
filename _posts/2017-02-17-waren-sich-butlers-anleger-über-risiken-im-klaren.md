@@ -22,7 +22,9 @@ tags:
   - Haftung
   - Vermittler
   - Geschäftsführer
-topics: []
+topics:
+  - anlegerschutz
+  - insolvenzrecht
 team_member: dr-sven-tintemann
 ---
 
