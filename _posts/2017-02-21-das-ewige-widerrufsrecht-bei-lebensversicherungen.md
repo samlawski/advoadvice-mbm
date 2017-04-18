@@ -12,7 +12,8 @@ tags:
   - Versicherungsvertragsgesetz
   - Widerspruch
   - § 5a VVG
-topics: []
+topics:
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
