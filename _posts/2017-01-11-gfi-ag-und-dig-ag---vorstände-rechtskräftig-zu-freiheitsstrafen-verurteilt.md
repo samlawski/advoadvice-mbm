@@ -19,7 +19,9 @@ tags:
   - 5-02 KLs 18/15 7550 Js 212632/11
   - § 32 KWG
   - § 54 KWG
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
