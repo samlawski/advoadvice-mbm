@@ -16,7 +16,9 @@ tags:
   - Kick-back
   - Rechtsanwalt
   - Dr. Tintemann
-topics: []
+topics:
+  - medien
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
