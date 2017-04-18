@@ -5,7 +5,8 @@ layout: post
 tags:
   - Verbraucherinformationen
   - Leitzinserhöhung
-topics: []
+topics:
+  - sonstiges
 team_member: kim-oliver-klevenhagen
 ---
 
