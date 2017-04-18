@@ -15,7 +15,9 @@ tags:
   - Falschberatung
   - Prozesserfolg
   - erste Instanz
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
