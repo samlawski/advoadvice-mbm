@@ -12,7 +12,9 @@ tags:
   - 16.03.2017
   - Einlagengeschäft
   - KWG
-topics: []
+topics:
+  - bank-und-kapitalmarktrecht
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
