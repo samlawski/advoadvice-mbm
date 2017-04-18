@@ -18,7 +18,9 @@ tags:
   - Widerruf auch nach Rückzahlung
   - XI ZR 501/15
   - kein besonderer Vertrauenstatbestand
-topics: []
+topics:
+  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarktrecht
 team_member: kim-oliver-klevenhagen
 ---
 
