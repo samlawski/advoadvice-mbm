@@ -17,7 +17,9 @@ tags:
   - Anerkenntnis
   - Erfolg
   - AdvoAdvice
-topics: []
+topics:
+  - schufa
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
