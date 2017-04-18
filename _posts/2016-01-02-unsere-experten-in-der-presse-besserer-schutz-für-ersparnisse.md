@@ -16,7 +16,9 @@ tags:
   - Konto
   - Entschädigung
   - Rückzahlung
-topics: []
+topics:
+  - medien
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
