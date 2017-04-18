@@ -34,7 +34,8 @@ tags:
   - Irland Insolvenz
   - Spanien Insolvenz
   - Frankreich Insolvenz
-topics: []
+topics:
+  - insolvenzrecht
 team_member: dr-sven-tintemann
 ---
 
