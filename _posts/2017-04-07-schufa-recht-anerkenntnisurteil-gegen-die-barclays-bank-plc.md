@@ -25,8 +25,10 @@ tags:
   - Advoadvice
 topics:
   - schufa
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
+
 
 AdvoAdvice hilft erneut einem Rechtsanwalt aus Hessen nunmehr auch in letzter Konsequenz, einen negativen Schufa-Eintrag abzuwenden. Die Barclays Bank PLC hatte bereits im Februar 2016 nach dem Antrag auf Erlass einer einstweiligen Verfügung, den Antrag auf Widerruf des Negativeintrages anerkannt.[ Wir berichteten.](http://advoadvice.de/blog/schufa-eintrag-barclaycard-erkennt-antrag-auf-einstweilige-verf%C3%BCgung-vor-lg-hamburg-an/)
 
