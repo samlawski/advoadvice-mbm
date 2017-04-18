@@ -35,7 +35,8 @@ tags:
   - Vereinbaren eines Notartermins
   - Amtsgericht Charlottenburg
   - 216 C 270/13
-topics: []
+topics:
+  - sonstiges
 team_member: kim-oliver-klevenhagen
 ---
 
