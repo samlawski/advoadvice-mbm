@@ -16,7 +16,9 @@ tags:
   - VuR
   - Presse
   - Fachzeitschrift
-topics: []
+topics:
+  - medien
+  - schufa
 team_member: dr-sven-tintemann
 ---
 
