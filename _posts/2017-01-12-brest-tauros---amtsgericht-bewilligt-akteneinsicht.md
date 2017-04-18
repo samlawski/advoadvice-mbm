@@ -15,7 +15,9 @@ tags:
   - aufgelöst
   - Handelsregister
   - AdvoAdvice
-topics: []
+topics:
+  - insolvenzrecht
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
