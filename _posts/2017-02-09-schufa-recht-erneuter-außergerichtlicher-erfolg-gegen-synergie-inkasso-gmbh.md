@@ -17,7 +17,9 @@ tags:
   - Aufrechnung
   - Kostenübernahme
   - AdvoAdvice
-topics: []
+topics:
+  - schufa
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
