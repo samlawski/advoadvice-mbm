@@ -19,7 +19,9 @@ tags:
   - Mitglieder
   - unbeschränkt
   - gesamtschuldnerisch
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
