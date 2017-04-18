@@ -19,7 +19,9 @@ tags:
   - BGB-Informationspflichten-Verordnung
   - Anwaltsfehler
   - Anwaltsregress
-topics: []
+topics:
+  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
