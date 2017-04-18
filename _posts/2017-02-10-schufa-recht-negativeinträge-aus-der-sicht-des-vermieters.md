@@ -21,7 +21,9 @@ tags:
   - Schuldner
   - Mietschulden
   - Mietschuldenfreiheit
-topics: []
+topics:
+  - datenschutz
+  - schufa
 team_member: dr-sven-tintemann
 ---
 
