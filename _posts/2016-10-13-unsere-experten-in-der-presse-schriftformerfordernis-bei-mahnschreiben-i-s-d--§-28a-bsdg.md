@@ -16,7 +16,9 @@ tags:
   - Analyse
   - Tintemann
   - AdvoAdvice
-topics: []
+topics:
+  - medien
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
