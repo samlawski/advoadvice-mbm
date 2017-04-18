@@ -23,7 +23,9 @@ tags:
   - rechtzeitig
   - BGH XI ZR 345/10
   - III ZR 389/12
-topics: []
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
