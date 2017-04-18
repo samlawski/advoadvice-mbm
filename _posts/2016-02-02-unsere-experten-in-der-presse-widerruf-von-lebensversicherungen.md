@@ -18,7 +18,9 @@ tags:
   - Nürnberger Versicherung
   - AdvoAdvice
   - Versicherer
-topics: []
+topics:
+  - medien
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
