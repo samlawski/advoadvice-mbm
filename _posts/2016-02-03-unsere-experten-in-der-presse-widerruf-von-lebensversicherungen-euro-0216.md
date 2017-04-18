@@ -21,7 +21,9 @@ tags:
   - Prisma Life
   - Dr. Tintemann
   - Zweite Chance für Millionen
-topics: []
+topics:
+  - medien
+  - versicherungsrecht
 team_member: dr-sven-tintemann
 ---
 
