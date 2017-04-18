@@ -17,7 +17,9 @@ tags:
   - Fachzeitschrift
   - Bundesdatenschutzgesetz
   - wertvolle Hinweise
-topics: []
+topics:
+  - medien
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
