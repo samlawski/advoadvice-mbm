@@ -18,7 +18,9 @@ tags:
   - Galvono-Therapie
   - Beteiligung
   - Amtsgericht Deggendorf
-topics: []
+topics:
+  - insolvenzrecht
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
