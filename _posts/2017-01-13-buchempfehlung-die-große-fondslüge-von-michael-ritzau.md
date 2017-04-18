@@ -17,7 +17,9 @@ tags:
   - Sparkassen
   - Banken
   - Stiftung Warentest
-topics: []
+topics:
+  - sonstiges
+  - anlegerschutz
 team_member: dr-sven-tintemann
 ---
 
