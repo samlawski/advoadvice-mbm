@@ -14,7 +14,8 @@ tags:
   - OLG München
   - Pflichtangabe
   - AdvoAdvice
-topics: []
+topics:
+  - widerruf-verbraucherdarlehen
 team_member: dr-sven-tintemann
 ---
 
