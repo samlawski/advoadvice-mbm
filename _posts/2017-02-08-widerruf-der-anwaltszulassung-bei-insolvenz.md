@@ -10,7 +10,9 @@ tags:
   - BRAO
   - BGH
   - Urteil
-topics: []
+topics:
+  - insolvenzrecht
+  - sonstiges
 team_member: dr-sven-tintemann
 ---
 
