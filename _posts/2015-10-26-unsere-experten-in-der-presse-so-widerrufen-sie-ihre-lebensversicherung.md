@@ -23,4 +23,6 @@ team_member: kim-oliver-klevenhagen
 
 Rechtsanwalt Kim Oliver Klevenhagen - Beitrag vom 19.10.2015 in [Bildzeitung](http://www.bild.de/bild-plus/ratgeber/verbrauchertipps/lebensversicherung/bild-gibt-tipps-zum-widerruf-43060004,var=x,view=conversionToLogin.bild.html "Link: http://www.bild.de/bild-plus/ratgeber/verbrauchertipps/lebensversicherung/bild-gibt-tipps-zum-widerruf-43060004,var=x,view=conversionToLogin.bild.html")
 
-Wer seine Lebensversicherung widerrufen möchte, kann dies häufig problemlos tun. Der Grund: ein Großteil der Verträge war fehlerhaft! Darum haben viele Versicherte nun die Chance, ihre Lebensversicherung rückabzuwickeln und ihr Geld zurückzufordern.
+![](/uploads/versions/bild-logo---x----103-103x---.png)
+
+Wer seine Lebensversicherung widerrufen m&ouml;chte, kann dies h&auml;ufig problemlos tun. Der Grund: ein Gro&szlig;teil der Vertr&auml;ge war fehlerhaft! Darum haben viele Versicherte nun die Chance, ihre Lebensversicherung r&uuml;ckabzuwickeln und ihr Geld zur&uuml;ckzufordern.
