@@ -2,7 +2,7 @@
 title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-11-28 00:00:00
 layout: post
-feature_bild_path: ""
+feature_bild_path: /uploads/bkr-ausgabe.jpg
 tags:
   - Experten
   - Presse
@@ -21,6 +21,8 @@ team_member: kim-oliver-klevenhagen
 ---
 
 
-Das Berliner Anwaltsblatt hat in seiner Ausgabe einen Artikel zur Umsetzung der Wohnimmobilienkreditrichtlinie in deutsches Recht veröffentlicht. In der Ausgabe aus dem November 2016 geben RA Klevenhagen und Dr. Erik Olaf Kraatz einen ersten Überblick über die Neuerungen in der Gesetzessystematik, bei der Kreditwürdigkeitsprüfung und den Informationspflichten, die der Darlehensgeber erfüllen muss.
+Das Berliner Anwaltsblatt hat in seiner Ausgabe einen Artikel zur Umsetzung der Wohnimmobilienkreditrichtlinie in deutsches Recht ver&ouml;ffentlicht. In der Ausgabe aus dem November 2016 geben RA Klevenhagen und Dr. Erik Olaf Kraatz einen ersten &Uuml;berblick &uuml;ber die Neuerungen in der Gesetzessystematik, bei der Kreditw&uuml;rdigkeitspr&uuml;fung und den Informationspflichten, die der Darlehensgeber erf&uuml;llen muss.
 
-Eine ausführlicher Version des Fachartikels von RA Klevenhagen und Dr. Kraatz zu diesem Thema wird in der Dezember Ausgabe der Zeitschrift für Bank- und Kapitalmarktrecht (kurz: BKR 12/2016) erscheinen.
+![BKR Zeitschrift - Fremde Marke](/uploads/versions/bkr-ausgabe---x----160-227x---.jpg)
+
+Eine ausf&uuml;hrlicher Version des Fachartikels von RA Klevenhagen und Dr. Kraatz zu diesem Thema wird in der Ausgabe Februar 2017 der Zeitschrift f&uuml;r Bank- und Kapitalmarktrecht (kurz: BKR 02/2017) erscheinen - Zitathinweis: Kraatz/Klevenhagen in BKR 2017, 45 ff.
