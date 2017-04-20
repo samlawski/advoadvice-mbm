@@ -22,9 +22,11 @@ team_member: dr-sven-tintemann
 ---
 
 
-Die Zeitschrift Revisionspraxis (kurz: PRev), ein Journal für Revisoren, Wirtschaftsprüfer, IT-Sicherheits- und Datenschutzbeauftragte enthält in ihrer Ausgabe für den Dezember 2016 einen Artikel von Rechtsanwalt Dr. Tintemann zum Thema Scoring, Transparenz und berechtigtes Interesse der Schufa Holding AG und gibt einen Überblick zu verschiedenen Themen rund um Auskunfteien, den Datenschutz und Rechtsschutzmöglichkeiten.
+Die Zeitschrift Revisionspraxis (kurz: PRev), ein Journal f&uuml;r Revisoren, Wirtschaftspr&uuml;fer, IT-Sicherheits- und Datenschutzbeauftragte enth&auml;lt in ihrer Ausgabe f&uuml;r den Dezember 2016 einen Artikel von Rechtsanwalt Dr. Tintemann zum Thema Scoring, Transparenz und berechtigtes Interesse der Schufa Holding AG und gibt einen &Uuml;berblick zu verschiedenen Themen rund um Auskunfteien, den Datenschutz und Rechtsschutzm&ouml;glichkeiten.
 
-Auf sechs Seiten wird ein Überblick gegeben über die folgenden Themenbereiche:
+![PREV Zeitschrift - Fremde Marke](/uploads/versions/prev-logo---x----200-275x---.jpg)
+
+Auf sechs Seiten wird ein &Uuml;berblick gegeben &uuml;ber die folgenden Themenbereiche:
 
 * Scoringsverfahren
   <br>- Transparenz
@@ -32,4 +34,3 @@ Auf sechs Seiten wird ein Überblick gegeben über die folgenden Themenbereiche:
   <br>- Fazit
 
 Das Magazin ist unter der ISSN 1862-9032 erschienen und wird von Boorberg verlegt.
-<br>
