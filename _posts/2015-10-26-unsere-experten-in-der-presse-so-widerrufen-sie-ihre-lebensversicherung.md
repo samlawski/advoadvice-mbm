@@ -2,7 +2,7 @@
 title: 'Unsere Experten in der Presse: So widerrufen Sie Ihre Lebensversicherung'
 date: 2015-10-26 16:17:00
 layout: post
-feature_bild_path: ""
+feature_bild_path: /uploads/bild-logo.png
 tags:
   - Experten
   - Presse
