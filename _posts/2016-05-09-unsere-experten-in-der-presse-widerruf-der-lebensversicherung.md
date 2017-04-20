@@ -27,7 +27,7 @@ team_member: dr-sven-tintemann
 
 Das Magazin Portfolio International berichtet in seiner Ausgabe Nr. 2 aus April/Mai 2016 &uuml;ber die Thematik des Widerrufs der Lebensversicherung. Hier geht es im Schwerpunkt um die Frage, ob der Berater bzw. Vermittler (z.B. Makler oder Mehrfachagent) der Lebensversicherung seine Courtage zur&uuml;ckzahlen muss, wenn der Kunde mit einer Klage auf Anerkennung seines Widerrufs der Lebensversicherung Erfolg hat.
 
-![](/uploads/versions/portfolio-international---x----200-48x---.png)
+![Portfolio International Logo - Fremde Marke](/uploads/versions/portfolio-international---x----200-48x---.png)
 
 Hierzu befragte die freie Journalistin Barbara Moormann Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Dr. Sven Tintemann von der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB. Den Artikel finden Sie in der Ausgabe Nr. 2 aus 2016 auf den Seiten 28 und 29 des Magazins.
 
