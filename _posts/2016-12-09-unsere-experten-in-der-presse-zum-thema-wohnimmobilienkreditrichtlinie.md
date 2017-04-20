@@ -30,6 +30,8 @@ In dem Artikel werden unter anderem behandelt:
   <br>- Informationspflichten der Darlehensgeber
   <br>- Neuerungen bei der Kreditw&uuml;rdigkeitspr&uuml;fung
 
-![BKR Logo - Fremde Marke](/uploads/versions/bkr-ausgabe---x----160-227x---.jpg)[http://tintemann.de/wp-content/uploads/2017/03/BKR-2017-45-ff.-Umsetzung-Wohnimmobilienkreditrichtlinie.pdf](http://tintemann.de/wp-content/uploads/2017/03/BKR-2017-45-ff.-Umsetzung-Wohnimmobilienkreditrichtlinie.pdf)Eine Kurzversion des Fachartikels war bereits in der November Ausgabe des Berliner Anwaltsblattes erschienen.
+![BKR Logo - Fremde Marke](/uploads/versions/bkr-ausgabe---x----160-227x---.jpg)
+
+Eine Kurzversion des Fachartikels war bereits in der November Ausgabe des Berliner Anwaltsblattes erschienen.
 
 ![Berliner Anwaltsblatt - Fremde Marke](/uploads/versions/berliner-anwaltsblatt---x----212-300x---.jpg)
