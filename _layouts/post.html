@@ -23,11 +23,7 @@ layout: page
       <small>- {{page.date | date: "%d. %B %Y" }} :: {{ team_member.name }}</small>
     </article>
 
-    <div>
-      <hr>
-      <h3 class="editable">Das könnte Sie auch interessieren</h3>
-      {% include related_posts.html %}
-    </div>
+    {% include related_posts.html %}
   </section>
 
   <!-- SIDEBAR -->
