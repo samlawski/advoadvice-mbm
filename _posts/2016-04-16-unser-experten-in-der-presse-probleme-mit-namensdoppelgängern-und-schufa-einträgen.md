@@ -22,7 +22,7 @@ tags:
   - Selbstauskunft
 topics:
   - medien
-  - schufa
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
