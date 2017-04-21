@@ -1,6 +1,6 @@
 ---
 title: Unsere Experten in der Presse - Auto Bild - Kein Kredit nach Crash
-date: 2017-05-04 00:00:00
+date: 2017-04-21 00:00:00
 layout: post
 tags:
   - Experten
@@ -12,17 +12,14 @@ tags:
   - nach Crash
   - Unfall
   - Selbstbeteiligung
-topics: []
+topics:
+  - medien
 team_member: dr-sven-tintemann
 ---
 
 
-Eine besondere Story brachte im Februar 2014 die Zeitschrift Auto Bild in ihrer Print Ausgabe. Die Zeitschrift berichtete &uuml;ber einen Fall, bei dem nach einem Unfall mit offener Selbstbeteiligung bei der Kfz-Haftpflichtversicherung ein Schufa Negativeintrag lanciert worden war.
+Eine besondere Story brachte im Februar 2014 die Zeitschrift Auto Bild in ihrer Print Ausgabe. Die Zeitschrift berichtete über einen Fall, bei dem nach einem Unfall mit offener Selbstbeteiligung bei der Kfz-Haftpflichtversicherung ein Schufa Negativeintrag lanciert worden war.
 
 [![AUTO BILD Logo - Fremde Marke](/uploads/versions/auto-bild-logo---x----200-200x---.jpg)](/uploads/Auto-Bild-Kein-Kredit-nach-Crash.pdf)
 
 Den Link zu dem von uns eingescannten [Artikel als PDF Dokument](/uploads/Auto-Bild-Kein-Kredit-nach-Crash.pdf) finden Sie hier.
-
-&nbsp;
-
-&nbsp;
