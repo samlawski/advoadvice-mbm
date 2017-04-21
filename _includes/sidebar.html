@@ -17,9 +17,11 @@
     </p>
   </div><!-- second-bg -->
 
-  <!-- ARTIKEL ZUM THEMA -->
+
   {% if page.path contains "_topics" %}
     <!--  Show only on on Topic page -->
+
+    <!-- ARTIKEL ZUM THEMA -->
     {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
     {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
 
@@ -38,22 +40,21 @@
         {% endfor %}
       </div>
     {% endif %}
-  {% endif %}
 
-  <!-- IN DEN MEDIEN -->
-  <div class="margin-tb-20">
-    <h3 class="editable">Unsere Experten in den Medien</h3>
+    <!-- IN DEN MEDIEN -->
+    {% assign medien_posts = site.posts | where_exp:"post", "post.topics contains 'medien'" | where_exp:"post", "post.topics contains topic_path" %}
 
+    {% if medien_posts.size < 1 %}
+      <!--  Show all posts if there are none specific for this category -->
+      {% assign medien_posts = site.posts | where_exp:"post", "post.topics contains 'medien'" %}
+    {% endif %}
+
+    {% include medien.html medien_posts=medien_posts %}
+  {% else %}
+    <!--  Show only on blog -->
+
+    <!-- IN DEN MEDIEN -->
     {% assign medien_posts = site.posts | where_exp:"post", "post.topics contains 'medien'" %}
-    {% for medien_post in medien_posts limit: 6 %}
-      <a href="{{ medien_post.url }}" class="medien-block">
-        {% if medien_post.feature_bild_path.size >= 1 %}
-          <div>
-            <img src="{{medien_post.feature_bild_path}}" />
-          </div>
-        {% endif %}
-        <h5>{{ medien_post.title }}</h5>
-      </a><!-- // blog-post -->
-    {% endfor %}
-  </div>
+    {% include medien.html medien_posts=medien_posts %}
+  {% endif %}
 </section>
