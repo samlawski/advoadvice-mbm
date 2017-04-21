@@ -23,23 +23,11 @@ layout: page
       <small>- {{page.date | date: "%d. %B %Y" }} :: {{ team_member.name }}</small>
     </article>
 
-    {% if site.related_posts.size >= 1 %}
-      <div>
-        <hr>
-        <h3 class="editable">Das könnte Sie auch interessieren</h3>
-        {% for related_post in site.related_posts limit: 3 %}
-          <div class="col-sm-4">
-            <div class="blog-post">
-              <h5>
-                <a href="{{ related_post.url }}">
-                  {{ related_post.title }}
-                </a>
-              </h5>
-            </div><!-- // blog-post -->
-          </div><!-- // col -->
-        {% endfor %}
-      </div>
-    {% endif %}
+    <div>
+      <hr>
+      <h3 class="editable">Das könnte Sie auch interessieren</h3>
+      {% include related_posts.html %}
+    </div>
   </section>
 
   <!-- SIDEBAR -->
