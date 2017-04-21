@@ -1,3 +1,10 @@
+PATH
+  remote: _plugins/jekyll-tagging-related_posts-master
+  specs:
+    jekyll-tagging-related_posts (0.2.2)
+      jekyll (~> 3.0)
+      jekyll-tagging (~> 1.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -76,6 +83,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-paginate
   jekyll-tagging (= 1.1.0)
+  jekyll-tagging-related_posts!
   sprockets-es6
 
 BUNDLED WITH
