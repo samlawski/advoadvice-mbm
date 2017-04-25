@@ -1,6 +1,6 @@
 ---
 title: Marderbefall beim Immobilienkauf- Grenzen der Aufklärungspflicht
-date: 2017-04-25 00:00:00
+date: 2017-04-26 00:00:00
 layout: post
 feature_bild_path:
 tags:
