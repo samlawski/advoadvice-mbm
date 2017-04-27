@@ -22,8 +22,8 @@ team_member: dr-sven-tintemann
 ---
 
 
-Unsere Experten in der Presse - Berliner Morgenpost &uuml;ber Lehman Anleger
+Unsere Experten in der Presse - Berliner Morgenpost über Lehman Anleger
 
-In unserer neuen Reihe "Best of Presse und Medien" berichten wir nun einmal w&ouml;chentlich &uuml;ber eine bereits in der Vergangenheit liegende Berichterstattung &uuml;ber unsere Experten aus Presse, Medien oder Fachpresse.[![Berliner Morgenpost Logo - Fremde Marke](/uploads/versions/berliner-mopo-logo---x----200-200x---.png)](http://www.morgenpost.de/wirtschaft/article103960939/Berliner-Rentnerin-kaempft-gegen-Citibank.html)Heute in Beitrag aus der Berliner Morgenpost vom 07.02.2010 &uuml;ber Klagen von Lehman Brothers Anlegern.
+In unserer neuen Reihe "Best of Presse und Medien" berichten wir nun einmal wöchentlich über eine bereits in der Vergangenheit liegende Berichterstattung über unsere Experten aus Presse, Medien oder Fachpresse.[![Berliner Morgenpost Logo - Fremde Marke](/uploads/versions/berliner-mopo-logo---x----200-200x---.png)](http://www.morgenpost.de/wirtschaft/article103960939/Berliner-Rentnerin-kaempft-gegen-Citibank.html)Heute in Beitrag aus der Berliner Morgenpost vom 07.02.2010 über Klagen von Lehman Brothers Anlegern.
 
 Einen Link zum [Artikel in der Berliner Morgenpost](http://www.morgenpost.de/wirtschaft/article103960939/Berliner-Rentnerin-kaempft-gegen-Citibank.html) finden Sie hier.
