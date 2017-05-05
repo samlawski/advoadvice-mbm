@@ -1,6 +1,6 @@
 ---
 title: 'Schufa-Recht: Junger Unternehmer nach Löschung eines  Negativeintrages der Santander Consumer Bank AG wieder kreditwürdig'
-date:
+date: 2017-05-08 00:00:00
 layout: post
 feature_bild_path:
 tags:
@@ -13,6 +13,9 @@ tags:
   - Santander Consumer Bank AG
   - Ratenzahlungsvereinbarung
   - AdovAdvice
+  - Santander
+  - Score
+  - Scorewert
 topics:
   - schufa
 team_member: dr-sven-tintemann
@@ -23,19 +26,19 @@ AdvoAdvice konnte einem jungen Unternehmer aus Berlin dabei helfen, einen Negati
 
 **Was ist passiert?**
 
-Zun&auml;chst hatte die Santander Consumer Bank AG im Jahr 2015 einen Negativeintrag bei der Schufa Holding AG vorgenommen. Dies geschah, weil es 2013 zu kurzzeitigen R&uuml;ckzahlungsschwierigkeiten eines Studienkredites kam. Um diese Schwierigkeiten im Griff zu behalten, schloss der Betroffene damals eine Ratenzahlungsvereinbarung mit der Santander Consumer Bank ab.
+Zun&auml;chst hatte die Santander Consumer Bank AG im Jahr 2015 einen Negativeintrag bei der Schufa Holding AG vorgenommen. Dies geschah, weil es 2013 zu kurzzeitigen R&uuml;ckzahlungsschwierigkeiten bei einem Studienkredit gekommen war. Um diese Schwierigkeiten im Griff zu behalten, schloss der Betroffene damals eine Ratenzahlungsvereinbarung mit der Santander Consumer Bank ab.
 
 In der Folge zahlte er regelm&auml;&szlig;ig seine Raten. Im M&auml;rz 2017 wurden ihm die weitreichenden Auswirkungen des Negativeintrages vollends bewusst. Aufgrund einer neuen Gesch&auml;ftsf&uuml;hrert&auml;tigkeit musste der 34-J&auml;hrige feststellen, dass man mit einem Scorewert von 84 % als nahezu vollst&auml;ndig kreditunw&uuml;rdig gilt.
 
 **Hilfe durch AdvoAdvice und rechtlicher Hintergrund**
 
-Er beauftragte daher die AdvoAdvice Rechtsanw&auml;lte, welche sich unmittelbar mit der Santander Consumer Bank und der Schufa Holding AG in Verbindung setzten. &nbsp;Es wurde darauf hingewiesen, dass eine Ratenzahlungsvereinbarung dazu f&uuml;hrt, dass die Forderung nicht mehr insgesamt f&auml;llig ist. Dies wiederrum ist aber eine zentrale Voraussetzung daf&uuml;r, dass ein Negativeintrag bei der Schufa Holding AG &uuml;berhaupt vorgenommen werden darf.
+Der Betroffene beauftragte daher die Kanzlei AdvoAdvice Rechtsanw&auml;lte, welche sich unmittelbar mit der Santander Consumer Bank und der Schufa Holding AG schriftlich in Verbindung setzten. &nbsp;Es wurde darauf hingewiesen, dass eine Ratenzahlungsvereinbarung dazu f&uuml;hrt, dass die Forderung nicht mehr insgesamt f&auml;llig ist. Dies wiederrum ist aber eine zentrale Voraussetzung daf&uuml;r, dass ein Negativeintrag bei der Schufa Holding AG nach &sect; 28 a Abs. 1 BDSG &uuml;berhaupt vorgenommen werden darf.
 
-Die Santander Consumer Bank meldete sich zu dem Vorgang &uuml;berhaupt nicht. Jedoch veranlasste die Schufa Holding AG sodann eine L&ouml;schung des Eintrages. Der Hintergrund der L&ouml;schung d&uuml;rfte darin liegen, dass der Betroffene regelm&auml;&szlig;ig seine Raten bezahlte und der Eintrag deshalb unrechtm&auml;&szlig;ig erfolgte.
+Die Santander Consumer Bank meldete sich zu dem Vorgang &uuml;berhaupt nicht. Jedoch veranlasste die Schufa Holding AG aufgrund des Anschreibens von AdvoAdvice eine L&ouml;schung des Eintrages. Der Hintergrund der L&ouml;schung d&uuml;rfte darin liegen, dass der Betroffene regelm&auml;&szlig;ig seine Raten bezahlte und der Eintrag deshalb zu Unrecht erfolgte.
 
-Erfreulicherweise kann sich der Unternehmer nunmehr &uuml;ber einen Scorewert von 93 % freuen. Bei einem Scorewert zwischen 90 % und 95 % gilt man immerhin wieder also gr&ouml;&szlig;tenteils kreditw&uuml;rdig.
+Erfreulicherweise kann sich der Unternehmer nunmehr &uuml;ber einen Scorewert von 93 % freuen. Bei einem Scorewert zwischen 90 % und 95 % gilt man immerhin wieder als gr&ouml;&szlig;tenteils kreditw&uuml;rdig.
 
-Dr. Tintemann res&uuml;mierte zu diesem Fall: *„Im allt&auml;glichen Umgang mit Schufaeintr&auml;gen und Schufaausk&uuml;nften l&auml;sst sich erstaunlich h&auml;ufig beobachten, dass Negativeintr&auml;ge vorgenommen werden, obwohl eine Ratenzahlungsvereinbarung zu der Forderung abgeschlossen wurde. Dabei ist die Tatsache, dass dies unrechtm&auml;&szlig;ig ist, in der Rechtsprechung nach den Urteilen mehrerer Landgerichte nahezu unstrittig.“*
+Dr. Tintemann res&uuml;miert diesen Fall: *„Im allt&auml;glichen Umgang mit Schufaeintr&auml;gen und Schufaausk&uuml;nften l&auml;sst sich erstaunlich h&auml;ufig beobachten, dass Negativeintr&auml;ge vorgenommen werden, obwohl eine Ratenzahlungsvereinbarung zu der Forderung abgeschlossen wurde. Dabei ist die Tatsache, dass dies unrechtm&auml;&szlig;ig ist, in der Rechtsprechung nach den Urteilen mehrerer Landgerichte nahezu unstrittig.“*
 
 **Was sollten Betroffene tun?**
 
