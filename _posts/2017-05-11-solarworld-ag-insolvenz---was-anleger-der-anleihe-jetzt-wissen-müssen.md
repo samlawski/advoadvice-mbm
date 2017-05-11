@@ -46,5 +46,3 @@ Nach den [Anleihebedingungen](http://www.solarworld.de/fileadmin/sites/sw/ir/pdf
 In jedem Fall werden die Anleger, die Anleihen bei der Solarworld AG gezeichnet haben, wohl bald Post vom Insolvenzverwalter bekommen, verbunden mit der Aufforderung, die eigenen Forderungen gegen die Gesellschaft im Insolvenzverfahren zur Tabelle anzumelden. Hier kann es dann ggf. sinnvoll sein, bis zur Forderungsanmeldung zu k&uuml;ndigen, um die Gesamtforderung, welche dann in G&auml;nze f&auml;llig w&auml;re, zur Tabelle anmelden zu k&ouml;nnen ebenso wie noch ausstehende Zinszahlungen.
 
 Anlegern wird dringend geraten, ihre eventuell bestehenden Anspr&uuml;che fachanwaltlich &uuml;berpr&uuml;fen zu lassen. F&uuml;r eine kostenlose Ersteinsch&auml;tzung stehen die Experten der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB unter 030-921 000 40 gerne zur Verf&uuml;gung.
-
-&nbsp;
