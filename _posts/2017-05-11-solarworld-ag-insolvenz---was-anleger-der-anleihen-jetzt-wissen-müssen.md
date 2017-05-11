@@ -15,13 +15,13 @@ tags:
   - AdvoAdvice
   - Zinsen
   - Sonderkündigung
-  - SOLARWORLD FRN IS. 2014/2019 SERIE 1017
-  - 'WKN: A1YDDX'
-  - 'ISIN: DE000A1DDX6'
-  - SOLARWORLD IS.14(14-19)
-  - 'WKN: A1YCN1'
-  - 'ISIN: DE000A1YCN14)'
-  - SolarWorld FRN IS. 2014/2019 Serie 1116
+  - SOLARWORLD FRN IS. 2014 2019 SERIE 1017
+  - 'WKN A1YDDX'
+  - 'ISIN DE000A1DDX6'
+  - SOLARWORLD IS 14 14-19
+  - 'WKN A1YCN1'
+  - 'ISIN DE000A1YCN14'
+  - SolarWorld FRN IS. 2014 2019 Serie 1116
 topics:
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
