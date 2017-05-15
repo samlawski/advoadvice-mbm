@@ -27,7 +27,7 @@ team_member: kim-oliver-klevenhagen
 
 **Das Widerrufsrecht alter im Policenmodell abgeschlossener Versicherungsvertr&auml;ge. Ein Geschenk f&uuml;r Versicherungsnehmer?**
 
-\*\* Auswirkungen auf Altvertr&auml;ge durch das reformierte Versicherungsgesetz – von Kim Oliver Klevenhagen, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
+**Auswirkungen auf Altvertr&auml;ge durch das reformierte Versicherungsgesetz – von Kim Oliver Klevenhagen, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht**
 
 Viele Jahre lang stellte das Policenmodell eine g&auml;ngige Form des Abschlusses eines Versicherungsvertrages dar. Hierbei stellte der Versicherungsnehmer dem Versicherungsgeber einen rechtsverbindlichen Antrag, eine Versicherung abschlie&szlig;en zu wollen. Als Annahme des Antrags schickte die Versicherung eine Best&auml;tigung zusammen mit den Versicherungsbedingungen und einer Belehrung &uuml;ber das Widerrufsrecht an den Versicherungsnehmer. Sollte dieser nicht binnen 14 Tagen seine Annahme widerrufen, kam ein wirksamer Vertrag zustande.&nbsp;
 
