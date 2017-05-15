@@ -27,7 +27,7 @@ team_member: kim-oliver-klevenhagen
 
 **Das Widerrufsrecht alter im Policenmodell abgeschlossener Versicherungsvertr&auml;ge. Ein Geschenk f&uuml;r Versicherungsnehmer?**
 
-** Auswirkungen auf Altvertr&auml;ge durch das reformierte Versicherungsgesetz – von Kim Oliver Klevenhagen, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht**
+\*\* Auswirkungen auf Altvertr&auml;ge durch das reformierte Versicherungsgesetz – von Kim Oliver Klevenhagen, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
 
 Viele Jahre lang stellte das Policenmodell eine g&auml;ngige Form des Abschlusses eines Versicherungsvertrages dar. Hierbei stellte der Versicherungsnehmer dem Versicherungsgeber einen rechtsverbindlichen Antrag, eine Versicherung abschlie&szlig;en zu wollen. Als Annahme des Antrags schickte die Versicherung eine Best&auml;tigung zusammen mit den Versicherungsbedingungen und einer Belehrung &uuml;ber das Widerrufsrecht an den Versicherungsnehmer. Sollte dieser nicht binnen 14 Tagen seine Annahme widerrufen, kam ein wirksamer Vertrag zustande.&nbsp;
 
@@ -51,7 +51,7 @@ Hierbei sollte zwischen verschiedenen Fallgruppen unterschieden werden.&nbsp;
 
 1. Die erste Fallgruppe besteht aus F&auml;llen, bei denen die Widerrufsbelehrung nach damals geltendem Recht erteilt wurde. In diesen F&auml;llen ist schon das regelm&auml;&szlig;ige Zahlen der Versicherungspr&auml;mien &uuml;ber einen l&auml;ngeren Zeitraum eine das Widerrufsrecht beendende Verhaltensweise (BGH Urteil vom 16.7.2014,&nbsp;*Aktenzeichen:*&nbsp;IV ZR 73/13), sodass in der Regel hier das Widerrufsrecht nicht mehr besteht.&nbsp;
 
-1. Vertr&auml;ge, bei denen die Belehrung jedoch entweder fehlerhaft oder gar nicht erteilt wurde, sind trotz Zahlungen der Versicherungspr&auml;mie weiterhin widerrufbar. Dennoch kann sich der Versicherungsnehmer auch in diesem Fall widerspr&uuml;chlich verhalten und somit sein Widerrufsrecht verwirken.&nbsp;
+2. Vertr&auml;ge, bei denen die Belehrung jedoch entweder fehlerhaft oder gar nicht erteilt wurde, sind trotz Zahlungen der Versicherungspr&auml;mie weiterhin widerrufbar. Dennoch kann sich der Versicherungsnehmer auch in diesem Fall widerspr&uuml;chlich verhalten und somit sein Widerrufsrecht verwirken.&nbsp;
 
 So urteilte das Landgericht Coburg am 07.11.2016 (*Aktenzeichen:*&nbsp;14 O 629/15) rechtskr&auml;ftig, dass das Abtreten der Anspr&uuml;che aus der Versicherung an eine Bank zwecks Sicherung eines Kredits ein solches widerspr&uuml;chliches Verhalten in Bezug auf einen Widerruf darstellt, wenn die Abtretung unmittelbar nach Vertragsschluss vorgenommen wurde. Sollte dies jedoch erst sp&auml;ter im Verlauf der Vertragslaufzeit geschehen, stellt das, so der BGH, kein widerspr&uuml;chliches Verhalten dar. Gleichzeitig suggerierte das Urteil des BGH aber auch, dass das mehrfache Abtreten der Anspr&uuml;che als widerspr&uuml;chliches Verhalten gewertet werden k&ouml;nnte.&nbsp;
 
