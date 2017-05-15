@@ -1,6 +1,6 @@
 ---
 title: Solarworld AG Insolvenz - Was Anleger der Anleihen jetzt wissen müssen
-date: 2017-05-11 00:00:00
+date: 2017-05-13 00:00:00
 layout: post
 feature_bild_path:
 tags:
@@ -16,11 +16,11 @@ tags:
   - Zinsen
   - Sonderkündigung
   - SOLARWORLD FRN IS. 2014 2019 SERIE 1017
-  - 'WKN A1YDDX'
-  - 'ISIN DE000A1DDX6'
+  - WKN A1YDDX
+  - ISIN DE000A1DDX6
   - SOLARWORLD IS 14 14-19
-  - 'WKN A1YCN1'
-  - 'ISIN DE000A1YCN14'
+  - WKN A1YCN1
+  - ISIN DE000A1YCN14
   - SolarWorld FRN IS. 2014 2019 Serie 1116
 topics:
   - bank-und-kapitalmarktrecht
