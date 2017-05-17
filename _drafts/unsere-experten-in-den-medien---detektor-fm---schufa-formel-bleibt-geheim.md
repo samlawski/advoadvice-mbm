@@ -1,6 +1,6 @@
 ---
 title: Unsere Experten in den Medien - Detektor FM - Schufa Formel bleibt geheim
-date:
+date: 2017-05-18 00:00:00
 layout: post
 feature_bild_path: /uploads/detektor-fm.jpg
 tags:
@@ -27,8 +27,8 @@ team_member: dr-sven-tintemann
 ---
 
 
-Einen ausf&uuml;hrlichen Beitrag &uuml;ber das Thema Schufa, Scoring und Negativeintr&auml;ge sendete das Online Radio Detektor FM mit einem Interview des Schufa-Experten Dr. Sven Tintemann anl&auml;sslich der Entscheidung des Bundesgerichtshofs - BGH - vom 28.01.2014 zum Az. VI ZR 156/13. Hierin hatte der Bundesgerichthof die Klage einer Betroffenen abgewiesen, mit welcher diese eine Auskunft &uuml;ber die Zusammensetzung und Berechnung ihrer Daten gefordert hatte.
+Einen ausführlichen Beitrag über das Thema Schufa, Scoring und Negativeinträge sendete das Online Radio Detektor FM mit einem Interview des Schufa-Experten Dr. Sven Tintemann anlässlich der Entscheidung des Bundesgerichtshofs - BGH - vom 28.01.2014 zum Az. VI ZR 156/13. Hierin hatte der Bundesgerichthof die Klage einer Betroffenen abgewiesen, mit welcher diese eine Auskunft über die Zusammensetzung und Berechnung ihrer Daten gefordert hatte.
 
 [![Detektor FM Logo - Online Radio - Fremde Marke](/uploads/versions/detektor-fm---x----345-181x---.jpg)](https://detektor.fm/politik/transparenz-ade-scoring-der-schufa-bleibt-weiterhin-zulaessig)Den [Link zu dem Beitrag im Internet](https://detektor.fm/politik/transparenz-ade-scoring-der-schufa-bleibt-weiterhin-zulaessig) finden Sie hier oder wenn Sie auf das Logo von Detektor FM klicken.
 
-Auf der Webseite von Detektor FM k&ouml;nnen Sie den Radiobeitrag als MP3 Datei noch einmal jederzeit anh&ouml;ren.
+Auf der Webseite von Detektor FM können Sie den Radiobeitrag als MP3 Datei noch einmal jederzeit anhören.
