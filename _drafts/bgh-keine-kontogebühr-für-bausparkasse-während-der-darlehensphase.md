@@ -78,7 +78,7 @@ Diese unangemessene Benachteiligung f&uuml;hrt dazu, dass diese Regelung zur Erh
 
 Bausparer die von dieser Regelung betroffen sind, k&ouml;nnen daher die Bausparkasse zur R&uuml;ckzahlung der Kontogeb&uuml;hren auffordern und diese kann sich nicht auf die vertragliche Regelung zur Kontogeb&uuml;hr berufen.
 
-![](/uploads/versions/bausparhaus-berlin-foto-2---x----1280-720x---.JPG)
+![Bausparhaus - Klingelhöfer Damm 4 - Berlin](/uploads/versions/bausparhaus-berlin-foto-2---x----1280-720x---.JPG)
 
 **Was k&ouml;nnen betroffene Bausparkunden tun?**
 
