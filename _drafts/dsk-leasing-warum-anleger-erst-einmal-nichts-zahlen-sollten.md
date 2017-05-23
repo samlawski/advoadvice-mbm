@@ -1,5 +1,5 @@
 ---
-title: 'DSK Leasing: Warum Anleger erst einmal nichts zahlen sollten'
+title: 'DSK Leasing: Sechs Dinge, die DSK Leasing Anleger jetzt wissen sollten'
 date: 2017-05-23 00:00:00
 layout: post
 feature_bild_path:
@@ -52,3 +52,5 @@ Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktr
 4) Die Aktien der Autobank AG werden in dem Schreiben an die Anleger mit eine sehr hohen Wert angesetzt. Dieser Wert ist in vielen F&auml;lle nicht korrekt, da die Anleger die Aktien erst zu einem Zeitpunkt ins Depot eingebucht bekommen haben, also die Aktien schon wesentlich weniger Wert hatten. Dies m&uuml;sste ggf. bei der Berechnung einer vermeintlichen Schuld ber&uuml;cksichtigt und einberechnet werden.
 
 5) Ob &uuml;berhaupt ein Anspruch der Komplement&auml;rin gegen die ehemaligen Anleger aus den genannten Vorschriften des HGB besteht, ist ebenfalls zweifelhaft. Die Anleger werden sich gro&szlig;teils als sog. Treuhandkommanditisten im Rahmen einer mittelbaren Treuhand &uuml;ber einen Treuh&auml;nder an der Gesellschaft beteiligt haben. Es ist daher eher nicht davon auszugehen, dass die Anleger Dritten gegen&uuml;ber direkt auf Zahlung von Schulden der Gesellschaft haften. Dies m&uuml;sste sich ggf. direkt aus dem Gesellschaftsvertrag ergeben.
+
+6) Unklar ist auch, welche Forderungen bei allen Anlegern insgesamt geltend gemacht wurden und wie viele Anleger bereits bezahlt haben. Wurden z.B. Anleger zur Zahlung von insgesamt 6 Mio Euro an die DSK Leasing Verwaltung GmbH i.L. aufgefordert, w&auml;re es nicht verwunderlich, warum die Gesellschaft sich insgesamt mit einem Viertel der Forderung zufrieden gibt. Es werden schlie&szlig;lich nach Aussage der Gesellschaft auch nur etwa 1,4 Mio Euro geschuldet. Wenn allerdings einige Anleger mehr bezahlten, kann es sein, dass die Gesamtforderung der DSK Leasing Verwaltung GmbH i.L. bald getilgt ist. Gegen Anleger, die bis dahin nicht gezahlt haben, w&uuml;rde dann keine Forderung mehr durchsetzbar sein. Es kann sich also auch aus diesem Grund lohnen, eine Zahlung hinauszuz&ouml;gern bzw. zu verweigern.
