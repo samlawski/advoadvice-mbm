@@ -28,6 +28,6 @@ In unserer neuen Reihe “Best of Presse und Medien” berichten wir nun einmal 
 
 Heute in Beitragsklassiker vom 08.02.2010 aus der Tageszeitung WELT &uuml;ber Klagen von Lehman Anlegern.
 
-[![WELT N24 Logo - Fremde Marke](/uploads/versions/welt-n24-quadrat---x0-0-600-600-600-600x---.jpg)](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html)
+[![WELT N24 Logo - Fremde Marke](/uploads/versions/welt-n24-quadrat---x----600-600x---.jpg)](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html)
 
 Einen [Link zum Artikel in der WELT](https://www.welt.de/finanzen/article6300484/Deutsche-Lehman-Opfer-haben-eine-letzte-Chance.html)finden Sie hier.
