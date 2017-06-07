@@ -4,6 +4,18 @@ date: 2017-06-12 00:00:00
 layout: post
 feature_bild_path:
 tags:
+  - Widerruf
+  - Darlehen
+  - Bankrecht
+  - Feststellungsklage
+  - Bundesgerichtshof
+  - BGH
+  - XI ZR 586/15
+  - Leistungsklage
+  - Vorrang
+  - XI ZR 467/15
+  - Widerrufsbelehrung
+  - fehlerhaft
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
