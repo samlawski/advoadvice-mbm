@@ -1,5 +1,5 @@
 ---
-title: EUBKZGW - Erste Klage gegen Berater und tätigen Rechtsanwalt eingereicht
+title: EUBKZGW - Erste Klage gegen Berater und Rechtsanwalt als Mitglied der EWIV eingereicht
 date: 2017-06-15 00:00:00
 layout: post
 feature_bild_path:
@@ -11,10 +11,10 @@ team_member: dr-sven-tintemann
 ---
 
 
-Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten aus Berlin hat eine erste Klage in Sachen Europ&auml;isches Branchenkompetenzzentrum f&uuml;r das Gesundheitswesen (EUBKZGW) gegen zwei verantwortlich handelnde Personen beim Landgericht Darmstadt eingereicht. Die hier vertretene Anlegerin klagt auf Schadensersatz in H&ouml;he von 45.000,00 Euro.
+Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten aus Berlin hat eine erste Klage in Sachen Europäisches Branchenkompetenzzentrum für das Gesundheitswesen (EUBKZGW) gegen zwei verantwortlich handelnde Personen beim Landgericht Darmstadt eingereicht. Die hier vertretene Anlegerin klagt auf Schadensersatz in Höhe von 45.000,00 Euro.
 
-Verklagt wurden der damals t&auml;tige Berater, der die Anlage als sicher und die Kapitalausstattung der Gesellschaft in der Form einer europ&auml;ischen EWIV als ausreichend bezeichnet hatte, sowie ein Rechtsanwalt, der selbst Mitglied der EWIV war und dieser noch im Jahr 2014 eine hohe Kapitalausstattung der in ihr verbundenen Mitglieder bescheinigt hatte.
+Verklagt wurden der damals tätige Berater, der die Anlage als sicher und die Kapitalausstattung der Gesellschaft in der Form einer europäischen EWIV als ausreichend bezeichnet hatte, sowie ein Rechtsanwalt, der selbst Mitglied der EWIV war und dieser noch im Jahr 2014 eine hohe Kapitalausstattung der in ihr verbundenen Mitglieder bescheinigt hatte.
 
-Die EUBKZGW selbst befindet sich bereits im Insolvenzverfahren, welches vor dem zust&auml;ndigen Amtsgericht Charlottenburg gef&uuml;hrt wird. Wir hatten hier&uuml;ber bereits bericht.
+Die EUBKZGW selbst befindet sich bereits im Insolvenzverfahren, welches vor dem zuständigen Amtsgericht Charlottenburg geführt wird. Wir hatten hierüber bereits bericht.
 
-&Uuml;ber den weiteren Verlauf der Klage wird die Kanzlei AdvoAdvice bei gegebenem Anlass weiter berichten.
+Über den weiteren Verlauf der Klage wird die Kanzlei AdvoAdvice bei gegebenem Anlass weiter berichten.
