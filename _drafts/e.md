@@ -15,4 +15,6 @@ Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten aus Berlin hat eine
 
 Verklagt wurden der damals t&auml;tige Berater, der die Anlage als sicher und die Kapitalausstattung der Gesellschaft in der Form einer europ&auml;ischen EWIV als ausreichend bezeichnet hatte, sowie ein Rechtsanwalt, der selbst Mitglied der EWIV war und dieser noch im Jahr 2014 eine hohe Kapitalausstattung der in ihr verbundenen Mitglieder bescheinigt hatte.
 
+Die EUBKZGW selbst befindet sich bereits im Insolvenzverfahren, welches vor dem zust&auml;ndigen Amtsgericht Charlottenburg gef&uuml;hrt wird. Wir hatten hier&uuml;ber bereits bericht.
+
 &Uuml;ber den weiteren Verlauf der Klage wird die Kanzlei AdvoAdvice bei gegebenem Anlass weiter berichten.
