@@ -1,6 +1,6 @@
 ---
 title: 'Unsere Experten in der Presse: So widerrufen Sie Ihre Lebensversicherung'
-date: 2015-10-26 16:17:00
+date: 2016-02-04 12:00:00
 layout: post
 feature_bild_path: /uploads/bild-logo.png
 tags:
@@ -25,4 +25,4 @@ Rechtsanwalt Kim Oliver Klevenhagen - Beitrag vom 19.10.2015 in [Bildzeitung](ht
 
 ![BILD Logo - Fremde Marke](/uploads/versions/bild-logo---x----103-103x---.png)
 
-Wer seine Lebensversicherung widerrufen m&ouml;chte, kann dies h&auml;ufig problemlos tun. Der Grund: ein Gro&szlig;teil der Vertr&auml;ge war fehlerhaft! Darum haben viele Versicherte nun die Chance, ihre Lebensversicherung r&uuml;ckabzuwickeln und ihr Geld zur&uuml;ckzufordern.
+Wer seine Lebensversicherung widerrufen möchte, kann dies häufig problemlos tun. Der Grund: ein Großteil der Verträge war fehlerhaft! Darum haben viele Versicherte nun die Chance, ihre Lebensversicherung rückabzuwickeln und ihr Geld zurückzufordern.
