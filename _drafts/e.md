@@ -4,6 +4,17 @@ date: 2017-06-15 00:00:00
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
+  - Betroffener
+  - EUBKZGW
+  - Klage
+  - Berater
+  - Rechtsanwalt
+  - EWIV
+  - Landgericht Darmstadt
+  - Amtsgericht Charlottenburg
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
