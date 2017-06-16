@@ -19,8 +19,8 @@ team_member: dr-sven-tintemann
 ---
 
 
-W&auml;re die R&uuml;ckzahlung meiner Beit&auml;ge in die Lebensversicherung bei einem wirksamen Widerruf des Lebensversicherungsvertrages steuerfrei? Dies fragt ein Leser der Zeitschrift EURO am Sonntag.
+Wäre die Rückzahlung meiner Beitäge in die Lebensversicherung bei einem wirksamen Widerruf des Lebensversicherungsvertrages steuerfrei? Dies fragt ein Leser der Zeitschrift EURO am Sonntag.
 
-Rechtsanwalt Dr. Sven Tintemann aus der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB antwortet.
+Rechtsanwalt Dr. Sven Tintemann aus der Kanzlei AdvoAdvice Rechtsanwälte mbB antwortet.
 
 Die Antwort finden Sie hier: [Zum Beitrag in der EURO am Sonntag](http://www.finanzen.net/nachricht/private-finanzen/euro-am-sonntag-mailbox-lebensversicherung-steuerfrei-kuendigen-5517230)
