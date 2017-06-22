@@ -43,10 +43,10 @@ Da die Barclays Bank PLC sich weigerte, den Negativeintrag bereits im au&szlig;e
 
 **Was kann man daraus lernen?**
 
-In den meisten F&auml;llen ist es sehr ratsam, seine Zahlungen fristgerecht auszuf&uuml;hren. Sollte dies einmal nicht schaffen und eine Mahnung erhalten, gilt es diese zu beachten. Es ist darauf hinzuweisen, dass die H&uuml;rden f&uuml;r einen negativen Schufa-Eintrag nicht sehr hoch sind und man deshalb im Anschluss an Mahnschreiben umgehend aktiv werden muss.
+In den meisten F&auml;llen ist es sehr ratsam, seine Zahlungen fristgerecht auszuf&uuml;hren. Sollte Sie dies einmal nicht schaffen und eine Mahnung erhalten, gilt es diese zu beachten. Es ist darauf hinzuweisen, dass die H&uuml;rden f&uuml;r einen negativen Schufa-Eintrag nicht sehr hoch sind und man deshalb im Anschluss an Mahnschreiben umgehend aktiv werden muss.
 
-Sodann kann man lernen, dass manchmal ein gerichtliches Verfahren auch ohne Urteil ausgehen kann. Ein Vergleich bietet h&auml;ufig die M&ouml;glichkeit, die Rechtsstellung f&uuml;r alle Betroffenen zu verbessern und klarzustellen.
+Sodann kann man lernen, dass manchmal ein gerichtliches Verfahren auch ohne Urteil erfolgreich beendet werden kann, manchmal sogar bei alle betroffenen Parteien. Ein Vergleich bietet hierbei h&auml;ufig die M&ouml;glichkeit, die Rechtsstellung f&uuml;r alle Betroffenen zu verbessern und klarzustellen.
 
-Ebenso ist wichtig, dass es gerade im Kontext von Schufa-Eintr&auml;gen enorm auf die Einhaltung von Fristen und stimmigen Formulierungen der einmeldende Stelle ankommt. Dies geschieht h&auml;ufig nicht in dem n&ouml;tigen Ma&szlig;e.
+Ebenso ist es wichtig, dass es gerade im Kontext von Schufa-Eintr&auml;gen enorm auf die Einhaltung von Fristen und auf stimmige Formulierungen der einmeldende Stelle ankommt. Dies geschieht h&auml;ufig nicht in dem n&ouml;tigen Ma&szlig;e.
 
 Deshalb sollte bei Schufa-Problemen immer ein Experte zu Rate gezogen werden. Falls Sie Hilfe in einer solchen Angelegenheit ben&ouml;tigen, k&ouml;nnen Sie uns telefonisch (030 / 921 000 40) oder per Mail ([info@advoadvice.de](mailto:info@advoadvice.de)) erreichen.
