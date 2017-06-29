@@ -16,3 +16,5 @@ Die MoneyVita GmbH & Co. KG, ihre ehemalige Komplement&auml;rin DEGVA GmbH sowie
 Die Klage muss nun zugestellt werden. Die Beklagten haben dann die M&ouml;glichkeit, sich zu der Klage im Rahmen einer Klageerwiderung zu &auml;u&szlig;ern.
 
 &nbsp;
+
+&nbsp;
