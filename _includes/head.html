@@ -6,7 +6,7 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="keywords" content="{{ site.keywords }}{% if page.tags %}, {{ page.tags }}{% endif %}">
 
   <!-- favicons -->
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ '/favicon/apple-touch-icon-57x57.png' | prepend: site.baseurl }}" />
@@ -37,6 +37,6 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  
+
   <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
