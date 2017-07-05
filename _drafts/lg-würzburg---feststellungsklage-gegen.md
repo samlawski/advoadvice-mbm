@@ -1,9 +1,22 @@
 ---
 title: LG Würzburg - Feststellungsklage gegen Logisfonds I AG nach Widerruf erfolgreich
-date: 2017-07-05 00:00:00
+date: 2017-07-06 00:00:00
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
+  - Betroffener
+  - Anleger
+  - Logisfonds I AG
+  - Garbe Logimac AG
+  - Widerruf
+  - Beteiligung
+  - Widerrufsbelehrung
+  - fehlerhaft
+  - Landgericht Würzburg
+  - Teilerfolg
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
@@ -24,6 +37,8 @@ Die Beklagte hatte inzwischen 1.111,98 Euro an den Kl&auml;ger ausgezahlt und wu
 Die Entscheidung ist noch nicht rechtskr&auml;ftig. Beide Parteien des Rechtsstreits haben die M&ouml;glichkeit, das Rechtsmittel der Berufung einzulegen.
 
 Wir werden ggf. weiter berichten.
+
+Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB aus Berlin steht interessierten Anlegern bei Fragen rund um Widerrufsrechte und den Umgang mit Beteiligungsvertr&auml;gen gerne beratend zur Seite.
 
 &nbsp;
 
