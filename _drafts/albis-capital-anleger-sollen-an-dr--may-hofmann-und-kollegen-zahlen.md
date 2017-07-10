@@ -34,8 +34,6 @@ Die Anleger der Albis Capital AG und Co. KG, die sich mittlerweile in der Liquid
 
 ### Kanzlei macht eigene Forderungen geltend
 
-&nbsp;
-
 Die Kanzlei meldet sich im eigenen Namen und vertritt sich diesmal selbst. Es werden gegen die Anleger der RvH AG und Co. KG i.L. Forderungen geltend gemacht, die angeblich seitens der Rechtsanw&auml;lte Dr. May, Hofmann und Kollegen gegen die RvH AG und Co. KG i.L. selbst bestehen.
 
 Die Anleger werden daher aufgefordert, an die Kanzlei Dr. May, Hofmann und Kollegen bisher von der Albis Capital AG und Co. KG (nunmehr RvH AG und Co. KG i.L.) erhaltene Aussch&uuml;ttungen aufgrund negativer Kapitalkontost&auml;nde zu zahlen.
