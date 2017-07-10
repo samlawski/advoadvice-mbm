@@ -4,6 +4,25 @@ date: 2017-07-10 00:00:00
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerschutz
+  - Kapitalmarktecht
+  - Ansprüche
+  - Betroffener
+  - Anleger
+  - Albis Capital
+  - RvH AG und Co. KG
+  - Forderung
+  - Zahlung
+  - Dr. May
+  - May Hofmann und Kollegen
+  - Rothmann und Cie
+  - Albis Finance
+  - ALAG
+  - Leasetrend AG
+  - Logisfonds
+  - Garbe Logimac
+  - DSK Leasing
+  - Trust Fond
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
