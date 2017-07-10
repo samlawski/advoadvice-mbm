@@ -87,6 +87,24 @@ h1, h2, h3, h4, h5 {
   border-radius: 3px;
 }
 
+/* ----- call bubble */
+.call-cta {
+  position: fixed;
+  bottom: 35px;
+  right: 0;
+
+  padding: 11px 11px 0;
+  background-color: #C0EBFF;
+  color: #244c5a;
+  box-shadow: 0px 1px 5px #444;
+  font-size: 32px;
+  z-index: 1;
+
+  @media(min-width: 767px){
+    display: none;
+  }
+}
+
 /* ----- nav */
 .navbar {
   border-radius: 0;
@@ -307,4 +325,5 @@ a.label-default, a:link.label-default, a:hover.label-default {
 .lastfooter {
   border-top: 1px solid white;
   margin-top: 18px;
+  font-size: .9em;
 }
