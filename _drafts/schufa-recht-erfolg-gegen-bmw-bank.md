@@ -26,7 +26,7 @@ team_member: dr-sven-tintemann
 
 In einem aktuellen Fall konnte der negative Schufa Eintrag, veranlasst durch die BMW Financial Services, eine Bezeichnung, unter die die BMW Bank GmbH Forderungen bei der Schufa eintr&auml;gt, gel&ouml;scht werden. Dem Fall lag eine Forderung in H&ouml;he von unter 2.000,00 Euro zugrunde, die von dem Betroffenen nicht als richtig anerkannt wurde. Dennoch kam es zu dem Schufa Eintrag.
 
-### BMW Bank trug eine nicht titulierte Forderung ein
+### BMW Financial Services trug eine nicht titulierte Forderung ein
 
 Da es sich um eine nicht titulierte Forderung handelt, war lediglich die Frage zu kl&auml;ren, ob die Mahnungen und K&uuml;ndigungen in rechtm&auml;&szlig;iger Weise erfolgten. Im Rahmen von negativen Schufa Eintr&auml;gen gilt, dass die eintragende Stelle beweisen muss, dass die Voraussetzungen f&uuml;r einen solchen Schufa Eintrag vorliegen. Genau dazu wurde die BMW Financial Services durch die Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB aufgefordert. Das Schreiben wurde auch der Schufa Holding AG zur Verf&uuml;gung gestellt, welche ihreseits eine R&uuml;ckfrage bei der BMW Financial Services als ihrem konkreten Vertragspartner veranlasste.
 
