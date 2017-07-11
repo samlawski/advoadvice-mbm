@@ -29,7 +29,7 @@ Ein 41-j&auml;hriger Badener musste im M&auml;rz 2017 &uuml;berrascht feststelle
 
 Die Einmeldung des Negativeintrages erfolgte schlie&szlig;lich fast 15 Jahre nach einem Urteil, welches der Betroffene nicht einmal kannte. Die Schufa Holding AG wurde &uuml;ber die rechtlichen Fakten informiert und entschloss sich schlie&szlig;lich dazu, die Forderung zur L&ouml;schung zu bringen.&nbsp; Was den Grund f&uuml;r die L&ouml;schung darstellte, wurde nicht mitgeteilt.
 
-### L&ouml;schung innerhalb weniger Tage
+### L&ouml;schung innerhalb weniger Wochen
 
 Es ist erfreulich, zu sehen, dass eine Entscheidung zugunsten eines Betroffenen gef&auml;llt wurde, der von der eigentlichen Sachlage keine Kenntnis hatte.
 
