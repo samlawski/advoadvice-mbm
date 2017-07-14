@@ -1,6 +1,6 @@
 ---
-title: Investition Krypowährung - Haben Anleger Millionen unseriös investiert?
-date: 2017-07-14 18:17:27
+title: Investition in Krypowährungen - Zwischen Renditechance und  digitalem Milliardengrab. Wohin geht die Reise?
+date: 2017-07-14 18:17:00
 layout: post
 feature_bild_path:
 tags:
