@@ -1,6 +1,6 @@
 ---
 title: Negativzinsen bei Privatkunden - Was kostet Sparen?
-date: 2017-07-17 18:55:00
+date: 2017-07-17 18:56:00
 layout: post
 feature_bild_path:
 tags:
