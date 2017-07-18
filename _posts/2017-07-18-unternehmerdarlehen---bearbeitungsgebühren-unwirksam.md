@@ -4,8 +4,15 @@ date: 2017-07-18 12:00:00
 layout: post
 feature_bild_path:
 tags:
+  - Darlehensverträge
+  - Banken
+  - Bankrecht
+  - BGH
+  - Bearbeitungsgebühren
+  - Rechtsanwalt
 topics:
-team_member: dr-sven-tintemann
+  - bank-und-kapitalmarktrecht
+team_member: kim-oliver-klevenhagen
 ---
 
 
