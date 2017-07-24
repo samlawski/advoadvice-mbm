@@ -28,11 +28,11 @@ Schufa Eintr&auml;ge f&uuml;hren regelm&auml;&szlig;ig zu Problemen. Nachdem der
 
 Die Synergie Inkasso GmbH verweigerte einen Widerruf des negativen Eintrages. Das Inkassounternehmen ging von der Rechtm&auml;&szlig;igkeit des Schufa Eintrages aus. In einem Antwortschreiben wurden allerdings die genauen Daten mitgeteilt, wann der Betroffene gemahnt worden sei und wann es zu einem Ausgleich der Forderung kam.
 
-### Fehler beim Erledigungsdatum
+### Fehler beim Erledigungsdatum entdeckt
 
 Bei einer genaueren &Uuml;berpr&uuml;fung dieser Daten musste dann festgestellt werden, dass der Schufa-Eintrag inhaltlich dennoch fehlerhaft war und die entsprechenden Daten korrigiert werden mussten. Insbesondere das Erledigungsdatum wurde von Ende Februar 2016 auf Mitte November 2015 korrigiert. Schon bez&uuml;glich der gesetzlichen L&ouml;schungsfristen macht dies einen enormen Unterschied, da der negative Schufa Eintrag dann bereits zum 31.12.2018 und nicht erst zum Jahresablauf 2019 gel&ouml;scht worden w&auml;re.
 
-### Forderung unterhalb 2000 Euro binnen 6 Wochen beglichen
+### Forderung unterhalb von 2.000 Euro binnen 6 Wochen beglichen
 
 Im Zuge der Bearbeitung fiel dann jedoch auf, dass die korrigierten Daten einen anderweitigen L&ouml;schungsanspruch ergaben. Die Schufa Holding AG l&ouml;scht negative Schufa Eintr&auml;ge nach ihren eigenen Regeln fr&uuml;hzeitig, wenn
 
