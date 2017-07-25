@@ -18,14 +18,14 @@ Begr&uuml;ndet wurde dies u.a. damit, dass nach &sect; 38 Abs. 2 der Landesbauor
 
 Fehlt eine derartige Kennzeichnung, verletzt der Betreiber eines Hotel, wohl aber auch einer Anwaltskanzlei oder Arztpraxis, die ihm nach dem Gesetz obliegende Verkehrssicherungspflicht und haftet f&uuml;r entstehende Sch&auml;den.
 
---&gt; [Zur Pressemitteilung des OLG Schleswig](http://www.schleswig-holstein.de/DE/Justiz/OLG/Presse/PI/201705Glastuer.html)
+–&gt; [Zur Pressemitteilung des OLG Schleswig](http://www.schleswig-holstein.de/DE/Justiz/OLG/Presse/PI/201705Glastuer.html)
 
 So nicht:
 
-&nbsp;
+![](/uploads/versions/glastür-richtig---x----3024-4032x---.jpg)
 
 So ist es richtig:
 
-&nbsp;
+![](/uploads/versions/glastür-falsch---x----3024-4032x---.jpg)
 
 &nbsp;
