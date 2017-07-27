@@ -295,16 +295,16 @@ a.label-default, a:link.label-default, a:hover.label-default {
   i {
     color: #999;
   }
-  a {
+  span { //a
     color: white;
     font-size: 0.7em;
     background-color: #999;
     padding: 4px;
     border-radius: 4px;
   }
-  a:hover {
-    background-color: #777;
-  }
+  // a:hover {
+  //   background-color: #777;
+  // }
 }
 
 /* ----- sidebar */

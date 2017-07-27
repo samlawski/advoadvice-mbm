@@ -15,7 +15,10 @@ layout: page
       {% if page.tags %}
         <div class="tags margin-20">
           <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
-          {{ page | tags }}
+          {% for tag in page.tags %}
+            <span>{{tag}}</span>
+          {% endfor %}
+          <!-- page | tags  -->
         </div>
       {% endif %}
       {% assign team_member_id = "/team_members/" | append: page.team_member %}
