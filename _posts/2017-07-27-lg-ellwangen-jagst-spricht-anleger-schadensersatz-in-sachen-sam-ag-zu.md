@@ -1,6 +1,6 @@
 ---
 title: LG Ellwangen (Jagst) spricht Anleger Schadensersatz in Sachen SAM AG zu
-date: 2017-07-27 00:00:00
+date: 2017-07-27 11:00:00
 layout: post
 feature_bild_path:
 tags:
