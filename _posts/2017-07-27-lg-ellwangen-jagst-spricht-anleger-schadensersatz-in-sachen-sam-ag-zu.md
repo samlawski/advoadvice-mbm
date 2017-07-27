@@ -19,8 +19,8 @@ tags:
   - Berufung
   - OLG Stuttgart
   - Einlagengeschäft
-  - § 32 KWG
-  - § 54 KWG
+  - 32 KWG
+  - 54 KWG
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
