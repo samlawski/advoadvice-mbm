@@ -8,6 +8,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.4.0)
     autoprefixer-rails (6.7.7.2)
       execjs
     babel-source (5.8.35)
@@ -45,6 +46,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-sitemap (0.11.0)
+      addressable (~> 2.4.0)
     jekyll-tagging (1.1.0)
       nuggets
     jekyll-watch (1.5.0)
@@ -82,6 +85,7 @@ DEPENDENCIES
   jekyll (= 3.2)
   jekyll-assets
   jekyll-paginate
+  jekyll-sitemap
   jekyll-tagging (= 1.1.0)
   jekyll-tagging-related_posts!
   sprockets-es6

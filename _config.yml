@@ -39,6 +39,7 @@ gems:
   - jekyll/tagging
   # - jekyll-tagging-related_posts
   - jekyll-assets
+  - jekyll-sitemap
 
 paginate: 6
 paginate_path: "/blog/page:num/"
