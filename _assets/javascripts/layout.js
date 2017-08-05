@@ -36,11 +36,13 @@ var layout = (function(){
     var $root = $('html, body');
 
     $('a.a-scroll').click(function() {
-        var href = $.attr(this, 'href');
+        var href    = $.attr(this, 'href');
+        var href_id = /[^/]*$/.exec(href)[0];
+
         $root.animate({
-            scrollTop: $(href).offset().top
+            scrollTop: $(href_id).offset().top
         }, 500, function () {
-            window.location.hash = href;
+            window.location.hash = href_id;
         });
         return false;
     });
