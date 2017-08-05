@@ -1,9 +1,9 @@
 ---
 featured: true
+title: SCHUFA- und Datenschutzrecht
+seo_beschreibung:
 ---
 
-
-# SCHUFA- und Datenschutzrecht
 
 Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:
 

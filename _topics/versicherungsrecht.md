@@ -1,7 +1,8 @@
 ---
 featured: true
+seo_beschreibung:
+title: Versicherungsrecht
 ---
-
 
 ### Lebensversicherung &nbsp;/ Rentenversicherung (Erh&ouml;hung der R&uuml;ckzahlung durch Widerspruch)
 

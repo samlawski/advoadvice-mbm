@@ -1,9 +1,8 @@
 ---
 featured: true
+title: Regelinsolvenz und Verbraucherinsolvenz
+seo_beschreibung:
 ---
-
-
-### Regelinsolvenz und Verbraucherinsolvenz:
 
 Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.&nbsp;
 

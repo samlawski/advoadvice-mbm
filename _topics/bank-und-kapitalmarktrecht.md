@@ -1,8 +1,8 @@
 ---
 featured: true
 title: Bank- und Kapitalmarktrecht
+seo_beschreibung:
 ---
-
 
 Das Bank- und Kapitalmarktrecht ist der Hauptschwerpunkt der Kanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB. Die Rechtsanw&auml;lte Dr. Sven Tintemann und Kim Oliver Klevenhagen sind in diesem Rechtsgebiet seit mehr als zehn Jahren t&auml;tig. Beide Rechtsanw&auml;lte sind Fachanw&auml;lte f&uuml;r Bank- und Kapitalmarktrecht seit mehr als f&uuml;nf Jahren und haben bereits zahlreiche F&auml;lle sowohl au&szlig;ergerichtlich als auch gerichtlich erfolgreich bearbeitet. St&auml;ndige Fortbildungen und Mitgliedschaften in fachspezifischen Arbeitskreisen sind f&uuml;r uns selbstverst&auml;ndlich.
 
