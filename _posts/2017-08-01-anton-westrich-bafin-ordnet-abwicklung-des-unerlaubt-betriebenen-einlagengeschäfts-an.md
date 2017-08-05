@@ -1,6 +1,7 @@
 ---
 title: 'Anton Westrich: Bafin ordnet Abwicklung des unerlaubt betriebenen Einlagengeschäfts an'
 date: 2017-08-01 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

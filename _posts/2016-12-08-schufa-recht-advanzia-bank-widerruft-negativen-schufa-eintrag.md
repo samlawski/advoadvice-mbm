@@ -1,6 +1,7 @@
 ---
 title: 'Schufa Recht: Advanzia Bank widerruft negativen Schufa Eintrag'
 date: 2016-12-08 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

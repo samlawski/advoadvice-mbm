@@ -1,6 +1,7 @@
 ---
 title: LG Würzburg - Feststellungsklage gegen Logisfonds I AG nach Widerruf erfolgreich
 date: 2017-07-06 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

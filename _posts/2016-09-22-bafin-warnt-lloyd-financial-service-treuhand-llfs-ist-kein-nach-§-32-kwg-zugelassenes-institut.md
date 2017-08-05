@@ -1,6 +1,7 @@
 ---
 title: 'BaFin warnt: Lloyd Financial Service Treuhand (LLFS) ist kein nach § 32 KWG zugelassenes Institut!'
 date: 2016-09-22 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

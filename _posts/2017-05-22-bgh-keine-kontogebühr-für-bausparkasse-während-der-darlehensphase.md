@@ -1,6 +1,7 @@
 ---
 title: 'BGH: Keine Kontogebühr für Bausparkasse während der Darlehensphase'
 date: 2017-05-22 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Klage gegen DEF 11 KG eingereicht
 date: 2017-07-03 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

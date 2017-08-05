@@ -1,6 +1,7 @@
 ---
 title: Versäumnisurteile gegen Stefan Frieß erlassen
 date: 2017-06-27 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

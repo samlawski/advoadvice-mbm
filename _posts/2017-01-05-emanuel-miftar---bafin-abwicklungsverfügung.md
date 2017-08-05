@@ -1,6 +1,7 @@
 ---
 title: Emanuel Miftar - BaFin Abwicklungsverfügung
 date: 2017-01-05 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-12-09 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: /uploads/berliner-anwaltsblatt.jpg
 tags:

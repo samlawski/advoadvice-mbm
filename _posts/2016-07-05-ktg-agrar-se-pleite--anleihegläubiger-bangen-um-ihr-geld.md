@@ -1,6 +1,7 @@
 ---
 title: KTG Agrar SE pleite – Anleihegläubiger bangen um ihr Geld
 date: 2016-07-05 23:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Unsere Experten in den Medien - Star FM - Beitrag über Namensdoppelgänger und Schufa
 date: 2017-06-09 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: /uploads/starfm-logo.png
 tags:

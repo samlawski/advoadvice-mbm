@@ -1,6 +1,7 @@
 ---
 title: Reservierungsgebühren beim gescheiterten Immobilienkauf – Rückzahlungsansprüche gegen Makler?
 date: 2017-03-16 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

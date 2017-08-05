@@ -1,6 +1,7 @@
 ---
 title: AdvoAdvice - Bilanz nach einem Jahr
 date: 2017-01-02 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

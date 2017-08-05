@@ -1,6 +1,7 @@
 ---
 title: Cinema Sports Inc. - Schadensersatzklage erfolgreich
 date: 2016-11-10 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

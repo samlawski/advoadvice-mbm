@@ -1,6 +1,7 @@
 ---
 title: Unsere Experten in der Presse - Zeit Online - Schufa und Identitätsdiebstahl
 date: 2017-05-12 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: /uploads/zeitonline-logo.png
 tags:

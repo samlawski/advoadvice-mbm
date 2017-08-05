@@ -1,6 +1,7 @@
 ---
 title: "AdvoAdvice - keine Widerspruch zur Marke eingegangen"
 date: 2016-02-18 17:00:00 -0600
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags: ["AdvoAdvice", "Marke", "Widerspruch", "Markengesetz", "Wortmarke", "Bildmarke", "Patentamt", "Markenamt"]

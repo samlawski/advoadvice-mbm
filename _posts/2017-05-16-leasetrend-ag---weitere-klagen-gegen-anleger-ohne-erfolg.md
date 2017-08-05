@@ -1,6 +1,7 @@
 ---
 title: Leasetrend AG - Weitere Klagen gegen Anleger ohne Erfolg
 date: 2017-05-16 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:

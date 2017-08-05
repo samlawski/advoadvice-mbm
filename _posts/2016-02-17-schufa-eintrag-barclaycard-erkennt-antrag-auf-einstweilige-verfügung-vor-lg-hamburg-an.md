@@ -1,6 +1,7 @@
 ---
 title: 'Schufa-Eintrag: Barclaycard erkennt Antrag auf einstweilige Verfügung vor LG Hamburg an'
 date: 2016-02-17 12:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

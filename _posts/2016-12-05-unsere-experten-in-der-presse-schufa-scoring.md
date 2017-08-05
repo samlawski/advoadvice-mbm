@@ -1,6 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Schufa Scoring'
 date: 2016-12-05 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: /uploads/prev-logo.jpg
 tags:

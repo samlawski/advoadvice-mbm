@@ -1,6 +1,7 @@
 ---
 title:
 date:
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags: []

@@ -1,6 +1,7 @@
 ---
 title: Landgericht Magdeburg verurteilt Premium Safe Vermittler zum Schadensersatz
 date: 2017-01-10 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Dread Disease - sinnvolle Absicherung für schwere Krankheiten?
 date: 2017-01-17 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

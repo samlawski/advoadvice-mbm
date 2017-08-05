@@ -1,6 +1,7 @@
 ---
 title: Widerruf der Anwaltszulassung bei Insolvenz
 date: 2017-02-08 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

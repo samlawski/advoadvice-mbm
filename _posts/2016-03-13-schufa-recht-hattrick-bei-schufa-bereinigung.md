@@ -1,6 +1,7 @@
 ---
 title: 'Schufa-Recht: Hattrick bei Schufa Bereinigung'
 date: 2016-03-13 12:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags:

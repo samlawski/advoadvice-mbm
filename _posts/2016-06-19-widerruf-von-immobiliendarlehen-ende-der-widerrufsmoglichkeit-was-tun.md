@@ -1,6 +1,7 @@
 ---
 title: "Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was tun?"
 date: 2016-06-19 17:00:00 -0500
+seo_beschreibung:
 layout: post
 feature_bild_path: ""
 tags: ["Widerruf", "Immobilienkredit", "Darlehen", "Verjährung", "AdvoAdvice", "Klevenhagen", "Gesetzesänderung", "Bank", "Kredit"]

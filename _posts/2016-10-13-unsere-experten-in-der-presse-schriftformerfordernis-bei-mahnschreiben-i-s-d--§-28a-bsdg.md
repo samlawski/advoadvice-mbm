@@ -1,6 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Schriftformerfordernis bei Mahnschreiben i.S.d. § 28a BSDG'
 date: 2016-10-13 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path: /uploads/vur.png
 tags:
