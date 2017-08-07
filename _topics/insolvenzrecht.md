@@ -1,56 +1,59 @@
 ---
 featured: true
 title: Regelinsolvenz und Verbraucherinsolvenz
-seo_beschreibung:
+seo_beschreibung: >-
+  Beratung bei Anträgen zur Verbraucherinsolvenz und Regelinsolvenz durch
+  erfahrene Rechtsanwälte
 ---
 
-Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.&nbsp;
 
-Um der erdr&uuml;ckenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des Schuldenbergs ein Ende zu setzen.
+Durch hohe Schulden und Firmenpleiten werden Selbständige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einführung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzanträge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Anträge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist,  ist eine Tendenz von ca. 100.000 Anträgen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
 
-Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende m&uuml;ssen das Regelinsolvenzverfahren durchlaufen. F&uuml;r Verbraucher gibt es die M&ouml;glichkeit des vereinfachten Verbraucherinsolvenzverfahrens. Dieses k&ouml;nnen auch ehemalige Selbst&auml;ndige durchlaufen, sofern ihre Verm&ouml;gensverh&auml;ltnisse &uuml;berschauber sind. Dieses wird bei bis zu 20 Gl&auml;ubigern angenommen. F&uuml;r Privatpersonen gibt es die M&ouml;glichkeit nach Ablauf von 6 Jahren eine Restschuldbefreiung zu erreichen. Kann man die Kosten des Insolvenzverfahrens beim zust&auml;ndigen Gericht bezahlen, tritt die Restschuldbefreiung bereits ein Jahr zuvor ein. Wer in der Lage ist, binnen drei Jahren ein Drittel seiner Schulden zu bezahlen, der erh&auml;lt schon nach drei Jahren die Restschuldbefreiung.&nbsp;
+Um der erdrückenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des Schuldenbergs ein Ende zu setzen.
 
-Wenn Sie sich in einer &Uuml;berschuldungssituation befinden, kommt es zun&auml;chst einmal darauf an, zu kl&auml;ren, wie hoch die gesamten Forderungen der Gl&auml;ubiger an Sie sind. Meist ist es dann sinnvoll, in Verhandlungen mit den Gl&auml;ubigern einzutreten, um Ratenzahlungen, Stundungen oder Verzichte auf Forderungen zu erreichen. Dieses kann im Rahmen eines au&szlig;ergerichtlichen Schuldbereinigungsversuchs geschehen, der durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte erarbeitet und den Gl&auml;ubigern vorgeschlagen wird.
+Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende müssen das Regelinsolvenzverfahren durchlaufen. Für Verbraucher gibt es die Möglichkeit des vereinfachten Verbraucherinsolvenzverfahrens. Dieses können auch ehemalige Selbständige durchlaufen, sofern ihre Vermögensverhältnisse überschauber sind. Dieses wird bei bis zu 20 Gläubigern angenommen. Für Privatpersonen gibt es die Möglichkeit nach Ablauf von 6 Jahren eine Restschuldbefreiung zu erreichen. Kann man die Kosten des Insolvenzverfahrens beim zuständigen Gericht bezahlen, tritt die Restschuldbefreiung bereits ein Jahr zuvor ein. Wer in der Lage ist, binnen drei Jahren ein Drittel seiner Schulden zu bezahlen, der erhält schon nach drei Jahren die Restschuldbefreiung.
 
-Sollte dies nicht zum Erfolg f&uuml;hren, bleibt als M&ouml;glichkeit das Insolvenzverfahren. Hier erhalten die Betroffenen durch die Kanzlei AdvoAdvice Hilfe beim Ausf&uuml;llen und dem Stellen des Insolvenzantrags. Zudem erstellt die Kanzlei, namentlich Dr. Tintemann, f&uuml;r das Verbraucherinsolvenzverfahren eine Bescheinigung &uuml;ber das Scheitern des au&szlig;ergerichtlichen Schuldenbereinigungsversuchs. Nach Einreichen des Insolvenzantrags steht die Kanzlei AdvoAdvide bei Bedarf mit Rechtsrat weiter an der Seite unserer Mandanten.
+Wenn Sie sich in einer Überschuldungssituation befinden, kommt es zunächst einmal darauf an, zu klären, wie hoch die gesamten Forderungen der Gläubiger an Sie sind. Meist ist es dann sinnvoll, in Verhandlungen mit den Gläubigern einzutreten, um Ratenzahlungen, Stundungen oder Verzichte auf Forderungen zu erreichen. Dieses kann im Rahmen eines außergerichtlichen Schuldbereinigungsversuchs geschehen, der durch die Kanzlei AdvoAdvice Rechtsanwälte erarbeitet und den Gläubigern vorgeschlagen wird.
 
-In Berlin sind die folgenden Gerichte f&uuml;r die entsprechenden Bezirke bei Insolvenzantragstellung zust&auml;ndig:
+Sollte dies nicht zum Erfolg führen, bleibt als Möglichkeit das Insolvenzverfahren. Hier erhalten die Betroffenen durch die Kanzlei AdvoAdvice Hilfe beim Ausfüllen und dem Stellen des Insolvenzantrags. Zudem erstellt die Kanzlei, namentlich Dr. Tintemann, für das Verbraucherinsolvenzverfahren eine Bescheinigung über das Scheitern des außergerichtlichen Schuldenbereinigungsversuchs. Nach Einreichen des Insolvenzantrags steht die Kanzlei AdvoAdvide bei Bedarf mit Rechtsrat weiter an der Seite unserer Mandanten.
+
+In Berlin sind die folgenden Gerichte für die entsprechenden Bezirke bei Insolvenzantragstellung zuständig:
 
 **A**
 
-Adlershof = Amtsgericht Berlin-K&ouml;penick
+Adlershof = Amtsgericht Berlin-Köpenick
 
-Altglienicke = Amtsgericht Berlin-K&ouml;penick
+Altglienicke = Amtsgericht Berlin-Köpenick
 
-Alt-Hohensch&ouml;nhausen = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Alt-Hohenschönhausen = Amtsgericht Berlin-Hohenschönhausen
 
-Alt-Treptow = Amtsgericht Berlin-K&ouml;penick
+Alt-Treptow = Amtsgericht Berlin-Köpenick
 
 **B**
 
-Baumschulenweg = Amtsgericht Berlin-K&ouml;penick
+Baumschulenweg = Amtsgericht Berlin-Köpenick
 
-Biesdorf = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Biesdorf = Amtsgericht Berlin-Hohenschönhausen
 
-Blankenburg = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Blankenburg = Amtsgericht Berlin-Pankow/Weißensee
 
-Blankenfelde = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Blankenfelde = Amtsgericht Berlin-Pankow/Weißensee
 
-Bohnsdorf = Amtsgericht Berlin-K&ouml;penick
+Bohnsdorf = Amtsgericht Berlin-Köpenick
 
-Britz = Amtsgericht Berlin-Neuk&ouml;lln
+Britz = Amtsgericht Berlin-Neukölln
 
-Buch = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Buch = Amtsgericht Berlin-Pankow/Weißensee
 
-Buckow = Amtsgericht Berlin-Neuk&ouml;lln
+Buckow = Amtsgericht Berlin-Neukölln
 
 **C**
 
 Charlottenburg-Nord = Amtsgericht Berlin-Tiergarten
 
-Charlottenburg S&uuml;dost: Savignyplatz = Amtsgericht Berlin-Tiergarten
+Charlottenburg Südost: Savignyplatz = Amtsgericht Berlin-Tiergarten
 
-Charlottenburg S&uuml;dwest: Karl-August-Platz = Amtsgericht Berlin-Charlottenburg
+Charlottenburg Südwest: Karl-August-Platz = Amtsgericht Berlin-Charlottenburg
 
 **D**
 
@@ -58,19 +61,19 @@ Dahlem = Amtsgericht Berlin-Charlottenburg
 
 **F**
 
-Falkenberg = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Falkenberg = Amtsgericht Berlin-Hohenschönhausen
 
 Falkenhagener Feld = Amtsgericht Berlin-Spandau
 
 Fennpfuhl = Amtsgericht Berlin-Mitte
 
-Franz&ouml;sisch Buchholz&nbsp; = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Französisch Buchholz  = Amtsgericht Berlin-Pankow/Weißensee
 
-Friedenau = = Amtsgericht Berlin-Sch&ouml;neberg
+Friedenau = = Amtsgericht Berlin-Schöneberg
 
 Friedrichsfelde = Amtsgericht Berlin-Lichtenberg
 
-Friedrichshagen = Amtsgericht Berlin-K&ouml;penick
+Friedrichshagen = Amtsgericht Berlin-Köpenick
 
 Friedrichshain: Boxhagener Kiez = Amtsgericht Berlin-Lichtenberg
 
@@ -82,9 +85,9 @@ Gatow = Amtsgericht Berlin-Spandau
 
 Gesundbrunnen = Amtsgericht Berlin-Wedding
 
-Gropiusstadt = Amtsgericht Berlin-Neuk&ouml;lln
+Gropiusstadt = Amtsgericht Berlin-Neukölln
 
-Gr&uuml;nau = Amtsgericht Berlin-K&ouml;penick
+Grünau = Amtsgericht Berlin-Köpenick
 
 Grunewald = Amtsgericht Berlin-Charlottenburg
 
@@ -100,101 +103,101 @@ Haselhorst = Amtsgericht Berlin-Wedding
 
 Heiligensee = Amtsgericht Berlin-Wedding
 
-Heinersdorf = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Heinersdorf = Amtsgericht Berlin-Pankow/Weißensee
 
-Hellersdorf = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Hellersdorf = Amtsgericht Berlin-Hohenschönhausen
 
 Hermsdorf = Amtsgericht Berlin-Wedding
 
 **J**
 
-Johannisthal = Amtsgericht Berlin-K&ouml;penick
+Johannisthal = Amtsgericht Berlin-Köpenick
 
 **K**
 
 Karlshorst = Amtsgericht Berlin-Lichtenberg
 
-Karow = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Karow = Amtsgericht Berlin-Pankow/Weißensee
 
-Kaulsdorf = AmtsgerichtBerlin-Hohensch&ouml;nhausen
+Kaulsdorf = AmtsgerichtBerlin-Hohenschönhausen
 
 Kladow = Amtsgericht Berlin-Spandau
 
-Konradsh&ouml;he mit Tegelort = Amtsgericht Berlin-Wedding
+Konradshöhe mit Tegelort = Amtsgericht Berlin-Wedding
 
-K&ouml;penick = AmtsgerichtBerlin-K&ouml;penick
+Köpenick = AmtsgerichtBerlin-Köpenick
 
 Kreuzberg = Amtsgericht Tempelhof/Kreuzberg
 
 **L**
 
-Lankwitz = Amtsgericht Berlin-Sch&ouml;neberg
+Lankwitz = Amtsgericht Berlin-Schöneberg
 
 Lichtenberg = Amtsgericht Berlin-Lichtenberg
 
 Lichtenrade = Amtsgericht Tempelhof/Kreuzberg
 
-Lichterfelde = Amtsgericht Berlin-Sch&ouml;neberg
+Lichterfelde = Amtsgericht Berlin-Schöneberg
 
-L&uuml;bars = Amtsgericht Berlin-Wedding
+Lübars = Amtsgericht Berlin-Wedding
 
 **M**
 
-Mahlsdorf = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Mahlsdorf = Amtsgericht Berlin-Hohenschönhausen
 
-Malchow = AmtsgerichtBerlin-Hohensch&ouml;nhausen
+Malchow = AmtsgerichtBerlin-Hohenschönhausen
 
 Mariendorf = Amtsgericht Tempelhof/Kreuzberg
 
 Marienfelde = Amtsgericht Tempelhof/Kreuzberg
 
-M&auml;rkisches Viertel = Amtsgericht Berlin-Wedding
+Märkisches Viertel = Amtsgericht Berlin-Wedding
 
-Marzahn = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Marzahn = Amtsgericht Berlin-Hohenschönhausen
 
 Mitte = Amtsgericht Berlin-Mitte
 
 Moabit = AmtsgerichtBerlin-Tiergarten
 
-M&uuml;ggelheim = Amtsgericht Berlin-K&ouml;penick
+Müggelheim = Amtsgericht Berlin-Köpenick
 
 **N**
 
-Neu-Hohensch&ouml;nhausen = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Neu-Hohenschönhausen = Amtsgericht Berlin-Hohenschönhausen
 
-Neuk&ouml;lln = Amtsgericht Berlin-Neuk&ouml;lln
+Neukölln = Amtsgericht Berlin-Neukölln
 
-Niedersch&ouml;neweide = Amtsgericht Berlin-K&ouml;penick
+Niederschöneweide = Amtsgericht Berlin-Köpenick
 
-Niedersch&ouml;nhausen = Amtsgericht Berlin-Wedding
+Niederschönhausen = Amtsgericht Berlin-Wedding
 
-Nikolassee = Amtsgericht Berlin-Sch&ouml;neberg
+Nikolassee = Amtsgericht Berlin-Schöneberg
 
 **O**
 
-Obersch&ouml;neweide= Amtsgericht Berlin-K&ouml;penick
+Oberschöneweide= Amtsgericht Berlin-Köpenick
 
 **P**
 
-Pankow= Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Pankow= Amtsgericht Berlin-Pankow/Weißensee
 
-Pl&auml;nterwald = AmtsgerichtBerlin-K&ouml;penick
+Plänterwald = AmtsgerichtBerlin-Köpenick
 
 Prenzlauer Berg: 10247, 10249 = Amtsgericht Berlin-Lichtenberg
 
 Prenzlauer Berg: 10405 10407 10409 10435 10437 10439 = Amtsgericht Berlin-Mitte
 
-Prenzlauer Berg: Goethestr. 2-8 und Baumbachstr. 17-999 = Amtsgericht Pankow/Wei&szlig;ensee
+Prenzlauer Berg: Goethestr. 2-8 und Baumbachstr. 17-999 = Amtsgericht Pankow/Weißensee
 
 **R**
 
-Rahnsdorf = Amtsgericht Berlin-K&ouml;penick
+Rahnsdorf = Amtsgericht Berlin-Köpenick
 
 Reinickendorf = Amtsgericht Berlin-Wedding
 
-Rosenthal = Amtsgericht Pankow/Wei&szlig;ensee
+Rosenthal = Amtsgericht Pankow/Weißensee
 
-Rudow = Amtsgericht Berlin-Neuk&ouml;lln
+Rudow = Amtsgericht Berlin-Neukölln
 
 Rummelsburg = Amtsgericht Berlin-Lichtenberg
 
@@ -202,11 +205,11 @@ Rummelsburg = Amtsgericht Berlin-Lichtenberg
 
 Schmargendorf = Amtsgericht Berlin-Charlottenburg
 
-Schm&ouml;ckwitz = Amtsgericht Berlin-K&ouml;penick
+Schmöckwitz = Amtsgericht Berlin-Köpenick
 
-Sch&ouml;neberg = AmtsgerichtBerlin-Sch&ouml;neberg
+Schöneberg = AmtsgerichtBerlin-Schöneberg
 
-Sch&ouml;neberg (Rand) teilweise = Amtsgericht Berlin-Charlottenburg
+Schöneberg (Rand) teilweise = Amtsgericht Berlin-Charlottenburg
 
 Siemensstadt = Amtsgericht Spandau und teilw. Amtsgericht Charlottenburg
 
@@ -214,9 +217,9 @@ Spandau = Amtsgericht Berlin-Spandau
 
 Staaken = Amtsgericht Berlin-Spandau
 
-Stadtrandsiedlung Malchow = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Stadtrandsiedlung Malchow = Amtsgericht Berlin-Hohenschönhausen
 
-Steglitz = Amtsgericht Berlin-Sch&ouml;neberg
+Steglitz = Amtsgericht Berlin-Schöneberg
 
 **T**
 
@@ -230,30 +233,28 @@ Tiergarten = Amtsgericht Berlin-Tiergarten
 
 Waidmannslust = Amtsgericht Berlin-Wedding
 
-Wannsee = Amtsgericht Berlin-Sch&ouml;neberg
+Wannsee = Amtsgericht Berlin-Schöneberg
 
-Wartenberg = Amtsgericht Berlin-Hohensch&ouml;nhausen
+Wartenberg = Amtsgericht Berlin-Hohenschönhausen
 
 Wedding = Amtsgericht Berlin-Wedding
 
-Wei&szlig;ensee = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Weißensee = Amtsgericht Berlin-Pankow/Weißensee
 
 Westend = Amtsgericht Berlin-Charlottenburg
 
-Wilhelmsruh = Amtsgericht Berlin-Pankow/Wei&szlig;ensee
+Wilhelmsruh = Amtsgericht Berlin-Pankow/Weißensee
 
 Wilhelmstadt = Amtsgericht Berlin-Spandau
 
 Wilmersdorf = Amtsgericht Berlin-Charlottenburg
 
-Wilmersdorf teilweise = Amtsgericht Berlin-Sch&ouml;neberg
+Wilmersdorf teilweise = Amtsgericht Berlin-Schöneberg
 
 Wittenau = Amtsgericht Charlottenburg
 
 **Z**
 
-Zehlendorf = Amtsgericht Berlin-Sch&ouml;neberg
-
-&nbsp;
+Zehlendorf = Amtsgericht Berlin-Schöneberg
 
 ##### Ansprechpartner: Rechtsanwalt Dr. Tintemann<!--EndFragment-->
