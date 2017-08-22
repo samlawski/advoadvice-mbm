@@ -16,6 +16,8 @@ Unklar und oft unterbelichtet bleiben die Rechte von Anlegerinnen und Anlegern, 
 
 Anleger in Anleihen der Air Berlin fragen sich daher, wie es mit ihren Anspr&uuml;chen auf Zinszahlungen und R&uuml;ckzahlung der Anleihe nun weitergeht.
 
-&nbsp;
+![](/uploads/versions/air-berlin-herzen-1---x----4032-3024x---.jpg)
+
+Anleihen
 
 &nbsp;
