@@ -1,5 +1,7 @@
 ---
-title: 'Anton Westrich: Bafin ordnet Abwicklung des unerlaubt betriebenen Einlagengeschäfts an'
+title: >-
+  Anton Westrich: Bafin ordnet Abwicklung des unerlaubt betriebenen
+  Einlagengeschäfts an
 date: 2017-08-01 00:00:00
 seo_beschreibung:
 layout: post
@@ -9,7 +11,7 @@ tags:
   - Betroffener
   - Kapitalanleger
   - Westrich
-  - 'W & K Financial Service'
+  - W & K Financial Service
   - WPD Financial Service d.o.o.
   - Einlagengeschäft
   - BaFin
@@ -29,7 +31,7 @@ Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht hat nach einer Mitteilu
 
 ### Ankauf von Lebensversicherungen und Abschluss von Privatdarlehen
 
-Herrn Anton Westrich bot, handelnd unter der Bezeichnung "W&K Financial Sercive" den Abschluss von "Privatdarlehensvertr&auml;gen" sowie handelnd unter dem Namen "WPD Financial Service d.o.o." den Ankauf von Lebensversicherungsvertr&auml;gen an.
+Herrn Anton Westrich bot, handelnd unter der Bezeichnung "W&K Financial Service" den Abschluss von "Privatdarlehensvertr&auml;gen" sowie handelnd unter dem Namen "WPD Financial Service d.o.o." den Ankauf von Lebensversicherungsvertr&auml;gen an.
 
 ### Einlagengesch&auml;ft ohne Erlaubnis betrieben
 
