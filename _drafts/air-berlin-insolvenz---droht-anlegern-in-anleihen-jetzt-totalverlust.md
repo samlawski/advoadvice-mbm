@@ -5,6 +5,15 @@ seo_beschreibung: Air Berlin Insolvenz - Anleihen mit Totalverlustrisiko behafte
 layout: post
 feature_bild_path:
 tags:
+  - Verbraucherinformation
+  - Anlegerschutz
+  - Insolvenz
+  - Air Berlin
+  - Anleihe
+  - Nachrang
+  - Totalverlust
+  - Kündigung
+  - Sondekündigungsrecht
 topics:
 team_member: dr-sven-tintemann
 ---
@@ -18,6 +27,18 @@ Anleger in Anleihen der Air Berlin fragen sich daher, wie es mit ihren Anspr&uum
 
 ![](/uploads/versions/air-berlin-herzen-1---x----4032-3024x---.jpg)
 
-Anleihen
+Nach dem Insolvenzantrag st&uuml;rzten auch die Werte der Anleihen der Air Berlin neben dem Wert der Air Berlin Aktie an der B&ouml;rse erheblich ab. Die Air Berlin Aktie hat momentan noch einen Restwert in H&ouml;he von 0,40 Euro.
+
+Innerhalb der letzten Tage fiel der Wert der Anleihe die im April 2018 ausl&auml;uft (8,250% bis 19.04.2018; WKN: AB100B / ISIN: DE000AB100B4) von ca. 92,00 Euro auf gegenw&auml;rtig 11,60 Euro.
+
+Es existieren noch weitere Anleihen (AB100L mit Zinsen von 6.750% bis 09.05.2019 und AB100N mit Zinsen von 5.625% bis 09.05.2019), bei denen ein &auml;hnlicher Verlust verzeichnet wurde. Beide Anleihen liegen nunmehr bei etwa 10,60 Euro.
+
+Von besonderem Interesse f&uuml;r Anleger ist, dass nach dem Wertpapierprospekt (zu AB100B) ein Sonderk&uuml;ndigungsrecht unter verschiedenen Umst&auml;nden bestehen kann. Dazu geh&ouml;rt nach &sect; 9 Abs. 1 lit. d) des Prospektes die Androhung der Zahlungsunf&auml;higkeit oder die Einstellung von Zahlungen. Eine Sonderk&uuml;ndigung ist auch m&ouml;glich, wenn das Insolvenzverfahren er&ouml;ffnet wird (lit. e).
+
+Ob eine K&uuml;ndigung der Anleihe sinnvoll und hilfreich ist, muss im Einzelfall gepr&uuml;ft werden.
+
+Die Anleihe unterliegt keinem Nachrang und d&uuml;rfte somit auch im Insolvenzfall nicht unbedingt zu einem Totalverlust f&uuml;hren.
+
+Wichtig wird aber f&uuml;r die Anleger in Anleihen der Air Berlin sein, ob diese saniert werden kann oder zerschlagen werden muss.
 
 &nbsp;
