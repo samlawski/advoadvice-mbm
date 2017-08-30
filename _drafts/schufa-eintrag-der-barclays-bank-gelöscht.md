@@ -1,6 +1,6 @@
 ---
 title: Schufa Eintrag der Barclays Bank gelöscht
-date: 2017-08-31 00:00:00
+date: 2017-08-30 00:00:00
 seo_beschreibung: AdvoAdvice löscht Schufa-Negativeintrag der Barclays Bank
 layout: post
 feature_bild_path:
