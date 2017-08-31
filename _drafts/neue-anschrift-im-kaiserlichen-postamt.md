@@ -1,10 +1,29 @@
 ---
 title: Neue Anschrift im Kaiserlichen Postamt
-date:
-seo_beschreibung:
+date: 2017-09-01 00:00:00
+seo_beschreibung: AdvoAdvice Rechtsanwälte im Kaiserlichen Postamt Zehlendorf
 layout: post
 feature_bild_path:
-tags: []
-topics: []
+tags:
+  - Verbraucherinformation
+  - neue Anschrift
+  - Kaiserliches Postamt
+  - Martin-Buber-Str. 14
+  - Berlin-Zehlendorf
+topics:
+  - sonstiges
 team_member: dr-sven-tintemann
 ---
+
+
+Die Kanzlei AdvoAdvice Rechtsanw&auml;lte &uuml;bernimmt heute ihre neuen Kanzleir&auml;ume im Kaiserlichen Postamt Berlin Zehlendorf an der Martin-Buber-Strasse 24.
+
+Im Herzen von Zehlendorf bezieht AdvoAdvice nunmehr neue R&auml;ume im Kaiserlichen Postamt. Dort werden ab dem 04.10.2017 die Mandanten der Kanzlei in neuem Ambiente begr&uuml;&szlig;t werden.
+
+&nbsp;
+
+F&uuml;r die Zeit des Umzugs der Kanzlei stehen wir weiterhin gerne per Telefon oder Email zu Verf&uuml;gung. Sollte es teilweise zu Verz&ouml;gerungen in der Bearbeitung von Anfragen oder einer kurzfristigen Unerreichbarkeit per Telefon kommen, bitten wir hierf&uuml;r um Nachsicht.
+
+&nbsp;
+
+&nbsp;
