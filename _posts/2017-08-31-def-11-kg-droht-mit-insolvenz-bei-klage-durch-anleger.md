@@ -5,6 +5,18 @@ seo_beschreibung: DEF 11 KG informiert Anleger und droht mit Insolvenz
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
+  - Betroffener
+  - Anleger
+  - DEF
+  - DEF Deutsche Energie Finanz 11 GmbH & Co. KG
+  - Anlegerversammlung
+  - Sanierung
+  - Verkauf
+  - Immobilie
+  - Rückzahlung
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
