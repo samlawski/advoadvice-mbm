@@ -20,7 +20,7 @@ Die Kanzlei AdvoAdvice Rechtsanw&auml;lte &uuml;bernimmt heute ihre neuen Kanzle
 
 Im Herzen von Zehlendorf bezieht AdvoAdvice nunmehr neue R&auml;ume im Kaiserlichen Postamt. Dort werden ab dem 04.10.2017 die Mandanten der Kanzlei in neuem Ambiente begr&uuml;&szlig;t werden.
 
-&nbsp;
+![](/uploads/versions/kaiserliches-postamt-nah---x----1024-576x---.jpg)
 
 F&uuml;r die Zeit des Umzugs der Kanzlei stehen wir weiterhin gerne per Telefon oder Email zu Verf&uuml;gung. Sollte es teilweise zu Verz&ouml;gerungen in der Bearbeitung von Anfragen oder einer kurzfristigen Unerreichbarkeit per Telefon kommen, bitten wir hierf&uuml;r um Nachsicht.
 
