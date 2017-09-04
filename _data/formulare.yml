@@ -1,26 +1,15 @@
-- _slug: fragebogen-ktg-agrar-se
-  title: Fragebogen KTG Agrar SE
-  datei_path: /uploads/dokumente/Fragebogen_KTG_Agrar_SE.pdf
-- _slug: fragebogen-baxter
-  title: Fragebogen Baxter
-  datei_path: /uploads/dokumente/Fragebogen_Baxter.pdf
-- _slug: fragebogen-life-performance
-  title: Fragebogen Life Performance
-  datei_path: /uploads/dokumente/Fragebogen_Life_Performance.pdf
-- _slug: anmeldeformular-geschadigtengemeinschaft-life-performance
-  title: Anmeldeformular Geschaedigtengemeinschaft Life Performance
-  datei_path: /uploads/dokumente/Anmeldeformular_zur_Gesch_digtengemeinschaft_-_Life_Performance.pdf
 - _slug: fragebogen-bei-negativeintragen-in-einer-wirtschaftsauskunftdatei_path
-  title: Fragebogen bei Negativeintraegen in einer Wirtschaftsauskunftei
-  datei_path: /uploads/dokumente/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf
+  title: Fragebogen bei Negativeinträgen in einer Wirtschaftsauskunftei
+  datei_path: >-
+    /uploads/dokumente/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf
 - _slug: fragebogen-fur-geschadigte-anleger
-  title: Fragebogen fuer geschaedigte Anleger
+  title: Fragebogen fuer geschädigte Anleger
   datei_path: /uploads/dokumente/Fragebogen_f_r_gesch_digte_Anleger.pdf
 - _slug: vollmacht
   title: Vollmacht
   datei_path: /uploads/dokumente/Vollmacht.pdf
 - _slug: auftragsbestaetigung
-  title: Auftragsbestaetigung
+  title: Auftragsbestätigung
   datei_path: /uploads/dokumente/Auftragsbest_tigung.pdf
 - _slug: mandatsbedingungen
   title: Mandatsbedingungen
@@ -28,12 +17,6 @@
 - _slug: widerruf
   title: Widerruf Darlehensvertrag
   datei_path: /uploads/dokumente/Fragebogen_Widerruf_Darlehensvertrag.pdf
-- _slug: fragebogen-wohrl-anleihe
-  title: Fragebogen Wöhrl Anleihe
-  datei_path: /uploads/dokumente/Fragebogen_W_hrl.pdf
-- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
-  title: Anmeldeformular Wöhrl Gläubigergemeinschaft
-  datei_path: /uploads/dokumente/Anmeldeformular_zur_Gesch_digtengemeinschaft_W_hrl.pdf
 - _slug: anmeldeformular-wohrl-glaubigergemeinschaft
   title: Fragebogen Brest-Tauros Gmbh
   datei_path: /uploads/fragebogen-brest-tauros.pdf
