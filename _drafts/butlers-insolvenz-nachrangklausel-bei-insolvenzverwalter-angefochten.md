@@ -7,6 +7,16 @@ seo_beschreibung: Butlers Anlegerin geht gegen intrasparente Nachrangklausel vor
 layout: post
 feature_bild_path:
 tags:
+  - Kapitalmarktrecht
+  - Anleger
+  - Butlers
+  - Genussrechte
+  - Insolvenzverwalter
+  - Görg
+  - Anfechtung
+  - Nachrangklausel
+  - intransparent
+  - Totalverlust
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
