@@ -27,11 +27,9 @@ Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 
 
 ### **Erfolge**
 
-&Uuml;ber die Arbeit von AdvoAdvice und unsere Erfolge berichten wir regelm&auml;&szlig;ig in unserem [Blog](__notset__). Auch Presse und Medien berichten &uuml;ber unser Arbeit und die erfolgreich abgeschlossenen F&auml;lle.
+&Uuml;ber die Arbeit von AdvoAdvice und unsere Erfolge berichten wir regelm&auml;&szlig;ig in unserem Blog. Auch Presse und Medien berichten &uuml;ber unser Arbeit und die erfolgreich abgeschlossenen F&auml;lle.
 
-Die Berichte &uuml;ber unsere neusten Erfolge in Sachen Schufa-Recht und Datenschutz finden Sie in unserem Blog.
-
-Ihr Problem:
+### Ihr Problem
 
 * Negativeintrag l&ouml;schen
 
@@ -45,14 +43,14 @@ Ihr Problem:
 
 * Veraltete Daten l&ouml;schen
 
-<div><div><div id="_com_2" uage="JavaScript"><a name="_msocom_2"></a><p>Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:</p></div></div></div>
+<div><div><div id="_com_2" uage="JavaScript"><a name="_msocom_2"></a><h3>Ein &Uuml;berblick</h3><p>Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:</p></div></div></div>
 
 * Rechtm&auml;&szlig;igkeit von Schufa-Klauseln
 * Meldungen an die Schufa Holding AG durch Dritte
 * Meldungen und Scoring durch die Schufa Holding AG sowie andere Auskunfteien
 * Missbrauch von Schufa-Meldungen zum Inkasso oder als Druckmittel
 
-**Negativer Schufa Eintrag – Was ist das und was gibt es zu beachten?**
+### **Negativer Schufa Eintrag – Was ist das und was gibt es zu beachten?**
 
 Die meisten in Deutschland lebenden Menschen registrieren fr&uuml;her oder sp&auml;ter, dass es die Schufa Holding AG (auch bekannt als Schutzgemeinschaft f&uuml;r die allgemeine Kreditsicherung, oder wie hier fortan: SCHUFA) und andere Wirtschaftsauskunfteien wie z.B. die infoscore Consumer Data GmbH oder die Creditreform Boniversum GmbH gibt. Das dahinterstehende Konzept dieser Unternehmen ist so simpel wie weitreichend:
 
@@ -62,7 +60,7 @@ Eine Abfrage dieser Daten und eines bereichsspezifischen Scorewertes findet z.B.
 
 Ins Bewusstsein der meisten Verbraucher r&uuml;ckt die T&auml;tigkeit der SCHUFA dann, wenn ein negativer Eintrag oder ein schlechter Scorewert das angestrebte Ergebnis verhindert und man beispielsweise keinen Kredit bekommt. Im Folgenden soll ein &Uuml;berblick rund um alle Fragen zu sog. negativen Schufa Eintr&auml;gen gegeben werden.
 
-**[1) Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=negativer+schufa+eintrag&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdSgG)**\*\* – Was ist das? Was sind die Folgen?\*\*
+### **[1) Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=negativer+schufa+eintrag&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdSgG)** – Was ist das? Was sind die Folgen?
 
 Die SCHUFA erh&auml;lt von unterschiedlichen Vertragspartnern umfassende Informationen &uuml;ber das Zahlungsverhalten von Kunden. Dabei werden sowohl positive Merkmale (z.B. wenn ein Kredit p&uuml;nktlich zur&uuml;ckgezahlt wurde) als auch neutrale Merkmale (z.B. Alters- und Adressabfragen) gespeichert. Nicht ber&uuml;cksichtigt werden dabei Daten wie z.B. das Gehalt einer Person oder ob diese einer Erwerbst&auml;tigkeit nachgeht.
 
@@ -76,7 +74,7 @@ Auch wenn eine solche K&uuml;ndigung nicht immer der Fall ist, bestehen ab der E
 
 Letztlich entscheidet die SCHUFA selbst nicht &uuml;ber die Gew&auml;hrung von Krediten o.&auml;., jedoch verlassen sich viele Unternehmen auf die Informationen der SCHUFA. Die Folge ist daher meistens, dass in den soeben benannten Bereichen kein Vertragsabschluss bzw. keine Zahlung auf Rechnung o.&auml;. mehr m&ouml;glich sein wird.
 
-**[2) Wann bekommt man einen Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=wann+bekommt+man+einen+schufa+eintrag&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcCgB)****?**
+### **[2) Wann bekommt man einen Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=wann+bekommt+man+einen+schufa+eintrag&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcCgB)****?**
 
 Ob und wann man einen negativen Schufa Eintrag bekommt h&auml;ngt von verschiedenen Faktoren ab. Die Rechtsgrundlage f&uuml;r einen solchen Eintrag findet sich im Bundesdatenschutzgesetz (kurz: BDSG). Dort ist in &sect; 28a Absatz 1 Satz 1 BDSG geregelt, wann ein solcher Eintrag erfolgen darf.
 
@@ -94,7 +92,7 @@ Nach dem Bundesdatenschutzgesetz geltend folgende Voraussetzungen, von denen nur
 
 Es kommt jedoch immer wieder vor, dass Unternehmen diese Voraussetzungen nicht beachten, bevor sie eine Forderung an die SCHUFA melden. In jeder einzelnen Vorschrift gibt es bestimmte Voraussetzungen, die beachtet werden m&uuml;ssen, bevor ein negativer Schufa Eintrag vorgenommen werden darf.
 
-**3) Wie verhindert man einen Schufa Eintrag?**
+### **3) Wie verhindert man einen Schufa Eintrag?**
 
 Der beste Schutz gegen einen negativen Schufa Eintrag ist nat&uuml;rlich, seine Rechnungen rechtzeitig und vollst&auml;ndig zu begleichen. Wenn dies aus irgendwelchen Gr&uuml;nden mal nicht m&ouml;glich sein sollte, gibt es dennoch einige Ma&szlig;nahmen, die dabei helfen k&ouml;nnen, sich gegen einen Negativeintrag zu sch&uuml;tzen.
 
@@ -102,7 +100,9 @@ Zun&auml;chst sollten eine Forderung, wenn Sie in der konkreten Form nicht nachv
 
 In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung abzuschlie&szlig;en. Nach der Rechtsprechung des [LG Braunschweig (Urt. v. 28.06.2013, Az.: 9 O 2394/12)](https://www.anwalt.de/rechtstipps/schufa-loeschung-bei-ratenzahlungsvereinbarung-notwendig_046554.html) und weiterer Gerichte f&uuml;hrt eine solche Vereinbarung dazu, dass nur die konkrete Rate und nicht die gesamte Forderung f&auml;llig ist. Das bedeutet, dass eine Bank oder ein anderes Unternehmen ab diesem Zeitpunkt keinen negativen Schufa Eintrag &uuml;ber die gesamte Forderung vornehmen darf. Das kann auch dann helfen, wenn zwar vorher ein negativer Schufa Eintrag vorgenommen wurde, dieser aber unter einem Fehler leidet, weil der Betroffene beispielsweise nicht auf die bevorstehende Daten&uuml;bermittlung (und damit in der Konsequenz &uuml;ber den negativen Schufa Eintrag) informiert wurde.
 
-**[4) Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+einsehen&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcSgC)**\*\* bzw. Schufa Eintrag abfragen\*\*
+### **[4) Schufa Eintrag
+
+<font> </font>](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+einsehen&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcSgC)**bzw. Schufa Eintrag abfragen
 
 Nach den gesetzlichen Grundlagen (&sect; 34 BDSG) hat jeder das Recht, einmal pro Jahr eine <u>kostenlose</u> Auskunft bez&uuml;glich seiner bei der Schufa Holding AG gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der Seite der Schufa Holding AG [hier](https://www.meineschufa.de/download.php?file=SCHUFA_Infoblatt-DU-Antrag-deutsch.pdf&amp;token=50683).
 
@@ -112,13 +112,15 @@ Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa Holding AG
 
 * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen eine Geb&uuml;hr f&uuml;r Sie zu organisieren. Es ist davon abzuraten, an andere Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale Geld f&uuml;r eine Selbstauskunft Geld zu investieren. Externe Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die f&uuml;r Sie sonst bei direkter Abfrage bei der Schufa Holding AG g&uuml;nstiger oder sogar kostenfrei erfolgt.
 
-**[5) Wie lange](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+wie+lange&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcygE)**\*\* besteht ein Schufa Eintrag?\*\*
+### **[5) Wie lange
+
+<font> </font>](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+wie+lange&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcygE)**besteht ein Schufa Eintrag?
 
 Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt, erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine L&ouml;schung des Schufa Eintrages [](){: .cc-active}erfolgt erst nach Ablauf von 3 Jahren nach Zahlung zum Jahresende. Dies geschieht automatisch ohne Zutun des Kunden aufgrund der Vorschrift des &sect; 35 Abs. 2 Nr. 4 BDSG.
 
 Im konkreten Beispiel k&ouml;nnte das so aussehen: Herr A. hat einen Kredit bei der B-Bank nicht zur&uuml;ckbezahlt. Deshalb hat die B-Bank im Mai 2016 einen Vollstreckungsbescheid &uuml;ber 4.937,00 Euro gegen den Herrn A beantragt und zu dieser Forderung einen negativen Schufa Eintrag veranlasst. Als Herr A im Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung &uuml;ber 4.937,00 Euro im Januar 2017 vollst&auml;ndig zur&uuml;ck. Daraufhin wird die B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen Speicherfristen bleibt der Schufa Eintrag aber bis zum 31.12.2020 bestehen. Solange wird er auch bei der Berechnung des Scorewertes ber&uuml;cksichtigt und wirkt sich somit auch auf die wirtschaftliche Handlungsf&auml;higkeit aus.
 
-**6) Schufa Eintrag l&ouml;schen lassen?**
+### **6) Schufa Eintrag l&ouml;schen lassen?**
 
 Nach alledem stellt sich f&uuml;r viele Betroffene die Frage, ob man einen negativen Schufa Eintrag vorzeitig l&ouml;schen lassen kann. Dabei gilt es eine juristische Spitzfindigkeit zu ber&uuml;cksichtigen: Die einzelnen Unternehmen k&ouml;nnen den negativen Schufa Eintrag nicht selbst l&ouml;schen. Diese k&ouml;nnen den negativen Schufa Eintrag nur widerrufen, also die SCHUFA zur L&ouml;schung auffordern. Die SCHUFA selbst geht davon aus, dass sie nicht verpflichtet ist, die Daten im Anschluss an einen Widerruf zu l&ouml;schen. Vielmehr kann die Speicherung bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis &uuml;ber den Hintergrund des negativen Schufa Eintrages erlangt hat und davon ausgeht, dass kein Grund zum Widerruf besteht. Ob und inwiefern die SCHUFA eine [eigene Pr&uuml;fungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf) (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite 4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine direkte Antwortung im Bundesdatenschutzgesetz findet und zu der es deshalb durchaus unterschiedliche rechtliche Ansichten gibt.
 
@@ -186,7 +188,7 @@ Kernpunkt der Problematik ist, dass h&auml;ufig jede Information eine Einzelbewe
 
 * [Unbekanntes Urteil f&uuml;hrt zu Schufa Eintrag](http://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/) –Inkasso: Ein &ouml;ffentlich zugestelltes Urteil aus dem Jahr 2002 stellte die Grundlage f&uuml;r einen negativen Schufa Eintrag im Jahr 2017 dar. Der Betroffene wusste aufgrund dieser &ouml;ffentlichen Zustellung lange Zeit nichts von dem Urteil und konnte die Forderung deshalb auch nicht ausgleichen. Die Schufa Holding AG entschloss sich daher selbst dazu, den Eintrag zur L&ouml;schung zu bringen.
 
-**7) Konkrete Rechtsgrundlagen**
+### **7) Konkrete Rechtsgrundlagen**
 
 Bis zum 01.04.2010 war die &Uuml;bermittlung von sogenannten Negativmerkmalen anhand von &sect; 28 Abs.1 Nr.2 BDSG zu beurteilen. Zus&auml;tzlich bestand auch die Verpflichtung f&uuml;r die Kreditwirtschaft, eine Schufa-Einverst&auml;ndnisklausel einzuholen. Die &Uuml;bermittlung von personenbezogenen Daten war jedoch nur dann zul&auml;ssig, soweit dies zur Wahrung berechtigter Interessen der speichernden Stelle erforderlich war und sich im Rahmen einer Interessenabw&auml;gung herausstellte, dass keine schutzw&uuml;rdigen Interessen des Betroffenen &uuml;berwiegen.
 
