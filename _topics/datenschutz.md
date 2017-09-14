@@ -25,7 +25,7 @@ Zudem wurde &uuml;ber die T&auml;tigkeit der Rechtsanw&auml;lte von AdvoAdvice m
 
 Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 1 - Akte, MDR Escher, RBB ZIBB im Fernsehen zu sehen und stand als Experte beim BILD Verbrauchertelefon Anrufern kostenfrei Rede und Antwort.&nbsp;
 
-### **Erfolge**
+### **Erfolg&nbsp;**
 
 &Uuml;ber die Arbeit von AdvoAdvice und unsere Erfolge berichten wir regelm&auml;&szlig;ig in unserem Blog. Auch Presse und Medien berichten &uuml;ber unser Arbeit und die erfolgreich abgeschlossenen F&auml;lle.
 
