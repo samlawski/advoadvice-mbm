@@ -5,6 +5,16 @@ seo_beschreibung: Leasetrend AG zahlt nach Zahlungsklage Guthaben an Anlegerin a
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
+  - Betroffener
+  - Anleger
+  - LeaseTrend AG
+  - Zahlung
+  - LG München I
+  - Prozesserfolg
+  - Auseinandersetzungsguthaben
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
