@@ -20,7 +20,7 @@ Diese reichte eine Klage vor dem Landgericht M&uuml;nchen I auf Zahlung gegen di
 
 Eine wirkliche Klageerwiderung auf die Inanspruchnahme erfolgte durch die Leasetrend AG im Prozessverlauf nicht. Diese teilte nur mit Schriftsatz vom 04.10.2017 mit, dass sie den Restsaldo des Auseinandersetzungsguthabens zwischenzeitlich vorf&auml;llig gezahlt habe. Die Beklagte habe sich in Ansehung des Missverh&auml;ltnisses zwischen den Kosten einer Fortf&uuml;hrung des Rechtsstreits im Einzelfall einerseits und den Gesamtinteressen der Beklagten andererseits, insbesondere aber in Anbetracht der mit dem Rechtsstreit verbundenen Kosten dazu entschieden, den Restsalo vorf&auml;llig auszuzahlen.
 
-Die Auszahlung in H&ouml;he von ... Euro konnte von der betroffenen Anlegern best&auml;tigt werden.
+Die Auszahlung in H&ouml;he von 6.293,98 Euro konnte von der betroffenen Anlegerin best&auml;tigt werden.
 
 Der Rechtsstreit wurde daher in der Hauptsache &uuml;bereinstimmend f&uuml;r erledigt erkl&auml;rt.
 
