@@ -20,7 +20,9 @@ Mit ihrer Finanzfirma sollen sie hunderte Kunden um Millionen Euro betrogen habe
 
 Die Staatanwaltschaft erhob gegen die vier Beschuldigten die Anklage wegen bandenm&auml;&szlig;igen Betrugs und des Handels ohne Erlaubnis nach dem Kreditwesengesetz.
 
-Die vier Beschuldigten sitzen nach Medienberichten seit Mai 2016 in Untersuchungshaft. Die Firma Alphapool hatte ihren Kunden versprochen, Gelder aus Lebensversicherungen und auch anderen nicht renditetr&auml;chtigen Kapitalanlagen mit einer h&ouml;heren Rendite weiter anzulegen.
+Drei der vier Beschuldigten sitzen nach Berichten der Saarbr&uuml;cker Zeitung seit Mai 2016 in Untersuchungshaft. Die Firma Alphapool hatte ihren Kunden versprochen, Gelder aus Lebensversicherungen und auch anderen nicht renditetr&auml;chtigen Kapitalanlagen mit einer h&ouml;heren Rendite weiter anzulegen.
+
+Die Anklageschrift soll nach Angaben in den Medien 1359 Seiten stark sein. Zust&auml;ndig ist die Staatsanw&auml;ltin Viktoria H&auml;nel. Angeklagt soll der ehemalige Vorstand der Alphapool AG und sp&auml;tere Gesch&auml;ftsf&uuml;hrer der Alphapool GmbH, Gernot F. aus Wallerfangen sein. Dieser meint, er habe nur als Strohmann fungiert. Zudem angeklagt sind die Herren Detlef T. und Thomas K. sowie ein Rechtsanwalt , der zahlreiche Lebensversicherungen f&uuml;r die Alphapool gek&uuml;ndigt hat.&nbsp;
 
 Laut Anklageschrift sollen zwischen September 2009 bis Januar 2013 auf diese Weise 894 Kunden mit insgesamt 1451 Lebensversicherungen, Rentenversicherungen und Bausparvertr&auml;gen, Investmentdepot und Sparguthaben auf diese Weise geprellt und um ihr Erspartes gebracht worden sein.
 
