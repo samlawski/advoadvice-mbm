@@ -13,7 +13,7 @@ seo_beschreibung: >-
 
 Die Experten von AdvoAdvice sind seit mehr als 10 Jahren auf dem Gebiet von Schufa-Recht und Datenschutz t&auml;tig.
 
-Dr. Tintemann und sein Team haben insgesamt mehr als [700 F&auml;lle]()zum Thema Schufa-Recht und Datenschutz bearbeitet. Nicht eingerechnet sind hierbei zahlreiche Telefonate im Rahmen von Erstanfragen. Es wurden hierbei mehr als [200 Klagen]()gegen Banken, Inkassofirmen, Telekommunikations-Anbieter und andere eintragende Stellen sowie auch gegen Auskunfteien eingereicht.
+Dr. Tintemann und sein Team haben insgesamt mehr als [700 F&auml;lle](){: .cc-active}zum Thema Schufa-Recht und Datenschutz bearbeitet. Nicht eingerechnet sind hierbei zahlreiche Telefonate im Rahmen von Erstanfragen. Es wurden hierbei mehr als [200 Klagen](){: .cc-active}gegen Banken, Inkassofirmen, Telekommunikations-Anbieter und andere eintragende Stellen sowie auch gegen Auskunfteien eingereicht.
 
 ### **Kompetenz**
 
@@ -21,7 +21,7 @@ Dr. Tintemann ist Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht und hat im Rah
 
 Dr. Tintemann ver&ouml;ffentlichte seit dem Jahr 2011 insgesamt acht Artikel zum Thema Schufa-Recht und Datenschutz in der Zeitschrift Verbraucher und Recht (VuR) und im Jahr 2016 einen l&auml;ngeren Aufsatz zum Thema Scoring, Transparenz und Interesse der Schufa Holding AG in der Zeitschrift Revisionspraxis.
 
-Zudem wurde &uuml;ber die T&auml;tigkeit der Rechtsanw&auml;lte von AdvoAdvice mehr als 20 mal in Presse, Fernsehen und den Printmedien berichtet. Hiervor befassten sich zwei Radiobeitr&auml;ge, ein Beitrag auf dem Fernsehsender NTV, ein Artikel bei der Zeitschrift "Die Zeit", ein Artikel in der Auto-Bild sowie in Artikel bei dem Internetportal Web.de und ein Interview f&uuml;r die ARD Tagesthemen mit dem Thema Schufa-Recht und Datenschutzrecht.
+Zudem wurde &uuml;ber die T&auml;tigkeit der Rechtsanw&auml;lte von AdvoAdvice mehr als 20 mal in Presse, Fernsehen und den Printmedien berichtet. Hiervor befassten sich zwei Radiobeitr&auml;ge, ein Beitrag auf dem Fernsehsender NTV, ein Artikel bei der Zeitschrift “Die Zeit”, ein Artikel in der Auto-Bild sowie in Artikel bei dem Internetportal Web.de und ein Interview f&uuml;r die ARD Tagesthemen mit dem Thema Schufa-Recht und Datenschutzrecht.
 
 Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 1 - Akte, MDR Escher, RBB ZIBB im Fernsehen zu sehen und stand als Experte beim BILD Verbrauchertelefon Anrufern kostenfrei Rede und Antwort.&nbsp;
 
@@ -100,9 +100,9 @@ Zun&auml;chst sollten eine Forderung, wenn Sie in der konkreten Form nicht nachv
 
 In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung abzuschlie&szlig;en. Nach der Rechtsprechung des [LG Braunschweig (Urt. v. 28.06.2013, Az.: 9 O 2394/12)](https://www.anwalt.de/rechtstipps/schufa-loeschung-bei-ratenzahlungsvereinbarung-notwendig_046554.html) und weiterer Gerichte f&uuml;hrt eine solche Vereinbarung dazu, dass nur die konkrete Rate und nicht die gesamte Forderung f&auml;llig ist. Das bedeutet, dass eine Bank oder ein anderes Unternehmen ab diesem Zeitpunkt keinen negativen Schufa Eintrag &uuml;ber die gesamte Forderung vornehmen darf. Das kann auch dann helfen, wenn zwar vorher ein negativer Schufa Eintrag vorgenommen wurde, dieser aber unter einem Fehler leidet, weil der Betroffene beispielsweise nicht auf die bevorstehende Daten&uuml;bermittlung (und damit in der Konsequenz &uuml;ber den negativen Schufa Eintrag) informiert wurde.
 
-### **[4) Schufa Eintrag
+### **4) Schufa Eintrag abfragen**
 
-<font> </font>](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+einsehen&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcSgC)**bzw. Schufa Eintrag abfragen
+<font> </font>
 
 Nach den gesetzlichen Grundlagen (&sect; 34 BDSG) hat jeder das Recht, einmal pro Jahr eine <u>kostenlose</u> Auskunft bez&uuml;glich seiner bei der Schufa Holding AG gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der Seite der Schufa Holding AG [hier](https://www.meineschufa.de/download.php?file=SCHUFA_Infoblatt-DU-Antrag-deutsch.pdf&amp;token=50683).
 
@@ -112,11 +112,9 @@ Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa Holding AG
 
 * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen eine Geb&uuml;hr f&uuml;r Sie zu organisieren. Es ist davon abzuraten, an andere Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale Geld f&uuml;r eine Selbstauskunft Geld zu investieren. Externe Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die f&uuml;r Sie sonst bei direkter Abfrage bei der Schufa Holding AG g&uuml;nstiger oder sogar kostenfrei erfolgt.
 
-### **[5) Wie lange
+### **5) Wie lange besteht ein Schufa Eintrag?**
 
-<font> </font>](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+wie+lange&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcygE)**besteht ein Schufa Eintrag?
-
-Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt, erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine L&ouml;schung des Schufa Eintrages [](){: .cc-active}erfolgt erst nach Ablauf von 3 Jahren nach Zahlung zum Jahresende. Dies geschieht automatisch ohne Zutun des Kunden aufgrund der Vorschrift des &sect; 35 Abs. 2 Nr. 4 BDSG.
+Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt, erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine L&ouml;schung des Schufa Eintrages erfolgt erst nach Ablauf von 3 Jahren nach Zahlung zum Jahresende. Dies geschieht automatisch ohne Zutun des Kunden aufgrund der Vorschrift des &sect; 35 Abs. 2 Nr. 4 BDSG.
 
 Im konkreten Beispiel k&ouml;nnte das so aussehen: Herr A. hat einen Kredit bei der B-Bank nicht zur&uuml;ckbezahlt. Deshalb hat die B-Bank im Mai 2016 einen Vollstreckungsbescheid &uuml;ber 4.937,00 Euro gegen den Herrn A beantragt und zu dieser Forderung einen negativen Schufa Eintrag veranlasst. Als Herr A im Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung &uuml;ber 4.937,00 Euro im Januar 2017 vollst&auml;ndig zur&uuml;ck. Daraufhin wird die B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen Speicherfristen bleibt der Schufa Eintrag aber bis zum 31.12.2020 bestehen. Solange wird er auch bei der Berechnung des Scorewertes ber&uuml;cksichtigt und wirkt sich somit auch auf die wirtschaftliche Handlungsf&auml;higkeit aus.
 
