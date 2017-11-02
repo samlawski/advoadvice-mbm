@@ -1,6 +1,6 @@
 ---
 title: Schufa Eintrag der Barclays Bank PLC gelöscht
-date:
+date: 2017-11-06 00:00:00
 seo_beschreibung: >-
   Die Schufa Holding AG hat einen negativen Schufa Eintrag der Barlcays Bank PLC
   gelöscht.
@@ -37,8 +37,12 @@ Die Rechtsanw&auml;lte der Kanzlei AdvoAdvice in Berlin setzten sich sowohl mit 
 
 Unabh&auml;ngig von der Frage, ob die K&uuml;ndigung tats&auml;chlich berechtigt war, argumentierten die Rechtsanw&auml;lte damit, dass innerhalb von drei Tagen ein unterschiedlicher Forderungsbetrag geltend gemacht wurde und es mit dem Sinn und Zweck der gesetzlichen Grundlagen f&uuml;r einen sog. Schufa Eintrag nicht vereinbar sei, die Forderung dann direkt an die Schufa Holding AG in Wiesbaden zu melden.
 
-Der zust&auml;ndige Rechtsanwalt und Schufa-Experte Dr. Sven Tintemann sagte dazu: "Der Gesetzgeber hat im Bundesdatenschutzgesetz unterschiedliche M&ouml;glichkeiten geschaffen, um eine Daten&uuml;bermittlung, also einen Schufa Eintrag vorzunehmen. Nach dem reinen Wortlaut der Norm k&ouml;nnen die unterschiedliche Szenarien mit unterschiedlichem Aufwand erreicht werden. Die Barclays Bank PLC berief sich auf das Szenario, welches nach dem Wortlaut den geringsten Anspruch hat. Da die gesamte Norm aber f&uuml;r Rechtssicherheit sorgen und den Betroffenen sch&uuml;tzen soll, ist an alle M&ouml;glichkeiten der Daten&uuml;bermittlung ein &auml;hnlicher Anspruch anzulegen. Nach der Argumentation der Barclays Bank w&uuml;rde allerdings der Schutzzweck der Norm konterkariert werden, weshalb die Daten&uuml;bermittlung nicht mit demm Sinn und Zweck der Norm im Einklang steht."
+Der zust&auml;ndige Rechtsanwalt und Schufa-Experte Dr. Sven Tintemann sagte dazu: "Der Gesetzgeber hat im Bundesdatenschutzgesetz unterschiedliche M&ouml;glichkeiten geschaffen, um eine Daten&uuml;bermittlung, also einen Schufa Eintrag vorzunehmen. Nach dem reinen Wortlaut der Norm k&ouml;nnen die unterschiedliche Szenarien mit unterschiedlichem Aufwand erreicht werden. Die Barclays Bank PLC berief sich auf das Szenario, welches nach dem Wortlaut die geringsten Anforderungen hat. Da die gesamte Norm aber f&uuml;r Rechtssicherheit sorgen und den Betroffenen sch&uuml;tzen soll, ist an alle M&ouml;glichkeiten der Daten&uuml;bermittlung ein &auml;hnlich hoher Anspruch anzulegen. Nach der Argumentation der Barclays Bank w&uuml;rde allerdings der Schutzzweck der Norm konterkariert werden, weshalb die Daten&uuml;bermittlung nicht mit dem Sinn und Zweck der Norm im Einklang steht."
 
 ### **Was sollte man tun, wenn es zu einem Eintrag gekommen ist?**
 
-In dem Fall, dass auch Sie unter einem Schufa Eintrag leiden, sollten Sie Ihre Unterlagen einem Experten zur Verf&uuml;gung stellen, damit dieser die Rechtm&auml;&szlig;igkeit des Eintrages pr&uuml;fen kann. H&auml;ufig gibt es Argumentationsans&auml;tze, die durch eine &uuml;bereifrige Bearbeitung oder fr&uuml;hzeitige Einmeldung in den Schufa-Datenbestand entstehen. Bei vorliegen eines Schufa Eintrages k&ouml;nnen Sie uns gerne unter info@advoadvice.de oder unter 030 / 921 000 40 telefonisch kontaktieren.
+In dem Fall, dass auch Sie unter einem Schufa Eintrag leiden, sollten Sie Ihre Unterlagen einem Experten zur Verf&uuml;gung stellen, damit dieser die Rechtm&auml;&szlig;igkeit des Eintrages pr&uuml;fen kann.
+
+H&auml;ufig gibt es Argumentationsans&auml;tze, die f&uuml;r eine L&ouml;schung sprechen, weil seitens der einmeldenden Stelle eine &uuml;bereifrige Bearbeitung oder fr&uuml;hzeitige Einmeldung in den Schufa-Datenbestand erfolgt ist.
+
+Bei Vorliegen eines Schufa Eintrages k&ouml;nnen Sie uns gerne unter info@advoadvice.de oder unter 030 / 921 000 40 telefonisch kontaktieren.
