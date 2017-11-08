@@ -1,9 +1,7 @@
 ---
-title: Wiederholte Eintragung einer Forderung durch Synergie Inkasso GmbH gelöscht
+title: Wiederholte Eintragung einer Forderung der Synergie Inkasso gelöscht
 date: 2017-11-08 00:00:00
-seo_beschreibung: >-
-  Erneuter Eintrag durch die Synergie Inkasso GmbH wurde von der Schufa Holding
-  AG gelöscht
+seo_beschreibung: Wiederholte Eintragung der Synergie Inkasso GmbH  gelöscht
 layout: post
 feature_bild_path:
 tags:
