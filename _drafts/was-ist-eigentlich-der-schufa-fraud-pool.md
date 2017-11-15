@@ -27,6 +27,12 @@ Der Schufa-FraudPool ist nach eigenen Angaben der Schufa neben dem Schufa-Datenb
 
 Diese Informationen werden zur Verf&uuml;gung gestellt, wenn Anhaltspunkte daf&uuml;r vorliegen, dass der Empf&auml;nger diese zur Beurteilung eines Sachverhalts ben&ouml;tigt.
 
+Die Teilnehmer am Schufa-FraudPool sind nach Angaben der Schufa Unternehmen der Kreditwirtschaft aus dem Europ&auml;ischen Wirtschaftsraum (EWR). Insbesondere handelt es sich bei den teilnehmenden Unternehmen nach Angaben im Informationsschreiben um:
+
+* Kreditinstitute und Finanzdienstleistungsinstitute
+* Kreditkartengesellschaften
+* Leasinggesellschaften
+
 Der betroffene Verbraucher will nun &uuml;ber die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB Einsicht in die &uuml;ber ihn gespeicherten Daten nehmen.
 
 Zudem wir es interessant sein, zu erfahren, wie sich die Eintragung im FraudPool der Schufa bei dem Betroffenen begr&uuml;ndet und wie die Schufa die Einf&uuml;hrung dieses zus&auml;tzlichen Informationssystems begr&uuml;ndet, da der Datenspeicherung und -verarbeitung durch das BDSG enge Grenzen gesetzt sind.
