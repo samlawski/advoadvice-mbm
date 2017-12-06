@@ -55,5 +55,3 @@ Wer doch investiert, sollte sein Geld besser nicht wirklich benötigen. "Wenn ei
 
 Es wird sicherlich in einigen Jahren auch auf diesem neuen Markt zu einer Regulierung kommen. Momentan herrscht hier trotz der sog. Smart Contracts wohl eher ein rechtsfreier Raum. Da sind die Gesetzgeber gefordert. Bis dahin ist dem Anleger zu Vorsicht zu raten und natürlich auch zum Einschalten des gesunden Menschenverstandes, da keiner etwas zu verschenken hat und sich Geld auch nicht auf Knopfdruck vermehrt.
 {: .present-before-paste}
-
-{: .present-before-paste}
