@@ -43,6 +43,6 @@ Der Insolvenzverwalter best&auml;tigte die Abtretung zwar gegen&uuml;ber dem Ger
 
 ### **Rechtsfolge und Tipp**
 
-In der Folge wurde die Klage der Synergie Inkasso GmbH abgewiesen. Wenn die Forderung in der Zwischenzeit verj&auml;hrt ist, kann weder die Synergie Inkasso GmbH noch ein wom&ouml;glich anderer Forderungsinhaber die Forderung tats&auml;chlich geltend machen.
+In der Folge wurde die Klage der Synergie Inkasso GmbH abgewiesen. Wenn die Forderung in der Zwischenzeit verj&auml;hrt ist, kann weder die Synergie Inkasso GmbH noch ein wom&ouml;glich anderer Forderungsinhaber die Forderung tats&auml;chlich erneut geltend machen.
 
-Falls Sie von der Synergie Inkasso GmbH auf Zahlung eines Betrages verklagt werden, k&ouml;nnen Sie zun&auml;chst die sog. "Aktivlegitimation" der Syergie Inkasso GmbH r&uuml;gen. Diese muss dann nachweisen, dass sie Forderungsinhaberin ist. Sollte dieser Nachweis nicht gelingen, dann wird es wohl zur Klageabweisung kommen. Zumindest vor dem Amtsgericht in Worms war dieser Weg erfolgreich.
+Falls Sie von der Synergie Inkasso GmbH auf Zahlung eines Betrages verklagt werden, k&ouml;nnen Sie zun&auml;chst die sog. "Aktivlegitimation" der Syergie Inkasso GmbH r&uuml;gen. Diese muss dann nachweisen, dass sie Forderungsinhaberin ist. Sollte dieser Nachweis nicht gelingen, kann es ebenfalls zur Klageabweisung kommen. Zumindest vor dem Amtsgericht in Worms war dieser Weg erfolgreich.
