@@ -31,7 +31,7 @@ Nach der Auffassung des Gerichts soll die Vorschrift des &sect; 28 a Abs. 1 Nr. 
 
 Das Gericht ging daher davon aus, dass nach Sinn und Zweck der Vorschrift die Mahnung im Jahr 2011 zu weit in der Vergangenheit liegen w&uuml;rde, um die Kl&auml;gerin als Schuldnerin vor einer bevorstehenden Eintragung zu warnen.&nbsp;
 
-In dreieinhalb Jahren bis zum Eintrag k&ouml;nne eine Menge passieren, gab der zust&auml;ndige Richter in der m&uuml;ndlichen Hauptverhandlung zu bedenken. Die Eintragung sei daher rechtswidrig erfolgt.&nbsp;
+In dreieinhalb Jahren bis zum Eintrag k&ouml;nne eine Menge passieren, gab der zust&auml;ndige Richter in der m&uuml;ndlichen Hauptverhandlung zu bedenken. Die Eintragung sei daher rechtswidrig erfolgt. Diese Auffassung best&auml;tigte er im Urteil schlie&szlig;lich. Darin hei&szlig;t es: "Ma&szlig;geblich ist f&uuml;r das Gericht im hier zu entscheidenden Fall vielmehr, dass ein Zeitraum, der &uuml;ber die gesetzliche Regelverj&auml;hrungsfrsit hinausgeht, stehts die Gefahr in sich birgt, dass der Forderung im Zeitpunkt der Daten&uuml;bermittlung neue Einreden entgegenstehen k&ouml;nnen, so dass der vor diesem Zeitraum liegende Hinweis auf die beabsichtigte &Uuml;bermittlung den bezweckten Schutz des Betroffenen, der auch die M&ouml;glichkeit des Bestrietens der Forderung erfasst, nicht mehr ausreichend Rechnung tragen kann."
 
 ### Weitere Schadensersatzklage droht
 
