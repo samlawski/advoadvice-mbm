@@ -1,6 +1,6 @@
 ---
 title: LG Berlin verurteilt Deutsche Postbank AG zum Widerruf eines Negativeintrages
-date: 2017-12-21 00:00:00
+date: 2018-01-04 00:00:00
 seo_beschreibung: Deutsche Postbank Ag zum Widerruf eines Schufa Negativeintrags verurteilt
 layout: post
 feature_bild_path:
@@ -21,26 +21,26 @@ team_member: dr-sven-tintemann
 ---
 
 
-Das Landgericht Berlin hat die Deutsche Postbank AG zum Widerruf eines Negativeintrages bei der Schufa Holding AG verurteilt. Das Gericht sah die Meldevoraussetzungen nach &sect; 28 a Abs. 1 BDSG, welche zu Gunsten der Deutschen Postbank AG h&auml;tten eingreifen k&ouml;nnen, als nicht gegeben an und entschied daher zu Gunsten der Kl&auml;gerin aus M&uuml;nchen, welche in Berlin durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB erfolgreich vertreten wurde.&nbsp;
+Das Landgericht Berlin hat die Deutsche Postbank AG zum Widerruf eines Negativeintrages bei der Schufa Holding AG verurteilt. Das Gericht sah die Meldevoraussetzungen nach § 28 a Abs. 1 BDSG, welche zu Gunsten der Deutschen Postbank AG hätten eingreifen können, als nicht gegeben an und entschied daher zu Gunsten der Klägerin aus München, welche in Berlin durch die Kanzlei AdvoAdvice Rechtsanwälte mbB erfolgreich vertreten wurde.
 
 ### Zu langer Zeitraum zwischen Mahnungen und Einmeldung
 
-Die Deutsche Postbank AG hatte die Kl&auml;gerin im vorliegenden Fall im Jahr 2011 gemahnt. Der Negativeintrag war aber erst im Jahr 2014 erfolgt.&nbsp;
+Die Deutsche Postbank AG hatte die Klägerin im vorliegenden Fall im Jahr 2011 gemahnt. Der Negativeintrag war aber erst im Jahr 2014 erfolgt.
 
-Nach der Auffassung des Gerichts soll die Vorschrift des &sect; 28 a Abs. 1 Nr. 4 BDSG dazu dienen, den Schuldner einer Forderung auf eine bevorstehende Eintragung vorbereiten.
+Nach der Auffassung des Gerichts soll die Vorschrift des § 28 a Abs. 1 Nr. 4 BDSG dazu dienen, den Schuldner einer Forderung auf eine bevorstehende Eintragung vorbereiten.
 
-Das Gericht ging daher davon aus, dass nach Sinn und Zweck der Vorschrift die Mahnung im Jahr 2011 zu weit in der Vergangenheit liegen w&uuml;rde, um die Kl&auml;gerin als Schuldnerin vor einer bevorstehenden Eintragung zu warnen.&nbsp;
+Das Gericht ging daher davon aus, dass nach Sinn und Zweck der Vorschrift die Mahnung im Jahr 2011 zu weit in der Vergangenheit liegen würde, um die Klägerin als Schuldnerin vor einer bevorstehenden Eintragung zu warnen.
 
-In dreieinhalb Jahren bis zum Eintrag k&ouml;nne eine Menge passieren, gab der zust&auml;ndige Richter in der m&uuml;ndlichen Hauptverhandlung zu bedenken. Die Eintragung sei daher rechtswidrig erfolgt. Diese Auffassung best&auml;tigte er im Urteil schlie&szlig;lich. Darin hei&szlig;t es: "Ma&szlig;geblich ist f&uuml;r das Gericht im hier zu entscheidenden Fall vielmehr, dass ein Zeitraum, der &uuml;ber die gesetzliche Regelverj&auml;hrungsfrsit hinausgeht, stehts die Gefahr in sich birgt, dass der Forderung im Zeitpunkt der Daten&uuml;bermittlung neue Einreden entgegenstehen k&ouml;nnen, so dass der vor diesem Zeitraum liegende Hinweis auf die beabsichtigte &Uuml;bermittlung den bezweckten Schutz des Betroffenen, der auch die M&ouml;glichkeit des Bestrietens der Forderung erfasst, nicht mehr ausreichend Rechnung tragen kann."
+In dreieinhalb Jahren bis zum Eintrag könne eine Menge passieren, gab der zuständige Richter in der mündlichen Hauptverhandlung zu bedenken. Die Eintragung sei daher rechtswidrig erfolgt. Diese Auffassung bestätigte er im Urteil schließlich. Darin heißt es: "Maßgeblich ist für das Gericht im hier zu entscheidenden Fall vielmehr, dass ein Zeitraum, der über die gesetzliche Regelverjährungsfrsit hinausgeht, stehts die Gefahr in sich birgt, dass der Forderung im Zeitpunkt der Datenübermittlung neue Einreden entgegenstehen können, so dass der vor diesem Zeitraum liegende Hinweis auf die beabsichtigte Übermittlung den bezweckten Schutz des Betroffenen, der auch die Möglichkeit des Bestrietens der Forderung erfasst, nicht mehr ausreichend Rechnung tragen kann."
 
 ### Weitere Schadensersatzklage droht
 
-Mit der Entscheidung des Landgerichts Berlin hat die Kl&auml;gerin nunmehr die M&ouml;glichkeit eine sich anschlie&szlig;ende Klage auf Schadensersatz gegen die Deutsche Postbank AG einzureichen.&nbsp;
+Mit der Entscheidung des Landgerichts Berlin hat die Klägerin nunmehr die Möglichkeit eine sich anschließende Klage auf Schadensersatz gegen die Deutsche Postbank AG einzureichen.
 
-Die Kl&auml;gerin wird hierbei geltend machen, dass ihr Aufgrund des Negativeintrags mehrere Immobilienfinanzierungen geplatzt sind, welche zu eine hohen Schaden ihrerseits gef&uuml;hrt haben.&nbsp;
+Die Klägerin wird hierbei geltend machen, dass ihr Aufgrund des Negativeintrags mehrere Immobilienfinanzierungen geplatzt sind, welche zu eine hohen Schaden ihrerseits geführt haben.
 
-### Berufung wahrscheinlich unzul&auml;ssig
+### Berufung wahrscheinlich unzulässig
 
-Eine Berufung der Deutschen Postbank AG ist nach Ansicht des Berliner Rechtsanwalts Dr. Sven Tintemann von AdvoAdvice zwar m&ouml;glich, wahrscheinlich aber nicht zul&auml;ssig, da es der Deutschen Postbank AG an einem ausreichenden Berufungsstreitwert mangeln d&uuml;rfte.&nbsp;
+Eine Berufung der Deutschen Postbank AG ist nach Ansicht des Berliner Rechtsanwalts Dr. Sven Tintemann von AdvoAdvice zwar möglich, wahrscheinlich aber nicht zulässig, da es der Deutschen Postbank AG an einem ausreichenden Berufungsstreitwert mangeln dürfte.
 
-Es bleibt aber abzuwarten, ob die erstinstanzliche Entscheidung rechtkr&auml;ftig wird und wie es in dem noch zu f&uuml;hrenden Schadensersatzprozess weitergeht.&nbsp;
+Es bleibt aber abzuwarten, ob die erstinstanzliche Entscheidung rechtkräftig wird und wie es in dem noch zu führenden Schadensersatzprozess weitergeht.
