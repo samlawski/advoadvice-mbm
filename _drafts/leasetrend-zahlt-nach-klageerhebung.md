@@ -39,7 +39,7 @@ Da die Anlegerin diese Argumentation nicht nachvollziehen konnte, erhob sie auf 
 
 Zu einer Verhandlung vor dem LG M&uuml;nchen I kam es jedoch nicht. Vielmehr erhielt die die Kl&auml;gerin zwei Zahlungen von der Leasetrend AG in H&ouml;he von 6.207,49 Euro und danach noch einmal eine Zinsnachzahlung in H&ouml;he von 177,88 Euro.
 
-Die Klage konnte daher in der Hauptsache f&uuml;r erledigt erkl&auml;rt werden. Fraglich ist jetzt nur noch, ob die beklagte Leasetrend AG auch noch die Kosten des Rechtsstreits freiwillig &uuml;bernimmt. Dies m&uuml;sste gegebenenfalls noch durch das Landgericht M&uuml;nchen I gekl&auml;rt werden.&nbsp;
+Die Klage kann daher in der Hauptsache f&uuml;r erledigt erkl&auml;rt werden. Fraglich ist jetzt nur noch, ob die beklagte Leasetrend AG auch noch die Kosten des Rechtsstreits freiwillig &uuml;bernimmt. Dies m&uuml;sste gegebenenfalls noch durch das Landgericht M&uuml;nchen I gekl&auml;rt werden.&nbsp;
 
 ### Auch Auseinandersetungsguthaben zum 31.12.2017 nicht ausgezahlt
 
