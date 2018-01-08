@@ -1,6 +1,6 @@
 ---
 title: Negativeintrag der Ikano Bank nach Vergleich gelöscht
-date: 2018-01-08 00:00:00
+date: 2018-01-09 00:00:00
 seo_beschreibung: >-
   Die Ikano Bank AB hat einen Negativeintrag im Rahmen eines gerichtlichen
   Vergleiches widerrufen.
