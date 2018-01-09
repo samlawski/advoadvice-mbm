@@ -1,9 +1,9 @@
 ---
-title: Negativeintrag der Ikano Bank nach Vergleich gelöscht
+title: Ikano Bank Negativeintrag nach Vergleich vor LG Berlin gelöscht
 date: 2018-01-09 00:00:00
 seo_beschreibung: >-
-  Die Ikano Bank AB hat einen Negativeintrag im Rahmen eines gerichtlichen
-  Vergleiches widerrufen.
+  Ikano Bank AB widerruft Negativeintrag nach Vergleich vor dem Landgericht
+  Berlin
 layout: post
 feature_bild_path:
 tags:
