@@ -10,6 +10,9 @@ tags:
   - Frieß
   - Dubai
   - Staatsanwaltschaft
+  - Capital
+  - Invest
+  - Anleger
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
