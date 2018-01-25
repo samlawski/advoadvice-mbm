@@ -5,6 +5,11 @@ seo_beschreibung: Lebt Stefan Frieß jetzt als Stefan Frieb in Dubai?
 layout: post
 feature_bild_path:
 tags:
+  - Anlegerinformation
+  - Sinus
+  - Frieß
+  - Dubai
+  - Staatsanwaltschaft
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
@@ -12,18 +17,14 @@ team_member: dr-sven-tintemann
 ---
 
 
-In Deutschland fragen sich etliche gesch&auml;digte Anleger der Sinus Capital AG und der Sinus Invest AG, wo denn blo&szlig; ihr ganzes Geld geblieben ist. Zudem h&auml;lt sich der ehemalige Vorstand beider Firmen, Stefan Frie&szlig;, nach Informationen der Rechtsanw&auml;lte seit Jahren im Ausland, wahrscheinlich haupts&auml;chlich in Dubai und Doha auf.
+In Deutschland fragen sich etliche geschädigte Anleger der Sinus Capital AG und der Sinus Invest AG, wo denn bloß ihr ganzes Geld geblieben ist. Zudem hält sich der ehemalige Vorstand beider Firmen, Stefan Frieß, nach Informationen der Rechtsanwälte seit Jahren im Ausland, wahrscheinlich hauptsächlich in Dubai und Doha auf.
 
-Zuletzt wurden den Rechtsanw&auml;lten &uuml;ber verschiedene Kan&auml;le Informationen zugespielt, die unterschiedliche Angaben zum Aufenthalt von Frie&szlig; enthalten.
+Zuletzt wurden den Rechtsanwälten über verschiedene Kanäle Informationen zugespielt, die unterschiedliche Angaben zum Aufenthalt von Frieß enthalten.
 
-So wurde einerseits &uuml;ber einen Informanten mitgeteilt, Frie&szlig; befinde sich weiterhin in Dubai und t&auml;tige dort Gesch&auml;fte bei einer arabischen Anlagefirma unter dem Namen Stefan Frieb. Entsprechende Bilder von Frie&szlig; sind &uuml;ber g&auml;ngige Suchtmaschinen leicht im Internet zu finden. Zudem wurde den Rechtsanw&auml;lten eine am 30.07.2016 abgelaufene Resident Identity Card mit dem Foto von Frie&szlig; und der ID Nummer 784-1978-4686946-5 zugespielt. Diese enth&auml;lt auch das Geburtsdatum von Frie&szlig; sowie den Namen Stefan Bernhard Dieter Frieb. Als Nationalit&auml;t ist Deutschland angegeben.
+So wurde einerseits über einen Informanten mitgeteilt, Frieß befinde sich weiterhin in Dubai und tätige dort Geschäfte bei einer arabischen Anlagefirma unter dem Namen Stefan Frieb. Entsprechende Bilder von Frieß sind über gängige Suchtmaschinen leicht im Internet zu finden. Zudem wurde den Rechtsanwälten eine am 30.07.2016 abgelaufene Resident Identity Card mit dem Foto von Frieß und der ID Nummer 784-1978-4686946-5 zugespielt. Diese enthält auch das Geburtsdatum von Frieß sowie den Namen Stefan Bernhard Dieter Frieb. Als Nationalität ist Deutschland angegeben.
 
-Andere Informanten berichten, Frie&szlig; habe vor etwa zwei Jahren geheiratet und lebe nun unter dem Namen seiner Ehefrau, einer Franz&ouml;sin, in Frankreich, ohne hier weiter von den Beh&ouml;rden oder auch Anlegeranw&auml;lten behelligt zu werden.
+Andere Informanten berichten, Frieß habe vor etwa zwei Jahren geheiratet und lebe nun unter dem Namen seiner Ehefrau, einer Französin, in Frankreich, ohne hier weiter von den Behörden oder auch Anlegeranwälten behelligt zu werden.
 
-Ende des Jahres 2017 teilte die Staatsanwaltschaft N&uuml;rnberg auf Nachfrage mit, nichts zu dem Aufenthaltsort von Frie&szlig; sagen zu k&ouml;nnen. Er sei weiterhin unbekannten Aufenthaltes.
+Ende des Jahres 2017 teilte die Staatsanwaltschaft Nürnberg auf Nachfrage mit, nichts zu dem Aufenthaltsort von Frieß sagen zu können. Er sei weiterhin unbekannten Aufenthaltes.
 
-Sollte bekannt sein, wo sich Stefan Frie&szlig; aufh&auml;lt, wird um Nachricht an unsere Anwaltskanzlei gebeten. Sie k&ouml;nnen sich auch gerne an die ermittelnde Staatsanwaltschaft N&uuml;rnberg-F&uuml;rth zum Az. 513 Js 1253/13 wenden, bei der ein Haftbefehl gegen Stefan Fries vorliegt.
-
-&nbsp;
-
-&nbsp;
+Sollte bekannt sein, wo sich Stefan Frieß aufhält, wird um Nachricht an unsere Anwaltskanzlei gebeten. Sie können sich auch gerne an die ermittelnde Staatsanwaltschaft Nürnberg-Fürth zum Az. 513 Js 1253/13 wenden, bei der ein Haftbefehl gegen Stefan Fries vorliegt.
