@@ -7,6 +7,8 @@ feature_bild_path:
 tags:
   - Verbraucherinformation
   - BaFin
+  - Bitcoin
+  - Einstellung
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
