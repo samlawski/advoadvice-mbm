@@ -11,7 +11,6 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-
 Die Barclays Bank PLC hat nach einem Antrag auf Erlass einer einstweiligen Verf&uuml;gung beim Landgericht Hamburg durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB einen Schufa-Negativeintrag widerrufen.
 
 ### Daten aus Kreditkartenvertrag eingemeldet
@@ -20,7 +19,9 @@ Konkret hatte sich bei den Rechtsanw&auml;lten der Kanzlei AdvoAdvice eine Kundi
 
 ### Antrag auf Erlass einer einstweiligen Verf&uuml;gung
 
-Da ein au&szlig;ergerichtilches Anschreiben an die Schufa Holding AG und die Barclays Bank PLC erfolglos blieben, wurde zeitnah durch die Kanzlei AdvoAdvice ein Antrag auf Erlass einer einstweiligen Verf&uuml;gung zum Landgericht Hamburg eingereicht.&nbsp;
+Da ein au&szlig;ergerichtilches Anschreiben an die Schufa Holding AG und die Barclays Bank PLC erfolglos blieben, wurde zeitnah durch die Kanzlei AdvoAdvice ein Antrag auf Erlass einer einstweiligen Verf&uuml;gung zum Landgericht Hamburg eingereicht.
+
+![Landgericht Hamburg Außenansicht](/uploads/versions/lg-hamburg-außenansicht-1---x----1280-720x---.JPG)
 
 Das Gericht wollte &uuml;ber diesen Antrag nicht sofort entscheiden und beraumte eine m&uuml;ndliche Verhandlung &uuml;ber den Antrag auf den 16.02.2018 an.
 
