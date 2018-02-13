@@ -1,6 +1,6 @@
 ---
 title: Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
-date: 2018-02-12 00:00:00
+date: 2018-02-13 00:00:00
 seo_beschreibung: >-
   Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
   beim Landgericht Hamburg
