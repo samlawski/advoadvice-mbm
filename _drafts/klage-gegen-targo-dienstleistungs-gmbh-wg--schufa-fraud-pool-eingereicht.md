@@ -1,5 +1,7 @@
 ---
-title: Klage gegen Targo Dienstleistungs GmbH wg. Schufa Fraud Pool eingereicht
+title: >-
+  Klage gegen Targo Dienstleistungs GmbH wg. Eintrag im Schufa Fraud Pool
+  eingereicht
 date: 2018-02-19 00:00:00
 seo_beschreibung: >-
   Klagen wg. Eintrag in Schufa Fraud Pool gegen Targo Dienstleistungs GmbH
@@ -12,15 +14,15 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin hat vor dem LG Konstanz eine Klage gegen die Targo Dienstleistungs GmbH eingericht. Hintergrund war ein Eintrag in den sog. Schufa Fraud Pool.
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat vor dem LG Konstanz eine Klage gegen die Targo Dienstleistungs GmbH eingericht. Hintergrund war ein Eintrag in den sog. Schufa Fraud Pool.
 
 ### Was ist der Schufa Fraud Pool?
 
-Der Schufa-FraudPool ist nach eigenen Angaben der Schufa neben dem Schufa-Datenbestand, der Bonit&auml;tsinformationen enth&auml;lt, eine zentrale Datenbank auf Gegenseitigkeit zum Austausch von Seriosit&auml;tsinformationen. Hierzu geh&ouml;ren nach Angaben der Schufa in deren Informationsschreiben, Hinweise zu zweifelhaften und ungew&ouml;hnlichen Sachverhalten, die ausgetauscht werden k&ouml;nnen, um betr&uuml;gerische Handlungen abzuwehren.
+Der Schufa-FraudPool ist nach eigenen Angaben der Schufa neben dem Schufa-Datenbestand, der Bonitätsinformationen enthält, eine zentrale Datenbank auf Gegenseitigkeit zum Austausch von Seriositätsinformationen. Hierzu gehören nach Angaben der Schufa in deren Informationsschreiben, Hinweise zu zweifelhaften und ungewöhnlichen Sachverhalten, die ausgetauscht werden können, um betrügerische Handlungen abzuwehren.
 
-Diese Informationen werden zur Verf&uuml;gung gestellt, wenn Anhaltspunkte daf&uuml;r vorliegen, dass der Empf&auml;nger diese zur Beurteilung eines Sachverhalts ben&ouml;tigt.
+Diese Informationen werden zur Verfügung gestellt, wenn Anhaltspunkte dafür vorliegen, dass der Empfänger diese zur Beurteilung eines Sachverhalts benötigt.
 
-Die Teilnehmer am Schufa-FraudPool sind nach Angaben der Schufa Unternehmen der Kreditwirtschaft aus dem Europ&auml;ischen Wirtschaftsraum (EWR). Insbesondere handelt es sich bei den teilnehmenden Unternehmen nach Angaben im Informationsschreiben um:
+Die Teilnehmer am Schufa-FraudPool sind nach Angaben der Schufa Unternehmen der Kreditwirtschaft aus dem Europäischen Wirtschaftsraum (EWR). Insbesondere handelt es sich bei den teilnehmenden Unternehmen nach Angaben im Informationsschreiben um:
 
 * Kreditinstitute und Finanzdienstleistungsinstitute
 * Kreditkartengesellschaften
@@ -29,17 +31,17 @@ Die Teilnehmer am Schufa-FraudPool sind nach Angaben der Schufa Unternehmen der 
 ### Hintergrund der Klage
 {: .present-before-paste}
 
-Bei dem betroffenen Kl&auml;ger meldete sich die Schufa Holding AG schriftlich und teilte diesem mit, dass &uuml;ber ihn ein Eintrag im Schufa-FraudPool veranlasst wurde.
+Bei dem betroffenen Kläger meldete sich die Schufa Holding AG schriftlich und teilte diesem mit, dass über ihn ein Eintrag im Schufa-FraudPool veranlasst wurde.
 
-Da sich der betroffene Kl&auml;ger dies nicht erkl&auml;ren konnte, meldete er sich bei der Kanzlei AdvoAdvice, um den Vorgang aufkl&auml;ren zu lassen.
+Da sich der betroffene Kläger dies nicht erklären konnte, meldete er sich bei der Kanzlei AdvoAdvice, um den Vorgang aufklären zu lassen.
 
-Eine Anfrage auf Datenauskunft bei der Schufa Holding AG ergab, dass die Targo Dienstleistungs GmbH einen Eintrag im FraudPool veranlasst hatte. Hintergrund war ein Kreditantrag des Kl&auml;gers bei der TargoBank AG & Co. KGaA bei welchem dieser ein noch nicht best&auml;tigtes Gehaltskonto seiner Ehefrau angegeben hatte.
+Eine Anfrage auf Datenauskunft bei der Schufa Holding AG ergab, dass die Targo Dienstleistungs GmbH einen Eintrag im FraudPool veranlasst hatte. Hintergrund war ein Kreditantrag des Klägers bei der TargoBank AG & Co. KGaA bei welchem dieser ein noch nicht bestätigtes Gehaltskonto seiner Ehefrau angegeben hatte.
 
-Aufforderungen zum Widerruf des Eintrags bzw. zur L&ouml;schung gg&uuml;. der Schufa Holding AG blieben erfolglos. Daher wurde nunmehr Klage gegen die eintragende Targo Dienstleistungs GmbH eingereicht.
+Aufforderungen zum Widerruf des Eintrags bzw. zur Löschung ggü. der Schufa Holding AG blieben erfolglos. Daher wurde nunmehr Klage gegen die eintragende Targo Dienstleistungs GmbH eingereicht.
 
 ### Bewertung durch den Experten
 {: .present-before-paste}
 
-"Die Klage ist nicht nur f&uuml;r die betroffenen Kl&auml;ger, sondern auch generell von hohem rechtlichen Interesse, da nicht klar ist, ob eine Eintragung im Schufa-FraudPool &uuml;berhaupt nach den Vorschriften des BDSG oder anderen Vorschriften gerechtfertigt werden kann. Rechtsprechung hierzu ist unserer Kanzlei zumindest bisher nicht bekannt. Wir betreten hier daher meiner Einsch&auml;tzung nach juristisches Neuland", erl&auml;utert Dr. Sven Tintemann, der die Klage vorbereitet und f&uuml;r den Kl&auml;ger beim Landgericht Konstanz eingereicht hat.
+"Die Klage ist nicht nur für die betroffenen Kläger, sondern auch generell von hohem rechtlichen Interesse, da nicht klar ist, ob eine Eintragung im Schufa-FraudPool überhaupt nach den Vorschriften des BDSG oder anderen Vorschriften gerechtfertigt werden kann. Rechtsprechung hierzu ist unserer Kanzlei zumindest bisher nicht bekannt. Wir betreten hier daher meiner Einschätzung nach juristisches Neuland", erläutert Dr. Sven Tintemann, der die Klage vorbereitet und für den Kläger beim Landgericht Konstanz eingereicht hat.
 
-Betroffene von Negativeintr&auml;gen bei Auskunfteien, wie z.B. der Schufa Holding AG oder der Creditreform, oder solche, die im Schufa-FraudPool eingetragen sind, sollten sich m&ouml;glichst schnell Hilfe und Rechtsrat von erfahrenen Anw&auml;lten auf dem Gebiet des Datenschutzrechts erfragen. Oft reicht schon ein anwaltliches Schreiben, um die Angelegenheit zu kl&auml;ren und falsche oder rechtswidrige Eintr&auml;ge zur L&ouml;schung zu bringen.
+Betroffene von Negativeinträgen bei Auskunfteien, wie z.B. der Schufa Holding AG oder der Creditreform, oder solche, die im Schufa-FraudPool eingetragen sind, sollten sich möglichst schnell Hilfe und Rechtsrat von erfahrenen Anwälten auf dem Gebiet des Datenschutzrechts erfragen. Oft reicht schon ein anwaltliches Schreiben, um die Angelegenheit zu klären und falsche oder rechtswidrige Einträge zur Löschung zu bringen.
