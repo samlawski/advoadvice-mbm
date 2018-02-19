@@ -9,6 +9,16 @@ seo_beschreibung: >-
 layout: post
 feature_bild_path:
 tags:
+  - Schufa-Eintrag
+  - Schufa Recht
+  - Schufa Holding AG
+  - FraudPool
+  - Löschung
+  - BDSG
+  - Widerruf
+  - Targobank
+  - Targo Dienstleistungs GmbH
+  - Landgericht Konstanz
 topics:
   - datenschutz
 team_member: dr-sven-tintemann
