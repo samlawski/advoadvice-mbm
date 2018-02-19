@@ -2,7 +2,7 @@
 title: >-
   Klage gegen Targo Dienstleistungs GmbH wg. Eintrag im Schufa Fraud Pool
   eingereicht
-date: 2018-02-19 00:00:00
+date: 2018-02-21 00:00:00
 seo_beschreibung: >-
   Klagen wg. Eintrag in Schufa Fraud Pool gegen Targo Dienstleistungs GmbH
   eingereicht
