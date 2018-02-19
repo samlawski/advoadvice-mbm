@@ -5,6 +5,16 @@ seo_beschreibung: BaFin ordnet Abwicklung des Einlagengeschäfts an
 layout: post
 feature_bild_path:
 tags:
+  - Verbraucherinformation
+  - Anlegerschutz
+  - Kapitalmarktrecht
+  - Ansprüche
+  - Betoffener
+  - Anleger
+  - Einlagengeschäft
+  - Eberhardt Gugler
+  - Abwicklung
+  - Rückzahlung
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
