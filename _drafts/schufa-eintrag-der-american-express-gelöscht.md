@@ -1,11 +1,23 @@
 ---
 title: Schufa Eintrag der American Express gelöscht
 date:
-seo_beschreibung:
+seo_beschreibung: Negativer Schufa Eintrag nach Ratenzahlungsvereinbarung gelöscht.
 layout: post
 feature_bild_path:
-tags: []
-topics: []
+tags:
+  - Schufa-Eintrag
+  - Schufarecht
+  - Schufa Holding AG
+  - Negativeintrag
+  - Löschung
+  - Widerruf
+  - BDSG
+  - American Express
+  - AMEX
+  - Ratenzahlungsvereinbarung
+  - Mahnung
+topics:
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
