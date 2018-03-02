@@ -1,6 +1,6 @@
 ---
 title: Diesel Skandal - Widerruf von Kfz-Finanzierungen oftmals möglich
-date: 2018-03-05 00:00:00
+date: 2018-03-02 00:00:00
 seo_beschreibung: >-
   Der Widerruf von Auto-Finanzierungen ist oftmals wegen Belehrungsfehlern für
   Verbraucher erfolgreich
@@ -25,13 +25,13 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Der bisher treue Diesel, oftmals sogar als umweltfreundlich gelobt, entpuppt sich nach dem Urteil des Bundesverwaltungsgerichts zu Fahrverboten in deutschen Innenst&auml;dten immer mehr als Ladenh&uuml;ter und Altlast und muss daher bei vielen Verbrauchern dringend weg.
+Der bisher treue Diesel, oftmals sogar als umweltfreundlich gelobt, entpuppt sich nach dem Urteil des Bundesverwaltungsgerichts zu Fahrverboten in deutschen Innenst&auml;dten immer mehr als Ladenh&uuml;ter und Altlast und muss daher bei vielen Verbrauchern dringend weg.![](/uploads/versions/auto-2679743-640---x----640-276x---.jpg)
 
 Was aber, wenn man die Problematik nicht nur durch den Kauf eines Neuwagens und das Absto&szlig;en des ungeliebt gewordenen Altmodells (egal ob Diesel oder Benziner) l&ouml;sen kann?
 
 ### Widerruf wegen Belehrungsfehlern m&ouml;glich?
 
-Viele Verbraucher, die ihr Fahrzeug &uuml;ber eine Bank direkt beim Autoh&auml;ndler finanziert haben, haben nach Erkenntnissen der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin die M&ouml;glichkeit ihre Finanzierungsvertr&auml;ge auch heute noch zu widerrufen. Begr&uuml;ndet ist dies damit, dass die Widerrufsbelehrungen oftmals Fehler zum Fristbeginn der Widerrufsm&ouml;glichkeit erhalten oder dass Informationen im Bereich der sog. Pflichtangaben nicht oder nur unvollst&auml;ndig erfolgt sind. Dies gilt f&uuml;r die Finanzierung von Neufahrzeugen (Neuwagen) ebenso wie f&uuml;r die Finanzierung von Gebrauchtfahrzeugen (Gebrauchtwagen).
+Viele Verbraucher, die ihr Fahrzeug &uuml;ber eine Bank direkt beim Autoh&auml;ndler finanziert haben, haben nach Erkenntnissen der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin die M&ouml;glichkeit ihre Finanzierungsvertr&auml;ge auch heute noch zu widerrufen. Begr&uuml;ndet ist dies damit, dass die Widerrufsbelehrungen oftmals Fehler zum Fristbeginn der Widerrufsm&ouml;glichkeit erhalten oder dass Informationen im Bereich der sog. Pflichtangaben nicht oder nur unvollst&auml;ndig erfolgt sind. Dies gilt f&uuml;r die Finanzierung von Neufahrzeugen (Neuwagen) ebenso wie f&uuml;r die Finanzierung von Gebrauchtfahrzeugen (Gebrauchtwagen).![](/uploads/versions/auto-financing-2157347-640---x----640-426x---.jpg)
 
 ### Bei Belehrungsfehlern M&ouml;glichkeit zur R&uuml;ckgabe des Fahrzeugs und R&uuml;ckzahlung der gezahlten Raten
 
