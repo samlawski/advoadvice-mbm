@@ -27,7 +27,7 @@ team_member: dr-sven-tintemann
 
 Der bisher treue Diesel, oftmals sogar als umweltfreundlich gelobt, entpuppt sich nach dem Urteil des Bundesverwaltungsgerichts zu Fahrverboten in deutschen Innenst&auml;dten immer mehr als Ladenh&uuml;ter und Altlast und muss daher bei vielen Verbrauchern dringend weg.
 
-![](/uploads/versions/auto-2679743-640-1---x----640-276x---.jpg)![](/uploads/versions/auto-2679743-640---x----640-276x---.jpg)
+![](/uploads/versions/auto-2679743-640---x----640-276x---.jpg)
 
 Was aber, wenn man die Problematik nicht nur durch den Kauf eines Neuwagens und das Absto&szlig;en des ungeliebt gewordenen Altmodells (egal ob Diesel oder Benziner) l&ouml;sen kann?
 
