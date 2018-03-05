@@ -1,10 +1,24 @@
 ---
 title: Fehlerhafte Exposés - Wofür haften Makler?
-date:
+date: 2018-03-05 00:00:00
 seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:
+  - Immobilienrecht
+  - Makler
+  - Maklervertrag
+  - Kaufvertrag
+  - Klevenhagen
+  - Rechtsanwalt
+  - Exposé
+  - Exposee
+  - Maklerhaftung
+  - AdvoAdvice
+  - AdvoAdvice Rechtsanwälte
+  - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
+  - Ansprüche
+  - Details
 topics:
 team_member: kim-oliver-klevenhagen
 ---
@@ -30,3 +44,9 @@ In der Rechtsprechung haben sich hierzu Fallgruppen f&uuml;r einige wenige Ausna
 Zudem k&ouml;nnen Nachforschungspflichten auch entstehen, wenn der Makler aufgrund von besonders intensiver Werbung das Vertrauen auf die Richtigkeit der Angaben erweckt. Eine letzte Ausnahme liegt zudem vor, wenn es sich um ein besonders risikoreiches Gesch&auml;ft handelt und der Auftraggeber erkennbar gesch&auml;ftlich unerfahren ist. Die Gerichte betonen dabei stets, dass diese Ausnahmef&auml;lle rechtlich nur zur&uuml;ckhaltend anzuwenden sind und gerade nicht den Regelfall darstellen. Grunds&auml;tzlich bleibt es somit dabei, dass eine Haftung der Makler f&uuml;r fehlerhafte Angaben weit &uuml;berwiegend nicht gegeben ist.
 
 Im konkreten Streitfall ist es jedoch stets sinnvoll, sich an einen rechtlich spezialisierten Rechtsanwalt zu wenden, um zu &uuml;berpr&uuml;fen, ob etwaige Anspr&uuml;che aus dem Maklerverh&auml;ltnis bestehen.
+
+Kim Oliver Klevenhagen, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht mit dem Schwerpunkt Immobilienrecht r&auml;t Maklern, aber auch hoffnungsvollen K&auml;ufern, im Zweifelsfall vor Abschluss des Kaufvertrages sicherzustellen, dass&nbsp; die Angaben im Expos&eacute; auch mit den Verk&auml;ufern abgestimmt sind. Wenn die Tinte unter dem Notariellen Kaufvertrag trocken ist, hat ein Makler seine Provision verdient, und kann in den meisten F&auml;llen sicher sein, dass nachtr&auml;glich gegen ihn erhobene Anspr&uuml;che in der regel vor Gerichten abgewiesen werden, sofern vermeintliche Fehler in Expos&eacute;s geltend gemacht werden.
+
+"H&auml;ufig wenden sich verunsicherte Immobilienmakler aber auch entt&auml;uschte K&auml;ufer an mich mit dem Wunsch, ihre Rechte durchzusetzen. Durch eine genaue Mandatsplanung kann man h&auml;ufig einen langen und kostentr&auml;chtigen Rechtsstreit vermeiden.", sagt Immobilienrechtsexperte Rechtsanwalt Klevenhagen.&nbsp;
+
+&nbsp;
