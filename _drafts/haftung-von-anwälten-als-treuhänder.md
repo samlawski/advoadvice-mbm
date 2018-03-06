@@ -1,7 +1,9 @@
 ---
-title: 'GFI, DIG & Co - Schadenersatz durch Haftung von Anwälten als Treuhänder?'
+title: 'GFI AG, DIG AG & Co - Schadenersatz durch Haftung von Anwälten als Treuhänder?'
 date:
-seo_beschreibung:
+seo_beschreibung: >-
+  AdvoAdvice prüfen Schadenersatzansprüche gegen Rechtsanwälte als Treuhänder -
+  GFI AG, DIG AG - Haftet der Anwalt als Treuhänder?
 layout: post
 feature_bild_path:
 tags:
