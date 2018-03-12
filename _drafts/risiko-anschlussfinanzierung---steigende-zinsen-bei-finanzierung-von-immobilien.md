@@ -23,6 +23,8 @@ tags:
   - Risiko
   - Geldmarkt
   - Falschberatung
+  - Restschuld
+  - Tilgung
 topics:
 team_member: kim-oliver-klevenhagen
 ---
@@ -31,7 +33,9 @@ Seit dem letzten Zinshoch im Jahr 2008 fielen die Zinsen stetig, bis sie im Jahr
 
 ![](/uploads/versions/zinsentwicklung-2003-2018---x----650-400x---.png)
 
-<font color="#000000"><font face="Calibri">Quelle: Deutsche Bundesbank, https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Makrooekonomische_Zeitreihen/its_details_charts_node.html?https=1&amp;https=1&amp;tsId=BBK01.SUD131</font></font>
+<font color="#000000">
+						<font face="Calibri">Quelle: Deutsche Bundesbank, https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Makrooekonomische_Zeitreihen/its_details_charts_node.html?https=1&amp;https=1&amp;tsId=BBK01.SUD131</font>
+					</font>
 
 F&uuml;r Sparer ist diese Entwicklung verheerend, gleichen die Zinsen doch noch nicht einmal die Inflation aus. F&uuml;r K&auml;ufer von Immobilien ist diese Entwicklung jedoch hingegen optimal gewesen: Die Immobilienk&auml;ufe konnten bei Banken zu sehr g&uuml;nstigen Darlehenszinsen finanziert werden. Deshalb erlebte der Immobilienmarkt in Deutschland einen ungekannten Aufschwung, die Kaufpreise stiegen, und das nicht nur in Bestlagen. Viele, f&uuml;r die der Erwerb einer Immobilie als Eigenheim oder Kapitalanlage bislang unerschwinglich war, konnten mit Hilfe der niedrigen Zinsen auch ohne oder nur mit wenig Eigenkapital vermeintlich g&uuml;nstig finanzieren und die Banken machten gerne mit.&nbsp; Selbst bei knappen Kalkulationen wurden Kredite an Darlehensnehmer vergeben, die die monatlichen Zahlungen an die Bank gerade so hinbekamen.
 
@@ -49,7 +53,11 @@ Was viele Darlehensnehmer dabei nicht wissen: Oft haben Banken nur sehr knapp ka
 
 ### Kleine Zinssteigerungen - Gro&szlig;e Auswirkungen
 
-Die Darlehensschuld wird sich bis zum Ender der Zinsbindungsfrist kaum verringern, die Zinsen werden in einigen Jahren aber wieder gestiegen sein. F&uuml;r Baufinanzierer bedeutet das, dass sie dann eine wesentliche h&ouml;here Darlehensrate an die Banken zahlen m&uuml;ssen. So gibt die Seite baufi24.de bei 10j&auml;hrigen Zinsbindung bei der Finanzierung von 200.000,00 Euro und einer anf&auml;nglichen monatlichen Rate von 600,00 Euro an, dass sich die Rate bei einem Zinsanstieg von nur 4,00% auf monatlich 1.132,77 Euro erh&ouml;hen kann, was fast der doppelte Betrag ist.
+Da sich in vielen Darlehensvertr&auml;gen die Restschuld bis zum Ende der Zinsbindungsfrist kaum verringern wird, die Zinsen aber mittelfristig aber wieder gestiegen sein werden, stellt sich die Frage was mit den Darlehensvertr&auml;gen dann passiert.&nbsp;
+
+F&uuml;r die Darlehensnehmer bedeutet das, dass sie dann nach Ablauf der Zinsbindungsfrist eine wesentliche h&ouml;here Darlehensrate an die Bank zahlen m&uuml;ssen. Es ist auch keine h&ouml;here Finanzmathematik, dass selbst kleinere Steigungen des Leitzinses sich in zum Teil dramatischer Weise auf die monatlich an die Bank zu zahlenden Raten, bzw. Annuit&auml;ten auswirken werden.&nbsp;
+
+So gibt die Seite baufi24.de bei 10j&auml;hrigen Zinsbindung bei der Finanzierung von 200.000,00 Euro und einer anf&auml;nglichen monatlichen Rate von 600,00 Euro an, dass sich die Rate bei einem Zinsanstieg von nur 4,00% auf monatlich 1.132,77 Euro erh&ouml;hen kann, was fast der doppelte Betrag ist.
 
 Solch eine Entwicklung kommt f&uuml;r Baufinanzierer oft &uuml;berraschend und kann verheerende Folgen haben: K&ouml;nnen die Baufinanzierer die neue Rate dann nicht aufbringen m&uuml;ssen sie die Immobilie unter Umst&auml;nden verkaufen oder es droht ihnen im schlimmsten Fall sogar die Zwangsversteigerung der Immobilie oder sogar die Privatinsolvenz. Oftmals liegt in diesem Fall aber auch ein Aufkl&auml;rungsfehler bei den Banken.
 
