@@ -2,7 +2,7 @@
 title: >-
   Reservierungsvereinbarung beim geplatzten Kauf von Immobilien - Geld zurück
   vom Makler?
-date: 2018-03-14 15:07:35
+date: 2018-03-14 15:07:00
 seo_beschreibung: >-
   Reservierungsvereinbarung beim geplatzten Kauf von Immobilien - Geld zurück
   vom Makler?
@@ -23,6 +23,8 @@ tags:
   - Gebühr
   - Finanzierung
 topics:
+  - anlegerschutz
+  - sonstiges
 team_member: kim-oliver-klevenhagen
 ---
 
