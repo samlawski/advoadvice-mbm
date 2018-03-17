@@ -43,8 +43,11 @@ var schufaTool = (function(){
   // ***** Private *****
 
   var renderAndBind = function(){
+    console.log('rebind')
     var slideToRender = thisState.$slides[thisState.progress]
     thisState.$app.html(slideToRender.html())
+    thisState.$app.data('progress', thisState.progress) // update progress
+    thisState.$app = $(thisState.$app.selector) // reload variable
     bindFunctions()
   }
 
@@ -53,17 +56,13 @@ var schufaTool = (function(){
     reloadProgress()
 
     function reloadSlide(){
-      if(thisState.$app.data('progress') != thisState.progress){
-        console.log('Rerendering Slide', thisState)
-        renderAndBind()
-      }else{
-        console.log('not rerendering slide', thisState)
-      }
+      let progressDifferent = thisState.$app.data('progress') != thisState.progress
+      if(progressDifferent) renderAndBind()
     }
     function reloadProgress(){
       let categorySelected = thisState.category.length > 0
       $('.schufaTool__progress--next').toggle(categorySelected)
-      $('.schufaTool__progress--prev').toggle(thisState.progress > 0);
+      $('.schufaTool__progress--prev').toggle(thisState.progress > 0)
     }
   }
 
