@@ -7,46 +7,129 @@ permalink: /schufa-beratung/
 <div class="container">
   <div class="row">
     <section id="schufa-beratung" class="col-md-8 col-lg-9 margin-tb-20">
-      <div class="schufaTool" data-progress="0">
-
-      </div>
+      <div class="schufaTool" data-progress="0"><!-- App container filled with templates --></div>
       <div class="schufaTool__progress">
         <div class="schufaTool__progressBtn schufaTool__progress--prev" hidden>Zurück</div>
         <div class="schufaTool__progressBtn schufaTool__progress--next" hidden>Weiter</div>
       </div>
 
-      <!-- Slides -->
+      <!-- Templates -->
+      <div class="schufaTool__templates">
+        <div class="schufaTool__slide schufaTool__slide--0" hidden>
+          <h2>Der Schufa-Vorab-Check</h2>
 
-      <div class="schufaTool__slide schufaTool__slide--0" hidden>
-        <h2>Der Schufa-Vorab-Check</h2>
+          <div class="schufaTool__categoryBtn" data-category="negativeintrag">Negativeintrag</div>
+          <div class="schufaTool__categoryBtn" data-category="score">Scorewert verbessern</div>
+          <div class="schufaTool__categoryBtn" data-category="fraud">FraudPool und Identitätsdiebstahl</div>
+          <div class="schufaTool__categoryBtn" data-category="veraltet">Veraltete Daten</div>
+          <div class="schufaTool__categoryBtn" data-category="restschuld">Restschuldbefreiung</div>
+          <div class="schufaTool__categoryBtn" data-category="verzeichnisse">Öffentliche Verzeichnisse</div>
 
-        <div class="schufaTool__categoryBtn" data-category="negativeintrag">Negativeintrag</div>
-        <div class="schufaTool__categoryBtn" data-category="score">Scorewert verbessern</div>
-        <div class="schufaTool__categoryBtn" data-category="fraud">FraudPool und Identitätsdiebstahl</div>
-        <div class="schufaTool__categoryBtn" data-category="veraltet">Veraltete Daten</div>
-        <div class="schufaTool__categoryBtn" data-category="restschuld">Restschuldbefreiung</div>
-        <div class="schufaTool__categoryBtn" data-category="verzeichnisse">Öffentliche Verzeichnisse</div>
+          <p><strong>Allgemeiner Hinweis:</strong></p>
+          <p><small>Mit der Benutzung unseres Vorab-Checks ist noch kein Auftrag an die Kanzlei AdvoAdvice Rechtsanwälte mbB verbunden. Eine Mandatsverhältnis entsteht erst dann, wenn Sie die Mandatsunterlagen ausgefüllt und an AdvoAdvice zurückgesendet sowie eine Erklärung zur Mandatsübernahme von AdvoAdvice erhalten haben. Sollten eine Auftragserteilung Aussicht auf Erfolg haben, werden Ihnen am Ende des Vorab-Checks weitere Unterlagen zur Verfügung gestellt.</small></p>
+        </div>
 
-        <p><strong>Allgemeiner Hinweis:</strong></p>
-        <p><small>Mit der Benutzung unseres Vorab-Checks ist noch kein Auftrag an die Kanzlei AdvoAdvice Rechtsanwälte mbB verbunden. Eine Mandatsverhältnis entsteht erst dann, wenn Sie die Mandatsunterlagen ausgefüllt und an AdvoAdvice zurückgesendet sowie eine Erklärung zur Mandatsübernahme von AdvoAdvice erhalten haben. Sollten eine Auftragserteilung Aussicht auf Erfolg haben, werden Ihnen am Ende des Vorab-Checks weitere Unterlagen zur Verfügung gestellt.</small></p>
-      </div>
+        <div class="schufaTool__slide schufaTool__slide--1" hidden>
+          <h1>Kontakt</h1>
+        </div>
 
-      <div class="schufaTool__slide schufaTool__slide--1" hidden>
-        <h1>Kontakt</h1>
-      </div>
+        <!-- Slides: Negativeintrag -->
+        <div class="schufaTool__slide schufaTool__category--negativeintrag--1" hidden>
+          <h1>Negativeintrag <small>| Fragen</small></h1>
 
-      <!-- Slides: Negativeintrag -->
+          <form class="schufaTool__form--negativeintrag">
+            <div class="form-group">
+              <label>
+                Wer hat den Schufa-Eintrag vorgenommen?
+                <input type="text" name="negativeintrag__1" value="" class="form-control">
+              </label>
+            </div>
 
-      <div class="schufaTool__slide schufaTool__category--negativeintrag--1" hidden>
-        <h1>Hello Mars</h1>
-      </div>
+            <div class="form-group">
+              <label>
+                Wann wurde der Eintrag vorgenommen?
+                <input type="date" name="negativeintrag__2" value="" class="form-control">
+              </label>
+            </div>
 
-      <!-- Slides: Scorewert -->
+            <div class="form-group">
+              <label>Gibt es eine Titulierung der Forderung durch Urtail oder Vollstreckungsbescheid?</label>
+              <label><input type="radio" name="negativeintrag__3" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__3" value="Nein">Nein</label>
+              <label>
+                Wenn Ja, wann wurde dieser erlassen?
+                <input type="date" name="negativeintrag__3a" value="" class="form-control">
+              </label>
+            </div>
 
-      <div class="schufaTool__slide schufaTool__category--score--1" hidden>
-        <h1>Hello Score</h1>
-      </div>
+            <div class="form-group">
+              <label>Wurde die Forderung bereits durch Sie ausgeglichen?</label>
+              <label><input type="radio" name="negativeintrag__4" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__4" value="Nein">Nein</label>
+              <label>
+                Wenn Ja, wann?
+                <input type="date" name="negativeintrag__4a" value="" class="form-control">
+              </label>
+            </div>
 
+            <div class="form-group">
+              <label>Wurde ein Inkassounternehmen beauftragt?</label>
+              <label><input type="radio" name="negativeintrag__5" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__5" value="Nein">Nein</label>
+              <label>
+                Wenn Ja, wie heißt dieses Unternehmen?
+                <input type="text" name="negativeintrag__5a" value="" class="form-control">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label>Haben Sie Mahnschreiben zu der Forderung erhalten?</label>
+              <label><input type="radio" name="negativeintrag__6" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__6" value="Nein">Nein</label>
+              <label>
+                Wenn ja: Zu welchem Datum wurden das oder die Mahnschreiben erstellt?
+                <input type="date" name="negativeintrag__6a" value="" class="form-control">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label>Wurde das Vertragsverhältnis gekündigt?</label>
+              <label><input type="radio" name="negativeintrag__7" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__7" value="Nein">Nein</label>
+              <label>
+                Wenn ja: Zu welchem Datum wurde das Kündigungsschreiben erstellt?
+                <input type="date" name="negativeintrag__7a" value="" class="form-control">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label>Wurde die Forderung durch Sie bestritten?</label>
+              <label><input type="radio" name="negativeintrag__8" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__8" value="Nein">Nein</label>
+              <label>
+                Wenn ja: Wann und in welcher Form war dies der Fall?
+                <input type="text" name="negativeintrag__8a" value="" class="form-control">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label>Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung getroffen?</label>
+              <label><input type="radio" name="negativeintrag__9" value="Ja">Ja</label>
+              <label><input type="radio" name="negativeintrag__9" value="Nein">Nein</label>
+              <label>
+                Wenn ja: Wann und in welcher Form war dies der Fall?
+                <input type="text" name="negativeintrag__9a" value="" class="form-control">
+              </label>
+            </div>
+          </form>
+        </div>
+
+        <!-- Slides: Scorewert -->
+
+        <div class="schufaTool__slide schufaTool__category--score--1" hidden>
+          <h1>Hello Score</h1>
+        </div>
+      </div> <!-- templates -->
     </section>
   </div><!-- row -->
 </div><!-- container -->
