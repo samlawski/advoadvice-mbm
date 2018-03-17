@@ -70,7 +70,9 @@ var schufaTool = (function(){
     negativeintrag: [
       $('.schufaTool__slide--0'),
       $('.schufaTool__category--negativeintrag--1'),
-      $('.schufaTool__slide--1')
+      $('.schufaTool__category--negativeintrag--2'),
+      $('.schufaTool__slide--1'),
+      $('.schufaTool__slide--2')
     ],
     score: [
       $('.schufaTool__slide--0'),
