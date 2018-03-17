@@ -11,10 +11,7 @@ var schufaTool = (function(){
     thisState.progress = 0
     thisState.category = ''
     thisState.$app = $('.schufaTool')
-    thisState.$slides = []
-    $('.schufaTool__slide').each((i, slideHtml) => {
-      thisState.$slides.push($(slideHtml))
-    })
+    thisState.$slides = [$('.schufaTool__slide--0')]
   }
 
   var initialBindFunctions = function(){
@@ -36,11 +33,12 @@ var schufaTool = (function(){
 
   var onCategoryClick = function(){
     thisState.category = $(this).data('category')
+    thisState.$slides = slideTemplates[thisState.category]
     $('.schufaTool__categoryBtn').removeClass('active')
     $(this).addClass('active')
     checkRerender()
   }
-  
+
   // ***** Private *****
 
   var renderAndBind = function(){
@@ -66,7 +64,38 @@ var schufaTool = (function(){
     }
   }
 
+  // ***** Constants *****
+
+  const slideTemplates = {
+    negativeintrag: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__category--negativeintrag--1'),
+      $('.schufaTool__slide--1')
+    ],
+    score: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__category--score--1'),
+      $('.schufaTool__slide--1')
+    ],
+    fraud: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__slide--1')
+    ],
+    veraltet: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__slide--1')
+    ],
+    restschuld: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__slide--1')
+    ],
+    verzeichnisse: [
+      $('.schufaTool__slide--0'),
+      $('.schufaTool__slide--1')
+    ]
+  }
+
   return {
     init: init
   }
-})();
+})()
