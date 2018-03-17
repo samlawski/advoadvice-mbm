@@ -21,6 +21,12 @@ var schufaTool = (function(){
     $('.schufaTool__progressBtn').click(onProgressClick)
   }
 
+  var onProgressClick = function(){
+    let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
+    thisState.progress += summand
+    checkRerender()
+  }
+
   // ***** Events *****
 
   var bindFunctions = function(){
@@ -34,16 +40,10 @@ var schufaTool = (function(){
     $(this).addClass('active')
     checkRerender()
   }
-  var onProgressClick = function(){
-    let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
-    thisState.progress += summand
-    checkRerender()
-  }
-
+  
   // ***** Private *****
 
   var renderAndBind = function(){
-    console.log('rebind')
     var slideToRender = thisState.$slides[thisState.progress]
     thisState.$app.html(slideToRender.html())
     thisState.$app.data('progress', thisState.progress) // update progress
