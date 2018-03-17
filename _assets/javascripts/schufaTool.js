@@ -4,6 +4,7 @@ var schufaTool = (function(){
   var init = function(){
     initializeState()
     renderAndBind()
+    initialBindFunctions()
   }
 
   var initializeState = function(){
@@ -16,11 +17,11 @@ var schufaTool = (function(){
     })
   }
 
-  var renderAndBind = function(){
-    var slideToRender = thisState.$slides[thisState.progress]
-    thisState.$app.html(slideToRender.html())
-    bindFunctions()
+  var initialBindFunctions = function(){
+    $('.schufaTool__progressBtn').click(onProgressClick)
   }
+
+  // ***** Events *****
 
   var bindFunctions = function(){
     thisState.$app.children().off()
@@ -33,28 +34,36 @@ var schufaTool = (function(){
     $(this).addClass('active')
     checkRerender()
   }
+  var onProgressClick = function(){
+    let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
+    thisState.progress += summand
+    checkRerender()
+  }
+
+  // ***** Private *****
+
+  var renderAndBind = function(){
+    var slideToRender = thisState.$slides[thisState.progress]
+    thisState.$app.html(slideToRender.html())
+    bindFunctions()
+  }
 
   var checkRerender = function(){
     reloadSlide()
     reloadProgress()
 
-
     function reloadSlide(){
       if(thisState.$app.data('progress') != thisState.progress){
         console.log('Rerendering Slide', thisState)
+        renderAndBind()
       }else{
         console.log('not rerendering slide', thisState)
       }
     }
-
     function reloadProgress(){
       let categorySelected = thisState.category.length > 0
-      if(categorySelected){
-        console.log('Rerendering Progress', thisState)
-        $('.schufaTool__progress--next').show()
-      }else{
-        console.log('not rerendering progress', thisState)
-      }
+      $('.schufaTool__progress--next').toggle(categorySelected)
+      $('.schufaTool__progress--prev').toggle(thisState.progress > 0);
     }
   }
 
