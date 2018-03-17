@@ -8,6 +8,7 @@ var schufaTool = (function(){
 
   var initializeState = function(){
     thisState.progress = 0
+    thisState.category = null
     thisState.$app = $('.schufaTool')
     thisState.$slides = []
     $('.schufaTool__slide').each((i, slideHtml) => {
@@ -24,9 +25,10 @@ var schufaTool = (function(){
 
   var bindFunctions = function(){
     thisState.$app.children().off()
+    thisState.$app.find('.schufaTool__categoryBtn').click(onCategoryClick)
   }
 
-
+  var onCategoryClick = function(){ thisState.category = $(this).data('category') }
 
 
   return {
