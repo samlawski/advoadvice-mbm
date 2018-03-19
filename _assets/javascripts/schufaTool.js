@@ -10,6 +10,8 @@ var schufaTool = (function(){
   var initializeState = function(){
     thisState.progress = 0
     thisState.category = ''
+    thisState.quiz = {}
+    thisState.formContact = {}
     thisState.$app = $('.schufaTool')
     thisState.$slides = [$('.schufaTool__slide--0')]
   }
@@ -34,9 +36,14 @@ var schufaTool = (function(){
   var onCategoryClick = function(){
     thisState.category = $(this).data('category')
     thisState.$slides = slideTemplates[thisState.category]
+    // Toggle views:
     $('.schufaTool__categoryBtn').removeClass('active')
     $(this).addClass('active')
     checkRerender()
+    // Set form data:
+    findOrInitializeCurrentQuiz(thisState.category)
+
+    console.log(thisState)
   }
 
   // ***** Private *****
@@ -45,7 +52,7 @@ var schufaTool = (function(){
     var slideToRender = thisState.$slides[thisState.progress]
     thisState.$app.html(slideToRender.html())
     thisState.$app.data('progress', thisState.progress) // update progress
-    thisState.$app = $(thisState.$app.selector) // reload variable
+    thisState.$app = $(thisState.$app.selector) // reload state variable
     bindFunctions()
   }
 
@@ -62,6 +69,16 @@ var schufaTool = (function(){
       $('.schufaTool__progress--next').toggle(categorySelected)
       $('.schufaTool__progress--prev').toggle(thisState.progress > 0)
     }
+  }
+
+  var findOrInitializeCurrentQuiz = function(category){
+    if(typeof thisState.quiz[category] != 'undefined') return
+    thisState.quiz[category] = $(`.schufaTool__templates .schufaTool__form--${category}`).serializeArray().map(obj => {
+      return {
+        frage: $(`.schufaTool__templates [for="${obj.name}"]`).text().trim(),
+        antwort: obj.value
+      }
+    })
   }
 
   // ***** Constants *****
