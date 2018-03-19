@@ -31,6 +31,7 @@ var schufaTool = (function(){
   var bindFunctions = function(){
     thisState.$app.children().off()
     thisState.$app.find('.schufaTool__categoryBtn').click(onCategoryClick)
+    thisState.$app.find('input').on('keyup change click', onFormKeyUp)
   }
 
   var onCategoryClick = function(){
@@ -44,6 +45,12 @@ var schufaTool = (function(){
     findOrInitializeCurrentQuiz(thisState.category)
 
     console.log(thisState)
+  }
+
+  var onFormKeyUp = function(){
+    if(thisState.$app.find('form').length < 1) return
+    updateStateFromQuiz()
+    console.log(thisState.quiz)
   }
 
   // ***** Private *****
@@ -78,6 +85,15 @@ var schufaTool = (function(){
         frage: $(`.schufaTool__templates [for="${obj.name}"]`).text().trim(),
         antwort: obj.value
       }
+    })
+  }
+
+  var updateStateFromQuiz = function(){
+    thisState.quiz[thisState.category] = $('.schufaTool form').serializeArray().map(obj => {
+      return {
+        frage: $(`.schufaTool [for="${obj.name}"]`).text().trim(),
+        antwort: obj.value
+      } 
     })
   }
 
