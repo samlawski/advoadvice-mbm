@@ -41,19 +41,20 @@ var schufaTool = (function(){
     $('.schufaTool__categoryBtn').removeClass('active')
     $(this).addClass('active')
     checkRerender()
-    // Set form data:
-    findOrInitializeCurrentQuiz(thisState.category)
-
-    console.log(thisState)
   }
 
   var onFormKeyUp = function(){
-    if(thisState.$app.find('form').length < 1) return
+    if(!formPresent()) return
+    // Update state with data from the form:
     updateStateFromQuiz()
+    checkRerender()
+
     console.log(thisState.quiz)
   }
 
   // ***** Private *****
+
+  var formPresent = () => thisState.$app.find('form').length > 0
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
@@ -73,19 +74,27 @@ var schufaTool = (function(){
     }
     function reloadProgress(){
       let categorySelected = thisState.category.length > 0
-      $('.schufaTool__progress--next').toggle(categorySelected)
+      let allRequiredFieldsFilled = () => {
+        if(!formPresent()) return true 
+
+        let formFieldArray = thisState.$app.find('.form-group').map(function(){ 
+          // For each form group check if it contains a required input field
+          if($(this).find('[type="radio"][required]').length > 1){
+            return $(this).find('[type="radio"][required]').is(':checked')
+          }else if($(this).find('input[required]').length > 1){
+            return $(this).find('input[required]').val().trim() > 0
+          }else{
+            // in case there is no required field in the form group
+            return true
+          }
+        })
+        console.log(formFieldArray)
+        // Return true if no element in the array is 'false'
+        return Array.from(formFieldArray).indexOf(false) < 0 
+      } 
+      $('.schufaTool__progress--next').toggle(categorySelected && allRequiredFieldsFilled())
       $('.schufaTool__progress--prev').toggle(thisState.progress > 0)
     }
-  }
-
-  var findOrInitializeCurrentQuiz = function(category){
-    if(typeof thisState.quiz[category] != 'undefined') return
-    thisState.quiz[category] = $(`.schufaTool__templates .schufaTool__form--${category}`).serializeArray().map(obj => {
-      return {
-        frage: $(`.schufaTool__templates [for="${obj.name}"]`).text().trim(),
-        antwort: obj.value
-      }
-    })
   }
 
   var updateStateFromQuiz = function(){
