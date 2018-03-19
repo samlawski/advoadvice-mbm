@@ -21,8 +21,13 @@ var schufaTool = (function(){
   }
 
   var onProgressClick = function(){
+    // Copy state of current slide into the slides array (including form values)
+    thisState.$slides.splice(thisState.progress, 1, thisState.$app.clone())
+    
+    // Set new progress state
     let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
     thisState.progress += summand
+    // Rerender view
     checkRerender()
   }
 
@@ -48,8 +53,6 @@ var schufaTool = (function(){
     // Update state with data from the form:
     updateStateFromQuiz()
     checkRerender()
-
-    console.log(thisState.quiz)
   }
 
   // ***** Private *****
@@ -58,7 +61,7 @@ var schufaTool = (function(){
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
-    thisState.$app.html(slideToRender.html())
+    thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
     bindFunctions()
@@ -88,7 +91,6 @@ var schufaTool = (function(){
             return true
           }
         })
-        console.log(formFieldArray)
         // Return true if no element in the array is 'false'
         return Array.from(formFieldArray).indexOf(false) < 0 
       } 
