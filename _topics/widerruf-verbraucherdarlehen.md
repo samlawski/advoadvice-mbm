@@ -18,13 +18,13 @@ Nach dem Widerruf Ihres Darlehens, mit welchem Sie Ihr Fahrzeug finanziert haben
 
 Bei einem Widerruf der Kfz-Finanzierung bekommen Sie alle bereits an die finanzierende Bank geleisteten Zahlungen zur&uuml;ck. Es kann sein, dass sie sichallenfalls einen geringen Wertersatz f&uuml;r die Nutzung Ihres Autos gegenrechnen lassen m&uuml;ssen. Dieser ist jedoch meist viel niedriger, als der tats&auml;chlich entstandene Wertverlust.
 
-![](/uploads/auto-financing-2157347-640-1.jpg)
+![Geld zurück bei Widerruf](/uploads/auto-financing-2157347-640-1.jpg)
 
 ### **Umgehen Sie m&ouml;gliche Fahrverbote.**
 
 Autofahrer von &auml;lteren Kraftfahrzeugen, insbesondere wenn es sich um solche mit einemDiesel handelt, werden von der Politik und auch von der Automobilindustrie zur Zeit in Bezug auf drohende Fahrverbote im Unklaren gelassen. Der Widerruf der Kfz Finanzierung f&uuml;hrt dazu, dass sie das Altfahrzeug zur&uuml;ckgeben und durch die Anschaffung eines neuen umweltfreundlichen Fahrzeugs die Problematik der Fahrverbote umgehen k&ouml;nnen.
 
-![](/uploads/auto-2679743-640-2.jpg)
+![Fahrverbote drohen](/uploads/auto-2679743-640-2.jpg)
 
 ### **Kein Kostenrisiko vorhanden.**
 
@@ -38,7 +38,7 @@ Oftmals ist es nach einem Widerruf m&ouml;glich, mit der finanzierenden Bank au&
 
 Die Instanzgerichte und zuletzt auch der Bundesgerichtshof haben verschiedene Widerrufsbelehrungen von Banken, insbesondere f&uuml;r Darlehensvertr&auml;ge als fehlerhaft beurteilt. Dies hat zur Folge, dass die Frist f&uuml;r den Widerruf noch nicht in Lauf gesetzt wurde und die Darlehensvertr&auml;ge somit auch heute noch durch den Verbraucher widerrufen werden k&ouml;nnen. In der Presse ist daher oft etwas vom sogenannten Widerrufsjoker oder auch dem ewigen Widerrufsrecht zu lesen.
 
-![](/uploads/joker-164030-640.jpg)
+![Widerrufs-Joker?](/uploads/joker-164030-640.jpg)
 
 Ist der Darlehensvertrag zur Finanzierung Ihres Kraftfahrzeuges gleich beim Autoverk&auml;ufer mit abgeschlossen worden, wird von einem verbundenen Gesch&auml;ft auszugehen sein. Dieses f&uuml;hrt dazu, dass der Kaufvertrag ebenso wie das Darlehen durch den Widerruf r&uuml;ckabgewickelt werden k&ouml;nnen.
 
@@ -50,6 +50,6 @@ Nach Ansicht von Experten und auch der Verbraucherzentralen k&ouml;nnten etwa 80
 
 Sprechen Sie mit unseren Experten &uuml;ber Ihre konkreten M&ouml;glichkeiten und auch Ziele, damit von Anfang an klar ist, wie Ihre Chancen stehen und wo die Reise hingehen soll.
 
-![](/uploads/advoadvice-02-45-von-49.jpg)
+![Dr. Sven Tintemann](/uploads/advoadvice-01-52-von-80-1.jpg)
 
 Oft kann mit der finanzierenden Bank eine gute L&ouml;sung gefunden werden, die ihnen einige tausend Euro spart oder dazu f&uuml;hrt, dass sie das ungeliebte Altfahrzeug kosteng&uuml;nstig loswerden k&ouml;nnen.
