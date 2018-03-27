@@ -5,9 +5,20 @@ seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:
+  - Widerruf
+  - Darlehen
+  - Bankrecht
+  - Landgericht Berlin
+  - verurteilt
+  - Bank
+  - Rücknahme
+  - Touran
+  - Annahmeverzug
+  - Widerrufsbelehrung
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
+  - widerruf-verbraucherdarlehen
 team_member: dr-sven-tintemann
 ---
 
