@@ -9,4 +9,6 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Fall Esser...
+Fall Esser…
+
+![](/uploads/advoadvice-01-5-von-80.jpg)
