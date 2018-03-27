@@ -50,4 +50,6 @@ Nach Ansicht von Experten und auch der Verbraucherzentralen k&ouml;nnten etwa 80
 
 Sprechen Sie mit unseren Experten &uuml;ber Ihre konkreten M&ouml;glichkeiten und auch Ziele, damit von Anfang an klar ist, wie Ihre Chancen stehen und wo die Reise hingehen soll.
 
+![](blob:https://app.cloudcannon.com/3eb89c31-12f6-4ae7-9118-3f2107fbc19c)
+
 Oft kann mit der finanzierenden Bank eine gute L&ouml;sung gefunden werden, die ihnen einige tausend Euro spart oder dazu f&uuml;hrt, dass sie das ungeliebte Altfahrzeug kosteng&uuml;nstig loswerden k&ouml;nnen.
