@@ -16,7 +16,7 @@ Nach dem Widerruf Ihres Darlehens, mit welchem Sie Ihr Fahrzeug finanziert haben
 
 ### **Mehr Geld bekommen, als Ihr Auto noch wert ist.**
 
-Bei einem Widerruf der Kfz - Finanzierung bekommen Sie alle bereits an die finanzierende Bank geleisteten Zahlungen zur&uuml;ck. Es kann sein, dass sie sichallenfalls einen geringen Wertersatz f&uuml;r die Nutzung Ihres Autos gegenrechnen lassen m&uuml;ssen. Dieser ist jedoch meist viel niedriger, als der tats&auml;chlich entstandene Wertverlust.
+Bei einem Widerruf der Kfz-Finanzierung bekommen Sie alle bereits an die finanzierende Bank geleisteten Zahlungen zur&uuml;ck. Es kann sein, dass sie sichallenfalls einen geringen Wertersatz f&uuml;r die Nutzung Ihres Autos gegenrechnen lassen m&uuml;ssen. Dieser ist jedoch meist viel niedriger, als der tats&auml;chlich entstandene Wertverlust.
 
 ![](/uploads/auto-financing-2157347-640-1.jpg)
 
