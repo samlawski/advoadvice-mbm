@@ -38,6 +38,8 @@ Oftmals ist es nach einem Widerruf m&ouml;glich, mit der finanzierenden Bank au&
 
 Die Instanzgerichte und zuletzt auch der Bundesgerichtshof haben verschiedene Widerrufsbelehrungen von Banken, insbesondere f&uuml;r Darlehensvertr&auml;ge als fehlerhaft beurteilt. Dies hat zur Folge, dass die Frist f&uuml;r den Widerruf noch nicht in Lauf gesetzt wurde und die Darlehensvertr&auml;ge somit auch heute noch durch den Verbraucher widerrufen werden k&ouml;nnen. In der Presse ist daher oft etwas vom sogenannten Widerrufsjoker oder auch dem ewigen Widerrufsrecht zu lesen.
 
+![](blob:https://app.cloudcannon.com/29ef18d9-df8a-46f1-82c9-508838b97fed)
+
 Ist der Darlehensvertrag zur Finanzierung Ihres Kraftfahrzeuges gleich beim Autoverk&auml;ufer mit abgeschlossen worden, wird von einem verbundenen Gesch&auml;ft auszugehen sein. Dieses f&uuml;hrt dazu, dass der Kaufvertrag ebenso wie das Darlehen durch den Widerruf r&uuml;ckabgewickelt werden k&ouml;nnen.
 
 Bei erfolgreichem Widerruf bekommt der Verbraucher somit s&auml;mtliche in das Darlehen gezahlten Raten wieder zur&uuml;ck und kann der finanzierenden Bank das von ihm genutzte Auto herausgeben. In vielen F&auml;llen ist dabei noch nicht einmal eine Nutzungsentsch&auml;digung f&uuml;r die Nutzung des Fahrzeugs zu bezahlen. Hier kommt es jedoch auf den Einzelfall an. Sie sollten daher ihre Anspr&uuml;che in jedem Fall durch einen Experten im Bereich des Bank und Kapitalmarktrechts pr&uuml;fen lassen.
