@@ -13,7 +13,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Wir freuen uns &uuml;ber die Ver&ouml;ffentlichung eines Artikel von Michaela Strassmair zum Thema: "Schufa: Was sie macht, was sie wei&szlig; und was das f&uuml;r unser t&auml;gliches Leben bedeutet."
+Wir freuen uns &uuml;ber die Ver&ouml;ffentlichung eines Artikel von Michaela Strassmair am 29.03.2018 um18.00 Uhr auf Web.de zum Thema: "Schufa: Was sie macht, was sie wei&szlig; und was das f&uuml;r unser t&auml;gliches Leben bedeutet."
 
 [![Web.de Logo - Fremde Marke](/uploads/web-de-logo-1.jpg)](https://web.de/magazine/geld-karriere/schufa-weiss-taegliches-leben-bedeutet-32892100)&nbsp;
 
