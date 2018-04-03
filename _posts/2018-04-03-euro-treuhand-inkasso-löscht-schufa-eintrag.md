@@ -37,3 +37,5 @@ Ob und wann ein negativer Schufa-Eintrag zu Recht erfolgte, h&auml;ngt von unter
 Manchmal gibt es zivilrechtliche Einw&auml;nde gegen eine Forderung (z.B. Verj&auml;hrung, o.&auml;.). Sodann m&uuml;ssen die datenschutzrechtlichen Bestimmungen des BDSG eingehalten werden.
 
 H&auml;ufig ist eine L&ouml;schung eines negativen Eintrages nicht einfach so m&ouml;glich, so dass anwaltliche Hilfe n&ouml;tig ist. In diesem Fall empfehlen wir Ihnen, sich an eine Experten im Datenschutzrecht zu wenden. Gerne k&ouml;nnen Sie dabei auch unsere Kanzlei unter 030 /&nbsp; 921 000 40 oder info@advoadvice.de kontaktieren.
+
+&nbsp;
