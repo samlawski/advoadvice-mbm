@@ -22,7 +22,7 @@ team_member: dr-sven-tintemann
 
 Das Bestellen von Blumenk&auml;sten in einer bestimmten Farbe kann zum Schufa Eintrag f&uuml;hren. Diese Erfahrung machte eine Kundin aus der Lausitz, welche sich im Jahr 2016 drei massive Pflanzenkasten bestellte. Diese wurden jedoch in der falschen Farbe gesendet. Dies stellte eine klassische Falschlieferung da, welche einen sog. M&auml;ngelgew&auml;hrleistungsanspruch nach sich zieht.
 
-<div class="yaml-path-preview"><img alt="Foto Blumenkasten" width="660" height="525" src="https://app.cloudcannon.com/sites/24777/site_files/raw/?path=uploads/plant-pots-163016-640.jpg&amp;timestamp=1522307807256" /></div>
+<div class="yaml-path-preview"><img src="/uploads/balcony-plants-357702-640.jpg" alt="Blumenkasten Beispiel" width="640" height="480" /></div>
 
 ### Umtausch? Zahlungspflicht? Schufa-Eintrag?
 
