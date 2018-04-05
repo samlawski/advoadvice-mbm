@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <header id="themen">
+      <div class="nav-spacer">
+        <nav id="navigation" class="navbar navbar-default">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="a-scroll navbar-logo" href="http://advoadvice.de/">
+                <img src="http://advoadvice.de/uploads/images/logo-bw-small.png" />
+              </a>
+              <div class="text-center">
+                <a href="http://advoadvice.de/" class="navbar-toggle collapsed btn btn-default" aria-expanded="false">
+                  <span class="editable">Lernen Sie uns kennen</span><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                </a>
+              </div>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                <a class="a-scroll cta cta-nav editable" href="http://advoadvice.de/">Lernen Sie uns kennen</a>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+      </div><!-- / nav-spacer -->
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer class="second-bg">
+      <section class="lastfooter padding-20 text-center">
+        <a href="http://advoadvice.de/impressum" class="margin-20 editable">Impressum</a>
+      </section>
+    </footer>
+    {% include javascripts.html %}
+  </body>
+
+</html>
