@@ -23,7 +23,6 @@ var schufaTool = (function(){
   var onProgressClick = function(){
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.clone())
-    
     // Set new progress state
     let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
     thisState.progress += summand
@@ -58,12 +57,14 @@ var schufaTool = (function(){
   // ***** Private *****
 
   var formPresent = () => thisState.$app.find('form').length > 0
+  var auswertungPresent = () => thisState.$app.find('.schufaTool__auswertung').length > 0
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
     thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
+    showCorrectAuswertung()
     bindFunctions()
   }
 
@@ -108,6 +109,14 @@ var schufaTool = (function(){
     })
   }
 
+  var showCorrectAuswertung = function(){
+    if(!auswertungPresent()) return
+    // TODO Add category specific auswertung somewhere here? 
+    // slideAuswertung[thisState.category]()
+    // or:
+    // $(slideAuswertung[thisState.category]()).show()
+  }
+
   // ***** Constants *****
 
   const slideTemplates = {
@@ -139,6 +148,17 @@ var schufaTool = (function(){
       $('.schufaTool__slide--0'),
       $('.schufaTool__slide--1')
     ]
+  }
+
+  const slideAuswertung = {
+    negativeintrag: () => {
+      return thisState.quiz[thisState.category][0] == "Ja" ? "schufaTool__negativeintrag__auskunft--a" : ""
+    },
+    score: () => false,
+    fraud: () => false,
+    veraltet: () => false,
+    restschuld: () => false,
+    verzeichnisse: () => false
   }
 
   return {
