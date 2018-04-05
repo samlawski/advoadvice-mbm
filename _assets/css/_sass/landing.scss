@@ -1,4 +1,10 @@
 .landing__header {
+  background-image: url('/uploads/car.jpg');
+
+  @media (max-width: 767px) {
+    background-image: linear-gradient(to top, rgba(36,76,90,0), rgba(36,76,90,0.9)), url('/uploads/car.jpg');
+  }
+
   margin-top: -10px;
   background-size: cover;
   background-repeat: no-repeat;
