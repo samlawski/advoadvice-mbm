@@ -67,7 +67,7 @@ var schufaTool = (function(){
     thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
-    showCorrectAuswertung() // if viewing auswertungsslide 
+    showCorrectAuswertung() // if viewing auswertungsslide
     bindFunctions()
   }
 
@@ -82,9 +82,9 @@ var schufaTool = (function(){
     function reloadProgress(){
       let categorySelected = thisState.category.length > 0
       let allRequiredFieldsFilled = () => {
-        if(!formPresent()) return true 
+        if(!formPresent()) return true
 
-        let formFieldArray = thisState.$app.find('.form-group').map(function(){ 
+        let formFieldArray = thisState.$app.find('.form-group').map(function(){
           // For each form group check if it contains a required input field
           if($(this).find('[type="radio"][required]').length > 1){
             return $(this).find('[type="radio"][required]').is(':checked')
@@ -96,8 +96,8 @@ var schufaTool = (function(){
           }
         })
         // Return true if no element in the array is 'false'
-        return Array.from(formFieldArray).indexOf(false) < 0 
-      } 
+        return Array.from(formFieldArray).indexOf(false) < 0
+      }
       $('.schufaTool__progress--next').toggleClass('disabled', !(categorySelected && allRequiredFieldsFilled()))
       $('.schufaTool__progress--prev').toggleClass('disabled', !(thisState.progress > 0))
     }
@@ -108,7 +108,7 @@ var schufaTool = (function(){
       return {
         frage: $(`.schufaTool [for="${obj.name}"]`).text().trim(),
         antwort: obj.value
-      } 
+      }
     })
   }
 
@@ -128,12 +128,14 @@ var schufaTool = (function(){
       $('.schufaTool__category--negativeintrag--1'),
       $('.schufaTool__category--negativeintrag--2'),
       $('.schufaTool__slide--1'),
-      $('.schufaTool__slide--2')
+      $('.schufaTool__category--negativeintrag--3')
     ],
     score: [
       $('.schufaTool__slide--0'),
       $('.schufaTool__category--score--1'),
-      $('.schufaTool__slide--1')
+      $('.schufaTool__category--score--2'),
+      $('.schufaTool__slide--1'),
+      $('.schufaTool__category--score--3')
     ],
     fraud: [
       $('.schufaTool__slide--0'),
@@ -159,7 +161,7 @@ var schufaTool = (function(){
         let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
         let answeredNo = i => thisState.quiz[thisState.category][i].antwort == "Nein"
         let answerArray = []
-         
+
         if(answeredYes(2)) answerArray.push(".schufaTool__negativeintrag__auskunft--a")
         if(answeredNo(2) && answeredNo(8) && answeredNo(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--b")
         if(answeredYes(8) && answeredYes(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--c")
