@@ -41,6 +41,11 @@
   justify-content: center;
   align-items: center;
   font-size: 0.8em;
+  color: #aaa;
+
+  @media(max-width: 480px){
+    font-size: 0.5em;
+  }
 }
 .schufaTool__progressLine {
   height: 2px;
@@ -48,6 +53,9 @@
   margin: 0 10px;
   background-color: #ccc;
   color: #ccc;
+  @media(max-width: 480px){
+    margin: 0 5px;
+  }
 }
 
 // SLIDE 0: CATEGORY SELECTOR
@@ -60,6 +68,8 @@
   margin: 8px;
 
   height: 150px;
+  min-width: 200px;
+  padding: 10px;
 
   display: flex;
   align-items: center;
