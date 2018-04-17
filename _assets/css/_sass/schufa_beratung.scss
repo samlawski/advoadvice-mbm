@@ -1,3 +1,4 @@
+// PROGRESS BUTTONS
 .schufaTool__progressButtons {
   height: 50px;
   display: flex;
@@ -48,7 +49,29 @@
   color: #ccc;
 }
 
-
+// SLIDE 0: CATEGORY SELECTOR
+.schufaTool__categories {
+  display: flex;
+  flex-wrap: wrap;
+}
 .schufaTool__categoryBtn {
+  flex: 1 0 30%;
+  margin: 8px;
 
+  height: 150px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  cursor: pointer;
+  background-color: #C0EBFF;
+  &.active {
+    border: 4px solid #244c5a;
+  }
+  &:hover { 
+    background-color: #DEEBFF;
+    box-shadow: 0 0 10px #ccc;
+  }
 }
