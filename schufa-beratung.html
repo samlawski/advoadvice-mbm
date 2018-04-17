@@ -289,35 +289,29 @@ permalink: /schufa-beratung/
 
           <form class="schufaTool__form schufaTool__form--score">
             <div class="form-group">
-              <label for="score__1">
-                Haben Sie einen negativen Schufa Eintrag?
-                <div class="schufaTool__form__radio">
-                  <label><input type="radio" name="score_1" value="Ja" required>Ja</label>
-                  <label><input type="radio" name="score_1" value="Nein" required>Nein</label>
-                </div>
-              </label>
+              <label for="score__1">Haben Sie einen negativen Schufa Eintrag?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="score__1" value="Ja" required>Ja</label>
+                <label><input type="radio" name="score__1" value="Nein" required>Nein</label>
+              </div>
             </div>
 
             <div class="form-group">
-              <label for="score__2">
-                Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)
-                <div class="schufaTool__form__radio">
-                  <label><input type="radio" name="score_2" value="Ja" required>Ja</label>
-                  <label><input type="radio" name="score_2" value="Nein" required>Nein</label>
-                </div>
-              </label>
+              <label for="score__2">Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="score__2" value="Ja" required>Ja</label>
+                <label><input type="radio" name="score__2" value="Nein" required>Nein</label>
+              </div>
             </div>
 
             <div class="form-group">
-              <label for="score__3">
-                Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?
-                <div class="schufaTool__form__radio">
-                  <label><input type="radio" name="score_3" value=">95%" required>Über 95%</label>
-                  <label><input type="radio" name="score_3" value="90%-95%" required>90 - 95%</label>
-                  <label><input type="radio" name="score_3" value="80%-90%" required>80 - 90%</label>
-                  <label><input type="radio" name="score_3" value="<80%" required>Unter 80%</label>
-                </div>
-              </label>
+              <label for="score__3">Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="score__3" value=">95%" required>Über 95%</label>
+                <label><input type="radio" name="score__3" value="90%-95%" required>90 - 95%</label>
+                <label><input type="radio" name="score__3" value="80%-90%" required>80 - 90%</label>
+                <label><input type="radio" name="score__3" value="<80%" required>Unter 80%</label>
+              </div>
             </div>
           </form>
         </div>
@@ -348,6 +342,112 @@ permalink: /schufa-beratung/
           <p>(Vollmacht, Auftrag mit Mandatsbedingungen, Auftragsbestätigung, Vergütungsvereinbarung)</p>
         </div>
 
+
+        <!-- Slides: Schufa FraudPool und Identitätsdiebstahl -->
+        <div class="schufaTool__slide schufaTool__category--fraud--1" hidden>
+          <h1>FraudPool und Identitätsdiebstahl <small>| Fragen</small></h1>
+
+          <form class="schufaTool__form schufaTool__form--fraud">
+            <h3>Identitätsdiebstahl</h3>
+            <div class="form-group">
+              <label for="fraud__1">Handelt es sich um eine Identitätsdiebstahl?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__1" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__1" value="Nein" required>Nein</label>
+              </div>
+            </div>
+
+            <p><strong>Falls Ja:</strong></p>
+
+            <div class="form-group">
+              <label for="fraud__2">Kennen Sie den Täter oder haben Sie eine Vermutung?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__2" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__2" value="Nein" required>Nein</label>
+              </div>
+              <label for="fraud__2a">
+                Falls ja: Wie lauten Name und Anschrift dieser Person?
+                <input type="text" name="fraud__2a" value="" class="form-control" placeholder="Antwort...">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label for="fraud__3">Wurde bereits Strafanzeige gestellt oder ein Strafverfahren durchgeführt?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__3" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__3" value="Nein" required>Nein</label>
+              </div>
+              <label for="fraud__3a">
+                Falls ja: Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem Aktenzeichen?
+                <input type="text" name="fraud__3a" value="" class="form-control" placeholder="Antwort...">
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label for="fraud__4">Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__4" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__4" value="Nein" required>Nein</label>
+              </div>
+            </div>
+
+            <h3>FraudPool</h3>
+            <div class="form-group">
+              <label for="fraud__5">Handelt es sich um ein Merkmal im sog. FraudPool?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__5" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__5" value="Nein" required>Nein</label>
+              </div>
+            </div>
+
+            <p><strong>Falls Ja:</strong></p>
+
+            <div class="form-group">
+              <label for="fraud__6">Wurden Sie als potenzieller Täter im FraudPool erfasst?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__6" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__6" value="Nein" required>Nein</label>
+                <label><input type="radio" name="fraud__6" value="Weiß ich nicht" required>Weiß ich nicht</label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="fraud__7">Ist Ihnen der dazugehörige Sachverhalt bekannt?</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="fraud__7" value="Ja" required>Ja</label>
+                <label><input type="radio" name="fraud__7" value="Nein" required>Nein</label>
+              </div>
+            </div>
+
+          </form>
+        </div>
+
+        <div class="schufaTool__slide schufaTool__category--fraud--2" hidden>
+          <h1 class="schufaTool__auswertung">Scorewert verbessern? <small>| Auskunft</small></h1>
+
+          <div class="schufaTool__auskunft schufaTool__fraud__auskunft--a" hidden>
+            <p>Es bestehen gute Möglichkeiten, dass wir Ihnen bei Ihrem Anliegen helfen können. Negative Schufa Einträge können nach einem Identitätsdiebstahl häufig aufgeklärt werden, solange Sie den Identitätsdiebstahl auch nachweisen können und Strafanzeige gestellt wurde. Bitte laden Sie dazu im nachfolgenden Schritt Ihre Unterlagen hoch.</p>
+            <p>Wir weisen bereits jetzt darauf hin, dass wir eine Mandatierung nur in Bezug auf die Schufa-Merkmale annehmen werden. Weitere zivil- und/oder strafrechtliche Ansprüche werden durch uns nicht bearbeitet.</p>
+          </div>
+          <div class="schufaTool__auskunft schufaTool__fraud__auskunft--b" hidden>
+            <p>Leider können wir Ihnen bei Ihrem Anliegen nicht behilflich sein. Wir empfehlen Ihnen jedoch, sich dringend an einen Kollegen zu wenden, um die zivil- und strafrechtlichen Ansprüche gegen den Täter durchzusetzen. Dabei wünschen wir Ihnen viel Erfolg!</p>
+          </div>
+          <div class="schufaTool__auskunft schufaTool__fraud__auskunft--c" hidden>
+            <p>Da Ihre Daten im Schufa-FraudPool eingemeldet sind, empfehlen wir Ihnen dringend, die Angelegenheit weiter zu verfolgen. Gerne helfen wir Ihnen dabei. Die Folgen eines Eintrages im FraudPool sind schwer einzuschätzen. Es kann jedoch dazu führen, dass sich künftige Vertragspartner trotz guter Bonität und eines guten Scorewertes gegen einen Vertragsschluss mit Ihnen entscheiden. Bitte geben Sie ihre weiteren Daten im nächsten Schritt an.</p>
+          </div>
+          <div class="schufaTool__auskunft schufaTool__fraud__auskunft--d" hidden>
+            <p>Da ist wohl etwas schief gelaufen. Offenbar handelt es sich bei Ihnen weder um einen Identitätsdiebstahl noch um ein FraudPool-Problem. Sollten Sie dennoch Fragen wegen einer Schufa-Thematik haben, bitten wir um Kontaktaufnahme über info@advoadvice.de oder unter 030 / 921 000 40. Bei anderen zivil- und strafrechtlichen Problemen können wir Ihnen diesbezüglich leider nicht weiterhelfen.</p>
+          </div>
+        </div>
+
+        <div class="schufaTool__slide schufaTool__category--fraud--3" hidden>
+          <h1>Unsere Mandatsbedingungen</h1>
+
+          <p>Fast geschafft!</p>
+          <p>Bitte füllen Sie noch unsere hier aufgeführten Mandatsbedingungen vollständig aus und übersenden uns diese im Original per Post. Wir versichern Ihnen, dass wir Ihre Anfrage zeitnah bearbeiten und Ihnen eine Rückmeldung zu dem Vorgang geben werden.</p>
+          <p>Hinweis zu den Formularen: Bitte notieren Sie den Betreff wie folgt: „ Ihr Name ./. Schufa Holding AG wg. Identitätsdiebstahl oder FraudPool)</p>
+          <p>(Vollmacht, Auftrag mit Mandatsbedingungen, Auftragsbestätigung, Vergütungsvereinbarung)</p>
+        </div>
 
 
       </div> <!-- templates -->

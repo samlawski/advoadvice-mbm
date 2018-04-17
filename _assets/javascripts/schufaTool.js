@@ -139,7 +139,10 @@ var schufaTool = (function(){
     ],
     fraud: [
       $('.schufaTool__slide--0'),
-      $('.schufaTool__slide--1')
+      $('.schufaTool__category--fraud--1'),
+      $('.schufaTool__category--fraud--2'),
+      $('.schufaTool__slide--1'),
+      $('.schufaTool__category--fraud--3')
     ],
     veraltet: [
       $('.schufaTool__slide--0'),
