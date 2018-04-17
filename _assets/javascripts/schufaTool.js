@@ -65,7 +65,10 @@ var schufaTool = (function(){
     thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
-    showCorrectAuswertung()
+    if(!showCorrectAuswertung()) {// Skip Auswertungsslide if there is nothing to show
+      thisState.progres += 1
+      checkRerender()
+    }
     bindFunctions()
   }
 
@@ -111,11 +114,10 @@ var schufaTool = (function(){
   }
 
   var showCorrectAuswertung = function(){
-    if(!auswertungPresent()) return
-    // TODO Add category specific auswertung somewhere here? 
-    // slideAuswertung[thisState.category]()
-    // or:
-    // $(slideAuswertung[thisState.category]()).show()
+    if(!auswertungPresent()) return true
+    let auswertungSelectorArray =  slideAuswertung[thisState.category]()
+    auswertungSelectorArray.map($answer => $answer.show())
+    return (auswertungSelectorArray.length > 0) 
   }
 
   // ***** Constants *****
@@ -153,7 +155,15 @@ var schufaTool = (function(){
 
   const slideAuswertung = {
     negativeintrag: () => {
-      return thisState.quiz[thisState.category][0] == "Ja" ? "schufaTool__negativeintrag__auskunft--a" : ""
+      let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
+      let answeredNo = i => thisState.quiz[thisState.category][i].antwort == "Nein"
+      let answerArray = []
+       
+      if(answeredYes(2)) answerArray.push($(".schufaTool__negativeintrag__auskunft--a"))
+      if(answeredNo(2) && answeredNo(8) && answeredNo(10)) answerArray.push($(".schufaTool__negativeintrag__auskunft--b"))
+      if(answeredYes(8) && answeredYes(10)) answerArray.push($(".schufaTool__negativeintrag__auskunft--c"))
+
+      return answerArray
     },
     score: () => false,
     fraud: () => false,
