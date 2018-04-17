@@ -21,6 +21,7 @@ var schufaTool = (function(){
   }
 
   var onProgressClick = function(){
+    if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.clone())
     // Set new progress state
@@ -95,8 +96,8 @@ var schufaTool = (function(){
         // Return true if no element in the array is 'false'
         return Array.from(formFieldArray).indexOf(false) < 0 
       } 
-      $('.schufaTool__progress--next').toggle(categorySelected && allRequiredFieldsFilled())
-      $('.schufaTool__progress--prev').toggle(thisState.progress > 0)
+      $('.schufaTool__progress--next').toggleClass('disabled', !(categorySelected && allRequiredFieldsFilled()))
+      $('.schufaTool__progress--prev').toggleClass('disabled', !(thisState.progress > 0))
     }
   }
 
