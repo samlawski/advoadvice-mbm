@@ -54,7 +54,7 @@ permalink: /schufa-beratung/
         <div class="schufaTool__slide schufaTool__slide--1" hidden>
           <h1>Kontakt</h1>
 
-          <form class="schufaTool__form--kontakt">
+          <form class="schufaTool__form schufaTool__form--kontakt">
             <div class="form-group">
               <label for="name">
                 Name, Vorname
@@ -163,7 +163,7 @@ permalink: /schufa-beratung/
         <div class="schufaTool__slide schufaTool__category--negativeintrag--1" hidden>
           <h1>Negativeintrag <small>| Fragen</small></h1>
 
-          <form class="schufaTool__form--negativeintrag">
+          <form class="schufaTool__form schufaTool__form--negativeintrag">
             <div class="form-group">
               <label for="negativeintrag__1">
                 Wer hat den Schufa-Eintrag vorgenommen?
@@ -180,8 +180,10 @@ permalink: /schufa-beratung/
 
             <div class="form-group">
               <label for="negativeintrag__3">Gibt es eine Titulierung der Forderung durch Urteil oder Vollstreckungsbescheid?</label>
-              <label><input type="radio" name="negativeintrag__3" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__3" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__3" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__3" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__3a">
                 Wenn Ja, wann wurde dieser erlassen?
                 <input type="date" name="negativeintrag__3a" value="" class="form-control">
@@ -190,8 +192,10 @@ permalink: /schufa-beratung/
 
             <div class="form-group">
               <label for="negativeintrag__4">Wurde die Forderung bereits durch Sie ausgeglichen?</label>
-              <label><input type="radio" name="negativeintrag__4" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__4" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__4" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__4" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__4a">
                 Wenn Ja, wann?
                 <input type="date" name="negativeintrag__4a" value="" class="form-control">
@@ -200,18 +204,22 @@ permalink: /schufa-beratung/
 
             <div class="form-group">
               <label for="negativeintrag__5">Wurde ein Inkassounternehmen beauftragt?</label>
-              <label><input type="radio" name="negativeintrag__5" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__5" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__5" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__5" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__5a">
                 Wenn Ja, wie heißt dieses Unternehmen?
-                <input type="text" name="negativeintrag__5a" value="" class="form-control">
+                <input type="text" name="negativeintrag__5a" value="" class="form-control" placeholder="Antwort...">
               </label>
             </div>
 
             <div class="form-group">
               <label for="negativeintrag__6">Haben Sie Mahnschreiben zu der Forderung erhalten?</label>
-              <label><input type="radio" name="negativeintrag__6" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__6" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__6" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__6" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__6a">
                 Wenn ja: Zu welchem Datum wurden das oder die Mahnschreiben erstellt?
                 <input type="date" name="negativeintrag__6a" value="" class="form-control">
@@ -220,8 +228,10 @@ permalink: /schufa-beratung/
 
             <div class="form-group">
               <label for="negativeintrag__7">Wurde das Vertragsverhältnis gekündigt?</label>
-              <label><input type="radio" name="negativeintrag__7" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__7" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__7" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__7" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__7a">
                 Wenn ja: Zu welchem Datum wurde das Kündigungsschreiben erstellt?
                 <input type="date" name="negativeintrag__7a" value="" class="form-control">
@@ -230,21 +240,25 @@ permalink: /schufa-beratung/
 
             <div class="form-group">
               <label for="negativeintrag__8">Wurde die Forderung durch Sie bestritten?</label>
-              <label><input type="radio" name="negativeintrag__8" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__8" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__8" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__8" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__8a">
                 Wenn ja: Wann und in welcher Form war dies der Fall?
-                <input type="text" name="negativeintrag__8a" value="" class="form-control">
+                <input type="text" name="negativeintrag__8a" value="" class="form-control" placeholder="Antwort...">
               </label>
             </div>
 
             <div class="form-group">
               <label for="negativeintrag__9">Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung getroffen?</label>
-              <label><input type="radio" name="negativeintrag__9" value="Ja" required>Ja</label>
-              <label><input type="radio" name="negativeintrag__9" value="Nein" required>Nein</label>
+              <div class="schufaTool__form__radio">
+                <label><input type="radio" name="negativeintrag__9" value="Ja" required>Ja</label>
+                <label><input type="radio" name="negativeintrag__9" value="Nein" required>Nein</label>
+              </div>
               <label for="negativeintrag__9a">
                 Wenn ja: Wann und in welcher Form war dies der Fall?
-                <input type="text" name="negativeintrag__9a" value="" class="form-control">
+                <input type="text" name="negativeintrag__9a" value="" class="form-control" placeholder="Antwort...">
               </label>
             </div>
           </form>

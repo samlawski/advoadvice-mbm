@@ -1,5 +1,6 @@
 // PROGRESS BUTTONS
 .schufaTool__progressButtons {
+  margin-top: 40px;
   height: 50px;
   display: flex;
   justify-content: center;
@@ -74,4 +75,28 @@
     background-color: #DEEBFF;
     box-shadow: 0 0 10px #ccc;
   }
+}
+
+
+// FORMs
+
+.schufaTool__form {
+  .form-group {
+    margin-bottom: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto 0;
+    max-width: 640px;
+  }
+  input.form-control {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 2px solid #ccc;
+    box-shadow: none;
+    &:focus { box-shadow: none; }
+  }
+}
+.schufaTool__form__radio {
+  label { margin: 5px 10px; }
 }
