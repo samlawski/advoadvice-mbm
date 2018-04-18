@@ -86,7 +86,14 @@ var schufaTool = (function(){
     thisState.$app = $(thisState.$app.selector) // reload state variable
     // Slide Specific logic:
     runSlideLogic(thisState.progress, thisState.category, 'afterRender')
+    scrollToTop()
     bindFunctions()
+  }
+
+  var scrollToTop = function(){
+    $('html, body').animate({
+      scrollTop: 0 
+    }, 500);
   }
 
   var checkRerender = function(){
