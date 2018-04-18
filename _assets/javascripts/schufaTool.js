@@ -15,6 +15,7 @@ var schufaTool = (function(){
     thisState.formContact = {}
     thisState.$app = $('.schufaTool')
     thisState.$slides = [$('.schufaTool__slide--0')]
+    thisState.$removedSlides = []
   }
 
   var initialBindFunctions = function(){
@@ -24,7 +25,7 @@ var schufaTool = (function(){
   var onProgressClick = function(){
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
-    thisState.$slides.splice(thisState.progress, 1, thisState.$app.clone())
+    thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
     // Slide Specific logic:
     runSlideLogic(thisState.progress, thisState.category, 'beforeExit')
     // Set new progress state
@@ -46,9 +47,12 @@ var schufaTool = (function(){
 
   var onCategoryClick = function(){
     thisState.category = $(this).data('category')
-    thisState.$slides = slideTemplates[thisState.category]
+    thisState.$slides = slideTemplates[thisState.category].map(selectorString => {
+      // Select and clone templates from DOM
+      return $('.schufaTool__templates').find(selectorString).clone()
+    })
     // Toggle views:
-    $('.schufaTool__categoryBtn').removeClass('active')
+    thisState.$app.find('.schufaTool__categoryBtn').removeClass('active')
     $(this).addClass('active')
     checkRerender()
   }
@@ -66,7 +70,9 @@ var schufaTool = (function(){
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
-    thisState.$app.html(slideToRender.children())
+    thisState.$app.html('')
+    thisState.$app.append(slideToRender)
+    // thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
     // Slide Specific logic:
@@ -107,7 +113,7 @@ var schufaTool = (function(){
   }
 
   var updateStateFromQuiz = function(){
-    thisState.quiz[thisState.category] = $('.schufaTool form').serializeArray().map(obj => {
+    thisState.quiz[thisState.category] = thisState.$app.find('form').serializeArray().map(obj => {
       return {
         frage: $(`.schufaTool [for="${obj.name}"]`).text().trim(),
         antwort: obj.value
@@ -122,7 +128,18 @@ var schufaTool = (function(){
         beforeExit: () => {
           // Set Auswertung
           thisState.auswertung = getAuswertungBasedOnQuizAnswers()
+          // Remove Auswertungsslide if there is no Auswertung
+          if (thisState.auswertung.length < 1 &&
+            thisState.$slides[2].hasClass('schufaTool__category--negativeintrag--2')){
+            // Auswertung should disappear
+            thisState.$removedSlides = thisState.$slides.splice(2, 1)
+          }else if(thisState.auswertung.length > 0 &&
+            !thisState.$slides[2].hasClass('schufaTool__category--negativeintrag--2')){
+            // Auswertung should appear
+            thisState.$slides.splice(2, 0, ...thisState.$removedSlides)
+          }
 
+          // Private Functions
           function getAuswertungBasedOnQuizAnswers(){
             try {
               let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
@@ -143,8 +160,8 @@ var schufaTool = (function(){
       '2': {
         afterRender: () => {
           // Show correct auswertung
-          $('.schufaTool__auskunft').hide()
-          thisState.auswertung.map(answerClass => $(answerClass).show())
+          thisState.$app.find('.schufaTool__auskunft').hide()
+          thisState.auswertung.map(answerClass => thisState.$app.find(answerClass).show())
         }
       }
     },
@@ -169,37 +186,37 @@ var schufaTool = (function(){
 
   const slideTemplates = {
     negativeintrag: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__category--negativeintrag--1'),
-      $('.schufaTool__category--negativeintrag--2'),
-      $('.schufaTool__slide--1'),
-      $('.schufaTool__category--negativeintrag--3')
+      '.schufaTool__slide--0',
+      '.schufaTool__category--negativeintrag--1',
+      '.schufaTool__category--negativeintrag--2',
+      '.schufaTool__slide--1',
+      '.schufaTool__category--negativeintrag--3'
     ],
     score: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__category--score--1'),
-      $('.schufaTool__category--score--2'),
-      $('.schufaTool__slide--1'),
-      $('.schufaTool__category--score--3')
+      '.schufaTool__slide--0',
+      '.schufaTool__category--score--1',
+      '.schufaTool__category--score--2',
+      '.schufaTool__slide--1',
+      '.schufaTool__category--score--3'
     ],
     fraud: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__category--fraud--1'),
-      $('.schufaTool__category--fraud--2'),
-      $('.schufaTool__slide--1'),
-      $('.schufaTool__category--fraud--3')
+      '.schufaTool__slide--0',
+      '.schufaTool__category--fraud--1',
+      '.schufaTool__category--fraud--2',
+      '.schufaTool__slide--1',
+      '.schufaTool__category--fraud--3'
     ],
     veraltet: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__slide--1')
+      '.schufaTool__slide--0',
+      '.schufaTool__slide--1'
     ],
     restschuld: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__slide--1')
+      '.schufaTool__slide--0',
+      '.schufaTool__slide--1'
     ],
     verzeichnisse: [
-      $('.schufaTool__slide--0'),
-      $('.schufaTool__slide--1')
+      '.schufaTool__slide--0',
+      '.schufaTool__slide--1'
     ]
   }
 
