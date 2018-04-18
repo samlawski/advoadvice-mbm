@@ -297,7 +297,50 @@ var schufaTool = (function(){
         }
       }
     },
-    veraltet: {},
+    veraltet: {
+      '2': {
+        afterRender: () => {
+          try {
+            thisState.$app.find('.schufaTool__auskunft').hide()
+
+            switch(thisState.quiz[thisState.category][0].antwort){
+              case '>95%':
+                thisState.$app.find('.schufaTool__veraltet__auskunft--a').show()
+                break;
+              case '90%-95%':
+                thisState.$app.find('.schufaTool__veraltet__auskunft--b').show()
+                break;
+              case '80%-90%':
+                thisState.$app.find('.schufaTool__veraltet__auskunft--c').show()
+                break;
+              case '<80%':
+                thisState.$app.find('.schufaTool__veraltet__auskunft--d').show()
+                break;
+            }
+          }catch(e){
+            console.log(e)
+          }
+        },
+        beforeExit: () => {
+          // Remove rest of the game for the first answer
+          if(thisState.quiz[thisState.category][2].antwort == '>95%'){
+            // Remove final slides
+            thisState.$slides.splice(3, 2)
+            // Add placeholder slide at end
+            thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
+          }
+        }
+      },
+      '3': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      }
+    },
     restschuld: {},
     verzeichnisse: {}
   }
@@ -339,7 +382,10 @@ var schufaTool = (function(){
     ],
     veraltet: [
       '.schufaTool__slide--0',
-      '.schufaTool__slide--1'
+      '.schufaTool__category--veraltet--1',
+      '.schufaTool__category--veraltet--2',
+      '.schufaTool__slide--1',
+      '.schufaTool__category--veraltet--3'
     ],
     restschuld: [
       '.schufaTool__slide--0',
