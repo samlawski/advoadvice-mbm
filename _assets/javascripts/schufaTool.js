@@ -23,7 +23,6 @@ var schufaTool = (function(){
   }
 
   var onProgressClick = function(){
-    console.log(thisState)
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
@@ -148,9 +147,24 @@ var schufaTool = (function(){
     var sendingParams = `${encodeURIComponent('_to')}=${encodeURIComponent('masugob@gmail.com')}`
     var entireParams = sendingParams + '&' + stringOfContactState + '&' + stringOfQuizState
     // For Debugging: http://ptsv2.com/t/zhs50-1524062871/post
-    $.post('/danke', entireParams, function(e){
-      console.log('Success!', e)
-    })
+
+
+    // if (grecaptcha) {
+    //   var recaptchaResponse = grecaptcha.getResponse();
+    //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+    //     return false;
+    //   }
+    // }
+    var formEl = document.getElementById("schufaToolKontakt");
+    var request = new XMLHttpRequest();
+    request.addEventListener("load", function () {
+      if (request.status === 302) { // CloudCannon redirects on success
+        // It worked
+      }
+    });
+    request.open(formEl.method, formEl.action);
+    request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    request.send(entireParams);
   }
 
   // ***** Slide Specific Logic *****
