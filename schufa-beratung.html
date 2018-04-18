@@ -371,7 +371,6 @@ permalink: /schufa-beratung/
           <h1>FraudPool und Identitätsdiebstahl <small>| Fragen</small></h1>
 
           <form class="schufaTool__form schufaTool__form--fraud">
-            <h3>Identitätsdiebstahl</h3>
             <div class="form-group">
               <label for="fraud__1">Handelt es sich um eine Identitätsdiebstahl?</label>
               <div class="schufaTool__form__radio">
@@ -380,41 +379,6 @@ permalink: /schufa-beratung/
               </div>
             </div>
 
-            <p><strong>Falls Ja:</strong></p>
-
-            <div class="form-group">
-              <label for="fraud__2">Kennen Sie den Täter oder haben Sie eine Vermutung?</label>
-              <div class="schufaTool__form__radio">
-                <label><input type="radio" name="fraud__2" value="Ja" required>Ja</label>
-                <label><input type="radio" name="fraud__2" value="Nein" required>Nein</label>
-              </div>
-              <label for="fraud__2a">
-                Falls ja: Wie lauten Name und Anschrift dieser Person?
-                <input type="text" name="fraud__2a" value="" class="form-control" placeholder="Antwort...">
-              </label>
-            </div>
-
-            <div class="form-group">
-              <label for="fraud__3">Wurde bereits Strafanzeige gestellt oder ein Strafverfahren durchgeführt?</label>
-              <div class="schufaTool__form__radio">
-                <label><input type="radio" name="fraud__3" value="Ja" required>Ja</label>
-                <label><input type="radio" name="fraud__3" value="Nein" required>Nein</label>
-              </div>
-              <label for="fraud__3a">
-                Falls ja: Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem Aktenzeichen?
-                <input type="text" name="fraud__3a" value="" class="form-control" placeholder="Antwort...">
-              </label>
-            </div>
-
-            <div class="form-group">
-              <label for="fraud__4">Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?</label>
-              <div class="schufaTool__form__radio">
-                <label><input type="radio" name="fraud__4" value="Ja" required>Ja</label>
-                <label><input type="radio" name="fraud__4" value="Nein" required>Nein</label>
-              </div>
-            </div>
-
-            <h3>FraudPool</h3>
             <div class="form-group">
               <label for="fraud__5">Handelt es sich um ein Merkmal im sog. FraudPool?</label>
               <div class="schufaTool__form__radio">
@@ -422,31 +386,81 @@ permalink: /schufa-beratung/
                 <label><input type="radio" name="fraud__5" value="Nein" required>Nein</label>
               </div>
             </div>
+          </form>
+        </div>
 
-            <p><strong>Falls Ja:</strong></p>
 
-            <div class="form-group">
-              <label for="fraud__6">Wurden Sie als potenzieller Täter im FraudPool erfasst?</label>
-              <div class="schufaTool__form__radio">
-                <label><input type="radio" name="fraud__6" value="Ja" required>Ja</label>
-                <label><input type="radio" name="fraud__6" value="Nein" required>Nein</label>
-                <label><input type="radio" name="fraud__6" value="Weiß ich nicht" required>Weiß ich nicht</label>
-              </div>
-            </div>
+        <div class="schufaTool__slide schufaTool__category--fraud--2">
+          <h1>FraudPool und Identitätsdiebstahl <small>| Fragen</small></h1>
 
-            <div class="form-group">
-              <label for="fraud__7">Ist Ihnen der dazugehörige Sachverhalt bekannt?</label>
-              <div class="schufaTool__form__radio">
-                <label><input type="radio" name="fraud__7" value="Ja" required>Ja</label>
-                <label><input type="radio" name="fraud__7" value="Nein" required>Nein</label>
-              </div>
-            </div>
+          <form class="schufaTool__form schufaTool__form--fraud">
+            <label for="fraud__91" hidden>Handelt es sich um Identitätsdiebstahl?</label>
+            <input type="hidden" name="fraud__91" value="Nein">
+            <label for="fraud__92" hidden>Handelt es sich um ein Merkmal im sog. FraudPool?</label>
+            <input type="hidden" name="fraud__92" value="Nein">
+
+            <div class="schufaTool__form--fraud__placeholder"></div>
 
           </form>
         </div>
 
-        <div class="schufaTool__slide schufaTool__category--fraud--2">
-          <h1 class="schufaTool__auswertung">Scorewert verbessern? <small>| Auskunft</small></h1>
+
+        <div class="schufaTool__form--fraud--a">
+          <div class="form-group">
+            <label for="fraud__2">Identitätsdiebstahl: Kennen Sie den Täter oder haben Sie eine Vermutung?</label>
+            <div class="schufaTool__form__radio">
+              <label><input type="radio" name="fraud__2" value="Ja" required>Ja</label>
+              <label><input type="radio" name="fraud__2" value="Nein" required>Nein</label>
+            </div>
+            <label for="fraud__2a">
+              Falls ja: Wie lauten Name und Anschrift dieser Person?
+              <input type="text" name="fraud__2a" value="" class="form-control" placeholder="Antwort...">
+            </label>
+          </div>
+
+          <div class="form-group">
+            <label for="fraud__3">Identitätsdiebstahl: Wurde bereits Strafanzeige gestellt oder ein Strafverfahren durchgeführt?</label>
+            <div class="schufaTool__form__radio">
+              <label><input type="radio" name="fraud__3" value="Ja" required>Ja</label>
+              <label><input type="radio" name="fraud__3" value="Nein" required>Nein</label>
+            </div>
+            <label for="fraud__3a">
+              Falls ja: Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem Aktenzeichen?
+              <input type="text" name="fraud__3a" value="" class="form-control" placeholder="Antwort...">
+            </label>
+          </div>
+
+          <div class="form-group">
+            <label for="fraud__4">Identitätsdiebstahl: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?</label>
+            <div class="schufaTool__form__radio">
+              <label><input type="radio" name="fraud__4" value="Ja" required>Ja</label>
+              <label><input type="radio" name="fraud__4" value="Nein" required>Nein</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="schufaTool__form--fraud--b">
+          <div class="form-group">
+            <label for="fraud__6">FraudPool: Wurden Sie als potenzieller Täter im FraudPool erfasst?</label>
+            <div class="schufaTool__form__radio">
+              <label><input type="radio" name="fraud__6" value="Ja" required>Ja</label>
+              <label><input type="radio" name="fraud__6" value="Nein" required>Nein</label>
+              <label><input type="radio" name="fraud__6" value="Weiß ich nicht" required>Weiß ich nicht</label>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="fraud__7">FraudPool: Ist Ihnen der dazugehörige Sachverhalt bekannt?</label>
+            <div class="schufaTool__form__radio">
+              <label><input type="radio" name="fraud__7" value="Ja" required>Ja</label>
+              <label><input type="radio" name="fraud__7" value="Nein" required>Nein</label>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="schufaTool__slide schufaTool__category--fraud--3">
+          <h1 class="schufaTool__auswertung">FraudPool und Identitätsdiebstahl <small>| Auskunft</small></h1>
 
           <div class="schufaTool__auskunft schufaTool__fraud__auskunft--a" hidden>
             <p>Es bestehen gute Möglichkeiten, dass wir Ihnen bei Ihrem Anliegen helfen können. Negative Schufa Einträge können nach einem Identitätsdiebstahl häufig aufgeklärt werden, solange Sie den Identitätsdiebstahl auch nachweisen können und Strafanzeige gestellt wurde. Bitte laden Sie dazu im nachfolgenden Schritt Ihre Unterlagen hoch.</p>
@@ -463,7 +477,7 @@ permalink: /schufa-beratung/
           </div>
         </div>
 
-        <div class="schufaTool__slide schufaTool__category--fraud--3">
+        <div class="schufaTool__slide schufaTool__category--fraud--4">
           <h1>Unsere Mandatsbedingungen</h1>
 
           <p>Fast geschafft!</p>

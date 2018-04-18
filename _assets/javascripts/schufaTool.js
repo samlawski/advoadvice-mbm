@@ -237,7 +237,50 @@ var schufaTool = (function(){
         }
       }
     },
-    fraud: {},
+    fraud: {
+      '1': {
+        beforeExit: () => {
+          if(thisState.quiz[thisState.category].map(obj => obj.antwort).indexOf('Ja') < 0){
+            // If both questions answered with no: insert last placeholder slide
+            // Remove final slides
+            thisState.$slides.splice(2, 4)
+            // Add placeholder slide at end
+            thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
+          }
+        }
+      },
+      '2': {
+        afterRender: () => {
+          $('.schufaTool__form--fraud__placeholder').html('') // reset form
+          // Insert form for the corresponding answer of the previous slide
+          if(thisState.quiz[thisState.category][0].antwort == "Ja"){
+            thisState.$app.find('[name="fraud__91"]').val('Ja')
+            let $identitaetsForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--a').clone()
+            $('.schufaTool__form--fraud__placeholder').append($identitaetsForm)
+          }
+          if(thisState.quiz[thisState.category][1].antwort == "Ja"){
+            thisState.$app.find('[name="fraud__92"]').val('Ja')
+            let $fraudForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--b').clone()
+            $('.schufaTool__form--fraud__placeholder').append($fraudForm)
+          }
+        }
+      },
+      '3': {
+        afterRender: () => {
+          // TODO show the right answer
+          // TODO remove slides for 2 and 4
+        }
+      },
+      '4': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      }
+    },
     veraltet: {},
     restschuld: {},
     verzeichnisse: {}
@@ -274,8 +317,9 @@ var schufaTool = (function(){
       '.schufaTool__slide--0',
       '.schufaTool__category--fraud--1',
       '.schufaTool__category--fraud--2',
+      '.schufaTool__category--fraud--3',
       '.schufaTool__slide--1',
-      '.schufaTool__category--fraud--3'
+      '.schufaTool__category--fraud--4'
     ],
     veraltet: [
       '.schufaTool__slide--0',
