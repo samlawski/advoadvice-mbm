@@ -218,7 +218,6 @@ var schufaTool = (function(){
           }
         },
         beforeExit: () => {
-          console.log(thisState.quiz, thisState.$slides)
           // Remove rest of the game for the first answer
           if(thisState.quiz[thisState.category][2].antwort == '>95%'){
             // Remove final slides
@@ -226,6 +225,15 @@ var schufaTool = (function(){
             // Add placeholder slide at end
             thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
           }
+        }
+      },
+      '3': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
         }
       }
     },
