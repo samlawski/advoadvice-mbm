@@ -23,7 +23,6 @@ var schufaTool = (function(){
   }
 
   var onProgressClick = function(){
-    console.log('ProgressClick', thisState)
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
@@ -216,7 +215,7 @@ var schufaTool = (function(){
                 break;
             }
           }catch(e){
-            console.log(e)
+            // console.log(e)
           }
         },
         beforeExit: () => {
@@ -318,7 +317,7 @@ var schufaTool = (function(){
                 break;
             }
           }catch(e){
-            console.log(e)
+            // console.log(e)
           }
         },
         beforeExit: () => {
@@ -345,7 +344,6 @@ var schufaTool = (function(){
     verzeichnisse: {
       '1': {
         beforeExit: () => {
-          console.log(thisState)
           if(thisState.quiz[thisState.category][0].antwort == 'Nein'){
             // Remove final slides
             thisState.$slides.splice(2, 3)
