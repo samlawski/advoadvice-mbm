@@ -48,6 +48,7 @@ var schufaTool = (function(){
 
   var onCategoryClick = function(){
     thisState.category = $(this).data('category')
+    thisState.$removedSlides = [] // reset
     thisState.$slides = slideTemplates[thisState.category].map(selectorString => {
       // Select and clone templates from DOM
       return $('.schufaTool__templates').find(selectorString).clone()
@@ -138,6 +139,7 @@ var schufaTool = (function(){
             !thisState.$slides[2].hasClass('schufaTool__category--negativeintrag--2')){
             // Auswertung should appear
             thisState.$slides.splice(2, 0, ...thisState.$removedSlides)
+            thisState.$removedSlides = []
           }
 
           // Private Functions
@@ -188,6 +190,13 @@ var schufaTool = (function(){
             }
           }catch(e){
             console.log(e)
+          }
+        },
+        beforeExit: () => {
+          console.log(thisState.quiz, thisState.$slides)
+          // Remove rest of the game for the first answer
+          if(thisState.quiz[thisState.category][2].antwort == '>95%'){
+            thisState.$slides.splice(3, 2)
           }
         }
       }

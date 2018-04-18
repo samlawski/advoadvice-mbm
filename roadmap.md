@@ -5,6 +5,7 @@
 3. Fill in all the information for all the slides 4+
 4. Build a final form to send an email to advoadvice. Compile all quiz results into a single big message string.
 5. Fix Styles on the Identitätsdiebstahl fragen slides
+6. Style CTAs on final slide
 
 Notes:
 https://blitzerkanzlei.de/kostenlose-beratung-anfordern/
