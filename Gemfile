@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-tagging-related_posts', :path => "_plugins/jekyll-tagging-related_posts-master"
   gem 'jekyll-sitemap'
   gem "jekyll-assets"
+  gem 'jekyll-redirect-from'
 end
