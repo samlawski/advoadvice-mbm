@@ -342,7 +342,28 @@ var schufaTool = (function(){
       }
     },
     restschuld: {},
-    verzeichnisse: {}
+    verzeichnisse: {
+      '1': {
+        beforeExit: () => {
+          console.log(thisState)
+          if(thisState.quiz[thisState.category][0].antwort == 'Nein'){
+            // Remove final slides
+            thisState.$slides.splice(2, 3)
+            // Add placeholder slide at end
+            thisState.$slides.push($('.schufaTool__templates .schufaTool__category--verzeichnisse--3').clone())
+          }
+        }
+      },
+      '3': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      }
+    }
   }
 
   const runSlideLogic = (progressIndex, category, action) => {
@@ -393,7 +414,10 @@ var schufaTool = (function(){
     ],
     verzeichnisse: [
       '.schufaTool__slide--0',
-      '.schufaTool__slide--1'
+      '.schufaTool__category--verzeichnisse--1',
+      '.schufaTool__category--verzeichnisse--2',
+      '.schufaTool__slide--1',
+      '.schufaTool__category--verzeichnisse--4'
     ]
   }
 
