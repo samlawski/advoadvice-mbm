@@ -61,7 +61,9 @@ var schufaTool = (function(){
   var onFormKeyUp = function(){
     if(!formPresent()) return
     // Update state with data from the form:
-    updateStateFromQuiz()
+    updateStateFromForm(
+      $(this).closest('form').hasClass('schufaTool__form--kontakt')
+    )
     checkRerender()
   }
 
@@ -99,13 +101,12 @@ var schufaTool = (function(){
       let categorySelected = thisState.category.length > 0
       let allRequiredFieldsFilled = () => {
         if(!formPresent()) return true
-
         let formFieldArray = thisState.$app.find('.form-group').map(function(){
           // For each form group check if it contains a required input field
-          if($(this).find('[type="radio"][required]').length > 1){
+          if($(this).find('[type="radio"][required]').length > 0){
             return $(this).find('[type="radio"][required]').is(':checked')
-          }else if($(this).find('input[required]').length > 1){
-            return $(this).find('input[required]').val().trim() > 0
+          }else if($(this).find('input[required]').length > 0){
+            return $(this).find('input[required]').val().trim().length > 0
           }else{
             // in case there is no required field in the form group
             return true
@@ -122,8 +123,16 @@ var schufaTool = (function(){
     }
   }
 
-  var updateStateFromQuiz = function(){
-    thisState.quiz[thisState.category] = thisState.$app.find('form').serializeArray().map(obj => {
+  var updateStateFromForm = isContactForm => {
+    if(isContactForm){
+      thisState.formContact = serializedObjectFromForm()
+    }else{
+      thisState.quiz[thisState.category] = serializedObjectFromForm()
+    }
+  }
+
+  var serializedObjectFromForm = () => {
+    return thisState.$app.find('form').serializeArray().map(obj => {
       return {
         frage: $(`.schufaTool [for="${obj.name}"]`).text().trim(),
         antwort: obj.value
