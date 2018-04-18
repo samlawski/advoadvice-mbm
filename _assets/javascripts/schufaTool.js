@@ -11,6 +11,7 @@ var schufaTool = (function(){
     thisState.progress = 0
     thisState.category = ''
     thisState.quiz = {}
+    thisState.auswertung = {}
     thisState.formContact = {}
     thisState.$app = $('.schufaTool')
     thisState.$slides = [$('.schufaTool__slide--0')]
@@ -24,11 +25,13 @@ var schufaTool = (function(){
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.clone())
-    // Update Auswertung
-    thisState.auswertung = checkAuswertung()
+    // Slide Specific logic:
+    runSlideLogic(thisState.progress, thisState.category, 'beforeExit')
     // Set new progress state
     let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
     thisState.progress += summand
+    // Slide Specific logic:
+    runSlideLogic(thisState.progress, thisState.category, 'beforeInit')
     // Rerender view
     checkRerender()
   }
@@ -60,14 +63,14 @@ var schufaTool = (function(){
   // ***** Private *****
 
   var formPresent = () => thisState.$app.find('form').length > 0
-  var auswertungPresent = () => thisState.$app.find('.schufaTool__auswertung').length > 0
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
     thisState.$app.html(slideToRender.children())
     thisState.$app.data('progress', thisState.progress) // update progress
     thisState.$app = $(thisState.$app.selector) // reload state variable
-    showCorrectAuswertung() // if viewing auswertungsslide
+    // Slide Specific logic:
+    runSlideLogic(thisState.progress, thisState.category, 'afterRender')
     bindFunctions()
   }
 
@@ -112,13 +115,55 @@ var schufaTool = (function(){
     })
   }
 
-  var showCorrectAuswertung = function(){
-    if(!auswertungPresent()) return true
-    $('.schufaTool__auskunft').hide()
-    thisState.auswertung.map(answerClass => $(answerClass).show())
+  // ***** Slide Specific Logic *****
+  const slideLogic = {
+    negativeintrag: {
+      '1': {
+        beforeExit: () => {
+          // Set Auswertung
+          thisState.auswertung = getAuswertungBasedOnQuizAnswers()
+
+          function getAuswertungBasedOnQuizAnswers(){
+            try {
+              let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
+              let answeredNo = i => thisState.quiz[thisState.category][i].antwort == "Nein"
+              let answerArray = []
+
+              if(answeredYes(2)) answerArray.push(".schufaTool__negativeintrag__auskunft--a")
+              if(answeredNo(2) && answeredNo(8) && answeredNo(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--b")
+              if(answeredYes(8) && answeredYes(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--c")
+
+              return answerArray
+            }catch(e){
+              return []
+            }
+          } // /getAuswertungBasedOnQuizAnswers
+        } // /beforeExit
+      },
+      '2': {
+        afterRender: () => {
+          // Show correct auswertung
+          $('.schufaTool__auskunft').hide()
+          thisState.auswertung.map(answerClass => $(answerClass).show())
+        }
+      }
+    },
+    score: progressIndex => false,
+    fraud: progressIndex => false,
+    veraltet: progressIndex => false,
+    restschuld: progressIndex => false,
+    verzeichnisse: progressIndex => false
   }
 
-  var checkAuswertung = () => slideAuswertung[thisState.category]()
+  const runSlideLogic = (progressIndex, category, action) => {
+    try{
+      // Available Actions: 'beforeInit', 'beforeExit', 'afterRender'
+      slideLogic[category][progressIndex][action]()
+    }catch(e){
+      // Uncomment for debugging
+      // console.log(e, 'Could not find action for: ', progressIndex, category, action)
+    }
+  }
 
   // ***** Constants *****
 
@@ -156,29 +201,6 @@ var schufaTool = (function(){
       $('.schufaTool__slide--0'),
       $('.schufaTool__slide--1')
     ]
-  }
-
-  const slideAuswertung = {
-    negativeintrag: () => {
-      try {
-        let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
-        let answeredNo = i => thisState.quiz[thisState.category][i].antwort == "Nein"
-        let answerArray = []
-
-        if(answeredYes(2)) answerArray.push(".schufaTool__negativeintrag__auskunft--a")
-        if(answeredNo(2) && answeredNo(8) && answeredNo(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--b")
-        if(answeredYes(8) && answeredYes(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--c")
-
-        return answerArray
-      }catch(e){
-        return []
-      }
-    },
-    score: () => false,
-    fraud: () => false,
-    veraltet: () => false,
-    restschuld: () => false,
-    verzeichnisse: () => false
   }
 
   return {
