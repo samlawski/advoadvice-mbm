@@ -84,13 +84,17 @@ var schufaTool = (function(){
 
   var checkRerender = function(){
     reloadSlide()
-    reloadProgress()
+    if(thisState.progress < (thisState.$slides.length - 1)){
+      reloadProgressButtons()
+    }else{
+      hideProgressButtonsOnFinalSlide()
+    }
 
     function reloadSlide(){
       let progressDifferent = thisState.$app.data('progress') != thisState.progress
       if(progressDifferent) renderAndBind()
     }
-    function reloadProgress(){
+    function reloadProgressButtons(){
       let categorySelected = thisState.category.length > 0
       let allRequiredFieldsFilled = () => {
         if(!formPresent()) return true
@@ -111,6 +115,9 @@ var schufaTool = (function(){
       }
       $('.schufaTool__progress--next').toggleClass('disabled', !(categorySelected && allRequiredFieldsFilled()))
       $('.schufaTool__progress--prev').toggleClass('disabled', !(thisState.progress > 0))
+    }
+    function hideProgressButtonsOnFinalSlide(){
+      $('.schufaTool__progressBtn').hide()
     }
   }
 
@@ -162,9 +169,27 @@ var schufaTool = (function(){
       },
       '2': {
         afterRender: () => {
-          // Show correct auswertung
-          thisState.$app.find('.schufaTool__auskunft').hide()
-          thisState.auswertung.map(answerClass => thisState.$app.find(answerClass).show())
+          if(thisState.$app.find('.schufaTool__category--negativeintrag--2').length > 0){
+            // Show correct auswertung
+            thisState.$app.find('.schufaTool__auskunft').hide()
+            thisState.auswertung.map(answerClass => thisState.$app.find(answerClass).show())
+          }else{
+            // Looking at the kontakt form:
+            $('.schufaTool__progress--next').text('Abschicken')
+          }
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      },
+      '3': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          // TODO Send Quiz here!? IF this is the contact slide
+          $('.schufaTool__progress--next').text('Weiter')
         }
       }
     },
@@ -196,7 +221,10 @@ var schufaTool = (function(){
           console.log(thisState.quiz, thisState.$slides)
           // Remove rest of the game for the first answer
           if(thisState.quiz[thisState.category][2].antwort == '>95%'){
+            // Remove final slides
             thisState.$slides.splice(3, 2)
+            // Add placeholder slide at end
+            thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
           }
         }
       }

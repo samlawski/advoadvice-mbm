@@ -9,10 +9,10 @@
 
 .schufaTool__progressBtn {
   padding: 10px 20px;
-  width: 100px;
+  width: 135px;
   text-align: center;
   cursor: pointer;
-  
+
   &.disabled {
     cursor: not-allowed;
     background-color: transparent;
@@ -81,7 +81,7 @@
   &.active {
     border: 4px solid #244c5a;
   }
-  &:hover { 
+  &:hover {
     background-color: #DEEBFF;
     box-shadow: 0 0 10px #ccc;
   }
@@ -110,4 +110,3 @@
 .schufaTool__form__radio {
   label { margin: 5px 10px; }
 }
-
