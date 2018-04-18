@@ -23,6 +23,7 @@ var schufaTool = (function(){
   }
 
   var onProgressClick = function(){
+    console.log(thisState)
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
@@ -140,6 +141,18 @@ var schufaTool = (function(){
     })
   }
 
+  // ***** Submit *****
+  const submit = () => {
+    var stringOfContactState = thisState.formContact.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}` ).join('&')
+    var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}`).join('&') ).join('&')
+    var sendingParams = `${encodeURIComponent('_to')}=${encodeURIComponent('masugob@gmail.com')}`
+    var entireParams = sendingParams + '&' + stringOfContactState + '&' + stringOfQuizState
+    // For Debugging: http://ptsv2.com/t/zhs50-1524062871/post
+    $.post('/danke', entireParams, function(e){
+      console.log('Success!', e)
+    })
+  }
+
   // ***** Slide Specific Logic *****
   const slideLogic = {
     negativeintrag: {
@@ -189,7 +202,7 @@ var schufaTool = (function(){
           }
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       },
@@ -198,7 +211,7 @@ var schufaTool = (function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
@@ -242,7 +255,7 @@ var schufaTool = (function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
@@ -300,7 +313,7 @@ var schufaTool = (function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
@@ -344,7 +357,7 @@ var schufaTool = (function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
@@ -366,7 +379,7 @@ var schufaTool = (function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
         beforeExit: () => {
-          // TODO Send Quiz here!? IF this is the contact slide
+          submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
