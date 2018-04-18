@@ -69,6 +69,12 @@ var schufaTool = (function(){
   // ***** Private *****
 
   var formPresent = () => thisState.$app.find('form').length > 0
+  var finalSlide = () => thisState.progress >= (thisState.$slides.length - 1)
+  var questionAnswer = (frage, antwort) => {
+    let questionObject = thisState.quiz[thisState.category].find(obj => obj.frage == frage)
+    if(typeof questionObject == 'undefined') return false
+    return questionObject.antwort == antwort
+  }
 
   var renderAndBind = function(){
     var slideToRender = thisState.$slides[thisState.progress]
@@ -84,11 +90,7 @@ var schufaTool = (function(){
 
   var checkRerender = function(){
     reloadSlide()
-    if(thisState.progress < (thisState.$slides.length - 1)){
-      reloadProgressButtons()
-    }else{
-      hideProgressButtonsOnFinalSlide()
-    }
+    finalSlide() ? hideProgressButtonsOnFinalSlide() : reloadProgressButtons()
 
     function reloadSlide(){
       let progressDifferent = thisState.$app.data('progress') != thisState.progress
@@ -242,15 +244,16 @@ var schufaTool = (function(){
         beforeExit: () => {
           if(thisState.quiz[thisState.category].map(obj => obj.antwort).indexOf('Ja') < 0){
             // If both questions answered with no: insert last placeholder slide
-            // Remove final slides
-            thisState.$slides.splice(2, 4)
-            // Add placeholder slide at end
-            thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
+            // Remove final slides and replace it with the final slide
+            let $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--5').clone()
+            thisState.$slides.splice(2, 4, $finalSlide)
           }
         }
       },
       '2': {
         afterRender: () => {
+          if(finalSlide()) return
+
           $('.schufaTool__form--fraud__placeholder').html('') // reset form
           // Insert form for the corresponding answer of the previous slide
           if(thisState.quiz[thisState.category][0].antwort == "Ja"){
@@ -263,12 +266,25 @@ var schufaTool = (function(){
             let $fraudForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--b').clone()
             $('.schufaTool__form--fraud__placeholder').append($fraudForm)
           }
+        },
+        beforeExit: () => {
+          if(questionAnswer('Identitätsdiebstahl: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?', 'Nein')){
+            let $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--4').clone()
+            thisState.$slides.splice(3, 3, $finalSlide)
+          }
         }
       },
       '3': {
         afterRender: () => {
-          // TODO show the right answer
-          // TODO remove slides for 2 and 4
+          if(finalSlide()) return
+
+          thisState.$app.find('.schufaTool__auskunft').hide()
+          if(questionAnswer('Identitätsdiebstahl: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?', 'Ja')){
+            thisState.$app.find('.schufaTool__fraud__auskunft--a').show()
+          }
+          if(questionAnswer('Handelt es sich um ein Merkmal im sog. FraudPool?', 'Ja')){
+            thisState.$app.find('.schufaTool__fraud__auskunft--b').show()
+          }
         }
       },
       '4': {
@@ -319,7 +335,7 @@ var schufaTool = (function(){
       '.schufaTool__category--fraud--2',
       '.schufaTool__category--fraud--3',
       '.schufaTool__slide--1',
-      '.schufaTool__category--fraud--4'
+      '.schufaTool__category--score--6'
     ],
     veraltet: [
       '.schufaTool__slide--0',
