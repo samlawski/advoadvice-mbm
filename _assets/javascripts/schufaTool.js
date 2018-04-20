@@ -92,7 +92,7 @@ var schufaTool = (function(){
 
   var scrollToTop = function(){
     $('html, body').animate({
-      scrollTop: 0 
+      scrollTop: 0
     }, 500);
   }
 
@@ -149,29 +149,43 @@ var schufaTool = (function(){
 
   // ***** Submit *****
   const submit = () => {
-    var stringOfContactState = thisState.formContact.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}` ).join('&')
-    var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}`).join('&') ).join('&')
-    var sendingParams = `${encodeURIComponent('_to')}=${encodeURIComponent('masugob@gmail.com')}`
-    var entireParams = sendingParams + '&' + stringOfContactState + '&' + stringOfQuizState
-    // For Debugging: http://ptsv2.com/t/zhs50-1524062871/post
+    var stringOfContactState = thisState.formContact.map(obj => `${obj.frage}: ${obj.antwort} |\n`).join('')
+    var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${obj.frage}: ${obj.antwort} |\n`).join('') ).join('')
+    var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
+    // TODO Change POST email
+    $.post('https://mailthis.to/masugob@gmail.com', {
+      _subject: 'Schufa Vorab-Check Formular ausgefüllt',
+      _after: 'http://advoadvice.de/danke/vorab-check',
+      email: thisState.formContact[4].antwort,
+      message: messageString
+    }, function(response){
+      location.href = 'https://mailthis.to/confirm'
+    })
 
-
-    // if (grecaptcha) {
-    //   var recaptchaResponse = grecaptcha.getResponse();
-    //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
-    //     return false;
+    // CloudCannon:
+    // var stringOfContactState = thisState.formContact.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}` ).join('&')
+    // var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}`).join('&') ).join('&')
+    // var sendingParams = `${encodeURIComponent('_to')}=${encodeURIComponent('masugob@gmail.com')}`
+    // var entireParams = sendingParams + '&' + stringOfContactState + '&' + stringOfQuizState
+    // // For Debugging: http://ptsv2.com/t/zhs50-1524062871/post
+    //
+    //
+    // // if (grecaptcha) {
+    // //   var recaptchaResponse = grecaptcha.getResponse();
+    // //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+    // //     return false;
+    // //   }
+    // // }
+    // var formEl = document.getElementById("schufaToolKontakt");
+    // var request = new XMLHttpRequest();
+    // request.addEventListener("load", function () {
+    //   if (request.status === 302) { // CloudCannon redirects on success
+    //     // It worked
     //   }
-    // }
-    var formEl = document.getElementById("schufaToolKontakt");
-    var request = new XMLHttpRequest();
-    request.addEventListener("load", function () {
-      if (request.status === 302) { // CloudCannon redirects on success
-        // It worked
-      }
-    });
-    request.open(formEl.method, formEl.action);
-    request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-    request.send(entireParams);
+    // });
+    // request.open(formEl.method, formEl.action);
+    // request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    // request.send(entireParams);
   }
 
   // ***** Slide Specific Logic *****

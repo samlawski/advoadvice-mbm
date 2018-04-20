@@ -75,6 +75,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+  flex-direction: column;
 
   cursor: pointer;
   background-color: #C0EBFF;
@@ -84,6 +85,10 @@
   &:hover {
     background-color: #DEEBFF;
     box-shadow: 0 0 10px #ccc;
+  }
+
+  img {
+    max-width: 120px;
   }
 }
 
