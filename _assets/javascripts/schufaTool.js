@@ -159,7 +159,9 @@ var schufaTool = (function(){
       email: thisState.formContact[4].antwort,
       message: messageString
     }, function(response){
-      location.href = 'https://mailthis.to/confirm'
+      console.log(response)
+      // TODO uncomment this:
+      // location.href = 'https://mailthis.to/confirm'
     })
 
     // CloudCannon:
