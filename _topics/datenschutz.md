@@ -4,7 +4,7 @@ title: SCHUFA- und Datenschutzrecht
 seo_beschreibung: >-
   Schufa Einträge löschen lassen durch deutschlandweit tätigen Rechtsanwalt und
   Experten im Datenschutzrecht
-cta_titel: Konkrete Fragen zu SchuFa und Datenschutz?
+cta_titel: Konkrete Fragen zu Schufa und Datenschutz?
 cta_link_text: Direkt zum interaktiven Vorab-Check
 cta_link: /schufa-beratung
 ---
