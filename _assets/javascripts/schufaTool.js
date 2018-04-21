@@ -25,7 +25,7 @@ var schufaTool = (function(){
   var onProgressClick = function(){
     if($(this).hasClass('disabled')) return
     // Copy state of current slide into the slides array (including form values)
-    thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
+    copyCurrentSlideToState()
     // Slide Specific logic:
     runSlideLogic(thisState.progress, thisState.category, 'beforeExit')
     // Set new progress state
@@ -55,6 +55,9 @@ var schufaTool = (function(){
     // Toggle views:
     thisState.$app.find('.schufaTool__categoryBtn').removeClass('active')
     $(this).addClass('active')
+    // Move forward to next slide immediately:
+    copyCurrentSlideToState()
+    thisState.progress += 1
     checkRerender()
   }
 
@@ -75,6 +78,10 @@ var schufaTool = (function(){
     let questionObject = thisState.quiz[thisState.category].find(obj => obj.frage == frage)
     if(typeof questionObject == 'undefined') return false
     return questionObject.antwort == antwort
+  }
+
+  var copyCurrentSlideToState = function(){
+    thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
   }
 
   var renderAndBind = function(){
