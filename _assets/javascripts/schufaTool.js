@@ -349,6 +349,12 @@ var schufaTool = (function(){
           if(questionAnswer('Handelt es sich um ein Merkmal im sog. FraudPool?', 'Ja')){
             thisState.$app.find('.schufaTool__fraud__auskunft--b').show()
           }
+          if(questionAnswer('FraudPool: Ist Ihnen der dazugehörige Sachverhalt bekannt?', 'Ja')){
+            thisState.$app.find('.schufaTool__fraud__auskunft--c').show()
+          }
+          if(questionAnswer('FraudPool: Ist Ihnen der dazugehörige Sachverhalt bekannt?', 'Nein')){
+            thisState.$app.find('.schufaTool__fraud__auskunft--d').show()
+          }
         }
       },
       '4': {
