@@ -160,7 +160,7 @@ var schufaTool = (function(){
     var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${obj.frage}: ${obj.antwort} |\n`).join('') ).join('')
     var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
 
-    $.post('https://mailthis.to/advoadvice', {
+    $.post('https://mailthis.to/info@advoadvice.de', {
       _subject: 'Schufa Vorab-Check Formular ausgefüllt',
       _after: 'http://advoadvice.de/danke/vorab-check',
       email: thisState.formContact[4].antwort,
