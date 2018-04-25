@@ -32,6 +32,8 @@ Konkret teilt der Insolvenzverwalter mit, von einer bekannten Wirtschaftspr&uuml
 
 In Bezug auf die Forderungen der Darlehensgeber, welche Geld bei der Gesellschaft angelegt bzw. es dieser zur Verf&uuml;gung gestellt hatten, pr&uuml;ft der Insolvenzverwalter noch, in welcher Rangstelle im Insolvenzverfahren Forderungen eingebucht werden sollen. Gegebenenfalls sei hier auch &uuml;ber ein Musterverfahren im untechnischen Sinne nachzudenken, so der Insolvenzverwalter in seinem zweiten Zwischenbericht.
 
+![](blob:https://app.cloudcannon.com/5b6097db-4642-483b-b602-d96fa1d2bf0f)
+
 Die Kanzlei AdvoAdvice hat hier noch einmal Kontakt mit dem Insolvenzverwalter aufgenommen, um die Frage nach einem Musterprozess weiter zu kl&auml;ren. Dies insbesondere vor dem Hintergrund, dass in einem &auml;hnlichen Verfahren gegen die insolvente Thormann Capital GmbH ein Erfolg f&uuml;r die Insolvenzgl&auml;ubiger vor dem Oberlandesgericht M&uuml;nchen erzielt werden konnte.
 
 Wir werden weiter berichten, sobald hierzu neue Informationen vorliegen.
