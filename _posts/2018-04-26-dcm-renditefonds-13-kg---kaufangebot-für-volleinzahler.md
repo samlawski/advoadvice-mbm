@@ -49,5 +49,3 @@ Vor allem sollten Sie die bisher erhaltenen Kontoausz&uuml;ge der Gesellschaft b
 &nbsp;
 
 &nbsp;
-
-&nbsp;
