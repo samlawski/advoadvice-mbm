@@ -47,5 +47,3 @@ Unser Rat lautet daher: Lassen Sie Ihre konkrete rechtliche Situation durch eine
 Vor allem sollten Sie die bisher erhaltenen Kontoausz&uuml;ge der Gesellschaft ber&uuml;cksichtigen, um hier absch&auml;tzen zu k&ouml;nnen, was Ihre Beteiligung heute noch f&uuml;r einen Wert hat.
 
 &nbsp;
-
-&nbsp;
