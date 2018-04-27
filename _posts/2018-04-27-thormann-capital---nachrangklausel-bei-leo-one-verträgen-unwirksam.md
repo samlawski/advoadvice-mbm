@@ -43,6 +43,6 @@ Die Entscheidung ist rechtskr&auml;fig, da das OLG M&uuml;nchen die Revision nic
 
 ### Insolvenzanmeldung nachtr&auml;glich m&ouml;glich
 
-Anleger der Thormann Capital, die Gelder bei der Gesellschaft zu einem Vertrag vom Typ GreenUp angelegt haben, sollten daher, falls noch nicht geschehen, ihre Forderung zur Insolvenztabelle beim Insolvenzverwalter anmelden. Es kann sein, dass dieser die Anleger auch noch einmal anschreiben und z
+Anleger der Thormann Capital, die Gelder bei der Gesellschaft zu einem Vertrag vom Typ GreenUp angelegt haben, sollten daher, falls noch nicht geschehen, ihre Forderung zur Insolvenztabelle beim Insolvenzverwalter anmelden. Es kann sein, dass dieser die Anleger auch noch einmal anschreiben und zur Forderungsanmeldung auffordern wird.
 
 &nbsp;
