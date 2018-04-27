@@ -37,6 +37,8 @@ Der durch AdvoAdvice vertretene Insolvenzgl&auml;ubiger wird nun seine Forderung
 
 Faktisch wurde somit also eine Frage von Zahlung aus der Insolvenzmasse oder Totalausfall zu Gunsten der Thormann Anleger mit dem Vertragstyp GreenUp entschieden.
 
+F&uuml;r Anleger von anderen Vertragsvarianten, welche es ebenfalls bei der Thormann Capital GmbH (ehemals Leo One) gab, bleibt abzuwarten, wie die Gericht und ggf. der Insolvenzverwalter mit der nunmehr vorliegenden Entscheidung umgehen werden.
+
 ### Entscheidung rechtskr&auml;ftig
 
 Die Entscheidung ist rechtskr&auml;fig, da das OLG M&uuml;nchen die Revision nicht zugelassen und den Streitwert auf 50% der Insolvenzforderung, somit 9.500 Euro festgesetzt hat.
@@ -44,5 +46,7 @@ Die Entscheidung ist rechtskr&auml;fig, da das OLG M&uuml;nchen die Revision nic
 ### Insolvenzanmeldung nachtr&auml;glich m&ouml;glich
 
 Anleger der Thormann Capital, die Gelder bei der Gesellschaft zu einem Vertrag vom Typ GreenUp angelegt haben, sollten daher, falls noch nicht geschehen, ihre Forderung zur Insolvenztabelle beim Insolvenzverwalter anmelden. Es kann sein, dass dieser die Anleger auch noch einmal anschreiben und zur Forderungsanmeldung auffordern wird.
+
+F&uuml;r die von ihr vertretenen Anleger wird die Kanzlei AdvoAdvice die Forderungen selbstverst&auml;ndlich bei Bedarf nachmelden, so dass hier f&uuml;r Mandanten von AdvoAdvice nichts Weiteres zu unternehmen ist.
 
 &nbsp;
