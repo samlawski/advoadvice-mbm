@@ -533,7 +533,7 @@ var schufaTool = (function(){
       '.schufaTool__category--negativeintrag--1',
       '.schufaTool__category--negativeintrag--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--negativeintrag--3'
+      '.schufaTool__slide--3'
     ],
     score: [
       '.schufaTool__slide--0',
@@ -541,7 +541,7 @@ var schufaTool = (function(){
       '.schufaTool__category--score--1a',
       '.schufaTool__category--score--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--score--3'
+      '.schufaTool__slide--3'
     ],
     fraud: [
       '.schufaTool__slide--0',
@@ -549,14 +549,14 @@ var schufaTool = (function(){
       '.schufaTool__category--fraud--2',
       '.schufaTool__category--fraud--3',
       '.schufaTool__slide--1',
-      '.schufaTool__category--score--6'
+      '.schufaTool__slide--3'
     ],
     veraltet: [
       '.schufaTool__slide--0',
       '.schufaTool__category--veraltet--1',
       '.schufaTool__category--veraltet--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--veraltet--3'
+      '.schufaTool__slide--3'
     ],
     restschuld: [
       '.schufaTool__slide--0',
@@ -567,7 +567,7 @@ var schufaTool = (function(){
       '.schufaTool__category--verzeichnisse--1',
       '.schufaTool__category--verzeichnisse--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--verzeichnisse--4'
+      '.schufaTool__slide--3'
     ]
   }
 
