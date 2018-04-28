@@ -12,7 +12,7 @@ var schufaTool = (function(){
     thisState.category = ''
     thisState.quiz = {}
     thisState.auswertung = {}
-    thisState.formContact = {}
+    thisState.formContact = []
     thisState.$app = $('.schufaTool')
     thisState.$slides = [$('.schufaTool__slide--0')]
     thisState.$removedSlides = []
@@ -74,11 +74,11 @@ var schufaTool = (function(){
 
   var formPresent = () => thisState.$app.find('form').length > 0
   var finalSlide = () => thisState.progress >= (thisState.$slides.length - 1)
-  var questionAnswer = (frage, antwort) => {
+  var questionAnswerString = (frage) => {
     let questionObject = thisState.quiz[thisState.category].find(obj => obj.frage == frage)
-    if(typeof questionObject == 'undefined') return false
-    return questionObject.antwort == antwort
+    return (typeof questionObject == 'undefined') ? false : questionObject.antwort
   }
+  var questionAnswer = (frage, antwort) => questionAnswerString(frage) == antwort
 
   var copyCurrentSlideToState = function(){
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
@@ -141,8 +141,19 @@ var schufaTool = (function(){
     if(isContactForm){
       thisState.formContact = serializedObjectFromForm()
     }else{
-      thisState.quiz[thisState.category] = serializedObjectFromForm()
+      if(typeof thisState.quiz[thisState.category] == 'undefined'){
+        thisState.quiz[thisState.category] = serializedObjectFromForm()
+      }else{
+        addOrReplace(thisState.quiz[thisState.category], serializedObjectFromForm())
+      }
     }
+  }
+
+  var addOrReplace = function(originalArray, newArray){
+    newArray.map(newObj => {
+      var indexOfQuestion = originalArray.map(obj => obj.frage).indexOf(newObj.frage)
+      return (indexOfQuestion < 0) ? originalArray.push(newObj) : originalArray.splice(indexOfQuestion, 1, newObj)
+    })
   }
 
   var serializedObjectFromForm = () => {
@@ -156,8 +167,16 @@ var schufaTool = (function(){
 
   // ***** Submit *****
   const submit = () => {
-    var stringOfContactState = thisState.formContact.map(obj => `${obj.frage}: ${obj.antwort} |\n`).join('')
-    var stringOfQuizState = Object.values(thisState.quiz).map(quiz => quiz.map(obj => `${obj.frage}: ${obj.antwort} |\n`).join('') ).join('')
+    var stringOfContactState = thisState.formContact
+      .filter(obj => obj.antwort.length > 0)
+      .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+      .join('')
+    var stringOfQuizState = Object.values(thisState.quiz)
+      .map(quiz => {
+        return quiz.filter(obj => obj.antwort.length > 0)
+          .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+          .join('')
+      }).join('')
     var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
 
     $.post('https://mailthis.to/info@advoadvice.de', {
@@ -260,12 +279,26 @@ var schufaTool = (function(){
       }
     },
     score: {
+      '1': {
+        beforeExit: () => {
+          if(thisState.quiz[thisState.category][0].antwort == 'Nein' &&
+            thisState.$slides[2].hasClass('schufaTool__category--score--1a')){
+            // Remove the follow up questions slide
+            thisState.$removedSlides = thisState.$slides.splice(2, 1)
+          }else if(thisState.quiz[thisState.category][0].antwort == 'Ja' &&
+            !thisState.$slides[2].hasClass('schufaTool__category--score--1a')){
+            // Add missing slide
+            thisState.$slides.splice(2, 0, ...thisState.$removedSlides)
+            thisState.$removedSlides = []
+          }
+        }
+      },
       '2': {
         afterRender: () => {
           try {
             thisState.$app.find('.schufaTool__auskunft').hide()
 
-            switch(thisState.quiz[thisState.category][2].antwort){
+            switch(questionAnswerString("Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?")){
               case '>95%':
                 thisState.$app.find('.schufaTool__score__auskunft--a').show()
                 break;
@@ -285,7 +318,9 @@ var schufaTool = (function(){
         },
         beforeExit: () => {
           // Remove rest of the game for the first answer
-          if(thisState.quiz[thisState.category][2].antwort == '>95%'){
+          if(thisState.$app.find('.schufaTool__category--score--2') &&
+            thisState.quiz[thisState.category][2].antwort == '>95%' &&
+            thisState.quiz[thisState.category][0].antwort == 'Nein'){
             // Remove final slides
             thisState.$slides.splice(3, 2)
             // Add placeholder slide at end
@@ -295,10 +330,55 @@ var schufaTool = (function(){
       },
       '3': {
         afterRender: () => {
-          $('.schufaTool__progress--next').text('Abschicken')
+          // If this is auswertungsslide
+          try {
+            thisState.$app.find('.schufaTool__auskunft').hide()
+
+            switch(questionAnswerString("Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?")){
+              case '>95%':
+                thisState.$app.find('.schufaTool__score__auskunft--a').show()
+                break;
+              case '90%-95%':
+                thisState.$app.find('.schufaTool__score__auskunft--b').show()
+                break;
+              case '80%-90%':
+                thisState.$app.find('.schufaTool__score__auskunft--c').show()
+                break;
+              case '<80%':
+                thisState.$app.find('.schufaTool__score__auskunft--d').show()
+                break;
+            }
+          }catch(e){
+            // console.log(e)
+          }
+          // If this is contact slide
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0){
+            $('.schufaTool__progress--next').text('Abschicken')
+          }
         },
         beforeExit: () => {
-          submit()
+          // In case this is not yet contact but just auswertungsslide
+          if(thisState.$app.find('.schufaTool__category--score--2') &&
+            thisState.quiz[thisState.category][2].antwort == '>95%' &&
+            thisState.quiz[thisState.category][0].antwort == 'Nein'){
+            // Remove final slides
+            thisState.$slides.splice(3, 2)
+            // Add placeholder slide at end
+            thisState.$slides.push($('.schufaTool__templates .schufaTool__slide--2').clone())
+          }
+          // Contact submit
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      },
+      '4': {
+        afterRender: () => {
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0){
+            $('.schufaTool__progress--next').text('Abschicken')
+          }
+        },
+        beforeExit: () => {
+          if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       }
@@ -453,14 +533,15 @@ var schufaTool = (function(){
       '.schufaTool__category--negativeintrag--1',
       '.schufaTool__category--negativeintrag--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--negativeintrag--3'
+      '.schufaTool__slide--3'
     ],
     score: [
       '.schufaTool__slide--0',
       '.schufaTool__category--score--1',
+      '.schufaTool__category--score--1a',
       '.schufaTool__category--score--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--score--3'
+      '.schufaTool__slide--3'
     ],
     fraud: [
       '.schufaTool__slide--0',
@@ -468,14 +549,14 @@ var schufaTool = (function(){
       '.schufaTool__category--fraud--2',
       '.schufaTool__category--fraud--3',
       '.schufaTool__slide--1',
-      '.schufaTool__category--score--6'
+      '.schufaTool__slide--3'
     ],
     veraltet: [
       '.schufaTool__slide--0',
       '.schufaTool__category--veraltet--1',
       '.schufaTool__category--veraltet--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--veraltet--3'
+      '.schufaTool__slide--3'
     ],
     restschuld: [
       '.schufaTool__slide--0',
@@ -486,7 +567,7 @@ var schufaTool = (function(){
       '.schufaTool__category--verzeichnisse--1',
       '.schufaTool__category--verzeichnisse--2',
       '.schufaTool__slide--1',
-      '.schufaTool__category--verzeichnisse--4'
+      '.schufaTool__slide--3'
     ]
   }
 
