@@ -37,6 +37,8 @@ Bereits das erstinstanzliche t&auml;tige Landgericht Mosbach verurteile daher de
 
 Das Oberlandesgericht Karlsruhe best&auml;tigte, dass es sich bei dem Gesch&auml;ftsmodell der SAM AG um ein Einlagengesch&auml;ft nach &sect; 1 Abs. 1 Satz 2 Nr. 1 KWG handeln w&uuml;rde. Eine hierzu vertretene Gegenansicht des 26. Zivilsenats des Berliner Kammergerichts sa&szlig; das OLG Karlsruhe als nicht &uuml;berzeugend an, da diese die wirtschaftliche Betrachtung des Gesch&auml;fts ausblenden w&uuml;rde.&nbsp;
 
+![](/uploads/courts-2962346-1280.jpg)
+
 Ein Berufen des Beklagten auf einen unvermeidbaren Verbotsirrtum sah das OLG Karlsruhe hier ebenfalls nicht f&uuml;r hinreichend begr&uuml;ndet an, da das hier zur Entscheidung vorgelegte Vertragsmodell niemals als genehmigungsfrei von der BaFin angesehen worden war.
 
 ### Urteil rechtskr&auml;ftig
