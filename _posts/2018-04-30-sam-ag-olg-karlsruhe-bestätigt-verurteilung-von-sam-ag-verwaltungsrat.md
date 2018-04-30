@@ -51,9 +51,8 @@ Ob eine Zwangsvollstreckung gegen den Beklagten und in U-Haft befindlichen Micha
 
 Zudem wird in den Medien berichtet, dass der Strafprozess in Sachen SAM AG begonnen hat.&nbsp; Weiteref&uuml;hrende Links hierzu finden Sie hier:
 
-[S&uuml;ddeutsche Zeitung vom 20.04.2018](http://www.sueddeutsche.de/muenchen/prozess-vier-angeklagte-sollen-tausende-privatanleger-geprellt-haben-1.3951788)
-
-[Fonds professionell vom 24.04.2018](http://www.fondsprofessionell.de/news/recht/headline/millionenbetrug-prozess-gegen-sam-finanz-gestartet-143059/)
+* [S&uuml;ddeutsche Zeitung vom 20.04.2018](http://www.sueddeutsche.de/muenchen/prozess-vier-angeklagte-sollen-tausende-privatanleger-geprellt-haben-1.3951788)
+* [Fonds professionell vom 24.04.2018](http://www.fondsprofessionell.de/news/recht/headline/millionenbetrug-prozess-gegen-sam-finanz-gestartet-143059/)
 
 Wir werden auch hierzu ggf. weiter berichten.
 
