@@ -40,7 +40,7 @@ Ein Kaufvertrag mit Feldern um Eintragen von Kontodaten und selbst errechnetem K
 
 Viele Anleger fragen daher jetzt bei ihrem Rechtsanwalt an, ob sie die Fondsbeteiligung verkaufen oder halten sollen. Hierzu muss jedoch auf den jeweiligen Einzelfall geachtet werden.
 
-![NJW-Sammlung](https://app.cloudcannon.com/sites/24777/site_files/raw/?path=uploads/img-8566-3.jpg&amp;timestamp=1524834009530)
+![AdvoAdvice Rechtsanwälte mbB](https://app.cloudcannon.com/sites/24777/site_files/raw/?path=uploads/advoadvice-01-59-von-80-1.jpg&amp;timestamp=1525079449710)
 
 Unser Rat lautet daher: Lassen Sie Ihre konkrete rechtliche Situation durch einen Fachanwalt im Bank- und Kapitalmarktrecht pr&uuml;fen. Dies kann Ihnen bei einem h&ouml;heren Verkaufspreis, schon ab 10.000 Euro Anlagesumme, klar machen, wo die Vor- und Nachteile eines Verkaufs liegen.
 
