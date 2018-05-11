@@ -43,7 +43,7 @@ Die Anleger, die diese Argumentation nicht hinnehmen und nicht auf eine Auszahlu
 
 Am 14.02.2018 wurde &uuml;ber Anspr&uuml;che betroffener Anleger gegen die Leasetrend AG in H&ouml;he von 5.161,82 Euro (Klage vom 14.02.2018), 6.649,79 Euro (Klage vom 14.02.2018), 6.323,82 Euro (Klage vom 09.02.2018) sowie 5.950,53 Euro (Klage vom 01.02.2018) berichtet.
 
-![](/uploads/lg-münchen-i.jpg)
+![Landgericht München I](/uploads/lg-münchen-i.jpg "Landgericht München I")
 
 Diese F&auml;lle konnten in der Zwischenzeit durch Zahlung der LeaseTrend AG an die Anleger abgeschlossen werden, wie auch noch weitere Anlegerklagen gegen die Leasetrend AG in H&ouml;he von 8.502,12 Euro (Klage vom 20.11.2017) und 6.208,75 Euro (Klage vom 28.02.2018).
 
