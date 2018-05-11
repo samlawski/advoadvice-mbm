@@ -17,8 +17,6 @@ Die Experten von AdvoAdvice sind seit mehr als 10 Jahren auf dem Gebiet von Schu
 
 Dr. Tintemann und sein Team haben insgesamt mehr als [700 F&auml;lle](){: .cc-active} zum Thema Schufa-Recht und Datenschutz bearbeitet. Nicht eingerechnet sind hierbei zahlreiche Telefonate im Rahmen von Erstanfragen. Es wurden hierbei mehr als [200 Klagen](){: .cc-active}gegen Banken, Inkassofirmen, Telekommunikations-Anbieter und andere eintragende Stellen sowie auch gegen Auskunfteien eingereicht.
 
-![](/uploads/advoadvice-01-47-von-80.jpg)
-
 ### **Kompetenz**
 
 Dr. Tintemann ist Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht und hat im Rahmen seiner Promotion zum Thema Anleger- und Verbraucherschutz geforscht. Zudem hielt er bei seinem Rigorosum (also der Verteidigung seiner Dissertation) einen wissenschaftlichen Vortrag zum Thema „L&ouml;schung von Doppeleintr&auml;gen“.
@@ -39,13 +37,13 @@ Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 
 
 * [Scorewert verbessern](/schufa-beratung/)&nbsp;
 
-* [Restschuldbefreiung eingetragen ](__notset__)
+* Restschuldbefreiung eingetragen
 
-* [Eintrag in Schuldnerverzeichnis ](__notset__)
+* Eintrag ins Schuldnerverzeichnis
 
-* [Namensverwechslung](__notset__)
+* Namensverwechslung
 
-* [Veraltete Daten l&ouml;schen](__notset__)
+* Veraltete Daten l&ouml;schen
 
 <div><div><div id="_com_2" uage="JavaScript"><a name="_msocom_2"></a><h3>Ein &Uuml;berblick</h3><p>Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:</p></div></div></div>
 
