@@ -36,6 +36,8 @@ Nach Ansicht das BaFin sammelte die BBI Beteiligungsgesellschaft Kommanditkapita
 
 Damit hat die BBI Beteiligungsgesellschaft nach Ansicht der BaFin das Investmentgesch&auml;ft betrieben, ohne &uuml;ber die hierzu erforderliche Erlaubnis nach dem Kapitalanlagegesetzbuch (KAGB) zu verf&uuml;gen. Aus diesem Grund wurde der Gesellschaft aufgegeben, dass Investmentgesch&auml;ft einzustellen und dieses durch die vollst&auml;ndige Auszahlung des den Anlegern zustehenden Buchwertes des angenommenen Kommanditkapitals unverz&uuml;glich abzuwickeln.
 
+![AdvoAdvice Rechtsanwälte](/uploads/advoadvice-02-42-von-49.jpg "AdvoAdvice Rechtsanwälte")
+
 Nach Angaben der BaFin ist der Bescheid vom 30.04.2018 von Gesetzes wegen sofort vollziehbar, aber noch nicht bestandskr&auml;ftig.
 
 ### Schadensersatzanspr&uuml;che jetzt pr&uuml;fen lassen
