@@ -37,13 +37,13 @@ Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 
 
 * [Scorewert verbessern](/schufa-beratung/)&nbsp;
 
-* Restschuldbefreiung eingetragen
+* [Restschuldbefreiung eingetragen](/schufa-beratung/)
 
-* Eintrag ins Schuldnerverzeichnis
+* [Eintrag ins Schuldnerverzeichnis](/schufa-beratung/)
 
-* Namensverwechslung
+* [Namensverwechslung](/schufa-beratung/)
 
-* Veraltete Daten l&ouml;schen
+* [Veraltete Daten l&ouml;schen](/schufa-beratung/)
 
 <div><div><div id="_com_2" uage="JavaScript"><a name="_msocom_2"></a><h3>Ein &Uuml;berblick</h3><p>Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:</p></div></div></div>
 
@@ -210,4 +210,4 @@ In &sect; 28 b BDSG ist nun auch das sog. Scoringverfahren gesetzlich eindeutig 
 
 Das Scoring muss daher auch einer rechtlichen &Uuml;berpr&uuml;fung unterzogen werden k&ouml;nnen, auch wenn der Bundesgerichtshof meint, dass die Schufa Holding AG ihre Datenformel nicht offen legen muss.
 
-##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--base32-8nq68hkjc5kputbeeg-base32-->
+##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--base32-c9gq6t9k68pkgvkh6rw6guvaccuppw3nehh6atb75nh62wv56ct0-base32-->
