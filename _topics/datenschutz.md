@@ -9,14 +9,13 @@ cta_link_text: Direkt zum interaktiven Vorab-Check
 cta_link: /schufa-beratung
 ---
 
-
 ## **<u>Setzen Sie auf Erfahrung, Kompetenz und Erfolg</u>**
 
 ### **Erfahrung**
 
 Die Experten von AdvoAdvice sind seit mehr als 10 Jahren auf dem Gebiet von Schufa-Recht und Datenschutz t&auml;tig.
 
-Dr. Tintemann und sein Team haben insgesamt mehr als [700 F&auml;lle](){: .cc-active}zum Thema Schufa-Recht und Datenschutz bearbeitet. Nicht eingerechnet sind hierbei zahlreiche Telefonate im Rahmen von Erstanfragen. Es wurden hierbei mehr als [200 Klagen](){: .cc-active}gegen Banken, Inkassofirmen, Telekommunikations-Anbieter und andere eintragende Stellen sowie auch gegen Auskunfteien eingereicht.
+Dr. Tintemann und sein Team haben insgesamt mehr als [700 F&auml;lle](){: .cc-active} zum Thema Schufa-Recht und Datenschutz bearbeitet. Nicht eingerechnet sind hierbei zahlreiche Telefonate im Rahmen von Erstanfragen. Es wurden hierbei mehr als [200 Klagen](){: .cc-active}gegen Banken, Inkassofirmen, Telekommunikations-Anbieter und andere eintragende Stellen sowie auch gegen Auskunfteien eingereicht.
 
 ### **Kompetenz**
 
@@ -34,17 +33,17 @@ Dr. Tintemann war zudem mehrfach als Experte f&uuml;r Verbraucherthemen bei Sat 
 
 ### Ihr Problem
 
-* Negativeintrag l&ouml;schen
+* [Negativeintrag l&ouml;schen](/schufa-beratung/)
 
-* Scorewert verbessern &nbsp; &nbsp; &nbsp;
+* [Scorewert verbessern](/schufa-beratung/)&nbsp;
 
-* Restschuldbefreiung eingetragen &nbsp; &nbsp;&nbsp; &nbsp;
+* [Restschuldbefreiung eingetragen](/schufa-beratung/)
 
-* Eintrag in Schuldnerverzeichnis &nbsp; &nbsp;
+* [Eintrag ins Schuldnerverzeichnis](/schufa-beratung/)
 
-* Namensverwechslung
+* [Namensverwechslung](/schufa-beratung/)
 
-* Veraltete Daten l&ouml;schen
+* [Veraltete Daten l&ouml;schen](/schufa-beratung/)
 
 <div><div><div id="_com_2" uage="JavaScript"><a name="_msocom_2"></a><h3>Ein &Uuml;berblick</h3><p>Das Datenschutzrecht wird im Rahmen von modernen Massenkommunikationsmittel immer wichtiger, aber leider auch immer komplizierter. Unsere Hauptthemen auf diesem Gebiet sind:</p></div></div></div>
 
@@ -108,6 +107,8 @@ In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung abzuschlie&szlig
 <font> </font>
 
 Nach den gesetzlichen Grundlagen (&sect; 34 BDSG) hat jeder das Recht, einmal pro Jahr eine <u>kostenlose</u> Auskunft bez&uuml;glich seiner bei der Schufa Holding AG gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der Seite der Schufa Holding AG [hier](https://www.meineschufa.de/download.php?file=SCHUFA_Infoblatt-DU-Antrag-deutsch.pdf&amp;token=50683).
+
+![Datenübersicht Schufa - Foto Pixabay](/uploads/data-858360-640-5.jpg "Datenübersicht nach § 34 BDSG bestellen")
 
 Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa Holding AG, mit welchen man seine Daten jederzeit Online einsehen kann. Auch in ausgesuchten [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man eine Schufa-Auskunft gegen eine Geb&uuml;hr von 29,95 Euro (Stand 06.07.2017) erhalten.
 
@@ -209,4 +210,4 @@ In &sect; 28 b BDSG ist nun auch das sog. Scoringverfahren gesetzlich eindeutig 
 
 Das Scoring muss daher auch einer rechtlichen &Uuml;berpr&uuml;fung unterzogen werden k&ouml;nnen, auch wenn der Bundesgerichtshof meint, dass die Schufa Holding AG ihre Datenformel nicht offen legen muss.
 
-##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--EndFragment-->
+##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--base32-c9gq6t9k68pkgvkh6rw6guvaccuppw3nehh6atb75nh62wv56ct0-base32-->
