@@ -178,13 +178,13 @@ var schufaTool = (function(){
     // Add contact values to form
     thisState.formContact
       .filter(obj => obj.antwort.length > 0)
-      .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort))
+      .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
     // Add quiz results to form
     Object.values(thisState.quiz)
       .map(quiz => {
         return quiz
           .filter(obj => obj.antwort.length > 0)
-          .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort))
+          .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
       })
 
     $finalForm.submit()
