@@ -25,11 +25,10 @@ var schufaTool = (function(){
 
   var onFinalFormSubmit = function(e){
     e.preventDefault()
-
     var $form = $(this)
-    console.log(e, this, $form)
-    $.post($form.attr("action"), $form.serialize()).then(function() {
-      console.log('Form submitted!')
+    console.log($form, $form.attr("action"), $form.serialize())
+    $.post($form.attr("action"), $form.serialize()).then(function(r) {
+      console.log('Form submitted!', r)
     })
   }
 
