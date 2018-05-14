@@ -19,7 +19,13 @@ var schufaTool = (function(){
   }
 
   var initialBindFunctions = function(){
+    $('.schufaTool__finalForm').submit(onFinalFormSubmit)
     $('.schufaTool__progressBtn').click(onProgressClick)
+  }
+
+  var onFinalFormSubmit = function(e){
+    e.preventDefault()
+    console.log('Form submitted!')
   }
 
   var onProgressClick = function(){
@@ -167,27 +173,44 @@ var schufaTool = (function(){
 
   // ***** Submit *****
   const submit = () => {
-    var stringOfContactState = thisState.formContact
+    var answerTemplate = (frage, antwort) => `<input type='hidden' name='${frage}' value='${antwort}' />`
+    var $finalForm = $('.schufaTool__finalForm')
+    // Add contact values to form
+    thisState.formContact
       .filter(obj => obj.antwort.length > 0)
-      .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
-      .join('')
-    var stringOfQuizState = Object.values(thisState.quiz)
+      .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort))
+    // Add quiz results to form
+    Object.values(thisState.quiz)
       .map(quiz => {
-        return quiz.filter(obj => obj.antwort.length > 0)
-          .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
-          .join('')
-      }).join('')
-    var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
+        return quiz
+          .filter(obj => obj.antwort.length > 0)
+          .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort))
+      })
 
-    $.post('https://mailthis.to/info@advoadvice.de', {
-      _subject: 'Schufa Vorab-Check Formular ausgefüllt',
-      _after: 'http://advoadvice.de/danke/vorab-check',
-      email: thisState.formContact[4].antwort,
-      message: messageString
-    }, function(response){
-      console.log(response)
-      location.href = 'https://mailthis.to/confirm'
-    })
+    $finalForm.submit()
+
+    // MailthisTo
+    // var stringOfContactState = thisState.formContact
+    //   .filter(obj => obj.antwort.length > 0)
+    //   .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+    //   .join('')
+    // var stringOfQuizState = Object.values(thisState.quiz)
+    //   .map(quiz => {
+    //     return quiz.filter(obj => obj.antwort.length > 0)
+    //       .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+    //       .join('')
+    //   }).join('')
+    // var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
+    //
+    // $.post('https://mailthis.to/info@advoadvice.de', {
+    //   _subject: 'Schufa Vorab-Check Formular ausgefüllt',
+    //   _after: 'http://advoadvice.de/danke/vorab-check',
+    //   email: thisState.formContact[4].antwort,
+    //   message: messageString
+    // }, function(response){
+    //   console.log(response)
+    //   location.href = 'https://mailthis.to/confirm'
+    // })
 
     // CloudCannon:
     // var stringOfContactState = thisState.formContact.map(obj => `${encodeURIComponent(obj.frage)}=${encodeURIComponent(obj.antwort)}` ).join('&')
