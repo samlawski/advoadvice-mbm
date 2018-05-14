@@ -19,18 +19,18 @@ var schufaTool = (function(){
   }
 
   var initialBindFunctions = function(){
-    $('.schufaTool__finalForm').submit(onFinalFormSubmit)
+    // $('.schufaTool__finalForm').submit(onFinalFormSubmit)
     $('.schufaTool__progressBtn').click(onProgressClick)
   }
 
-  var onFinalFormSubmit = function(e){
-    e.preventDefault()
-    var $form = $(this)
-    console.log($form, $form.attr("action"), $form.serialize())
-    $.post($form.attr("action"), $form.serialize()).then(function(r) {
-      console.log('Form submitted!', r)
-    })
-  }
+  // var onFinalFormSubmit = function(e){
+  //   e.preventDefault()
+  //   var $form = $(this)
+  //   console.log($form, $form.attr("action"), $form.serialize())
+  //   $.post($form.attr("action"), $form.serialize()).then(function(r) {
+  //     console.log('Form submitted!', r)
+  //   })
+  // }
 
   var onProgressClick = function(){
     if($(this).hasClass('disabled')) return
@@ -177,21 +177,44 @@ var schufaTool = (function(){
 
   // ***** Submit *****
   const submit = () => {
-    var answerTemplate = (frage, antwort) => `<input type='hidden' name='${frage}' value='${antwort}' />`
-    var $finalForm = $('.schufaTool__finalForm')
-    // Add contact values to form
-    thisState.formContact
+    var stringOfContactState = thisState.formContact
       .filter(obj => obj.antwort.length > 0)
-      .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
-    // Add quiz results to form
-    Object.values(thisState.quiz)
+      .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+      .join('')
+    var stringOfQuizState = Object.values(thisState.quiz)
       .map(quiz => {
-        return quiz
-          .filter(obj => obj.antwort.length > 0)
-          .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
-      })
+        return quiz.filter(obj => obj.antwort.length > 0)
+          .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+          .join('')
+      }).join('')
+    var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
+    var $finalForm = $('.schufaTool__finalForm')
 
-    $finalForm.submit()
+    $finalForm.find('[name="antworten"]').val(messageString)
+    console.log($finalForm, $finalForm.attr("action"), $finalForm.serialize())
+
+    $.post($finalForm.attr("action"), $finalForm.serialize()).then(function(r) {
+      console.log('Form submitted!', r)
+    })
+
+
+    // var answerTemplate = (frage, antwort) => `<input type='hidden' name='${frage}' value='${antwort}' />`
+    // var $finalForm = $('.schufaTool__finalForm')
+    // // Add contact values to form
+    // thisState.formContact
+    //   .filter(obj => obj.antwort.length > 0)
+    //   .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
+    // // Add quiz results to form
+    // Object.values(thisState.quiz)
+    //   .map(quiz => {
+    //     return quiz
+    //       .filter(obj => obj.antwort.length > 0)
+    //       .map(obj => $finalForm.append(answerTemplate(obj.frage, obj.antwort)))
+    //   })
+    //
+    // $finalForm.submit()
+
+    // form-name=schufa-beratung&
 
     // MailthisTo
     // var stringOfContactState = thisState.formContact
