@@ -1,12 +1,4 @@
-<script>
-    function enableSubmit(){
-      $(".send-form").removeClass("hidden");
-    };
-    function disableSubmit(){
-      $(".send-form").addClass("hidden");
-    };
-  </script>
-<form method="post" action="/danke">
+<form name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify>
   <div class="form-group">
     <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="Name" value="" required>
   </div>
@@ -19,9 +11,5 @@
   <div class="form-group">
     <textarea class="form-control" placeholder="Ihre Nachricht*" rows="4" name="Nachricht" required></textarea>
   </div>
-  <input type="hidden" name="_subject" value="Nachricht vom Kontaktformular">
-  <input type="hidden" name="_to" value="info@advoadvice.de">
-  <input type="text" name="_gotcha" style="display: none;">
-  <div class="g-recaptcha" data-sitekey="6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn" data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
   <input type="submit" class="send-form btn btn-default hidden" value="Abschicken">
 </form>
