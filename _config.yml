@@ -13,6 +13,9 @@ description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+include:
+  - _redirects
+
 collections:
   team_members:
     output: true
