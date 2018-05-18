@@ -25,7 +25,7 @@ team_member: dr-sven-tintemann
 
 Au&szlig;ergerichtlicher Erfolg im Kampf gegen Schufa Eintr&auml;ge durch AdvoAdvice. Bereits in k&uuml;rzer Zeit konnte ein Eintrag der Bank 11 GmbH bei der Schufa Holding AG gel&ouml;scht werden.
 
-![](/uploads/bank-2907728-640-1.jpg)
+![Bank - Bild von Pixabay](/uploads/bank-2907728-640-1.jpg "Bankgebäude - Außenansicht")
 
 Der betroffene Bankkunde hatte sich an AdvoAdvice gewandt, da er einen Negativeintrag der Bank 11 GmbH erhalten hatte. Diese hatte ein Darlehen am 19.10.2015 gek&uuml;ndigt und die Darlehensk&uuml;ndigung bei der Schufa als Negativmerkmal eingemeldet.
 
