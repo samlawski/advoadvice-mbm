@@ -16,7 +16,7 @@ var cookieBanner = (function(){
         font-size: 0.7rem;
         background-color: #ddd;
         color: #444;
-        max-width: 200px;
+        max-width: 240px;
         padding: 16px;
         position: fixed;
         bottom: 0;
@@ -24,9 +24,8 @@ var cookieBanner = (function(){
 
       var banner_text = document.createElement('p');
       banner_text.innerHTML = `
-        Diese Webseite benutzt Cookies, um die Nutzererfahrung zu verbessern.&nbsp;
-        <br />
-        <a href="/impressum">Mehr erfahren</a>`;
+        Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies und Analysetools. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zur Nutzung von Cookies und Analysetools erhalten Sie in unserer <a href="/datenschutz">Datenschutzerklärung</a>.
+        `;
       banner_wrapper.appendChild(banner_text);
 
       var banner_link = document.createElement('a');
