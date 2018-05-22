@@ -4,8 +4,10 @@ date:
 seo_beschreibung:
 layout: post
 feature_bild_path:
-tags: []
-topics: []
+tags:
+topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
