@@ -119,6 +119,8 @@ var schufaTool = (function(){
           // For each form group check if it contains a required input field
           if($(this).find('[type="radio"][required]').length > 0){
             return $(this).find('[type="radio"][required]').is(':checked')
+          }else if($(this).find('[type="checkbox"][required]').length > 0){
+            return $(this).find('[type="checkbox"][required]').is(':checked')
           }else if($(this).find('input[required]').length > 0){
             return $(this).find('input[required]').val().trim().length > 0
           }else{
