@@ -79,35 +79,35 @@ permalink: /schufa-beratung/
           <form id="schufaToolKontakt" method="post" action="/danke" class="schufaTool__form schufaTool__form--kontakt">
             <div class="form-group">
               <label for="name">
-                Name, Vorname
+                Name, Vorname*
                 <input type="text" name="name" value="" class="form-control" placeholder="Antwort..." required>
               </label>
             </div>
             <!-- Don't change the order without updating the submit() JS -->
             <div class="form-group">
               <label for="strasse">
-                Straße und Hausnummer
+                Straße und Hausnummer*
                 <input type="text" name="strasse" value="" class="form-control" placeholder="Antwort..." required>
               </label>
             </div>
             <!-- Don't change the order without updating the submit() JS -->
             <div class="form-group">
               <label for="plz">
-                PLZ
+                PLZ*
                 <input type="number" name="plz" value="" class="form-control" placeholder="Antwort..." required>
               </label>
             </div>
             <!-- Don't change the order without updating the submit() JS -->
             <div class="form-group">
               <label for="ort">
-                Ort
+                Ort*
                 <input type="text" name="ort" value="" class="form-control" placeholder="Antwort..." required>
               </label>
             </div>
             <!-- Don't change the order without updating the submit() JS -->
             <div class="form-group">
               <label for="email">
-                Email-Adresse
+                Email-Adresse*
                 <input type="email" name="email" value="" class="form-control" placeholder="Antwort..." required>
               </label>
             </div>
@@ -167,6 +167,13 @@ permalink: /schufa-beratung/
               <label for="sachverhalt">
                 Sachverhaltsschilderung
                 <textarea name="sachverhalt" rows="8" cols="80" class="form-control" placeholder="Antwort..."></textarea>
+              </label>
+            </div>
+
+            <div class="form-group">
+              <label for="gdpr_check">
+                <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
+                &nbsp;&nbsp;Mit der Nutzung dieses Formulars, erklären Sie sich mit der Speicherung und Verarbeitung Ihrerer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleiter netlify einverstanden.*
               </label>
             </div>
           </form>
