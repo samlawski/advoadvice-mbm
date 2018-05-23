@@ -1,5 +1,5 @@
 ---
-title: 'Captura GmbH: Klage gegen Geschäftsführer und Rechtsanwälte eingereicht'
+title: 'Captura GmbH: Klage gegen Geschäftsführer und Treuhänder eingereicht'
 date:
 seo_beschreibung:
 layout: post
