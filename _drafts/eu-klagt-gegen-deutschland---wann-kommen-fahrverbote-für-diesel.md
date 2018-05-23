@@ -42,6 +42,8 @@ Bundesumweltministerin Svenja Schulze soll "so schnell wie m&ouml;glich" technis
 
 Der Bund f&uuml;r Umwelt und Naturschutz (BUND) machte deutlich, die von der EU in Br&uuml;ssel angedachte Klage zeige klar, dass die bislang von der Bundesregierung angek&uuml;ndigten Ma&szlig;nahmen bei weitem nicht ausreichten.
 
+![Diesel tanken](/uploads/refuel-2157211-640-1.jpg "Diesel tanken ist nicht populär")
+
 Die betroffenen St&auml;dte hingegen fordern nunmehr schnelle Klarheit &uuml;ber weitere Abgas-Verbesserungen bei &auml;lteren Diesel-Fahrzeugen.
 
 Es bleibt daher abzuwarten, wie die Bundesregierung mit dem Problem in der Zukunft umgehen will. Eine gesetzliche Verpflichtung zur Nachr&uuml;stung von Fahrzeugen, an denen keine Manipulation im Diesel-Abgasbereich nachweisbar ist, d&uuml;rfte schwierig werden, da die Autoindustrie die seinerzeit geltenden Normen eingehalten hat.
