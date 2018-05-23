@@ -30,6 +30,8 @@ Seit einigen Tage ist klar, die EU will Deutschland wegen der zu hohen Luftversc
 
 Aktuell berichtet das Inforadio in seiner App, dass es in Hamburg bereits ab dem 31.05.2018, also ab Donnerstag kommender Woche, erstmals Fahrverbote f&uuml;r Diesel-Fahrzeuge geben wird.
 
+![Fahrverbote in Hamburg](/uploads/auto-2679743-640-4.jpg "Fahrverbot für Diesel")
+
 Demnach sollen nach Angaben des Inforadio zwei Stra&szlig;enabschnitte in Altona-Nord ab dem 31.05.2018 f&uuml;r bestimmte Diesel-Fahrzeuge gesperrt werden. Betroffen sollen Autos und Lastwagen sein, die nicht die Abgasnorm Euro-6 erf&uuml;llen.
 
 Hamburg ist damit das erste Bundesland, das Fahrverbote wegen schlechter Luft verh&auml;ngt. In Berlin und anderen deutschen Gro&szlig;st&auml;dten k&ouml;nnte es ebenfalls in K&uuml;rze &auml;hnliche Fahrverbote geben, weil auch dort die Stickoxid-Werte an bestimmten Stra&szlig;en immer wieder die Grenzwerte &uuml;berschreiten.
