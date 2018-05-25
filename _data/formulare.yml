@@ -12,7 +12,10 @@
   datei_path: /uploads/auftragsbestätigung.pdf
 - _slug: mandatsbedingungen
   title: Mandatsbedingungen
-  datei_path: /uploads/mandatsbedingungen.pdf
+  datei_path: /uploads/mandatsbedingungen-stand-mai-2018.pdf
+- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
+  title: Hinweise zur Datenverarbeitung
+  datei_path: /uploads/hinweise-zur-datenverarbeitung.pdf
 - _slug: anmeldeformular-wohrl-glaubigergemeinschaft
   title: Fragebogen Alphapool
   datei_path: /uploads/fragebogen-alphapool.pdf
