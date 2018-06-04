@@ -1,5 +1,5 @@
 ---
-title: 'Ich bin Bank: ist doch keine Bank'
+title: 'Ich bin Bank: hat keine Bankerlaubnis'
 date: 2018-06-04 00:00:00
 seo_beschreibung: Ich bin Bank aus Tschechien hat keine deutsche Bankerlaubnis
 layout: post
