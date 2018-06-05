@@ -8,3 +8,7 @@ tags: []
 topics: []
 team_member: dr-sven-tintemann
 ---
+
+BGH, Urteil vom 05.06.2018 - Az. XI ZR 790/16
+
+&nbsp;
