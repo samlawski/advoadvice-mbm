@@ -43,3 +43,5 @@ Die betroffene Bank darf nach der Entscheidung des BGH die entsprechene allgemei
 Bankkunden, die mit ihrer Bank einen solchen Zinscap vereinbart haben, sollten daher durch einen Experten im Bank- und Kapitalmarktrecht pr&uuml;fen lassen, ob sie aufgrund der Unwirksamkeit der entsprechenden Klausel nachtr&auml;glich quasi kostenlos an die Bereitstellung des Zinskorridors f&uuml;r die Vergangenheit gelangen k&ouml;nnen.
 
 &nbsp;
+
+&nbsp;
