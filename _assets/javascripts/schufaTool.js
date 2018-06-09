@@ -533,7 +533,9 @@ var schufaTool = (function(){
     ],
     restschuld: [
       '.schufaTool__slide--0',
-      '.schufaTool__category--restschuld--1'
+      '.schufaTool__category--restschuld--1',
+      '.schufaTool__slide--1',
+      '.schufaTool__slide--3'
     ],
     verzeichnisse: [
       '.schufaTool__slide--0',
