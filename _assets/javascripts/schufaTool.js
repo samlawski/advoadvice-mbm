@@ -1,3 +1,20 @@
+/* README
+How to edit slides:
+In the schufa-beratung.html you define each slide template.
+
+If you need to add or remove slides, you have to add, remove the HTML class
+names of the given slide in the `slideTemplates` constant down below.
+
+Additionally, you have to edit the `slideLogic` constant to make sure, each
+slide's specific JS code is considered.
+
+Available callback methods are `afterRender` and `beforeExit`. You can use
+these callback methods for each slide to define what code is supposed to run
+either after the HTML of the slide is rendered or after either of the progress
+buttons is clicked and just before the next slide is rendered (beforeExit).
+
+*/
+
 var schufaTool = (function(){
   var thisState = {}
 
@@ -464,7 +481,17 @@ var schufaTool = (function(){
         }
       }
     },
-    restschuld: {},
+    restschuld: {
+      '2': {
+        afterRender: () => {
+          $('.schufaTool__progress--next').text('Abschicken')
+        },
+        beforeExit: () => {
+          submit()
+          $('.schufaTool__progress--next').text('Weiter')
+        }
+      }
+    },
     verzeichnisse: {
       '1': {
         beforeExit: () => {
