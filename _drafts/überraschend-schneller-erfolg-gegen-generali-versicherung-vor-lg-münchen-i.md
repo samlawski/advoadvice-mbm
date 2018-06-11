@@ -1,6 +1,6 @@
 ---
 title: Überraschend schneller Erfolg gegen Generali Versicherung vor LG München I
-date: 2018-06-06 00:00:00
+date: 2018-06-11 00:00:00
 seo_beschreibung:
 layout: post
 feature_bild_path:
@@ -12,7 +12,7 @@ team_member: dr-sven-tintemann
 
 &Uuml;berraschungserfolg f&uuml;r die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB vor dem Landgericht M&uuml;nchen I. Dort hatte die Kanzlei aus Berlin f&uuml;r einen ehemaligen SAM AG Anleger Schadensersatzanspr&uuml;che aus abgetretenem Recht eines Rechtsanwalt aus der N&auml;he von Stuttgart gegen dessen Haftpflichtversicherer, die Generali Versicherung AG aus M&uuml;nchen eingeklagt.
 
-![Landgericht München I - Foto Pixabay](/uploads/lg-münchen-i-seitlich.jpg "Landgericht München I")
+![Landgericht München I - Foto Pixabay](/uploads/lg-münchen-i-seitlich-1.jpg "Landgericht München I")
 
 ### Zum Hintergrund der Entscheidung:
 
