@@ -25,7 +25,7 @@ Nach den nunmehr verabschiedeten Regelungen muss eine qualifizierte Einrichtung 
 
 Das Gesetz tritt zum 01.11.2018 in Kraft, damit die verj&auml;hrungshemmende Wirkung der Klage auch noch f&uuml;r gegenw&auml;rtige Anspr&uuml;che greifen kann. Dies d&uuml;rfte vor allem die Betroffenen aus dem [VW-Dieselskandal betreffen](http://www.faz.net/aktuell/wirtschaft/zeitplan-fuer-musterfeststellungsklage-zeitweise-in-gefahr-15638202.html).
 
-### Was sind die Probleme an dem Verfahren?
+### **Was sind die Probleme an dem Verfahren?**
 
 Problematisch ist zun&auml;chst, dass nur wenige Institutionen eine solche Klage einreichen k&ouml;nnen. Dabei handelt es sich haupts&auml;chlich um gro&szlig;e Verbraucherschutzverb&auml;nde (ein Verband muss mindestens 10 Unterverb&auml;nde oder 350 Mitglieder haben und max. 5 Prozent des Budgets d&uuml;rfen von Unternehmen stammen). Kleinere und mittelgro&szlig;e Verb&auml;nde sowie spezialisierte Anwaltskanzleien, welche wom&ouml;glich ebenfalls eine Vielzahl von Betroffenen vertreten, sind von der M&ouml;glichkeit einer Musterfeststellungsklage ausgeschlossen. Zudem sind nach Angaben des [vzbv ](https://www.vzbv.de/pressemitteilung/musterfeststellungsklage-verabschiedet)die Haftungsrisiekn nur unzureichend geregelt, weshalb nicht klar ist, ob alle gro&szlig;en Verb&auml;nde auch tats&auml;chlich vom Klagerecht Gebrauch machen k&ouml;nnen/sollten. Konkret m&uuml;ssen die gesch&auml;digten Verbraucher also einen Verband finden, der eine solche Klage einreichen kann und dies auch m&ouml;chte. Dass sich die Gesch&auml;digten selbst organisieren, ist dagegen nicht m&ouml;glich.
 
@@ -33,6 +33,6 @@ Ein zweites Problem besteht darin, dass es sich um ein sog. "Zweistufiges Verfah
 
 Das Gesetz ist wie oben bereits zitiert, auf F&auml;lle ausgelegt, in welchen sich die Durchsetzung der Anspr&uuml;che im Einzelfall nicht lohnt. Gerade bei schwierigen Verfahren ist fraglich, ob das Musterfeststellungsverfahren &uuml;berhaupt effektiv zur Anwendung kommen kann.
 
-### Fazit
+### **Fazit**
 
 Die Musterfeststellungsklage an sich, ist ein Fortschritt f&uuml;r die Verbraucher in Deutschland. Gleichzeitig ist das Instrument noch kritisch zu betrachten, bestehen doch viele Einrschr&auml;nkungen und Unsicherheiten. Besonders effektiv scheint das Verfahren f&uuml;r kompliziertere F&auml;lle nicht zu sein. Ob den Verbrauchern mit der neuen M&ouml;glichkeit auch tats&auml;chlich effektiv geholfen werden kann, wird sich in der Praxis erst noch zeigen m&uuml;ssen. Dies insbesondere deshalb, weil nur wenige Verb&auml;nde &uuml;berhaupt eine Klage einreichen k&ouml;nnen und andererseits f&uuml;r diese Verb&auml;nde ein Haftungsrisiko besteht, weshalb nicht sicher ist, ob die neuen M&ouml;glichkeiten in gr&ouml;&szlig;eren F&auml;llen auch tats&auml;chlich genutzt werden.
