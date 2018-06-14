@@ -23,7 +23,7 @@ Der Bundestag hat ein Gesetz erlassen, wonach nun eine sog. Musterfeststellungsk
 
 Nach den nunmehr verabschiedeten Regelungen muss eine qualifizierte Einrichtung eine Klage unter Aufarbeitung der F&auml;lle von mindestens 10 Gesch&auml;digten einreichen. Im Anschluss daran k&ouml;nnen sich weitere Betroffene in ein sog. Klageregister eintragen, um die eigenen Rechte in dem "Musterprozess" ebenfalls geltend zu machen. Dabei m&uuml;ssen sich innerhalb von zwei Monaten, mindestens 50 Betroffene im Klageregister anmelden, damit das Verfahren fortgef&uuml;hrt werden kann. Hat man sich in das Klageregister eingetragen, k&ouml;nnen die eigenen Anspr&uuml;che nicht mehr verj&auml;hren.
 
-Das Gesetz tritt zum 01.11.2018 in Kraft, damit die verj&auml;hrungshemmende Wirkung der Klage auch noch f&uuml;r gegenw&auml;rtige Anspr&uuml;che greifen kann. Dies d&uuml;rfte vor Allem die Betroffenen aus dem [VW-Dieselskandal betreffen](http://www.faz.net/aktuell/wirtschaft/zeitplan-fuer-musterfeststellungsklage-zeitweise-in-gefahr-15638202.html).
+Das Gesetz tritt zum 01.11.2018 in Kraft, damit die verj&auml;hrungshemmende Wirkung der Klage auch noch f&uuml;r gegenw&auml;rtige Anspr&uuml;che greifen kann. Dies d&uuml;rfte vor allem die Betroffenen aus dem [VW-Dieselskandal betreffen](http://www.faz.net/aktuell/wirtschaft/zeitplan-fuer-musterfeststellungsklage-zeitweise-in-gefahr-15638202.html).
 
 ### Was sind die Probleme an dem Verfahren?
 
