@@ -9,11 +9,13 @@ cta_link:
 
 Was ist eigentlich ein Stichentscheid? Dieser Frage m&uuml;ssen vor allem Rechtschutzversicherungs-Kunden nachgehen, die eine Ablehnung einer Deckungsschutzzusage von ihrer Rechtschutzversicherung erhalten haben.&nbsp;
 
+![](/uploads/computer-2838920-640.jpg)
+
 ### Stichentscheid in vielen Versicherungsbedingungen enthalten
 
 In vielen allgemeinen Rechtsschutz-Bedingungen ist vorgesehen, dass bei Streitfragen &uuml;ber die Erfolgsaussichten einer Rechtsangelegenheit ein sogenannter Stichentscheid durchgef&uuml;hrt werden kann.&nbsp;
 
-Der Stichentscheid sollte durch einen unabh&auml;ngigen und mit der Rechtsangelegenheit bisher noch nicht befassten Rechtsanwalt erstellt werden. Der Rechtsanwalt entscheidet dann, ob die Rechtsangelegenheit Erfolgsaussichten hat und erstellt f&uuml;r die umstrittene Rechtsfrage zwischen dem Versicherungsnehmer und der Rechtschutzversicherung in seiner Funktion als unabh&auml;ngiger Dritter eine umfangreiche gutachterliche Stellungnahme , welche als Stichentscheid bezeichnet wird.
+Der Stichentscheid sollte durch einen unabh&auml;ngigen und mit der Rechtsangelegenheit bisher noch nicht befassten Rechtsanwalt erstellt werden. Der Rechtsanwalt entscheidet dann, ob die Rechtsangelegenheit Erfolgsaussichten hat und erstellt f&uuml;r die umstrittene Rechtsfrage zwischen dem Versicherungsnehmer und der Rechtsschutzversicherung in seiner Funktion als unabh&auml;ngiger Dritter eine umfangreiche gutachterliche Stellungnahme , welche als Stichentscheid bezeichnet wird.
 
 ### Entscheidung im Stichentscheid ist f&uuml;r Rechtsschutzversicherer bindend
 
@@ -24,6 +26,8 @@ Zudem hat die Rechtschutzversicherung auch die Kosten des Rechtsanwalts zu &uuml
 ### Unser Tipp
 
 Wenn Sie in einer Rechtsangelegenheit eine Ablehnung ihrer Rechtschutzversicherung zur Kosten&uuml;bernahme enthalten haben, in der Ihnen die M&ouml;glichkeit eines Stichentscheides er&ouml;ffnet wird, macht es durchaus Sinn, sich mit der ablehnenden Entscheidung der Rechtschutzversicherung und unter Vorlage aller sonstigen notwendigen Unterlagen zur Beurteilung der Erfolgsaussichten des Rechtsstreits an einen neutralen Rechtsanwalt zur Erstellung des Stichentscheids zu wenden, um Ihre Rechtsangelegenheit noch einmal abschlie&szlig;end und mit einem neutralen Blick auf den Vorgang &uuml;berpr&uuml;fen zu lassen.
+
+&nbsp;
 
 Best&auml;tigt der Gutachter in seiner gutachterlichen Stellungnahme&nbsp; Erfolgsaussichten einer Klage, so ist diese Entscheidung bindend und somit gleichzeitig die Deckungszusage erteilt.
 
