@@ -46,7 +46,7 @@ Mit einer schnellen L&ouml;sung l&auml;sst sich hier sicherlich nicht rechnen. E
 
 Vielmehr werden wahrscheinlich etliche neue Gerichtsverfahren n&ouml;tig sein, um endg&uuml;ltige Sicherheit &uuml;ber die Frage zu erhalten, ob das Merkmal der Restschuldbefreiung weiterhin von Auskunfteien eingetragen werden kann. Dabei k&ouml;nnen die Verfahren &uuml;ber mehrere Instanzen gehen.&nbsp;
 
-![](/uploads/scale-40635-640.png)![](/uploads/scale-40635-640-1.png)
+![](/uploads/scale-40635-640-1.png)
 
 Sollten mitsamt der Restschuldbefreiung noch weitere Negativmerkmale eingetragen sein, d&uuml;rfte die L&ouml;schung dieses Merkmals nur bedingt etwas bringen. Solange weitere Merkmale gespeichert sind, werden diese die berechneten Scorewerte ebenfalls massiv beeinflussen. Hier muss dann f&uuml;r eine Erledigtmeldung durch den Schuldner nach Erteilung der Restschuldbefreiung gesorgt werden.&nbsp;
 
