@@ -15,6 +15,8 @@ Versicherungsnehmer haben es heute nicht immer leicht. Insbesondere Rechtsschutz
 
 Hier muss der betroffene Versicherungskunde entscheiden, ob er den teuren Prozess auf eigene Kosten und somit auf eigenes Risiko f&uuml;hren will, weil f&uuml;r ihn oft unerwartet der Rechtschutzversicherer die Kosten&uuml;bernahme verweigert.&nbsp;
 
+![](/uploads/thinking-277071-640.jpg)
+
 Alternativ zur Klage auf eigene Kosten kommt f&uuml;r viele Betroffene Versicherungskunden leider nur der Verzicht auf den eigentlichen Prozess in Frage, da sie das Risiko der Prozesskosten scheuen oder sich diese schlicht nicht leisten k&ouml;nnen.&nbsp;
 
 ### Deckungsschutzklage aus Ausweg und Alternative
