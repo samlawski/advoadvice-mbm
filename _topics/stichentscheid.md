@@ -7,7 +7,9 @@ cta_link_text:
 cta_link:
 ---
 
-Was ist eigentlich ein Stichentscheid? Dieser Frage m&uuml;ssen vor allem Rechtschutzversicherung Kunden nachgehen, die eine Ablehnung einer Deckungsschutzzusage von ihrer Rechtschutzversicherung erhalten haben.&nbsp;
+Was ist eigentlich ein Stichentscheid? Dieser Frage m&uuml;ssen vor allem Rechtschutzversicherungs-Kunden nachgehen, die eine Ablehnung einer Deckungsschutzzusage von ihrer Rechtschutzversicherung erhalten haben.&nbsp;
+
+&nbsp;
 
 In einigen allgemeinen Rechtsschutz Bedingungen ist n&auml;mlich vorgesehen, dass bei Streitfragen &uuml;ber die Erfolgsaussichten einer Rechtsangelegenheit ein sogenannter Stichentscheid durchgef&uuml;hrt werden kann.&nbsp;
 
