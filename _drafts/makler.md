@@ -1,12 +1,20 @@
 ---
 title: Risiko Anschlussfinanzierung
-date:
+date: 2018-06-20 00:00:00
 seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:
+  - AdvoAdvice Rechtsanwälte
+  - AdovAdvice
+  - Banken
+  - Finanzierung
+  - Filiale
+  - Klevenhagen
+  - Anschlusfinanzierung
 topics:
-team_member: dr-sven-tintemann
+  - bank-und-kapitalmarktrecht
+team_member: kim-oliver-klevenhagen
 ---
 
 Anschlussfinanzierungen stellen f&uuml;r Darlehensnehmer oftmals ein gro&szlig;es Risiko dar
@@ -29,10 +37,10 @@ Beispiel: Ein Ehepaar mit 2 Kindern nimmt f&uuml;r den Hauskauf ein Immobilienda
 
 Das Ehepaar m&uuml;sste pl&ouml;tzlich 1.041,10 Euro monatlich mehr an die Bank zahlen. Doch welche Familie kann sich wirklich leisten pl&ouml;tzlich auf &uuml;ber 1.000,00 Euro im Monat zu verzichten? Kann diese Rate nicht zus&auml;tzlich aufgebracht werden droht im schlimmsten Fall die Zwangsversteigerung des Hauses oder sogar die Privatinsolvenz.
 
-Haftung der Bank auf Schadensersatz bei unterlassener Aufkl&auml;rung
+### Haftung der Bank auf Schadensersatz bei unterlassener Aufkl&auml;rung
 
 Hat die Bank nicht deutlich auf dieses Risiko hingewiesen, kann eine Haftung auf Schadensersatz wegen Falschberatung gegeben sein. Dies ist sogar fast immer dann der Fall, wenn &uuml;ber dieses Risiko nicht aufgekl&auml;rt wurde und dem Darlehensnehmer ein Darlehen angeboten wurde, welches er derzeit gerade so monatlich abzahlen kann. Die Berater m&uuml;ssen vielmehr eindeutig auf dieses Risiko hinweisen, denn eine Bank kennt dieses Risiko.
 
 Wurde &uuml;ber dieses Risiko nicht aufgekl&auml;rt liegt deshalb wom&ouml;glich eine Falschberatung vor. Die Bank haftet in diesem Fall auf Schadensersatz. Der Schadensersatz kann dabei in verschiedenen Formen realisiert werden.
 
-Der Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB sagt dazu: Wer sich von seiner Bank falsch beraten f&uuml;hlt, sollte sich daher schon jetzt an einen Experten wenden, um die M&ouml;glichkeiten und Chancen auszuloten. Oftmals besteht schon fr&uuml;hzeitig die M&ouml;glichkeit Betroffenen zu helfen und so das Eigenheim noch zu retten.
+Rechtsanwalt Klevenhagen,&nbsp; Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB sagt dazu: "Wer sich von seiner Bank falsch beraten f&uuml;hlt, sollte sich daher schon jetzt an einen Experten wenden, um die M&ouml;glichkeiten und Chancen auszuloten. Oftmals besteht schon fr&uuml;hzeitig die M&ouml;glichkeit Betroffenen zu helfen und so das Eigenheim noch zu retten."
