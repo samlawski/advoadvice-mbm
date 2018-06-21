@@ -1,7 +1,7 @@
 ---
 title: Risiko Anschlussfinanzierung
 date: 2018-06-20 00:00:00
-seo_beschreibung:
+seo_beschreibung: Anschlussfinanzierung als Risiko fürs Eigenheim
 layout: post
 feature_bild_path:
 tags:
@@ -11,7 +11,7 @@ tags:
   - Finanzierung
   - Filiale
   - Klevenhagen
-  - Anschlusfinanzierung
+  - Anschlussfinanzierung
 topics:
   - bank-und-kapitalmarktrecht
 team_member: kim-oliver-klevenhagen
