@@ -3,7 +3,7 @@ title: >-
   Streitfall Reservierungsvereinbarung - Geld zurück wenn der Immobilienkauf
   platzt?
 date: 2018-06-21 00:00:00
-seo_beschreibung:
+seo_beschreibung: ReservierungVereinbarung - Geld zurück vom Makler?
 layout: post
 feature_bild_path:
 tags:
