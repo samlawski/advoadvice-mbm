@@ -1,6 +1,6 @@
 ---
 title: Klage gegen Butlers vor LG Köln eingereicht
-date: 2018-06-19 00:00:00
+date: 2018-06-26 00:00:00
 seo_beschreibung: Klage vor LG Köln wegen Butlers Genussrechten eingereicht
 layout: post
 feature_bild_path:
@@ -19,22 +19,22 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB hat f&uuml;r eine Anlegerin aus M&uuml;nchen Klage gegen die Butlers GmbH & Co. KG aus K&ouml;ln vor dem Landgericht K&ouml;ln eingereicht.
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat für eine Anlegerin aus München Klage gegen die Butlers GmbH & Co. KG aus Köln vor dem Landgericht Köln eingereicht.
 
-### Genussscheine selbst&auml;ndig erworben
+### Genussscheine selbständig erworben
 
-Die Kl&auml;gerin hatte bei der Butlers noch vor deren Insolvenzantragsverfahren Genussrechte im Wert von 60.000 Euro erworben. In den Genussrechtsbedingungen war u.a. auch ein sog. Rangr&uuml;cktritt enthalten.
+Die Klägerin hatte bei der Butlers noch vor deren Insolvenzantragsverfahren Genussrechte im Wert von 60.000 Euro erworben. In den Genussrechtsbedingungen war u.a. auch ein sog. Rangrücktritt enthalten.
 
-Die Forderungen aus den Genussrechten sollen durch die Insolvenz und die im Vertrag enthaltene Nachrangklausel weggefallen sein und somit nicht mehr an die Anlegerin zur R&uuml;ckzahlung gelangen k&ouml;nnen. Das ist zumindest die Rechtsansicht des Insolvenzverwalters und auch der Rechtsanw&auml;lte, die die Butlers GmbH & Co. KG bisher au&szlig;ergerichtlich vertreten haben.
+Die Forderungen aus den Genussrechten sollen durch die Insolvenz und die im Vertrag enthaltene Nachrangklausel weggefallen sein und somit nicht mehr an die Anlegerin zur Rückzahlung gelangen können. Das ist zumindest die Rechtsansicht des Insolvenzverwalters und auch der Rechtsanwälte, die die Butlers GmbH & Co. KG bisher außergerichtlich vertreten haben.
 
-### Zwei rechtliche Ansatzpunkte als Ausweg aus der Misere f&uuml;r die betroffene Anlegerin
+### Zwei rechtliche Ansatzpunkte als Ausweg aus der Misere für die betroffene Anlegerin
 
-Diese Rechtsansicht soll nun auf der Grundlage von zwei unterschiedlichen Ansatzpunkten gerichtlich einer Kl&auml;rung zugef&uuml;hrt werden, da die betroffene Anlegerin sonst leer ausgehen und sich ein Schaden von mindestens 53.500 Euro realisieren w&uuml;rde.
+Diese Rechtsansicht soll nun auf der Grundlage von zwei unterschiedlichen Ansatzpunkten gerichtlich einer Klärung zugeführt werden, da die betroffene Anlegerin sonst leer ausgehen und sich ein Schaden von mindestens 53.500 Euro realisieren würde.
 
-Zum einen wurde mit der Klageschrift geltend gemacht, dass die in den Genussrechtsbedingungen enthaltene Nachrangklausel unwirksam war. Dies f&uuml;hrt aus Sicht der Kl&auml;gerin dazu, dass die Klausel nicht zu einem Wegfall der Forderung im Insolvenzverfahren f&uuml;hren konnte.
+Zum einen wurde mit der Klageschrift geltend gemacht, dass die in den Genussrechtsbedingungen enthaltene Nachrangklausel unwirksam war. Dies führt aus Sicht der Klägerin dazu, dass die Klausel nicht zu einem Wegfall der Forderung im Insolvenzverfahren führen konnte.
 
-Zudem k&ouml;nnte dann, wenn die Klausel unwirksam sein sollte, auch ein Betreiben eines erlaubnispflichtigen Einlagengesch&auml;fts ohne Erlaubnis der BaFin nach dem Kreditwesengesetz (KWG) vorgelegen haben.
+Zudem könnte dann, wenn die Klausel unwirksam sein sollte, auch ein Betreiben eines erlaubnispflichtigen Einlagengeschäfts ohne Erlaubnis der BaFin nach dem Kreditwesengesetz (KWG) vorgelegen haben.
 
-Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice aus Berlin, der die Klage hier eingereicht hat, kommentiert: "Die Anlegerin hat hier nach Ansicht des Insolvenzverwalters und der Butlers schlicht Pech und w&uuml;rde somit alles eingezahlte Geld verlieren. Ziel der Klage ist es, diese Rechtsansicht in Zweifel zu ziehen und hier zu einer Entscheidung zu kommen, mit der die Anlegerin ihr Geld zur&uuml;ck erh&auml;lt."
+Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice aus Berlin, der die Klage hier eingereicht hat, kommentiert: "Die Anlegerin hat hier nach Ansicht des Insolvenzverwalters und der Butlers schlicht Pech und würde somit alles eingezahlte Geld verlieren. Ziel der Klage ist es, diese Rechtsansicht in Zweifel zu ziehen und hier zu einer Entscheidung zu kommen, mit der die Anlegerin ihr Geld zurück erhält."
 
-AdvoAdvice wird &uuml;ber den Prozessverlauf weiter berichten. Weitere betroffene Anleger, die Gelder in Genussrechte von Butlers investiert haben, sollten sich daher regelm&auml;&szlig;ig informiert halten oder eine Anfrage f&uuml;r eine anwaltliche Erstberatung unter info@advoadvice.de stellen.
+AdvoAdvice wird über den Prozessverlauf weiter berichten. Weitere betroffene Anleger, die Gelder in Genussrechte von Butlers investiert haben, sollten sich daher regelmäßig informiert halten oder eine Anfrage für eine anwaltliche Erstberatung unter info@advoadvice.de stellen.
