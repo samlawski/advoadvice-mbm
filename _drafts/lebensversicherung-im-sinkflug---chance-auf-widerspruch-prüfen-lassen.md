@@ -33,4 +33,16 @@ Das f&uuml;hrt in der Praxis zur K&uuml;rzung von Auszahlungen an die Kunden und
 
 ### Versicherungskunden sollten Widerrufsm&ouml;glichkeit &uuml;berpr&uuml;fen lassen
 
+Viele Lebensversicherungsvertr&auml;ge und Rentenversicherungsvertr&auml;ge, egal ob klassisch oder auch fondsgebunden, bieten f&uuml;r den Versicherten auch noch eine andere M&ouml;glichkeit, sich vom Vertrag zu l&ouml;sen. Hier ist ein Blick in die Widerrufsbelehrung, die eigentlich Widerspruchsbelehrung hei&szlig;t, notwendig.
+
+Ist dort ein Belehrungsfehler enthalten, z.B. &uuml;ber den Fristbeginn oder die Widerrufsm&ouml;glichkeiten, kann der Vertrag durch den Kunden widerrufen und R&uuml;ckzahlung aller eingezahlten Beitr&auml;ge plus Zinsen abzgl. einer Risikopr&auml;mie f&uuml;r den Versicherungsteil von der Versicherungsgesellschaft gefordert werden.
+
+### Expertenwissen zahlt sich aus
+
+Es macht daher in jedem Fall sich, sich hier zur Pr&uuml;fung eines bereits in die Jahre gekommenen Lebensversicherungsvertrages an spezialisierte Rechtsanw&auml;lte zu wenden.
+
+Rechtsanwalt Dr. Sven Tintemann ist schon seit Jahres auf diesem Rechtsgebiet t&auml;tig und hat ma&szlig;geblich an einem Verfahren mitgewirkt, welches letztendlich zu bekannten Entscheidung des Europ&auml;ischen Gerichtshofes (EuGH) gef&uuml;hrt hat, welcher den &sect; 5 a VVG a.F. f&uuml;r nicht europarechtkonform gehalten und somit zahlreichen Versicherungskunden neue Widerspruchsm&ouml;glichkeiten zugestanden hat.
+
+&nbsp;
+
 &nbsp;
