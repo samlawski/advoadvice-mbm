@@ -18,6 +18,7 @@ tags:
   - Notarhaftung
   - Rückabwicklung
 topics:
+  - anlegerschutz
 team_member: kim-oliver-klevenhagen
 ---
 
