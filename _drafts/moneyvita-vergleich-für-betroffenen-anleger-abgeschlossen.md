@@ -54,6 +54,9 @@ F&uuml;r den betroffenen Anleger wurde daher durch die Kanzlei AdvoAdvice Rechts
 Nachdem hier eine Klageerwiderung durch die Beklagtenseiten erfolgt und noch einmal eine Replik beim zust&auml;ndigen Gericht eingereicht worden war, fand am 02.05.2018 der Termin zur m&uuml;ndlichen Hauptverhandlung statt. Hier wurde zun&auml;chst der betroffene Anleger vom Gericht zu dem Beratungsvorgang und dem Abschluss der Kapitalanlage angeh&ouml;rt.
 {: .present-before-paste}
 
+![MoneyVita Vergleich](/uploads/money-1005464-640-1.jpg "Money back durch Vergleich")
+{: .present-before-paste}
+
 Danach schlug das Gericht den Prozessbeteiligten einen Vergleich vor, den diese dann auch abschlossen.
 {: .present-before-paste}
 
