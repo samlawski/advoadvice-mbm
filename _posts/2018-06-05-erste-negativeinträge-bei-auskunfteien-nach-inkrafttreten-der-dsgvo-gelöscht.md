@@ -11,7 +11,6 @@ tags:
   - Widerruf
   - BDSG
   - DSGVO
-  - Atriga GmbH
   - Inkasso
 topics:
   - datenschutz
