@@ -1,6 +1,6 @@
 ---
 title: 'MoneyVita: Vergleich für betroffenen Anleger abgeschlossen'
-date: 2018-07-02 00:00:00
+date: 2018-07-04 00:00:00
 seo_beschreibung: MoneyVita schließt Zahlungsvergleich nach Klage vor LG Heilbronn
 layout: post
 feature_bild_path:
@@ -27,40 +27,40 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-In einem Rechtsstreit vor dem Landgericht Heilbronn hat die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin für einen Anleger der Gesellschaft mit dieser und deren Geschäftsführer einen Vergleich zur Zahlung von 5.200,00 Euro abgeschlossen.
+In einem Rechtsstreit vor dem Landgericht Heilbronn hat die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin f&uuml;r einen Anleger der Gesellschaft mit dieser und deren Gesch&auml;ftsf&uuml;hrer einen Vergleich zur Zahlung von 5.200,00 Euro abgeschlossen.
 {: .present-before-paste}
 
 ### Zum Hintergrund:
 {: .present-before-paste}
 
-Die MoneyVita Treuhand GmbH & Co. KG nahm in der Vergangenheit Darlehen von Anlegern auf und versprach diesen hierfür eine seinerzeit attraktive Verzinsung. Der durch AdvoAdvice vertretene Kläger schloss am 14.10.2013 als Darlehensgeber mit der MoneyVita einen Darlehensvertrag mit einer Laufzeit von zehn Jahren, welcher im Jahr 2013 begann.
+Die MoneyVita Treuhand GmbH & Co. KG nahm in der Vergangenheit Darlehen von Anlegern auf und versprach diesen hierf&uuml;r eine seinerzeit attraktive Verzinsung. Der durch AdvoAdvice vertretene Kl&auml;ger schloss am 14.10.2013 als Darlehensgeber mit der MoneyVita einen Darlehensvertrag mit einer Laufzeit von zehn Jahren, welcher im Jahr 2013 begann.
 {: .present-before-paste}
 
-Der Kläger berichtetet, die Anlage wurde der Abschluss des Darlehens durch einen Berater vermittelt, der angab, dass es sich bei der vorliegenden Kapitalanlage um eine sichere Anlage mit guter Rendite handeln würde.
+Der Kl&auml;ger berichtete der Abschluss des Darlehens sei durch einen Berater vermittelt worden, der angegeben habe, dass es sich bei der vorliegenden Kapitalanlage um eine sichere Anlage mit guter Rendite handeln w&uuml;rde.
 {: .present-before-paste}
 
-Zinszahlungen in Höhe von 8% erhielt der Kläger jedoch nicht. Vielmehr erhielt er eine Information vom 27.03.2017, dass die MoneyVita die vereinbarten Auszahlungen nicht mehr leisten können. Sie bat daher um Aussetzung der Zahlung.
+Die versprochenen Zinszahlungen in H&ouml;he von 8% erhielt der Kl&auml;ger jedoch nicht. Vielmehr erhielt er eine Information vom 27.03.2017, dass die MoneyVita die vereinbarten Auszahlungen nicht mehr leisten k&ouml;nnen. Sie bat daher um Aussetzung der Zahlung.
 {: .present-before-paste}
 
-Damit war der Kläger nicht einverstanden und verlangte außergerichtlich die Rückzahlung des Darlehens. Da eine Rückzahlung nicht erfolgte, beschritt der Kläger den Klageweg.
+Damit war der Kl&auml;ger nicht einverstanden und verlangte au&szlig;ergerichtlich die R&uuml;ckzahlung des Darlehens. Da eine R&uuml;ckzahlung nicht erfolgte, beschritt der Kl&auml;ger den Klageweg.
 {: .present-before-paste}
 
 ### Der Prozess:
 {: .present-before-paste}
 
-Für den betroffenen Anleger wurde daher durch die Kanzlei AdvoAdvice Rechtsanwälte am 19.12.2017 Klage zum Landgericht Heilbronn eingereicht.
+F&uuml;r den betroffenen Anleger wurde daher durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte am 19.12.2017 Klage zum Landgericht Heilbronn eingereicht.
 {: .present-before-paste}
 
-Nachdem hier eine Klageerwiderung durch die Beklagtenseiten erfolgt und noch einmal eine Replik beim zuständigen Gericht eingereicht worden war, fand am 02.05.2018 der Termin zur mündlichen Hauptverhandlung statt. Hier wurde zunächst der betroffene Anleger vom Gericht zu dem Beratungsvorgang und dem Abschluss der Kapitalanlage angehört.
+Nachdem hier eine Klageerwiderung durch die Beklagtenseiten erfolgt und noch einmal eine Replik beim zust&auml;ndigen Gericht eingereicht worden war, fand am 02.05.2018 der Termin zur m&uuml;ndlichen Hauptverhandlung statt. Hier wurde zun&auml;chst der betroffene Anleger vom Gericht zu dem Beratungsvorgang und dem Abschluss der Kapitalanlage angeh&ouml;rt.
 {: .present-before-paste}
 
 Danach schlug das Gericht den Prozessbeteiligten einen Vergleich vor, den diese dann auch abschlossen.
 {: .present-before-paste}
 
-### Tipp für betroffene Anleger:
+### Tipp f&uuml;r betroffene Anleger:
 {: .present-before-paste}
 
-Betroffene Anleger der MoneyVita sollten daher durch einen Experten im Bank-und Kapitalmarktrecht Ansprüche gegen die Anlagegesellschaft selbst, deren Geschäftsführer sowie gegen Berater bzw. Beratungsgesellschaftern prüfen lassen.
+Betroffene Anleger der MoneyVita sollten daher durch einen Experten im Bank-und Kapitalmarktrecht Anspr&uuml;che gegen die Anlagegesellschaft selbst, deren Gesch&auml;ftsf&uuml;hrer sowie gegen Berater bzw. Beratungsgesellschaften pr&uuml;fen lassen.
 {: .present-before-paste}
 
 Oftmals lenken die betroffenen Personen oder Gesellschaften erst nach Erhebung einer Zahlungsklage ein und bieten einen Vergleich an, wie der hier vorliegende Fall deutlich zeigt.
