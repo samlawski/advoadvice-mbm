@@ -28,6 +28,8 @@ Der von AdvoAdvice vertretene Kl&auml;ger hatte in einem Gerichtsprozess einen V
 
 Nach der Definition der Rechtsschutz Union liegt Mutwilligkeit vor, wenn sich das Verhalten des Versicherungsnehmers nicht mehr mit dem einer vern&uuml;nftigen, unversicherten Person, bei der finanzielle &Uuml;berlegungen keine Rolle spielen in Einklang bringen l&auml;sst.
 
+![](/uploads/justice-2071539-640-1.jpg)
+
 Der Kl&auml;ger wandte hier ein, dass der Versicherung der Einwand der Mutwilligkeit nach bereits erfolgter Erteilung einer Deckungszusage f&uuml;r das Klageverfahren nicht mehr zustehen w&uuml;rde.
 
 ### Zum Prozess:
