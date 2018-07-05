@@ -44,6 +44,8 @@ Das F&uuml;hren von Professor-Titeln oder Doktor-Graden ist f&uuml;r Rechtsanw&a
 
 Wichtig ist es hier, zu beachten, dass ein F&uuml;hren des Titels nicht schon dann m&ouml;glich ist, wenn dieses in einem der Hochschulgesetzte der Bundesl&auml;nder erlaubt ist oder wenn die eigene Rechtsanwaltskammer keine rechtlichen Bedenken hat. Es muss n&auml;mlich das deutliche sch&auml;rfere Schwert des Wettbewerbsrechts beachtet werden, welches eine Irref&uuml;hrung des Rechtsverkehrs verbietet.
 
+![](/uploads/white-male-1834088-640.jpg)
+
 Wenn also ein Titel, der ehrenhalber an einer ausl&auml;ndischen Universit&auml;t verliehen oder gekauft wurde, im gesch&auml;ftlichen Verkehr gef&uuml;hrt werden soll, sollte darauf geachtet werden, dass dieser Titel auch richtig angegeben wird, also vor allem mit der Angabe, woher er stammt.
 
 Vorsicht ist auch deshalb geboten, weil der Mi&szlig;brauch von Titeln in &sect; 132 a Strafgesetzbuch (StGB) unter Strafe gestellt ist. Es k&ouml;nnte somit sein, dass sich nicht nur die Mitbewerber bei einem Rechtsanwalt melden, der einen Titel unkorrekt im gesch&auml;ftlichen Verkehr f&uuml;hrt, sondern auch die Staatsanwaltschaft oder die Rechtsanwaltskammer.
