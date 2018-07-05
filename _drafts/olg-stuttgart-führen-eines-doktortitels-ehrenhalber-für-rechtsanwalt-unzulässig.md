@@ -28,6 +28,8 @@ Der Beklagte trug hierbei vor, ihm seien im Mai 2010 von der Yeditepe Universit&
 
 Das LG Stuttgart hat den Beklagten unter Ordnungsmittelandrohung verurteilt, es zu unterlassen im gesch&auml;ftlichen Verkehr zum Zwecke des anwaltlichen Wettbewerbs in Verbindung mit seinem Namen die Abk&uuml;rzungen Prof. oder Dr. h.c. ohne Angabe der verleihenden Hochschule bei jedem dieser Titel zu verwenden.
 
+![](/uploads/academia-1293362-640.png)
+
 Die gegen dieses Urteil gerichtete Berufung des Beklagten hatte keinen Erfolg.
 
 Das OLG Stuttgart sah die angegriffene Titelf&uuml;hrung in beiden F&auml;llen als irref&uuml;hrend im Sinne des &sect; 5 Abs. 1 Satz 1 UWG und Satz 2 Nr. 3 UWG an. Das unberechtigte Verwenden akademischer Grade oder Titel durch einen Rechtsanwalt stelle, so das OLG Stuttgart in seiner Entscheidung, eine Irref&uuml;hrung dar, weil es geeignet sei, in den betreffenden Verkehrskreisen einen unzutreffenden Eindruck &uuml;ber die wissenschaftliche Qualifikation des Rechtsanwalts zu erwecken.
