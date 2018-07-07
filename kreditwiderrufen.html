@@ -131,7 +131,7 @@ seo_beschreibung: >-
 
       <h3 class="editable"><strong>Kostenlos</strong> und <strong>unverbindlich</strong> Termin zur telefonischen Ersteinsch&auml;tzung vereinbaren!</h3>
 
-      <form name="kreditwiderrufen" method="post" action="/danke" netlify-honeypot="bot-field" netlify>
+      <form name="kreditwiderrufen" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="Name" value="" required />
         </div>
@@ -154,8 +154,8 @@ seo_beschreibung: >-
           function enableSubmit(){ $(".send-form").removeClass("hidden") }
           function disableSubmit(){ $(".send-form").addClass("hidden") }
         </script>
-        <div data-netlify-recaptcha data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
-        <input type="submit" class="send-form btn btn-default" value="Abschicken" />
+        <div class="g-recaptcha" data-sitekey="6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn" data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
+        <input type="submit" class="send-form btn btn-default hidden" value="Abschicken" />
       </form>
 
     </div>
