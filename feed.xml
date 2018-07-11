@@ -1,30 +1,525 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit</title>
+    <description>Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Jul 2018 16:34:16 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Jul 2018 16:34:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Unsere Experten in der Presse: Artikel von Dr. Tintemann im Berliner Anwaltsblatt - Heft 7-8/2018</title>
+        <description>&lt;p&gt;Am 19. April 2018 fand ein Vortrag zur aktuellen Rechtsprechung des Kammergerichts zum Bank- und Kapitalmarktrecht mit dem Vorsitzenden Richter am Kammergericht Siegfried Fahr statt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/berliner-anwaltsblatt-2.png&quot; alt=&quot;Berliner Anwaltsblatt Logo - fremde Marke&quot; title=&quot;Logo Berliner Anwaltsblatt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Tintemann, Sprecher des Arbeitskreises für Bank- und Kapitalmarktrecht im Berliner Anwaltsverein, fasst das Referat und die wichtigsten Entscheidungen, welche besprochen wurden, zusammen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tintemann.de/doc20180710105410&quot; target=&quot;_blank&quot;&gt;Den gesamten Artikel können Sie hier als PDF-Dokument abrufen.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/unsere-experten-in-der-presse-artikel-von-dr-tintemann-im-berliner-anwaltsblatt-heft-7-82018/</link>
+        <guid isPermaLink="true">/blog/unsere-experten-in-der-presse-artikel-von-dr-tintemann-im-berliner-anwaltsblatt-heft-7-82018/</guid>
+        
+        <category>Verbraucherinformation</category>
+        
+        <category>Bankrecht</category>
+        
+        <category>Kapitalmarktrecht</category>
+        
+        <category>Vortrag</category>
+        
+        <category>Richter Siegfried Fahr</category>
+        
+        <category>Berliner Anwaltsverein</category>
+        
+        <category>aktuelle Rechtsprechung</category>
+        
+        <category>Kammergericht</category>
+        
+        <category>Berlin</category>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>LG Dresden: Urteil im Infinus Strafverfahren</title>
+        <description>&lt;p&gt;Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hintermänner des Infinus-Skandals nunmehr seine Urteile gesprochen. Diese wurden bereits mit Spannung erwartet und am 09.07.2018 verkündet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/lg-dresden---eingang-ii.jpg&quot; alt=&quot;Landgericht Dresden&quot; title=&quot;Eingang Landgericht Dresden&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;hohe-haftstrafen-im-betrugsprozess&quot;&gt;Hohe Haftstrafen im Betrugsprozess&lt;/h3&gt;
+
+&lt;p&gt;Die Anklage der Staatsanwaltschaft, die laut Presseangaben 757 Seiten lang gewesen sein soll, warf den Angeklagten Infinus-Managern vor, sie hätten über 20.000 Anleger um etwa 312 Millionen Euro betrogen.&lt;/p&gt;
+
+&lt;p&gt;Das sah wohl auch die große Strafkammer des Landgerichts Dresden so und verhängte Haftstrafen gegen sechs Infinus Manager wegen gewerbs- und bandenmäßigen Betrugs.&lt;/p&gt;
+
+&lt;p&gt;So wurde der Kopf des Unternehmens Jörg B. (56) zu 8 Jahren Haft verurteilt. Andreas K. (57) erhielt 4 Jahre 6 Monate, Rudolf O. (57) sogar 6 Jahre 10 Monate. Dr. Kewan K. (52) wurde zu 6 Jahren Haft verurteilt, Siegfried B (52) zu 5 Jahren und 10 Monaten sowie Jens P. (51) zu 5 Jahren 4 Monaten.&lt;/p&gt;
+
+&lt;h3 id=&quot;aufarbeitung-der-infinus-pleite&quot;&gt;Aufarbeitung der Infinus-Pleite&lt;/h3&gt;
+
+&lt;p&gt;Damit geht ein wichtiger Teil der Aufarbeitung der Pleite der Infinus Gruppe und ihrer Tochterfirmen, z.B. der Future Business KG (kurz FuBus), der Prosavus AG und der EcoConsort, welche zahlreiche weitere Firmen mit in die Insolvenz gerissen und einen immensen Schaden verursacht haben, erst einmal zu Ende. Bis November 2013 wa die Unternehmensgruppe mit insgesamt 20 Firmen im Finanzsektor von Dresden aus tätig.&lt;/p&gt;
+
+&lt;p&gt;Die verurteilten Angeklagten haben die Möglichkeit, die Entscheidung im Rahmen einer Revision durch den Bundesgerichtshof überprüfen zu lassen. Es ist sehr wahrscheinlich, dass dies auch erfolgen wird.&lt;/p&gt;
+
+&lt;h3 id=&quot;zeit-für-die-zivilgerichte-auch-ihre-instanz-abzuschließen&quot;&gt;Zeit für die Zivilgerichte, auch ihre Instanz abzuschließen&lt;/h3&gt;
+
+&lt;p&gt;Dr. Sven Tintemann, der zahlreiche Anleger im Infinus-Skandal begleitet und berät kommentiert die Entscheidung wie folgt: “Es war zu erwarten, dass die Hauptangeklagten hier verurteilt werden. Die Urteile sind dennoch relativ mild ausgefallen, was bei Prozessbeginn nicht unbedingt zu erwarten war. Sollte die Verurteilung bestehen bleiben, ist auch klar, dass die Anleger gegen die verurteilten Straftäter Schadenersatzansprüche durchsetzen können. Da der Schaden aber riesig ist, wird wohl für die Anleger nur wenig zu holen sein. Zumindest besteht jetzt auch für das mit den Zivilprozessen hoffnungslos überlastete Landgericht Leipzig die Möglichkeit, die Schadensersatzklage gegen die Hauptangeklagten weiter fortzusetzen.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/lg-dresden-urteil-im-infinus-strafverfahren/</link>
+        <guid isPermaLink="true">/blog/lg-dresden-urteil-im-infinus-strafverfahren/</guid>
+        
+        <category>Anlegerinformation</category>
+        
+        <category>Infinus</category>
+        
+        <category>Urteil</category>
+        
+        <category>Strafgericht</category>
+        
+        <category>Strafkammer</category>
+        
+        <category>Landgericht Dresden</category>
+        
+        <category>Haftstrafe</category>
+        
+        <category>Betrugsprozess</category>
+        
+        <category>Schneeballsystem</category>
+        
+        <category>FuBus</category>
+        
+        <category>Prosavus</category>
+        
+        <category>EcoConsort</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>OLG Stuttgart: Unzulässige Anwaltswerbung mit Ehren-Doktortitel</title>
+        <description>&lt;p&gt;Die verwaltungsrechtlich nicht zu beanstandende Führung eines akademischen Grades kann irreführend im Sinne von § 5 I 2 Nr. 3 UWG sein, wenn sie im geschäftlichen Verkehr zu einer Täuschung führt, was insbesondere der Fall ist, wenn der akademische Grad ehrenhalber von einer ausländischen Hochschule verliehen wurde und beide Umstände nicht in der Art und Weise der Titelführung zum Ausdruck kommen. Dies entschied das OLG Stuttgart zum Az. 2 U 35/17 in einem Urteil vom 22.10.2015.&lt;/p&gt;
+
+&lt;h3 id=&quot;zum-hintergrund&quot;&gt;Zum Hintergrund:&lt;/h3&gt;
+
+&lt;p&gt;Hintergrund der Entscheidung war ein Rechtsstreit zweiter Rechtsanwälte. Hierbei nahm der Kläger den Beklagten Kollegen auf Unterlassung des Führens von Professoren- bzw. Doktortitel in Anspruch.&lt;/p&gt;
+
+&lt;p&gt;Der Beklagte trug hierbei vor, ihm seien im Mai 2010 von der Yeditepe Universität Istanbul (Türkei) ein “honorary doctorate” und ein “honorary professorship” verliehen worden. Auf seinem Briefkopf und auf seiner Internetseite trat der Beklagte mit dem Titel Prof. Dr. Dr. h.c. auf.&lt;/p&gt;
+
+&lt;h3 id=&quot;zum-ablauf-des-gerichtsverfahrens&quot;&gt;Zum Ablauf des Gerichtsverfahrens:&lt;/h3&gt;
+
+&lt;p&gt;Das LG Stuttgart hat den Beklagten unter Ordnungsmittelandrohung verurteilt, es zu unterlassen im geschäftlichen Verkehr zum Zwecke des anwaltlichen Wettbewerbs in Verbindung mit seinem Namen die Abkürzungen Prof. oder Dr. h.c. ohne Angabe der verleihenden Hochschule bei jedem dieser Titel zu verwenden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/academia-1293362-640.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die gegen dieses Urteil gerichtete Berufung des Beklagten hatte keinen Erfolg.&lt;/p&gt;
+
+&lt;p&gt;Das OLG Stuttgart sah die angegriffene Titelführung in beiden Fällen als irreführend im Sinne des § 5 Abs. 1 Satz 1 UWG und Satz 2 Nr. 3 UWG an. Das unberechtigte Verwenden akademischer Grade oder Titel durch einen Rechtsanwalt stelle, so das OLG Stuttgart in seiner Entscheidung, eine Irreführung dar, weil es geeignet sei, in den betreffenden Verkehrskreisen einen unzutreffenden Eindruck über die wissenschaftliche Qualifikation des Rechtsanwalts zu erwecken.&lt;/p&gt;
+
+&lt;p&gt;In die gleiche Richtung hatten auch bereits mehrere andere Gerichte entschieden: wie z.B. (OLG Stuttgart, GRUR-RR 2014, 454 Rn. 21; OLG Naumburg, NJOZ 2011, 2046; OLG Köln, OLG Stuttgart: Unzulässige Anwaltswerbung mit Ehren-Doktortitel (NJW-RR 2015, 1528) MDR 2011, 267 = BeckRS 2010, 28578; OLG Bamberg, NJW-Spezial 2011, 542 = BeckRS 2011, 16067).&lt;/p&gt;
+
+&lt;p&gt;Das OLG Stuttgart macht in seiner Entscheidung zudem deutlich, dass auch eine verwaltungsrechtlich nicht zu beanstandende Titelführung im geschäftlichen Verkehr zu einer Täuschung führen könne, welche diese unlauter mache.&lt;/p&gt;
+
+&lt;h3 id=&quot;unser-fazit&quot;&gt;Unser Fazit:&lt;/h3&gt;
+
+&lt;p&gt;Das Führen von Professor-Titeln oder Doktor-Graden ist für Rechtsanwälte nur mit klarer Herkunftsangabe zu dem entsprechenden Titel und der Angabe, dass es sich um einen Titel honoris causa (ehrenhalber), als Prof. h.c. oder Dr. h.c. handelt, möglich.&lt;/p&gt;
+
+&lt;p&gt;Wichtig ist es hier, zu beachten, dass ein Führen des Titels nicht schon dann möglich ist, wenn dieses in einem der Hochschulgesetzte der Bundesländer erlaubt ist oder wenn die eigene Rechtsanwaltskammer keine rechtlichen Bedenken hat. Es muss nämlich das deutliche schärfere Schwert des Wettbewerbsrechts beachtet werden, welches eine Irreführung des Rechtsverkehrs verbietet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/white-male-1834088-640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wenn also ein Titel, der ehrenhalber an einer ausländischen Universität verliehen oder gekauft wurde, im geschäftlichen Verkehr geführt werden soll, sollte darauf geachtet werden, dass dieser Titel auch richtig angegeben wird, also vor allem mit der Angabe, woher er stammt.&lt;/p&gt;
+
+&lt;p&gt;Vorsicht ist auch deshalb geboten, weil der Mißbrauch von Titeln in § 132 a Strafgesetzbuch (StGB) unter Strafe gestellt ist. Es könnte somit sein, dass sich nicht nur die Mitbewerber bei einem Rechtsanwalt melden, der einen Titel unkorrekt im geschäftlichen Verkehr führt, sondern auch die Staatsanwaltschaft oder die Rechtsanwaltskammer.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/olg-stuttgart-unzul%C3%A4ssige-anwaltswerbung-mit-ehren-doktortitel/</link>
+        <guid isPermaLink="true">/blog/olg-stuttgart-unzul%C3%A4ssige-anwaltswerbung-mit-ehren-doktortitel/</guid>
+        
+        <category>Standesrecht</category>
+        
+        <category>Rechtsanwalt</category>
+        
+        <category>Dr. h.c.</category>
+        
+        <category>Ehren-Doktor</category>
+        
+        <category>wettbewerbswidrig</category>
+        
+        <category>unzulässig</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Klage gegen Rechtsschutz Union vor Amtsgericht Kelheim</title>
+        <description>&lt;p&gt;Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat eine Klage vor dem Amtsgericht Kelheim zum Az. 3 C 290/18 gegen die Rechtsschutz Union Schaden GmbH eingereicht.&lt;/p&gt;
+
+&lt;h3 id=&quot;zum-hintergrund&quot;&gt;Zum Hintergrund:&lt;/h3&gt;
+
+&lt;p&gt;Der von AdvoAdvice vertretene Kläger hatte in einem Gerichtsprozess einen Vergleich abgeschlossen. Die Kostenübernahme für den Vergleichsabschluss lehtne die beklagte Versicherungsgesellschaft mit der Begründung ab, dass der Vergleichsabschluss mutwilllig erfolgt sei.&lt;/p&gt;
+
+&lt;p&gt;Nach der Definition der Rechtsschutz Union liegt Mutwilligkeit vor, wenn sich das Verhalten des Versicherungsnehmers nicht mehr mit dem einer vernünftigen, unversicherten Person, bei der finanzielle Überlegungen keine Rolle spielen in Einklang bringen lässt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/justice-2071539-640-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Kläger wandte hier ein, dass der Versicherung der Einwand der Mutwilligkeit nach bereits erfolgter Erteilung einer Deckungszusage für das Klageverfahren nicht mehr zustehen würde.&lt;/p&gt;
+
+&lt;h3 id=&quot;zum-prozess&quot;&gt;Zum Prozess:&lt;/h3&gt;
+
+&lt;p&gt;Da die Rechtsschutz Union dies nicht gelten ließ und lediglich auf die Möglichkeit eines Stichentscheides nach ihren ARB hinwies, erhob der Kläger nunmehr Klage gegen seinen eigene Rechtsschutzversicherung auf Übernahme der ihm durch den Vergleich entstandenen Kosten.&lt;/p&gt;
+
+&lt;p&gt;Es bleibt hier abzuwarten, wie sich die Rechtsschutz Union inhaltlich vor dem Amtsgericht Kelheim positionieren und wir das Gericht die Angelegenheit entscheiden wird.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/klage-gegen-rechtsschutz-union-vor-amtsgericht-kelheim/</link>
+        <guid isPermaLink="true">/blog/klage-gegen-rechtsschutz-union-vor-amtsgericht-kelheim/</guid>
+        
+        <category>Versicherungsrecht</category>
+        
+        <category>Klage</category>
+        
+        <category>Rechtsschutzversicherung</category>
+        
+        <category>Deckungsschutz</category>
+        
+        <category>Stichentscheid</category>
+        
+        <category>Mutwilligkeit</category>
+        
+        <category>Kostenübernahme</category>
+        
+        <category>Vergleich</category>
+        
+        <category>Rechtsschutz Union</category>
+        
+        <category>AdvoAdvice</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MoneyVita: Vergleich für betroffenen Anleger abgeschlossen</title>
+        <description>&lt;p class=&quot;present-before-paste&quot;&gt;In einem Rechtsstreit vor dem Landgericht Heilbronn hat die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin für einen Anleger der Gesellschaft mit dieser und deren Geschäftsführer einen Vergleich zur Zahlung von 5.200,00 Euro abgeschlossen.&lt;/p&gt;
+
+&lt;h3 class=&quot;present-before-paste&quot; id=&quot;zum-hintergrund&quot;&gt;Zum Hintergrund:&lt;/h3&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Die MoneyVita Treuhand GmbH &amp;amp; Co. KG nahm in der Vergangenheit Darlehen von Anlegern auf und versprach diesen hierfür eine seinerzeit attraktive Verzinsung. Der durch AdvoAdvice vertretene Kläger schloss am 14.10.2013 als Darlehensgeber mit der MoneyVita einen Darlehensvertrag mit einer Laufzeit von zehn Jahren, welcher im Jahr 2013 begann.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Der Kläger berichtete der Abschluss des Darlehens sei durch einen Berater vermittelt worden, der angegeben habe, dass es sich bei der vorliegenden Kapitalanlage um eine sichere Anlage mit guter Rendite handeln würde.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Die versprochenen Zinszahlungen in Höhe von 8% erhielt der Kläger jedoch nicht. Vielmehr erhielt er eine Information vom 27.03.2017, dass die MoneyVita die vereinbarten Auszahlungen nicht mehr leisten können. Sie bat daher um Aussetzung der Zahlung.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Damit war der Kläger nicht einverstanden und verlangte außergerichtlich die Rückzahlung des Darlehens. Da eine Rückzahlung nicht erfolgte, beschritt der Kläger den Klageweg.&lt;/p&gt;
+
+&lt;h3 class=&quot;present-before-paste&quot; id=&quot;der-prozess&quot;&gt;Der Prozess:&lt;/h3&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Für den betroffenen Anleger wurde daher durch die Kanzlei AdvoAdvice Rechtsanwälte am 19.12.2017 Klage zum Landgericht Heilbronn eingereicht.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Nachdem hier eine Klageerwiderung durch die Beklagtenseiten erfolgt und noch einmal eine Replik beim zuständigen Gericht eingereicht worden war, fand am 02.05.2018 der Termin zur mündlichen Hauptverhandlung statt. Hier wurde zunächst der betroffene Anleger vom Gericht zu dem Beratungsvorgang und dem Abschluss der Kapitalanlage angehört.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;&lt;img src=&quot;/uploads/money-1005464-640-1.jpg&quot; alt=&quot;MoneyVita Vergleich&quot; title=&quot;Money back durch Vergleich&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Danach schlug das Gericht den Prozessbeteiligten einen Vergleich vor, den diese dann auch abschlossen.&lt;/p&gt;
+
+&lt;h3 class=&quot;present-before-paste&quot; id=&quot;tipp-für-betroffene-anleger&quot;&gt;Tipp für betroffene Anleger:&lt;/h3&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Betroffene Anleger der MoneyVita sollten daher durch einen Experten im Bank-und Kapitalmarktrecht Ansprüche gegen die Anlagegesellschaft selbst, deren Geschäftsführer sowie gegen Berater bzw. Beratungsgesellschaften prüfen lassen.&lt;/p&gt;
+
+&lt;p class=&quot;present-before-paste&quot;&gt;Oftmals lenken die betroffenen Personen oder Gesellschaften erst nach Erhebung einer Zahlungsklage ein und bieten einen Vergleich an, wie der hier vorliegende Fall deutlich zeigt.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/moneyvita-vergleich-f%C3%BCr-betroffenen-anleger-abgeschlossen/</link>
+        <guid isPermaLink="true">/blog/moneyvita-vergleich-f%C3%BCr-betroffenen-anleger-abgeschlossen/</guid>
+        
+        <category>Anlegerschutz</category>
+        
+        <category>Kapitalmarktecht</category>
+        
+        <category>Ansprüche</category>
+        
+        <category>Betroffener</category>
+        
+        <category>Anleger</category>
+        
+        <category>MoneyVita Treuhand GmbH &amp; Co. KG</category>
+        
+        <category>Money Vita</category>
+        
+        <category>Klage</category>
+        
+        <category>Landgericht Heilbronn</category>
+        
+        <category>Darlehen</category>
+        
+        <category>Schadensersatz</category>
+        
+        <category>Vergleich</category>
+        
+        <category>Aussetzung</category>
+        
+        <category>Zahlung</category>
+        
+        <category>Zinsen</category>
+        
+        <category>AdvoAdvice</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kostenlose Selbstauskunft heißt jetzt Datenkopie</title>
+        <description>&lt;p&gt;Mit der Einführung der DSGVO ändern sich nicht nur die allgegenwärtigen Cookie-Einstellungen, sondern auch manche Begrifflichkeiten. Im Kontext der SCHUFA Holding AG trifft dies auf die vormals als “Kostenlose Selbstauskunft” auch damals noch richtig als “Datenübersicht” benannte Zusammenfassung des eigenen Datenbestandes bei der SCHUFA zu. Diese heißt nunmehr Datenkopie und kann &lt;a href=&quot;https://www.meineschufa.de/index.php?site=11_3&quot;&gt;hier &lt;/a&gt;angefordert werden.&lt;/p&gt;
+
+&lt;h3 id=&quot;was-ändert-sich&quot;&gt;Was ändert sich?&lt;/h3&gt;
+
+&lt;p&gt;Zunächst einmal ist die SCHUFA nun nicht mehr nach § 34 BDSG a.F. zur Beauskunftung der Daten verpflichtet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/data-858360-640-6.jpg&quot; alt=&quot;Bestellformalat Datenübersicht nach § 34 BDSG&quot; title=&quot;Altes Bestellformular&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diese Verpflichtung ergibt sich nun aus Art. 15 DSGVO. Der entscheidende Vorteil ist wohl, dass die Datenübersicht nunmehr nicht nur postalisch, sondern auch online bestellt werden kann. Der Versand erfolgt trotzdem postalisch.&lt;/p&gt;
+
+&lt;p&gt;Eine zweite Änderung dürfte darin zu sehen sein, dass die Datenschutzgrundverordnung keine Einschränkung auf ein kostenloses Exemplar pro Jahr vorsieht. Möglicherweise kann die Datenübersicht nun mehr als ein Mal pro Jahr angefordert werden, wenn es hierfür ein berechtigtes Interesse gibt.&lt;/p&gt;
+
+&lt;h3 id=&quot;wieso-sollte-man-sich-eine-kopie-der-daten-organisieren&quot;&gt;Wieso sollte man sich eine Kopie der Daten organisieren?&lt;/h3&gt;
+
+&lt;p&gt;Es ist wichtig, dass man in regelmäßigen Abständen seinen SCHUFA-Datenbestand überprüft. Dabei geht es nicht nur um sog. Negativeinträge, sondern auch generell um die Richtigkeit der Daten. Der Scorewert kann durch unrichtige Daten negativ beeinflusst werden, was sich früher oder später wiederum auf die Möglichkeit zum Abschluss von Verträgen auswirken kann.&lt;/p&gt;
+
+&lt;p&gt;Ein zweiter Vorteil ist darin zu sehen, dass man seine historisch Datenübersicht zu Beweiszwecken vorliegen hat. Falls es aus nicht vorhersehbaren Gründen zu Unregelmäßigkeiten kommt, kann dies bei der Klärung der Angelegenheit sowie der Aufklärung von Fakten helfen.&lt;/p&gt;
+
+&lt;p&gt;Darüber hinaus hat man nicht immer davon Kenntnis, dass ein negativer SCHUFA-Eintrag vorgenommen wurde. Schon deshalb rentiert es sich, regelmäßig die nun neue Datenkopie kostenfrei anzufordern und diese zu überprüfen.&lt;/p&gt;
+
+&lt;h3 id=&quot;schlechter-scorewert-oder-negativeintrag&quot;&gt;Schlechter Scorewert oder Negativeintrag?&lt;/h3&gt;
+
+&lt;p&gt;Sollten Sie feststellen, dass Ihr Scorewert in einem schlechten Bereich oder ein negativer Eintrag in Ihrem Datenbestand zu finden ist, sollten Sie umgehend die Hilfe eines Experten in Anspruch nehmen. In diese Fällen kann eine schnelle Intervention weiterhelfen. Gerne können Sie uns diesbezüglich unter 030/921 000 40 oder unter info@advoadvice.de kontaktieren.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+        <link>/blog/kostenlose-selbstauskunft-hei%C3%9Ft-jetzt-datenkopie/</link>
+        <guid isPermaLink="true">/blog/kostenlose-selbstauskunft-hei%C3%9Ft-jetzt-datenkopie/</guid>
+        
+        <category>Schufa-Recht</category>
+        
+        <category>Schufa</category>
+        
+        <category>Schufa Holding AG</category>
+        
+        <category>Datenkopie</category>
+        
+        <category>Selbstauskunft</category>
+        
+        <category>Verbraucherinformation</category>
+        
+        <category>Datenübersicht</category>
+        
+        <category>§ 34 BDSG</category>
+        
+        <category>Art. 15 DSGVO</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rückabwicklung des Immobilienkaufs - Notarhaftung im Fokus</title>
+        <description>&lt;p&gt;Wenn es um Notare geht, ist oft eine Menge Geld im Spiel und die Angelegenheit ist den beteiligten Parteien besonders wichtig: Es geht um Grundstücke, Erbschaftsangelegenheiten, Unternehmen oder andere weitreichende Verträge. Fehler können hier besonders teuer werden und auch weitereichende Folgen haben. Besonders beim Immobilienkauf von Verbrauchern gegenüber Bauträgern und Finanzberatungsunternehmen sind Notare in der Vergangenheit zum Teil aus Ihrer parteilosen Rolle herausgetreten.&lt;/p&gt;
+
+&lt;h3 id=&quot;der-notar-als-unabhängiger-und-unparteiischer-betreuer&quot;&gt;Der Notar als unabhängiger und unparteiischer Betreuer&lt;/h3&gt;
+
+&lt;p&gt;Bei allen beurkundungsbedürftigen Verträgen sind Notare für den Vertragsschluss nötig und gesetzlich vorgesehen. Ein Notar ist als Amtsperson der besonderen Neutralität verpflichtet. Er ist unabhängiger und unparteiischer Betreuer aller Parteien. Doch was passiert, wenn dem Notar Fehler unterlaufen? Oder, wie es beim Vertrieb von so genannten “Schrottimmobilie” des Öfteren vorkam, so genannte “Mitternachtsnotare” überteuerte Eigentumswohnungen am Fließband mit gutgläubigen Verbrauchern beurkundeten?  Wann haftet der Notar einer Partei auf Schadensersatz?&lt;/p&gt;
+
+&lt;p&gt;Der Notar haftet – wie jede andere Person auch – wenn er eine Amtspflicht vorsätzlich oder fahrlässig verletzt, er dadurch einen Schaden verursacht und die Haftung nicht ausgeschlossen ist. Er haftet zudem auch für das von ihm eingesetzte Personal. Der Notar steht als Beliehener dem Staat besonders nahe und hat daher besondere Pflichten, die er nicht verletzen darf. Diese Pflichten stehen im Gesetz oder kommen aus der Rechtsprechung. Danach muss der Notar sein Amt unabhängig und unparteilich ausüben (§ 14 Bundesnotarordnung). Zudem hat er die Parteien ordnungsgemäß aufzuklären, die Verschwiegenheit zu wahren und er muss die aktuelle Rechtsprechung kennen. Er darf sich auch nicht für unerlaubte Zwecke, beispielsweise den Vertrieb von Schrottimmobilien, einspannen lassen.&lt;/p&gt;
+
+&lt;h3 id=&quot;belehrungsfehler&quot;&gt;Belehrungsfehler&lt;/h3&gt;
+
+&lt;p&gt;Eine der oft anfallenden Notaraufgaben ist die Niederschrift und Belehrung der Beteiligten bei Verträgen. Bei Verträgen, die sich als Nachteil für eine Seite herausstellen, steht dann oft die Frage im Raum, ob der Notar eine seiner Pflichten verletzt hat und folglich zum Schadensersatz verpflichtet ist.&lt;/p&gt;
+
+&lt;p&gt;Bei der öffentlichen Beglaubigung von Unterschrift oder Abschrift  bestätigt der Notar nur deren Richtigkeit. Hier treffen den Notar folglich nur sehr wenig Pflichten.&lt;/p&gt;
+
+&lt;p&gt;Bei der öffentlichen Beurkundung von Willenserklärungen hingegen muss der Notar den Willen der Parteien erforschen, den Sachverhalt aufklären und die Beteiligten neutral über die rechtliche Tragweite des Geschäfts belehren. Sodann hat er die Erklärungen unzweideutig niederzuschreiben (§ 17 Beurkundungsgesetz). Verletzt der Notar hierbei seine Belehrungspflicht zur neutralen und umfassenden Aufklärung vorsätzlich oder fahrlässig, haftet er gegebenenfalls auf Schadensersatz.&lt;/p&gt;
+
+&lt;h3 id=&quot;haftung-bei-unterlassen-einer-rückabwicklung-von-verträgen&quot;&gt;Haftung bei Unterlassen einer Rückabwicklung von Verträgen&lt;/h3&gt;
+
+&lt;p&gt;Problematischer ist aber, ob der Notar auch haftet, wenn er beispielsweise ein Grundstück auf den Käufer umschreibt und den Kaufpreis an der Verkäufer weiterleitet, obwohl eine Partei den Vertrag bereits widerrufen hat oder davon zurückgetreten ist.&lt;/p&gt;
+
+&lt;p&gt;Die Haftung ist unter anderem davon abhängig, ob die Willenserklärungen unwiderruflich oder widerruflich von den Parteien abgegeben wurden. Wurden die Willenserklärungen unwiderruflich abgegeben – was bei einem notariellen Kaufvertrag über Grundstücke gemäß § 873 Absatz 2 BGB immer der Fall ist – kann der Vertrag grundsätzlich nicht wirksam widerrufen werden. Ist für eine Partei jedoch ein Widerruf oder Rücktritt im Vertrag explizit vorgesehen oder liegen besondere gesetzliche Rücktrittsgründe vor, kann sich eine Partei wieder vom Vertag lösen. Hat sich eine Partei vom Vertrag gelöst, ist der Vertrag nicht mehr wirksam. Die Folgen des Vertrages dürfen dann nicht weiter herbeigeführt werden.&lt;/p&gt;
+
+&lt;p&gt;Doch was passiert nun, wenn der Notar die Grundstücksumschreibung aus einem Kaufvertrag weiter vorantreibt, obwohl bereits ein Widerruf oder Rücktritt vorliegt?&lt;/p&gt;
+
+&lt;p&gt;Die Pflicht des Notars ist es – im Einvernehmen der Parteien – die Grundstücksumschreibung entsprechend dem Kaufvertrag durchzuführen. Dies gilt aber nur solange, wie der Kaufvertrag auch wirksam ist. Wurde der Kaufvertrag widerrufen oder davon zurückgetreten, ist der Notar verpflichtet die Grundstücksumschreibung sofort zu beenden und alles Bisherige rückabzuwickeln. Tut der Makler dies nicht, begeht er eine Pflichtverletzung und haftet gegebenenfalls.&lt;/p&gt;
+
+&lt;h3 id=&quot;besonderheiten-der-notarhaftung&quot;&gt;Besonderheiten der Notarhaftung&lt;/h3&gt;
+
+&lt;p&gt;Notare sind nach dem Gesetzt zum Abschluss einer Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 500.000,00 Euro für jeden Versicherungsfall verpflichtet.&lt;/p&gt;
+
+&lt;p&gt;Bei grober Fahrlässigkeit haftet der Notar zudem gemäß § 19 Absatz 1 Bundesnotarordnung nur dann, wenn Verletzte nicht auf andere Weise Ersatz zu erlangen vermag.&lt;/p&gt;
+
+&lt;p&gt;Notare sind damit weitreichend davor geschützt, den Schadensersatz aus eigenem Vermögen zu bezahlen, um sie nicht persönlich in den finanziellen Ruin zu treiben.&lt;/p&gt;
+
+&lt;h3 id=&quot;zusammenfassung&quot;&gt;Zusammenfassung&lt;/h3&gt;
+
+&lt;p&gt;Die Notarhaftung ist ein komplexes Feld, welches viel durch die Rechtsprechung geformt wurde und wird.  Steht die Möglichkeit bei einem Schaden eine Pflichtverletzung im Raum, sollten Betroffene daher kompetenten Rechtsrat suchen. Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen von der Kanzlei AdvoAdvice Rechtsanwälte hat mit seinem Team bereits eine Vielzahl von Fällen bearbeitet, bei denen eine mögliche Notarhaftung Teil der anwaltlichen Anspruchsdurchsetzung war: “Nachdem die Rechtsprechung anfangs in Bezug auf die Haftung von Notaren noch in den Kinderschuhen war, haben sich zwischenzeitlich auch gegen Notare durchsetzbare Anspruchsgrundlagen und Konstellationen ergeben, die bei fehlgeschlagenen beurkundungspflichtigen Verträgen zu einer Schadenersatzpflicht des Notars führen können.”. Nicht immer muss es dabei zu einem langen und kostenträchtigen Gerichtsprozess kommen. Fachanwalt Klevenhagen dazu: “Es gibt kein Patentrezept. Jeder Fall ist anders und die Hürden, die zu einer Notarhaftung übersprungen werden müssen, sind der komplexen Rechtsmaterie geschuldet. Die Klägerseite muss beweisen, dass der Notar seine Beurkundungs- und Sorgfaltspflichten verletzt hat und genau dies zu einem ersatzfähigen Schaden geführt hat. Bloße Beschuldigungen oder Vermutungen reichen dazu nicht aus.”&lt;/p&gt;
+
+&lt;p&gt;Rechtsanwalt Klevenhagen rät indes zur Besonnenheit: “Häufig sind Vergleiche möglich. Mir geht es darum, gemeinsam mit meinen Mandanten eine schnelle und auch wirtschaftlich sinnvolle, dauerhafte Lösung zu finden. Viele meiner Mandanten sind überrascht, wenn sich nach dem Ergebnis der Prüfung Ansatzpunkte für eine Strategie ergeben, die eine Verhandlungslösung ermöglichen. Wenn es nötig und sinnvoll ist, muss man aber auch kämpfen können.”   Er rät daher, sich erst einmal Rat bei einem Anwalt zu suchen, um die Erfolgsaussichten abzuklären.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+        <link>/blog/r%C3%BCckabwicklung-des-immobilienkaufs-notarhaftung-im-fokus/</link>
+        <guid isPermaLink="true">/blog/r%C3%BCckabwicklung-des-immobilienkaufs-notarhaftung-im-fokus/</guid>
+        
+        <category>Klevenhagen</category>
+        
+        <category>Immobilienrecht</category>
+        
+        <category>Schrottimmobilie</category>
+        
+        <category>Immobilienkredit</category>
+        
+        <category>Notar</category>
+        
+        <category>AdvoAdvice</category>
+        
+        <category>Haftung</category>
+        
+        <category>Eigentumswohnung</category>
+        
+        <category>Makler</category>
+        
+        <category>Mitternachtsnotar</category>
+        
+        <category>Notarhaftung</category>
+        
+        <category>Rückabwicklung</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lebensversicherung im Sinkflug - Chance auf Widerspruch prüfen lassen</title>
+        <description>&lt;p&gt;Die BILD berichtet heute online, dass nach ihren Recherchen 34 Anbietern von Lebensversicherung finanzielle Probleme drohen. Dies soll nach Angaben der Zeitung mit dem dauerhaften Zinstief zusammenhängen, welches es den Anbietern immer schwerer mache, hohe Zinsen für ihre Kunden und die zugesagten Garantien zu erwirtschaften. Es wird daher mit dem Titel aufgemacht: “Soll ich meine Police jetzt kündigen?”&lt;/p&gt;
+
+&lt;h3 id=&quot;bgh-bestätigt-regelung-zu-bewertungsreserven&quot;&gt;BGH bestätigt Regelung zu Bewertungsreserven&lt;/h3&gt;
+
+&lt;p&gt;Passend zu dieser Schlagzeile wurde gestern eine Pressemittelung zu einer Entscheidung des Bundesgerichtshofs zum Az. IV ZR 201/17 bekannt, wonach § 153 Abs. 3 Satz 3 des Versicherungsvertragsgesetzes (VVG) in der Fassung des Lebensversicherungsreformgesetzes vom 7. August 2014, nicht als verfassungswidrig eingestuft wurde.&lt;/p&gt;
+
+&lt;p&gt;Die Regelung führt im Ergebnis dazu, dass ein Versicherer Bewertungsreserven aus direkt oder indirekt vom Versicherungsunternehmen gehaltenen festverzinslichen Anlagen und Zinsabsicherungsgeschäften bei der Beteiligung der Versicherungsnehmer an Bewertungsreserven nur insoweit berücksichtigen darf, als sie einen etwaigen Sicherungsbedarf aus den Verträgen mit Zinsgarantie überschreiten.&lt;/p&gt;
+
+&lt;p&gt;Das führt in der Praxis zur Kürzung von Auszahlungen an die Kunden und somit zu einer Reduzierung der Ablaufleistung bei Kündigung oder Ablauf des Versicherungsvertrages.&lt;/p&gt;
+
+&lt;h3 id=&quot;versicherungskunden-sollten-widerrufsmöglichkeit-überprüfen-lassen&quot;&gt;Versicherungskunden sollten Widerrufsmöglichkeit überprüfen lassen&lt;/h3&gt;
+
+&lt;p&gt;Viele Lebensversicherungsverträge und Rentenversicherungsverträge, egal ob klassisch oder auch fondsgebunden, bieten für den Versicherten auch noch eine andere Möglichkeit, sich vom Vertrag zu lösen. Hier ist ein Blick in die Widerrufsbelehrung, die eigentlich Widerspruchsbelehrung heißt, notwendig.&lt;/p&gt;
+
+&lt;p&gt;Ist dort ein Belehrungsfehler enthalten, z.B. über den Fristbeginn oder die Widerrufsmöglichkeiten, kann der Vertrag durch den Kunden widerrufen und Rückzahlung aller eingezahlten Beiträge plus Zinsen abzgl. einer Risikoprämie für den Versicherungsteil von der Versicherungsgesellschaft gefordert werden.&lt;/p&gt;
+
+&lt;h3 id=&quot;expertenwissen-zahlt-sich-aus&quot;&gt;Expertenwissen zahlt sich aus&lt;/h3&gt;
+
+&lt;p&gt;Es macht daher in jedem Fall sich, sich hier zur Prüfung eines bereits in die Jahre gekommenen Lebensversicherungsvertrages an spezialisierte Rechtsanwälte zu wenden.&lt;/p&gt;
+
+&lt;p&gt;Rechtsanwalt Dr. Sven Tintemann ist schon seit Jahres auf diesem Rechtsgebiet tätig und hat maßgeblich an einem Verfahren mitgewirkt, welches letztendlich zu bekannten Entscheidung des Europäischen Gerichtshofes (EuGH) geführt hat, welcher den § 5 a VVG a.F. für nicht europarechtkonform gehalten und somit zahlreichen Versicherungskunden neue Widerspruchsmöglichkeiten zugestanden hat.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+        <link>/blog/lebensversicherung-im-sinkflug-chance-auf-widerspruch-pr%C3%BCfen-lassen/</link>
+        <guid isPermaLink="true">/blog/lebensversicherung-im-sinkflug-chance-auf-widerspruch-pr%C3%BCfen-lassen/</guid>
+        
+        <category>Verbraucherinformation</category>
+        
+        <category>Lebensversicherung</category>
+        
+        <category>Kündigung</category>
+        
+        <category>Widerspruch</category>
+        
+        <category>Widerruf</category>
+        
+        <category>Rückabwicklung</category>
+        
+        <category>Ausstieg</category>
+        
+        <category>Prüfung</category>
+        
+        <category>Rückzahlung</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Klage gegen Butlers vor LG Köln eingereicht</title>
+        <description>&lt;p&gt;Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat für eine Anlegerin aus München Klage gegen die Butlers GmbH &amp;amp; Co. KG aus Köln vor dem Landgericht Köln eingereicht.&lt;/p&gt;
+
+&lt;h3 id=&quot;genussscheine-selbständig-erworben&quot;&gt;Genussscheine selbständig erworben&lt;/h3&gt;
+
+&lt;p&gt;Die Klägerin hatte bei der Butlers noch vor deren Insolvenzantragsverfahren Genussrechte im Wert von 60.000 Euro erworben. In den Genussrechtsbedingungen war u.a. auch ein sog. Rangrücktritt enthalten.&lt;/p&gt;
+
+&lt;p&gt;Die Forderungen aus den Genussrechten sollen durch die Insolvenz und die im Vertrag enthaltene Nachrangklausel weggefallen sein und somit nicht mehr an die Anlegerin zur Rückzahlung gelangen können. Das ist zumindest die Rechtsansicht des Insolvenzverwalters und auch der Rechtsanwälte, die die Butlers GmbH &amp;amp; Co. KG bisher außergerichtlich vertreten haben.&lt;/p&gt;
+
+&lt;h3 id=&quot;zwei-rechtliche-ansatzpunkte-als-ausweg-aus-der-misere-für-die-betroffene-anlegerin&quot;&gt;Zwei rechtliche Ansatzpunkte als Ausweg aus der Misere für die betroffene Anlegerin&lt;/h3&gt;
+
+&lt;p&gt;Diese Rechtsansicht soll nun auf der Grundlage von zwei unterschiedlichen Ansatzpunkten gerichtlich einer Klärung zugeführt werden, da die betroffene Anlegerin sonst leer ausgehen und sich ein Schaden von mindestens 53.500 Euro realisieren würde.&lt;/p&gt;
+
+&lt;p&gt;Zum einen wurde mit der Klageschrift geltend gemacht, dass die in den Genussrechtsbedingungen enthaltene Nachrangklausel unwirksam war. Dies führt aus Sicht der Klägerin dazu, dass die Klausel nicht zu einem Wegfall der Forderung im Insolvenzverfahren führen konnte.&lt;/p&gt;
+
+&lt;p&gt;Zudem könnte dann, wenn die Klausel unwirksam sein sollte, auch ein Betreiben eines erlaubnispflichtigen Einlagengeschäfts ohne Erlaubnis der BaFin nach dem Kreditwesengesetz (KWG) vorgelegen haben.&lt;/p&gt;
+
+&lt;p&gt;Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice aus Berlin, der die Klage hier eingereicht hat, kommentiert: “Die Anlegerin hat hier nach Ansicht des Insolvenzverwalters und der Butlers schlicht Pech und würde somit alles eingezahlte Geld verlieren. Ziel der Klage ist es, diese Rechtsansicht in Zweifel zu ziehen und hier zu einer Entscheidung zu kommen, mit der die Anlegerin ihr Geld zurück erhält.”&lt;/p&gt;
+
+&lt;p&gt;AdvoAdvice wird über den Prozessverlauf weiter berichten. Weitere betroffene Anleger, die Gelder in Genussrechte von Butlers investiert haben, sollten sich daher regelmäßig informiert halten oder eine Anfrage für eine anwaltliche Erstberatung unter info@advoadvice.de stellen.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+        <link>/blog/klage-gegen-butlers-vor-lg-k%C3%B6ln-eingereicht/</link>
+        <guid isPermaLink="true">/blog/klage-gegen-butlers-vor-lg-k%C3%B6ln-eingereicht/</guid>
+        
+        <category>Verbraucherinformation</category>
+        
+        <category>Klage</category>
+        
+        <category>Butlers</category>
+        
+        <category>Genussrechte</category>
+        
+        <category>Insolvenz</category>
+        
+        <category>Nachrangklausel</category>
+        
+        <category>unwirksam</category>
+        
+        <category>Einlagengeschäft</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unsere Kanzlei in der Presse: Hamburger Morgenpost verweist auf unseren Blog</title>
+        <description>&lt;p&gt;Bei einem Bericht über ein aktuelles Strafverfahren vor der Wirtschaftsstrafkammer des Landgerichts Hamburg hat die Hamburger Morgenpost (MoPo) im Rahmen der Berichterstattung auf einen Beitrag im Blog von AdvoAdvice verwiesen (–&amp;gt; &lt;a href=&quot;https://www.mopo.de/hamburg/polizei/prozessauftakt-gauner-trio-erbeutet-fast-eine-halbe-million-euro-mit-aktien-betrug-30628130?dmcid=nl_20180618_30628130#&quot; target=&quot;_blank&quot;&gt;Zum Bericht der MoPo&lt;/a&gt;). Über das Strafverfahren wurde u.a. auch in der BILD berichtet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/mopo-hamburg-2.png&quot; alt=&quot;Hamburger Morgenpost - Logo - Fremde Marke&quot; title=&quot;Logo MoPo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zu dem Bericht der MoPo ist ergänzend mitzuteilen, dass die Entscheidung des LG Stuttgart, welche durch die Hamburger Morgenpost zitiert worden ist, nicht rechtskräftig geworden ist. Die Parteien des Rechtsstreits hatten sich in zweiter Instanz vor dem OLG Stuttgart im Wege eines Vergleiches geeinigt.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+        <link>/blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/</link>
+        <guid isPermaLink="true">/blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/</guid>
+        
+        <category>Experten</category>
+        
+        <category>Presse</category>
+        
+        <category>Blog</category>
+        
+        <category>AdvoAdvice</category>
+        
+        <category>Morgenpost</category>
+        
+        
+      </item>
+    
   </channel>
 </rss>
