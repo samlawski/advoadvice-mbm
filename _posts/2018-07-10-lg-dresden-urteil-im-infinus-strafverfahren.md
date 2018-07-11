@@ -24,7 +24,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hintermänner des Infinus-Skandals nunmehr seine Urteile gesprochen. Diese wurden bereits mit Spannung erwartet und wurden am 09.07.2018 verkündet.
+Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hinterm&auml;nner des Infinus-Skandals nunmehr seine Urteile gesprochen. Diese wurden bereits mit Spannung erwartet und wurden am 09.07.2018 verk&uuml;ndet. Die sechs Hauptangeklagten wurden zu Haftstrafen verurteilt.
 
 ![Landgericht Dresden](/uploads/lg-dresden---eingang-ii.jpg "Eingang Landgericht Dresden")
 
@@ -32,8 +32,8 @@ Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hintermänner
 
 Damit geht ein wichtiger Teil der Aufarbeitung der Pleite der Infinus Gruppe und ihrer Tochterfirmen, z.B. der Future Business KG (kurz FuBus), der Prosavus AG und der EcoConsort, welche zahlreiche weitere Firmen mit in die Insolvenz gerissen und einen immensen Schaden verursacht haben, erst einmal zu Ende.
 
-Die verurteilten Angeklagten haben die Möglichkeit, die Entscheidung im Rahmen einer Revision durch den Bundesgerichtshof überprüfen zu lassen. Es ist sehr wahrscheinlich, dass dies auch erfolgen wird.
+Die verurteilten Angeklagten haben die M&ouml;glichkeit, die Entscheidung im Rahmen einer Revision durch den Bundesgerichtshof &uuml;berpr&uuml;fen zu lassen. Es ist sehr wahrscheinlich, dass dies auch erfolgen wird.
 
-### Zeit für die Zivilgerichte, auch ihre Instanz abzuschließen
+### Zeit f&uuml;r die Zivilgerichte, auch ihre Instanz abzuschlie&szlig;en
 
-Dr. Sven Tintemann, der zahlreiche Anleger im Infinus-Skandal begleitet und berät kommentiert die Entscheidung wie folgt: "Es war zu erwarten, dass die Hauptangeklagten hier verurteilt werden. Die Urteile sind dennoch relativ mild ausgefallen, was bei Prozessbeginn nicht unbedingt zu erwarten war. Sollte die Verurteilung bestehen bleiben, ist auch klar, dass die Anleger gegen die verurteilten Straftäter Schadenersatzansprüche geltend machen können. Da der Schaden aber riesig ist, wird wohl für die Anleger nur wenig zu holen sein. Zumindest besteht jetzt auch für das mit den Zivilprozessen hoffnungslos überlastete Landgericht Leipzig die Möglichkeit, die Schadensersatzklage gegen die Hauptangeklagten weiter fortzusetzen.
+Dr. Sven Tintemann, der zahlreiche Anleger im Infinus-Skandal begleitet und ber&auml;t kommentiert die Entscheidung wie folgt: "Es war zu erwarten, dass die Hauptangeklagten hier verurteilt werden. Die Urteile sind dennoch relativ mild ausgefallen, was bei Prozessbeginn nicht unbedingt zu erwarten war. Sollte die Verurteilung bestehen bleiben, ist auch klar, dass die Anleger gegen die verurteilten Straft&auml;ter Schadenersatzanspr&uuml;che geltend machen k&ouml;nnen. Da der Schaden aber riesig ist, wird wohl f&uuml;r die Anleger nur wenig zu holen sein. Zumindest besteht jetzt auch f&uuml;r das mit den Zivilprozessen hoffnungslos &uuml;berlastete Landgericht Leipzig die M&ouml;glichkeit, die Schadensersatzklage gegen die Hauptangeklagten weiter fortzusetzen.
