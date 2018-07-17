@@ -37,6 +37,8 @@ Dar&uuml;ber hinaus war die SCHUFA gem. &sect; 35 Abs. 5 BDSG 2010 in H&auml;rte
 
 Unter dem Geltungsbereich der DSGVO kann die SCHUFA ihre bisherige L&ouml;schungspraxis bei H&auml;rtef&auml;llen nach eigenen Angaben nicht fortf&uuml;hren ([Frage: Berichtigung, Widerspruchsrecht, H&auml;rtefallregelung](https://www.schufa.de/de/ueber-uns/daten-scoring/ds-gvo-ueberblick/ds-gvo-ueberblick.jsp){: target="_blank"}). Damit kann nicht mehr mit Sicherheit gesagt werden, ob und wann eine L&ouml;schung aus Kulanz nach schnellem Ausgleich einer offenen und nicht titulierten Forderung vorgenommen wird. Die SCHUFA wird dies nun im Einzelfall pr&uuml;fen.
 
+![](/uploads/dsgvo-3446011-1920-2.jpg)
+
 Jeder Betroffene kann dar&uuml;ber hinaus gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Datenverarbeitung einlegen. Dazu muss er Gr&uuml;nde vortragen, welche sich aus seiner pers&ouml;nlichen Situation ergeben. Diese werden dann gegen die Interessen der SCHUFA abgewogen. Sofern die Interessen der SCHUFA &uuml;berwiegen, k&ouml;nnen die Daten auch weiterhin verarbeitet werden.
 
 ### Bewertung
