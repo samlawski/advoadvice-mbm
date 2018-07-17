@@ -1,6 +1,6 @@
 ---
 title: Rechtsschutz Union auf Kostenübernahme vor LG Berlin verklagt
-date: 2018-07-16 00:00:00
+date: 2018-07-17 00:00:00
 seo_beschreibung: Klage gegen Rechtsschutz Union vor Landgericht Berlin eingereicht
 layout: post
 feature_bild_path:
