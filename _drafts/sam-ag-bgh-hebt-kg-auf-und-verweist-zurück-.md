@@ -29,6 +29,8 @@ Der Bundesgerichtshof hat auf eine zugelassene Revision hin eine Enscheidung des
 
 Hintergrund des Prozesses war eine Klage gegen den ehemaligen Vorstandsvorsitzenden der SAM AG, den Verwaltungsrat O., auf Schadensersatz wegen des Betreibens erlaubnispflichtiger Einlagengesch&auml;fte ohne Erlaubnis der BaFin sowie wegen des Angebotes und der Durchf&uuml;hrung von Rechtsdienstleistungen ohne entsprechende Genehmigung.
 
+![Kammergericht Außenansicht](/uploads/kammergericht-quer-1.JPG "Kammergericht - Rechte bei AdvoAdvice")
+
 Das Landgericht Berlin hatte hier dem Kl&auml;ger zun&auml;chst Schadensersatzanspr&uuml;che zuerkannt. Die Entscheidung wurde durch den 26. Zivilsenat des Berliner Kammergerichts dann aus Sicht der hier t&auml;tigen Rechtsanw&auml;lte aufgehoben und die Klage abgewiesen. Das Kammergericht lie&szlig; jedoch die Revision zu.
 
 ### Die Entscheidung:
