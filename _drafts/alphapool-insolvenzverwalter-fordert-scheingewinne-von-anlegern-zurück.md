@@ -46,6 +46,8 @@ Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice Rechtsanw&auml;lte i
 
 Vor dem Landgericht Saarbr&uuml;cken wurde daher gegen den Gesch&auml;ftsf&uuml;hrer und zwei Hinterm&auml;nner verhandelt. Die Verhandlung endete nach Pressberichten mit einer Verurteilung der teilweise gest&auml;ndigen Hauptt&auml;ter.
 
+![](/uploads/academia-1293362-640-1.png)
+
 Der Hauptangeklagte erhielt demnach eine Haftstrafe von sieben Jahren, die beiden Mitangeklagten sechseinhalb beziehungsweise sechs Jahre und drei Monate. Au&szlig;erdem wird Verm&ouml;gen in&nbsp; H&ouml;he von 1,3 Millionen Euro eingezogen. Die Wirtschaftsstrafkammer hielt es f&uuml;r erwiesen, dass das Trio bundesweit 900 Anleger um rund sieben Millionen Euro geprellt hat. Die gebe sich aus der Faktenlage und Urkunden ganz deutlich, so das Gericht.
 
 Die Strafverteidiger haben bereits Revision gegen die Verurteilung angek&uuml;ndigt.
