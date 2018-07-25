@@ -44,13 +44,19 @@ Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice Rechtsanw&auml;lte i
 
 ### Strafrechtliche Aufarbeitung:
 
-Vor dem Landgericht Saarbr&uuml;cken wurde daher gegen den Gesch&auml;ftsf&uuml;hrer und zwei Hinterm&auml;nner verhandelt. Die Verhandlung endete nach Pressberichten mit einer Verurteilung der teilweise gest&auml;ndigen Hauptt&auml;ter.
+Vor dem Landgericht Saarbr&uuml;cken wurde daher gegen den Gesch&auml;ftsf&uuml;hrer und zwei Hinterm&auml;nner verhandelt. Die Verhandlung endete nach Pressberichten und Angaben des Insolvenzverwalters mit einer Verurteilung der teilweise gest&auml;ndigen Hauptt&auml;ter durch Urteil vom 28.05.2018.
 
 ![](/uploads/academia-1293362-640-1.png)
 
 Der Hauptangeklagte erhielt demnach eine Haftstrafe von sieben Jahren, die beiden Mitangeklagten sechseinhalb beziehungsweise sechs Jahre und drei Monate. Au&szlig;erdem wird Verm&ouml;gen in&nbsp; H&ouml;he von 1,3 Millionen Euro eingezogen. Die Wirtschaftsstrafkammer hielt es f&uuml;r erwiesen, dass das Trio bundesweit 900 Anleger um rund sieben Millionen Euro geprellt hat. Die gebe sich aus der Faktenlage und Urkunden ganz deutlich, so das Gericht.
 
 Die Strafverteidiger haben bereits Revision gegen die Verurteilung angek&uuml;ndigt.
+
+### Sachstandsbericht des Insolvenzverwalters
+
+Nach Angaben des Insolvenzverwalters in dessen zuletzt ver&ouml;ffentlichten 5. Sachstandsbericht haben mittlerweile 618 Gl&auml;ubiger Forderungen in H&ouml;he von 11.231.597,93 Euro als Insolvenzforderungen zur Tabelle angemeldet. Davon wurden durch den Insolvenzverwalter Forderungen in H&ouml;he von 8.293.431,47 Euro festgestellt und Forderungen in H&ouml;he von 2.938.166,46 Euro bestritten. Weitere Forderungsanmeldungen sind noch zu pr&uuml;fen.
+
+Nach momentanem Stand des Verfahrens sieht der Insolvenzverwalter keine Aussichten auf Befriedigung der Insolvenzgl&auml;ubiger. Wenn jedoch noch Zahlungen an die Insolvenzmasse aus einer R&uuml;ckabwicklung eines Grundst&uuml;ckskaufvertrages realisiert werden k&ouml;nnen, sei von einer Quotalen Befriedigung der Insolvenzgl&auml;ubiger auszugehen.
 
 ### Zivilrechtliche Anspr&uuml;che verj&auml;hren zu Jahresende
 
