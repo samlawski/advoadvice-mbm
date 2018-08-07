@@ -1,6 +1,6 @@
 ---
 title: Barclays Bank widerruft SCHUFA-Eintrag nach gerichtlichem Vergleich
-date:
+date: 2018-08-07 00:00:00
 seo_beschreibung: Forderung bei der SCHUFA nach gerichtlichem Vergleich widerrufen.
 layout: post
 feature_bild_path:
@@ -20,22 +20,20 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-In den verganenen Monaten wurde bereits mehrach berichtet, dass negative SCHUFA-Eintr&auml;ge, welche durch die Barclays Bank PLC eingemeldet wurden, zur L&ouml;schung gebracht oder widerrufen wurden (siehe z.B. [Reaktion in Rekordzeit](https://advoadvice.de/blog/schufa-eintrag-der-barclays-bank-reaktion-in-rekordzeit/)). Erneut konnten die Advoadvice Rechtsanw&auml;lte nun einem Betroffenen helfen.
+In den verganenen Monaten wurde bereits mehrach berichtet, dass negative SCHUFA-Einträge, welche durch die Barclays Bank PLC eingemeldet wurden, zur Löschung gebracht oder widerrufen wurden (siehe z.B. [Reaktion in Rekordzeit](https://advoadvice.de/blog/schufa-eintrag-der-barclays-bank-reaktion-in-rekordzeit/)). Erneut konnten die Advoadvice Rechtsanwälte nun einem Betroffenen helfen.
 
-### Umschuldung und K&uuml;ndigung
+### Umschuldung und Kündigung
 
-Anfang des Jahres 2017 wollte der Betroffene einige Kredite umschulden. Dazu sollten die entsprechenden Konten bei der Barclays Bank geschlossen werden. In der Folgezeit nahm der Betroffene von der K&uuml;ndigung Abstand und wollte die Konten weiterf&uuml;hren. Aufgrund der darauf folgenden Korrespondenz und der &Uuml;bersendung monatlicher Konto&uuml;bersichten ging der Kunde der Barclays Bank davon aus, die Konten auch weiter nutzen zu k&ouml;nnen.
+Anfang des Jahres 2017 wollte der Betroffene einige Kredite umschulden. Dazu sollten die entsprechenden Konten bei der Barclays Bank geschlossen werden. In der Folgezeit nahm der Betroffene von der Kündigung Abstand und wollte die Konten weiterführen. Aufgrund der darauf folgenden Korrespondenz und der Übersendung monatlicher Kontoübersichten ging der Kunde der Barclays Bank davon aus, die Konten auch weiter nutzen zu können.
 
-Im M&auml;rz 2017 wurde der Betroffene sodann &uuml;berraschender Weise dar&uuml;ber informiert, dass er den Gesamtsaldo zur&uuml;ckzuzahlen habe und die Forderung an die SCHUFA Holding AG&nbsp; &uuml;bermittelt wird. Kurz darauf glich der ehemalige Kunde Barclays Bank den Gesamtsaldo aus. Die Negativeintragung blieb jedoch -als erledigtes Merkmal- bestehen.
+Im März 2017 wurde der Betroffene sodann überraschender Weise darüber informiert, dass er den Gesamtsaldo zurückzuzahlen habe und die Forderung an die SCHUFA Holding AG  übermittelt wird. Kurz darauf glich der ehemalige Kunde Barclays Bank den Gesamtsaldo aus. Die Negativeintragung blieb jedoch -als erledigtes Merkmal- bestehen.
 
 ### Gerichtlicher Vergleich
 
-Im gerichtlichen Verfahren wurde sodann dar&uuml;ber gestritten, ob die Voraussetzungen f&uuml;r eine Daten&uuml;bermittlung vorlagen. Die Advoadvice Rechtsanw&auml;lte arbeiteten dabei heraus, dass angeblich an den Kl&auml;ger versandte Schreiben nicht zugegangen sind. Selbst wenn diese Schreiben zugegangen w&auml;ren, w&auml;re ein Negativeintrag nach den Voraussetzungen des &sect; 28a Abs. 1 Bundesdatenschutzgesetz a.F. nicht m&ouml;glich gewesen, da die Schreiben aus Sicht der Advoadvice Rechtsanw&auml;lte inhaltliche Fehler aufwiesen.
+Im gerichtlichen Verfahren wurde sodann darüber gestritten, ob die Voraussetzungen für eine Datenübermittlung vorlagen. Die Advoadvice Rechtsanwälte arbeiteten dabei heraus, dass angeblich an den Kläger versandte Schreiben nicht zugegangen sind. Selbst wenn diese Schreiben zugegangen wären, wäre ein Negativeintrag nach den Voraussetzungen des § 28a Abs. 1 Bundesdatenschutzgesetz a.F. nicht möglich gewesen, da die Schreiben aus Sicht der Advoadvice Rechtsanwälte inhaltliche Fehler aufwiesen.
 
-Zur Abwendung eines Gerichtstermins und eines darauf folgenden Urteils, konnten sich die Beteiligten sodann in einem Vergleich einigen. Die Barclays Bank PLC verpflichtete sich darin, den Negativeintrag gegen&uuml;ber der SCHUFA Holding AG zu widerrufen. Im Gegenzug verzichtete der Kl&auml;ger auf zwei flankierende Antr&auml;ge. Dem Hauptanliegen des Kl&auml;gers, n&auml;mlich gegen den Negativeintrag vorzugehen, wurde Gen&uuml;ge getan.
+Zur Abwendung eines Gerichtstermins und eines darauf folgenden Urteils, konnten sich die Beteiligten sodann in einem Vergleich einigen. Die Barclays Bank PLC verpflichtete sich darin, den Negativeintrag gegenüber der SCHUFA Holding AG zu widerrufen. Im Gegenzug verzichtete der Kläger auf zwei flankierende Anträge. Dem Hauptanliegen des Klägers, nämlich gegen den Negativeintrag vorzugehen, wurde Genüge getan.
 
 ### Ausblick
 
-Nach der neuen Datenschutz-Grundverordnung haben sich die grundlegenden Voraussetzungen f&uuml;r negative SCHUFA-Eintr&auml;ge ge&auml;ndert. Somit bestehen f&uuml;r Betroffene neue M&ouml;glichkeiten, gegen diese Eintr&auml;ge vorzugehen. Es kommt nun wieder vermehrt auf den konkreten Einzelfall an. Wenn Sie Probleme mit solchen SCHUFA-Eintr&auml;gen haben, k&ouml;nnen Sie uns gerne kontaktieren oder den kostenlosen und unverbindlichen [SCHUFA-Vorab-Check](https://advoadvice.de/schufa-beratung/) durchf&uuml;hren.
-
-&nbsp;
+Nach der neuen Datenschutz-Grundverordnung haben sich die grundlegenden Voraussetzungen für negative SCHUFA-Einträge geändert. Somit bestehen für Betroffene neue Möglichkeiten, gegen diese Einträge vorzugehen. Es kommt nun wieder vermehrt auf den konkreten Einzelfall an. Wenn Sie Probleme mit solchen SCHUFA-Einträgen haben, können Sie uns gerne kontaktieren oder den kostenlosen und unverbindlichen [SCHUFA-Vorab-Check](https://advoadvice.de/schufa-beratung/) durchführen.
