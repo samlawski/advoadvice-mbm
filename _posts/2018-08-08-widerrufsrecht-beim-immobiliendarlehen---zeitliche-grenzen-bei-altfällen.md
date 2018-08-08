@@ -13,6 +13,8 @@ tags:
   - Widerrufsbelehrung
   - AdvoAdvice Rechtsanwälte
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: kim-oliver-klevenhagen
 ---
 
