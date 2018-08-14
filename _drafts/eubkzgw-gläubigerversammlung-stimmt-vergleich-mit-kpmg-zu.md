@@ -28,6 +28,8 @@ team_member: dr-sven-tintemann
 
 Bericht von der Gl&auml;ubigerversammlung in Sachen der EUBKZGW Europ&auml;isches Branchenkompetenzzentrum f&uuml;r das Gesundheitswesen EWIV vor dem Amtsgericht Berlin Charlottenburg vom 14.08.2018 - 12.00 Uhr:
 
+![](/uploads/ag-charlottenburg-schriftzug.jpg)
+
 Der Insolvenzverwalter Voigt Salus berichtete &uuml;ber den Stand der Verhandlungen mit dem ehemaligen Mitglied der EUBKZGW EWIV, der Firma KPMG. Betroffen hiervon sind die Anleger, die in dem Zeitraum beigetreten sind, in welchen die KPMG als Mitglied der EUBKZGW EWIV im Handelsregister eingetragen war. Diese Anleger k&ouml;nnen im Insolvenzverfahren mit einer beachtlichen R&uuml;ckzahlung rechnen.
 
 Anleger, die nach Ausscheiden der KPMG aus der EWIV beigetreten sind, d&uuml;rften hier weniger Aussicht auf eine hohe Entsch&auml;digung im Insolvenzverfahren haben.
