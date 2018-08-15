@@ -17,7 +17,7 @@ Das Landgericht Saarbr&uuml;cken hat den ehemaligen Vorstandsvorsitzenden der Al
 
 ![](/uploads/handcuffs-2102488-640.jpg)
 
-Bei einem Angeklagten Aufsichtsrat wurden Verm&ouml;genswerte i.H.v. 428.495,30 € sichergestellt sowie bei dem weiteren Vorstandsvorsitzenden i.H.v. 659.811,48 €. Bei dem Vorstandsvorsitzenden wurden 275.227,62 € eingezogen. Von der Firma Financial Word Vertriebs GmbH wurden weitere 422.561 € und von der Victus GmbH 473.412,86 € eingezogen.
+Bei einem angeklagten Aufsichtsrat wurden Verm&ouml;genswerte i.H.v. 428.495,30 € sichergestellt sowie bei dem weiteren Aufsichtsrat i.H.v. 659.811,48 €. Bei dem Vorstandsvorsitzenden wurden 275.227,62 € eingezogen. Von der Firma Financial Word Vertriebs GmbH wurden weitere 422.561 € und von der Victus GmbH 473.412,86 € eingezogen.
 
 Die Entscheidung ist noch nicht rechtskr&auml;ftig, da die verurteilten Angeklagten gegen die Entscheidung das Rechtsmittel der Revision eingelegt haben. Vor dem Bundesgerichtshof ist eine Entscheidung noch nicht ergangen, wie das Landgericht Saarbr&uuml;cken der Rechtssatzkanzlei AdvoAdvice schriftlich mitteilte.
 
