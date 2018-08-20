@@ -53,4 +53,4 @@ Dies zu pr&uuml;fen ist notwendig, bevor man sich auf den beschwerlichen Weg geg
 
 Betroffene, die alle M&ouml;glichkeiten ausgesch&ouml;pft haben, sollten ggf. ihren Fall auch unter dem Aspekt einer m&ouml;glichen Notarhaftung von einem im Immobilienrecht spezialisierten Fachanwalt pr&uuml;fen lassen."
 
-Die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin steht mit ihrem Expertenteam gerne f&uuml;r Anfragen unter info@advoadvice.de oder der Telefonnummer 030 - 921 000 40 f&uuml;r eine kostenfreie Ersteinsch&auml;tzung zur Verf&uuml;gung.
+Die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin steht mit ihrem Expertenteam gerne f&uuml;r Anfragen unter info@advoadvice.de oder der Telefonnummer 030 - 921 000 40 f&uuml;r eine Ersteinsch&auml;tzung zur Verf&uuml;gung.
