@@ -23,6 +23,8 @@ team_member: dr-sven-tintemann
 
 In Sachen Anderson Grund konnte die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin vor dem Landgericht Hannover einen sehr positiven Vergleich f&uuml;r einen ehemaligen Anleger abschlie&szlig;en. Die damals t&auml;tige Beratungsfirma D. GmbH aus Hannover verplichtete sich zur Zahlung von 11.500 Euro und &uuml;bernahme 3/4 der Kosten des Rechtsstreits und des Vergleichs.
 
+![](/uploads/money-1015277-640.jpg)
+
 Zum Hintergrund:
 
 Der durch AdvoAdvice vertretene Kl&auml;ger hatte sich nach einer Schulungsveranstaltung bei der Beklagten Vermittlungsfirma zu einer Kapitalanlage bei der mittlerweile insolventen Anderson Grund entschieden.
