@@ -25,7 +25,7 @@ In Sachen Anderson Grund konnte die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB au
 
 ![](/uploads/money-1015277-640.jpg)
 
-Zum Hintergrund:
+### Zum Hintergrund:
 
 Der durch AdvoAdvice vertretene Kl&auml;ger hatte sich nach einer Schulungsveranstaltung bei der Beklagten Vermittlungsfirma zu einer Kapitalanlage bei der mittlerweile insolventen Anderson Grund entschieden.
 
@@ -33,13 +33,13 @@ Auf der Schulungsveranstaltung wurde die Anlage nach Aussage der Kl&auml;gers al
 
 In Wirklichkeit waren die zur Besicherung der Anleger auserkorenen Objekte jedoch &uuml;berhaupt nicht werthaltig, weshalb dem betroffenen Anleger in Schaden im Rahmen von ca. 15.000,00 Euro entstand.
 
-Zur Klage:
+### Zur Klage:
 
 Nachdem eine vorprozessuale Zahlungsaufforderung ohne konkretes Ergebnis blieb, wurde Klage auf Schadensersatz gegen die Beratungsfirma D. GmbH aus Hannover eingereicht.
 
 Diese verteidigte sich zun&auml;chst vor dem Landgericht Hannover, lenkte aber dann kurz vor der Verhandlung ein und bot einen Vergleich an, welcher dann f&uuml;r den durch AdvoAdvice vertretenen Mandanten abgeschlossen wurde.
 
-Unser Rechtstipp:
+### Unser Rechtstipp:
 
 Oft bleibt bei einer Unternehmensinsolvenz f&uuml;r den betroffenen Anleger nur noch die Suche nach weiteren Verantwortlichen. Dies kann der Berater oder Vermittler bzw. das hinter diesem stehende Beratungsunternehmen sein. Es kommt aber auch eine Haftung von Vorst&auml;nden, Aufsichtsr&auml;ten oder Gesch&auml;ftsf&uuml;hrern sowie Hinterm&auml;nnern in Betracht, die dem Anleger teilweise unbekannt sind.
 
