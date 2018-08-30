@@ -9,6 +9,7 @@ tags:
   - Anleger
   - Kapitalanlage
   - ThomasLloyd
+  - Genussrechte
   - Investment
   - Auseinandersetzung
   - Guthaben
@@ -28,7 +29,7 @@ Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB konnte einem Anleger der Thomas Ll
 
 ### Vertrag gek&uuml;ndigt, Auszahlung verweigert
 
-Der Anleger war aus seinem Vertrag am 31.12.2016 durch regul&auml;re K&uuml;ndigung ausgeschieden. Eine zum 31.12.2017 f&auml;llige Auszahlung verweigerte die Gesellschafter aber mit Schreiben aus dem Dezember 2017 verweigert worden, mit der Begr&uuml;ndung, die Gesellschaft habe &uuml;ber ihre Beteiligung an der ThomasLloyd Group Ltd. nahezu vollst&auml;ndig in illiquide, nicht an der B&ouml;rse gehandelte Assets (Beteiligungen an Unternehmen, Projekten etc.) investiert. Die Thomas Lloyd Investments GmbH selbst halte als nicht-operative Beteiligungsgesellschaft nur eine begrenzte Liquidit&auml;t f&uuml;r ihren Gesch&auml;ftsbetrieb vor und sei somit f&uuml;r die Schaffung der Liquidit&auml;t f&uuml;r K&uuml;ndigungen auf R&uuml;ckfl&uuml;sse bzw. Verkaufserl&ouml;se aus den eingegangenen Beteiligungen angewiesen.
+Der Anleger war aus seinem Vertrag, einem Investment in Genussrechte, am 31.12.2016 durch regul&auml;re K&uuml;ndigung ausgeschieden. Eine zum 31.12.2017 f&auml;llige Auszahlung verweigerte die Gesellschafter aber mit Schreiben aus dem Dezember 2017 verweigert worden, mit der Begr&uuml;ndung, die Gesellschaft habe &uuml;ber ihre Beteiligung an der ThomasLloyd Group Ltd. nahezu vollst&auml;ndig in illiquide, nicht an der B&ouml;rse gehandelte Assets (Beteiligungen an Unternehmen, Projekten etc.) investiert. Die Thomas Lloyd Investments GmbH selbst halte als nicht-operative Beteiligungsgesellschaft nur eine begrenzte Liquidit&auml;t f&uuml;r ihren Gesch&auml;ftsbetrieb vor und sei somit f&uuml;r die Schaffung der Liquidit&auml;t f&uuml;r K&uuml;ndigungen auf R&uuml;ckfl&uuml;sse bzw. Verkaufserl&ouml;se aus den eingegangenen Beteiligungen angewiesen.
 
 Die Thomas Lloyd Investments GmbH gehe aber, so das Schreiben aus dem Dezember 2017, davon aus, dass der geschilderte Prozess sp&auml;testens im Jahr 2019 abgeschlossen sein sollte. Bis dahin w&uuml;rden die R&uuml;ckzahlungsanspr&uuml;che der Anleger mit einem Zinssatz in H&ouml;he von 5 Prozenzpunkten &uuml;ber dem Basiszinssatz verzinst.
 
@@ -38,7 +39,7 @@ Diese Zeitspanne war dem betroffenen Anleger allerdings zu langfristig, weshalb 
 
 Nachdem Dr. Sven Tintemann, Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht au&szlig;ergerichtlich auf Auszahlung gedr&auml;ngt und Klage angek&uuml;ndigt hatte, wurde seitens der Gesellschaft &uuml;berraschend schnell das noch ausstehende Auseinandersetzungsguthaben an den Anleger bezahlt.
 
-![](/uploads/money-3115981-640.jpg)
+![Geld zurück - Foto Pixabay](/uploads/money-3115981-640.jpg "Geld zurück in die eigene Tasche")
 
 ### Unser Tipp vom Experten
 
