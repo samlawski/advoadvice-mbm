@@ -32,8 +32,6 @@ Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limite
 
 Die M&uuml;nchener Gesellschaft versprach f&uuml;r den bekannten Gesch&auml;ftsf&uuml;hrer und Rennfahrer Daniel U. den Anlegern die Investition in verschiedene lukrative M&auml;rkte und Produkte, in verschiedene Finanzinstrumente und in Edelmetalle. Verpackt wurde die Anlage als sog. Nachrangdarlehen mit fester Laufzeit.
 
-![Bei Premium Safe ging es eher bergab. Sicher war nichts.](blob:https://app.cloudcannon.com/e0322ae1-a6a9-4121-8712-8a8c6dfcef60 "ehemaliges Premium Safe Logo")
-
 Gewinne wurden aber scheinbar nicht erwirtschaftet. Vielmehr kam es zum Insolvenzverfahren der Premium Safe Ltd, welches bei dem Amtsgericht M&uuml;nchen zum Az. 1542 IN 201/16 gef&uuml;hrt wird.
 
 ### Rechtliche Begr&uuml;ndung:
