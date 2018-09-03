@@ -32,6 +32,8 @@ Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limite
 
 Die M&uuml;nchener Gesellschaft versprach f&uuml;r den bekannten Gesch&auml;ftsf&uuml;hrer und Rennfahrer Daniel U. den Anlegern die Investition in verschiedene lukrative M&auml;rkte und Produkte, in verschiedene Finanzinstrumente und in Edelmetalle. Verpackt wurde die Anlage als sog. Nachrangdarlehen mit fester Laufzeit.
 
+&nbsp;
+
 Gewinne wurden aber scheinbar nicht erwirtschaftet. Vielmehr kam es zum Insolvenzverfahren der Premium Safe Ltd, welches bei dem Amtsgericht M&uuml;nchen zum Az. 1542 IN 201/16 gef&uuml;hrt wird.
 
 ### Rechtliche Begr&uuml;ndung:
@@ -60,6 +62,6 @@ Wer bereits im Jahr 2015 wusste, dass Gelder an ihn nicht zur R&uuml;ckzahlung g
 
 Wer erst im jahr 2016 durch den Insolvenzverwalter von der Insolvenz erfahren hat, k&ouml;nnte wohl auch noch bis Ende des Jahres 2019 eine Klage zur Verj&auml;hrungsunterbrechung einreichen.
 
-Die Kanzlei AdvoAdvice aus Berlin vertritt bereits Anleger, die R&uuml;ckforderungen vom Insolvenzverwalter Schartl erhalten haben. Zudem wurde bereits erfolgreich gegen eine Beratungsfirma aus Sachsen-Anhalt durch Rechtsanwalt Kim Oliver Klevenhagen Klage eingereicht. Die betroffene Finanzberatungsfirma wurde zur Zahlung von 21.000 Euro verurteilt. ([--&gt; zu unserem Bericht](/blog/landgericht-magdeburg-verurteilt-premium-safe-vermittler-zum-schadensersatz/))
+Die Kanzlei AdvoAdvice aus Berlin vertritt bereits Anleger, die R&uuml;ckforderungen vom Insolvenzverwalter Schartl erhalten haben. Zudem wurde bereits erfolgreich gegen eine Beratungsfirma aus Sachsen-Anhalt durch Rechtsanwalt Kim Oliver Klevenhagen Klage eingereicht. Die betroffene Finanzberatungsfirma wurde zur Zahlung von 21.000 Euro verurteilt. ([–&gt; zu unserem Bericht](/blog/landgericht-magdeburg-verurteilt-premium-safe-vermittler-zum-schadensersatz/))
 
 Sollten auch Sie ein solches Schreiben erhalten haben, k&ouml;nnen Sie unter 030 921 000 40 oder info@advoadvice.de Kontakt zu unseren Experten aufnehmen, um hier fairen und schnellen Rechtsrat zu erhalten. Eine anwaltliche Erstberatung wird oftmals vom Rechtsschutzversicherer &uuml;bernommen und verursacht auch sonst keine hohe Kosten.
