@@ -26,40 +26,42 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limited als Insolvenzverwalter der Gesellschaft und fordert von diesen bereits von der Gesellschaft an die Anleger gezahlte Auszahlungen zurück.
+Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limited als Insolvenzverwalter der Gesellschaft und fordert von diesen bereits von der Gesellschaft an die Anleger gezahlte Auszahlungen zur&uuml;ck.
 
 ### Zum Hintergrund:
 
-Die Münchener Gesellschaft versprach für den bekannten Geschäftsführer und Rennfahrer Daniel U. den Anlegern die Investition in verschiedene lukrative Märkte und Produkte, in verschiedene Finanzinstrumente und in Edelmetalle. Verpackt wurde die Anlage als sog. Nachrangdarlehen mit fester Laufzeit.
+Die M&uuml;nchener Gesellschaft versprach f&uuml;r den bekannten Gesch&auml;ftsf&uuml;hrer und Rennfahrer Daniel U. den Anlegern die Investition in verschiedene lukrative M&auml;rkte und Produkte, in verschiedene Finanzinstrumente und in Edelmetalle. Verpackt wurde die Anlage als sog. Nachrangdarlehen mit fester Laufzeit.
 
-Gewinne wurden aber scheinbar nicht erwirtschaftet. Vielmehr kam es zum Insolvenzverfahren der Premium Safe Ltd, welches bei dem Amtsgericht München zum Az. 1542 IN 201/16 geführt wird.
+![](blob:https://app.cloudcannon.com/e0322ae1-a6a9-4121-8712-8a8c6dfcef60)
 
-### Rechtliche Begründung:
+Gewinne wurden aber scheinbar nicht erwirtschaftet. Vielmehr kam es zum Insolvenzverfahren der Premium Safe Ltd, welches bei dem Amtsgericht M&uuml;nchen zum Az. 1542 IN 201/16 gef&uuml;hrt wird.
 
-Der Insolvenzverwalter fordert Auszahlungen der Anleger zu Gunsten der Insolvenzmasse zurück und beruft sich hierbei auf die Rechtsprechung des Bundesgerichtshofes zur Rückerstattung von sog. Scheingewinnausschüttungen.
+### Rechtliche Begr&uuml;ndung:
 
-Das bedeutet, dass die Gesellschaft mit den Anlegergeldern keine realen Gewinne erwirtschaftet hat und daher auch nicht dazu in der Lage bzw. berechtigt gewesen wäre, Ausschüttungen an die Anleger zu leisten.
+Der Insolvenzverwalter fordert Auszahlungen der Anleger zu Gunsten der Insolvenzmasse zur&uuml;ck und beruft sich hierbei auf die Rechtsprechung des Bundesgerichtshofes zur R&uuml;ckerstattung von sog. Scheingewinnaussch&uuml;ttungen.
 
-Haben die Anlegen dennoch Zahlungen erhalten, wurden diese somit durch eigenes Anlegervermögen oder sogar aus dem Vermögen anderer Anleger geleistet (Schneeballsystem).
+Das bedeutet, dass die Gesellschaft mit den Anlegergeldern keine realen Gewinne erwirtschaftet hat und daher auch nicht dazu in der Lage bzw. berechtigt gewesen w&auml;re, Aussch&uuml;ttungen an die Anleger zu leisten.
 
-Hier gibt es nach der bekannten und gefestigen Rechtsprechung des BGH, welche besonders im Fall Phoenix-Kapitaldienst geprägt worden ist, die Möglichkeit der Rückforderung seitens des Insolvenzverwalters.
+Haben die Anlegen dennoch Zahlungen erhalten, wurden diese somit durch eigenes Anlegerverm&ouml;gen oder sogar aus dem Verm&ouml;gen anderer Anleger geleistet (Schneeballsystem).
 
-### Was können betroffene Anleger jetzt tun?
+Hier gibt es nach der bekannten und gefestigen Rechtsprechung des BGH, welche besonders im Fall Phoenix-Kapitaldienst gepr&auml;gt worden ist, die M&ouml;glichkeit der R&uuml;ckforderung seitens des Insolvenzverwalters.
 
-Betroffene Anleger sollten trotz der für sie nachteiligen Rechtsprechung durch einen fachlich versierten Experten prüfen lassen, ob es Gründe gibt, sich erfolgreich gegen die Forderung des Insolvenzverwalters verteidigen zu können.
+### Was k&ouml;nnen betroffene Anleger jetzt tun?
 
-So gibt es u.a. die Möglichkeit, sollte der Anleger die Rückzahlungen für sog. Luxusaufwendungen genutzt haben, diese dem Insolvenzverwalter entgegen zu halten. Man spricht dann auch von einer Einrede der Entreicherung, da das eingenommene Geld wieder ausgegeben wurde und sich nicht mehr im Vermögen des Anlegers befindet.
+Betroffene Anleger sollten trotz der f&uuml;r sie nachteiligen Rechtsprechung durch einen fachlich versierten Experten pr&uuml;fen lassen, ob es Gr&uuml;nde gibt, sich erfolgreich gegen die Forderung des Insolvenzverwalters verteidigen zu k&ouml;nnen.
 
-Zudem ist auch zu prüfen, ob die Anlagegesellschaft tatsächlich nie Gewinne erwirtschaftet hat. Nur dann wäre auch die voll Rückzahlungssumme durch den Insolvenzverwalter rückforderbar.
+So gibt es u.a. die M&ouml;glichkeit, sollte der Anleger die R&uuml;ckzahlungen f&uuml;r sog. Luxusaufwendungen genutzt haben, diese dem Insolvenzverwalter entgegen zu halten. Man spricht dann auch von einer Einrede der Entreicherung, da das eingenommene Geld wieder ausgegeben wurde und sich nicht mehr im Verm&ouml;gen des Anlegers befindet.
 
-### Gefahr der Verjährung Ende 2018, spätestens jedoch 2019
+Zudem ist auch zu pr&uuml;fen, ob die Anlagegesellschaft tats&auml;chlich nie Gewinne erwirtschaftet hat. Nur dann w&auml;re auch die voll R&uuml;ckzahlungssumme durch den Insolvenzverwalter r&uuml;ckforderbar.
 
-Betroffene Anleger sollten zudem prüfen lassen, ob sie Schadensersatzansprüche gegen Hintermänner, Geschäftsführer oder Berater bzw. Vermittler im Fall Premium Safe haben.
+### Gefahr der Verj&auml;hrung Ende 2018, sp&auml;testens jedoch 2019
 
-Wer bereits im Jahr 2015 wusste, dass Gelder an ihn nicht zur Rückzahlung gebracht würden, hat wahrscheinlich nur noch bis zum Jahresende 2018 die Möglichkeit, seine Ansprüche verjährungsunterbrechend geltend zu machen.
+Betroffene Anleger sollten zudem pr&uuml;fen lassen, ob sie Schadensersatzanspr&uuml;che gegen Hinterm&auml;nner, Gesch&auml;ftsf&uuml;hrer oder Berater bzw. Vermittler im Fall Premium Safe haben.
 
-Wer erst im jahr 2016 durch den Insolvenzverwalter von der Insolvenz erfahren hat, könnte wohl auch noch bis Ende des Jahres 2019 eine Klage zur Verjährungsunterbrechung einreichen.
+Wer bereits im Jahr 2015 wusste, dass Gelder an ihn nicht zur R&uuml;ckzahlung gebracht w&uuml;rden, hat wahrscheinlich nur noch bis zum Jahresende 2018 die M&ouml;glichkeit, seine Anspr&uuml;che verj&auml;hrungsunterbrechend geltend zu machen.
 
-Die Kanzlei AdvoAdvice aus Berlin vertritt bereits Anleger, die Rückforderungen vom Insolvenzverwalter Schartl erhalten haben. Zudem wurde bereits erfolgreich gegen eine Beratungsfirma aus Sachsen-Anhalt durch Rechtsanwalt Kim Oliver Klevenhagen Klage eingereicht. Die betroffene Finanzberatungsfirma wurde zur Zahlung von 21.000 Euro verurteilt. ([–&gt; zu unserem Bericht](/blog/landgericht-magdeburg-verurteilt-premium-safe-vermittler-zum-schadensersatz/))
+Wer erst im jahr 2016 durch den Insolvenzverwalter von der Insolvenz erfahren hat, k&ouml;nnte wohl auch noch bis Ende des Jahres 2019 eine Klage zur Verj&auml;hrungsunterbrechung einreichen.
 
-Sollten auch Sie ein solches Schreiben erhalten haben, können Sie unter 030 921 000 40 oder info@advoadvice.de Kontakt zu unseren Experten aufnehmen, um hier fairen und schnellen Rechtsrat zu erhalten. Eine anwaltliche Erstberatung wird oftmals vom Rechtsschutzversicherer übernommen und verursacht auch sonst keine hohe Kosten.
+Die Kanzlei AdvoAdvice aus Berlin vertritt bereits Anleger, die R&uuml;ckforderungen vom Insolvenzverwalter Schartl erhalten haben. Zudem wurde bereits erfolgreich gegen eine Beratungsfirma aus Sachsen-Anhalt durch Rechtsanwalt Kim Oliver Klevenhagen Klage eingereicht. Die betroffene Finanzberatungsfirma wurde zur Zahlung von 21.000 Euro verurteilt. ([–&gt; zu unserem Bericht](/blog/landgericht-magdeburg-verurteilt-premium-safe-vermittler-zum-schadensersatz/))
+
+Sollten auch Sie ein solches Schreiben erhalten haben, k&ouml;nnen Sie unter 030 921 000 40 oder info@advoadvice.de Kontakt zu unseren Experten aufnehmen, um hier fairen und schnellen Rechtsrat zu erhalten. Eine anwaltliche Erstberatung wird oftmals vom Rechtsschutzversicherer &uuml;bernommen und verursacht auch sonst keine hohe Kosten.
