@@ -23,3 +23,5 @@ team_member: dr-sven-tintemann
 ---
 
 https://www.lto.de/recht/kanzleien-unternehmen/k/olg-duesseldorf-4u-9316-do-versicherung-persoenliche-haftung-geschaeftsfuehrer-verspaeteter-insolvenzantrag-1/
+
+![](/uploads/no-money-2070384-640.jpg)
