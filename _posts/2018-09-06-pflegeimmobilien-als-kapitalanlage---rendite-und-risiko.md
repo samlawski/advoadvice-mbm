@@ -1,6 +1,6 @@
 ---
 title: Pflegeimmobilien als Kapitalanlage - Rendite und Risiko
-date: 2018-09-05 00:00:00
+date: 2018-09-06 00:00:00
 seo_beschreibung: Pflegeimmobilien als Kapitalanlage - Rendite und Risiko
 layout: post
 feature_bild_path:
