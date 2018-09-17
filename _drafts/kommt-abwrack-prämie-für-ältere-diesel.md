@@ -36,6 +36,8 @@ Vielen Kunden wird wohl nichts anderes &uuml;brig bleiben, als die Diesel-Herste
 
 Eine wichtige Ausnahme gibt es f&uuml;r Autok&auml;ufer, die ihr Fahrzeug finanziert haben. Diese k&ouml;nnen bei h&auml;ufig in der Widerrufsbelehrung aufgetretenen Fehlern die Vertr&auml;ge mit der finanzierenden Bank widerrufen und so das ungeliebt gewordene Altfahrzeug an die Bank zur&uuml;ckgeben und zudem h&ouml;chstwahrscheinlich eine ordentliche Summe an Zinsen sparen.
 
-Die Experten von AdvoAdvice pr&uuml;fen bei betroffenen Autok&auml;ufern, welche ihre Darlehen als Verbraucher unterzeichnet haben, gerne die Widerrufsm&ouml;glichkeit und erteilen fairen Rechtsrat.
+![](/uploads/money-1925950-640-1.jpg)
+
+Die Experten von AdvoAdvice pr&uuml;fen bei betroffenen Autok&auml;ufern, welche ihre Darlehen als Verbraucher unterzeichnet haben, gerne die Widerrufsm&ouml;glichkeit und erteilen fairen Rechtsrat. Kontaktieren Sie unsere Kanzlei per Telefon oder Email unter 030 921 000 40 oder info@advoadvice.de.
 
 &nbsp;
