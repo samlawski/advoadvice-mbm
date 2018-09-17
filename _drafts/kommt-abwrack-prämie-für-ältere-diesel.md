@@ -26,9 +26,11 @@ Nachr&uuml;stungen mit Hardware machen nach Angaben von Scheuer nur dort Sinn, w
 
 Nach Angaben des Verkehrministerium k&ouml;nnten mindestens 1,3 Millionen &auml;ltere Diesel PKW von m&ouml;glichen Fahrverboten in Innenst&auml;den betroffen sein.
 
-&nbsp;
+![](/uploads/auto-2679743-640-7.jpg)
 
 "Wie genau eine Abwrackpr&auml;mie aussehen kann und ob diese &uuml;ber die R&uuml;cknahme von Altfahrzeugen durch die Automobil-Industrie zu einem attraktiveren Preis oder durch F&ouml;rderung dieser Ma&szlig;nahme mit Steuergeldern gesehen soll, ist bisher v&ouml;llig offen. Geld in die Hand nehmen will aber scheinbar niemand so richtig, um hier den betroffenen Diesel-Kunden zu helfen", kommentiert Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin die neuen Ideen.
+
+### Klage oder Widerruf als Ausweg aus der Misere?
 
 Vielen Kunden wird wohl nichts anderes &uuml;brig bleiben, als die Diesel-Hersteller zu verklagen, wenn eine Problematik mit der Diesel-Software bei eigenen Fahrzeug vorliegt. Kunden, die diesen Weg nicht gehen k&ouml;nnen, gehen zum Gro&szlig;teil wahrscheinlich leer aus.
 
