@@ -1,11 +1,10 @@
 ---
 featured: true
-title: Regelinsolvenz und Verbraucherinsolvenz
+title: Insolvenzrecht
 seo_beschreibung: >-
   Beratung bei Anträgen zur Verbraucherinsolvenz und Regelinsolvenz durch
   erfahrene Rechtsanwälte
 ---
-
 
 Durch hohe Schulden und Firmenpleiten werden Selbständige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einführung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzanträge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Anträge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist,  ist eine Tendenz von ca. 100.000 Anträgen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
 
