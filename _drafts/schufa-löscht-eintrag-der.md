@@ -34,7 +34,7 @@ Umstritten ist weiterhin die Frage, ob das Merkmal der Erteilung der Restschuldb
 
 Unter der Datenschutzgrundverordnung gibt es diesbez&uuml;glich diverse neue Aspekte zu beachten, sodass sich zeigen muss, ob die Gerichte von ihrer bisherigen Auffassung abweichen. Fakt ist jedenfalls, dass die Sonderregelung nicht mehr besteht und deshalb auch nicht mehr als Rechtsgrundlage herangezogen werden kann.
 
-![](blob:https://app.cloudcannon.com/1f1ce7cd-5bcc-4a4e-b96e-ddce72306e14)
+![DSGVO - Bild Pixabay](blob:https://app.cloudcannon.com/1f1ce7cd-5bcc-4a4e-b96e-ddce72306e14 "DSGVO bringt neue Chancen bei Schufa Einträgen")
 
 Sowohl unter der alten als auch unter der neuen Rechtslage ist jedoch klar, dass Forderungen die durch die Restschuldbefreiung erledigt werden, nicht nachtr&auml;glich als offene Forderung in den SCHUFA-Datenbestand eingemeldet werden d&uuml;rfen. Durch eine solche Einmeldung w&uuml;rde Sinn und Zweck des Insolvenzverfahrens vollst&auml;ndig untergraben werden. Gerade durch das erfolgreiche Insolvenzverfahren soll der Betroffene von der Forderung letztlich befreit werden. Eine weitere Speicherung w&uuml;rde dazu f&uuml;hren, dass der Betroffene die Forderung zwar nicht ausgleichen muss, aber dennoch unter den negativen Folgen zu leiden h&auml;tte. Damit w&auml;re die eigentlich angestrebte wirtschaftliche Leistungsf&auml;higkeit nicht wieder hergestellt.
 
