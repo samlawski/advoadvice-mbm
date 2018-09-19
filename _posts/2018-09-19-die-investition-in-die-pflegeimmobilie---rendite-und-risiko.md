@@ -19,6 +19,8 @@ topics:
 team_member: kim-oliver-klevenhagen
 ---
 
+![](/uploads/money-2724245-1920.jpg)
+
 Angesichts der stetig alternden Gesellschaft erscheint es auf den ersten Blick auch durchaus sinnvoll, sich fr&uuml;hzeitig den demografischen Wandel in der Bundesrepublik zu Nutze zu machen. Welche Kapitalanlage ist unter diesem Aspekt sinnvoll? Immerhin gehen Prognosen laut der Bundeszentrale f&uuml;r politische Bildung mittlerweile davon aus, dass im Jahre 2060 jeder dritte Deutsche mindestens 65 Jahre alt sein wird.
 
 Vor diesem Hintergrund bieten derzeit zahlreiche Unternehmen den Erwerb von Eigentumswohnungen in Pflegeheimen an. Diese k&ouml;nnen dann entweder selbst von dem Eigent&uuml;mer verwendet oder an pflegebed&uuml;rftige Menschen vermietet bzw. an den Pflegeheimbetreiber verpachtet werden. Im &Uuml;brigen werden die Leitung des Pflegeheimes sowie die Betreuung der Bewohner von dem Betreiber &uuml;bernommen. Neben dem guten Gewissen, etwas f&uuml;r die pflegebed&uuml;rftigen Menschen getan zu haben, versprechen die Anbieter dabei einen konjunkturunabh&auml;ngigen Wachstumsmarkt, hohe Renditen in H&ouml;he von j&auml;hrlich 5 % und mehr durch Mieteinnahmen sowie besondere Sicherheiten unter anderem aufgrund von staatlichen Refinanzierungen. In Anbetracht dieser Perspektiven werden Pflegeimmobilien regelm&auml;&szlig;ig zu Preisen verkauft, die erheblich &uuml;ber den durchschnittlichen Immobilienpreisen liegen.
