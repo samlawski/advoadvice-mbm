@@ -19,6 +19,8 @@ tags:
   - Makler
   - Maklervertrag
 topics:
+  - bank-und-kapitalmarktrecht
+  - immobilienrecht
 team_member: kim-oliver-klevenhagen
 ---
 
