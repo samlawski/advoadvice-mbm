@@ -19,6 +19,7 @@ tags:
   - Rückabwicklung
 topics:
   - anlegerschutz
+  - immobilienrecht
 team_member: kim-oliver-klevenhagen
 ---
 
