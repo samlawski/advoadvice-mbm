@@ -1,5 +1,5 @@
 ---
-featured: false
+featured: true
 title: Suchergenisse und Bewertungen löschen
 seo_beschreibung: >-
   Suchergebnisse bei Google und Bewertungen auf Portalen durch Rechtsanwalt
@@ -9,42 +9,42 @@ cta_link_text:
 cta_link:
 ---
 
-### Google Suchergebnisse und Bewertungen l&ouml;schen lassen
+### Google Suchergebnisse und Bewertungen löschen lassen
 
-Jedes Unternehmen ist mit den unendlichen M&ouml;glichkeiten des Internets konfrontiert. Zwischen Bewertungsportalen, Werbung, Suchmaschinen und eignen Internetauftritten gibt es eine Vielzahl an Ber&uuml;hrungspunkten mit potenziellen Kunden. Oftmals kann man das Unternehmen entsprechend seiner Vorz&uuml;ge im Internet dargestellen. Genauso oft gibt es dabei eine Vielzahl von guten Bewertungen und Links zur Unternehmensseite und zu Drittanbieter, welche &uuml;ber das entsprechende Unternehmen informieren. Dieser Segen an M&ouml;glichkeiten kann aber schnell in einen Fluch umschlagen, wenn andere es sich zum Ziel gesetzt haben, ein m&ouml;glichst schlechtes Bild &uuml;ber das Unternehmen, die Gesch&auml;ftsf&uuml;hrer oder deren Mitarbeiter zu zeichnen.
+Jedes Unternehmen ist mit den unendlichen Möglichkeiten des Internets konfrontiert. Zwischen Bewertungsportalen, Werbung, Suchmaschinen und eignen Internetauftritten gibt es eine Vielzahl an Berührungspunkten mit potenziellen Kunden. Oftmals kann man das Unternehmen entsprechend seiner Vorzüge im Internet dargestellen. Genauso oft gibt es dabei eine Vielzahl von guten Bewertungen und Links zur Unternehmensseite und zu Drittanbieter, welche über das entsprechende Unternehmen informieren. Dieser Segen an Möglichkeiten kann aber schnell in einen Fluch umschlagen, wenn andere es sich zum Ziel gesetzt haben, ein möglichst schlechtes Bild über das Unternehmen, die Geschäftsführer oder deren Mitarbeiter zu zeichnen.
 
 ### Was hat das mit Google zu tun?
 
-Die wohl am meisten genutzte Plattform zur Recherche im Internet wird von Google bereitgestellt. Nicht selten wird Google im Zusammenhang mit dem Begriff "Datenkrake" genannt. Google stellt dabei unterschiedliche Dienste zur Verf&uuml;gung. Standardm&auml;&szlig;ig wird man die "normale" Suchfunktion nutzen. In diesem Zuge gelangt man zum einen oftmals an eine &Uuml;bersicht inkl. Bewertungen zu einzelnen Unternehmen. Gleichzeitig wird in den Suchergebnissen auf eine Vielzahl an Websites verlinkt, welche sich mit dem Suchbegriff und damit h&auml;ufig mit dem gesuchten Unternehmen oder der gesuchten Person auseinandersetzen.&nbsp;
+Die wohl am meisten genutzte Plattform zur Recherche im Internet wird von Google bereitgestellt. Nicht selten wird Google im Zusammenhang mit dem Begriff "Datenkrake" genannt. Google stellt dabei unterschiedliche Dienste zur Verfügung. Standardmäßig wird man die "normale" Suchfunktion nutzen. In diesem Zuge gelangt man zum einen oftmals an eine Übersicht inkl. Bewertungen zu einzelnen Unternehmen. Gleichzeitig wird in den Suchergebnissen auf eine Vielzahl an Websites verlinkt, welche sich mit dem Suchbegriff und damit häufig mit dem gesuchten Unternehmen oder der gesuchten Person auseinandersetzen. 
 
-Sowohl diese Bewertungen als auch die verlinkten Seiten sind ein wichtiges Mittel, das eigene Unternehmen positiv hervorzuheben. Gleichzeitig ist dar&uuml;ber nat&uuml;rlich auch berechtigte Kritik m&ouml;glich und auch n&ouml;tig, um ein wahres Bild des betroffenen Unternehmens zu zeichnen. Problematisch ist dabei, dass es h&auml;ufig auch zu inhaltlich fehlerhaften, angreifenden, diffamierenden oder schlicht unwahren Behauptungen kommt. In diesem Fall wird man &uuml;ber die Goolge Suchergebnisse und Bewertungen f&auml;lschlich als "schlechtes" Unternehmen gebrandmarkt. Ein solcher Makel ist schwer loszubekommen und kann sich auch unmittelbar auf den eigenen Umsatz auswirken.
+Sowohl diese Bewertungen als auch die verlinkten Seiten sind ein wichtiges Mittel, das eigene Unternehmen positiv hervorzuheben. Gleichzeitig ist darüber natürlich auch berechtigte Kritik möglich und auch nötig, um ein wahres Bild des betroffenen Unternehmens zu zeichnen. Problematisch ist dabei, dass es häufig auch zu inhaltlich fehlerhaften, angreifenden, diffamierenden oder schlicht unwahren Behauptungen kommt. In diesem Fall wird man über die Goolge Suchergebnisse und Bewertungen fälschlich als "schlechtes" Unternehmen gebrandmarkt. Ein solcher Makel ist schwer loszubekommen und kann sich auch unmittelbar auf den eigenen Umsatz auswirken.
 
-In extremen F&auml;llen werden Mitarbeiter, Gesch&auml;ftsf&uuml;hrung, Aufsichtsr&auml;te o. &auml;. pers&ouml;nlich im Internet genannt und ihnen strafbares oder anderes Fehlverhalten vorgeworfen. Auch dies kann den Ruf eines Unternehmens und nat&uuml;rlich jeder Privatperson massiv sch&auml;digen.
+In extremen Fällen werden Mitarbeiter, Geschäftsführung, Aufsichtsräte o. ä. persönlich im Internet genannt und ihnen strafbares oder anderes Fehlverhalten vorgeworfen. Auch dies kann den Ruf eines Unternehmens und natürlich jeder Privatperson massiv schädigen.
 
 ### Was kann man dagegen tun?
 
-Schnell stellt sich die Frage, ob Google die Bewertungen und Suchergebnisse nicht vorab &uuml;berpr&uuml;fen m&uuml;sste, bevor die Ergebnisse gelistet werden.
+Schnell stellt sich die Frage, ob Google die Bewertungen und Suchergebnisse nicht vorab überprüfen müsste, bevor die Ergebnisse gelistet werden.
 
-Die Rechtsprechung hat dazu klar geregelt, dass dies nicht der Fall ist. Faktisch d&uuml;rfte sich dies bei den enormen Datenmengen, die gro&szlig;teils automatisiert verarbeitet werden, auch nicht umsetzen lassen.
+Die Rechtsprechung hat dazu klar geregelt, dass dies nicht der Fall ist. Faktisch dürfte sich dies bei den enormen Datenmengen, die großteils automatisiert verarbeitet werden, auch nicht umsetzen lassen.
 
-Dar&uuml;ber hinaus nimmt die Rechtsprechung den Anbieter einer Suchmaschine aber in die Pflicht, Bewertungen und Links zu anderen Websites zu l&ouml;schen, wenn gegen&uuml;ber dem Anbieter klar nachvollziehbar dargelegt wurde, dass die Bewertung oder das Suchergebnis gegen die Rechte und Freiheiten einer Person oder eines Unternehmens versto&szlig;en oder diese Beeintr&auml;chtigen.
+Darüber hinaus nimmt die Rechtsprechung den Anbieter einer Suchmaschine aber in die Pflicht, Bewertungen und Links zu anderen Websites zu löschen, wenn gegenüber dem Anbieter klar nachvollziehbar dargelegt wurde, dass die Bewertung oder das Suchergebnis gegen die Rechte und Freiheiten einer Person oder eines Unternehmens verstoßen oder diese Beeinträchtigen.
 
-Gerade die Anonymit&auml;t des Internets f&uuml;hrt oftmals dazu, dass die Person, welche f&uuml;r die negativen &Auml;u&szlig;erungen zust&auml;ndig ist, nicht greifbar ist. Jeder kann eine anonyme Mitteilung, Bewertung oder Homepage ins Internet einstellen. Betroffene haben bei dieser Anonymit&auml;t zumindest die Chance, dass die Eintr&auml;ge nicht mehr in Suchmaschinen zu finden sind, wenngleich eine L&ouml;schung von Websites nicht erfolgen kann.&nbsp;
+Gerade die Anonymität des Internets führt oftmals dazu, dass die Person, welche für die negativen Äußerungen zuständig ist, nicht greifbar ist. Jeder kann eine anonyme Mitteilung, Bewertung oder Homepage ins Internet einstellen. Betroffene haben bei dieser Anonymität zumindest die Chance, dass die Einträge nicht mehr in Suchmaschinen zu finden sind, wenngleich eine Löschung von Websites nicht erfolgen kann. 
 
-### Wieso sollte man daf&uuml;r einen Anwalt beauftragen?
+### Wieso sollte man dafür einen Anwalt beauftragen?
 
-F&uuml;r viele Betroffene werden sich genau diese Frage stellen. Immerhin ist die Beauftragung eines Anwaltes mit einem gewissen Kostenaufwand verbunden, zumindest solange eine wom&ouml;glich bestehende Rechtsschutzversicherung die Kosten nicht &uuml;bernimmt. Die Antwort ist bei solchen L&ouml;schversuchen jedoch recht einfach zu geben:
+Für viele Betroffene werden sich genau diese Frage stellen. Immerhin ist die Beauftragung eines Anwaltes mit einem gewissen Kostenaufwand verbunden, zumindest solange eine womöglich bestehende Rechtsschutzversicherung die Kosten nicht übernimmt. Die Antwort ist bei solchen Löschversuchen jedoch recht einfach zu geben:
 
-Zun&auml;chst muss detailliert herausgearbeitet werden, worin die Rechtsverletzung liegt und diese Verletzung muss unter Verweis auf einschl&auml;gige Rechtsgrundlagen bei Google oder einem anderen Suchmaschinenbetreiber vorgetragen werden. Schon die rechtliche Einordnung des konkreten Lebenssachverhalts darf nur durch Rechtsanw&auml;lte vorgenommen werden, obgleich andere Unternehmen ebenfalls mit dieser Pr&uuml;fung werben.
+Zunächst muss detailliert herausgearbeitet werden, worin die Rechtsverletzung liegt und diese Verletzung muss unter Verweis auf einschlägige Rechtsgrundlagen bei Google oder einem anderen Suchmaschinenbetreiber vorgetragen werden. Schon die rechtliche Einordnung des konkreten Lebenssachverhalts darf nur durch Rechtsanwälte vorgenommen werden, obgleich andere Unternehmen ebenfalls mit dieser Prüfung werben.
 
-Der zweite Grund, warum man einen Anwalt beauftragen sollte, liegt darin, dass nicht jede L&ouml;schanfrage bei Suchmaschinenanbietern auch zu einer L&ouml;schung f&uuml;hrt. Daraufhin muss man -sofern man die L&ouml;schung weiterhin verfolgen m&ouml;chte- eine Klage beim zust&auml;ndigen Gericht einreichen. Auch f&uuml;r diesen Schritt ben&ouml;tigen Sie einen Rechtsanwalt, welcher sich mit der Materie auskennt.
+Der zweite Grund, warum man einen Anwalt beauftragen sollte, liegt darin, dass nicht jede Löschanfrage bei Suchmaschinenanbietern auch zu einer Löschung führt. Daraufhin muss man -sofern man die Löschung weiterhin verfolgen möchte- eine Klage beim zuständigen Gericht einreichen. Auch für diesen Schritt benötigen Sie einen Rechtsanwalt, welcher sich mit der Materie auskennt.
 
-### Wie w&uuml;rde eine Vertretung Ihrer Interessen bei AdvoAdvice aussehen?
+### Wie würde eine Vertretung Ihrer Interessen bei AdvoAdvice aussehen?
 
-Wenn Sie feststellen, dass &uuml;ber Sie fehlerhafte, beleidigende, verleumderische oder &auml;hnliche Bewertungen und Internetseiten bestehen und in den Suchmaschinenergebnissen gelistet werden, k&ouml;nnen Sie als Unternehmen und als Privatperson hiergegen vorgehen.
+Wenn Sie feststellen, dass über Sie fehlerhafte, beleidigende, verleumderische oder ähnliche Bewertungen und Internetseiten bestehen und in den Suchmaschinenergebnissen gelistet werden, können Sie als Unternehmen und als Privatperson hiergegen vorgehen.
 
-Zun&auml;chst ist eine Kontaktaufnahme mit unserer Kanzlei n&ouml;tig. Dabei ist es wichtig, dass Sie uns den Sachverhalt m&ouml;glichst detailliert schildern. Sodann werden wir eine kostenfreie Ersteinsch&auml;tzung abgeben und als ebenso kostenfreier Service, eine Anfrage bei Ihrem Rechtsschutzversicherer vornehmen.
+Zunächst ist eine Kontaktaufnahme mit unserer Kanzlei nötig. Dabei ist es wichtig, dass Sie uns den Sachverhalt möglichst detailliert schildern. Sodann werden wir eine kostenfreie Ersteinschätzung abgeben und als ebenso kostenfreier Service, eine Anfrage bei Ihrem Rechtsschutzversicherer vornehmen.
 
-Sollten ausreichende Erfolgsaussichten gegeben sein, wird die konkrete Bearbeitung gestartet. Die genauen Schritte h&auml;ngen dann vom jeweiligen Fall ab.
+Sollten ausreichende Erfolgsaussichten gegeben sein, wird die konkrete Bearbeitung gestartet. Die genauen Schritte hängen dann vom jeweiligen Fall ab.
 
-Sollten Sie Fragen zur L&ouml;schung von solchen Merkmalen haben, dann k&ouml;nnen Sie uns gerne unter info@advoadvice.de kontaktieren oder unter 030 / 921 000 40 einen Telefontermin mit unserem Experten Rechtsanwalt Dr. Sven Tintemann vereinbaren.
+Sollten Sie Fragen zur Löschung von solchen Merkmalen haben, dann können Sie uns gerne unter info@advoadvice.de kontaktieren oder unter 030 / 921 000 40 einen Telefontermin mit unserem Experten Rechtsanwalt Dr. Sven Tintemann vereinbaren.
