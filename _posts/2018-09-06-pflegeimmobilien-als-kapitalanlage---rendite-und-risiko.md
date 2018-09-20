@@ -16,6 +16,7 @@ tags:
   - Beratungsfehler
 topics:
   - bank-und-kapitalmarktrecht
+  - immobilienrecht
 team_member: kim-oliver-klevenhagen
 ---
 
