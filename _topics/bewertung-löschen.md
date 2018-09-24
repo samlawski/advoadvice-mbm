@@ -1,6 +1,6 @@
 ---
 featured: true
-title: Suchergenisse und Bewertungen löschen
+title: Suchergebnisse und Bewertungen löschen
 seo_beschreibung: >-
   Suchergebnisse bei Google und Bewertungen auf Portalen durch Rechtsanwalt
   löschen lassen
