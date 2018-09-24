@@ -15,7 +15,7 @@ Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (kurz BaFin) teilt im I
 
 ### D&ouml;ner Gesch&auml;fte in den USA
 
-Die Gesellschaft, die urspr&uuml;nglich unter dem Namen VertsKebap Finance GmbH im Internet Geld eingesammelt hatte, um in den USA Gru&szlig; ins Gesch&auml;ft einzusteigen, meldete nach Information der BaFin am 10. August 2018 Insolvenz an. Grund hierf&uuml;r soll die kurz zuvor am 07. August eingetretene Insolvenz (Chapter 11) der Schwestergesellschaft Noon Mediterranean, Inc. (vormals firmierend unter Verts Mediterranean Grill, Inc.) in den USA sein. Dieser sei es in den letzten Monaten weder gelungen ausreichende Ums&auml;tze zu erwirtschaften noch neues Eigen- bzw. Fremdkapital in ausreichender H&ouml;he aufzunehmen, um ihre Aufwendungen aus dem operativen Gesch&auml;ftsbetrieb zu decken.
+Die Gesellschaft, die urspr&uuml;nglich unter dem Namen VertsKebap Finance GmbH im Internet Geld eingesammelt hatte, um in den USA gro&szlig; ins Gesch&auml;ft einzusteigen, meldete nach Information der BaFin am 10. August 2018 Insolvenz an. Grund hierf&uuml;r soll die kurz zuvor am 07. August eingetretene Insolvenz (Chapter 11) der Schwestergesellschaft Noon Mediterranean, Inc. (vormals firmierend unter Verts Mediterranean Grill, Inc.) in den USA sein. Dieser sei es in den letzten Monaten weder gelungen ausreichende Ums&auml;tze zu erwirtschaften noch neues Eigen- bzw. Fremdkapital in ausreichender H&ouml;he aufzunehmen, um ihre Aufwendungen aus dem operativen Gesch&auml;ftsbetrieb zu decken.
 
 ![Döner - Foto Pixabay](/uploads/doner-kebab-1753615-640.jpg "Döner in den USA kein Verkaufsschlager?")
 
