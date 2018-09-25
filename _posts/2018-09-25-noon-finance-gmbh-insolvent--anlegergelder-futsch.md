@@ -28,3 +28,5 @@ Die Noon Mediterranean, Inc. hatte ihre Zinszahlungen und R&uuml;ckzahlungen geg
 Anleger sollten nun ihre Anspr&uuml;che zur Insolvenztabelle anmelden lassen sowie pr&uuml;fen, ob es einen Anspruch gegen den seinerzeit t&auml;tigen Berater / Finanzvermittler oder die Gesch&auml;ftsf&uuml;hrer der Firmengruppe gibt. Bei Nachrangdarlehen ist es immer wieder umstritten, ob diese evtl. ein erlaubnispflichtiges Einlagengesch&auml;ft darstellen welches der Erlaubnis der BaFin unterliegen w&uuml;rde.&nbsp;
 
 AdvoAdvice vertritt bei Fragen von Anlegern zum Schadensersatz und zu nachrangigen Darlehensvertr&auml;gen seit Jahren Anlegerinteressen und macht Forderungen im Insolvenzverfahren, au&szlig;ergerichtlich sowie auch vor den Gerichten geltend. Betroffene Anleger k&ouml;nnen sich daher telefonisch unter 030 921 000 40 oder per Email unter info@advoadvice.de melden.&nbsp;
+
+&nbsp;
