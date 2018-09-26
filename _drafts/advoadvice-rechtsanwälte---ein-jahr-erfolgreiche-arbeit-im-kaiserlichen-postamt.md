@@ -28,9 +28,6 @@ team_member: kim-oliver-klevenhagen
 ![](/uploads/kaiserliches-postamt-nah.jpg)
 {: .present-before-paste}
 
-AdvoAdvice Rechtsanw&auml;lte ein Jahr erfolgreich am Standort Berlin-Zehlendorf
-{: .present-before-paste}
-
 Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB schaut auf ein Jahr erfolgreiche Arbeit am neuen Standort im kaiserlichen Postamt in Berlin-Zehlendorf, Martin-Buber-Stra&szlig;e 24, 14163 Berlin.
 {: .present-before-paste}
 
