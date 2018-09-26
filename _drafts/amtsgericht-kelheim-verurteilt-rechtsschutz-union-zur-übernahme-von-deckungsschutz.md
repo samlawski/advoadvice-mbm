@@ -23,3 +23,6 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
+Das Amtsgericht Kelheim hat am 25.09.2018 erstinstanzlich die Rechtsschutz Union zur &Uuml;bernahme des Deckungsschutzes in einer SAM Angelegenheit verurteilt.
+
+&nbsp;
