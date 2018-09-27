@@ -14,7 +14,7 @@ tags:
   - Fake-Bewertung
   - DSGVO
 topics:
-  - datenschutz
+  - bewertung-löschen
 team_member: dr-sven-tintemann
 ---
 
