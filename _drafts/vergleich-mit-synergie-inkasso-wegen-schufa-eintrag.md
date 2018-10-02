@@ -1,6 +1,6 @@
 ---
 title: Vergleich mit Synergie Inkasso wegen Schufa Eintrag
-date:
+date: 2018-10-02 00:00:00
 seo_beschreibung: SCHUFA-Eintrag trotz Titulierung gelölscht
 layout: post
 feature_bild_path:
@@ -23,6 +23,8 @@ team_member: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice hat mit der Synergie Inkasso GmbH vor dem Amtsgericht Pforzheim einen Vergleich &uuml;ber die L&ouml;schung eines negativen Schufa-Eintrags geschlossen. Eine parallel vor dem Landgericht Berlin gef&uuml;hrte Klage wurde danach zur&uuml;ckgenommen.
+
+![](/uploads/person-3062271-640.jpg)
 
 ### Zum Hintergrund des Verfahrens und des Vergleichs
 
