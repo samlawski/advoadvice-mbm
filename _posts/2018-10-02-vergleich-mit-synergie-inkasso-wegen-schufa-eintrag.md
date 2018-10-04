@@ -26,8 +26,6 @@ Die Kanzlei AdvoAdvice hat mit der Synergie Inkasso GmbH vor dem Amtsgericht Pfo
 
 ![Stromanbieter - Foto Pixabay](/uploads/person-3062271-640-1.jpg "Vergleich mit Synergie Inkasso für Flex Strom AG")
 
-![](/uploads/person-3062271-640.jpg)
-
 ### Zum Hintergrund des Verfahrens und des Vergleichs
 
 Betroffen war eine junge Frau aus der N&auml;he von Pforzheim, welche vormals Strom &uuml;ber die FlexStrom AG bezog. Dieses Unternehmen musste vor einigen Jahren den Gang in die Insolvenz antreten. Im Anschluss wurden die Forderungen durch verschiedene Stellen, zuletzt durch die Synergie Inkasso GmbH geltend gemacht. Eine der zuvor zust&auml;ndigen Stellen, der Rechtsanwalt Dr. Christoph Schulte-Kaubr&uuml;gger, beantragte im Dezember 2015 einen Mahnbescheid und kurze Zeit einen Vollstreckungsbescheid zu der Forderung. Bereits kurz zuvor wurde die Forderung in den SCHUFA-Datenbestand eingemeldet. Nach der Titulierung durch den Vollstreckungsbescheid, wurde der Eintrag regelm&auml;&szlig;ig aktualisiert. Von dieser Negativeintragung erfuhr die Betroffene erst im Jahr 2017.
