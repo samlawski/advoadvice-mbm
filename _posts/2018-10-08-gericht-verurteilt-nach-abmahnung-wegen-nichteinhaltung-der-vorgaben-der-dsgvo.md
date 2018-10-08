@@ -23,8 +23,6 @@ team_member: dr-sven-tintemann
 
 Mit Beschluss vom 13.09.2018 hat das Landgericht W&uuml;rzburg (Az.: 11 O 1741/18 UWG) einer Rechtsanw&auml;ltin den Betrieb einer nicht-datenschutzkonformen Website untersagt. Diese hatte statt einer ausf&uuml;hrlichen und eigenst&auml;ndigen Datenschutzerkl&auml;rung lediglich sieben Zeilen zum Thema "Datenschutz" in ihr Impressum aufgenommen. Dem Landgericht fehlten Angaben zum Verantwortlichen, zur Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck deren Verwendung, zur Weitergabe von Daten, Cookies, Analysetools und vor allem eine Belehrung &uuml;ber die Betroffenenrechte, insbesondere Widerspruchsrecht, Datensicherheit und ein Hinweis zur M&ouml;glichkeit der Beschwerde bei einer Aufsichtsbeh&ouml;rde. Ferner wurde ein Kontaktformular angeboten, bei welchem man die Daten jedoch nicht verschl&uuml;sselt &uuml;bermitteln konnte.
 
-![](/uploads/dsgvo-3446011-1920-6.jpg)
-
 ### Abmahnungen bei DSGVO-Verst&ouml;&szlig;en m&ouml;glich?
 
 In hiesigem Rechtsstreit d&uuml;rfte die Frage, ob Verst&ouml;&szlig;e gegen die DSGVO und dabei vor allem gegen Art. 13 DSGVO (Informationspflichten) vorliegen, unstrittig sein. Spannender ist dagegen die Frage, ob ein solcher Versto&szlig; durch einen Wettbewerber kostenpflichtig abgemahnt werden darf. Das Landgericht W&uuml;rzburg bejahte diese M&ouml;glichkeit unter Verweis auf die Rechtsprechung des OLG Hamburg (Az.: 3 U 26/12) und des OLG K&ouml;ln (Az.: 8 U 121/15). Die Rechtsgrundlage daf&uuml;r ergebe sich aus &sect; 4 Nr. 11 UWG bzw. &sect; 3a UWG. Der Antragsteller war ebenfalls Rechtsanwalt und deshalb nach Ansicht des Gerichts auch dazu berechtigt, eine solche Abmahnung vorzunehmen.
