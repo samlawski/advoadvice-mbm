@@ -28,7 +28,7 @@ Konkret wurde bei der Kombination aus dem Namen des Unternehmens und dem Stichwo
 
 Das Landgericht M&uuml;nchen I entschied daher, dass Google als Suchmaschinenbetreiber f&uuml;r die Anzeige des Links hafte.
 
-![](/uploads/internet-search-engine-1433323-640.jpg)
+![Google Suche - Foto Pixabay](/uploads/internet-search-engine-1433323-640.jpg "Nicht jedes Suchergebnis ist rechtmäßig")
 
 Ferner entschied das Gericht, dass es ausreichend sei, zwischen der Aufforderung die Anzeige des Ergebnisses zu unterlassen und der Einreichung der einstweiligen Verf&uuml;gung, einen Zeitraum von drei Wochen verstreichen zu lassen. Google ist mithin dazu verpflichtet, nach einer L&ouml;schungsaufforderung auch zeitnah zu reagieren.
 
