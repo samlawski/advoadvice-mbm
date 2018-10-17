@@ -5,6 +5,16 @@ seo_beschreibung: BaFin untersagt Teakinvest der Life Forestry Swizerland AG
 layout: post
 feature_bild_path:
 tags:
+  - BaFin
+  - Untersagung
+  - Teakinvest
+  - Life Forestry Switzerland AG
+  - Vermögensanlage
+  - Prospekt
+  - Erstattung
+  - Erwerbspreis
+  - Rückabwicklung
+  - Investment
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
