@@ -1,7 +1,7 @@
 ---
 title: SCHUFA-Eintrag nach gerichtlichem Vergleich widerrufen
-date:
-seo_beschreibung: Widerruf erfolgt?
+date: 2018-10-19 00:00:00
+seo_beschreibung: 'Synergie Inkasso: Negativeintrag nach Vergleich vor LG Berlin widerrufen'
 layout: post
 feature_bild_path:
 tags:
@@ -25,6 +25,8 @@ team_member: dr-sven-tintemann
 ---
 
 Die Experten von AdvoAdvice konnten einem jungen Mann aus Schleswig-Holstein bei der L&ouml;sung eines Problems mit einem negativen SCHUFA-Eintrag helfen. Eingetragen wurde die Forderung von der Synergie Inkasso GmbH. Die Forderung stammt aus einem Vertrag mit der FlexStrom AG und wurde im Jahr 2014 zur Abrechnung gebracht.
+
+![Landgericht Berlin - Foto AdvoAdvice](/uploads/lg-berlin---spreeblick-1.jpg "Vergleich mit Synergie Inkasso für Flex Strom AG")
 
 ### Au&szlig;ergerichtliche Einigung nicht m&ouml;glich
 
