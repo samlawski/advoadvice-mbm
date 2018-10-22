@@ -2,7 +2,7 @@
 title: >-
   Pflegeimmobilien  kaufen - Erklärung und FAQ zum neuen Hit auf dem
   Kapitalmarkt
-date: 2018-10-22 00:10:00
+date: 2018-10-22 00:00:00
 seo_beschreibung: Pflegeimmobilien – der neue Hit auf dem Kapitalmarkt?!
 layout: post
 feature_bild_path:
