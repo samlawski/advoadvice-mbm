@@ -5,6 +5,19 @@ seo_beschreibung: Kündigung von Sparverträgen der Sparkasse zweifelhaft
 layout: post
 feature_bild_path:
 tags:
+  - Sparvertrag
+  - Kündigung
+  - Sparkasse
+  - MOL
+  - Märkisch-Oderland
+  - Prämienausschüttung
+  - Niedrigzinsphase
+  - Inforadio
+  - SUPER.MARKT
+  - RBB-Fernsehn
+  - Rechtsanwalt
+  - Verbraucherzentrale
+  - Advoadvice
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
