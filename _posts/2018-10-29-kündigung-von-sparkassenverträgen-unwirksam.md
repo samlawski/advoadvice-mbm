@@ -1,5 +1,5 @@
 ---
-title: Kündigung von Sparkassenverträgen unwirksam
+title: Kündigung von Sparkassenverträgen unwirksam?
 date: 2018-10-29 00:00:00
 seo_beschreibung: Kündigung von Sparverträgen der Sparkasse zweifelhaft
 layout: post
