@@ -30,11 +30,11 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Die Firma LogisFonds I GmbH (vormals Logis Fonds I AG bzw. Garbe Logimac AG) meldete sich Anfang Oktober bei ihren Anlegern mit einem Schreiben der Rechtsanw&auml;lte nbs partners aus Hamburg und teilte den Anlegern mit, auf das errechnete Auseinandersetzungsguthaben zum 31.01.2017, welches am 31.01.2018 zur Zahlung f&auml;llig gewesen w&auml;re, nur 75% auszahlen zu k&ouml;nnen.
+Die Firma LogisFonds I GmbH (vormals Logis Fonds I AG bzw. Garbe Logimac AG) meldete sich Anfang Oktober bei ihren Anlegern mit einem Schreiben der Rechtsanw&auml;lte nbs partners aus Hamburg und teilte den Anlegern mit, auf das errechnete Auseinandersetzungsguthaben zum 31.01.2017, welches am 31.01.2018 zur Zahlung f&auml;llig gewesen w&auml;re, nur 65% auszahlen zu k&ouml;nnen.
 
 ![](/uploads/advoadvice-01-52-von-80-2.jpg)
 
-Dies wurde mit der Ber&uuml;cksichtigung der Liquidit&auml;tslage des Unternehmens begr&uuml;ndet. Mehr dazu, warum die Anleger auf 25% ihrer Anspruch nach Auseinandersetzung der atypisch stillen Gesellschaft verzichten sollten, wurde nicht mitgeteilt.
+Dies wurde mit der Ber&uuml;cksichtigung der Liquidit&auml;tslage des Unternehmens begr&uuml;ndet. Mehr dazu, warum die Anleger auf 35% ihrer Anspruch nach Auseinandersetzung der atypisch stillen Gesellschaft verzichten sollten, wurde nicht mitgeteilt.
 
 ### Klage vor dem Amtsgericht Hamburg eingereicht
 
@@ -44,7 +44,7 @@ Die Klage muss nun vom dem Gericht bei der LogisFonds GmbH zugestellt werden. Di
 
 ### Unser Rechtstipp
 
-Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht, r&auml;t betroffenen Anlegern der LogisFonds GmbH: "Auf das Vergleichsangebot der LogisFonds GmbH unter Verzicht auf 25% ihrer Abfindungssumme m&uuml;ssen Sie nicht eingehen. Sie haben aus unserer Sicht Anspruch auf volle Auszahlung ohne Reduzierung zzgl. Verzugszinsen."
+Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht, r&auml;t betroffenen Anlegern der LogisFonds GmbH: "Auf das Vergleichsangebot der LogisFonds GmbH unter Verzicht auf 35% ihrer Abfindungssumme m&uuml;ssen Sie nicht eingehen. Sie haben aus unserer Sicht Anspruch auf volle Auszahlung ohne Reduzierung zzgl. Verzugszinsen."
 
 Der Experte aus der Kanzlei AdvoAdvice verweist hier auf parallel gef&uuml;hrte Verfahren vor dem Landgericht M&uuml;nchen I gegen die Leasetrend AG. Hier wurde klagenden Anlegern oftmals das eingeklagte Auseinandersetzungsguthaben zzgl. Zinsen seitens der Leasetrend AG noch im laufenden Prozess bezahlt. Die Klagen konnte dann ohne Gerichtstermin und mit Kosten&uuml;bernahme durch die Gegenseite vorzeitig beendet werden.
 
