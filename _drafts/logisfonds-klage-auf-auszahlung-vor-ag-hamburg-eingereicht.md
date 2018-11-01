@@ -33,7 +33,7 @@ Dies wurde mit der Ber&uuml;cksichtigung der Liquidit&auml;tslage des Unternehme
 
 ### Klage vor dem Amtsgericht Hamburg eingereicht
 
-Da die Forderung sp&auml;testens seit dem 01.02.2018 zur Auszahlung f&auml;llig sein d&uuml;rfte und kein Grund f&uuml;r die versp&auml;tete oder eine reduzierte Auszahlung ersichtlich ist, hat die Kanzlei AdvoAdvice aus Berlin nun f&uuml;r einen in Berlin lebenden Anleger am 31.10.2018 Klage auf Auszahlung des kompletten Auseinandersetzungsbetrages zzgl. Zinsen in H&ouml;he von 4.956,51 Euro erhoben.
+Da die Forderung sp&auml;testens seit dem 01.02.2018 zur Auszahlung f&auml;llig sein d&uuml;rfte und kein Grund f&uuml;r die versp&auml;tete oder eine reduzierte Auszahlung ersichtlich ist, hat die Kanzlei AdvoAdvice aus Berlin nun f&uuml;r einen in Berlin lebenden Anleger am 30.10.2018 Klage auf Auszahlung des kompletten Auseinandersetzungsbetrages zzgl. Zinsen in H&ouml;he von 4.956,51 Euro erhoben.
 
 Die Klage muss nun vom dem Gericht bei der LogisFonds GmbH zugestellt werden. Diese hat dann die M&ouml;glichkeit, sich gegen die Klage zu verteidigen oder gleich den Auszahlungsbetrag zzgl. Zinsen an den Kl&auml;ger zu bezahlen.
 
