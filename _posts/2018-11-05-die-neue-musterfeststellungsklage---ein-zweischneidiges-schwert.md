@@ -1,5 +1,5 @@
 ---
-title: Musterfeststellungsklage - ein zweischneidiges Schwert
+title: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
 date: 2018-11-05 00:00:00
 seo_beschreibung:
 layout: post
