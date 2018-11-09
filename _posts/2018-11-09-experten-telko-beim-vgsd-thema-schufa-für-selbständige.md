@@ -7,7 +7,23 @@ seo_beschreibung: >-
 layout: post
 feature_bild_path:
 tags:
+  - Schufa
+  - Selbständige
+  - VDSG
+  - Verband der Gründer und Selbständigen Deutschland e.V.
+  - Expertengespräch
+  - Telefonkonferenz
+  - Telko
+  - Experten-Talk
+  - Datenschutz
+  - DSGVO
+  - Selbstauskunft
+  - Negativeintrag
+  - Scorewert
+  - Scoring
+  - Auskunfteien
 topics:
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
 
