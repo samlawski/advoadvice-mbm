@@ -2,7 +2,7 @@
 title: >-
   Kündigung des Darlehens durch die Bank - Was man bei Darlehenskündigungen tun
   kann
-date:
+date: 2018-11-12 00:00:00
 seo_beschreibung: >-
   Kündigung des Darlehens durch die Bank - Was man bei Darlehenskündigungen tun
   kann
@@ -57,3 +57,5 @@ Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Kim Oliver Klev
 Hier kommt es also entscheidend auf einen genaue Beweisf&uuml;hrung und einen exakten Vortrag bei den Verhandlungen mit einer Bank an.
 
 "Diese Beweisf&uuml;hrung ist schwierig, so dass Banken die Konsequenzen unberechtigter Kreditk&uuml;ndigungen nicht selten zu tragen haben. Es kann sich also lohnen, um sein Recht zu k&auml;mpfen.", sagt Rechtsanwalt Klevenhagen, der mit seinem Team bereits einer Vielzahl von Mandanten nach einer K&uuml;ndigung eines Darlehens durch die finanzierende Bank helfen konnte.
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
