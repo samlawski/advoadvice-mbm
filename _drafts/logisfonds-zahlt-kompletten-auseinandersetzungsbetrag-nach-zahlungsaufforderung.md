@@ -38,7 +38,7 @@ Mit diesem Schreiben und dem f&uuml;r sie errechneten Auseinandersetzungsguthabe
 
 Dr. Tintemann riet dann erst einmal zu einer au&szlig;ergerichtlichen Zahlungsaufforderung an die Gegenseite. Diese meldete sich &uuml;ber ihre Anw&auml;lte und bat um &Uuml;bermittlung der Kontoverbindung der durch AdvoAdvice vertretenen Mandantin.
 
-Nach Mitteilung der Kontoverbindung erfolgte dann die Zahlung des kompletten Abfindungsanspruchs i.H.v. 3.043,48 €.
+Nach Mitteilung der Kontoverbindung erfolgte dann die Zahlung des kompletten Abfindungsanspruchs i.H.v. 3.043,48 €. Zuvor waren der Berliner Anlegerin lediglich 1.978,26 Euro angeboten worden.
 
 Wegen der entstandenen Anwaltskosten und noch f&auml;lliger Zinsen befindet sich die Kanzlei AdvoAdvice weiterhin in einem Austausch mit der LogisFonds I GmbH. Diese wurde erneut zur Zahlung der noch offenen Zinsen und Anwaltskosten unter Fristsetzung zum 30.11.2018 aufgefordert.
 
