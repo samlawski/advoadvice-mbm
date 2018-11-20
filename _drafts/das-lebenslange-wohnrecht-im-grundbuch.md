@@ -22,6 +22,8 @@ topics:
 team_member: kim-oliver-klevenhagen
 ---
 
+#### ![](/uploads/balcony-plants-357702-640.jpg)
+
 #### Was ist das Wohnrecht?
 
 Das Wohnrecht – oder auch Wohnungsnutzungsrecht – ist f&uuml;r den Beg&uuml;nstigten die Befugnis eine Immobilie oder einen Teil davon zu Bewohnen.
@@ -75,3 +77,5 @@ Das Wohnrecht und das Nie&szlig;brauchrecht sind tats&auml;chlich sehr unterschi
 Bei einem Wohnrecht darf der Beg&uuml;nstigte nur in der Wohnung wohnen. Bei einem Nie&szlig;brauchrecht stehen dem Berechtigten viel mehr Rechte zu. Er darf die „Nutzungen“ aus der Sache ziehen. Das hei&szlig;t, dass er selbst in der Wohnung wohnen darf. Kann oder will er dies nicht, ist er berechtigte diese „Nutzungen“ zu ziehen. Er darf die Wohnung also auch Vermieten. Dies ist besonders praktisch, wenn der Berechtigte pflegebed&uuml;rftig wird und in ein Pflegeheim muss: Mieteinnahmen
 
 Zusammenfassend l&auml;sst sich sagen, dass der Bereich des im Grundbuch eingetragenen lebenslangen Wohnrechts sehr komplex ist und es viele Fallstricke zu beachten gibt. Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen der Rechtsanwaltskanzlei AdvoAdvice aus Berlin r&auml;t deshalb: „Aufgrund der Komplexit&auml;t dieses Themas sollte man nicht ohne eine gute Beratung beim Notar einfach einen Vertrag &uuml;ber das Wohnrecht oder sogar den Rangr&uuml;cktritt unterschreiben. Nur mit einer guten anwaltlichen Beratung l&auml;sst sich wom&ouml;glich der Verlust der Wohnung von vorneherein vermeiden. Dazu muss man jedoch fr&uuml;hzeitig ansetzen.“
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
