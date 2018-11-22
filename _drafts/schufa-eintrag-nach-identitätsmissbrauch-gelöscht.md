@@ -25,6 +25,8 @@ In den Medien wird immer wieder &uuml;ber Datenschutzvorf&auml;lle und Identit&a
 
 Der betroffene Berliner musste eines Tages feststellen, dass &uuml;ber ihn ein negativer SCHUFA-Eintrag durch ein gro&szlig;en deutsches Inkasso-Unternehmen vorgenommen wurde. Die &Uuml;berraschung war gro&szlig;, hatte er zu diesem Unternehmen bislang keinen Kontakt gehabt. In der Folgezeit stellte sich heraus, dass seine ehemalige Lebensgef&auml;hrtin weiterhin seinen Online-Zugang bei einer bekannten schwedischen Modekette genutzt hat. &Uuml;ber diesen Zugang bestellte sie Waren an die zwischenzeitlich von der Frau bezogenen neue Wohnanschrift unter dem Namen ihres ehemaligen Lebensgef&auml;hrten.&nbsp;
 
+![](/uploads/woman-3040029-640.jpg)
+
 Nach einiger Zeit vers&ouml;hnten sich die beiden Parteien wieder. Die Frau zog aus der &Uuml;bergangswohnung aus, meldete dies aber nicht beim Modeversandh&auml;ndler an. Auch der Ausgleich der Forderung geriet dar&uuml;ber in Vergessenheit. Die schwedische Modekette versuchte es daher in der Folge vergeblich, die Forderung bei dem Berliner, jedoch unter der falschen, ihm &uuml;berhaupt nicht bekannten Adresse, geltend zu machen.&nbsp;
 
 ### Schnelle Hilfe nach Einschaltung der Rechtsanw&auml;lte
