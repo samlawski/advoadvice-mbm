@@ -43,7 +43,7 @@ H&auml;tte die BaFin mit Ihrer Vermutung Recht, so k&ouml;nnte dies weitreichend
 
 Gem&auml;&szlig; &sect; 21 VermAnlG kann der Erwerber von Verm&ouml;gensanlagen von dem Emittenten der Verm&ouml;gensanlagen und dem Anbieter als Gesamtschuldnern die &Uuml;bernahme der Verm&ouml;gensanlagen gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht &uuml;berschreitet, und der mit dem Erwerb verbundenen &uuml;blichen Kosten verlangen, sofern das Erwerbsgesch&auml;ft vor Ver&ouml;ffentlichung eines Verkaufsprospekts und innerhalb von zwei Jahren nach dem ersten &ouml;ffentlichen Angebot der Verm&ouml;gensanlagen im Inland abgeschlossen wurde.
 
-Kurz gesagt k&ouml;nnten die Erwerber also bei einem tats&auml;chlich vorliegenden Versto&szlig; gegen die Prospektpflicht unter bestimmten Umst&auml;nden eine R&uuml;ckabwicklung verlangen und den Erwerbspreis und die mit dem Erwerb verbundenen Kosten zur&uuml;ckfordern.
+Kurz gesagt k&ouml;nnten also Anleger einer ohne Verkaufsprospekt angebotenen Verm&ouml;gensanlage nach diesem Gesetz im Falle eines tats&auml;chlich vorliegenden Versto&szlig;es gegen die Prospektpflicht unter bestimmten Umst&auml;nden eine R&uuml;ckabwicklung der von ihnen erworbenen Verm&ouml;gensanlage&nbsp; verlangen und den Erwerbspreis und die mit dem Erwerb verbundenen Kosten zur&uuml;ckfordern.
 
 Die Fachanw&auml;lte der Berliner Kanzlei AdvoAdvice mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Verm&ouml;gensanlagen.
 
