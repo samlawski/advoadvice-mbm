@@ -2,7 +2,7 @@
 title: >-
   OLG Düsseldorf: Kein Deckungsschutz von D & O Versicherung bei verspätetem
   Insolvenzantrag
-date:
+date: 2018-11-28 00:00:00
 seo_beschreibung: >-
   OLG Düsseldorf sieht D&O Versicherung nicht in der Haftung bei verspätetet
   gestelltem Insolvenzantrag
@@ -34,8 +34,22 @@ Wird also ein versp&auml;teter Insolvenzantrag gestellt, so haftet der Gesch&aum
 
 Da hier bei gr&ouml;&szlig;eren Gesellschaften schnell hohe Betr&auml;ge zusammenkommen k&ouml;nnen, liegen diese oftmals &uuml;ber dem Einkommen oder auch dem privaten Verm&ouml;gen des Gesch&auml;ftsf&uuml;hrers. Viele Gesch&auml;ftsf&uuml;hrer denken daher, sie k&ouml;nnten ihre Haftung &uuml;ber eine Zusatzversicherung, die sog. D&O Versicherung absichern.
 
-Konkretes Verfahren:
+### Konkretes Verfahren:
 
-In dem Verfahren, zu welchem das OLG D&uuml;sseldorf nunmehr eine Entscheidung getroffen hat,
+In dem Verfahren, zu welchem das OLG D&uuml;sseldorf nunmehr eine Entscheidung getroffen hat, war die Gesch&auml;ftsf&uuml;hrerin einer GmbH nach &sect; 64 GmbH-Gesetz erfolgreich vom Insolvenzverwalter auf Zahlung in Anspruch genommen worden. Diese verlangte nun von der D&O-Versicherung eine Haftungs&uuml;bernahme und entsprechende Freistellung vom entstandenen Schaden.
+
+Da der Versicherer nicht zahlte, klagte die Gesch&auml;ftsf&uuml;hrerin und unterlag sowohl in erster als auch in zweiter Instanz.
+
+Das OLG D&uuml;sseldorf begr&uuml;ndete seine Entscheidung damit, dass die Versicherung nicht dem Schutz der Gl&auml;ubigerinteressen diene.
+
+Einen Anspruch gegen die D&O Versicherung hatte auch in der Vergangenheit das OLG Celle, wohl in einem Verfahren zur Gew&auml;hrung von Prozesskostenhilfe, zu dem Az. 8 W 20/16 mit Beschluss vom 01.04.2016&nbsp; bereits abgelehnt.
+
+### Fazit:
+
+Die D&O Versicherung sch&uuml;tzt daher weder die Gl&auml;ubiger eines insolventen Unternehmens, noch den Gesch&auml;ftsf&uuml;hrer gegen alle Risiken, die im Zusammenhang mit einer Insolvenz bestehen k&ouml;nnen.
+
+Da gegen die Entscheidung des OLG D&uuml;sseldorf wohl eine Nichtzulassungsbeschwerde zum Bundesgerichtshof l&auml;uft, ist das letzte Wort &uuml;ber die hier streitgegenst&auml;ndliche Rechtsfrage auch noch nicht gesprochen.
+
+Wir werden ggf. weiter berichten.
 
 &nbsp;
