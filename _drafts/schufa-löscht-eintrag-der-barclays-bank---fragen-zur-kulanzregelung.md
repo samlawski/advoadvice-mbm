@@ -22,7 +22,7 @@ team_member: dr-sven-tintemann
 
 Ende Oktober diesen Jahres meldete sich ein Mitte 20-j&auml;hriger Student aus Frankfurt am Main bei der Rechtsanwaltskanzlei AdvoAdvice. Dieser hatte kurz zuvor festgestellt, dass die Barclays Bank PLC einen negativen SCHUFA-Eintrag &uuml;ber ihn veranlasst hat. Die Forderung war auf ein Kreditkartenkonto zur&uuml;ckzuf&uuml;hren, welches der Betroffene geringf&uuml;gig &uuml;berzogen hatte. Nachdem die Barclays Bank Mitte April 2018 eine Mahnung &uuml;ber einen Betrag von 36,40 Euro versendet hat, folgte Ende April der Versand einer K&uuml;ndigung des Kreditvertrages. Ausweislich der SCHUFA-Datenkopie wurde die Forderung am 26.06.2018 ausgeglichen. Tats&auml;chlich erfolgte der Ausgleich bereits am 11.06.2018.
 
-Die Barclays Bank PLC lehnte eine L&ouml;schung permanent ab. Als Nachweis f&uuml;r eine m&ouml;gliche Rechtm&auml;&szlig;igkeit des Eintrages wurde der Sachverhalt aus Sicht der Barclays Bank PLC geschildert und die Mahnung sowie die K&uuml;ndigung &uuml;bersendet. Schwierigkeiten bereitete hier bereits, dass der Betroffene zum Zeitpunkt der Schreiben nicht mehr unter der fraglichen Adresse wohnte.
+Die Barclays Bank PLC lehnte einen Widerruf des Eintrages permanent ab. Als Nachweis f&uuml;r eine m&ouml;gliche Rechtm&auml;&szlig;igkeit des Eintrages wurde der Sachverhalt aus Sicht der Barclays Bank PLC geschildert und die Mahnung sowie die K&uuml;ndigung &uuml;bersendet. Schwierigkeiten bereitete hier bereits, dass der Betroffene zum Zeitpunkt der Schreiben nicht mehr unter der fraglichen Adresse wohnte.
 
 ### Die "alte" Kulanzregelung&nbsp;
 
@@ -32,7 +32,7 @@ Durch den Vortrag der Barclays Bank PLC wurde jedoch klar, dass die Forderung kn
 
 ### L&ouml;schungserfolg&nbsp;
 
-Der zust&auml;ndige Rechtsanwalt Dr. Tintemann wandte sich nach dieser Erkenntnis erneut an die SCHUFA Holding AG und argumentierte, dass es dem Betroffenen nicht angelastet werden kann, dass die Forderung unter dem Geltungsbereich der alten Regelung angefallen und durch den zeitlichen Zufall, dass der Ausgleich der Forderung erst kurz nach der Einf&uuml;hrung der Datenschutzgrundverordnung erfolgte, nicht gel&ouml;scht wird. Mit anderen Worten: Die Kulanzregelung m&uuml;sste auch hier noch greifen, da die Voraussetzungen erf&uuml;llt sind und diese Regelung zum Zeitpunkt der K&uuml;ndigung noch in Kraft war.
+Der zust&auml;ndige Rechtsanwalt Dr. Tintemann wandte sich nach dieser Erkenntnis erneut an die SCHUFA Holding AG und argumentierte, dass es dem Betroffenen nicht angelastet werden k&ouml;nne, dass die Forderung unter dem Geltungsbereich der alten Regelung angefallen und durch den zeitlichen Zufall, dass der Ausgleich der Forderung erst kurz nach der Einf&uuml;hrung der Datenschutzgrundverordnung erfolgte, nicht gel&ouml;scht werde. Mit anderen Worten: Die Kulanzregelung m&uuml;sste auch hier noch greifen, da die Voraussetzungen erf&uuml;llt sind und diese Regelung zum Zeitpunkt der K&uuml;ndigung noch in Kraft war.
 
 Die SCHUFA stellte sich an diesem Punkt zun&auml;chst quer, sodass dem Anliegen nochmals Nachdruck verliehen werden musste. Daraufhin wurde die Forderung kurzfristig durch die SCHUFA Holding AG zur L&ouml;schung gebracht.
 
