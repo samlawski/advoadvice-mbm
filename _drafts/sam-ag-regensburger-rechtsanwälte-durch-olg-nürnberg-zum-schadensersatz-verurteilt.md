@@ -9,7 +9,27 @@ seo_beschreibung: >-
 layout: post
 feature_bild_path:
 tags:
+  - Anspüche
+  - Kapitalanleger
+  - SAM AG
+  - OLG Nürnberg
+  - Schadensersatz
+  - Rechtsanwälte
+  - Treuhänder
+  - verurteilt
+  - RDG
+  - Rechtsdienstleistungsgesetz
+  - Berufung
+  - Revision
+  - Landgericht Regensburg
+  - Erfolg
+  - AdvoAdvice
+  - Haftung
+  - Lebensversicherung
+  - Kündigung
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
