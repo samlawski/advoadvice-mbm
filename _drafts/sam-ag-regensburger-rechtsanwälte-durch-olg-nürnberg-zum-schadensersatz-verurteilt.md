@@ -49,6 +49,8 @@ Wie kann das sein, wird sich das zun&auml;chst der durchschnittliche Rechtskundi
 
 Hier sah das Gericht die Haftungsproblematik aber dadurch als gegeben an, weil hier die SAM AG Forderungen der Anleger aus Lebensversicherungen einzog, ohne hierbei eine Erlaubnis nach dem RDG zum Betreiben des Inkasso-Gesch&auml;fts vorliegen zu haben.&nbsp;
 
+![](/uploads/judgment-3667391-640.jpg)
+
 Diesen Umstand wiederum h&auml;tten die f&uuml;r die Abwicklung der Lebensversicherungsvertr&auml;ge eingeschalteten Rechtsanw&auml;lte erkennen m&uuml;ssen und somit auch die Beteiligung am unerlaubt betriebenen Inkassogesch&auml;ft.&nbsp;
 
 Der hier handelnde Rechtsanwalt, der die Lebensversicherungsvertr&auml;ge k&uuml;ndigte, seine Anwaltssoziet&auml;t und auch der aus der Soziet&auml;t bereits ausgeschiedene Anwaltskollege, der seinerzeit jedoch Mitglied der Soziet&auml;t war, wurden daher zum Schadensersatz verurteilt.
