@@ -3,7 +3,7 @@
 
 #### Was passiert, wenn die Immobilie doch nicht so viel wert ist wie gedacht – Investition in Betongold in Deutschland boomt, Steuersparen leichtgemacht in Immobilien-Kapitalanlagen?
 
-Viele Immobilien werden zum Zweck des Steuersparens gekauft. Diese Immobilien-Kapitalanlagen haben eines gemeinsam: Eine vorteilhafte Kapitalanlage sind sie erst, wenn „unter dem Strich“ ein Gewinn erzielt wird, also die Immobilie mehr Vorteile als Nachteile hat. Selbst wenn, was selten der Fall ist, die monatlichen Belastungen genauso sind, wie einem dies vor dem Abschluss des Kaufvertrages versprochen worden ist, gibt es einen Umstand, der vielen nicht bekannt ist. Es handelt sich hier um die Unterschiede eines Verkaufs im sogenannten „Erstmarkt“ im Gegensatz zu dem sp&auml;teren Verkauf im „Zweitmarkt“.
+Viele Immobilien werden zum Zweck der Steuerersparnis gekauft. Diese Immobilien-Kapitalanlagen haben eines gemeinsam: Eine vorteilhafte Kapitalanlage sind sie erst, wenn „unter dem Strich“ ein Gewinn erzielt wird, also die Immobilie mehr Vorteile als Nachteile hat. Selbst wenn, was selten der Fall ist, die monatlichen Belastungen genauso sind, wie einem dies vor dem Abschluss des Kaufvertrages versprochen worden ist, gibt es einen Umstand, der vielen nicht bekannt ist. Es handelt sich hier um die Unterschiede eines Verkaufs im sogenannten „Erstmarkt“ im Gegensatz zu dem sp&auml;teren Verkauf im „Zweitmarkt“.
 
 Eine typische Fallkonstellation sieht meistens so aus:
 
@@ -19,9 +19,9 @@ Das dicke Ende folgt vier Jahre nach dem Erwerb der Immobilie. Durch Zufall erf&
 
 Der Knackpunkt liegt in der Unterscheidung der sogenannten „Erstverk&auml;ufe“ und der „Zweitverk&auml;ufe“. W&auml;hrend bei dem Erwerb einer Immobilie vom Bautr&auml;ger auch die steuerlichen Vorteile eingepreist werden, fallen diese beim Wiederverkauf an einen neuen K&auml;ufer vollst&auml;ndig weg. Die Immobilie ist f&uuml;r einen weiteren K&auml;ufer nicht mehr so finanziell interessant wie f&uuml;r den Erstk&auml;ufer, der die Steuervorteile generiert. Dieser Umstand spiegelt sich auch im Kaufpreis wider. W&auml;hrend im sogenannten „Erstmarkt“ noch hohe Kaufpreise erzielt werden k&ouml;nnen, ist beim Wiederverkauf nur ein geringerer Verkaufspreis m&ouml;glich. Vielfach kann diese Differenz auch nicht mehr durch Wertsteigerungen auf dem Immobilienmarkt wettgemacht werden.
 
-Sanierte Bausubtanz &uuml;berschwemmt den ges&auml;ttigten Markt – &uuml;berschuldete Kapitalanleger erzielen keinen angemessenen Wiederverkaufswert
+Sanierte Bausubstanz &uuml;berschwemmt den ges&auml;ttigten Markt – &uuml;berschuldete Kapitalanleger erzielen keinen angemessenen Wiederverkaufswert
 
-Gerade in ostdeutschen Gro&szlig;st&auml;dten, wie Leipzig, Chemnitz oder Dresden, gab es viel alte Bausubstanz, die von Bautr&auml;gern saniert wurden. Es wurden viele Kapitalanleger gewonnen. Nach dem Ablauf der steuerlichen Wartefrist bricht nun eine Flut von Verk&auml;ufen auf einen ges&auml;ttigten Markt herein. Es besteht ein &Uuml;berangebot an Immobilien. &Uuml;berschuldete Familien oder an der Existenz gef&auml;hrdete Kapitalanleger, die dringend Geld brauchen, k&ouml;nnen durch den Verkauf der Immobilie ihre Schulden nicht verringern. Es bleibt eine riesige Schuldenmenge &uuml;brig.
+Gerade in ostdeutschen Gro&szlig;st&auml;dten, wie Leipzig, Chemnitz oder Dresden, gab es viel alte Bausubstanz, die von Bautr&auml;gern saniert wurden. Es wurden viele Kapitalanleger gewonnen. Nach dem Ablauf der steuerlichen Wartefrist bricht nun eine Flut von Verk&auml;ufen auf einen ges&auml;ttigten Markt herein. Es besteht ein &Uuml;berangebot an Immobilien. &Uuml;berschuldete Familien oder an der Existenz gef&auml;hrdete Kapitalanleger, die dringend Geld brauchen, k&ouml;nnen durch den Verkauf der Immobilie ihre Schulden nicht verringern. Es bleibt eine riesiger Berg an Schulden &uuml;brig.
 
 #### Fehlerhafte Beratung zu Erst- und Zweitmarkt? – K&ouml;nnen Schadensersatzanspr&uuml;che geltend gemacht werden?
 
@@ -31,6 +31,6 @@ Auch die Gerichte sprechen bei Beratungsfehlern, die bewiesen werden k&ouml;nnen
 
 Fachanwalt und Experte f&uuml;r Immobilienrecht Kim Oliver Klevenhagen hierzu: „Die zahlreichen Urteile zeigen, dass auch bei Gerichten die Praxis der Falschberatungen weiter untersucht wird. Kapitalanleger, die erfahren haben, dass ihre Immobilie weit weniger wert ist als gedacht, sollten sich an einen Spezialisten wenden, um etwaige Anspr&uuml;che pr&uuml;fen zu k&ouml;nnen.“
 
-Die Hoffnung stirbt immer zuletzt. Rechtanwalt Klevenhagen wei&szlig; aus langj&auml;hriger Erfahrung im Immobilienrecht, dass die Belastungen f&uuml;r Opfer von Steuersparimmobilien und ihre Familien wirtschaftlich und seelisch gro&szlig; sind. F&uuml;r R&uuml;ckfragen, fairen Rat und zur Einsch&auml;tzung des Sachverhaltes stehen die AdvoAdvice mbB gerne unter 030-421 000 40 oder info@advoadvice.de zur Verf&uuml;gung.
+Die Hoffnung stirbt immer zuletzt. Rechtsanwalt Klevenhagen wei&szlig; aus langj&auml;hriger Erfahrung im Immobilienrecht, dass die Belastungen f&uuml;r Opfer von Steuersparimmobilien und ihre Familien wirtschaftlich und seelisch gro&szlig; sind. F&uuml;r R&uuml;ckfragen, fairen Rat und zur Einsch&auml;tzung des Sachverhaltes stehen die AdvoAdvice mbB gerne unter 030-421 000 40 oder info@advoadvice.de zur Verf&uuml;gung.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
