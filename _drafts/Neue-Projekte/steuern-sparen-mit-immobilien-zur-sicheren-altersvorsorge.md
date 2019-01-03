@@ -1,6 +1,8 @@
 ---
 ---
 
+#### ![](/uploads/bank-2907728-640.jpg)
+
 #### Was passiert, wenn die Immobilie doch nicht so viel wert ist wie gedacht – Investition in Betongold in Deutschland boomt, Steuersparen leichtgemacht in Immobilien-Kapitalanlagen?
 
 Viele Immobilien werden zum Zweck der Steuerersparnis gekauft. Diese Immobilien-Kapitalanlagen haben eines gemeinsam: Eine vorteilhafte Kapitalanlage sind sie erst, wenn „unter dem Strich“ ein Gewinn erzielt wird, also die Immobilie mehr Vorteile als Nachteile hat. Selbst wenn, was selten der Fall ist, die monatlichen Belastungen genauso sind, wie einem dies vor dem Abschluss des Kaufvertrages versprochen worden ist, gibt es einen Umstand, der vielen nicht bekannt ist. Es handelt sich hier um die Unterschiede eines Verkaufs im sogenannten „Erstmarkt“ im Gegensatz zu dem sp&auml;teren Verkauf im „Zweitmarkt“.
