@@ -6,7 +6,9 @@ layout: post
 feature_bild_path:
 tags:
 topics:
-team_member: dr-sven-tintemann
+  - immobilienrecht
+  - anlegerschutz
+team_member: kim-oliver-klevenhagen
 ---
 
 #### ![](/uploads/bank-2907728-640.jpg)
