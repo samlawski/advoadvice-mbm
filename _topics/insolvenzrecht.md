@@ -9,9 +9,10 @@ seo_beschreibung: >-
 ### **Unsere Themen:**
 
 * **Verbraucherinsolvenz**
+* **&Uuml;berschuldung und Schuldenbereinigung**
 * **Regelinsolvenz**
 * **Restschuldbefreiung**
-* **&Uuml;berschuldung und Schuldenbereinigung**
+* **Unternehmensinsolvenz**
 * **Berliner Gerichtszust&auml;ndigkeiten bei Verbraucherinsolvenz**
 
 ![](/uploads/insolvency-593750-640.jpg)
