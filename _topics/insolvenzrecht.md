@@ -15,7 +15,7 @@ seo_beschreibung: >-
 * **Unternehmensinsolvenz**
 * **Berliner Gerichtszust&auml;ndigkeiten bei Verbraucherinsolvenz**
 
-![](/uploads/insolvency-593750-640.jpg)
+![Insolvenz - Foto Pixabay](/uploads/insolvency-593750-640.jpg "Eintritt in die Insolvenz oftmals sinnvoll")
 
 Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
 
@@ -49,7 +49,7 @@ Ziel der Insolvenz bei nat&uuml;rlichen Personen, egal ob Verbraucher oder nicht
 
 Mit der Erteilung der Restschuldbefreiung ist der Schuldner seine Schulden dann los und kann von seinen Gl&auml;ubigern dort ggf. vorhandene Titel, die zur Zwangsvollstreckung verwendet werden k&ouml;nnen, herausverlangen.&nbsp; Zudem kann eine Erledigung von Eintragungen in der Schufa Holding AG oder bei anderen Auskunfteien verlangt werden.
 
-![](/uploads/insolvency-96596-640-1.jpg)
+![Insolvenz beendet - Foto Pixabay](/uploads/insolvency-96596-640-1.jpg "Restschuldbefreiung nach Ende der Insolvenz")
 
 ### Unternehmensinsolvenz
 
