@@ -6,11 +6,19 @@ seo_beschreibung: >-
   erfahrene Rechtsanwälte
 ---
 
+### **Unsere Themen:**
+
+* **Verbraucherinsolvenz**
+* **Regelinsolvenz**
+* **Restschuldbefreiung**
+* **&Uuml;berschuldung und Schuldenbereinigung**
+* **Berliner Gerichtszust&auml;ndigkeiten bei Verbraucherinsolvenz**
+
+![](/uploads/insolvency-593750-640.jpg)
+
 Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
 
 Um der erdr&uuml;ckenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des Schuldenbergs ein Ende zu setzen.
-
-![](/uploads/insolvency-593750-640.jpg)
 
 Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende m&uuml;ssen das Regelinsolvenzverfahren durchlaufen.
 
@@ -28,7 +36,27 @@ Sollte der au&szlig;ergerichtliche Schuldenbereinigungsversuch nicht zum Erfolg 
 
 ### Regelinsolvenz
 
-&nbsp;
+F&uuml;r selbst&auml;ndig t&auml;tige Personen oder solche deren Verm&ouml;gensverh&auml;ltnisse / Schulden nicht mehr &uuml;berschaubar sind, f&uuml;hrt der Weg in die Regelinsolvenz.
+
+Das Regelinsolvenzverfahren ist anders gegliedert und man ben&ouml;tigt hierzu andere Antragsformulare. Zudem ist das au&szlig;ergerichtliche Schuldenbereinigungsverfahren nicht vorgesehen. Der Antrag kann also schneller eingereicht werden.
+
+Zust&auml;ndig wird im Regelinsolvenzverfahren ein Insolvenzverwalter (nicht ein Treuh&auml;nder wie im Verbraucherinsolvenzverfahren). Zudem ist eine Gl&auml;ubigerversammlung beim zust&auml;ndigen Insolvenzgericht m&ouml;glich.
+
+### Restschuldbefreiung
+
+Ziel der Insolvenz bei nat&uuml;rlichen Personen, egal ob Verbraucher oder nicht, ist die Restschuldbefreiung. Diese wird in der Regel nach dem Ablauf von sechs Jahren erteilt. Eine Verk&uuml;rzung der Fristen auf f&uuml;nf Jahre bzw. drei Jahre ist m&ouml;glich, wenn z.B. die Verfahrenkosten durch den Schuldner bezahlt werden k&ouml;nnen bzw. ein Drittel der Schulden innerhalb von drei Jahren beglichen werden kann.
+
+Mit der Erteilung der Restschuldbefreiung ist der Schuldner seine Schulden dann los und kann von seinen Gl&auml;ubigern dort ggf. vorhandene Titel, die zur Zwangsvollstreckung verwendet werden k&ouml;nnen, herausverlangen.&nbsp; Zudem kann eine Erledigung von Eintragungen in der Schufa Holding AG oder bei anderen Auskunfteien verlangt werden.
+
+![](/uploads/insolvency-96596-640-1.jpg)
+
+### Unternehmensinsolvenz
+
+AdvoAdvice ber&auml;t auch bei der Frage, ob eine Unternehmensinsolvenz angezeigt ist. Hier gilt f&uuml;r verantwortliche Gesch&auml;ftsf&uuml;hrer oder Vorst&auml;nde vor allem zu beachten, dass eine Insolvenzverschleppung ausgeschlossen wird.
+
+Es muss hier innerhalb von drei Wochen, nachdem eine Zahlungsunf&auml;higkeit des Unternehmens oder dessen &Uuml;berschuldung bekannt ist, Insolvenzantrag gestellt werden.
+
+Hier ist somit zum einen Vorsicht und zum anderen Eile geboten, insbesondere um eine eigene Haftung des Gesch&auml;ftsf&uuml;hrers / Vorstandes sowie eine strafrechtliche Verfolgung durch die Justiz zu vermeiden.
 
 ### Zust&auml;ndige Insolvenzgerichte in Berlin (geordnet nach Bezirken):
 
