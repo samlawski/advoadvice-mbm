@@ -36,7 +36,7 @@ Da die damalige Verk&auml;ufer-Firma bereits Insolvent war und die Angeh&ouml;ri
 
 Dar&uuml;ber hinaus war klar, dass wohl kaum ein Erwerber Willens w&auml;re die erheblichen Wohngeldr&uuml;ckst&auml;nde der Familie K. zu &uuml;bernehmen.
 
-### Die Not w&auml;chst unaufhaltsam – Insolvenzverfahren macht Hoffnung zu Nichte
+### Insolvenzverfahren des Verk&auml;ufers - WEG wendet sich an den K&auml;ufer
 
 Sp&auml;ter wurden dann zus&auml;tzlich zu dem erlittenen Ungl&uuml;ck &uuml;ber das Verm&ouml;gen der Familie K. ein Insolvenzverfahren er&ouml;ffnet. Die Immobilie wurde letztendlich von einem sogenannten „Schn&auml;ppchenj&auml;ger“ erworben, der die Immobilie zu einem Bruchteil des Marktpreises erwerben konnte. Nunmehr versucht die Wohnungseigent&uuml;mergemeinschaft, gegen den Erwerber die Zwangsvollstreckung wegen der ausstehenden Hausgeld- bzw. Wohngeldr&uuml;ckst&auml;nde der Familie K. zu betreiben. Dem schub der Bundesgerichtshof (BGH) nunmehr einen Riegel vor, weil ausstehende Wohngelder nicht durch Zwangsvollstreckung in das Immobilienverm&ouml;gen getilgt werden k&ouml;nnen. Die Wohnungseigent&uuml;mergemeinschaft d&uuml;rfte also nicht in das Wohnungseigentum des Erwerbers vollstrecken.
 
