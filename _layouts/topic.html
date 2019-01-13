@@ -19,7 +19,9 @@ layout: default
             </div>
           {% endif %}
 
-          {{ content }}
+          <div class="topic__body">
+            {{ content }}
+          </div>
 
           {% if page.cta_link and page.cta_link_text %}
             <div class="topicCta__box text-center">
