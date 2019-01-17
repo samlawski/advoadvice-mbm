@@ -25,6 +25,8 @@ team_member: dr-sven-tintemann
 
 In Sachen Brest Tauros GmbH k&ouml;nnen sich Anleger aus Main, die durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin vertreten worden sind, &uuml;ber eine vergleichsweise Einigung freuen, welche nunmehr vor dem Landgericht Mainz erzielt worden ist.&nbsp; Hierin verpflichteten sich die beiden ehemaligen Gesch&auml;ftsf&uuml;hrer der Brest Tauros GmbH Jens St. und Stev K. zur einer Zahlung in H&ouml;he von 6.373,01 Euro.
 
+![](/uploads/money-1015277-640-1.jpg)
+
 ### Zu den Hintergr&uuml;nden in Sachen Brest Tauros
 
 Die Brest Tauros GmbH hatte Anlegern eine Investition auf der Grundlage von Darlehensvertr&auml;gen vom Typ Ronda II, angeblich mit grundpfandrechtlicher Besicherung angeboten.
