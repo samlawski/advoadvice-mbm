@@ -9,6 +9,14 @@ feature_bild_path:
 tags:
   - Anlegerschutz
   - AdvoAdvice
+  - ThomasLloyd
+  - Genussrecht
+  - Rückzahlung
+  - Zinsen
+  - Liquidität
+  - Forderung
+  - Anwaltskosten
+  - Global High Yield Fund 450
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
@@ -33,4 +41,10 @@ Nachdem die Kanzlei AdvoAdvice sich an die Anlagegesellschaft gewandt und die vo
 
 Zudem wurde angeboten, einen Gro&szlig;teil der angefallenen Anwaltskosten f&uuml;r die Beauftragung der Kanzlei AdvoAdvice zu &uuml;bernehmen.
 
-&nbsp;
+### Rechtstipp - Nicht einfach hinhalten lassen
+
+Anleger, die ebenfalls Genussrechte vom Typ ThomasLloyd Global High Yield Fund 450 gezeichnet haben und deren Anlage bereits Ende des Jahres 2016, aber auch Ende des Jahres 2017 oder 2018 f&auml;llig geworden ist, sollten sich daher mit einer R&uuml;ckzahlung nicht &uuml;berm&auml;&szlig;ig lang hinhalten lassen.
+
+Oft kann hier die Einschaltung eines Spezialisten im Bereich des Bank- und Kapitalmarktrechts schnell zu einer Auszahlung des eigenen Guthabens f&uuml;hren.
+
+Die Kanzlei AdvoAdvice hat in Sachen Thomas Lloyd Fonds bereits mehrere Anleger erfolgreich vertreten und steht auch Ihnen als Anleger mit Rat und Tat zu Seite. Rufen Sie gerne an und vereinbaren Sie unter 030 921 000 40 einen Telefontermin f&uuml;r Ihre kostenfrei Ersteinsch&auml;tzung zu Ihrem Vorgang. Gerne k&ouml;nnen Sie uns auch eine Email schicken. Nutzen Sie hierzu die Email-Adresse info@advoadvice.de.
