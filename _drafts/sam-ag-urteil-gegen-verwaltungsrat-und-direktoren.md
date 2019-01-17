@@ -8,6 +8,18 @@ tags:
   - Anlegerschutz
   - SAM AG
   - Urteil
+  - Haftstrafe
+  - Freiheitsstrafe
+  - Hintermänner
+  - Verwaltungsrat
+  - Direktor
+  - Delikt
+  - § 823 BGB
+  - § 263 StGB
+  - Landgericht München
+  - Revision
+  - Bundesgerichtshof
+  - BGH
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
