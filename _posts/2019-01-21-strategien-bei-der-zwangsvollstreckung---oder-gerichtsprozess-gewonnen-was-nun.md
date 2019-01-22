@@ -30,6 +30,8 @@ topics:
 team_member: kim-oliver-klevenhagen
 ---
 
+#### ![](/uploads/justice-2071539-640-1.jpg)
+
 #### &Uuml;ber die Vollstreckung von gerichtlich erstrittenen Titeln und Strategien zur Anspruchssicherung
 
 ### &nbsp;
