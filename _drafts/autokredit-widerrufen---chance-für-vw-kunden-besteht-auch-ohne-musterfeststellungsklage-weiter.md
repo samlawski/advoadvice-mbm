@@ -2,30 +2,18 @@
 title: >-
   Autokredit widerrufen - Chance für VW Kunden besteht auch ohne
   Musterfeststellungsklage weiter
-date: 2019-01-22 00:00:00
+date: 2019-01-28 00:00:00
 seo_beschreibung: >-
-  trategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
-  nun?
+  Chance auf Widerruf der Autofinanzierung besteht fort, auch wenn
+  Schadenersatzansprüche verjährt sind
 layout: post
 feature_bild_path:
 tags:
   - Anlegerschutz
   - AdvoAdvice
-  - Rückzahlung
-  - Zinsen
-  - Forderung
-  - Anwaltskosten
-  - Zwangsvollstreckung
-  - Titel
-  - Vollstreckungsbescheid
-  - Vollstreckung
-  - Durchsetzung
-  - Gerichtsvollzieher
-  - Kim Oliver Klevenhagen
-  - Mahnbescheid
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-  - sonstiges
-team_member: kim-oliver-klevenhagen
+team_member: dr-sven-tintemann
 ---
+
