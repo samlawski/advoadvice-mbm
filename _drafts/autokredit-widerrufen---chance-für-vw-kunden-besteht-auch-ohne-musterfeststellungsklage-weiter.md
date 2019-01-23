@@ -2,7 +2,7 @@
 title: >-
   Autokredit widerrufen - Chance für VW Kunden besteht auch ohne
   Musterfeststellungsklage weiter
-date: 2019-01-23 00:00:00
+date: 2019-01-25 00:00:00
 seo_beschreibung: >-
   Chance auf Widerruf der Autofinanzierung besteht fort, auch wenn
   Schadenersatzansprüche verjährt sind
