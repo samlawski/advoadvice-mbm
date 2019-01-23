@@ -1,29 +1,16 @@
 ---
 title: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler eingereicht'
-date: 2019-01-22 00:00:00
-seo_beschreibung: >-
-  trategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
-  nun?
+date: 2019-02-14 00:00:00
+seo_beschreibung: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler'
 layout: post
 feature_bild_path:
 tags:
-  - Anlegerschutz
-  - AdvoAdvice
-  - Rückzahlung
-  - Zinsen
-  - Forderung
-  - Anwaltskosten
-  - Zwangsvollstreckung
-  - Titel
-  - Vollstreckungsbescheid
-  - Vollstreckung
-  - Durchsetzung
-  - Gerichtsvollzieher
-  - Kim Oliver Klevenhagen
-  - Mahnbescheid
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-  - sonstiges
-team_member: kim-oliver-klevenhagen
+team_member: dr-sven-tintemann
 ---
+
+Az. 1285/18
+
+![](/uploads/silver-coin-702551-640.jpg)
