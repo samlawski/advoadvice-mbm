@@ -1,27 +1,21 @@
 ---
 title: Abmahnung bei unzureichendem Datenschutzhinweis
-date: 2019-01-25 00:00:00
-seo_beschreibung: >-
-  Chance auf Widerruf der Autofinanzierung besteht fort, auch wenn
-  Schadenersatzansprüche verjährt sind
+date: 2019-01-31 00:00:00
+seo_beschreibung: Gefahr einer Abmahnung bei unzureichendem  Datenschutzhinweis
 layout: post
 feature_bild_path:
 tags:
-  - Anlegerschutz
+  - Datenschutz
+  - DSVGO
+  - Datenschutzhinweis
+  - Abmahnung
+  - Unterlassung
   - AdvoAdvice
-  - Widerruf
-  - Darlehen
-  - Musterfeststellungsklage
-  - Volkswagen
-  - VW
-  - Mercedes Benz
-  - Rechtsschutzversicherung
-  - Finanzierung
-  - Kredit
-  - Rückabwicklung
 topics:
-  - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - widerruf-verbraucherdarlehen
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
+
+Az. 1025/19
+
+![](/uploads/security-2168234-640.jpg)
