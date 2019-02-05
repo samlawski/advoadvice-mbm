@@ -1,17 +1,26 @@
 ---
 title: 'Germania Insolvenz: Was Kunden jetzt wissen müssen'
-date:
-seo_beschreibung:
+date: 2019-02-05 00:00:00
+seo_beschreibung: Germania Insolvenz - Was Kunden wissen müssen
 layout: post
 feature_bild_path:
-tags: []
-topics: []
+tags:
+  - Insolvenz
+  - Germania
+  - Flugticket
+  - Flug
+  - Schadensersatz
+  - Insolvenztabelle
+  - Amtsgericht Charlottenburg
+  - Pleite
+topics:
+  - insolvenzrecht
 team_member: dr-sven-tintemann
 ---
 
 Die Berliner Fluggesellschaft Germania hat Insolvenz beim Amtsgericht Berlin Charlottenburg beantragt. Der Flugbetrieb wurde bereits in der Nacht zu Dienstag eingestellt. Ab dem 05.02.2019 heben keine weiteren Flieger der Fluglinie ab.
 
-![](/uploads/aircraft-2160456-1280.jpg)
+![Germania Flugzeug - Foto Pixabay](/uploads/aircraft-2160456-1280.jpg "Germania Insolvenz - Flugzeuge bleiben am Boden")
 
 Nach den Pleiten von Air Berlin und der kleineren Small Planet Airlines hat es nun die n&auml;chste Berliner Fluggesellschaft finanziell nicht geschafft. Von der Insolvenz betroffen sind die Germania Fluggesellschaft mbH und ihr Schwesterunternehmen f&uuml;r technische Dienstleistungen, die Germania Technik Brandenburg GmbH und die Germania Flugdienste GmbH. Nicht betroffen sind nach Pressberichten die Schweizer Germania Flug AG und die Bulgarian Eagle.
 
