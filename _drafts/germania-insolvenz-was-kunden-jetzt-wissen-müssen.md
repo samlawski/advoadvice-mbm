@@ -24,6 +24,8 @@ Die Berliner Fluggesellschaft Germania hat Insolvenz beim Amtsgericht Berlin Cha
 
 Nach den Pleiten von Air Berlin und der kleineren Small Planet Airlines hat es nun die n&auml;chste Berliner Fluggesellschaft finanziell nicht geschafft. Von der Insolvenz betroffen sind die Germania Fluggesellschaft mbH und ihr Schwesterunternehmen f&uuml;r technische Dienstleistungen, die Germania Technik Brandenburg GmbH und die Germania Flugdienste GmbH. Nicht betroffen sind nach Pressberichten die Schweizer Germania Flug AG und die Bulgarian Eagle.
 
+Mitarbeiter der Germania und Flugg&auml;ste sind gleicherma&szlig;en betroffen. ([--&gt; zum externen Blog](https://www.instagram.com/p/BtfuB7mD1UQ/))
+
 ### Pauschalreise
 
 Kunden, die eine Pauschalreise gebucht haben, sollen sich laut Mitteilung der Germania direkt an den eigentlichen Reiseveranstalter wenden, um Informationen zu einer Ersatzbef&ouml;rderung zu erhalten.
