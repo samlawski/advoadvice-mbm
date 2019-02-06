@@ -24,7 +24,7 @@ Die Berliner Fluggesellschaft Germania hat Insolvenz beim Amtsgericht Berlin Cha
 
 Nach den Pleiten von Air Berlin und der kleineren Small Planet Airlines hat es nun die n&auml;chste Berliner Fluggesellschaft finanziell nicht geschafft. Von der Insolvenz betroffen sind die Germania Fluggesellschaft mbH und ihr Schwesterunternehmen f&uuml;r technische Dienstleistungen, die Germania Technik Brandenburg GmbH und die Germania Flugdienste GmbH. Nicht betroffen sind nach Pressberichten die Schweizer Germania Flug AG und die Bulgarian Eagle.
 
-Mitarbeiter der Germania und Flugg&auml;ste sind gleicherma&szlig;en betroffen. ([--&gt; zum externen Blog](https://www.instagram.com/p/BtfuB7mD1UQ/))
+Mitarbeiter der Germania und Flugg&auml;ste sind gleicherma&szlig;en betroffen. ([–&gt; zum externen Blog](https://www.instagram.com/p/BtfuB7mD1UQ/))
 
 ### Pauschalreise
 
@@ -34,11 +34,25 @@ Kunden, die eine Pauschalreise gebucht haben, sollen sich laut Mitteilung der Ge
 
 Kunden, die direkt bei der Germania Flugtickes erworben haben, haben keinen Anspruch auf eine Ersatzbef&ouml;rderung. Sie m&uuml;ssen sich selbst um neue Tickets bei einer anderen Gesellschaft k&uuml;mmern und k&ouml;nnen zus&auml;tzlich entstehende Kosten sowie die Kosten, die nutzlos f&uuml;r die Tickets des Gesellschaft aufgewendet wurden, nur noch im Insolvenzverfahren zur Tabelle anmelden.
 
+### So k&ouml;nnen Sie Ihr Geld doch noch retten
+
+**Lastschrift zur&uuml;ckbuchen**
+
+Haben Sie Ihre Flugtickets per Lastschrifteinzug bezahlt? Dann lassen Sie die Lastschrift von Ihrer Bank zur&uuml;ckbuchen. Hierzu haben Sie in der Regel acht Wochen Zeit. Der zur&uuml;ckgereichte Betrag wird Ihrem Konto dann wieder gutgeschrieben. Sollte sich der Insolvenzverwalter hier melden, k&ouml;nnen Sie Nichterf&uuml;llung des Vertrages und Schadensersatz einwenden.
+
+**Zahlung per Kreditkarte**
+
+Wenn Sie Ihre Buchung mit einer Kreditkarte bezahlt haben, widersprechen Sie der Buchung. Dies k&ouml;nnen Sie ebenfalls sechs bis acht Wochen nach der Buchung tun.
+
+**K&auml;uferschutz von Paypal oder Paydirekt**
+
+Haben Sie Ihren Flug &uuml;ber Paypal oder Paydirekt bezahlt, dann nutzen Sie dort den K&auml;uferschutz und verlangen Sie ihr Geld zur&uuml;ck. Sie haben schlie&szlig;lich auch die Gegenleistung nicht erhalten.
+
 ### Anmeldung der Forderungen zur Tabelle
 
 Eine Forderungsanmeldung beim Insolvenzverwalter wird erst m&ouml;glich sein, wenn das Amtsgericht Berlin-Charlottenburg das Insolvenzverfahren er&ouml;ffnet und einen Insolvenzverwalter mit der Angelegenheit beauftragt hat.
 
-Der Insolvenzverwalter wird wahrscheinlich ein Portal f&uuml;r die Kunden und Forderungsinhaber zur Verf&uuml;gung stellen, damit diese die Forderungen dort anmelden k&ouml;nnen.
+Der Insolvenzverwalter wird wahrscheinlich ein Portal f&uuml;r die Kunden und Forderungsinhaber zur Verf&uuml;gung stellen, damit diese die Forderungen dort anmelden k&ouml;nnen. Hier k&ouml;nnen Sie dann, wenn Sie Ihr Geld nicht zur&uuml;ckholen konnten, den Kaufpreis und auch einen Schaden, der f&uuml;r den Kauf anderer Flugtickets entstanden ist, zur Insolvenztabelle anmelden.
 
 Sollten Sie als betroffener Kunde Hilfe bei der Anmeldung Ihrer Anspr&uuml;che zur Insolvenztabelle ben&ouml;tigen, k&ouml;nnen Sie sich gerne an die Kanzlei AdvoAdvice unter info@advoadvice.de oder 030 921 000 40 wenden.
 
