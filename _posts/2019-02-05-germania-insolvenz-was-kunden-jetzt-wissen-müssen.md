@@ -42,7 +42,7 @@ Haben Sie Ihre Flugtickets per Lastschrifteinzug bezahlt? Dann lassen Sie die La
 
 **Zahlung per Kreditkarte**
 
-Wenn Sie Ihre Buchung mit einer Kreditkarte bezahlt haben, widersprechen Sie der Buchung. Dies k&ouml;nnen Sie ebenfalls sechs bis acht Wochen nach der Buchung tun.
+Wenn Sie Ihre Buchung mit einer Kreditkarte bezahlt haben, widersprechen Sie der Buchung. Das funktioniert &uuml;ber die Umsatzreklamation beim Kreditkartenunternehmen. Dieser Trick kann funktionieren, wenn Ihre Zahlung noch nicht von der Bank an die insolvente Fluggesellschaft weitergeleitet worden ist. Man sollte sich daher mit der Reklamation nicht allzu viel Zeit lassen.
 
 **K&auml;uferschutz von Paypal oder Paydirekt**
 
