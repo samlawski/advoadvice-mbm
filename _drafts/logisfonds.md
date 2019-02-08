@@ -26,9 +26,15 @@ Die Logisfonds I GmbH aus Hamburg bot Anlegern an, sich an ihrem Gesch&auml;ftsm
 
 Anleger, die eine Beteiligung vom Typ Sprint abgeschlossen haben, erhalten noch ein positives Auseinandersetzungsguthaben am Laufzeitende nach Beendigung der Beteiligung zum 31.01.2017 berechnet. Dieses sollte aber nicht voll zur Auszahlung gelangen. Die Gesellschaft bot &uuml;ber Ihre Rechtsanw&auml;lte aus Hamburg zun&auml;chst lediglich eine Zahlung in H&ouml;he von 65%, also einen Abschlag von 35%, und zuletzt eine Zahlung von 80%, also einen Abschlag von 20% an.
 
+### Klage vor dem Amtsgericht Hamburg erfolgreich
+
 Auf dieses Angebot wollte ein Berliner Anleger nicht eingehen und reichte &uuml;ber die Kanzlei AdvoAdvice aus Berlin am 30.10.2018 eine Klage bei dem zust&auml;ndigen Amtsgericht Hamburg auf Zahlung von 4.956,51 Euro zzgl. Zinsen ab de 31.10.2018 ein.
 
+![Geld zurück - Foto Pixabay](/uploads/money-3115984-640-1.jpg "Logisfonds zahlt nach Klage an Anleger")
+
 Nach Zustellung der Klage zeigte die Logisfonds I GmbH (vormals firmierend als Garbe Logimac AG) noch ihre Verteidigungsbereitschaft an. Eine inhaltliche Stellungsnahme zu der Klage erfolgte nach einem weiteren Fristverl&auml;ngerungsantrag, der wohl den Feiertagen &uuml;ber Weihnachten geschuldet war, jedoch nicht. Vielmehr wurde die Klageforderung anerkannt und ist mittlerweile auf der Konto der Kanzlei AdvoAdvice &uuml;berweisen worden.
+
+### Nicht mit Vergleichsangebot abspeisen lassen
 
 Anleger sollten sich also nicht von der Logisfonds I GmbH mit einem Vergleichsangebot &uuml;ber das noch offene und bereits seit dem 01.02.2018 zur R&uuml;ckzahlung f&auml;llige Auseinandersetzungsguthaben abspeisen lassen, sondern anwaltliche Hilfe zur Durchsetzung ihrer kompletten Forderung in Anspruch nehmen.
 
