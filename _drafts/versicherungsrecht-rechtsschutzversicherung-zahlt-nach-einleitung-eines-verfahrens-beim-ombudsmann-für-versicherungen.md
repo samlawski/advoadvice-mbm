@@ -28,3 +28,4 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
+![](/uploads/person-3062271-640-2.jpg)
