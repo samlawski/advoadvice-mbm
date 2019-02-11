@@ -27,4 +27,6 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
+BGH - VI ZR 17/10
+
 ![](/uploads/no-money-2070384-640-5.jpg)
