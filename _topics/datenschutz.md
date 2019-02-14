@@ -78,21 +78,25 @@ Letztlich entscheidet die SCHUFA selbst nicht &uuml;ber die Gew&auml;hrung von K
 
 ### **[2) Wann bekommt man einen Schufa Eintrag](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=wann+bekommt+man+einen+schufa+eintrag&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIcCgB)****?**
 
-Ob und wann man einen negativen Schufa Eintrag bekommt h&auml;ngt von verschiedenen Faktoren ab. Die Rechtsgrundlage f&uuml;r einen solchen Eintrag findet sich im Bundesdatenschutzgesetz (kurz: BDSG). Dort ist in &sect; 28a Absatz 1 Satz 1 BDSG geregelt, wann ein solcher Eintrag erfolgen darf.
+Ob und wann man einen negativen Schufa Eintrag bekommt h&auml;ngt von verschiedenen Faktoren ab. Die Rechtsgrundlage f&uuml;r einen solchen Eintrag findet sich in der Datenschutzgrundverordnung (kurz: DSGVO). Dort ist in Art. 6 Abs. 1 DSGVO geregelt, wann ein solcher Eintrag erfolgen darf. Zumeist muss daf&uuml;r eine sog. Interessenabw&auml;gung durchgef&uuml;hrt werden (Art. 6 Abs. 1 lit. f) DSGVO). Das hei&szlig;t, dass Ihre Interessen (z.B. Geschichte vor dem Eintrag, R&uuml;ckzahlungsmodalit&auml;ten, Interesse an Geheimhaltung, etc.) mit den Interessen der Kreditwirtschaft abgewogen werden.
 
 Voraussetzung ist in jedem Fall, dass es zu einer Vertragsst&ouml;rung gekommen sein muss. Das bedeutet im Normalfall, dass eine offene Forderung trotz F&auml;lligkeit nicht bezahlt wurde.
 
-Bevor man einen negativen Schufa Eintrag bekommt, m&uuml;ssen aber weitere Voraussetzungen erf&uuml;llt werden. Dies ist im Bundesdatenschutzgesetz und k&uuml;nftig auch in der Datenschutzgrundverordnung (dann europaweit) geregelt.
+Bevor man einen negativen Schufa Eintrag bekommt, m&uuml;ssen aber weitere Voraussetzungen erf&uuml;llt werden. Bis zur Einf&uuml;hrung der DSGVO im Jahr 2018, bestand in &sect; 28a Absatz 1 Bundesdatenschutzgesetz (kurz: BDSG a.F.) ein fester Katalog an Voraussetzungen, wann eine Daten&uuml;bermittlung erfolgen darf. Obgleich die Voraussetzungen f&uuml;r die Daten&uuml;bermittlung in der neuen Norm im BDSG (&sect; 31 Abs. 2 BDSG) nicht mehr explizit geregelt werden, orientiert sich die Praxis bislang auch weiterhin an dem alten „F&uuml;nferkatalog“.
 
-Nach dem Bundesdatenschutzgesetz geltend folgende Voraussetzungen, von denen nur <u>eine Voraussetzung</u> vorliegen muss. In einfachen Worten reichen folgende Merkmale aus:
+Nach dem „F&uuml;nferkatalog“ des Bundesdatenschutzgesetzes galten folgende Voraussetzungen, von denen nur eine Voraussetzung vorliegen muss. In einfachen Worten reichen folgende Merkmale aus:
 
-* Es muss ein rechtskr&auml;ftiger Titel, wie z.B. ein Vollstreckungsbescheid oder ein Gerichtsurteil vorliegen. (&sect; 28 a Abs. 1 Nr. 1 BDSG)
-* Die Forderung ist Bestandteil eines Insolvenzverfahrens und dort zur Tabelle eingetragen worden. (&sect; 28 a Abs. 1 Nr. 2 BDSG)
-* Der Betroffene hat die Forderung <u>ausdr&uuml;cklich</u> anerkannt. (&sect; 28 a Abs. 1 Nr. 3 BDSG)
-* Wegen der Zahlungsausf&auml;lle wurde der Betroffene mindestens zwei Mal gemahnt, wobei er auf die bevorstehende Daten&uuml;bermittlung hingewiesen wurde und der Forderung nicht widersprochen hat. (&sect; 28 a Abs. 1 Nr. 4 BDSG)
-* Das Vertragsverh&auml;ltnis kann fristlos gek&uuml;ndigt werden und der Betroffene wurde auf den m&ouml;glichen Eintrag hingewiesen. (&sect; 28 a Abs. 1 Nr. 5 BDSG)
+Es muss ein rechtskr&auml;ftiger Titel, wie z.B. ein Vollstreckungsbescheid oder ein Gerichtsurteil vorliegen. (&sect; 28 a Abs. 1 Nr. 1 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 1 BDSG)
 
-Es kommt jedoch immer wieder vor, dass Unternehmen diese Voraussetzungen nicht beachten, bevor sie eine Forderung an die SCHUFA melden. In jeder einzelnen Vorschrift gibt es bestimmte Voraussetzungen, die beachtet werden m&uuml;ssen, bevor ein negativer Schufa Eintrag vorgenommen werden darf.
+Die Forderung ist Bestandteil eines Insolvenzverfahrens und dort zur Tabelle eingetragen worden. (&sect; 28 a Abs. 1 Nr. 2 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 2 BDSG)
+
+Der Betroffene hat die Forderung ausdr&uuml;cklich anerkannt. (&sect; 28 a Abs. 1 Nr. 3 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 3 BDSG)
+
+Wegen der Zahlungsausf&auml;lle wurde der Betroffene mindestens zwei Mal gemahnt, wobei er auf die bevorstehende Daten&uuml;bermittlung hingewiesen wurde und der Forderung nicht widersprochen hat. (&sect; 28 a Abs. 1 Nr. 4 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 4 BDSG)
+
+Das Vertragsverh&auml;ltnis kann fristlos gek&uuml;ndigt werden und der Betroffene wurde auf den m&ouml;glichen Eintrag hingewiesen. (&sect; 28 a Abs. 1 Nr. 5 BDSG / jetzt &sect; 31 Abs. 2 Nr. 5 BDSG)
+
+Es kommt jedoch immer wieder vor, dass Unternehmen diese Voraussetzungen nicht beachten, bevor sie eine Forderung an die SCHUFA melden. Unter der DSGVO gibt es nunmehr auch Raum f&uuml;r die Einmeldung besonderer Einzelf&auml;lle. Gleichzeitig f&uuml;hrt das Erf&uuml;llen des „F&uuml;nferkatalogs“ nicht automatisch zu einer berechtigten Einmeldung.
 
 ### **3) Wie verhindert man einen Schufa Eintrag?**
 
@@ -106,29 +110,29 @@ In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung abzuschlie&szlig
 
 <font> </font>
 
-Nach den gesetzlichen Grundlagen (&sect; 34 BDSG) hat jeder das Recht, einmal pro Jahr eine <u>kostenlose</u> Auskunft bez&uuml;glich seiner bei der Schufa Holding AG gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der Seite der Schufa Holding AG [hier](https://www.meineschufa.de/download.php?file=SCHUFA_Infoblatt-DU-Antrag-deutsch.pdf&amp;token=50683).
+Nach den gesetzlichen Grundlagen (Art. 15 DSGVO) hat jeder das Recht, eine kostenlose Auskunft bez&uuml;glich seiner bei der Schufa Holding AG gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der Seite der Schufa Holding AG&nbsp;[hier](https://www.meineschufa.de/site-11_3_1?dako_token=7529d9814b8310c32cf7ac3a011e8523).
 
 ![Datenübersicht Schufa - Foto Pixabay](/uploads/data-858360-640-5.jpg "Datenübersicht nach § 34 BDSG bestellen")
 
-Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa Holding AG, mit welchen man seine Daten jederzeit Online einsehen kann. Auch in ausgesuchten [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man eine Schufa-Auskunft gegen eine Geb&uuml;hr von 29,95 Euro (Stand 06.07.2017) erhalten.
+Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa Holding AG, mit welchen man seine Daten jederzeit online einsehen kann. Auch in ausgesuchten [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man eine Schufa-Auskunft gegen eine Geb&uuml;hr von 29,95 Euro (Stand 14.02.2019) erhalten.
 
-* Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt Daten&uuml;bersicht nach &sect; 34 BDSG - bei der Schufa Holding AG beantragt. Dies sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen negativen Eintrag hat und um ggf. dokumentieren zu k&ouml;nnen, dass dieser Zustand vorhanden war.
+* Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt Datenkopie gem. Art. 15 DSGVO - bei der Schufa Holding AG beantragt. Dies sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen negativen Eintrag hat und um ggf. dokumentieren zu k&ouml;nnen, dass dieser Zustand vorhanden war.
 
 * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen eine Geb&uuml;hr f&uuml;r Sie zu organisieren. Es ist davon abzuraten, an andere Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale Geld f&uuml;r eine Selbstauskunft Geld zu investieren. Externe Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die f&uuml;r Sie sonst bei direkter Abfrage bei der Schufa Holding AG g&uuml;nstiger oder sogar kostenfrei erfolgt.
 
 ### **5) Wie lange besteht ein Schufa Eintrag?**
 
-Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt, erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine L&ouml;schung des Schufa Eintrages erfolgt erst nach Ablauf von 3 Jahren nach Zahlung zum Jahresende. Dies geschieht automatisch ohne Zutun des Kunden aufgrund der Vorschrift des &sect; 35 Abs. 2 Nr. 4 BDSG.
+Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt, erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine L&ouml;schung des Schufa Eintrages erfolgt in der Regel taggenau nach Ablauf von 3 Jahren nach Zahlung. Dies geschieht automatisch ohne Zutun des Kunden. Detaillierte L&ouml;schungsfristen wurden f&uuml;r alle Wirtschaftsauskunfteien in Deutschland anhand eines [freiwilligen Verhaltenskodex](http://www.handelsauskunfteien.de/index.php?id=47&amp;no_cache=1) vereinbart, welcher die Vorschrift des Art. 17 Abs. 1 DSGVO konkretisiert. Dieses Vorgehen ist vom europ&auml;ischen Gesetzgeber explizit gewollt (vgl. Art. 40 DSGVO).
 
-Im konkreten Beispiel k&ouml;nnte das so aussehen: Herr A. hat einen Kredit bei der B-Bank nicht zur&uuml;ckbezahlt. Deshalb hat die B-Bank im Mai 2016 einen Vollstreckungsbescheid &uuml;ber 4.937,00 Euro gegen den Herrn A beantragt und zu dieser Forderung einen negativen Schufa Eintrag veranlasst. Als Herr A im Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung &uuml;ber 4.937,00 Euro im Januar 2017 vollst&auml;ndig zur&uuml;ck. Daraufhin wird die B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen Speicherfristen bleibt der Schufa Eintrag aber bis zum 31.12.2020 bestehen. Solange wird er auch bei der Berechnung des Scorewertes ber&uuml;cksichtigt und wirkt sich somit auch auf die wirtschaftliche Handlungsf&auml;higkeit aus.
+Im konkreten Beispiel k&ouml;nnte das so aussehen: Herr A. hat einen Kredit bei der B-Bank nicht zur&uuml;ckbezahlt. Deshalb hat die B-Bank im Mai 2016 einen Vollstreckungsbescheid &uuml;ber 4.937,00 Euro gegen den Herrn A beantragt und zu dieser Forderung einen negativen Schufa Eintrag veranlasst. Als Herr A im Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung &uuml;ber 4.937,00 Euro im Januar 2017 vollst&auml;ndig zur&uuml;ck. Daraufhin wird die B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen Speicherfristen bleibt der Schufa Eintrag aber bis Januar 2020 bestehen. Solange wird er auch bei der Berechnung des Scorewertes ber&uuml;cksichtigt und wirkt sich somit auch auf die wirtschaftliche Handlungsf&auml;higkeit aus.
 
 ### **6) Schufa Eintrag l&ouml;schen lassen?**
 
-Nach alledem stellt sich f&uuml;r viele Betroffene die Frage, ob man einen negativen Schufa Eintrag vorzeitig l&ouml;schen lassen kann. Dabei gilt es eine juristische Spitzfindigkeit zu ber&uuml;cksichtigen: Die einzelnen Unternehmen k&ouml;nnen den negativen Schufa Eintrag nicht selbst l&ouml;schen. Diese k&ouml;nnen den negativen Schufa Eintrag nur widerrufen, also die SCHUFA zur L&ouml;schung auffordern. Die SCHUFA selbst geht davon aus, dass sie nicht verpflichtet ist, die Daten im Anschluss an einen Widerruf zu l&ouml;schen. Vielmehr kann die Speicherung bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis &uuml;ber den Hintergrund des negativen Schufa Eintrages erlangt hat und davon ausgeht, dass kein Grund zum Widerruf besteht. Ob und inwiefern die SCHUFA eine [eigene Pr&uuml;fungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf) (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite 4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine direkte Antwortung im Bundesdatenschutzgesetz findet und zu der es deshalb durchaus unterschiedliche rechtliche Ansichten gibt.
+Nach alledem stellt sich f&uuml;r viele Betroffene die Frage, ob man einen negativen Schufa Eintrag vorzeitig l&ouml;schen lassen kann. Dabei gilt es eine juristische Spitzfindigkeit zu ber&uuml;cksichtigen: Die einzelnen Unternehmen k&ouml;nnen den negativen Schufa Eintrag nicht selbst l&ouml;schen. Diese k&ouml;nnen den negativen Schufa Eintrag nur widerrufen, also die SCHUFA zur L&ouml;schung auffordern. Die SCHUFA selbst geht davon aus, dass sie nicht verpflichtet ist, die Daten im Anschluss an einen Widerruf zu l&ouml;schen. Vielmehr kann die Speicherung bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis &uuml;ber den Hintergrund des negativen Schufa Eintrages erlangt hat und davon ausgeht, dass kein Grund zum Widerruf besteht. Ob und inwiefern die SCHUFA eine [eigene Pr&uuml;fungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf) (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite 4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine direkte Antwortung im Bundesdatenschutzgesetz oder in der Datenschutzgrundverordnung findet und zu der es deshalb durchaus unterschiedliche rechtliche Ansichten gibt.
 
 **a) Schufa Eintrag: L&ouml;schen durch die SCHUFA selbst**
 
-Aufgrund der soeben beschriebenen Frage der Pr&uuml;fungskompetenz, kommt es aber auch immer wieder zu dem gegenteiligen Ergebnis durch die SCHUFA. Es sind zahlreiche F&auml;lle bekannt, in denen negative Schufa Eintr&auml;ge von der SCHUFA selbst gel&ouml;scht wurden. Dies passiert in der Regel dann, wenn die einmeldende Stelle die Einmeldevoraussetzungen nach &sect; 28 a BDSG nicht nachweisen kann. Erfahrungsgem&auml;&szlig; betrifft dies aber nur eine geringe Anzahl von F&auml;llen.
+Aufgrund der soeben beschriebenen Frage der Pr&uuml;fungskompetenz, kommt es aber auch immer wieder zu dem gegenteiligen Ergebnis durch die SCHUFA. Es sind zahlreiche F&auml;lle bekannt, in denen negative Schufa Eintr&auml;ge von der SCHUFA selbst gel&ouml;scht wurden. Dies passiert in der Regel dann, wenn die einmeldende Stelle die Einmeldevoraussetzungen nach Art. 6 Abs. 1 DSGVO (&sect; 28a Abs. 1 BDSG a.F. / &sect; 31 Abs. 2 BDSG) nicht nachweisen kann. Erfahrungsgem&auml;&szlig; betrifft dies aber nur eine geringe Anzahl von F&auml;llen.
 
 <u>Tipp:</u>
 
@@ -148,25 +152,9 @@ Zudem fehlt es Anbietern von Musterbriefen meist an der notwendigen Erlaubnis zu
 
 **[c) Schufa Eintrag: L](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)****&ouml;schen nach Erledigung**
 
-Wie zuvor bereits erw&auml;hnt, muss ein negativer Schufa Eintrag nicht unmittelbar nach der Erledigung gel&ouml;scht werden. Die Grundregel ist, dass der negative Schufa Eintrag noch bis zum Ablauf des 3. Jahres nach der Erledigung bestehen bleibt (z.B. Erledigung im M&auml;rz 2017 – Automatische L&ouml;schung zum 31.12.2020).
+Wie zuvor bereits erw&auml;hnt, muss ein negativer Schufa Eintrag nicht unmittelbar nach der Erledigung gel&ouml;scht werden. Die Grundregel ist, dass der negative Schufa Eintrag noch weitere drei Jahre nach der Erledigung bestehen bleibt (z.B. Erledigung im M&auml;rz 2017 – Automatische L&ouml;schung zum M&auml;rz 2020).
 
-Die SCHUFA hat jedoch interne Richtlinien, wonach sie sich verbindlich dazu bereit erkl&auml;rt, Forderungen unmittelbar nach der Erledigung zur L&ouml;schung zu bringen.
-
-*„Folgende Voraussetzungen m&uuml;ssen vollst&auml;ndig erf&uuml;llt sein, damit solche Forderungen vorzeitig aus dem SCHUFA-Datenbestand gel&ouml;scht werden:*
-
-*1. die Forderung wurde der SCHUFA erstmals nach dem 01.07.2012 mitgeteilt,*
-
-*2. der Betrag der entsprechenden Forderung ist kleiner oder gleich 2.000 €,*
-
-*3. die Forderung wurde innerhalb von 6 Wochen beglichen sowie vom Gl&auml;ubiger der SCHUFA als beglichen mitgeteilt,*
-
-*4. es darf sich nicht um eine titulierte Forderung, wie etwa einen Vollstreckungsbescheid, handeln.*
-
-*Trifft eines dieser Kriterien nicht zu, bleibt die Forderung wie bisher als „Erledigt“ bis zum Ende der regul&auml;ren Speicherfrist im SCHUFA-Datenbestand gespeichert.“*
-
-*(\*\*Quelle:*[https://www.meineschufa.de/aktion/faq-daten](https://www.meineschufa.de/aktion/faq-daten)\* -\*[K&ouml;nnen Forderungen vorzeitig aus dem SCHUFA-Datenbestand gel&ouml;scht werden?](https://www.meineschufa.de/aktion/faq-daten#collapse_170710_12)– Letzter Abruf: 11.07.2017, 10:52 Uhr).
-
-Es ist also unter diesen engen Voraussetzungen doch m&ouml;glich, das eine Forderung vorzeitig gel&ouml;scht wird.
+Die SCHUFA hatte bist zur Einf&uuml;hrung der DSGVO eine interne Richtlinien, wonach sie sich verbindlich dazu bereit erkl&auml;rte, Forderungen unmittelbar nach der Erledigung zur L&ouml;schung zu bringen, wenn bestimmte Voraussetzungen erf&uuml;llt sind. Diese interne Richtlinie existiert in dieser Form seit dem 25.05.2018 nicht mehr. Vielmehr kann jetzt nur eine Pr&uuml;fung im Einzelfall zu einer vorzeitigen L&ouml;schung f&uuml;hren.
 
 <u>Tipp:</u>
 
@@ -192,22 +180,18 @@ Kernpunkt der Problematik ist, dass h&auml;ufig jede Information eine Einzelbewe
 
 ### **7) Konkrete Rechtsgrundlagen**
 
-Bis zum 01.04.2010 war die &Uuml;bermittlung von sogenannten Negativmerkmalen anhand von &sect; 28 Abs.1 Nr.2 BDSG zu beurteilen. Zus&auml;tzlich bestand auch die Verpflichtung f&uuml;r die Kreditwirtschaft, eine Schufa-Einverst&auml;ndnisklausel einzuholen. Die &Uuml;bermittlung von personenbezogenen Daten war jedoch nur dann zul&auml;ssig, soweit dies zur Wahrung berechtigter Interessen der speichernden Stelle erforderlich war und sich im Rahmen einer Interessenabw&auml;gung herausstellte, dass keine schutzw&uuml;rdigen Interessen des Betroffenen &uuml;berwiegen.
+Bis zum 25.05.2018 war die &Uuml;bermittlung von sogenannten Negativmerkmalen anhand von &sect; 28a Abs. 1 Nr. 1-5 BDSG a.F. zu beurteilen.
 
-Zum 01.04.2010 ist mittlerweile die Novelle zum BDSG in Kraft getreten.
-
-In &sect; 28 a Abs. 1 BDSG ist nunmehr klar geregelt, dass die &Uuml;bermittlung personenbezogener Daten an Auskunfteien (wie z.B. die SCHUFA, Creditreform, B&uuml;rgel oder andere) &uuml;ber eine Forderung nur zul&auml;ssig ist, wenn die geschuldete Leistung trotz F&auml;lligkeit nicht erbracht worden ist, die &Uuml;bermittlung zur Wahrung berechtigter Interessen der verantwortlichen Stelle oder eines Dritten erforderlich ist und der Betroffene nach Eintritt der F&auml;lligkeit die Forderung mindestens zweimal schriftlich gemahnt worden ist.
+Dabei war klar geregelt, dass die &Uuml;bermittlung personenbezogener Daten an Auskunfteien (wie z.B. die SCHUFA, Creditreform, B&uuml;rgel oder andere) &uuml;ber eine Forderung nur zul&auml;ssig ist, wenn die geschuldete Leistung trotz F&auml;lligkeit nicht erbracht worden ist, die &Uuml;bermittlung zur Wahrung berechtigter Interessen der verantwortlichen Stelle oder eines Dritten erforderlich ist und der Betroffene nach Eintritt der F&auml;lligkeit die Forderung mindestens zweimal schriftlich gemahnt worden ist.
 
 Ist die Forderung nicht f&auml;llig (z.B. weil sich der Schuldner noch nicht im Zahlungsverzug befindet oder eine Ratenzahlung oder Stundung vereinbart hat), liegt kein rechtm&auml;&szlig;iger Schufa-Eintrag vor.
 
-Grunds&auml;tzlich ist hier die einmeldende Stelle f&uuml;r das Vorliegen der Voraussetzungen nach &sect; 28 a Abs. 1 BDSG beweisbelastet. Es gilt n&auml;mlich die gesetzliche Vermutung, dass grunds&auml;tzlich jede Datenverarbeitung rechtswidrig ist, wen kein entsprechender Rechtfertigungsgrund vorliegt.
+Seit dem 25.05.2018 gilt die Datenschutzgrundverordnung. Diese sieht lediglich sehr allgemeine Rechtsgrundlagen f&uuml;r die Datenverarbeitung vor. Bei negativen SCHUFA-Eintr&auml;gen ergibt sich die Rechtfertigung nur aus der Interessenabw&auml;gung des Art. 6 Abs. 1 lit. f) DSGVO. Als grundlegende Orientierung kann die Norm des &sect; 31 Abs. 2 BDSG (&sect; 28a Abs. 1 BDSG a.F.) helfen, obgleich die Voraussetzung f&uuml;r eine Daten&uuml;bermittlung nicht mehr explizit festgelegt wird.
 
-Durch die neue Vorschrift des &sect; 28 a Abs. 1 BDSG wurde die bisher richterrechtlich gepr&auml;gte Bewertung von Negativmeldungen denen sogenannte „harte“ bzw. „weiche“ Negativmerkmale zugrunde liegen, nunmehr gesetzlich regelt.
+Grunds&auml;tzlich ist hier die einmeldende Stelle f&uuml;r das Vorliegen der Voraussetzungen nach Art. 6 Abs. 1 DSGVO beweisbelastet. Es gilt n&auml;mlich die gesetzliche Vermutung, dass grunds&auml;tzlich jede Datenverarbeitung rechtswidrig ist, wen kein entsprechender Rechtfertigungsgrund vorliegt.
 
-Die Nr. 1 – 3 des &sect; 28 a Abs. 1 BDSG regeln nunmehr die sog. „harten“ Negativmerkmale, bei denen die Eintragung unter erleichterten Bedingungen m&ouml;glich ist. &sect; 28 a Abs. 1 Nr. 4 BDSG regelt die Eintragung von sog. „weichen“ Negativmerkmalen. Grunds&auml;tzlich bleibt es aber bei der H&uuml;rde, dass die Eintragung zur Wahrung der berechtigten Interessen der eintragenden Stelle erforderlich ist.
-
-In &sect; 28 b BDSG ist nun auch das sog. Scoringverfahren gesetzlich eindeutig geregelt. Danach d&uuml;rfen die Auskunfteien die gespeicherten Daten im Rahmen eines wissenschaftlich anerkannten mathematisch-statistischen Verfahrens verwenden, um hiermit eine Prognose &uuml;ber das zuk&uuml;nftige Verhalten bestimmter Personengruppen zu erstellen. Hierbei kann es vorkommen, dass trotz Fehlens negativer Eintr&auml;ge der Scorewert einer betroffenen Person so niedrig ist, dass er nicht bzw. nicht mehr als kreditw&uuml;rdig angesehen wird.
+In &sect; 31 Abs. 1 BDSG und in Art. 6 und 22 DSGVO ist nun auch das sog. Scoringverfahren gesetzlich eindeutig geregelt. Danach d&uuml;rfen die Auskunfteien die gespeicherten Daten im Rahmen eines wissenschaftlich anerkannten mathematisch-statistischen Verfahrens verwenden, um hiermit eine Prognose &uuml;ber das zuk&uuml;nftige Verhalten bestimmter Personengruppen zu erstellen. Hierbei kann es vorkommen, dass trotz Fehlens negativer Eintr&auml;ge der Scorewert einer betroffenen Person so niedrig ist, dass er nicht bzw. nicht mehr als kreditw&uuml;rdig angesehen wird.
 
 Das Scoring muss daher auch einer rechtlichen &Uuml;berpr&uuml;fung unterzogen werden k&ouml;nnen, auch wenn der Bundesgerichtshof meint, dass die Schufa Holding AG ihre Datenformel nicht offen legen muss.
 
-##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--base32-c9gq6t9k68pkgvkh6rw6guvaccuppw3nehh6atb75nh62wv56ct0-base32-->
+##### Ansprechpartner: Rechtsanwalt Dr. Sven Tintemann - AdvoAdvice Partnerschaft von Rechtsanw&auml;lten mbB<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70uv7etnpgdkjewv6exbpc5hp6xbge1vk6vk5d1m3crbmc8vkavk86rt7exhn6thq8c1dc9gq6t9k68-base32-->
