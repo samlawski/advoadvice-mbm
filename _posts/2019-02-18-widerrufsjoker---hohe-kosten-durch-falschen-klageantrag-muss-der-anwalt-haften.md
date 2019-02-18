@@ -2,7 +2,7 @@
 title: >-
   Widerrufsjoker - Hohe Kosten durch falschen Klageantrag? Muss der Anwalt
   haften?
-date: 2019-02-11 00:00:00
+date: 2019-02-18 00:00:00
 seo_beschreibung:
 layout: post
 feature_bild_path:
@@ -25,6 +25,8 @@ topics:
   - immobilienrecht
 team_member: kim-oliver-klevenhagen
 ---
+
+![](/uploads/money-1005464-640-1.jpg)
 
 Wenn ein falscher Klageantrag auf Feststellung den "Heilsbringer Widerrufsjoker" &nbsp;zur teuren Kostenfalle macht.
 
