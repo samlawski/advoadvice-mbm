@@ -78,6 +78,6 @@ Die Dunkelziffer d&uuml;rfte indessen hoch sein, da eine Vielzahl von Nutzern de
 
 „Es bleibt zu pr&uuml;fen, inwieweit in jedem Einzelfall Anspr&uuml;che gegen den eigenen Rechtsanwalt bestehen. Vielfach kann eine Kostenlast vermindert werden oder bereits gezahlte Kosten auf diesem Wege zur&uuml;ckgeholt werden. Oftmals sind auch au&szlig;ergerichtliche Vergleiche in Zusammenarbeit mit der anwaltlichen Haftpflichtversicherung m&ouml;glich um einen weiteren Rechtsstreit zu vermeiden. Viele haben nach solch einer Erfahrung wenig Lust, noch einen Rechtsstreit zu f&uuml;hren.", sagt Rechtsanwalt Klevenhagen, der mit seinem Team eine Vielzahl gleichartiger F&auml;lle bearbeitet.
 
-&nbsp;
+F&uuml;r R&uuml;ckfragen, fairen Rat und zur Einsch&auml;tzung des Sachverhaltes stehen die AdvoAdvice mbB gerne unter 030-421 000 40 oder info@advoadvice.de zur Verf&uuml;gung.
 
-&nbsp;
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
