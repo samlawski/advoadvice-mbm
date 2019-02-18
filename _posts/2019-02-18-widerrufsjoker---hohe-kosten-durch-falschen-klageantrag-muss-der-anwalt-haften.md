@@ -32,7 +32,7 @@ Wenn ein falscher Klageantrag auf Feststellung den "Heilsbringer Widerrufsjoker"
 
 ### Der Widerrufsjoker
 
-Millionen von Deutschen haben in letzten Jahren den Widerrufsjoker benutzt um sich von teuren Darlehen zu trennen. Viele alte Darlehensvertr&auml;ge hatten falsche oder widerspr&uuml;chliche Widerrufserkl&auml;rungen und dies wurde von der Rechtsprechung in Deutschland mit besonderen M&ouml;glichkeiten bedacht. So konnten beispielsweise Millionen von Verbraucher- und Immobiliardarlehensvertr&auml;gen widerrufen werden weil die Widerrufsbelehrung falsch oder unrichtig war. Dies war in aller Munde, nahezu alle relevanten Medien in Deutschland berichteten dar&uuml;ber und bald gab es eine ansehnliche Sammlung von Widerrufsklauseln, die von Gerichten als fehlerhaft angesehen wurden.
+Millionen von Deutschen haben in letzten Jahren den Widerrufsjoker benutzt um sich von teuren Darlehen zu trennen. Viele alte Darlehensvertr&auml;ge hatten falsche oder widerspr&uuml;chliche Widerrufserkl&auml;rungen und dies wurde von der Rechtsprechung in Deutschland mit besonderen M&ouml;glichkeiten bedacht.&nbsp; Dies war in aller Munde, nahezu alle relevanten Medien in Deutschland berichteten dar&uuml;ber und bald gab es eine ansehnliche Sammlung von Widerrufsklauseln, die von Gerichten als fehlerhaft angesehen wurden.
 
 ### Klagewelle gegen Banken in Deutschland
 
