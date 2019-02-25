@@ -24,11 +24,15 @@ Anleger der Firma Thomas Lloyd erhielten innerhalb der letzten Wochen ein Schrei
 
 Anleger, die ihre Anlage bereits wirksam gek&uuml;ndigt hatten, egal ob zum 31.12.2016, 31.12.2017, 31.12.2018 oder noch einem in der Zukunft liegenden Zeitpunkt, wurde daher die M&ouml;glichkeit geboten, sich bis zum 28.02.2019 f&uuml;r eine von zwei Optionen zu entscheiden.&nbsp;
 
+![Ja oder Nein - Foto Pixabay](/uploads/board-2084774-640-1.jpg "Was sollen Anleger zum 28.02.2019 antworten?")
+
 Entweder die Anleger sollten auf ihre K&uuml;ndigung verzichten, um damit dann in der Zukunft Aktien der CT Infrastructure Holding Ltd. zu erhalten oder die K&uuml;ndigung ausdr&uuml;cklich beibehalten und gleichzeitig zustimmen, dass die Anlage dann nach den ma&szlig;geblichen Bedingungen der stillen Beteiligung laut Schreiben vom Februar 2019 abgerechnet wird.&nbsp;
 
 **Think out of the box!**
 
 &Uuml;ber hundert Anleger haben seitdem bei AdvoAdvice in Berlin angerufen und sich erkundigt, wie sie sich nun verhalten und der Anlagegesellschaft Thomas Lloyd bis zum 28.02.2019 antworten sollen.&nbsp;
+
+![Nachdenklich - Bild Pixabay](/uploads/man-1574124-640.jpg "Think out of the box")
 
 Hier r&auml;t Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Folgendes: „Als Anleger m&uuml;ssen sie sich zun&auml;chst von den zwei Auswahlm&ouml;glichkeiten, die ihnen die Gesellschaft vorgegeben hat, befreien. Diese Auswahlm&ouml;glichkeiten, verbunden mit der kurzen Reaktionsfrist, sollen auf die Anleger nur Druck aufbauen und Panik machen, damit man die ausgesprochene K&uuml;ndigung zur&uuml;cknimmt.“
 
