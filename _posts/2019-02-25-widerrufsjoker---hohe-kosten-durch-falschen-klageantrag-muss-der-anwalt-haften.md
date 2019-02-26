@@ -2,7 +2,7 @@
 title: >-
   Widerrufsjoker - Hohe Kosten durch falschen Klageantrag? Muss der Anwalt
   haften?
-date: 2019-02-15 00:00:00
+date: 2019-02-25 00:00:00
 seo_beschreibung:
 layout: post
 feature_bild_path:
