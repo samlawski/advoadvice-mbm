@@ -2,7 +2,7 @@
 title: >-
   Widerrufsjoker - Hohe Kosten durch falschen Klageantrag? Muss der Anwalt
   haften?
-date: 2019-02-21 00:00:00
+date: 2019-02-25 00:00:00
 seo_beschreibung: >-
   Anwaltshaftung: Feststellungsantrag statt Leistungsantrag gestellt - Wofür
   haftet ein Rechtsanwalt bei Klagen auf Darlehensrückabwicklung?
