@@ -9,7 +9,7 @@ seo_beschreibung: >-
 layout: post
 feature_bild_path:
 tags:
-  - Wideruf
+  - Widerruf
   - Darlehen
   - Widerrufsjoker
   - Kosten
