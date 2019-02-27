@@ -1,21 +1,13 @@
 ---
-title: 'Schufa-Recht: Eintrag der Rechtsanwälte gelöscht'
-date: 2019-02-27 00:00:00
-seo_beschreibung: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
+title: 'Schufa-Recht: Eintrag der Rechtsanwälte Purps Vogel Flinder GbR gelöscht'
+date: 2019-03-06 00:00:00
+seo_beschreibung:
 layout: post
 feature_bild_path:
 tags:
-  - Anleger
-  - Ansprüche
-  - Aktien
-  - Genussrechte
-  - Genussscheine
-  - Frist 28.02.2019
-  - Rücknahme Kündigung
-  - außerordentliche Kündigung
-  - ThomasLloyd Investments GmbH
 topics:
-  - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - datenschutz
 team_member: dr-sven-tintemann
 ---
+
+Az. 1029/19
