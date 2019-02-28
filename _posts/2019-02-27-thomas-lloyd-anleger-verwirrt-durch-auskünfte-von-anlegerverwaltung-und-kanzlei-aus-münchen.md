@@ -50,6 +50,12 @@ Eine andere Kanzlei aus Heidelberg schreibt zu dem Angebot der Thomas Lloyd auch
 
 **"Nach Durchsicht der Unterlagen raten wir von beiden M&ouml;glichkeiten ab. Mehr als grenzwertig ist in dem Zusammenhang, dass den Kunden 0,00 € als Abfindungsbetrag mitgeteilt wird, obwohl der tats&auml;chliche Abfindungsbetrag h&ouml;her ist."**
 
+Sogar Thomas Lloyd selbst schreibt an die Anleger in den Briefen vom Februar 2019 folgenden Hinweis:
+
+***„Wir weisen darauf hin, dass der o.g. R&uuml;ckzahlungsbetrag weder den tats&auml;chlichen Wert, noch das m&ouml;gliche Wertsteigerungspotential Ihres Investments widerspiegelt.“ ***
+
+Die Gesellschaft gibt also verklausuliert selbst zu, dass der Wert der Anlage der Anleger nat&uuml;rlich nicht bei 0,00 Euro liegt, setzt aber wohl darauf, dass der Anleger dies nicht versteht und daher dem Angebot von Aktien und der R&uuml;cknahme der K&uuml;ndigung zustimmt und somit auf seinen Auszahlungsanspruch verzichtet.&nbsp;
+
 ### 3.) Anleger sollen Angebot annehmen und dann au&szlig;erordentlich k&uuml;ndigen (zweifelhaft)
 
 Die Rechtsanwalts GmbH aus M&uuml;nchen empfiehlt Anlegern, die K&uuml;ndigung zur&uuml;ckzunehmen und danach den Vertrag au&szlig;erordentlich zu k&uuml;ndigen mit der richtigen Argumentation.
@@ -83,5 +89,3 @@ Anleger sollten daher sowohl das Angebot von Aktien ablehnen wie auch das Angebo
 Anleger, die noch nicht gek&uuml;ndigt haben, sollten ggf. nun au&szlig;erordentlich k&uuml;ndigen und vor allem an Stelle von Aktien gem&auml;&szlig; der o.g. Genussrechtsbedingungen gleichwertige Rechte am &uuml;bernehmenden Unternehmen, also der jeweiligen englischen Ltd. fordern.
 
 AdvoAdvice Rechtsanw&auml;lte aus Berlin vertritt bereits mehrere Anleger der Thomas Lloyd und hat eine Anlegergemeinschaft zum Zwecke der B&uuml;ndelung von Anlegerinteressen gegr&uuml;ndet. Fordern Sie daher gerne unsere Mandatsunterlagen und unsere Informationsemail unter info@advoadivce.de oder telefonisch unter 030 921 000 40 an.
-
-&nbsp;
