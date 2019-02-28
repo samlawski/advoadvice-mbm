@@ -52,7 +52,7 @@ Eine andere Kanzlei aus Heidelberg schreibt zu dem Angebot der Thomas Lloyd auch
 
 Sogar Thomas Lloyd selbst schreibt an die Anleger in den Briefen vom Februar 2019 folgenden Hinweis:
 
-***„Wir weisen darauf hin, dass der o.g. R&uuml;ckzahlungsbetrag weder den tats&auml;chlichen Wert, noch das m&ouml;gliche Wertsteigerungspotential Ihres Investments widerspiegelt.“ ***
+***"Wir weisen darauf hin, dass der o.g. R&uuml;ckzahlungsbetrag weder den tats&auml;chlichen Wert, noch das m&ouml;gliche Wertsteigerungspotential Ihres Investments widerspiegelt."***
 
 Die Gesellschaft gibt also verklausuliert selbst zu, dass der Wert der Anlage der Anleger nat&uuml;rlich nicht bei 0,00 Euro liegt, setzt aber wohl darauf, dass der Anleger dies nicht versteht und daher dem Angebot von Aktien und der R&uuml;cknahme der K&uuml;ndigung zustimmt und somit auf seinen Auszahlungsanspruch verzichtet.&nbsp;
 
