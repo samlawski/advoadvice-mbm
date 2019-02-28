@@ -44,7 +44,7 @@ Ein Anruf und eine Email an den zust&auml;ndigen Rechtsanwalt K. f&uuml;hrten hi
 
 **"N****achdem die K&uuml;ndigungen als einseitig empfangsbed&uuml;rftige Willenserkl&auml;rungen in der Welt sind, halte ich die Empfehlung, sich gar nicht zu melden f&uuml;r eine recht riskante Alternative f&uuml;r die Betroffenen."**
 
-Rechtsanwalt Dr. Tintemann r&auml;t dennoch, sich gegen eine R&uuml;cknahme der K&uuml;ndigung zu entscheiden: "Die Anleger sollen hier von der Gesellschaft durch zwei Handlungsalternativen in die Irre gef&uuml;hrt werden. Das ist nicht seri&ouml;s. Die Alternativen m&uuml;ssten zwischen Aktien und Auszahlung des f&auml;lligen Guthabens bei gek&uuml;ndigten Vertr&auml;gen liegen."
+Rechtsanwalt Dr. Tintemann r&auml;t dennoch, sich gegen eine R&uuml;cknahme der K&uuml;ndigung zu entscheiden: "Die Anleger sollten sich hier durch die zwei Handlungsalternativen nicht in die Irre f&uuml;hren lassen. Die Alternativen m&uuml;ssten zwischen Aktien und Auszahlung des f&auml;lligen Guthabens bei gek&uuml;ndigten Vertr&auml;gen liegen."
 
 Eine andere Kanzlei aus Heidelberg schreibt zu dem Angebot der Thomas Lloyd auch passen:
 
@@ -54,7 +54,7 @@ Sogar Thomas Lloyd selbst schreibt an die Anleger in den Briefen vom Februar 201
 
 ***"Wir weisen darauf hin, dass der o.g. R&uuml;ckzahlungsbetrag weder den tats&auml;chlichen Wert, noch das m&ouml;gliche Wertsteigerungspotential Ihres Investments widerspiegelt."***
 
-Die Gesellschaft gibt also verklausuliert selbst zu, dass der Wert der Anlage der Anleger nat&uuml;rlich nicht bei 0,00 Euro liegt, setzt aber wohl darauf, dass der Anleger dies nicht versteht und daher dem Angebot von Aktien und der R&uuml;cknahme der K&uuml;ndigung zustimmt und somit auf seinen Auszahlungsanspruch verzichtet.&nbsp;
+Die Gesellschaft gibt also verklausuliert selbst zu, dass der Wert der Anlage der Anleger nicht bei den als Alternative angebotenen 0,00 Euro liegt.&nbsp;
 
 ### 3.) Anleger sollen Angebot annehmen und dann au&szlig;erordentlich k&uuml;ndigen (zweifelhaft)
 
@@ -68,7 +68,7 @@ Zudem ist es auch nicht so, dass die Genussrechtsbeteiligung wertlos geworden is
 
 Anleger sollten sich auf jeden Fall rechtlich durch einen Rechtsanwalt vertreten lassen, der auf das Bank- und Kapitalmarktrecht spezialisiert ist.&nbsp;
 
-Es bringt hier nichts, sich von der Frist zum 28.02.2019 irre machen zu lassen. Die Gesellschaft versucht hierdurch nur, Druck auf die Anleger auszu&uuml;ben.
+Es bringt hier nichts, sich von dem Fristablauf zum 28.02.2019 unter Druck setzen zu lassen. Viele Anleger empfinden die kurze Reaktionszeit als viel zu kurz.
 
 Aus unserer Sicht ist eine Abwertung der Genussrechte bzw. Genussscheine durch Thomas Lloyd nicht nachvollziehbar und auch nicht begr&uuml;ndbar. Bei einer Klage auf R&uuml;ckzahlung nach K&uuml;ndigung und auf Zahlung von Zinsen, m&uuml;sste die Gesellschaft beweisen, wann und warum Verluste eingetreten sind. Dies ist nicht Sache des Anlegers, der einen Anspruch auf R&uuml;ckzahlung hat, auch wenn er nach &sect; 5 der Genussrechtsbedingungen des High Yield Fonds 450 mit seiner Anlage an Verlusten teilnimmt.
 
@@ -80,9 +80,9 @@ Zudem ist den den Genussrechtsbegingungen in &sect; 8 folgendes geregelt:
 
 ***2.*** *Im Falle einer Ma&szlig;nahme nach Absatz 1 sind den Genussrechtsinhabern gleichwertige Rechte an dem neuen/&uuml;bernehmenden Rechtstr&auml;ger einzur&auml;umen.“*
 
-Das bedeutet, dass die Genussrechte des Anlegers nicht einfach ohne rechtliche Grundlage auf Aktien einer englischen Ltd. zwangskonvertiert werden k&ouml;nnen.
+Das bedeutet, dass die Genussrechte des Anlegers nicht einfach&nbsp; auf Aktien einer englischen Ltd. konvertiert werden k&ouml;nnen.
 
-Bei einer Fusion mit einer englischen Ltd., deren Zul&auml;ssigkeit &uuml;brigens ebenfalls kritisch zu hinterfragen ist, w&auml;ren somit den Anlegern Genussrechte auch gegen&uuml;ber der &uuml;bernehmenden Gesellschaft einzur&auml;umen und keine Aktien. Aktien stellen n&auml;mlich keine gleichwertigen Rechte am &uuml;bernehmenden oder neuen Rechtstr&auml;ger dar.
+Bei einer Fusion mit einer englischen Ltd. w&auml;ren somit den Anlegern Genussrechte auch gegen&uuml;ber der &uuml;bernehmenden Gesellschaft einzur&auml;umen und keine Aktien. Aktien stellen n&auml;mlich keine gleichwertigen Rechte am &uuml;bernehmenden oder neuen Rechtstr&auml;ger dar.
 
 Anleger sollten daher sowohl das Angebot von Aktien ablehnen wie auch das Angebot, keine R&uuml;ckzahlung f&uuml;r ihre Anlagesumme zu erhalten.
 
