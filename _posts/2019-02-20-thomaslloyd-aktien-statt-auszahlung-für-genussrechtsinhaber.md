@@ -18,7 +18,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin melden sich in den letzten Tagen mehrer verunsicherte Anleger der Thomas Lloyd. Diese haben Angst um ihr Geld.
+Bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin melden sich in den letzten Tagen mehrere verunsicherte Anleger der Thomas Lloyd. Diese haben Angst um ihr Geld.
 
 ![Nachdenklich - Bild Pixabay](/uploads/thinking-277071-640-1.jpg "ThomasLloyd Anleger sind verunsichert")
 
