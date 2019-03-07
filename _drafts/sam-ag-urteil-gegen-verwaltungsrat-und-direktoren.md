@@ -1,6 +1,6 @@
 ---
 title: 'SAM AG: Freiheitsstrafen für Verwaltungsrat und Direktoren'
-date: 2019-01-24 00:00:00
+date: 2019-03-07 00:00:00
 seo_beschreibung: LG München verurteilt Hintermänner der SAM AG zu Freiheitsstrafen
 layout: post
 feature_bild_path:
@@ -26,20 +26,30 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Das Landgericht München hat im Strafprozess gegen die Verantwortlichen und Hintermänner der SAM AG sein erstes Urteil gesprochen. Verurteilt wurde der ehemalige Verwaltungsrat de SAM AG Michael O. zu einer Freiheitsstrafe von 5 Jahren und … Monaten. Ebenfalls verurteilt wurden die Direktoren der SAM AG Michael H. und Dieter K. zu mehr als 3 Jahren Freiheitsstrafe.
+Das Landgericht M&uuml;nchen hat im Strafprozess gegen die Verantwortlichen und Hinterm&auml;nner der SAM AG sein erstes Urteil gesprochen. Verurteilt wurde der ehemalige Verwaltungsrat de SAM AG Michael O. zu einer Freiheitsstrafe von 5 Jahren und 6 Monaten. Ebenfalls verurteilt wurden die Direktoren der SAM AG Michael H. und Dieter K. zu&nbsp; jeweils 3 Jahren und 6 Monaten Freiheitsstrafe.
 
 ![](/uploads/handcuffs-2102488-640-1.jpg)
 
-Gegen die Entscheidung ist die Revision zum Bundesgerichtshof möglich. Diese wird sicherlich auch durchgeführt werden. Ein Erfolg scheint allerdings ungewiss.
+Gegen die Entscheidung ist die Revision zum Bundesgerichtshof m&ouml;glich. Diese wurde nach Informationen von AdvoAdvice nur von dem Hauptt&auml;ter O. eingelegt. Die Gest&auml;ndigen T&auml;ter K. und H. ist die Entscheidung des LG M&uuml;nchen I rechtskr&auml;ftig.
 
-### Hintergrund:
+### Hintergrund
 
-Die drei nunmehr verurteilten Haupttäter hatten für die in der Schweiz gegründete SAM AG Lebensversicherungen und auch andere Kapitalanlagen von Anlegern, welche vor allem in Deutschland wohnhaft waren, angekauft, mit dem Versprechen, die eingenommenen Gelder zu vermehren, meist mindestens zu verdoppeln.
+Die drei nunmehr verurteilten Hauptt&auml;ter hatten f&uuml;r die in der Schweiz gegr&uuml;ndete SAM AG Lebensversicherungen und auch andere Kapitalanlagen von Anlegern, welche vor allem in Deutschland wohnhaft waren, angekauft, mit dem Versprechen, die eingenommenen Gelder zu vermehren, meist mindestens zu verdoppeln.
 
-Das Projekt scheiterte, nachdem es durch die schweizer FINMA als erlaubnispflichtiges Einlagengeschäfts untersagt worden war, da die SAM AG und die Betroffenen keine Bankerlaubnis inne hatten.
+Das Projekt scheiterte, nachdem es durch die schweizer FINMA als erlaubnispflichtiges Einlagengesch&auml;fts untersagt worden war, da die SAM AG und die Betroffenen keine Bankerlaubnis inne hatten.
 
-### Tatvorwurf:
+### Tatvorwurf
 
-Die Staatsanwaltschaft München hat die nunmehr erstinstanzlich verurteilten Verantwortlichen wegen gewerbsmäßigen und bandenmäßigen Betrugs verurteilt.
+Die Staatsanwaltschaft M&uuml;nchen hat die nunmehr erstinstanzlich verurteilten Verantwortlichen wegen gewerbsm&auml;&szlig;igen und bandenm&auml;&szlig;igen Betrugs verurteilt.
 
-Diesen Vorwurf sah das Landgericht München nunmehr als erwiesen an und stütze sein Urteil vor allem auf folgende Gründe:
+Diesen Vorwurf sah das Landgericht M&uuml;nchen nunmehr als erwiesen an und st&uuml;tze sein Urteil vor allem auf die gest&auml;ndigten Aussagen der Verurteilten K. und H., welche einger&auml;umt hatten, sp&auml;testens zum Jahreswechsel 2009/2010 bemerkt zu haben, dass der Angeklagte O. nicht beabsichtigte, die eingeworbenen Kundengelder innerhalb der SAM AG gewinnbringend anzulegen.&nbsp;
+
+### Urteil
+
+Das Gericht verurteilte daher die drei Angeklagten zu den o.g. Haftstrafen und sah die entsprechenden Aussagen der gest&auml;ndigen K. und H. als glaubw&uuml;rdig an.
+
+Gesondert verfolgt wird weiterhin als externer Vertriebler der auch aus S&K Verfahren bekannte Daniel F., welchem ebenfalls ab einem bisher nicht ausgeurteilten Zeitpunkt bekannt gewesen sein soll, dass die SAM AG keine oder nicht in ausreichendem Ma&szlig;e Kundegelder angelegt ha.
+
+### Unser Kommentar
+
+&nbsp;
