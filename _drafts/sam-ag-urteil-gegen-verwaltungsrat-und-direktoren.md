@@ -48,6 +48,8 @@ Diesen Vorwurf sah das Landgericht M&uuml;nchen nunmehr als erwiesen an und st&u
 
 Das Gericht verurteilte daher die drei Angeklagten zu den o.g. Haftstrafen und sah die entsprechenden Aussagen der gest&auml;ndigen K. und H. als glaubw&uuml;rdig an.
 
+![LG München I - Foto Pixabay](/uploads/lg-münchen-i-2.jpg "Landgericht München I verurteilt SAM AG Hintermänner zu Freiheitsstrafen")
+
 Gesondert verfolgt wird weiterhin als externer Vertriebler der auch aus S&K Verfahren bekannte Daniel F., welchem ebenfalls ab einem bisher nicht ausgeurteilten Zeitpunkt bekannt gewesen sein soll, dass die SAM AG keine oder nicht in ausreichendem Ma&szlig;e Kundegelder angelegt ha.
 
 ### Unser Kommentar
