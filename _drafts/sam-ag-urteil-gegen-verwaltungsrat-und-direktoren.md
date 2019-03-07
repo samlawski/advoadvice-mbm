@@ -52,4 +52,10 @@ Gesondert verfolgt wird weiterhin als externer Vertriebler der auch aus S&K Verf
 
 ### Unser Kommentar
 
-&nbsp;
+Nach einem langen Prozessverlauf ist nunmehr klar, dass hier zun&auml;chst wohl der Hauptangeklagte O. alleine vort&auml;uschte, Anlagen zu t&auml;tigen und Gelder durch eine professionelle Verm&ouml;gensverwaltung vermehren zu k&ouml;nnen und dass sp&auml;ter auch die weiteren nunmehr bereits rechtkr&auml;ftig verurteilten Hauptt&auml;ter bei dem Betrugsmodell mitmachten.
+
+Anlegern wird nunmehr durch die Freiheitsstrafen zumindest der Glauben an den Rechtsstaat gest&auml;rkt. Da die Angeklagten allerdings verm&ouml;genslos sind, wird der entstandene Schaden hierdurch leider nicht beseitigt.
+
+Unklar bleibt, ob hier Gelder nach Panama und anderswo transferiert worden sind und ob diese noch f&uuml;r die Anleger zur&uuml;ckzuerlangen sind.
+
+AdvoAdvice bleibt weiter dran und wird bei Gelegenheit erneut berichten.
