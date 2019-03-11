@@ -36,13 +36,13 @@ Die Durchf&uuml;hrung der grenz&uuml;berschreitenden Verschmelzung wurde durch d
 
 Im Verschmelzungbericht an das Firmenbuch findet sich unter dem Punkt 4.8 "Haftung" folgende Angabe:
 
-*"Die Gesch&auml;ftsf&uuml;hrung von TLI und die Gesch&auml;ftsf&uuml;hrung der aufnehmenden Gesellschaft gehen davon aus, dass durch das Wirksamwerden der Verschmelzung keine Anspr&uuml;che von Gl&auml;ubigern gef&auml;hrdet werden und deshalb keine Pflicht zur Sicherheitsleistung durch die &uuml;bertragende bzw. die aufnehmende Gesellschaft nach &sect; 13 EU-VerschG bestehen wird." *
+***"Die Gesch&auml;ftsf&uuml;hrung von TLI und die Gesch&auml;ftsf&uuml;hrung der aufnehmenden Gesellschaft gehen davon aus, dass durch das Wirksamwerden der Verschmelzung keine Anspr&uuml;che von Gl&auml;ubigern gef&auml;hrdet werden und deshalb keine Pflicht zur Sicherheitsleistung durch die &uuml;bertragende bzw. die aufnehmende Gesellschaft nach &sect; 13 EU-VerschG bestehen wird." ***
 
 Zu den Anlegern in Genussrechte bzw. -scheine wird in dem Verschmelzungsbericht folgendes ausgef&uuml;hrt:
 
-"TLI hat Genussrechte und -scheine an einzelne Personen ausgegeben (die "Beteiligungsinhaber". Den Beteiligungsinhabern werden mit Wirksamwerden der Verschmelzung Rechte an der aufnehmenden Gesellschaft gew&auml;hrt, die zumindest gleichwertige Rechte zu ihrer derzeitigen Beteiligung gem&auml;&szlig; Art. 101 der Richtlinie 2017/1132 und &sect; 226 Abs. 3 &ouml;AktG darstellen.
+**"TLI hat Genussrechte und -scheine an einzelne Personen ausgegeben (die "Beteiligungsinhaber". Den Beteiligungsinhabern werden mit Wirksamwerden der Verschmelzung Rechte an der aufnehmenden Gesellschaft gew&auml;hrt, die zumindest gleichwertige Rechte zu ihrer derzeitigen Beteiligung gem&auml;&szlig; Art. 101 der Richtlinie 2017/1132 und &sect; 226 Abs. 3 &ouml;AktG darstellen.**
 
-Nach englischem Recht, dem die aufnehmende Gesellschaft unterliegt, gibt es keine Beteiligung in Form eines Genussrechts. Um den Bestimmungen, die unter Punkt 2 der Anlage C zum Verschmelzungsplan angef&uuml;hrt sind, zu entsprechen, bietet die aufnehmende Gesellschaft den Beteiligungsinhabern eine gleichwertige Beteiligung in Form von neuen B-Anteilen von je EUR 0,001 (die "B-Anteile") am Kapital der aufnehmenden Gesellschaft an.
+**Nach englischem Recht, dem die aufnehmende Gesellschaft unterliegt, gibt es keine Beteiligung in Form eines Genussrechts. Um den Bestimmungen, die unter Punkt 2 der Anlage C zum Verschmelzungsplan angef&uuml;hrt sind, zu entsprechen, bietet die aufnehmende Gesellschaft den Beteiligungsinhabern eine gleichwertige Beteiligung in Form von neuen B-Anteilen von je EUR 0,001 (die "B-Anteile") am Kapital der aufnehmenden Gesellschaft an."**
 
 ### 3.) R&uuml;ckzahlungsanspr&uuml;che abgelehnt
 
@@ -54,7 +54,9 @@ Die Gesellschaft f&uuml;hrte hierzu aus, dass der R&uuml;ckzahlungsanspruch der 
 
 Die rechtsschutzversicherte Mandantin will sich diese lapidare Aussage zu ihrer Anlegenentwicklung, welche die Gesellschaft auch nicht durch Zahlen zu den eingetretenen Verlusten belegt hat, nicht gefallen lassen und l&auml;sst nunmehr durch die Kanzlei AdvoAdvice eine Klage auf Zahlung gegen die CT Infrastructure Holding Ltd. vorbereiten.
 
-Gepr&uuml;ft wird auch, ob die Klage noch gegen weitere Anspruchsgegner eingereicht werden kann. Die im &ouml;sterreichischen Firmenbuch gel&ouml;schte Thomas Lloyd Investments GmbH d&uuml;rfte hierf&uuml;r wohl nicht mehr in Frage kommen.
+Gepr&uuml;ft wird auch, ob die Klage noch gegen weitere Anspruchsgegner aufgrund der o.g. Angaben zum &ouml;sterreichischen Firmenbuch eingereicht werden kann.
+
+Die im &ouml;sterreichischen Firmenbuch gel&ouml;schte Thomas Lloyd Investments GmbH d&uuml;rfte hierf&uuml;r wohl nicht mehr in Frage kommen.
 
 ### 5. Anlegergemeinschaft w&auml;chst weiter
 
