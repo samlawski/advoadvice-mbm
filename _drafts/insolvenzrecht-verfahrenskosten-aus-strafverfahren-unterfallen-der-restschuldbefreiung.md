@@ -2,7 +2,7 @@
 title: >-
   Insolvenzrecht: Verfahrenskosten aus Strafverfahren unterfallen der
   Restschuldbefreiung
-date: 2019-02-13 00:00:00
+date: 2019-02-25 00:00:00
 seo_beschreibung: >-
   Insolvenzrecht: Verfahrenskosten aus Strafverfahren durch Restschuldbefreiung
   loswerden
