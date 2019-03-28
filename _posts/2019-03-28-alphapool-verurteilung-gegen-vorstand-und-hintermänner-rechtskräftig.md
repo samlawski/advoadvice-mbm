@@ -15,6 +15,7 @@ tags:
   - Schadensersatz
   - Hintermänner
   - Straftat
+  - Klage
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
@@ -37,5 +38,3 @@ Die Entscheidung ist daher rechtskr&auml;ftig. Die Beteiligten m&uuml;ssen daher
 Ob ein Schadensersatzanspruch durch die Anleger gang oder teilweise auch vollstreckt werden kann, wird davon abh&auml;ngen, wie viele Anleger Anspr&uuml;che geltend machen und wie lange die arrestieren Gelder bei den jeweiligen Beteiligten ausreichen. Hier gilt, zumindest so lange, bis kein Insolvenzverfahren &uuml;ber das Verm&ouml;gen der Verurteilten er&ouml;ffnet worden ist, das Windhundprinzip oder anders ausgedr&uuml;ckt: "Wer zuerst kommt, mahlt zuerst."
 
 Anleger der Alphapool sollten sich daher anwaltliche Hilfe zur Durchsetzung ihrer Anspr&uuml;che suchen.
-
-&nbsp;
