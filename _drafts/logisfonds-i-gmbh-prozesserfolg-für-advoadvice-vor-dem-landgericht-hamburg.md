@@ -29,6 +29,8 @@ Anleger, die eine Beteiligung vom Typ Sprint abgeschlossen haben, erhalten am La
 
 Dieses Angebot wollte ein Anleger aus Potsdam nicht annehmen und klagte beim Landgericht Hamburg &uuml;ber die Kanzlei AdvoAdvice aus Berlin mit Klageschrift vom 13.12.2018 auf Zahlung in H&ouml;he von 15.059,84 Euro zzgl. Zinsen ab dem 14.12.2018.
 
+![Landgericht Hamburg - Foto AdvoAdvice](/uploads/lg-hamburg-außenansicht-6.JPG "Anerkenntnisurteil gegen LogisFonds I GmbH erstritten")
+
 Nach Zustellung der Klage zeigte die Logisfonds I GmbH (vormals firmierend als Garbe Logimac AG) noch mit Schriftsatz vom 06.02.2019 ihre Verteidigungsbereitschaft an. Eine inhaltliche Stellungsnahme zu der Klage erfolgte nach einem weiteren Fristverl&auml;ngerungsantrag vom 15.02.2019 jedoch nicht mehr. Vielmehr wurde die Klageforderung anerkannt. Es erging Anerkenntnisurteil &uuml;ber den eingeklagten Betrag nebst Zinsen. Auch die Kosten des Rechtsstreits hat die Beklagte LogisFonds I GmbH zu tragen.
 
 ### Annahme von Vergleichsangebot nicht empfehlenswert
