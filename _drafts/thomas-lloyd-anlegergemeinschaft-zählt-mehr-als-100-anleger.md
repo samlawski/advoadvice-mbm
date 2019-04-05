@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Anlegergemeinschaft zählt mehr als 100 Anleger'
-date: 2019-04-04 00:00:00
+date: 2019-04-05 00:00:00
 seo_beschreibung: 'Thomas Lloyd: Anlegergemeinschaft über 100 Anleger - Handelsblatt meldet sich'
 layout: post
 feature_bild_path:
