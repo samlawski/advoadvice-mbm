@@ -131,18 +131,21 @@ seo_beschreibung: >-
 
       <h3 class="editable"><strong>Kostenlos</strong> und <strong>unverbindlich</strong> Termin zur telefonischen Ersteinsch&auml;tzung vereinbaren!</h3>
 
-      <form name="kreditwiderrufen" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
+      <form name="kreditwiderrufen" id="kreditwiderrufen" enctype="multipart/form-data">
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="Name" value="" required />
+          <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="contact[name]" value="" required />
         </div>
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Telefonnummer" name="Telefonnummer" value="" />
+          <input type="text" class="form-control" placeholder="Telefonnummer" name="contact[phone]" value="" />
         </div>
         <div class="form-group">
-          <input type="email" class="form-control" placeholder="Email Adresse*" name="email" value="" required />
+          <input type="email" class="form-control" placeholder="Email Adresse*" name="contact[email]" value="" required />
         </div>
         <div class="form-group">
           <textarea class="form-control" placeholder="Ihre Nachricht*" rows="4" name="Nachricht" required></textarea>
+        </div>
+        <div>
+          <input type="file" id="documents" multiple="multiple" />
         </div>
         <div class="form-group">
           <label for="gdpr_check">
@@ -150,12 +153,8 @@ seo_beschreibung: >-
             <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister netlify einverstanden.</small>
           </label>
         </div>
-        <script>
-          function enableSubmit(){ $(".send-form").removeClass("hidden") }
-          function disableSubmit(){ $(".send-form").addClass("hidden") }
-        </script>
-        <div class="g-recaptcha" data-sitekey="6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn" data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
-        <input type="submit" class="send-form btn btn-default hidden" value="Abschicken" />
+
+        <input type="submit" class="send-form btn btn-default" value="Abschicken" />
       </form>
 
     </div>
