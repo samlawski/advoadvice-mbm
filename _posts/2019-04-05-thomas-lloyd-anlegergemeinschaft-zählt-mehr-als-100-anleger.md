@@ -25,20 +25,20 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Die Kanzlei AdvoAdvice kümmert sich um zahlreiche Anleger der mittlerweile im österreichischen Firmbuch gelöschten Thomas Lloyd Investments GmbH und der ebenfalls im deutschen Handelsregister gelöschten DKM Global Opportunities Fonds 01 GmbH.
+Die Kanzlei AdvoAdvice k&uuml;mmert sich um zahlreiche Anleger der mittlerweile im &ouml;sterreichischen Firmbuch gel&ouml;schten Thomas Lloyd Investments GmbH und der ebenfalls im deutschen Handelsregister gel&ouml;schten DKM Global Opportunities Fonds 01 GmbH.
 
-**Mehr als 100 Anlegen bündeln Ansprüche**
+**Mehr als 100 Anlegen b&uuml;ndeln Anspr&uuml;che**
 
-Mittlerweile lassen sich 110 Anleger von AdvoAdvice vertreten und machen Ansprüche auf Auszahlung gegen die o.g. Gesellschaften geltend.
+Mittlerweile lassen sich 110 Anleger von AdvoAdvice vertreten und machen Anspr&uuml;che auf Auszahlung gegen die o.g. Gesellschaften geltend.
 
-Erste Anspruchsschreiben wurden durch AdvoAdvice bereits an die CT Infrasctruture Holding Ltd. per Fax übermittelt. Eine Reaktion hierauf steht noch aus. Gesetzte Fristen, welche am 04.04.2019 ausliefen, blieben bisher ohne Antwort.
+Erste Anspruchsschreiben wurden durch AdvoAdvice bereits an die CT Infrasctruture Holding Ltd. per Fax &uuml;bermittelt. Eine Reaktion hierauf steht noch aus. Gesetzte Fristen, welche am 04.04.2019 ausliefen, blieben bisher ohne Antwort.
 
 **Erste Klagen vorbereitet**
 
-Die Kanzlei AdvoAdvice hat zudem erste Klagen gegen die CT Infrastructure Holding Ltd. auf Zahlung von 13.532,70 Euro heute beim Landgericht Wiesbaden für einen dort wohnhaften Anleger eingereicht.
+Die Kanzlei AdvoAdvice hat zudem eine erste Klage gegen die CT Infrastructure Holding Ltd. auf Zahlung von 13.532,70 Euro heute beim Landgericht Wiesbaden f&uuml;r einen dort wohnhaften Anleger eingereicht.
 
 ![](/uploads/courts-2962346-1280-2.jpg)
 
-Die Klage richten sich auf Auszahlung und hilfsweise auf Abrechnung der Beteiligung zum jeweiligen Kündigungszeitpunkt.
+Die Klage richten sich auf Auszahlung und hilfsweise auf Abrechnung der Beteiligung zum jeweiligen K&uuml;ndigungszeitpunkt.
 
-Wir werden über den Verlauf der Prozesse weiter berichten.
+Wir werden &uuml;ber den Verlauf der Prozesse weiter berichten.
