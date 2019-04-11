@@ -1,11 +1,12 @@
 $( 'form#kreditwiderrufen' ).submit(function ( e ) {
     disableSubmit();
+    hideApiError();
     e.preventDefault();
 
     var form = document.querySelector("#kreditwiderrufen");
     var formdata = new FormData(form);
-    // var url = 'http://localhost:3000/api/contacts';
-    var url = 'http://staging-auto.kanzlei-fuer-widerruf.de/api/contacts';
+    var url = 'http://localhost:3000/api/contacts';
+    // var url = 'http://staging-auto.kanzlei-fuer-widerruf.de/api/contacts';
     var documents = document.querySelector("#documents");
     var files = documents.files
     for (var i = 0; i < files.length; i++) {
@@ -25,18 +26,29 @@ $( 'form#kreditwiderrufen' ).submit(function ( e ) {
         })
     })
     .then(function(data) {
-        if(data['status'] != 200) {
+        if (data['status'] == 200) {
+          showSuccess();
+        }
+        else if (data['status'] == 422) {
           highlightErrors(data['body']);
         } else {
-          showSuccess();
+          throw "Unexpected API answer"
         }
     })
     .catch(function(error) {
-        console.log(error);
+        showApiError();
         enableSubmit();
         removeErrors();
     });
 });
+
+function hideApiError() {
+  $("#api-error").addClass('hide');
+}
+
+function showApiError() {
+  $("#api-error").removeClass('hide');
+}
 
 function disableSubmit() {
   $("input[type=submit]").attr("disabled", "disabled");
