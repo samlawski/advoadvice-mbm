@@ -25,6 +25,8 @@ team_member: dr-sven-tintemann
 
 Die Bundesanstalt f&uuml;r Finanzdienstleitstungsaufsicht (kurz BaFin) hat bekannt gegeben, dass sie der Firma Five Star Leasing GmbH aus Stuttgart mit Bescheid vom 1. April 2019 die sofortige Einstellung und die unverz&uuml;gliche Abwicklung des Finanzierungsleasings aufgegeben hat.
 
+![Aston Martin - Foto Pixabay](/uploads/aston-2118857-640.jpg "Five Star Leasing GmbH - Wirbt auf Internetseite mit Luxusautos")
+
 Nach Mitteilung der BaFin schloss die Five Star Leasing GmbH Vertr&auml;ge &uuml;ber die &Uuml;berlassung des Gebrauchs an Kraftfahrzeugen f&uuml;r zw&ouml;lf Monate, auf deren Grundlage sie nach Auffassung der BaFin das Finanzierungsleasing erbringt, ohne hierf&uuml;r die erforderliche Erlaubnis der BaFin zu verf&uuml;gen.
 
 Das Unternehmen wurde daher durch die BaFin dazu verpflichtet, das Angebot unverz&uuml;glich einzustellen und bestehende Leasingvertr&auml;ge durch vertragsgem&auml;&szlig;e K&uuml;ndigung der Vereinbarungen abzuwickeln.
