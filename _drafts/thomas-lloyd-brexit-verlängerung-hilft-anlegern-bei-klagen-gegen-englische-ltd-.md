@@ -51,6 +51,6 @@ Diese Sorgen stellen sich zwar weiterhin, wenn man &uuml;ber den 31.10.2019, sol
 
 Rechtsanwalt Dr. Sven Tintemann von der Kanzlei AdvoAdvice aus Berlin kommentiert die Situation wie folgt: "Unsere Kanzlei hat bereits Anspr&uuml;che f&uuml;r Anleger bei der CT in London geltend gemacht. Es wurde auch bereits eine Klage versandt. Weitere Klagen werden in K&uuml;rze folgen und wahrscheinlich bei verschiedenen Landgerichten in Deutschland eingereicht werden. Hier w&auml;re es ein Ziel, die erste Instanz noch vor dem 31.10.2019 abschlie&szlig;en zu k&ouml;nnen. Hier bleibt abzuwarten, wie schnell die Gericht hier arbeiten."
 
-Die Kanzlei AdvoAdvice Rechtsanw&auml;lte betreut mittlerweile mehr als 110 Anleger der Thomas Lloyd Gruppe und steht auch weiterhin ratsuchenden Anlegern mit einer kostenfreien Ersteinsch&auml;tzung ihrer Handlungsm&ouml;glichkeiten zur Verf&uuml;gung.
+Die Kanzlei AdvoAdvice Rechtsanw&auml;lte betreut mittlerweile 120 Anleger der Thomas Lloyd Gruppe und steht auch weiterhin ratsuchenden Anlegern mit einer kostenfreien Ersteinsch&auml;tzung ihrer Handlungsm&ouml;glichkeiten zur Verf&uuml;gung.
 
 Anleger k&ouml;nnen sich direkt an Dr. Tintemann und sein Team unter 030 921 000 40 wenden oder eine Email an info@advoadvice.de schicken.
