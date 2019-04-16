@@ -16,6 +16,11 @@ tags:
   - Europa
   - Wohnsitz
   - Center of main interests
+  - Gesamtpaket
+  - Kundenbetreung
+  - auf Deutsch
+  - deutscher Ansprechpartner vor Ort
+  - EU-Insolvenz
 topics:
   - insolvenzrecht
 team_member: dr-sven-tintemann
@@ -33,7 +38,16 @@ Aufgrund der Schnelligkeit und Schuldnerfreundlichkeit des Insolvenzverfahrens b
 
 Dies verlangt von Ihnen allerdings etwas mehr Flexibilit&auml;t, da sie f&uuml;r die Insolvenz in Riga ihren Lebensmittelpunkt (englisch "center of main interests" - kurz COMI)&nbsp; f&uuml;r mindestens ein halbes Jahr nach Lettland verlegen und dort als Steuerzahler registriert sein m&uuml;ssen.
 
-Hierbei hilft ihnen in Zusammenarbeit mit der Kanzlei ein Anbieter in Riga vor Ort. Zudem steht f&uuml;r alle Antr&auml;ge und beh&ouml;rdlichen Angelegenheiten auch ein lettischer Rechtsanwalt zur Verf&uuml;gung.
+Hierbei hilft ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice ein lokaler Anbieter in Riga vor Ort, welcher direkten Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht hat. Die Ansprechpartner vor Ort stehen ihnen dann f&uuml;r alle Antr&auml;ge und beh&ouml;rdlichen Angelegenheiten zur Verf&uuml;gung.
+
+Der Umfang des Angebotes umfasst:
+
+* Komplette Betreuung in deutsch von A bis
+* Durchf&uuml;hrung der Insolvenz und aller juristischer Belange durch einen lettischen Rechtsanwalt
+* Hilfe bei der Wohnungssuche vor Ort
+* Taxpayer Registration (gegen Aufpreis beim Anbieter vor Ort)
+* Permanenter Ansprechpartner in deutsch vor Ort f&uuml;r R&uuml;ckfragen&nbsp;
+* Kundenbetreuung in deutsch bei vorbereitenden Besuchen in Lettland vor Ort
 
 ### Lettland bietet Restschuldbefreiung innerhalb der Europ&auml;ischen Union
 
@@ -58,5 +72,3 @@ AdvoAdvice bietet in Zusammenarbeit mit einem Partner vor Ort und einer lettisch
 Ein Kennen der Landessprache oder eine Erwerbst&auml;tigkeit vor Ort sind bei Antragstellung und f&uuml;r den Beginn der Vorbereitung ihrer Insolvenz in Lettland nicht notwendig.
 
 Rufen sie uns gerne unter 030 921 000 40 an oder schicken sie eine Email nach info@advoadvice.de, damit wir ihnen ein f&uuml;r sie auf ihre konkrete Lebenssituation passendes Angebot gemeinsam mit unseren Partnern unterbreiten k&ouml;nnen.
-
-&nbsp;
