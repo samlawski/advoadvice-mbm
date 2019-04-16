@@ -48,6 +48,8 @@ Der Umfang des Angebotes umfasst:
 * Taxpayer Registration (gegen Aufpreis beim Anbieter vor Ort)
 * Permanenter Ansprechpartner in deutsch vor Ort f&uuml;r R&uuml;ckfragen&nbsp;
 * Kundenbetreuung in deutsch bei vorbereitenden Besuchen in Lettland vor Ort
+* Durchsetzung der Restschuldbefreiung in Deutschland
+* Herausfordern von Titeln nach Restschuldbefreiung und Erledigung von Schufa-Eintragen bzw. deren L&ouml;schung
 
 ### Lettland bietet Restschuldbefreiung innerhalb der Europ&auml;ischen Union
 
