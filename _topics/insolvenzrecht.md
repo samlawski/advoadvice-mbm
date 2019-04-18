@@ -14,6 +14,7 @@ seo_beschreibung: >-
 * **Restschuldbefreiung**
 * **Unternehmensinsolvenz**
 * **Berliner Gerichtszust&auml;ndigkeiten bei Verbraucherinsolvenz**
+* [**Neu - Insolvenz in Riga (Lettland)**](/blog/insolvenzrecht-insolvenz-und-restschuldbefreiung-in-riga-lettland/)
 
 ![Insolvenz - Foto Pixabay](/uploads/insolvency-593750-640.jpg "Eintritt in die Insolvenz oftmals sinnvoll")
 
@@ -301,4 +302,4 @@ Wittenau = Amtsgericht Charlottenburg
 
 Zehlendorf = Amtsgericht Berlin-Sch&ouml;neberg
 
-##### Ansprechpartner: Rechtsanwalt Dr. Tintemann<!--base32-8nq68hkjc5kputbeeg-base32-->
+##### Ansprechpartner: Rechtsanwalt Dr. Tintemann<!--base32-c9gq6t9k68pkgvkh6rw6guvaccuppw3nehh6atb75nh62wv56ct0-base32-->
