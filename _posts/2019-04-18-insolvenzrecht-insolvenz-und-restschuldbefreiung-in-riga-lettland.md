@@ -65,6 +65,8 @@ F&uuml;r ihre Gl&auml;ubiger ist das Geltendmachen von Forderung innerhalb der I
 
 Werden &uuml;berhaupt keine Forderungen durch Gl&auml;ubiger angemeldet, kann dies bereits nach sehr kurzer Zeit eine sofortige Restschuldbefreiung zur Folge haben.
 
+![Erfolg in Lettland - Foto Pixabay](/uploads/latvia-2131273-1280.jpg "Erfolgreiche Insolvenz in Riga (Lettland)")
+
 Die Restschuldbefreiung muss ins Deutsche &uuml;bersetzt werden und wird dann auch innerhalb Deutschlands anerkannt. Dies f&uuml;hrt dann auch zur Erledigung von Negativeintr&auml;gen bei der Schufa oder anderen Auskunfteien und zum Ende von Zwangsvollstreckungsma&szlig;nahmen und l&auml;stigen Besuchen vom Gerichtsvollzieher.
 
 ### Angebote zu attraktiven Konditionen
