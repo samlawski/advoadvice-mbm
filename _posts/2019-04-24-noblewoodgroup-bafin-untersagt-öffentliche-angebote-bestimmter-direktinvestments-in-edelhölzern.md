@@ -1,7 +1,7 @@
 ---
 title: >-
-  NoblewoodGroup: BaFin untersagt öffentliche Angebote von bestimmten
-  Vermögensanlagen
+  NoblewoodGroup: BaFin untersagt öffentliche Angebote bestimmter
+  Direktinvestments in Edelhölzern
 date: 2019-04-24 00:00:00
 seo_beschreibung: 'NoblewoodGroup: BaFin untersagt öffentliche Angebote von Vermögensanlagen'
 layout: post
