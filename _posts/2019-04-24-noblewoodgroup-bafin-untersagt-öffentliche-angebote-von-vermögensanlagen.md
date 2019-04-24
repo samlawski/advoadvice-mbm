@@ -19,7 +19,7 @@ team_member: kim-oliver-klevenhagen
 
 Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) hat der NoblewoodGroup am 3.April 2019 untersagt, Angebote der Verm&ouml;gensanlagen in Deutschland &uuml;ber den Kauf, die Pflege sowie die Verwertung von Edelholzb&auml;umen anzubieten. Dies meldete die BaFin am 24.04.2019.
 
-Nach Angaben der BaFin soll die Untersagung dabei Direktinvestments in Paraguay bez&uuml;glich Paulownia,&nbsp; Australische Zedern und Mahagoni-B&auml;ume betreffen.
+Nach Angaben der BaFin soll die Untersagung dabei Direktinvestments in Paraguay bez&uuml;glich Kiri- Paulownia,&nbsp; Australische Zedern und Mahagoni-B&auml;ume betreffen.
 
 Der NoblewoodGroup ist aufgegeben worden, diese Verm&ouml;gensanlagen in Deutschland nicht mehr zum Erwerb anzubieten. Hintergrund sind entsprechend der Meldung der BaFin von dieser festgestellte Verst&ouml;&szlig;e gegen das Verm&ouml;gensanlagengesetz ([VermAnlG](http://www.gesetze-im-internet.de/vermanlg/index.html){: target="_blank"}).&nbsp;
 
