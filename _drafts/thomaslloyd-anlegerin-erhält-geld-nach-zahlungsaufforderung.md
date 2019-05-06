@@ -23,6 +23,8 @@ team_member: dr-sven-tintemann
 
 AdvoAdvice erstreitet Auszahlungen an eine Anlegerin, die in Genussrechte der Thomas Lloyd Investments GmbH investiert und diese zum 31.12.2016 gek&uuml;ndigt hatte.&nbsp;
 
+![Daumen hoch - Foto Pixabay](/uploads/thumbs-up-2056022-640.jpg "Erfolg in Sachen Thomas Lloyd")
+
 ### Beteiligungen zum 31.12.2016 gek&uuml;ndigt
 
 Die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin konnte f&uuml;r eine Anlegerin, die Genussrechtsbeteiligungen bei der Thomas Lloyd Investments GmbH gezeichnet und diese zum 31.12.2016 gek&uuml;ndigt hatte, Auszahlungen erwirken.&nbsp;
