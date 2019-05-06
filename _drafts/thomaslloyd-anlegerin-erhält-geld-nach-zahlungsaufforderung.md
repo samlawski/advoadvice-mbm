@@ -24,7 +24,9 @@ AdvoAdvice erstreitet Auszahlungen an eine Anlegerin, die in Genussrechte der Th
 
 ### Beteiligungen zum 31.12.2016 gek&uuml;ndigt
 
-&nbsp;
+Die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin konnte f&uuml;r eine Anlegerin, die Genussrechtsbeteiligungen bei der Thomas Lloyd Investments GmbH gezeichnet und diese zum 31.12.2016 gek&uuml;ndigt hatte, Auszahlungen erwirken.&nbsp;
+
+Die durch AdvoAdvice vertretene Anlegerin hatte zwei Beteiligungen. In eine Beteiligung vom Typ Thomas Lloyd Global High Yield Fund 450 hatte die Anlegerin 7.000 Euro investiert. In eine weitere Beteiligung vom Typ Thomas Lloyd Absolute Return Fund 1J. hatte die Anlegerin 6.000 Euro angelegt.&nbsp;
 
 ### Forderung auf Auszahlung hat Erfolg
 
