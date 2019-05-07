@@ -19,3 +19,8 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
+Klage gegen CT Infrastructure Holding Ltd. wird Ende August vor dem Landgericht Wiesbaden verhandelt.&nbsp;
+
+Das Landgericht Wiesbaden hat in der Klage eines Anlegers der ehemaligen Thomas Lloyd Investments GmbH aus Wien (&Ouml;sterreich), welche mittlerweile nach England auf die CT Infrastructure Holding Ltd. verschmolzen worden ist, eine Ladung zum fr&uuml;hen ersten Termin f&uuml;r Ende August zugestellt. Das Gericht scheint das Verfahren hier somit zeitnah verhandeln und vielleicht sogar noch vor dem nun bereits mehrfach verschobenen Brexit entscheiden zu wollen.&nbsp;
+
+&nbsp;
