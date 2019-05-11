@@ -45,7 +45,7 @@ Die Realit&auml;t s&auml;he allerdings nicht so aus wie erhofft, teilen uns nun 
 
 F&uuml;r den Gro&szlig;teil der sich durch den Erwerb der Immobilie benachteiligt f&uuml;hlenden K&auml;ufer sei eine erhebliche monatliche Mehrbelastung im Vergleich zu der versprochenen monatlichen Zuzahlung nicht tragbar. Die hieraus entstehenden finanziellen Engp&auml;sse k&ouml;nnten mitunter sogar bis zur Privatinsolvenz f&uuml;hren auch sei man zum Teil bereits auch emotional an einer Belastungsgrenze.&nbsp;
 
-### **Rechtslage pr&uuml;fen und etwaige Anspr&uuml;che geltend machen**
+### **Rechtslage pr&uuml;fen lassen und etwaige Anspr&uuml;che geltend machen**
 
 Im Laufe der letzten Monate sind wieder vermehrt F&auml;lle aufgetreten, in denen sich Mandanten mit teils haarstr&auml;ubenden Geschichten ihrer Erlebnisse beim Immobilienerwerb an die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin wandten.&nbsp; Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, Experte f&uuml;r Immobilienrecht bei AdvoAdvice, f&uuml;hrt bereits seit vielen Jahren erfolgreich gerichtliche und au&szlig;ergerichtliche Mandate gegen Anbieter von Kapitalanlage-Immobilien und deren Vertriebsorganisationen. Mit seiner langj&auml;hrigen Erfahrung ber&auml;t Rechtsanwalt Klevenhagen gemeinsam mit seinem Team in der Berliner Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB seine Mandanten zielf&uuml;hrend und er&ouml;rtert mit ihnen die Erfolgsaussichten eines weiteren Vorgehens. Nicht immer liegen durchsetzbare Rechtsanspr&uuml;che vor und nicht immer ist ein langwieriges Gerichtsverfahren sinnvoll. Oftmals sind wirtschaftliche L&ouml;sungen m&ouml;glich. Wichtig ist aber dass man wei&szlig;, wo man rechtlich steht.
 
