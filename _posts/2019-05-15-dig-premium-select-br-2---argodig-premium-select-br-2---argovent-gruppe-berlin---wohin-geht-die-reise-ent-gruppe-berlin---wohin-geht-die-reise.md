@@ -26,7 +26,9 @@ topics:
 team_member: kim-oliver-klevenhagen
 ---
 
-Die ArgoVent Gruppe aus Berlin mit Ihren Fonds DIG Premium Select bR, DIG Premium Select bR 2 und DIG Special bR macht weiter von sich reden. Bekanntlich sollten mit den DIG Fonds Immobilien eingekauft werden. Die daf&uuml;r eingesammelten Gelder der Fondsanleger wurden mithilfe diverser Berater eingebracht. Empfohlen wurde oft, bestehende Lebensversicherungen aufzul&ouml;sen und die R&uuml;ckkaufswerte in DIG Fonds anzulegen. Aus informierten Kreisen wurde kolportiert, dass wohl angeblich lediglich 10 % der eingesammelten Gelder tats&auml;chlich in Immobilien investiert wurden. Anleger berichten auch, dass wohl Auszahlungen der Anteile nach erfolgter K&uuml;ndigung nicht erfolgt sind.
+![](/uploads/money-1005464-640-7.jpg)
+
+Die ArgoVent Gruppe aus Berlin mit Ihren Fonds DIG Premium Select bR, DIG Premium Select bR 2 und DIG Special bR macht weiter von sich reden. Bekanntlich sollten mit den DIG Fonds in u..a. in Immobilien investiert werden. Die daf&uuml;r eingesammelten Gelder der Fondsanleger wurden mithilfe diverser Berater und Vermittler eingebracht. Empfohlen wurde oft, bestehende Lebensversicherungen aufzul&ouml;sen und die R&uuml;ckkaufswerte in DIG Fonds anzulegen. Aus informierten Kreisen wurde kolportiert, dass wohl angeblich lediglich 10 % der eingesammelten Gelder tats&auml;chlich in Immobilien investiert wurden. Anleger berichten auch, dass wohl Auszahlungen der Anteile nach erfolgter K&uuml;ndigung nicht erfolgt sind.
 
 ### Einzahlungen und Auszahlungen
 
