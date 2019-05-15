@@ -7,7 +7,17 @@ seo_beschreibung: >-
 layout: post
 feature_bild_path:
 tags:
+  - Anleger
+  - Aktien
+  - Deutsche Öl und Gas S.A.
+  - US Öl und Gas Namensschuldverschreibung
+  - Kay Rieck
+  - Rücklage
+  - 31.05.2019
+  - Einzahlung
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
@@ -18,6 +28,8 @@ Es meldet sich f&uuml;r die Deutsche Oel & Gas S.A. der Vorsitzende des Verwaltu
 ### Deutsche &Ouml;l & Gas S.A. braucht Geld
 
 Die Gesellschaft braucht Geld. Konkret w&uuml;nscht sich Rieck von jedem Anleger, der seit 2015 wohl eher unfreiwillig Aktion&auml;r der Deutsche Oel & Gas S.A. geworden sein soll, eine Einzahlung in H&ouml;he von 1,20 Euro pro Aktienanteil.
+
+![Bohrinsel - Foto Pixabay](/uploads/oil-rig-2191711-640.jpg "Sunset auf Bohrinsel?")
 
 Begr&uuml;ndungen werden gleich mehrere geliefert:
 
@@ -37,6 +49,8 @@ Nun soll ECP bereit sein, sich zu einem Bruchteil des urspr&uuml;nglichen Umfina
 Hierzu m&ouml;chte die Deutsche &Ouml;l & Gas S.A. nunmehr Gelder von ihren Anlegern einsammeln und zwar 1,20 Euro pro Aktienanteil. Diese wurden &uuml;brigens im Jahr 2015 mit 13,50 Euro bewertet, so dass die Nachzahlung pro Anleger also in etwa bei 9% liegen d&uuml;rfte.
 
 Eingezahlt werden soll in die R&uuml;cklage der Deutsche &Ouml;l & Gas S.A. mit einem beigef&uuml;gten &Uuml;berweisungstr&auml;ger. Dies soll bis zum 31.05.2019 erfolgen.
+
+![Taschen leer - Foto Pixabay](/uploads/no-money-2070384-640-6.jpg "DOGSA wirbt um Einzahlung in Rücklage")
 
 Ein Genehmigungsverfahren f&uuml;r ein Finanzprodukt, also zum Beispiel eine Schuldverschreibung oder eine Unternehmensanleihe, w&uuml;rde nach Angaben von Herrn Rieck zu lange dauern. Er wirbt daher am Ende seiner Anlegerinformation ein letztes Mal um Vertrauen der Anleger, um sich zusammen zur&uuml;ckzuholen, was den Anlegern geh&ouml;rt.
 
