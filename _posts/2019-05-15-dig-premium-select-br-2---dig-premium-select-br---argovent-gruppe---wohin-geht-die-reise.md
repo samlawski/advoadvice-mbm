@@ -1,7 +1,7 @@
 ---
 title: >-
-  DIG Premium Select bR 2 - ArgoDIG Premium Select bR 2 - ArgoVent Gruppe Berlin
-  - Wohin geht die Reise? ent Gruppe Berlin - Wohin geht die Reise?
+  DIG Premium Select bR 2 - DIG Premium Select bR - ArgoVent Gruppe - Wohin geht
+  die Reise?
 date: 2019-05-15 00:00:00
 seo_beschreibung: DIG Premium Select bR 2 - ArgoVent Gruppe Berlin - Wohin geht die Reise?
 layout: post
