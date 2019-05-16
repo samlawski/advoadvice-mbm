@@ -38,7 +38,7 @@ Begr&uuml;ndungen werden gleich mehrere geliefert:
 * Daher notwendige Finanzierung der Mehrkosten &uuml;ber einen US-Private-Equity-Fonds, die Energy Capital Partners (ECP) aus New York.
 * Abtretung s&auml;mtlicher Ertr&auml;ge an die ECP anstatt Auszahlung der Ertr&auml;ge an die Anleger.
 * &Uuml;bernahme der Kontrolle &uuml;ber die operative T&auml;tigkeit im Cook Inlet durch ECP.
-* Dramatische Zeit- und Budget&uuml;berziehungen sowie Fehler durch ECP als Operator mit vollst&auml;ndiger Vereisung der Pipeline.
+* Dramatische Zeit- und Budget&uuml;berziehungen sowie Fehler durch ECP als Operator mit teilweise vollst&auml;ndiger Vereisung der Pipeline.
 
 ### Gelegenheit zum R&uuml;ckkauf soll genutzt werden
 
