@@ -62,14 +62,14 @@ Die Anlegerinformation ist ein sehr ungew&ouml;hnlicher Vorgang. Die Geschichte,
 
 Ob das einzahlte Kapital jemals wieder zur R&uuml;ckzahlung an die Anleger gelangt, garantiert diesen niemand. Eine Verpflichtung zur Einzahlung besteht im &uuml;brigen keineswegs.
 
-Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin r&auml;t daher den Anlegern vielmehr folgendes: "Zahlen Sie hier bitte keine weiteren Betr&auml;ge an die Deutsche &Ouml;l & Gas S.A. ein. Hierzu sind die Informationen f&uuml;r Sie als Anleger viel zu knapp bemessen. Zudem ist es sehr ungew&ouml;hnlich, dass die Gesellschaft hier meint, die Zeit sei zu knapp, um sich ein Finanzprodukt genehmigen zu lassen. Das kann als Argument nicht wirklich durchgreifen."
+Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin, r&auml;t daher den Anlegern vielmehr folgendes: "Zahlen Sie hier bitte keine weiteren Betr&auml;ge an die Deutsche &Ouml;l & Gas S.A. ein. Hierzu sind die Informationen f&uuml;r Sie als Anleger viel zu knapp bemessen. Zudem ist es sehr ungew&ouml;hnlich, dass die Gesellschaft hier meint, die Zeit sei zu knapp, um sich ein Finanzprodukt genehmigen zu lassen. Das kann als Argument nicht wirklich durchgreifen. Eine Zahlungspflicht haben Sie als Anleger sowieso nicht."
 
 ### Pr&uuml;fung der Umwandlung von Anlegergeldern in Aktien
 
-Der Experte r&auml;t vielmehr zur Pr&uuml;fung der Aktienumwandlung. Hierzu noch einmal Dr. Tintemann: "Es gibt Urteile des OLG Stuttgart in denen die Umwandlung der Anlagen der Anleger in Aktien als unwirksam bewertet wurde. Anleger haben daher einen Auszahlungsanspruch. Diesen allerdings nicht gegen die Deutsche &Ouml;L und Gas S.A., sondern gegen die ehemalige Komplament&auml;rin der Fondsgesellschaften. Zudem sah auch das OLG Celle eine Schadensersatzpflicht der Treuh&auml;nderin. Daher sollten betroffene Anleger ihre Anspr&uuml;che vone einem erfahrenen Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht &uuml;berpr&uuml;fen lassen."
+Der Experte r&auml;t vielmehr zur Pr&uuml;fung der Aktienumwandlung.
+
+Hierzu noch einmal Dr. Tintemann: "Es gibt Urteile des OLG Stuttgart in denen die Umwandlung der Anlagen der Anleger in Aktien als unwirksam bewertet wurde. Anleger haben daher nach dieser Entscheidung einen Auszahlungsanspruch. Diesen allerdings nicht gegen die Deutsche &Ouml;L und Gas S.A., sondern gegen die ehemalige Komplament&auml;rin der Fondsgesellschaften. Zudem sah auch das OLG Celle eine Schadensersatzpflicht der Treuh&auml;nderin durch die Abstimmung in der Hauptversammlung als gegeben an. Daher sollten betroffene Anleger ihre Anspr&uuml;che von einem erfahrenen Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht &uuml;berpr&uuml;fen lassen."
 
 Die Kanzlei AdvoAdvice hat bereits auf Vertragserf&uuml;llung und somit R&uuml;ckzahlung des Anlagebetrages zzgl. Zinsen Klage vor dem Landgericht Stuttgart eingereicht.
 
-Anleger, die eine kostenfreie Ersteinsch&auml;tzung w&uuml;nschen, wenden sich bei Interesse gerne an info@advoadvice.de oder rufen an unter 030 921 000 40.
-
-&nbsp;
+Anleger, die eine kostenfreie Ersteinsch&auml;tzung Ihrer rechtlichen Situation w&uuml;nschen, wenden sich bei Interesse gerne an info@advoadvice.de oder rufen an unter 030 921 000 40.
