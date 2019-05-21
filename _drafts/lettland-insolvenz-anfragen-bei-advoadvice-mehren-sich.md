@@ -21,7 +21,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Vor etwa einem Monat startete AdvoAdvice mit seinen Netzwerkpartnern in Riga ein Angebot der Durchf&uuml;hrung der Insolvenz in Riga / Lettland. Was ist seitdem geschehen?
+Vor etwa einem Monat startete AdvoAdvice mit seinen Netzwerkpartnern in Riga ein Angebot f&uuml;r die Insolvenz in Riga / Lettland. Was ist seitdem geschehen?
 
 ### Das Angebot
 
