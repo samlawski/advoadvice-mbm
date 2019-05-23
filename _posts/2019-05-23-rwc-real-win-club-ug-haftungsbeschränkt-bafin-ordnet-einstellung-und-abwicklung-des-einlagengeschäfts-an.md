@@ -30,7 +30,7 @@ team_member: kim-oliver-klevenhagen
 
 ![](/uploads/money-1005464-640-8.jpg)
 
-Das Bundesamt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) hat der RWC Real Win Club UG (haftungsbeschr&auml;nkt), angesiedelt in D&uuml;sseldorf, mit Bescheid vom 6. M&auml;rz 2019 aufgegeben, das ohne Erlaubnis betriebene Einlagengesch&auml;ft sofort einzustellen und die unerlaubt betriebenen Gesch&auml;fte abzuwickeln.
+Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) hat der RWC Real Win Club UG (haftungsbeschr&auml;nkt), angesiedelt in D&uuml;sseldorf, mit Bescheid vom 6. M&auml;rz 2019 aufgegeben, das ohne Erlaubnis betriebene Einlagengesch&auml;ft sofort einzustellen und die unerlaubt betriebenen Gesch&auml;fte abzuwickeln.
 
 Die RWC Real Win Club UG (haftungsbeschr&auml;nkt) hatte auf Grundlage von Vertr&auml;gen &uuml;ber partiarische Darlehen gewerbsm&auml;&szlig;ig Gelder angenommen, die unbedingt r&uuml;ckzahlbar waren, ohne dass der R&uuml;ckzahlungsanspruch in Inhaber- oder Orderschuldverschreibungen verbrieft war. Damit betreibt die RWC Real Win Club UG(haftungsbeschr&auml;nkt) das Einlagengesch&auml;ft nach &sect; 1 Absatz 1 Satz 2 Nr. 1 Kreditwesengesetz (KWG), ohne &uuml;ber die daf&uuml;r erforderliche Erlaubnis der BaFin zu verf&uuml;gen. Die Abwicklungsanordnung verpflichtet die RWC Real Win Club UG (haftungsbeschr&auml;nkt), die angenommenen Gelder unverz&uuml;glich zur&uuml;ckzuzahlen.Der Bescheid der BaFin ist von Gesetzes wegen sofort vollziehbar, jedoch noch nicht bestandskr&auml;ftig.
 
