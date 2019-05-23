@@ -1,7 +1,7 @@
 ---
 title: >-
-  RWC Real Win Club UG (haftungsbeschränkt): BaFin ordnet Einstellung und
-  Abwicklung des Einlagengeschäfts an
+  RWC Real Win Club UG (haftungsbeschränkt): Geld zurück an Anleger? BaFin
+  ordnet Einstellung und Abwicklung des Einlagengeschäfts an
 date: 2019-05-23 00:00:00
 seo_beschreibung: >-
   RWC Real Win Club UG (haftungsbeschränkt): BaFin ordnet Einstellung und
