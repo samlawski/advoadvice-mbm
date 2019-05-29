@@ -25,7 +25,7 @@ topics:
 team_member: kim-oliver-klevenhagen
 ---
 
-Die Rechtsanwaltskanzlei AdvoAdvice Rechtsanw&auml;lte Tintemann Klevenhagen mbB in Berlin konnte von einem Anwaltskollegen die Internet-Domains www.zehlendorfrechtsanwalt.de, www.zehlendorf-rechtsanwalt.de, www.zehlendorfanwalt.de und www.zehlendorf-anwalt.de &uuml;bernehmen.
+Die Rechtsanwaltskanzlei AdvoAdvice Rechtsanw&auml;lte Tintemann Klevenhagen mbB in Berlin konnte von einem Anwaltskollegen die Internet-Domains **www.zehlendorfrechtsanwalt.de, www.zehlendorf-rechtsanwalt.de, www.zehlendorfanwalt.de** und **www.zehlendorf-anwalt.de** &uuml;bernehmen.
 
 Die Domains helfen dabei, in konkretes Angebot im Internet f&uuml;r Ratsuchende aus dem Bereich Berlin Zehlendorf und Umgebung herzustellen.
 
