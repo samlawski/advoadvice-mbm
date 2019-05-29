@@ -33,6 +33,8 @@ Zun&auml;chst werden die Domais auf die bestehende Internetseite www.advoadvice.
 
 Rechtsanwalt Kim Oliver Klevenhagen, der die Domains f&uuml;r AdvoAdvice sichern k&ouml;nnte kommentiert die Entwicklung wie folgt: "Seit dem Umzug der Kanzlei AdvoAdvice vor etwa eineinhalb Jahren sind wir hier in Berlin Zehlendorf heimisch geworden und viele Anwohner und Firmen haben sich bereits bei uns gemeldet und sich erfreut &uuml;ber den Gesch&auml;ftssitz der Kanzlei in Zehlendorf direkt am S-Bahnhof ge&auml;u&szlig;ert. Daher ist es f&uuml;r uns eine hervorragende Erg&auml;nzung nun auch die Domains mit dem Bezug zu Zehlendorf bei einem freundlichen Kollegen erhalten zu haben."
 
+![Google Suche - Foto Pixabay](/uploads/bar-621033-1280.jpg "Neue Domains für AdvoAdvice gesichert"){: width="1280" height="850"}
+
 AdvoAdvice ist eine Kanzlei, die sich auf die folgenden Themengebiete spezialisiert hat:
 
 * Bank- und Kapitalmarktrecht
