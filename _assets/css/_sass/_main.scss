@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5 {
   color: #244c5a;
 }
 
+input[type=file] {
+  max-width: 100%;
+}
+
 .second-bg {
   background-color: #7ba7bc;
   color: #FFF;
