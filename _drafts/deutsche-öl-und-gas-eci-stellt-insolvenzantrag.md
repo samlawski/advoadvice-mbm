@@ -34,7 +34,7 @@ ECI Energy Capital Invest Beteiligungsgesellschaft hat nach eigenen Angaben im P
 
 Die Kanzlei AdvoAdvice aus Berlin hat f&uuml;r eine Berliner Anlegerin am 14.06.2019 einen Prozesserfolg in der ersten Instanz erzielt. Das Landgericht Stuttgart verurteilte die Energy Capital Invest Beteiligungsgesellschaft mbH (kurz ECI) zur Zahlung von 130.000 Euro.
 
-![](/uploads/justice-2071539-640-4.jpg){: width="640" height="480"}
+![Justitia - Foto Pixabay](/uploads/justice-2071539-640-4.jpg "Erfolg von AdvoAdvice vor dem LG Stuttgart"){: width="640" height="480"}
 
 Das Gericht sah hier keine Chance f&uuml;r eine Rechtsverteidigung bei der Beklagten ECI und k&uuml;ndigte in der m&uuml;ndlichen Verhandlung am 14.06.2019 an, noch am gleichen Tag &uuml;ber die Klage der Berliner Anlegerin auf R&uuml;ckzahlung ihrer Einlagesumme zu entscheiden.
 
@@ -46,7 +46,7 @@ Rechtsanwalt Dr. Sven Tintemann, der den Prozess vor dem LG Stuttgart gef&uuml;h
 
 &Uuml;berraschend wurde noch im Rahmen des laufenden Prozesses durch die Prozessbevollm&auml;chtigten der ECI mitgeteilt, dass diese am 12.06.2019 Antrag auf Eröffnung des Insolvenzverfahrens gestellt habe.
 
-![](/uploads/no-money-2070384-640-7.jpg){: width="640" height="360"}
+![Taschen leer - Foto Pixabay](/uploads/no-money-2070384-640-7.jpg "ECI stellt Insolvenzantrag"){: width="640" height="360"}
 
 Einem Antrag auf Aussetzung des Verfahrens vor dem LG Stuttgart gab dieses jedoch nicht statt.
 
