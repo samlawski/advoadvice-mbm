@@ -52,6 +52,21 @@ Einem Antrag auf Aussetzung des Verfahrens vor dem LG Stuttgart gab dieses jedoc
 
 Rechtsanwalt Dr. Sven Tintemann kommentiert die Mitteilung der ECI wie folgt: "Der Insolvenzantrag kommt hier schon etwas &uuml;berraschend, da bisher &uuml;ber eine Revision der ECI vor dem Bundesgerichtshof nach unserer Kenntnis noch nicht entschieden worden war. Es wird nun Sache des Insolvenzgerichts und eines&nbsp; noch zu bestellenden Gutachters / Insolvenzverwalters sein, hier zu pr&uuml;fen, ob noch Gelder f&uuml;r betroffene Anleger gesichert bzw. zur&uuml;ckgefordert werden können."
 
+Die ECI Energy Capital Invest Beteiligungsgesellschaft mbH war Komplemant&auml;rin und damit Vollhafterin der folgenden Anlagegesellschaften:
+
+* US Öl und Gas Namensschuldverschreibung 1 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 2 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 3 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 4 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 5 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 6 GmbH & Co. KG
+* US Öl und Gas Namensschuldverschreibung 7 GmbH & Co. KG
+* US Öl- und Gasfonds XI KG
+* US Öl- und Gasfonds XIII KG
+* US Öl- und Gasfonds XIV KG
+* US Öl- und Gasfonds XV KG
+* US Öl- und Gasfonds XVII KG
+
 ### Unser Tipp
 
 Anleger, die ihr Geld bei den Firmen der US Öl und Gas Unternehmensgruppe angelegt haben und nun Aktien der Deutsche Öl und Gas S.A. erhalten haben, sollten durch einen Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht ihre Anspr&uuml;che auf Schadensersatz oder R&uuml;ckzahlung pr&uuml;fen lassen.
