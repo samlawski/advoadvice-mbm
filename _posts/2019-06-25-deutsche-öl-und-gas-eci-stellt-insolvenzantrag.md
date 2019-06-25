@@ -1,6 +1,6 @@
 ---
 title: 'Deutsche Öl und Gas: ECI stellt Insolvenzantrag'
-date: 2019-06-17 00:00:00
+date: 2019-06-25 00:00:00
 seo_beschreibung: >-
   Deutsche Öl und Gas: ECI Energy Capital Invest Beteiligungsgesellschaft mbH
   stellt Insolvenzantrag
@@ -32,7 +32,7 @@ ECI Energy Capital Invest Beteiligungsgesellschaft hat nach eigenen Angaben im P
 
 ### Prozesserfolg f&uuml;r AdvoAdvice vor dem Landgericht Stuttgart
 
-Die Kanzlei AdvoAdvice aus Berlin hat f&uuml;r eine Berliner Anlegerin am 14.06.2019 einen Prozesserfolg in der ersten Instanz erzielt. Das Landgericht Stuttgart verurteilte die Energy Capital Invest Beteiligungsgesellschaft mbH (kurz ECI) zur Zahlung von 130.000 Euro.
+Die Kanzlei AdvoAdvice aus Berlin hat f&uuml;r eine Berliner Anlegerin am 14.06.2019 einen Prozesserfolg in der ersten Instanz erzielt. Das Landgericht Stuttgart verurteilte die Energy Capital Invest Beteiligungsgesellschaft mbH (kurz ECI) zur Zahlung von 130.000 Euro zzgl. Zinsen.
 
 ![Justitia - Foto Pixabay](/uploads/justice-2071539-640-4.jpg "Erfolg von AdvoAdvice vor dem LG Stuttgart"){: width="640" height="480"}
 
@@ -66,6 +66,18 @@ Die ECI Energy Capital Invest Beteiligungsgesellschaft mbH war Komplemant&auml;r
 * US Öl- und Gasfonds XIV KG
 * US Öl- und Gasfonds XV KG
 * US Öl- und Gasfonds XVII KG
+
+### Update - weiterer Bettelbrief
+
+Mittlerweile ist ein weiterer Bettelbrief vom 07.06.2019 der Deutsche Öl & Gas S.A. an die Anleger versandt worden. Hierin wird behauptet, dass es der Gesellschaft in der Zwischenzeit gelungen sei, &uuml;ber 6 Mio Euro von &uuml;ber 1.000 Aktion&auml;ren einzusammeln. Beweise hierf&uuml;r oder eine Abrechnung gibt es nat&uuml;rlich nicht.
+
+Als Ziel gibt die Gesellschaft bekannt, insgesamt 12 - 20 Mio Euro einsammeln zu wollen, um dann mit dem US private Euity Fonds namens Energy Capital Partners in New York, liebevoll als Heuschrecke bezeichnet, &uuml;ber den R&uuml;ckerwerb der als Sicherheit abgetretenen Plattform, der Doppelpipeline, einer bereits produzierenden Landverarbeitungsanlage und der Ertr&auml;ge aus der Produktion zu verhandeln.
+
+Hierzu wird angegeben, dass die Infrastruktur bereits 200 Mio US Dollar gekostet habe und dass die Nettoeinnahmen aus der Gasförderung nach Abzug s&auml;mtlicher Kosten in 2019 mindestens 19,5 Mio USD und ab 2020 mindestens 40 Mio USD betragen w&uuml;rden.
+
+Dies alles soll die Heuschrecke aus Angst vor Schadensersatzprozessen aufgrund einer zwischenzeitig angeblich vereisten Pipeline angeblich f&uuml;r einen Betrag zwischen 30 und 50 Mio Euro aufzugeben bereit sein.
+
+Rechtsanwalt Dr. Sven Tintemann kommentiert dies wie folgt: "Die hier vorgelegten Zahlen darf man sicherlich als Milchm&auml;dchenrechnung bezeichnen. Welcher Investor ist schon bereits, Sicherungseigentum f&uuml;r 15 - 25% des Wertes aufzugeben? Von den Ertr&auml;gen, die in der Zukunft angeblich erwartet werden, gar nicht zu sprechen. Die Sache mit der R&uuml;ckholaktion scheint hier sehr konstruiert zu sein, um noch einmal an Anlegergelder zu gelangen. Fakt ist nach eigenen Angaben der Gesellschaft, dass diese Schulden in Höhe von mehr als 250 Mio USD erlassen bekommen möchte, also sehr hoch verschuldet ist."
 
 ### Unser Tipp
 
