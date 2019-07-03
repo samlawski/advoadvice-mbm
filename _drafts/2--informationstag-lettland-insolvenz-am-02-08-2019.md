@@ -11,3 +11,17 @@ team_member: dr-sven-tintemann
 ---
 
 Am 02.08.2019 findet der 2. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt.
+
+Die Kanzlei AdvoAdvice aus Berlin
+
+### 1\.) Persönliche Beratung vor Ort
+
+&nbsp;
+
+### 2\.) Telefonische Beratung in einer Telefonkonferenz
+
+&nbsp;
+
+### 3\.) Kl&auml;rung spezieller Fragen möglich
+
+&nbsp;
