@@ -27,6 +27,8 @@ Am 02.08.2019 findet der 2. Informationstag zur Lettland Insolvenz in Berlin in 
 
 Die Kanzlei AdvoAdvice aus Berlin bietet seit einigen Monaten die Insolvenz in Lettland in Zusammenarbeit mit starken lokalen Partnern vor Ort in Riga an. Schon mehrere Betroffene haben sich f&uuml;r einen Weg nach Riga und das dortige Insolvenzverfahren entschieden. Vielleicht ist dieser Weg auch etwas f&uuml;r Sie.
 
+![](/uploads/latvia-2131273-1280-2.jpg){: width="1280" height="960"}
+
 ### 1\.) Persönliche Beratung vor Ort
 
 Auch bei dem zweiten Informationstag steht Ihnen in den R&auml;umen der Kanzlei AdvoAdvice in Berlin wieder Dr. Sven Tintemann gemeinsam mit einem Vertreter der Firma Berger Consulting SIA (www.bergerconsulting.lv) f&uuml;r eine persönliche Beratung zur Verf&uuml;gung.
