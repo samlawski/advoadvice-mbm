@@ -46,7 +46,7 @@ Anleger, die ihre Anlage bereits zum 31.12.2016 beendet haben, sollten daher zei
 
 ### Sachstand zu Klageverfahren
 
-Die Kanzlei AdvoAdvice hat unterdessen schon 17 Klagen gegen die CT Infrastructure Holding Ltd. eingereicht.&nbsp; Weitere Klagen f&uuml;r rechtsschutzversicherte Mandanten sind bereits in Vorbereitung, so dass mit mindestens 30 Klagen insgesamt zu rechnen sein d&uuml;rfte, die f&uuml;r Anleger eingereicht werden, die von AdvoAdvice vertreten werden. Die entspricht einer Quote von etwa 1/4 der Anleger
+Die Kanzlei AdvoAdvice hat unterdessen schon 17 Klagen gegen die CT Infrastructure Holding Ltd. eingereicht.&nbsp; Weitere Klagen f&uuml;r rechtsschutzversicherte Mandanten sind bereits in Vorbereitung, so dass mit mindestens 30 Klagen insgesamt zu rechnen sein d&uuml;rfte, die f&uuml;r Anleger eingereicht werden, die von AdvoAdvice vertreten werden. Die entspricht einer Quote von etwa 1/4 der Anleger.
 
 &nbsp;
 
