@@ -60,6 +60,4 @@ Notieren Sie sich gerne spezielle Fragen. Wir sprechen in jedem Fall &uuml;ber:
 
 ### Jetzt Termin sichern
 
-Vereinbaren Sie daher noch heute Ihren persönlichen Beratungstermin in Berlin am 21.06.2019 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
-
-Sollten Sie lieber einen Telefontermin mit Rechtsanwalt Dr. Sven Tintemann oder der Firma Berger Consulting w&uuml;nschen, da Sie nicht persönlich am 21.06. nach Berlin anreisen können, stehen wir Ihnen ebenfalls gerne telefonisch zur Verf&uuml;gung.
+Vereinbaren Sie daher noch heute Ihren persönlichen Beratungstermin in Berlin am 02.08.2019 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
