@@ -22,7 +22,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Das Handelsblatt berichtet &uuml;ber die Thomas Lloyd Gruppe in einem aktuellen Beitrag vom 09.07.2019 &uuml;ber die Thomas Lloyd Gruppe und Anlagen bei der DKM GOF 1 GmbH und der Thomas Lloyd Investments GmbH (Österreich).
+Das Handelsblatt berichtet in einem aktuellen Beitrag vom 09.07.2019 &uuml;ber die Thomas Lloyd Gruppe und Anlagen bei der DKM GOF 1 GmbH und der Thomas Lloyd Investments GmbH (Österreich).
 
 Unser Experte Dr. Sven Tintemann und ein Mandant der Kanzlei AdvoAdvice wurden f&uuml;r den Beitrag interviewt.
 
@@ -30,8 +30,8 @@ Unser Experte Dr. Sven Tintemann und ein Mandant der Kanzlei AdvoAdvice wurden f
 
 Den kompletten Beitrag finden Sie in der Printausgabe oder online unter www.handelsblatt.de.
 
-AdvoAdvice vertritt momentan mehr als 130 Anlegerinnen und Anleger der Thomas Lloyd, die ihr Geld in vinkulierte Namens-Genussrechte der Thomas Lloyd Investments GmbH oder der DKM Global Opportunities Fonds angelegt haben. Die Kanzlei hat bereits 21 Klagen vor verschiedenen Gerichten deutschlandweit eingereicht, um f&uuml;r die Anleger Auszahlungen nach K&uuml;ndigung der Anlagen zu erstreiten.
+AdvoAdvice vertritt momentan mehr als 130 Anlegerinnen und Anleger der Thomas Lloyd, die ihr Geld in vinkulierte Namens-Genussrechte der Thomas Lloyd Investments GmbH oder der DKM Global Opportunities Fonds angelegt haben. Die Kanzlei hat bereits 21 Klagen vor verschiedenen Gerichten deutschlandweit eingereicht, um f&uuml;r die Anleger Auszahlungen nach K&uuml;ndigung der Anlagen zu erstreiten. Weitere 14 Klagen sind bereits von Rechtsschutzversicherungen unter Deckungsschutz gestellt worden und werden vorbereitet.
 
-Die Verfahren laufen noch. Ein Verfahren vor dem Landgericht Wiesbaden wurde, wie das Handelsblatt ebenfalls berichtet, auf Ende August 2019 terminiert.
+Ein Verfahren vor dem Landgericht Wiesbaden wurde, wie das Handelsblatt ebenfalls berichtet, auf den 27. August 2019 terminiert.
 
 &nbsp;
