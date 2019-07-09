@@ -32,6 +32,6 @@ Den kompletten Beitrag finden Sie in der Printausgabe oder online unter [www.han
 
 AdvoAdvice vertritt momentan mehr als 130 Anlegerinnen und Anleger der Thomas Lloyd, die ihr Geld in vinkulierte Namens-Genussrechte der Thomas Lloyd Investments GmbH oder der DKM Global Opportunities Fonds angelegt haben. Die Kanzlei hat bereits 21 Klagen vor verschiedenen Gerichten deutschlandweit eingereicht, um f&uuml;r die Anleger Auszahlungen nach K&uuml;ndigung der Anlagen zu erstreiten. Weitere 14 Klagen sind bereits von Rechtsschutzversicherungen unter Deckungsschutz gestellt worden und werden vorbereitet.
 
-Ein Verfahren vor dem Landgericht Wiesbaden wurde, wie das Handelsblatt ebenfalls berichtet, auf den 27. August 2019 terminiert.
+Ein Verfahren von AdvoAdvice vor dem Landgericht Wiesbaden wurde, wie das Handelsblatt ebenfalls berichtet, auf den 27. August 2019 terminiert.
 
 &nbsp;
