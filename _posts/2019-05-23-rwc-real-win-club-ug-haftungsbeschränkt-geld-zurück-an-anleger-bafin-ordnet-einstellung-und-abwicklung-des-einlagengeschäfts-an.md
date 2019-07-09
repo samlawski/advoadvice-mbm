@@ -7,7 +7,7 @@ seo_beschreibung: >-
   RWC Real Win Club UG (haftungsbeschränkt): BaFin ordnet Einstellung und
   Abwicklung des Einlagengeschäfts an
 layout: post
-feature_bild_path: /uploads/money-1005464-640-8.jpg
+feature_bild_path:
 tags:
   - RWC UG
   - RWC Real Win Club UG
@@ -40,13 +40,13 @@ Zu beachten ist aber, dass der von der BaFin gegen&uuml;ber der RWC UG erteilte 
 
 Kurz gesagt ist nun aber die RWC UG nach dem existierenden Bescheid der BaFin zun&auml;chst verpflichtet, allen Anlegern die von diesen eingezahlten Gelder zur&uuml;ck zu zahlen.
 
-Die Frage stellt sich nat&uuml;rlich was passiert, wenn die von der BaFin geforderten R&uuml;ckzahlungen an die Geldgeber nicht von der RWC Real Win Club UG &nbsp;geleistet werden (k&ouml;nnen). Was passiert dann mit der Gesellschaft? An wen k&ouml;nnen sich Geldgeber und Anleger, di Verluste erlitten haben wenden?
+Die Frage stellt sich nat&uuml;rlich was passiert, wenn die von der BaFin geforderten R&uuml;ckzahlungen an die Geldgeber nicht von der RWC Real Win Club UG &nbsp;geleistet werden (können). Was passiert dann mit der Gesellschaft? An wen können sich Geldgeber und Anleger, di Verluste erlitten haben wenden?
 
-Die Fachanw&auml;lte der Kanzlei AdvoAdvice mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Verm&ouml;gensanlagen.&nbsp;
+Die Fachanw&auml;lte der Kanzlei AdvoAdvice mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
 
-Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
-Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
 Weitere Informationen finden Sie auch in unserem&nbsp;[**Themenbereich Bank- und Kapitalmarktrecht.**](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/)
 
