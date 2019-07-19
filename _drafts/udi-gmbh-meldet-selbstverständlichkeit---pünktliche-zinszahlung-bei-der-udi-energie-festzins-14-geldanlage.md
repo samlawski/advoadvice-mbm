@@ -30,6 +30,8 @@ In der Pressemitteilung wird auch mitgeteilt, dass, "um eine höhere Transparenz
 
 Eine Transparenz ist sicherlich erstrebenswert, gibt dies den Anliegern doch die Möglichkeit, sich &uuml;ber die Mittelverwendung und die Rentabilit&auml;t noch genauere Erkenntnisse zu verschaffen.
 
+### BaFin Meldungen am 12.06.19
+
 Mit vier Meldungen am 12.6.2019 hatte die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) bez&uuml;glich der UDI Gesellschaften UDI Sprint Festzins IV GmbH & Co. KG, UDI Energie Festzins 12 GmbH & Co. KG, UDI Energie Festzins 11 GmbH & Co. KG sowie UDI Energie Festzins 10 GmbH & Co. KG auf einen möglichen Ausfall von Forderungen hingewiesen und damit eine Veröffentlichung der genannten Gesellschaften gem&auml;&szlig; &sect; 11a Abs. 1 Vermögensanlagegesetz (VermAnlG) bekannt gemacht.
 
 Die BaFin hatte in ihren Meldungen vom 12.6.2019 darauf hingewiesen, dass die Gefahr best&uuml;nde, dass bedingt durch die Nachrangigkeit der von den in den Meldungen genannten Emittenten-Gesellschaften gegen die Projektgesellschaften bestehende Forderungen es hinsichtlich der bestehenden Zins und R&uuml;ckzahlungsanspr&uuml;che zu einem Forderungsausfall kommen könnte. Damit sei nach Ansicht der BaFin auch die Liquidit&auml;t der genannten Gesellschaften gef&auml;hrdet. AdvoAdvice Rechtsanw&auml;lte berichtete bereits dar&uuml;ber (&nbsp;[https://advoadvice.de/blog/udi-sprint-festzins-iv-festzins-121110-gmbh-co-kg-bafin-gibt-hinweis-auf-m%C3%B6glichen-ausfall-von-zinszahlungen-und-forderungen/](https://advoadvice.de/blog/udi-sprint-festzins-iv-festzins-121110-gmbh-co-kg-bafin-gibt-hinweis-auf-m%C3%B6glichen-ausfall-von-zinszahlungen-und-forderungen/)&nbsp;)
