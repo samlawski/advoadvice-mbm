@@ -26,6 +26,8 @@ Die Vexcash AG ist ein in Berlin ans&auml;ssiger Anbieter f&uuml;r sog. Kurzzeit
 
 Ein Hamburger Mandant der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB sah sich k&uuml;rzlich mit einem negativen SCHUFA-Eintrag nach Ablauf der Kreditzeit konfrontiert. Nach Ablauf der 30 Tage wurde dem Betroffenen angek&uuml;ndigt, dass der Kredit gek&uuml;ndigt werden w&uuml;rde. Die tats&auml;chliche K&uuml;ndigung ging dem Betroffenen dann nicht mehr zu, da er zwischenzeitig ins Ausland verzogen war.&nbsp;
 
+![Sorgen durch Schufa Eintrag - Foto Pixabay](/uploads/man-1574124-640-1.jpg "Schufa Eintrag durch Vexcash widerrufen"){: width="640" height="426"}
+
 Es folgte dennoch ein Negativeintrag bei der Schufa Holding AG durch die Vexcash AG.
 
 ### Schnelle Hilfe durch au&szlig;ergerichtliche Einigung
