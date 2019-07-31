@@ -38,28 +38,28 @@ Aufgrund der Schnelligkeit und Schuldnerfreundlichkeit des Insolvenzverfahrens b
 
 Dies verlangt von Ihnen allerdings etwas mehr Flexibilit&auml;t, da sie f&uuml;r die Insolvenz in Riga ihren Lebensmittelpunkt (englisch "center of main interests" - kurz COMI)&nbsp; f&uuml;r mindestens ein halbes Jahr nach Lettland verlegen und dort als Steuerzahler registriert sein m&uuml;ssen.
 
-Hierbei hilft ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice ein lokaler Anbieter in Riga vor Ort, welcher direkten Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht hat. Die Ansprechpartner vor Ort stehen ihnen dann f&uuml;r alle Antr&auml;ge und beh&ouml;rdlichen Angelegenheiten zur Verf&uuml;gung.
+Hierbei hilft ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice ein lokaler Anbieter in Riga vor Ort, welcher direkten Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht hat. Die Ansprechpartner vor Ort stehen ihnen dann f&uuml;r alle Antr&auml;ge und behördlichen Angelegenheiten zur Verf&uuml;gung.
 
 Der Umfang des Angebotes umfasst:
 
-* Komplette Betreuung in deutsch von A bis
+* Komplette Betreuung in deutsch von A bis Z
 * Durchf&uuml;hrung der Insolvenz und aller juristischer Belange durch einen lettischen Rechtsanwalt
 * Hilfe bei der Wohnungssuche vor Ort
 * Hilfe bei der Jobsuche und der Taxpayer Registration vor Ort
 * Permanenter Ansprechpartner in deutsch vor Ort f&uuml;r R&uuml;ckfragen&nbsp;
 * Kundenbetreuung in deutsch bei vorbereitenden Besuchen in Lettland vor Ort
 * Durchsetzung der Restschuldbefreiung in Deutschland
-* Herausfordern von Titeln nach Restschuldbefreiung und Erledigung von Schufa-Eintragen bzw. deren L&ouml;schung
+* Herausfordern von Titeln nach Restschuldbefreiung und Erledigung von Schufa-Eintr&auml;gen bzw. deren Löschung
 
 ### Lettland bietet Restschuldbefreiung innerhalb der Europ&auml;ischen Union
 
 ![Lettland - Foto Pixabay](/uploads/latvia-1758828-640.png "Insolvenz in Lettland - Attraktiver Partner in der EU für schnelle Restschuldbefreiung")
 
-Da Lettland, anders als wohl bald Gro&szlig;brittanien Teil der EU ist und auch bleiben wird, k&ouml;nnen alle EU-B&uuml;rger hier ihren Wohnsitz nehmen und dort dann auch einen Insolvenzantrag stellen.
+Da Lettland, anders als wohl bald Gro&szlig;brittanien Teil der EU ist und auch bleiben wird, können alle EU-B&uuml;rger hier ihren Wohnsitz nehmen und dort dann auch einen Insolvenzantrag stellen.
 
 Die Erteilung der Restschuldbefreiung erfolg bereits nach kurzer Zeit, sollte aber in der Regel sp&auml;testens nach 12 Monate erfolgen.
 
-F&uuml;r den Schuldner ist die Insolvenzantragstellung in Lettland eher einfach. Es handelt sich um ein schriftliches Verfahren und es ist keine aufw&auml;ndige Beweisf&uuml;hrung vor einem Gericht n&ouml;tig.
+F&uuml;r den Schuldner ist die Insolvenzantragstellung in Lettland eher einfach. Es handelt sich um ein schriftliches Verfahren und es ist keine aufw&auml;ndige Beweisf&uuml;hrung vor einem Gericht nötig.
 
 F&uuml;r ihre Gl&auml;ubiger ist das Geltendmachen von Forderung innerhalb der Insolvenz in Lettland eher schwierig, da teils hohe Kosten f&uuml;r &Uuml;bersetzung und Anmeldung der Forderung entstehen. Dies macht insbesondere eine Verfolgung kleinerer Forderungen durch ihre Gl&auml;ubiger sehr unattraktiv und auch unwirtschaftlich.
 
@@ -71,8 +71,8 @@ Die Restschuldbefreiung muss ins Deutsche &uuml;bersetzt werden und wird dann au
 
 ### Angebote zu attraktiven Konditionen
 
-AdvoAdvice bietet in Zusammenarbeit mit einem Partner vor Ort und einer lettischen Rechtsanwaltskanzlei die Riga-Insolvenz in Lettland f&uuml;r flexible Personen mit Schulden an, die diese schnell loswerden m&ouml;chten.
+AdvoAdvice bietet in Zusammenarbeit mit einem Partner vor Ort und einer lettischen Rechtsanwaltskanzlei die Riga-Insolvenz in Lettland f&uuml;r flexible Personen mit Schulden an, die diese schnell loswerden möchten.
 
 Ein Kennen der Landessprache oder eine Erwerbst&auml;tigkeit vor Ort sind bei Antragstellung und f&uuml;r den Beginn der Vorbereitung ihrer Insolvenz in Lettland nicht notwendig.
 
-Rufen sie uns gerne unter 030 921 000 40 an oder schicken sie eine Email nach info@advoadvice.de, damit wir ihnen ein f&uuml;r sie auf ihre konkrete Lebenssituation passendes Angebot gemeinsam mit unseren Partnern unterbreiten k&ouml;nnen.
+Rufen sie uns gerne unter 030 921 000 40 an oder schicken sie eine Email nach info@advoadvice.de, damit wir ihnen ein f&uuml;r sie auf ihre konkrete Lebenssituation passendes Angebot gemeinsam mit unseren Partnern unterbreiten können.
