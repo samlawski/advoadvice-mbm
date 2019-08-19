@@ -1,17 +1,30 @@
 ---
 title: 'Deutsche Öl und Gas: Tochtergesellschaft stellt Insolvenzanträge in den USA'
 date: 2019-08-19 00:00:00
-seo_beschreibung:
+seo_beschreibung: Deutsche ÖL und Gas S.A. - Insolvenzanträge von drei LLC in den USA
 layout: post
 feature_bild_path:
 tags:
+  - Deutsche Öl und Gas S.A.
+  - Furie Operationg Alaska LLC
+  - Chapter 11
+  - ECP
+  - Eigenkapital
+  - Anleger
+  - Fachanwalt
+  - Dr. Sven Tintemann
+  - AdvoAdvice
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
 ### Deutsche Öl und S.A. informiert Anleger &uuml;ber Insolvenzantrag der DOGSA Tochter Furie Operating Alaska, LLC. und geplanten Verkauf
 
 In einem Newsletter vom 13.08.2019 informiert die Deutsche Öl und Gas S.A. ihre Anleger dar&uuml;ber, dass der vom amerikanischen Mezzanine-Kapital-Geber Energy Capital Partners (ECP) eingesetzte Interims Chief Operating Officer Scott&nbsp; P., angeblich auf Weisung von ECP, am 9. August 2019 f&uuml;r die Furie Operating Alaska, LLC sowie deren Muttergesellschaft Cornucopia Oil & Gas Company, LLC und ihrer Tochter Corsair Oil & Gas, LLC beim Insolvenzgericht des Bezirks Delaware einen Antrag auf Erleichterung nach Chapter 11 eingereicht hat.
+
+![Sonnenuntergang mit Bohrinsel - Pixabay](/uploads/oil-rig-2191711-640-1.jpg "Gehen bei Bohrfirmen in Alaska bald die Lichter aus?"){: width="640" height="426"}
 
 Chapter 11 sei ein Sanierungsverfahren unter gerichtlicher Aufsicht. Dabei h&auml;tte der Erhalt des Unternehmens oberste Priorit&auml;t, so die Information der Deutsche Öl un Gas S.A.
 
@@ -29,4 +42,6 @@ Sobald die Deutsche Öl und Gas S.A. 15 Mio. EUR Eigenkapital aufbringe, w&uuml;
 
 Es fehlen wohl noch 4,4 Mio. Euro an Anlegergeldern. Daher erfolgt ein erneuter Aufruf zur Einzahlung von weiterem Kapital. Bis heute seien bereits 10,6 Mio. EUR auf das separierte R&uuml;cklagenkonto eingezahlt worden.
 
-&nbsp;
+Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei der Kanzlei AdvoAdvice in Berlin sieht die Information skeptisch und mahnt Anleger zur Vorsicht: "Hier wird mitgeteilt, dass in den USA gerade drei Gesellschaften ein Sanierungsverfahren eingeleitet haben. Dieses hat das Ziel die Gesellschaft zu retten. Dies geschieht, indem die Gl&auml;ubiger ausgebremst werden, mit dem Ziel, dass das Unternehmen weitergef&uuml;hrt werden kann. Die hier angedeuteten Verk&auml;ufe von allen Vermögenswerten betreffen eher ein Liquidationsverfahren nach Chapter 7 des US bankruptcy codes. Die Aussagen passen daher nicht zusammen. Auch ist fraglich, ob nach Antragstellung das angebliche R&uuml;ckkaufsangebot &uuml;berhaupt noch durchgef&uuml;hrt werden kann. &nbsp;Auch ist fraglich, warum dies nach Verfahrenseröffnung nicht mehr durchf&uuml;hrbar sein soll. Viele Fragen also, die nicht gerade dazu beitragen, weitere Anleger zu Zahlungen in den Kapitalstock der Deutsche Öl und Gas S.A. zu veranlassen."
+
+Anleger, die ihr Geld bei der Deutsche Öl und Gas S.A. oder deren Tochtergesellschaft(en) angelegt haben, sollten sich kompetente anwaltliche Hilfe zur Beurteilung der momentanen Situation und der weiteren Handlungsmöglichkeiten suchen. AdvoAdvice vertritt Anleger und hat eine Anlegergemeinschaft zur B&uuml;ndelung der Anlegerinteressen ins Leben gerufen. Weitere Informationen hierzu erhalten Sie unter info@advoadvice.de oder unter 030 921 000 40.&nbsp;
