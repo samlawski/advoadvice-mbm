@@ -8,6 +8,13 @@ tags:
   - Zivilrecht
   - Anwaltshaftung
   - Widerruf
+  - Darlehen
+  - Feststellungsantrag
+  - Leistungsantrag
+  - Anwaltsfehler
+  - falscher Antrag
+  - Landgericht Münster
+  - Schadensersatz
   - Vergleich
 topics:
   - bank-und-kapitalmarktrecht
