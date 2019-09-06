@@ -11,13 +11,21 @@ topics:
 team_member: kim-Oliver-Klevenhagen
 ---
 
-Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, der BILD-Zeitung und weiterem Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am Mittwoch dieser Woche, dem 04.09.2019, die Gesch&auml;ftsr&auml;ume der PIM Gold und Scheideanstalt GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern.
+Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, der BILD-Zeitung und weiterem Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am Mittwoch dieser Woche, dem 04.09.2019, die Gesch&auml;ftsr&auml;ume der PIM Gold und Scheideanstalt GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern. Auch soll der Gesch&auml;ftsf&uuml;hrer des Unternehmens in Untersuchungshaft genommen worden sein.
 
-Zwar wurde von Seiten der PIM Gold und Scheideanstalt in der Vergangenheit verlautbart, man sei sehr sicher, dass das Ermittlungsverfahren bald eingestellt werde und s&auml;mtliche Vorw&uuml;rfe im Sand verlaufen w&uuml;rden. Dies scheint sich nunmehr jedoch nicht zu bewahrheiten, da das Ermittlungsverfahren nach Angaben der Staatsanwaltschaft weiterhin andauert und sich durch die Durchsuchung konkretisiert hat.
+Hintergrund der der Razzia der Staatsanwaltschaft ist wohl ein seit l&auml;ngerem laufendes Ermittlungsverfahren der Staatsanwaltschaft Darmstadt, welches unter anderem aufgrund einer Strafanzeige eines ehemaligen Mitarbeiters ins Laufen kam.
 
-Staatsanwaltschaft Darmstadt sichert Vermögenswerte bei der PIM Gold und Scheideanstalt GmbH
+Der verantwortliche Staatsanwalt teilte nach einem Bericht der BILD Zeitung mit, dass Vorw&uuml;rfe untersucht w&uuml;rden unter anderem darauf lauten, dass die PIM Gold und Scheideanstalt GmbH ihren Kunden Gold als Sicherheit f&uuml;r ihre Anlagen benannt habe, welches diese gar nicht besessen haben soll.
 
-Laut Auskunft der Staatsanwaltschaft wurden im Rahmen der Durchsuchungsma&szlig;nahme von der Staatsanwaltschaft auch diverse Vermögenswerte der PIM Gold und Scheideanstalt GmbH und der verantwortlichen Personen gesichert.
+F&uuml;r Anleger der PIM Gold stellt stellt sich bei diesen Vorw&uuml;rfen die Frage, ob ihre Einlagen denn ausreichend abgesichert sind und ob tats&auml;chlich Gold in ausreichendem Gegenwert f&uuml;r Geldanlagen vorhanden ist.
+
+Im Rahmen eines Ermittlungsverfahrens gilt f&uuml;r jeden Beschuldigten selbstverst&auml;ndlich die Unschuldsvermutung und ein strafrechtlicher Vorwurf kann sich nach einem Anfangsverdacht auch in Luft auflösen, weil ein strafbares Handeln sich sp&auml;ter nicht best&auml;tigt hat.
+
+Allerdings können die Folgen eines Ermittlungsverfahrens und die mediale Au&szlig;enwirkung auch die Reputation des Unternehmens und das Vertrauen der Anleger dauerhaft besch&auml;digen. So kann ein Schaden bei Anlegern nicht nur bei Unregelm&auml;&szlig;igkeit&nbsp;&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Sollten diese Vermögenswerte im Verlauf eines etwaigen Strafverfahrens eingezogen werden, könnten gesch&auml;digte Anleger zu gegebener Zeit bei der Staatsanwaltschaft Anspr&uuml;che auf Auskehrung des Verwertungserlöses aus diesen Vermögenswerten geltend machen, um auf diese Weise ihren Schaden, bzw. ihren Verlust im Zusammenhang mit Goldk&auml;ufen bei der PIM Gold und Scheideanstalt zumindest zu reduzieren.
 
