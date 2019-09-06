@@ -3,19 +3,15 @@ title: >-
   PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
   Vermögenswerte sicher
 date:
-seo_beschreibung:
+seo_beschreibung: ENTWURF
 layout: post
 feature_bild_path:
 tags:
 topics:
-team_member: dr-sven-tintemann
+team_member: kim-Oliver-Klevenhagen
 ---
 
 Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, der BILD-Zeitung und weiterem Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am Mittwoch dieser Woche, dem 04.09.2019, die Gesch&auml;ftsr&auml;ume der PIM Gold und Scheideanstalt GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern.
-
-&nbsp;
-
-&nbsp;
 
 Zwar wurde von Seiten der PIM Gold und Scheideanstalt in der Vergangenheit verlautbart, man sei sehr sicher, dass das Ermittlungsverfahren bald eingestellt werde und s&auml;mtliche Vorw&uuml;rfe im Sand verlaufen w&uuml;rden. Dies scheint sich nunmehr jedoch nicht zu bewahrheiten, da das Ermittlungsverfahren nach Angaben der Staatsanwaltschaft weiterhin andauert und sich durch die Durchsuchung konkretisiert hat.
 
