@@ -39,7 +39,7 @@ Im Rahmen eines Ermittlungsverfahrens gilt f&uuml;r jeden Beschuldigten selbstve
 
 Allerdings können die Folgen eines Ermittlungsverfahrens und die mediale Au&szlig;enwirkung auch die Reputation des Unternehmens und das Vertrauen der Anleger dauerhaft besch&auml;digen. So kann ein Schaden bei Anlegern nicht nur bei Unregelm&auml;&szlig;igkeiten des Goldbestandes oder mangelnder Absicherung bestehen, sondern auch, wenn eine Auszahlung wegen mangelnder Liquidit&auml;t nicht oder nicht mehr in voller Höhe erfolgen könnte.
 
-#### Fragen der Anleger
+### Fragen der Anleger
 
 F&uuml;r Anleger und Goldk&auml;ufer der PIM Gold und Scheideanstalt GmbH bleiben derzeit sicherlich viele Fragestellungen offen, bspw. wie etwaige Anspr&uuml;che festgestellt und durchgesetzt werden könnten.
 
