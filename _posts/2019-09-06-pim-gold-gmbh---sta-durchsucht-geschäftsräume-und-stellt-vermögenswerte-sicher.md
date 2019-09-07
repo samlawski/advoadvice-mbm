@@ -1,7 +1,5 @@
 ---
-title: >-
-  PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
-  Vermögenswerte sicher
+title: PIM Gold GmbH - StA durchsucht Geschäftsräume und stellt Vermögenswerte sicher
 date: 2019-09-06 00:00:00
 seo_beschreibung: >-
   PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
@@ -27,11 +25,11 @@ team_member: Kim-Oliver-Klevenhagen
 
 ![](/uploads/gold-bars-2467833-1920.jpg){: width="1920" height="1280"}
 
-Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, der BILD-Zeitung und weiteren Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am 04.09.2019 die Gesch&auml;ftsr&auml;ume der PIM Gold und Scheideanstalt GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern. Auch soll der Gesch&auml;ftsf&uuml;hrer des Unternehmens in Untersuchungshaft genommen worden sein.
+Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, Frankfurter Rundschau, der BILD-Zeitung und weiteren Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am 04.09.2019 die Gesch&auml;ftsr&auml;ume der PIM Gold GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern. Auch soll der Gesch&auml;ftsf&uuml;hrer des Unternehmens in Untersuchungshaft genommen worden sein.
 
 Hintergrund der der Razzia ist wohl ein seit l&auml;ngerem laufendes Ermittlungsverfahren der Staatsanwaltschaft Darmstadt, welches unter anderem aufgrund einer Strafanzeige eines ehemaligen Mitarbeiters ins Laufen kam.
 
-Der verantwortliche Staatsanwalt teilte nach einem Bericht der BILD Zeitung mit, dass Vorw&uuml;rfe untersucht w&uuml;rden, die unter anderem darauf lauten sollen, dass die PIM Gold und Scheideanstalt GmbH ihren Kunden Gold als Sicherheit f&uuml;r ihre Anlagen benannt habe, welches diese gar nicht besessen haben soll.
+Der verantwortliche Staatsanwalt teilte nach einem Bericht der BILD Zeitung mit, dass Vorw&uuml;rfe untersucht w&uuml;rden, die unter anderem darauf lauten sollen, dass die PIM Gold GmbH ihren Kunden Gold als Sicherheit f&uuml;r ihre Anlagen benannt habe, welches diese gar nicht besessen haben soll.
 
 F&uuml;r Anleger der PIM Gold stellt stellt sich bei diesen Vorw&uuml;rfen die Frage, ob ihre Einlagen denn ausreichend abgesichert sind und ob tats&auml;chlich Gold in ausreichendem Gegenwert f&uuml;r Geldanlagen vorhanden ist.
 
@@ -39,11 +37,11 @@ Im Rahmen eines Ermittlungsverfahrens gilt f&uuml;r jeden Beschuldigten selbstve
 
 Allerdings können die Folgen eines Ermittlungsverfahrens und die mediale Au&szlig;enwirkung auch die Reputation des Unternehmens und das Vertrauen der Anleger dauerhaft besch&auml;digen. So kann ein Schaden bei Anlegern nicht nur bei Unregelm&auml;&szlig;igkeiten des Goldbestandes oder mangelnder Absicherung bestehen, sondern auch, wenn eine Auszahlung wegen mangelnder Liquidit&auml;t nicht oder nicht mehr in voller Höhe erfolgen könnte.
 
-### Fragen der Anleger
+### Fragestellungen der Anleger beantworten&nbsp;
 
-F&uuml;r Anleger und Goldk&auml;ufer der PIM Gold und Scheideanstalt GmbH bleiben derzeit sicherlich viele Fragestellungen offen, bspw. wie etwaige Anspr&uuml;che festgestellt und durchgesetzt werden könnten.
+F&uuml;r Anleger und Goldk&auml;ufer der PIM Gold GmbH bleiben derzeit sicherlich viele Fragestellungen offen, bspw. wie etwaige Anspr&uuml;che festgestellt und durchgesetzt werden könnten.Vor allem stellt sich die Frage, was sich gesch&auml;digt f&uuml;hlenden Anlegern zu diesem Zeitpunkt zu raten ist, gegen wen im Schadensfall Anspr&uuml;che zu richten und wirtschaftlich sinnvoll durchzusetzen w&auml;ren und ob bzw. wie die bei der PIM Gold durch Behörden gesicherten Vermögenswerte beansprucht werden können.
 
-Die Fachanw&auml;lte der Kanzlei AdvoAdvice mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
+Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
