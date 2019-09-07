@@ -5,7 +5,7 @@ seo_beschreibung: >-
   PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
   Vermögenswerte sicher
 layout: post
-feature_bild_path:
+feature_bild_path: /uploads/gold-bars-2467833-1920.jpg
 tags:
   - PIM Gold
   - Pim Gold und Scheideanstalt GmbH
