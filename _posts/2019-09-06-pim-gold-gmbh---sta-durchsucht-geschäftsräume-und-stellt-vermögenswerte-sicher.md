@@ -39,9 +39,11 @@ Allerdings können die Folgen eines Ermittlungsverfahrens und die mediale Au&szl
 
 ### Fragestellungen der Anleger beantworten&nbsp;
 
-F&uuml;r Anleger und Goldk&auml;ufer der PIM Gold GmbH bleiben derzeit sicherlich viele Fragestellungen offen, bspw. wie etwaige Anspr&uuml;che festgestellt und durchgesetzt werden könnten.Vor allem stellt sich die Frage, was sich gesch&auml;digt f&uuml;hlenden Anlegern zu diesem Zeitpunkt zu raten ist, gegen wen im Schadensfall Anspr&uuml;che zu richten und wirtschaftlich sinnvoll durchzusetzen w&auml;ren und ob bzw. wie die bei der PIM Gold durch Behörden gesicherten Vermögenswerte beansprucht werden können.
+F&uuml;r Anleger und Goldk&auml;ufer der PIM Gold GmbH bleiben derzeit sicherlich viele Fragestellungen offen, zum Beispiel, wie etwaige Anspr&uuml;che festgestellt und durchgesetzt werden könnten. Vor allem stellt sich die Frage, was sich gesch&auml;digt f&uuml;hlenden Anlegern zu diesem Zeitpunkt zu raten ist, gegen wen im Schadensfall Anspr&uuml;che zu richten und wirtschaftlich sinnvoll durchzusetzen w&auml;ren und ob bzw. wie die bei der PIM Gold durch Behörden gesicherten Vermögenswerte beansprucht werden können.
 
-Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
+Zum gegenw&auml;rtigen Zeitpunkt sollte besonnen und seriös gepr&uuml;ft werden, ob Anspr&uuml;che bestehen und wie in der gegenw&auml;rtigen Situation weiter vorzugehen ist. Die Situation erinnert an &auml;hnlich gelagerte Goldskandale in der Vergangenheit, bei denen sich die Frage stellte, ob vorhandenes Gold zur Absicherung der Einlagen der Anleger ausreichend oder gar echt ist.
+
+Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen in Edelmetallen.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
