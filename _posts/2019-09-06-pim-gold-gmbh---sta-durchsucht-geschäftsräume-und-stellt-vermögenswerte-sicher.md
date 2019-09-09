@@ -20,7 +20,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
   - sonstiges
-team_member: Rechtsanwalt Klevenhagen
+team_member: rechtsanwalt-klevenhagen
 ---
 
 ![](/uploads/gold-bars-2467833-1920.jpg){: width="1920" height="1280"}
