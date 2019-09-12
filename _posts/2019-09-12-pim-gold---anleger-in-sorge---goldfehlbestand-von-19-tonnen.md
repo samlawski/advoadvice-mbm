@@ -1,5 +1,5 @@
 ---
-title: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
+title: 'PIM Gold - Anleger in Sorge - Goldfehlbestand von 1,9 Tonnen?'
 date: 2019-09-12 00:00:00
 seo_beschreibung: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
 layout: post
@@ -30,7 +30,7 @@ Grund f&uuml;r die Durchsuchung war der Verdacht der Staatsanwaltschaft Darmstad
 
 Nachdem die Staatsanwaltschaft Darmstadt nun zun&auml;chst selbst mitteilte, dass von einem mutma&szlig;lichen Fehlbetrag von 1,5 t Gold auszugehen sei, geistert nun sogar ein angeblicher Fehlbetrag von 1,9 Tonnen Gold durch die Medien. Beispielsweise nach einer Meldung des des Handelsblattes vom 12.09.2019 vermisst die Staatsanwaltschaft bei PIM angeblich sogar Gold 1,9 Tonnen Gold.
 
-Dieser Fehlbetrag w&uuml;rde bei dem derzeit auf Rekordhöhe liegenden Goldpreis ungef&auml;hr einen Fehlbetrag bei der PIM Gold in Höhe von mehr als 83 Millionen EUR entsprechen. Sollten sich die Anschuldigungen Staatsanwaltschaft bewahrheiten, w&auml;ren die von den Anlegern bisher geleisteten Einlagen massiv gef&auml;hrdet,&nbsp; da die PM Gold den Fehlbetrag anderweitig ausgleichen m&uuml;sste um die Anspr&uuml;che der Kunden bedienen zu können. Ob dies möglich sein wird, erscheint nach derzeitigem Stand mehr als ungewiss.
+Dieser Fehlbetrag w&uuml;rde bei dem derzeit auf Rekordhöhe liegenden Goldpreis ungef&auml;hr einen Fehlbetrag bei der PIM Gold in Höhe von mehr als 83 Millionen EUR entsprechen. Sollten sich die Anschuldigungen der Staatsanwaltschaft bewahrheiten, w&auml;ren die von den Anlegern bisher geleisteten Einlagen massiv gef&auml;hrdet,&nbsp; da die PIM Gold den Fehlbetrag anderweitig ausgleichen m&uuml;sste um die Anspr&uuml;che der Kunden bedienen zu können. Ob dies möglich sein wird, erscheint nach derzeitigem Stand mehr als ungewiss.
 
 So wurde zwischenzeitlich bekannt, dass durch Beschl&uuml;sse des Amtsgerichts Darmstadt der Arrest &uuml;ber das Vermögen der Gesellschaften PIM Gold GmbH und Premium Gold Deutschland GmbH angeordnet wurde und der Gesch&auml;ftsbetrieb vorerst eingestellt ist.
 
