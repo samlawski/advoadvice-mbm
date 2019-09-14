@@ -1,5 +1,5 @@
 ---
-title: ClinicAll Germany - Antrag auf Insolvenz in Eigenverantwortung
+title: ClinicAll Germany - Antrag auf Insolvenz in Eigenverwaltung
 date: 2019-09-13 00:00:00
 seo_beschreibung: ClinicAll Germany - Antrag auf Insolvenz in Eigenverantwortung
 layout: post
