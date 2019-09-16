@@ -1,5 +1,5 @@
 ---
-title: 'PIM Gold - nleger fragen: Wohin geht die Reise?'
+title: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 date: 2019-09-16 00:00:00
 seo_beschreibung: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 layout: post
@@ -25,7 +25,7 @@ team_member: ra-klevenhagen
 
 Zwischenzeitlich wurde mitgeteilt, dass s&auml;mtliche Konten der PIM Gold GmbH und der Premium Gold Deutschland GmbH, bei der die Vertriebspartner der PIM angebunden waren, eingefroren wurden und der Gesch&auml;ftsbetrieb der PIM wohl vollst&auml;ndig stillsteht. Nach Berichten des Handelsblattes und weiterer Medien werden wohl durch die Staatsanwaltschaft Darmstadt bis zu 1,9 t Gold vermisst. Dies entspr&auml;che einem derzeitigem Gegenwert von mehr als 83 Millionen EURO. Diese sollten entsprechend der Einlagen der Anleger bei der PIM dort bzw. bei den Lagerpartnern der PIM vorhanden sein, nach den derzeitigen Vorw&uuml;rfen der Staatsanwaltschaft ist dies aber wohl nicht der Fall.
 
-In seinem Artikel vom 12.09.2019 schrieb das beispielsweise das als seriös geltende Handelsblatt, dass die Staatsanwaltschaft der PIM Gold sogar vorwerfe, "...&uuml;ber Jahre wie ein Schneeballsystem funktioniert zu haben. Neu eingeworbene Kundengelder seien in gro&szlig;em Umfang dazu eingesetzt worden, um Altanleger auszuzahlen und die Provisionen der Vermittler zu bedienen.".
+In seinem Artikel vom 12.09.2019 schrieb das beispielsweise das als seriös geltende Handelsblatt, dass die Staatsanwaltschaft der PIM Gold sogar vorwerfe, "…&uuml;ber Jahre wie ein Schneeballsystem funktioniert zu haben. Neu eingeworbene Kundengelder seien in gro&szlig;em Umfang dazu eingesetzt worden, um Altanleger auszuzahlen und die Provisionen der Vermittler zu bedienen.".
 
 Ob diese Vorw&uuml;rfe der Staatsanwaltschaft der Wahrheit entsprechen wird das Ermittlungsverfahren und letztendlich gegebenenfalls sogar ein Gerichtsverfahren im Rahmen einer Beweisaufnahme kl&auml;ren m&uuml;ssen. Dies wird ebenfalls f&uuml;r die Frage gelten, wer zu welchem Zeitpunkt etwas von Unregelm&auml;&szlig;igkeiten oder einer bilanziellen Schieflage der PIM Gold wusste oder h&auml;tte wissen können oder gar m&uuml;ssen. Da nur die wenigsten derjenigen, die derzeit wilde Spekulationen anstellen, den Inhalt der Ermittlungsakte kennen d&uuml;rften, sind viele Spekulationen, was denn jetzt genau stattgefunden hat und wer daf&uuml;r verantwortlich zu machen ist, zum grö&szlig;ten Teil "ins Blaue" abgegeben worden und sollten deshalb derzeit mit Vorsicht genossen werden.&nbsp;
 
