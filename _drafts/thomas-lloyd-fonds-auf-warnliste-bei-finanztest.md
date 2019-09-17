@@ -18,6 +18,8 @@ tags:
   - Kleine Anfrage
   - FDP
   - Investments in den grauen Kapitalmarkt
+  - Drucksache 19/12080
+  - Drucksache 19/12693
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
