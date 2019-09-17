@@ -24,6 +24,8 @@ team_member: dr-sven-tintemann
 
 Die Thomas Lloyd Gruppe ger&auml;t immer mehr unter Beschuss von Presse und Medien. Zuletzt berichtete das Handelsblatt in einem Beitrag vom 09.07.2019 &uuml;ber die Thomas Lloyd Gruppe und Anlagen bei der DKM GOF 1 GmbH und der Thomas Lloyd Investments GmbH (Österreich). Nun legt die Zeitschrift Finanztest in der aktuellen Ausgabe von Oktober 2019 nach und setzt drei Produkte der Thomas Lloyd Gruppe auf die [Warnliste Geldanlage](https://www.test.de/Warnliste-Geldanlage-Unserioese-Firmen-und-Finanzprodukte-1131965-0/).
 
+![](/uploads/finanztext-10-19.PNG){: width="462" height="217"}
+
 ### Warnungen vor CTI 5 D, CTI 9 D und CTI Vario D
 
 Konkret setzte die Finanztest drei Fonds der Thomas Lloyd Gruppe auf ihre Warnliste und warnt nunmehr vor Thomas Lloyd CTI 5 D - einem Infrastrukturfonds, der seit dem Jahr 2012 verf&uuml;gbar gewesen ist und nach Angaben im Internet sp&auml;testens seit dem 31.08.2019 geschlossen sein sollte (Angabe auf www.opc-fonds.de und www.beteiligungsfinder.de). Emittentin ist hier die Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG.
@@ -46,6 +48,14 @@ In diesem Bereich vertritt AdvoAdvice bereits mehr als 140 Anleger und hat berei
 
 ### Kleine Anfrage im Deutschen Bundestag
 
-&nbsp;
+Die Thomas Lloyd Gruppe war auch von Interesse bei einer kleinen Anfrage einiger Abgeordneter und der Fraktion der FDP (Drucksache 19/12080).&nbsp;
 
-Unsere Empfehlung
+Hierbei wurde die Bundesregierung unter anderem dazu befragt, ob eine Gesetzesl&uuml;cke in Bezug auf die weitere Verwendung von Verkaufsprospekten der Cleantech Infrastrukturegesellschaften, die aus den Jahren 2011 bis 2013 stammen, besteht.&nbsp;
+
+Dieses wurde seitens der Bundesregierung mit Verweis auf die unterschiedlichen Vorschriften nach Verkaufsprosepektgesetz, Vermögensanlagegesetz und Kapitalanlagegesetzbuch verneint. Es gelte hier Bestandsschutz nach &sect; 353 Abs. 1 KAGB.&nbsp;
+
+Es wurde mitgeteilt, dass in den Jahren 2008 bis 2013 durch die BaFin 15 Wertpapierprospekte sowie acht Nachtr&auml;ge von Unternehmen gepr&uuml;ft wurden, die der Gruppe Thomas Lloyd zuzurechnen seien. Es handle sich um sieben Aktien-, sechs Genussscheine - und zwei Anleiheneprospekte.
+
+Bei der BaFin seien zudem 21 Verkaufsprospekte hinterlegt, die nach dem VerkProspG bzw. in zwei F&auml;llen nach dem VermAnlG gepr&uuml;ft wurden.&nbsp; Es handelt sich dabei um sechs Unternehmensbeteiligungen, drei Namensschuldverschreibungen und zwei Genussrechtsbeteiligungen. Insgesamt sind zu diesen Verkaufsprospekten 38 Nachtr&auml;ge hinterlegt worden.&nbsp;
+
+### Unsere Empfehlung
