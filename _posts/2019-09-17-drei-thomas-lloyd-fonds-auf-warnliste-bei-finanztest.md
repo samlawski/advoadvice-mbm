@@ -1,5 +1,5 @@
 ---
-title: Thomas Lloyd Fonds auf Warnliste bei Finanztest
+title: Drei Thomas Lloyd Fonds auf Warnliste bei Finanztest
 date: 2019-09-17 00:00:00
 seo_beschreibung: Finanztest setzt drei Thomas Lloyd Fonds auf Warnliste
 layout: post
