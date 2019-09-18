@@ -26,7 +26,7 @@ topics:
 team_member: dr-sven-tintemann
 ---
 
-Ein 49-J&auml;hriger Mann aus Köln trat vor wenigen Wochen an die Rechtsanwaltskanzlei AdvoAdvice heran. Der Kölner musste mit den negativen Folgen eines SCHUFA-Eintrages, veranlasst durch die American Express Europa S.A. (Germany Branch), zurecht kommen.
+Ein 49-J&auml;hriger Mann aus Köln trat vor wenigen Wochen an die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin heran. Der Kölner musste mit den negativen Folgen eines SCHUFA-Eintrages, veranlasst durch die American Express Europa S.A. (Germany Branch), zurecht kommen.
 
 Um eine Löschung zu erreichen, beauftragte dieser zun&auml;chst die im Internet schnell zu findende F. Rechtsanwaltsgesellschaft mbH&nbsp; aus Hannover (Werbespruch: Ihr Schufa Experte f&uuml;r Deutschland). Diese erzielte allerdings mit Anschreiben an die Schufa Holding AG keinen Erfolg.
 
