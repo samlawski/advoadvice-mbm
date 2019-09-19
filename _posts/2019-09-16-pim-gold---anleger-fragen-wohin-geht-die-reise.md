@@ -37,6 +37,8 @@ Allerdings kamen die Ma&szlig;nahmen der Staatsanwaltschaft auch nicht gerade &u
 
 F&uuml;r Anleger stellen sich nun in dieser un&uuml;bersichtlichen Situation und Nachrichtenlage die Fragen, wie denn ein realistischer und vor allen Dingen sinnvoller Rechtsrat derzeit aussehen kann. Sicherlich macht es Sinn, nach dem ersten Schock &uuml;ber die beunruhigende Nachrichten, soweit &uuml;berhaupt möglich, besonnen zu bleiben. Dazu gehört es, vorausschauend zu agieren und die gegenw&auml;rtige Rechtslage zu kl&auml;ren bzw. sich erkl&auml;ren zu lassen und im Nachgang gegebenenfalls zu handeln.
 
+### Wir helfen betroffenen Anlegern mit klarem und ehrlichem Rat - Nutzen Sie unsere langj&auml;hrigen Erfahrungen und Erfolge\!
+
 Derzeit stellen sich auch juristisch viele Fragen, beispielsweise ob bei den verschiedenen von der PIM angebotenen Anlageoptionen auch ein sachenrechtlicher Eigentumserwerb an „bezahltem" Gold stattgefunden hat und ob in entsprechenden Anlagemodellen bei der Einlagerung des Goldes, wenn dies so &uuml;berhaupt geschehen sein sollte, eine Zuordnung an den jeweiligen Anleger erfolgen kann oder ob beispielsweise in bestimmten F&auml;llen "insolvenzsicheres" Sondervermögen gebildet wurde welches im Rahmen eines etwaigen Insolvenzverfahrens nicht automatisch in die Insolvenzmasse fallen könnte.&nbsp;
 
 Hier stellen sich abgesehen von einer anzuwendenden Vorgehensweise auch zum Teil juristisch sehr komplexe schuld- und sachenrechtliche Fragestellungen.
@@ -45,7 +47,9 @@ Diese besorgten Anlegern zu erkl&auml;ren kann und sollte auch ebenfalls Aufgabe
 
 Sicherlich wird man zum gegenw&auml;rtigen Zeitpunkt als vorl&auml;ufiges Fazit feststellen können, dass die Entwicklung der Rechts-und Sachlage sicherlich noch nicht abgeschlossen ist, sich jedoch Eckpunkte abzeichnen, an denen sich Anleger orientieren können um ihre Rechte zu kl&auml;ren und etwaige Herausgabe- bzw. Schadensersatzanspr&uuml;che zu wahren.
 
-Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen in Edelmetallen.
+Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin verf&uuml;gen aufgrund langj&auml;hriger Praxis &uuml;ber eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen in Edelmetallen.&nbsp;
+
+Mit unseren Erfolge vor Gericht und in Verhandlungen mit Haftungstr&auml;gern haben wir vielen Anlegern zum Schadenersatz und zur Schadenbegrenzung verholfen. Fragen Sie uns nach unserer Leistungsbilanz\!
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
