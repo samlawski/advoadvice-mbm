@@ -29,15 +29,17 @@ In seinem Artikel vom 12.09.2019 schrieb beispielsweise das als seriös geltende
 
 Ob diese Vorw&uuml;rfe der Staatsanwaltschaft der Wahrheit entsprechen wird das Ermittlungsverfahren und letztendlich gegebenenfalls sogar ein Gerichtsverfahren im Rahmen einer Beweisaufnahme kl&auml;ren m&uuml;ssen. Dies wird ebenfalls f&uuml;r die Frage gelten, wer zu welchem Zeitpunkt etwas von Unregelm&auml;&szlig;igkeiten oder einer bilanziellen Schieflage der PIM Gold wusste oder h&auml;tte wissen können oder gar m&uuml;ssen. Da nur die wenigsten derjenigen, die derzeit wilde Spekulationen anstellen, den Inhalt der Ermittlungsakte kennen d&uuml;rften, sind viele Spekulationen, was denn jetzt genau stattgefunden hat und wer daf&uuml;r verantwortlich zu machen ist, zum grö&szlig;ten Teil "ins Blaue" abgegeben worden und sollten deshalb derzeit mit Vorsicht genossen werden.&nbsp;
 
-### Spekulationen verunsichern Anleger
+### Spekulationen verunsichern Anleger&nbsp;**\- Wer helfen will muss es auch können**
 
 Die Anleger, die im guten Glauben an eine seriöse und rentierliche Geldanlage in Edelmetallen bei der PIM investiert haben, d&uuml;rften durch die wilden Spekulationen und Mutma&szlig;ungen &uuml;ber den Schock hinaus, den die Ma&szlig;nahmen der Staatsanwaltschaft verursacht haben, auch weiter verunsichert worden sein. Letztendlich ist f&uuml;r jeden Anleger und jeden Einzelfall zu pr&uuml;fen, ob Anspr&uuml;che bestehen und wem gegen&uuml;ber sie zu welchem Zeitpunkt geltend gemacht werden können.
 
 Allerdings kamen die Ma&szlig;nahmen der Staatsanwaltschaft auch nicht gerade &uuml;berraschend oder "aus dem Nichts", da in der Vergangenheit bereits -unbewiesene- Vorw&uuml;rfe gegen die PIM erhoben wurden.
 
-F&uuml;r Anleger stellen sich nun in dieser un&uuml;bersichtlichen Situation und Nachrichtenlage die Fragen, wie denn ein realistischer und vor allen Dingen sinnvoller Rechtsrat derzeit aussehen kann. Sicherlich macht es Sinn, nach dem ersten Schock &uuml;ber die beunruhigende Nachrichten, soweit &uuml;berhaupt möglich, besonnen zu bleiben. Dazu gehört es, vorausschauend zu agieren und die gegenw&auml;rtige Rechtslage zu kl&auml;ren bzw. sich erkl&auml;ren zu lassen und im Nachgang gegebenenfalls zu handeln.
+F&uuml;r Anleger stellen sich nun in dieser un&uuml;bersichtlichen Situation und Nachrichtenlage die Fragen, wie denn ein realistischer und vor allen Dingen sinnvoller Rechtsrat derzeit aussehen kann. Vielfach werden schnelle Erfolge versprochen um sein Geld zur&uuml;ck zu bekommen. Viele werden aber entt&auml;uscht sein, wenn der versprochene Kurztrip sich zu einer Weltreise entwickelt. Zu dieser muss man sich vorbereiten und kann nicht einfach losfliegen - um im Bild zu bleiben.
 
-### Wir helfen betroffenen Anlegern mit klarem und ehrlichem Rat - Nutzen Sie unsere langj&auml;hrigen Erfahrungen und Erfolge\!
+Sicherlich macht es Sinn, nach dem ersten Schock &uuml;ber die beunruhigende Nachrichten, soweit &uuml;berhaupt möglich, besonnen zu bleiben. Dazu gehört es, vorausschauend zu agieren und die gegenw&auml;rtige Rechtslage zu kl&auml;ren bzw. sich erkl&auml;ren zu lassen und im Nachgang gegebenenfalls zu handeln.
+
+### Wir helfen betroffenen Anlegern mit klarem, verst&auml;ndlichem und ehrlichem Rat - Nutzen Sie unsere langj&auml;hrigen Erfahrungen und Erfolge\!
 
 Derzeit stellen sich auch juristisch viele Fragen, beispielsweise ob bei den verschiedenen von der PIM angebotenen Anlageoptionen auch ein sachenrechtlicher Eigentumserwerb an „bezahltem" Gold stattgefunden hat und ob in entsprechenden Anlagemodellen bei der Einlagerung des Goldes, wenn dies so &uuml;berhaupt geschehen sein sollte, eine Zuordnung an den jeweiligen Anleger erfolgen kann oder ob beispielsweise in bestimmten F&auml;llen "insolvenzsicheres" Sondervermögen gebildet wurde welches im Rahmen eines etwaigen Insolvenzverfahrens nicht automatisch in die Insolvenzmasse fallen könnte.&nbsp;
 
@@ -51,7 +53,7 @@ Die Fachanw&auml;lte der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin ve
 
 Mit unseren Erfolge vor Gericht und in Verhandlungen mit Haftungstr&auml;gern haben wir vielen Anlegern zum Schadenersatz und zur Schadenbegrenzung verholfen. Fragen Sie uns nach unserer Leistungsbilanz\!
 
-Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine verst&auml;ndliche und f&uuml;r Sie nachvollziehbare kostenlose Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
 Weitere Informationen finden Sie auch in unserem&nbsp;[**Themenbereich Bank- und Kapitalmarktrecht.**](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/)
 
