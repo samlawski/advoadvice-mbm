@@ -15,6 +15,8 @@ tags:
   - Restrukturierungsverfahren
   - Chapter 11
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarktrecht
 team_member: dr-sven-tintemann
 ---
 
@@ -23,6 +25,8 @@ Neues von der Deutschen Öl und Gas S.A. Diese meldet sich mit einem Newsletter 
 ### 1\. Die Gesellschaft benötigt und sammelt schon wieder Geld
 
 Mittlerweile muss man sich als Anleger verwundert die Augen reiben. Meldet sich doch schon wieder die Deutsche Öl und Gas S.A. und möchte von den Anlegern erneut Geld.&nbsp;
+
+![Ölplattform - Pixabay](/uploads/oil-industry-3289176-1280.jpg "Anleger sollen schon wieder zahlen"){: width="1280" height="960"}
 
 Begr&uuml;ndet wird dies damit, dass jetzt Kosten f&uuml;r eine Schadensersatzklage in den USA gegen die Energy Capital Partners (kurz ECP) in Höhe von 2,5 Mio Euro vorab f&uuml;r Anw&auml;lte anfallen w&uuml;rden. Ein von ECP zu verantwortender Schaden wird ohne n&auml;here Begr&uuml;ndung auf 650 Euro USD gesch&auml;tzt. Dies habe wohl auch eine Richterin im Chapter 11 Verfahren der Tochtergesellschaft so gesehen.&nbsp;
 
