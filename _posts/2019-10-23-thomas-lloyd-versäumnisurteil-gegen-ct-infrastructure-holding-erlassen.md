@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Versäumnisurteil gegen CT Infrastructure Holding erlassen'
-date: 2019-09-26 00:00:00
+date: 2019-10-23 00:00:00
 seo_beschreibung: >-
   Landgericht Görlitz erlässt Versäumnisurteil gegen CT Infrastructure Holding
   Ltd.
@@ -49,13 +49,13 @@ Zus&auml;tzlich wurde die Beklagte auch noch zu folgenden Ausk&uuml;nften verurt
 * Informationen und Nachweise &uuml;ber geplante und/oder durchgef&uuml;hrte Zahlungen an Gesch&auml;ftsf&uuml;hrer seit Beitritt des Kl&auml;gers bis zu einer au&szlig;erordentlichen K&uuml;ndigung
 * Informationen und Nachweis &uuml;ber die Gew&auml;hrung von Darlehen und B&uuml;rgschaften an oder f&uuml;r Gesellschafter, Organmitglieder oder Dritte
 
-Das Vers&auml;umnisurteil ist vorl&auml;ufig und ohne Sicherheitsleistung vollstreckbar. Es ist noch nicht rechtskr&auml;ftig. Gegen die Entscheidung kann binnen zwei Wochen Einspruch eingelegt werden. (Stand des Beitrags: 26.09.2019)
+Das Vers&auml;umnisurteil ist vorl&auml;ufig und ohne Sicherheitsleistung vollstreckbar. Es ist noch nicht rechtskr&auml;ftig. Gegen die Entscheidung hat die Beklagte mittlerweile Einspruch eingelegt. (Stand des Beitrages: 23.10.2019)
 
 ### Unsere Einsch&auml;tzung der Situation
 
 Rechtsanwalt Dr. Sven Tintemann, Partner bei der Kanzlei AdvoAdvice Rechtanw&auml;lte in Berlin, kommentiert die Situation wie folgt: "Es &uuml;berrascht hier schon sehr, dass die Beklagte gegen sich ein Vers&auml;umnisurteil ergehen l&auml;sst. Wahrscheinlich wurde eine Zustellung &uuml;bersehen oder eine Reaktionsfrist vers&auml;umt. Wir rechnen damit, dass die Beklagte gegen die Entscheidung Einspruch einlegen wird und werden weiter &uuml;ber die Sache berichten."
 
-Die Kanzlei AdvoAdvice hat bereits 43 Klagen gegen die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH und der Thomas Lloyd Investments GmbH (Wien) eingereicht.&nbsp;
+Die Kanzlei AdvoAdvice hat bereits 45 Klagen gegen die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH und der Thomas Lloyd Investments GmbH (Wien) eingereicht.&nbsp;
 
 Anleger, die in diesem Bereich oder zu anderen Fonds aus der Thomas Lloyd Gruppe anwaltlichen Rat und kompetente Hilfe suchen, können sich bei Bedarf gerne an info@advoadvice.de oder 030 921 000 40 wenden.&nbsp;
 
