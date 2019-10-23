@@ -24,7 +24,7 @@ GEM
       forwardable-extended (~> 2.5)
     fast-stemmer (1.0.2)
     fastimage (2.1.0)
-    ffi (1.9.18)
+    ffi (1.11.1)
     forwardable-extended (2.6.0)
     jekyll (3.2.0)
       colorator (~> 1.0)
