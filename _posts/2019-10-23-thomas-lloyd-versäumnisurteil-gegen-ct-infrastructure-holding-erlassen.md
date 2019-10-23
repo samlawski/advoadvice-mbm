@@ -53,7 +53,7 @@ Das Vers&auml;umnisurteil ist vorl&auml;ufig und ohne Sicherheitsleistung vollst
 
 ### Unsere Einsch&auml;tzung der Situation
 
-Rechtsanwalt Dr. Sven Tintemann, Partner bei der Kanzlei AdvoAdvice Rechtanw&auml;lte in Berlin, kommentiert die Situation wie folgt: "Es &uuml;berrascht hier schon sehr, dass die Beklagte gegen sich ein Vers&auml;umnisurteil ergehen l&auml;sst. Wahrscheinlich wurde eine Zustellung &uuml;bersehen oder eine Reaktionsfrist vers&auml;umt. Wir rechnen damit, dass die Beklagte gegen die Entscheidung Einspruch einlegen wird und werden weiter &uuml;ber die Sache berichten."
+Rechtsanwalt Dr. Sven Tintemann, Partner bei der Kanzlei AdvoAdvice Rechtanw&auml;lte in Berlin, kommentiert die Situation wie folgt: "Es &uuml;berrascht hier schon sehr, dass die Beklagte gegen sich ein Vers&auml;umnisurteil ergehen l&auml;sst. Wahrscheinlich wurde eine Zustellung &uuml;bersehen oder eine Reaktionsfrist vers&auml;umt. Nach dem nunmehr erfolgten Einspruch muss das Gericht &uuml;ber diesen und die nunmehr gestellten Antr&auml;ge der Beklagten entscheiden."
 
 Die Kanzlei AdvoAdvice hat bereits 45 Klagen gegen die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH und der Thomas Lloyd Investments GmbH (Wien) eingereicht.&nbsp;
 
