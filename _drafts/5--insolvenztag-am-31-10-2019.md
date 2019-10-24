@@ -1,11 +1,26 @@
 ---
 title: 5. Insolvenztag am 31.10.2019
 date: 2019-10-24 00:00:00
-seo_beschreibung:
+seo_beschreibung: 5. Insolvenztag am 31.10.2019 in Berlin
 layout: post
 feature_bild_path:
 tags:
+  - Lettland
+  - insolvenz
+  - Information
+  - Infotag
+  - Berlin
+  - AdovAdvice
+  - Berger Consulting
+  - Dr. Tintemann
+  - EU-Insolvenz
+  - Restschuldbefreiung
+  - COMI
+  - Center of main interest
+  - Riga
+  - Wohnsitz
 topics:
+  - insolvenzrecht
 team_member: dr-sven-tintemann
 ---
 
