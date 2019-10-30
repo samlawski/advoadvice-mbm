@@ -31,7 +31,7 @@ Dieser Versuch der ClinicAll GmbH GmbH nun endg&uuml;ltig gescheitert.
 
 Was viele Anleger bef&uuml;rchtet haben hat sich nun bewahrheitet. Mit Beschluss des Amtsgerichts D&uuml;sseldorf als zust&auml;ndiges Insolvenzgericht vom 28.10.2018, Az. 502 IN 155/19, wurde nunmehr &uuml;ber das Vermögen der ClinicAll Germany GmbH das „regul&auml;re" vorl&auml;ufige Insolvenzverfahren eröffnet. Vom Amtsgericht D&uuml;sseldorf wurde ein Insolvenzverwalter eingesetzt.
 
-#### Insolvenzverwalter nun verf&uuml;gungsberechtigt
+### Insolvenzverwalter nun verf&uuml;gungsberechtigt
 
 Damit haben sich nun auch die Hoffnungen derjenigen Anleger zerschlagen, die noch daran glaubten, dass die ClinicAll Germany GmbH noch aus eigener Kraft die Wende schafft. Tausende Anleger m&uuml;sse nun bef&uuml;rchten, dass die von ihnen gezeichneten Unternehmens-Anleihen bzw. gew&auml;hrten Nachrangdarlehen hohe Verluste erleiden. Noch gar nicht abzusehen ist, ob Totalverluste im Raum stehen oder noch auf eine Insolvenzquote gehofft werden kann. Dies wird sich im Rahmen der nun beginnenden ordnungsgem&auml;&szlig;en T&auml;tigkeit des eingesetzten Insolvenzverwalters zeigen und erfahrungsgem&auml;&szlig; einige Zeit dauern.
 
@@ -39,7 +39,7 @@ Nunmehr wird es darum gehen m&uuml;ssen, f&uuml;r die Anleger bestehende Handlun
 
 Die wirtschaftliche Schieflage der ClinicAll Germany GmbH deutete sich bereits seit l&auml;ngerem an, nachdem bereits aussagekr&auml;ftige Bilanzen nicht veröffentlicht wurden und trotz der bestehenden nicht durch Eigenkapital gedeckten Verbindlichkeiten weiterhin massiv Anlegergeld durch langfristige Unternehmensanleihen usw. mit zweifelhaften Methoden eingeworben wurde.
 
-#### Auswirkungen auf die US-Aktien der ClinicAll
+### Auswirkungen auf die US-Aktien der ClinicAll
 
 Unklar ist auch, wie sich die jetzt vorliegende Insolvenz auf die Muttergesellschaft der ClinicAll Germany GmbH, die ClinicAll International Corporation mit Sitz in New York auswirkt. Die New Yorker „Mutter" hatte zudem bei vielen Anlegern direkt Aktien als öffentliches Angebot in Deutschland ausgegeben.
 
@@ -47,7 +47,7 @@ An unsere Kanzlei haben sich seit l&auml;ngerem viele besorgte Anleger mit der F
 
 Als gesichert d&uuml;rfte gelten, dass die ClinicAll Germany GmbH die wesentliche, wenn nicht die alleinige, Geldgeberin der amerikanischen Muttergesellschaft war und insoweit gegebenenfalls sogar ein "Dominoeffekt" eintreten könnte.
 
-#### Anspr&uuml;che im Insolvenzverfahren und gegen Vertriebsverantwortliche
+### Anspr&uuml;che im Insolvenzverfahren und gegen Vertriebsverantwortliche
 
 Auch hier sollten Aktion&auml;re ihre Handlungsmöglichkeiten möglichst zeitnah pr&uuml;fen lassen. Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, der mit seinem Team bereits seit l&auml;ngerem Anleger der ClinicAll Germany GmbH vertritt, ist von der jetzigen Entwicklung und dem Scheitern des Schutzschirmverfahrens nicht &uuml;berrascht: "Angesichts der nicht transparenten Darstellung der Umsetzung des Gesch&auml;ftsmodells in Deutschland durch die bisherige Gesch&auml;ftsf&uuml;hrung und des seit l&auml;ngerem bestehenden Kapitalbedarfs war eine Sanierung in Eigenverwaltung unwahrscheinlich."&nbsp;
 
