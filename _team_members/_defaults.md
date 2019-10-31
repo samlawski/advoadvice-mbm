@@ -3,5 +3,7 @@ titel:
 name:
 portrait_path:
 email:
-themes: []
+themes:
+  - titel:
+    link:
 ---
