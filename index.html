@@ -24,7 +24,8 @@ seo_beschreibung: >-
 <main class="container">
   <section id="team" class="row">
     <h1 class="padding-20 editable" href="/#kontakt">Das Team</h1>
-    {% for member in site.team_members %}
+    {% assign members = site.team_members | sort: 'reihenfolge' %}
+    {% for member in members %}
       <div class="col-sm-6">
         <div class="margin-20 row team-box">
           <div class="col-sm-12 col-md-6">

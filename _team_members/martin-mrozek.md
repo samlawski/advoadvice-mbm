@@ -18,6 +18,7 @@ themes:
     link: 'https://advoadvice.de/themen/datenschutz/'
   - titel: Kapitalmarktrecht
     link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
+reihenfolge: 3
 ---
 
 Assoziierter Partner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht und Handels- und Gesellschaftsrecht
