@@ -10,7 +10,9 @@ seo_beschreibung: >-
 
 <!-- HEADER  -->
 <section class="image-bg" style="background-image: url('{{ page.hintergrund_bild_path }}');">
-  <h3 class="editable" href="/#kontakt">"Kompetente Rechtsberatung, der Sie vertrauen können!"</h3>
+  <h3 class="editable" href="/#kontakt">
+    "Kompetente Rechtsberatung, der Sie vertrauen k&ouml;nnen!"
+  </h3>
   <div id="kennenlernen">
     <a href="#team" class="a-scroll cta">
       <span class="glyphicon glyphicon-menu-down hidden-xs" aria-hidden="true"></span>
@@ -23,7 +25,9 @@ seo_beschreibung: >-
 <!-- TEAM -->
 <main class="container">
   <section id="team" class="row">
-    <h1 class="padding-20 editable" href="/#kontakt">Das Team</h1>
+    <h1 class="padding-20 editable" href="/#kontakt">
+      Das Team
+    </h1>
     {% assign members = site.team_members | sort: 'reihenfolge' %}
     {% for member in members %}
       <div class="col-sm-6">
@@ -52,14 +56,14 @@ seo_beschreibung: >-
 
   <!-- DETAILS & FORMULARE -->
   <section id="formulare" class="second-bg padding-20">
-    <h1 class="editable" href="/#kontakt">ADVOADVICE - kompetenter Ratschlag von erfahrenen Rechtsanwälten</h1>
+    <h1 class="editable" href="/#kontakt">
+      ADVOADVICE - kompetenter Ratschlag von erfahrenen Rechtsanw&auml;lten
+    </h1>
     <div class="editable" href="/#kontakt">
-      <p>&nbsp;</p>
       <p>Von einem Rechtsanwalt erwarten Sie vor allem zwei Dinge:</p>
-      <p>&nbsp;</p>
       <ul>
         <li>faire Beratung</li>
-        <li>kompetente Experten</li>
+        <li>kompetente Expertise</li>
       </ul>
       <p>Rufen Sie uns an oder kontaktieren Sie uns per Mail.</p>
       <p>Bitte halten Sie daf&uuml;r ihre Unterlagen bereit.</p>
@@ -81,7 +85,9 @@ seo_beschreibung: >-
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title editable" id="myModalLabel" href="#formular">Download Formulare</h4>
+          <h4 class="modal-title editable" id="myModalLabel" href="#formular">
+            Download Formulare
+          </h4>
         </div><!-- /modal header -->
         <div class="modal-body">
           <ul>
@@ -100,7 +106,9 @@ seo_beschreibung: >-
 
   <!-- BLOG -->
   <section id="blog" class="padding-20">
-    <h1 class="editable" href="#formular">Neues im Blog</h1>
+    <h1 class="editable" href="#formular">
+      Neues im Blog
+    </h1>
     <ul>
       {% for post in site.posts limit:3 %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
