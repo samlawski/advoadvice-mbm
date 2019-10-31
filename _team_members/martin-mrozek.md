@@ -14,7 +14,7 @@ themes:
     link:
   - titel: Falsche Berechnung von Dispozinsen
     link:
-  - titel: Prospekthaftungsklagen
+  - titel: Prospekthaftung
     link: 'https://advoadvice.de/themen/datenschutz/'
   - titel: Kapitalmarktrecht
     link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
