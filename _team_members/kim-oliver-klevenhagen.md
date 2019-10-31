@@ -14,6 +14,7 @@ themes:
     link: '/themen/bank-und-kapitalmarktrecht/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker'
   - titel: Anwalts- und Notarhaftung
     link: '#'
+reihenfolge: 2
 ---
 
 Gründungspartner Fachanwalt für Bank- und Kapitalmarktrecht

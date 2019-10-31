@@ -16,6 +16,7 @@ themes:
     link: '/themen/datenschutz/'
   - titel: Kapitalmarktrecht
     link: '/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
+reihenfolge: 1
 ---
 
 Gründungspartner Fachanwalt für Bank- und Kapitalmarktrecht
