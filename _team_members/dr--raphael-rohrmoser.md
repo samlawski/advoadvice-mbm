@@ -1,6 +1,6 @@
 ---
 titel: Raphael Rohrmoser
-name: Dr. Raphael Rohrmoser
+name: Raphael Rohrmoser
 portrait_path: /uploads/raphael-rohrmoser-foto-256x256-2.jpg
 email: rohrmoser@advoadvice.de
 themes:
