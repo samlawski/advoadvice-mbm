@@ -25,6 +25,8 @@ Ende August meldete sich ein junger Mann aus Bochum bei der Kanzlei AdvoAdvice. 
 
 Die Forderung, au welcher der Negativeintrag heraus resultierte, stammte aus einem Vertragsverh&auml;ltnis mit dem Fitnessstudio Fit X. Im Rahmen einer Trennung verzog der Betroffene aus dem Einzugsgebiet des konkreten Fitnessstudios, weshalb er den Vertrag nicht weiterf&uuml;hrte. Ende 2018 kam es dabei offenbar zu einer R&uuml;ckbuchung eines Betrages in Höhe von 20,00 Euro. Dies bemerkte der Betroffene nicht.
 
+![](/uploads/sport-1235019-1280.jpg){: width="1280" height="853"}
+
 Im weiteren Verlauf wurde die Forderung von der Fit X Deutschland GmbH an die Collectia GmbH abgetreten, welche ihrerseits offenbar Mahnungen an die alte Adresse des Betroffenen sandte, an welcher er sich weder aufhielt noch dort polizeilich gemeldet war. Diese Mahnungen konnte er aufgrund seines Umzuges nicht wahrnehmen und diese wurden ihm auch nicht durch seine ehemalige Partnerin weitergeleitet.
 
 ### Erfolgreiche Löschung
