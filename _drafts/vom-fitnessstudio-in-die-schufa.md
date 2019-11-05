@@ -1,7 +1,7 @@
 ---
 title: Vom Fitnessstudio in die SCHUFA
 date:
-seo_beschreibung:
+seo_beschreibung: Schufa löscht Eintrag aus Vertrag mit Fitnessstudio
 layout: post
 feature_bild_path:
 tags:
