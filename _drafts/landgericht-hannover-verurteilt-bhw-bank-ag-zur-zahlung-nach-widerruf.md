@@ -1,6 +1,6 @@
 ---
 title: Landgericht Hannover verurteilt BHW Bank AG zur Zahlung nach Widerruf
-date: 2019-11-21 00:00:00
+date: 2019-11-22 00:00:00
 seo_beschreibung: BWH nach Widerspruch gegen Darlehen zur Zahlung verurteilt
 layout: post
 feature_bild_path:
@@ -27,15 +27,17 @@ Das Landgericht Hannover hat auf die Klage eines Bankkunden die BHW Bank AG nach
 
 ### Zum Hintergrund:&nbsp;
 
-Hintergrund der Entscheidung war eine Klage eines Darlehensnehmers aus Karlsruhe. Dieser hatte bei der beklagten BHW Bank AG drei Darlehensvertr&auml;ge aufgenommen und diese aufgrund von Belehrungsfehlern im Jahr 20XX widerrufen.&nbsp;
+Hintergrund der Entscheidung war eine Klage eines Darlehensnehmers aus Karlsruhe. Dieser hatte bei der beklagten BHW Bank AG drei Darlehensvertr&auml;ge aufgenommen und diese aufgrund von Belehrungsfehlern im Jahr 2014 widerrufen.&nbsp;
 
-Die Widerrufe hatte die Bank abgelehnt und eine R&uuml;ckzahlung an den Kl&auml;ger verweigert. Daher reichte die Kanzlei AdvoAdvice Klage f&uuml;r den betroffenen Bankkunden beim Landgericht Hannover ein.&nbsp;
+Die Widerrufe hatte die Bank abgelehnt und eine R&uuml;ckzahlung an den Kl&auml;ger verweigert. Daher reichte die Kanzlei AdvoAdvice Ende des Jahres 2017 Klage f&uuml;r den betroffenen Bankkunden beim Landgericht Hannover ein.&nbsp;
 
-Die Klage f&uuml;hrte nun erstinstanzlich zur Verurteilung der BHW Bank AG in Höhe von 49.604,26 Euro, da das Gericht die verwendeten Widerrufsbelehrungen als inhaltlich fehlerhaft und den Kl&auml;ger als Verbraucher ansah.&nbsp;
+Die Klage f&uuml;hrte nun erstinstanzlich zur Verurteilung der BHW Bank AG in Höhe von 49.604,26 Euro, da das Gericht die verwendeten Widerrufsbelehrungen als inhaltlich fehlerhaft und den Kl&auml;ger als Verbraucher ansah. Den Einwand der Beklagten Bank, der Anspruch sei verwirkt, lie&szlig; das Gericht nicht gelten, da es nach Ansicht des Gerichts an dem hierzu notwendigen Umstandsmoment fehlen w&uuml;rde. Auch sah der Gericht den Anspruch nicht als verj&auml;hrt an, da der Kl&auml;ger nach dem Widerruf im Jahr 2014 rechtzeitig bis Jahresende 2017 geklagt hatte.&nbsp;
 
 ### Unser Kommentar:&nbsp;
 
-Die Entscheidung ist inhaltlich nachvollziehbar und best&auml;tigt die Möglichkeit zum Widerruf von Darlehensvertr&auml;gen bei Belehrungsfehlern. Streitig waren vorliegend vor allem die Schadensberechnung und auch die Frage, ob der Kl&auml;ger &uuml;berhaupt Verbraucher im Sinne des &sect; 13 BGB war, da diesem mehrere Immobilien gehören, welche er selbst verwaltete.&nbsp;
+Die Entscheidung ist inhaltlich nachvollziehbar und best&auml;tigt die Möglichkeit zum Widerruf von Darlehensvertr&auml;gen bei der BHW Bankg AG bei Belehrungsfehlern.
+
+Streitig waren vorliegend vor allem die Schadensberechnung und auch die Frage, ob der Kl&auml;ger &uuml;berhaupt Verbraucher im Sinne des &sect; 13 BGB war, da diesem mehrere Immobilien gehören, welche er selbst verwaltete.&nbsp;
 
 Wir werden weiter &uuml;ber den Vorgang berichten.&nbsp;
 
