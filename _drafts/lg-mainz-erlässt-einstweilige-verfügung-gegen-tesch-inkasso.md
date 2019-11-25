@@ -27,6 +27,8 @@ Bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin meldete sich Ende O
 
 Am 16.07.2019 wurde daher ein Vollstreckungsbescheid zu Gunsten der Stromio GmbH erlassen. Den Forderungseinzug &uuml;bernahm die Firma Tesch Inkasso Forderungsmanagement GmbH. Der Vollstreckungsbescheid war durch einen Rechtsanwalt in Leverkusen beantragt worden.&nbsp;
 
+![Stromrechnung - Bild von Christian Oehlenberg auf Pixabay](/uploads/stromkosten-533818-640.jpg "Schufa löscht Eintrag der Tesch Inkasso für Stromio"){: width="640" height="518"}
+
 Am 22.07.2019 &uuml;berwies der betroffene Familienvater den Betrag, der aus dem Vollstreckungsbescheid ersichtlich war auf das angegebene Konto des Rechtsanwalts. Dennoch erfolgte durch die Tesch Inkasso ein Negativeintrag bei der Schufa Holding AG.&nbsp;
 
 Hiergegen wandte sich der Betroffene mit Hilfe von Rechtsanwalt Dr. Sven Tintemann, Gr&uuml;ndungspartner und Experte f&uuml;r Datenschutzrecht, mit einem Schreiben vom 30.10.2019.&nbsp;
