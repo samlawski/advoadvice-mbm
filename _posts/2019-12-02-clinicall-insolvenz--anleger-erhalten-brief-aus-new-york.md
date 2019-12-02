@@ -29,7 +29,7 @@ Das Gesch&auml;ftsmodell der ClinicAll Germany GmbH, n&auml;mlich die Herstellun
 
 Das Vertrauen der Anleger wurde weiter ersch&uuml;ttert, als Ende Oktober 2019 das Insolvenzverfahren in Eigenverwaltung scheiterte. [AdvoAdvice berichtete](https://advoadvice.de/blog/clinicall-germany-gmbh-sorgen-der-anleger-best%C3%A4tigt-schutzschirmverfahren-gescheitert/). Offensichtlich war eine angestrebte Sanierung in Eigenverwaltung nicht mehr möglich bzw. aussichtslos, weshalb seitens des zust&auml;ndigen Insolvenzgerichtes ein vorl&auml;ufiger Insolvenzverwalter einer renommierten auf Insolvenzrecht spezialisierten Rechtsanwaltskanzlei eingesetzt wurde. Dieser &uuml;bernahm die bisherigen Aufgaben der Gesch&auml;ftsf&uuml;hrung der ClinicAll Germany GmbH und pr&uuml;ft fortan Sanierungsmöglichkeiten, muss aber auch zu gegebener Zeit entscheiden, ob eine Sanierung noch möglich ist oder ob ein Regelinsolvenzverfahren &uuml;ber das Vermögen der deutschen ClinicAll GmbH betrieben werden muss. Aufgabe des vorl&auml;ufigen Insolvenzverwalters ist es insbesondere zu pr&uuml;fen, ob die bestehenden Vermögensverh&auml;ltnisse der insolventen ClinicAll Germany GmbH die Kosten eines Insolvenzverfahren decken werden.
 
-**Plötzliche Post aus New York f&uuml;r die Anleger**
+#### **Plötzliche Post aus New York f&uuml;r die Anleger**
 
 Anscheinend möchte sich die Gesch&auml;ftsf&uuml;hrung der ClinicAll aber nicht so einfach geschlagen geben. Mit Datum vom 26. November 2019 erreichte nun viele Anleger ein Schreiben der „ClinicAll International Corporation“ aus New York, USA. Darin wird den Anlegern geraten, doch Vertrauen in das Gesch&auml;ftsmodell der ClinicAll Gesellschaften zu haben weil die tats&auml;chliche Lage besser sei als in der Öffentlichkeit dargestellt.&nbsp;
 
@@ -37,7 +37,7 @@ Es w&uuml;rden laufende Basiseinnahmen aus bestehenden Vertr&auml;gen erzielt we
 
 Es soll, so schildert es die ClinicAll International Corporation in ihrem Schreiben vom 26.11.19, im Rahmen einer Kr&auml;fteb&uuml;ndelung gemeinsam mit den weltweiten Tochtergesellschaften ein „Gl&auml;ubigerfonds unterst&uuml;tzt“ werden, aus dem ratierliche Aussch&uuml;ttungen an Anleger und Gl&auml;ubiger erfolgen sollen. Dar&uuml;ber soll in der nach der Eröffnung des Insolvenzverfahren anzuberaumenden Gl&auml;ubigerversammlung abgestimmt werden. Zudem sollen die Anleger bzw. Gl&auml;ubiger daf&uuml;r stimmen, das Schutzschirmverfahren in Eigenverwaltung wieder aufleben zu lassen um einer „derzeit angedachten Zerschlagung der ClinicAll Germany GmbH im Rahmen einer Regelinsolvenz“ entgegenzuwirken.
 
-**ClinicAll International Corp. schl&auml;gt einen Rechtsanwalt vor**
+#### **ClinicAll International Corp. schl&auml;gt einen Rechtsanwalt vor**
 
 Beigelegt ist dem Schreiben ebenfalls eine Blanko-Vollmacht zugunsten eines Rechtsanwaltes, der -im Falle der Beauftragung durch den angeschriebenen Anleger- diesen in einer zuk&uuml;nftigen Gl&auml;ubigerversammlung mit einer Weisung dahingehend vertreten soll, „der Durchf&uuml;hrung des von der ClinicAll International Corporation vorgeschlagenen Schutzschirmverfahrens in Eigenverwaltung zuzustimmen“.
 
