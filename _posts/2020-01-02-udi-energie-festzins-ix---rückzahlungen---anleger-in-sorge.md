@@ -29,7 +29,7 @@ Die UDI GmbH (bis zum 17.05.0219 "UDI Beratungsgesellschaft mbH"), ist ein gro&s
 
 Bereits am 12.6.2019 hatte die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (Bafin) bez&uuml;glich der UDI Gesellschaften UDI Sprint Festzins IV GmbH & Co. KG, UDI Energie Festzins 12 GmbH & Co. KG, UDI Energie Festzins 11 GmbH & Co. KG sowie UDI Energie Festzins 10 GmbH & Co. KG auf einen möglichen Ausfall von Forderungen hingewiesen und damit eine Veröffentlichung der genannten Gesellschaften gem&auml;&szlig; &sect; 11a Abs. 1 Vermögensanlagegesetz(VermAnlG) bekannt gemacht. Rechtsanwalt Klevenhagen von der auf Bank- und Kapitalmarktrecht spezialisierten Berliner Fachanwalts-Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB berichtete, von dem Hintergrund dieser Meldungen der BaFin, dass auch die Forderungen der Anleger gef&auml;hrdet sein könnten oder mit einem etwaigen Verlust des angelegten Geldes zu rechnen sein könnte. Den Bericht finden Sie [hier](https://advoadvice.de/blog/udi-sprint-festzins-iv-festzins-121110-gmbh-co-kg-bafin-gibt-hinweis-auf-m%C3%B6glichen-ausfall-von-zinszahlungen-und-forderungen/).
 
-Anscheinend wird es jetzt auch f&uuml;r viele Anleger weiterer UDI Anlageformen ernst.
+Anscheinend wird es jetzt auch f&uuml;r Anleger einer weiteren UDI Anlageform ernst.
 
 ### UDI Energie Festzins IX - Wohin geht die Reise?
 
