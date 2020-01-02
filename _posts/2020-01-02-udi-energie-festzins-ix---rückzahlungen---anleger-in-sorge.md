@@ -45,7 +45,7 @@ Die Anlegerin sieht darin eine "Hinhaltetaktik" und bef&uuml;rchtet einen Verlus
 
 Nat&uuml;rlich wurde seitens der UDI auch z.B. in dem zum UDI Energie Festzins IX gehörenden Vermögensanlagen-Informationsblatt (VIB) &uuml;ber Risiken aufgekl&auml;rt, die ggf. bis zum Totalverlust gehen könnten. Die Frage ist aber immer auch, ob und wie jeder Anleger anlagegerecht und anlegergerecht beraten wurde und ob hier eine ausreichende Risiko-Aufkl&auml;rung zur Mittelverwendung stattgefunden hat. Dies w&auml;re im Einzelfall zu pr&uuml;fen und zu bewerten.
 
-### Nachrangdarlehen und das Wort Festzins
+### Nachrangdarlehen und das Wort "Festzins"
 
 Der Name der genannten und von der UDI vertriebenen Anlagen und insbesondere die Benutzung des Wortes „Festzins” klingt nach einer bank&auml;hnlichen und einigerma&szlig;en sicheren Geldanlage mit stetiger Rendite. Dies ist allerdings so nicht ganz richtig. Denn bei den Investitionen, die die Gesellschaften mit dem Geld ihrer Anleger betreiben, handelt es sich rechtlich um sogenannten “Nachrangdarlehen”, die mit einem wesentlich höheren Risiko f&uuml;r den jeweiligen Darlehensgeber verbunden sind. Insbesondere ist auch ein f&uuml;r den Anleger durch die Gesellschaft&nbsp; an Dritte (wie z.B. die Projektgesellschaften f&uuml;r Windkraftanlagen, Biogasanlagen und Solarprojekte) gew&auml;hrtes Nachrangdarlehen kein Festgeld wie bei einer Bank.
 
