@@ -37,10 +37,10 @@ defaults:
 markdown: kramdown
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll/tagging
-  # - jekyll-tagging-related_posts
+  - jekyll-tagging-related_posts
   - jekyll-assets
   - jekyll-sitemap
 
@@ -53,6 +53,8 @@ assets:
     browsers:
       - "last 2 versions"
       - "IE > 9"
+  sources:
+    - _assets/javascripts
 exclude:
   - Gemfile
   - Gemfile.lock
