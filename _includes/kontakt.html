@@ -1,4 +1,4 @@
-<form name="kontakt" method="post" action="/danke">
+<form name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
   <div class="form-group">
     <input type="text" class="form-control" placeholder="Vor- und Nachname*" name="Name" value="" required>
   </div>
@@ -11,14 +11,9 @@
   <div class="form-group">
     <textarea class="form-control" placeholder="Ihre Nachricht*" rows="4" name="Nachricht" required></textarea>
   </div>
-
-  <input type="hidden" name="_subject" value="Webseite Kontaktformular">
-  <input type="hidden" name="_to" value="info@advoadvice.de">
-  <input type="text" name="_gotcha" style="display: none;">
-
   <label for="gdpr_check">
     <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
-    <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister CloudCannon einverstanden.</small>
+    <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister netlify einverstanden.</small>
   </label>
   <script>
     function enableSubmit(){ $(".send-form").removeClass("hidden") }
