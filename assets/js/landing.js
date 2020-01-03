@@ -11,7 +11,7 @@ var landing = (function(){
     $(document).on('scroll', function(){
       var newPosition = parseInt(yPos) + ($(document).scrollTop() * 0.05);
 
-      $header.css('background-position-y', `${newPosition}%`);
+      $header.css('background-position-y', newPosition + "%");
     });
   };
 
@@ -28,11 +28,11 @@ var landing = (function(){
 
         if(elementOffset > scrollBottom){
           // Element not visible yet:
-          $element.css('background-position-y', `${originalPosition}%`);
+          $element.css('background-position-y', originalPosition + "%");
         }else{
           // Element inside visible space:
           var newPosition = parseInt(originalPosition) + (Math.max(0, scrollBottom - elementOffset) * 0.05);
-          $element.css('background-position-y', `${newPosition}%`);
+          $element.css('background-position-y', newPosition + "%");
         }
       });
     });
