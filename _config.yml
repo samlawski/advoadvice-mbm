@@ -49,6 +49,8 @@ paginate_path: "/blog/page:num/"
 # tag_page_layout: tag_page
 # tag_page_dir: /blog/thema/
 assets:
+  compression: true
+  gzip: true
   autoprefixer:
     browsers:
       - "last 2 versions"
