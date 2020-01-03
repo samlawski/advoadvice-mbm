@@ -11,7 +11,7 @@ email: info@advoadvice.com
 keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
 description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://advoadvice.de" # the base hostname & protocol for your site
 
 include:
   - _redirects
