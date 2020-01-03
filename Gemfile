@@ -10,5 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
 
   gem 'jekyll-autoprefixer'
-  gem 'jekyll-compress-images', :git => 'https://github.com/valerijaspasojevic/jekyll-compress-images.git'
+  # gem 'jekyll-compress-images', :git => 'https://github.com/valerijaspasojevic/jekyll-compress-images.git'
 end
