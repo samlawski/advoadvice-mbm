@@ -1,3 +1,6 @@
+---
+# Frontmatter required for this file to be transformed by Jekyll
+---
 @charset "utf-8";
 
 // Our variables
@@ -39,9 +42,9 @@ $on-laptop:        800px;
 }
 
 @import
-  "_sass/main",
-  "_sass/schufa_beratung",
-  "_sass/landing",
-  "_sass/topic",
-  "_sass/loader"
+  "layout",
+  "schufa_beratung",
+  "landing",
+  "topic",
+  "loader"
 ;

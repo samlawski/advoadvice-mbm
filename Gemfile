@@ -1,18 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3'
-
-# gem "mini_magick"
-gem "autoprefixer-rails"
-gem "sprockets", "~> 3.7" # to avoid "wrong number of arguments" error 
-gem "sprockets-es6"
-# gem "classifier-reborn" # For related posts
+gem 'jekyll', '~> 4'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-tagging', '1.1.0'
-  gem 'jekyll-tagging-related_posts'#, :path => "_plugins/jekyll-tagging-related_posts-master"
+  gem 'jekyll-tagging-related_posts'
   gem 'jekyll-sitemap'
-  gem "jekyll-assets"
   gem 'jekyll-redirect-from'
+
+  gem 'jekyll-autoprefixer'
 end
