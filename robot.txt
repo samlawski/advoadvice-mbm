@@ -5,3 +5,5 @@ User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 
 Disallow: /*danke
+Disallow: /blog/posts-api.json
+Disallow: /404
