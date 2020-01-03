@@ -1,11 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# Site Settings
 title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
 email: info@advoadvice.com
 keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
@@ -13,9 +6,7 @@ description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://advoadvice.de" # the base hostname & protocol for your site
 
-include:
-  - _redirects
-
+# Collection Settings
 collections:
   team_members:
     output: true
@@ -25,7 +16,7 @@ collections:
   posts:
     permalink: /blog/:title/
 
-# Default settings
+# Content Defaults
 defaults:
   -
     scope:
@@ -35,28 +26,34 @@ defaults:
 
 # Build settings
 markdown: kramdown
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll/tagging
-  - jekyll-tagging-related_posts
-  - jekyll-assets
-  - jekyll-sitemap
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-# tag_page_layout: tag_page
-# tag_page_dir: /blog/thema/
-assets:
-  compression: true
-  gzip: true
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
-  sources:
-    - _assets/javascripts
+sass:
+  sass_dir: _sass
+  style: compressed
+include:
+  - _redirects # Netlify Redirects
 exclude:
   - Gemfile
   - Gemfile.lock
+
+
+# Plugin Settings
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+  - jekyll-autoprefixer
+  # - jekyll-compress-images # activate periodically to compress all images
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+autoprefixer:
+  browsers:
+    - "last 2 versions"
+    - "IE > 9"
+# compress_images:
+#   images_path: "uploads/**/*.{gif,png,jpg,jpeg,svg}"
+# imageoptim:
+#   svgo: false
+#   verbose: false

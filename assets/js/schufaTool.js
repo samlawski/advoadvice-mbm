@@ -46,7 +46,7 @@ var schufaTool = (function(){
     // Slide Specific logic:
     runSlideLogic(thisState.progress, thisState.category, 'beforeExit')
     // Set new progress state
-    let summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
+    var summand = $(this).hasClass('schufaTool__progress--next') ? 1 : -1
     thisState.progress += summand
     // Slide Specific logic:
     runSlideLogic(thisState.progress, thisState.category, 'beforeInit')
@@ -65,7 +65,7 @@ var schufaTool = (function(){
   var onCategoryClick = function(){
     thisState.category = $(this).data('category')
     thisState.$removedSlides = [] // reset
-    thisState.$slides = slideTemplates[thisState.category].map(selectorString => {
+    thisState.$slides = slideTemplates[thisState.category].map(function(selectorString){
       // Select and clone templates from DOM
       return $('.schufaTool__templates').find(selectorString).clone()
     })
@@ -89,13 +89,13 @@ var schufaTool = (function(){
 
   // ***** Private *****
 
-  var formPresent = () => thisState.$app.find('form').length > 0
-  var finalSlide = () => thisState.progress >= (thisState.$slides.length - 1)
-  var questionAnswerString = (frage) => {
-    let questionObject = thisState.quiz[thisState.category].find(obj => obj.frage == frage)
+  var formPresent = function() { return thisState.$app.find('form').length > 0 }
+  var finalSlide = function() { return thisState.progress >= (thisState.$slides.length - 1) }
+  var questionAnswerString = function(frage) {
+    var questionObject = thisState.quiz[thisState.category].find(function(obj){return obj.frage == frage})
     return (typeof questionObject == 'undefined') ? false : questionObject.antwort
   }
-  var questionAnswer = (frage, antwort) => questionAnswerString(frage) == antwort
+  var questionAnswer = function(frage, antwort) { return questionAnswerString(frage) == antwort }
 
   var copyCurrentSlideToState = function(){
     thisState.$slides.splice(thisState.progress, 1, thisState.$app.children().clone())
@@ -125,14 +125,14 @@ var schufaTool = (function(){
     finalSlide() ? hideProgressButtonsOnFinalSlide() : reloadProgressButtons()
 
     function reloadSlide(){
-      let progressDifferent = thisState.$app.data('progress') != thisState.progress
+      var progressDifferent = thisState.$app.data('progress') != thisState.progress
       if(progressDifferent) renderAndBind()
     }
     function reloadProgressButtons(){
-      let categorySelected = thisState.category.length > 0
-      let allRequiredFieldsFilled = () => {
+      var categorySelected = thisState.category.length > 0
+      var allRequiredFieldsFilled = function(){
         if(!formPresent()) return true
-        let formFieldArray = thisState.$app.find('.form-group').map(function(){
+        var formFieldArray = thisState.$app.find('.form-group').map(function(){
           // For each form group check if it contains a required input field
           if($(this).find('[type="radio"][required]').length > 0){
             return $(this).find('[type="radio"][required]').is(':checked')
@@ -156,7 +156,7 @@ var schufaTool = (function(){
     }
   }
 
-  var updateStateFromForm = isContactForm => {
+  var updateStateFromForm = function(isContactForm){
     if(isContactForm){
       thisState.formContact = serializedObjectFromForm()
     }else{
@@ -169,34 +169,34 @@ var schufaTool = (function(){
   }
 
   var addOrReplace = function(originalArray, newArray){
-    newArray.map(newObj => {
-      var indexOfQuestion = originalArray.map(obj => obj.frage).indexOf(newObj.frage)
+    newArray.map(function(newObj){
+      var indexOfQuestion = originalArray.map(function(obj){return obj.frage}).indexOf(newObj.frage)
       return (indexOfQuestion < 0) ? originalArray.push(newObj) : originalArray.splice(indexOfQuestion, 1, newObj)
     })
   }
 
-  var serializedObjectFromForm = () => {
-    return thisState.$app.find('form').serializeArray().map(obj => {
+  var serializedObjectFromForm = function(){
+    return thisState.$app.find('form').serializeArray().map(function(obj) {
       return {
-        frage: $(`.schufaTool [for="${obj.name}"]`).text().trim(),
+        frage: $('.schufaTool [for="' + obj.name + '"]').text().trim(),
         antwort: obj.value
       }
     })
   }
 
   // ***** Submit *****
-  const submit = () => {
+  var submit = function(){
     var stringOfContactState = thisState.formContact
-      .filter(obj => obj.antwort.length > 0)
-      .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+      .filter(function(obj){return obj.antwort.length > 0})
+      .map(function(obj){return obj.frage + ": " + obj.antwort + " |\n"})
       .join('')
     var stringOfQuizState = Object.values(thisState.quiz)
-      .map(quiz => {
-        return quiz.filter(obj => obj.antwort.length > 0)
-          .map(obj => `${obj.frage}: ${obj.antwort} |\n`)
+      .map(function(quiz){
+        return quiz.filter(function(obj){return obj.antwort.length > 0})
+          .map(function(obj){return obj.frage + ": " + obj.antwort + " |\n"})
           .join('')
       }).join('')
-    var messageString = `${thisState.formContact[0].antwort} hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ${stringOfContactState} ||\n\n ${stringOfQuizState}`
+    var messageString = thisState.formContact[0].antwort + ' hat den Vorabcheck durchgeführt und folgende Dinge ausgefüllt: \n\n\n ' + stringOfContactState + ' ||\n\n ' + stringOfQuizState
     var $finalForm = $('.schufaTool__finalForm')
 
     $finalForm.find('[name="antworten"]').val(messageString)
@@ -206,10 +206,10 @@ var schufaTool = (function(){
   }
 
   // ***** Slide Specific Logic *****
-  const slideLogic = {
+  var slideLogic = {
     negativeintrag: {
       '1': {
-        beforeExit: () => {
+        beforeExit: function(){
           // Set Auswertung
           thisState.auswertung = getAuswertungBasedOnQuizAnswers()
           // Remove Auswertungsslide if there is no Auswertung
@@ -227,9 +227,9 @@ var schufaTool = (function(){
           // Private Functions
           function getAuswertungBasedOnQuizAnswers(){
             try {
-              let answeredYes = i => thisState.quiz[thisState.category][i].antwort == "Ja"
-              let answeredNo = i => thisState.quiz[thisState.category][i].antwort == "Nein"
-              let answerArray = []
+              var answeredYes = function(i){return thisState.quiz[thisState.category][i].antwort == "Ja"}
+              var answeredNo = function(i){return thisState.quiz[thisState.category][i].antwort == "Nein"}
+              var answerArray = []
 
               if(answeredYes(2)) answerArray.push(".schufaTool__negativeintrag__auskunft--a")
               if(answeredNo(2) && answeredNo(8) && answeredNo(10)) answerArray.push(".schufaTool__negativeintrag__auskunft--b")
@@ -243,26 +243,26 @@ var schufaTool = (function(){
         } // /beforeExit
       },
       '2': {
-        afterRender: () => {
+        afterRender: function(){
           if(thisState.$app.find('.schufaTool__category--negativeintrag--2').length > 0){
             // Show correct auswertung
             thisState.$app.find('.schufaTool__auskunft').hide()
-            thisState.auswertung.map(answerClass => thisState.$app.find(answerClass).show())
+            thisState.auswertung.map(function(answerClass){return thisState.$app.find(answerClass).show()})
           }else{
             // Looking at the kontakt form:
             $('.schufaTool__progress--next').text('Abschicken')
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
       },
       '3': {
-        afterRender: () => {
+        afterRender: function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
-        beforeExit: () => {
+        beforeExit: function(){
           if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -270,7 +270,7 @@ var schufaTool = (function(){
     },
     score: {
       '1': {
-        beforeExit: () => {
+        beforeExit: function(){
           if(thisState.quiz[thisState.category][0].antwort == 'Nein' &&
             thisState.$slides[2].hasClass('schufaTool__category--score--1a')){
             // Remove the follow up questions slide
@@ -284,7 +284,7 @@ var schufaTool = (function(){
         }
       },
       '2': {
-        afterRender: () => {
+        afterRender: function(){
           try {
             thisState.$app.find('.schufaTool__auskunft').hide()
 
@@ -306,7 +306,7 @@ var schufaTool = (function(){
             // console.log(e)
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           // Remove rest of the game for the first answer
           if(thisState.$app.find('.schufaTool__category--score--2') &&
             thisState.quiz[thisState.category][2].antwort == '>95%' &&
@@ -319,7 +319,7 @@ var schufaTool = (function(){
         }
       },
       '3': {
-        afterRender: () => {
+        afterRender: function(){
           // If this is auswertungsslide
           try {
             thisState.$app.find('.schufaTool__auskunft').hide()
@@ -346,7 +346,7 @@ var schufaTool = (function(){
             $('.schufaTool__progress--next').text('Abschicken')
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           // In case this is not yet contact but just auswertungsslide
           if(thisState.$app.find('.schufaTool__category--score--2') &&
             thisState.quiz[thisState.category][2].antwort == '>95%' &&
@@ -362,12 +362,12 @@ var schufaTool = (function(){
         }
       },
       '4': {
-        afterRender: () => {
+        afterRender: function(){
           if(thisState.$app.find('.schufaTool__form--kontakt').length > 0){
             $('.schufaTool__progress--next').text('Abschicken')
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           if(thisState.$app.find('.schufaTool__form--kontakt').length > 0) submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -375,41 +375,41 @@ var schufaTool = (function(){
     },
     fraud: {
       '1': {
-        beforeExit: () => {
-          if(thisState.quiz[thisState.category].map(obj => obj.antwort).indexOf('Ja') < 0){
+        beforeExit: function(){
+          if(thisState.quiz[thisState.category].map(function(obj){return obj.antwort}).indexOf('Ja') < 0){
             // If both questions answered with no: insert last placeholder slide
             // Remove final slides and replace it with the final slide
-            let $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--5').clone()
+            var $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--5').clone()
             thisState.$slides.splice(2, 4, $finalSlide)
           }
         }
       },
       '2': {
-        afterRender: () => {
+        afterRender: function(){
           if(finalSlide()) return
 
           $('.schufaTool__form--fraud__placeholder').html('') // reset form
           // Insert form for the corresponding answer of the previous slide
           if(thisState.quiz[thisState.category][0].antwort == "Ja"){
             thisState.$app.find('[name="fraud__91"]').val('Ja')
-            let $identitaetsForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--a').clone()
+            var $identitaetsForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--a').clone()
             $('.schufaTool__form--fraud__placeholder').append($identitaetsForm)
           }
           if(thisState.quiz[thisState.category][1].antwort == "Ja"){
             thisState.$app.find('[name="fraud__92"]').val('Ja')
-            let $fraudForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--b').clone()
+            var $fraudForm = $('.schufaTool__templates').find('.schufaTool__form--fraud--b').clone()
             $('.schufaTool__form--fraud__placeholder').append($fraudForm)
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           if(questionAnswer('Identitätsdiebstahl: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?', 'Nein')){
-            let $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--4').clone()
+            var $finalSlide = $('.schufaTool__templates').find('.schufaTool__category--fraud--4').clone()
             thisState.$slides.splice(3, 3, $finalSlide)
           }
         }
       },
       '3': {
-        afterRender: () => {
+        afterRender: function(){
           if(finalSlide()) return
 
           thisState.$app.find('.schufaTool__auskunft').hide()
@@ -428,10 +428,10 @@ var schufaTool = (function(){
         }
       },
       '4': {
-        afterRender: () => {
+        afterRender: function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
-        beforeExit: () => {
+        beforeExit: function(){
           submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -439,7 +439,7 @@ var schufaTool = (function(){
     },
     veraltet: {
       '2': {
-        afterRender: () => {
+        afterRender: function(){
           try {
             thisState.$app.find('.schufaTool__auskunft').hide()
 
@@ -461,7 +461,7 @@ var schufaTool = (function(){
             // console.log(e)
           }
         },
-        beforeExit: () => {
+        beforeExit: function(){
           // Remove rest of the game for the first answer
           if(thisState.quiz[thisState.category][2].antwort == '>95%'){
             // Remove final slides
@@ -472,10 +472,10 @@ var schufaTool = (function(){
         }
       },
       '3': {
-        afterRender: () => {
+        afterRender: function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
-        beforeExit: () => {
+        beforeExit: function(){
           submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -483,10 +483,10 @@ var schufaTool = (function(){
     },
     restschuld: {
       '2': {
-        afterRender: () => {
+        afterRender: function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
-        beforeExit: () => {
+        beforeExit: function(){
           submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -494,7 +494,7 @@ var schufaTool = (function(){
     },
     verzeichnisse: {
       '1': {
-        beforeExit: () => {
+        beforeExit: function(){
           if(thisState.quiz[thisState.category][0].antwort == 'Nein'){
             // Remove final slides
             thisState.$slides.splice(2, 3)
@@ -504,10 +504,10 @@ var schufaTool = (function(){
         }
       },
       '3': {
-        afterRender: () => {
+        afterRender: function(){
           $('.schufaTool__progress--next').text('Abschicken')
         },
-        beforeExit: () => {
+        beforeExit: function(){
           submit()
           $('.schufaTool__progress--next').text('Weiter')
         }
@@ -515,7 +515,7 @@ var schufaTool = (function(){
     }
   }
 
-  const runSlideLogic = (progressIndex, category, action) => {
+  var runSlideLogic = function(progressIndex, category, action){
     try{
       // Available Actions: 'beforeInit', 'beforeExit', 'afterRender'
       slideLogic[category][progressIndex][action]()
@@ -527,7 +527,7 @@ var schufaTool = (function(){
 
   // ***** Constants *****
 
-  const slideTemplates = {
+  var slideTemplates = {
     negativeintrag: [
       '.schufaTool__slide--0',
       '.schufaTool__category--negativeintrag--1',
