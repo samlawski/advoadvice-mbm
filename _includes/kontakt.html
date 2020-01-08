@@ -15,10 +15,10 @@
     <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
     <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister netlify einverstanden.</small>
   </label>
-  <script>
-    function enableSubmit(){ $(".send-form").removeClass("hidden") }
-    function disableSubmit(){ $(".send-form").addClass("hidden") }
-  </script>
-  <div class="g-recaptcha" data-sitekey="6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn" data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
+  <label for="cookie_check">
+    <input type="checkbox" name="cookie_check" id="cookie_check" required>
+    <small>&nbsp;&nbsp;Mit der Nutzung des Formulars stimme ich der Nutzung von Cookies auf dieser Webseite zu. Wir verwenden diese Cookies, um Spam-Nachrichten zu verhindern.</small>
+  </label>
+  <div id="captcha_container"></div>
   <input type="submit" class="send-form btn btn-default hidden" value="Abschicken">
 </form>
