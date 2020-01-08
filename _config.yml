@@ -55,6 +55,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page-:num/"
+seo_paginator_message: "Blog Seite %{current} von %{total} | "
 
 autoprefixer:
   browsers:
