@@ -1,7 +1,7 @@
 ---
 title: 'LG Dresden: Urteil im Infinus Strafverfahren'
 date: 2018-07-10 00:00:00
-seo_beschreibung: Infinus Skandal - Strafurteil gegen Hintermänner
+description: Infinus Skandal - Strafurteil gegen Hintermänner
 layout: post
 feature_bild_path:
 tags:

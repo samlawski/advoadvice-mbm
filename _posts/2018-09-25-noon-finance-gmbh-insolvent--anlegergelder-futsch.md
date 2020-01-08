@@ -1,7 +1,7 @@
 ---
 title: Noon Finance Gmbh insolvent. Anlegergelder futsch?
 date: 2018-09-25 00:00:00
-seo_beschreibung: Noon Finance Gmbh insolvent. Was Anleger jetzt wissen müssen.
+description: Noon Finance Gmbh insolvent. Was Anleger jetzt wissen müssen.
 layout: post
 feature_bild_path:
 tags:

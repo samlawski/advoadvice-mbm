@@ -1,7 +1,7 @@
 ---
 title: 4. Infotag zur Lettland Insolvenz
 date: 2019-09-09 00:00:00
-seo_beschreibung: 4. Infotag zur Lettland Insolvenz
+description: 4. Infotag zur Lettland Insolvenz
 layout: post
 feature_bild_path:
 tags:

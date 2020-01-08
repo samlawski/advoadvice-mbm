@@ -3,7 +3,7 @@ title: >-
   LG Lübeck verurteilt Google - Unberechtigte 1-Sterne-Bewertung darf nicht
   angezeigt werden
 date: 2018-09-27 00:00:00
-seo_beschreibung: Google muss Fake-Bewertung löschen
+description: Google muss Fake-Bewertung löschen
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Rückabwicklung des Immobilienkaufs - Notarhaftung im Fokus
 date: 2018-06-29 00:00:00
-seo_beschreibung: Notarhaftung bei Immobilienkauf
+description: Notarhaftung bei Immobilienkauf
 layout: post
 feature_bild_path:
 tags:

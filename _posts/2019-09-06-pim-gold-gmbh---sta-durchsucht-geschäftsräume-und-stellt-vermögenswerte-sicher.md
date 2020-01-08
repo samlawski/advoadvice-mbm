@@ -1,7 +1,7 @@
 ---
 title: PIM Gold GmbH - StA durchsucht Geschäftsräume und stellt Vermögenswerte sicher
 date: 2019-09-06 00:00:00
-seo_beschreibung: >-
+description: >-
   PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
   Vermögenswerte sicher
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Unberechtigte Forderung der Synergie Inkasso GmbH?
 date: 2017-12-15 00:00:00
-seo_beschreibung: >-
+description: >-
   Die Synergie Inkasso GmbH kann die Forderungsinhaberschaft häufig nicht
   nachweisen.
 layout: post

@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd: Anleger verwirrt durch Auskünfte von Anlegerverwaltung und
   Kanzlei aus München
 date: 2019-02-27 00:00:00
-seo_beschreibung: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
+description: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'SAM AG: OLG Karlsruhe bestätigt Verurteilung von SAM AG Verwaltungsrat'
 date: 2018-04-30 00:00:00
-seo_beschreibung: OLG Karlsruhe bestätigt Entscheidung des LG Mosbach in Sachen SAM AG
+description: OLG Karlsruhe bestätigt Entscheidung des LG Mosbach in Sachen SAM AG
 layout: post
 feature_bild_path:
 tags:

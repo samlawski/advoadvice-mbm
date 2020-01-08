@@ -3,7 +3,7 @@ title: >-
   LG Berlin: Nachrangabrede der DEF Deutsche Energie Finanz 11 GmbH & Co. KG
   unwirksam
 date: 2018-05-07 00:00:00
-seo_beschreibung: >-
+description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG durch Landgericht Berlin zur
   Zahlung verurteilt
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: 'ShareWood Switzerland AG: Keine Rendite mit Balsaholz'
 date: 2019-11-11 00:00:00
-seo_beschreibung: Balsa-Bauminvest nichts mehr wert? Was Anleger wissen sollten.
+description: Balsa-Bauminvest nichts mehr wert? Was Anleger wissen sollten.
 layout: post
 feature_bild_path:
 tags:

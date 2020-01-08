@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd: Welche Antwort sollten Anleger der Gesellschaft bis zum
   28.02.2019 geben?
 date: 2019-02-24 00:00:00
-seo_beschreibung: 'ThomasLloyd: Vorsicht bei der Nutzung von vorgegebenen Antworten'
+description: 'ThomasLloyd: Vorsicht bei der Nutzung von vorgegebenen Antworten'
 layout: post
 feature_bild_path:
 tags:

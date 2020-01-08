@@ -1,7 +1,7 @@
 ---
 title: Kommt Abwrack-Prämie für ältere Diesel?
 date: 2018-09-17 00:00:00
-seo_beschreibung: Kommt jetzt Abwrack-Prämie für alte Diesel?
+description: Kommt jetzt Abwrack-Prämie für alte Diesel?
 layout: post
 feature_bild_path:
 tags:

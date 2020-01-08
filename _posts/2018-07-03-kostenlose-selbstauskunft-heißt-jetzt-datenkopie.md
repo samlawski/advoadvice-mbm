@@ -1,7 +1,7 @@
 ---
 title: Kostenlose Selbstauskunft heißt jetzt Datenkopie
 date: 2018-07-03 00:00:00
-seo_beschreibung: Die neue Datenkopie der SCHUFA
+description: Die neue Datenkopie der SCHUFA
 layout: post
 feature_bild_path:
 tags:

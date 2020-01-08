@@ -3,7 +3,7 @@ title: >-
   Haftung des Notars bei sogenannten „Schrottimmobilien" - wenn der Notar ins
   Fadenkreuz gerät
 date: 2018-08-20 00:00:00
-seo_beschreibung: >-
+description: >-
   Haftung Des Notars Bei Sogenannten Schrottimmobilien Wenn der Notar Ins
   Fadenkreuz Gerät
 layout: post

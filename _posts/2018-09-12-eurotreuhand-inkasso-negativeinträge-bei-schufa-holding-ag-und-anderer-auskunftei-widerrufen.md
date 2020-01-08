@@ -3,7 +3,7 @@ title: >-
   Eurotreuhand Inkasso: Negativeinträge bei Schufa Holding AG und anderer
   Auskunftei widerrufen
 date: 2018-09-12 00:00:00
-seo_beschreibung: Eurotreuhand Inkasso widerruft Negativeintrag bei der SCHUFA
+description: Eurotreuhand Inkasso widerruft Negativeintrag bei der SCHUFA
 layout: post
 feature_bild_path:
 tags:

@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd: Brexit Verlängerung hilft Anlegern bei Klagen gegen englische
   Ltd.
 date: 2019-04-15 00:00:00
-seo_beschreibung: >-
+description: >-
   Thomas Lloyd: Brexit Verschiebung hilft Anlegern bei Klagen gegen englische
   Limited.
 layout: post

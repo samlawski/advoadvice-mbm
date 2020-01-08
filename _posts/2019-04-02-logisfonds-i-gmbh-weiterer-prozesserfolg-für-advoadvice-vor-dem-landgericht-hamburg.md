@@ -3,7 +3,7 @@ title: >-
   Logisfonds I GmbH: Weiterer Prozesserfolg für AdvoAdvice vor dem Landgericht
   Hamburg
 date: 2019-04-02 00:00:00
-seo_beschreibung: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
+description: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
 layout: post
 feature_bild_path:
 tags:

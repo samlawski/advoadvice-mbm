@@ -1,7 +1,7 @@
 ---
 title: 'Real Solution Inkasso: Unterlassungserklärung nach Schufa-Negativeintrag'
 date: 2019-04-12 00:00:00
-seo_beschreibung: >-
+description: >-
   Schufa-Recht: Real Solution Inkasso gibt Unterlassungserklärung nach Löschung
   ab
 layout: post

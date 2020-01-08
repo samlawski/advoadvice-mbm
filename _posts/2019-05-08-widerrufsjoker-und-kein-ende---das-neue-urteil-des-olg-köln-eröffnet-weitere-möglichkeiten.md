@@ -3,7 +3,7 @@ title: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 date: 2019-05-08 00:00:00
-seo_beschreibung: >-
+description: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 layout: post

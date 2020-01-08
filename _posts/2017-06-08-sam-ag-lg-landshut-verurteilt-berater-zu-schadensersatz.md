@@ -1,7 +1,7 @@
 ---
 title: 'SAM AG: LG Landshut verurteilt Berater zu Schadensersatz'
 date: 2017-06-08 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:

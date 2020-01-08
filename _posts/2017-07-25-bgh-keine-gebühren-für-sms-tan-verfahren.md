@@ -1,7 +1,7 @@
 ---
 title: 'BGH: Keine Gebühren für SMS-TAN Verfahren'
 date: 2017-07-25 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:

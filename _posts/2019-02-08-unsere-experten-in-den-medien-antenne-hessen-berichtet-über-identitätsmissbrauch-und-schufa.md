@@ -3,7 +3,7 @@ title: >-
   Unsere Experten in den Medien: Antenne Hessen berichtet über
   Identitätsmissbrauch und Schufa
 date: 2019-02-08 00:00:00
-seo_beschreibung: Antenne Hessen berichtet über Identitätsmissbrauch und Schufa
+description: Antenne Hessen berichtet über Identitätsmissbrauch und Schufa
 layout: post
 feature_bild_path: /uploads/antenne-hessen.png
 tags:

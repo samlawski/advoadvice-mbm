@@ -1,7 +1,7 @@
 ---
 title: 'LogisFonds I: Klage auf Auszahlung vor AG Hamburg eingereicht'
 date: 2018-10-31 00:00:00
-seo_beschreibung: Klage gegen LogisFonds I GmbH vor Amtsgericht Hamburg eingereicht
+description: Klage gegen LogisFonds I GmbH vor Amtsgericht Hamburg eingereicht
 layout: post
 feature_bild_path:
 tags:

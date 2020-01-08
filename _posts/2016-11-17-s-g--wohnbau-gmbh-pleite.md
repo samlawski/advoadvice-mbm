@@ -1,7 +1,7 @@
 ---
 title: S.G. Wohnbau GmbH pleite
 date: 2016-11-17 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

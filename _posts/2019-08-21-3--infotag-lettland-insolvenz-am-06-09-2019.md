@@ -1,7 +1,7 @@
 ---
 title: 3. Infotag Lettland Insolvenz am 06.09.2019
 date: 2019-08-21 00:00:00
-seo_beschreibung: Informationstag zur Lettland Insolvenz bei AdvoAdvice in Berlin am 06.09.2019
+description: Informationstag zur Lettland Insolvenz bei AdvoAdvice in Berlin am 06.09.2019
 layout: post
 feature_bild_path:
 tags:

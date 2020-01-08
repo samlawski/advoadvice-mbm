@@ -1,7 +1,7 @@
 ---
 title: 'Unsere Kanzlei in der Presse: Hamburger Morgenpost verweist auf unseren Blog'
 date: 2018-06-25 00:00:00
-seo_beschreibung: Hamburger Morgenpost bericht über Blog von AdvoAdvice
+description: Hamburger Morgenpost bericht über Blog von AdvoAdvice
 layout: post
 feature_bild_path: /uploads/mopo-hamburg.png
 tags:

@@ -3,7 +3,7 @@ title: >-
   Barclays Bank: Vergleich vor Landgericht Hamburg nach Antrag auf einstweilige
   Verfügung
 date: 2018-10-11 00:00:00
-seo_beschreibung: Eintrag nach Vergleich widerrufen
+description: Eintrag nach Vergleich widerrufen
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Schufa-Recht - Vergleich mit Advanzia Bank S.A. erstritten
 date: 2016-12-20 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

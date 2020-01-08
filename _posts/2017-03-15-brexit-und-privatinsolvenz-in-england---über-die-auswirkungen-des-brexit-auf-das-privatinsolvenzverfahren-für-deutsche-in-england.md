@@ -1,7 +1,7 @@
 ---
 title: Brexit und Privatinsolvenz in England - Über die Auswirkungen des Brexit auf das Privatinsolvenzverfahren für Deutsche in England
 date: 2017-03-15 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

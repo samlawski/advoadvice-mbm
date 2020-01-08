@@ -1,7 +1,7 @@
 ---
 title: Überraschend schneller Erfolg gegen Generali Versicherung vor LG München I
 date: 2018-06-11 00:00:00
-seo_beschreibung: Prozesserfolg gegen Generali Versicherung
+description: Prozesserfolg gegen Generali Versicherung
 layout: post
 feature_bild_path:
 tags:

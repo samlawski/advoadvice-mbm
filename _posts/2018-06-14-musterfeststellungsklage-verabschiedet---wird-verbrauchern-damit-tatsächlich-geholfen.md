@@ -3,7 +3,7 @@ title: >-
   Musterfeststellungsklage verabschiedet - Wird Verbrauchern damit tatsächlich
   geholfen?
 date: 2018-06-14 10:39:11
-seo_beschreibung: Neue Musterfeststellungsklage beschlossen
+description: Neue Musterfeststellungsklage beschlossen
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: SCHUFA-Eintrag nach gerichtlichem Vergleich widerrufen
 date: 2018-10-19 00:00:00
-seo_beschreibung: 'Synergie Inkasso: Negativeintrag nach Vergleich vor LG Berlin widerrufen'
+description: 'Synergie Inkasso: Negativeintrag nach Vergleich vor LG Berlin widerrufen'
 layout: post
 feature_bild_path:
 tags:
