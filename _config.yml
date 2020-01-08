@@ -54,7 +54,7 @@ plugins:
   # - suggested_posts: filter used to display 3 posts related to the given one
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page-:num/"
 
 autoprefixer:
   browsers:
