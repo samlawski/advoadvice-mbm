@@ -1,7 +1,7 @@
 ---
 title: Versäumnisurteil gegen Advanzia Bank S.A.
 date: 2019-08-30 00:00:00
-seo_beschreibung: >-
+description: >-
   Landgericht Ansbach verurteilt Advanzia Bank S.A. zu Widerruf eines
   Negativeintrages
 layout: post

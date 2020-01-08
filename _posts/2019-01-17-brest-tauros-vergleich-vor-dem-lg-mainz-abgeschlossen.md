@@ -1,7 +1,7 @@
 ---
 title: 'Brest Tauros: Vergleich vor dem LG Mainz abgeschlossen'
 date: 2019-01-17 00:00:00
-seo_beschreibung: >-
+description: >-
   Vergleich bei Klage gegen Verantwortliche der Brest Tauros vor LG Mainz
   abgeschlossen
 layout: post

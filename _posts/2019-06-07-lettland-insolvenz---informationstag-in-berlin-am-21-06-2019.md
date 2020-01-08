@@ -1,7 +1,7 @@
 ---
 title: Lettland Insolvenz - Informationstag in Berlin am 21.06.2019
 date: 2019-06-07 00:00:00
-seo_beschreibung: 'Lettland Insolvenz: AdvoAdvice bietet Informationstag in Berlin an'
+description: 'Lettland Insolvenz: AdvoAdvice bietet Informationstag in Berlin an'
 layout: post
 feature_bild_path:
 tags:

@@ -3,7 +3,7 @@ title: >-
   BBI Beteiligungsgesellschaft Bayrische Immobilien mbH & Co. KG - BaFin ordnet
   Abwicklung des Investmentgeschäfts an
 date: 2018-05-10 00:00:00
-seo_beschreibung: >-
+description: >-
   BaFin ordnet Abwicklung des Investmentgeschäfts der BBI
   Beteiligungsgesellschaft an
 layout: post

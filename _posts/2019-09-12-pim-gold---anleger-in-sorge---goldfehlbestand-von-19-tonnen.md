@@ -1,7 +1,7 @@
 ---
 title: 'PIM Gold - Anleger in Sorge - Goldfehlbestand von 1,9 Tonnen?'
 date: 2019-09-12 00:00:00
-seo_beschreibung: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
+description: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
 layout: post
 feature_bild_path: /uploads/gold-bars-2467833-1920.jpg
 tags:

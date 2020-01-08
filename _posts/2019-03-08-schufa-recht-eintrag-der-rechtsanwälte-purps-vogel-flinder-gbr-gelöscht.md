@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: Eintrag der Rechtsanwälte Purps Vogel Flinder GbR gelöscht'
 date: 2019-03-08 00:00:00
-seo_beschreibung: Schufa löscht titulierte Forderung
+description: Schufa löscht titulierte Forderung
 layout: post
 feature_bild_path:
 tags:

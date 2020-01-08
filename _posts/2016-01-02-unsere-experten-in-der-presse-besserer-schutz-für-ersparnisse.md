@@ -1,7 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Besserer Schutz für Ersparnisse'
 date: 2016-01-02 15:53:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

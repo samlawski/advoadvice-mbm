@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: Eintrag der Volksbank Koblenz Mittelrhein eG gelöscht'
 date: 2019-08-14 00:00:00
-seo_beschreibung: SCHUFA löscht Eintrag nach Beschwerde
+description: SCHUFA löscht Eintrag nach Beschwerde
 layout: post
 feature_bild_path:
 tags:

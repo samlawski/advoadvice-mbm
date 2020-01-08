@@ -1,7 +1,7 @@
 ---
 title: MS Wehr Weser - Insolvenzverwalter verlangt Zahlung von Anlegern
 date: 2019-09-10 00:00:00
-seo_beschreibung: >-
+description: >-
   Insolvenzverwalter der MS Wehr Weser Schiffahrtsgesellschaft fordert Zahlung
   von Anlegern
 layout: post

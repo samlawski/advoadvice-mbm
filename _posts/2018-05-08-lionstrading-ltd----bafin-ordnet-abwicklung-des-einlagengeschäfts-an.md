@@ -1,7 +1,7 @@
 ---
 title: Lionstrading Ltd. - BaFin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-05-08 00:00:00
-seo_beschreibung: Lionstradingclub Ltd. - BaFin ordnet Abwicklung des Einlagengeschäfts an.
+description: Lionstradingclub Ltd. - BaFin ordnet Abwicklung des Einlagengeschäfts an.
 layout: post
 feature_bild_path:
 tags:

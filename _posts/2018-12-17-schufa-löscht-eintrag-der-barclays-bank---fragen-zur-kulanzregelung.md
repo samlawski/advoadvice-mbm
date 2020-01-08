@@ -1,7 +1,7 @@
 ---
 title: SCHUFA löscht Eintrag der Barclays Bank - Fragen zur Kulanzregelung
 date: 2018-12-17 00:00:00
-seo_beschreibung: Schufa-Eintrag wegen alter Kulanzregelung gelöscht
+description: Schufa-Eintrag wegen alter Kulanzregelung gelöscht
 layout: post
 feature_bild_path:
 tags:

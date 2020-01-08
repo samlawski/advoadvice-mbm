@@ -1,7 +1,7 @@
 ---
 title: Leasetrend AG zahlt Raten zum 30.06.2017 nicht wie angekündigt aus.
 date: 2017-06-28 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Premium Safe Ltd: Insolvenzverwalter fordert Auszahlungen von Anlegern zurück'
 date: 2018-09-03 00:00:00
-seo_beschreibung: >-
+description: >-
   Insolvenzverwalter der Premium Safe Ltd. fordert Auszahlungen von Anlegern
   zurück
 layout: post

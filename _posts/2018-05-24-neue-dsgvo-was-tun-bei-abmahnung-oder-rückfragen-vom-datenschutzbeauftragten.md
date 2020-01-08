@@ -1,7 +1,7 @@
 ---
 title: 'Neue DSGVO: Was tun bei Abmahnung oder Rückfragen vom Datenschutzbeauftragten?'
 date: 2018-05-24 00:00:00
-seo_beschreibung: Abmahnungen unter der DSGVO
+description: Abmahnungen unter der DSGVO
 layout: post
 feature_bild_path:
 tags:

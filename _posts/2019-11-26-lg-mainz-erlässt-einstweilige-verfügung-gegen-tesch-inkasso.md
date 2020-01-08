@@ -1,7 +1,7 @@
 ---
 title: LG Mainz erlässt Einstweilige Verfügung gegen Tesch Inkasso
 date: 2019-11-26 00:00:00
-seo_beschreibung: Schufa löscht Negativeintrag der Tesch Inkasso
+description: Schufa löscht Negativeintrag der Tesch Inkasso
 layout: post
 feature_bild_path:
 tags:

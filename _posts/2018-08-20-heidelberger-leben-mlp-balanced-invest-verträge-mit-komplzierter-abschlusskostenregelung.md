@@ -3,7 +3,7 @@ title: |-
   Heidelberger Leben: MLP balanced Invest Verträge
   mit komplzierter Abschlusskostenregelung
 date: 2018-08-20 00:00:00
-seo_beschreibung: >-
+description: >-
   MLP balanced Invest Riester mit unklarer Regelung der Abschluss- und
   Vertriebskosten
 layout: post

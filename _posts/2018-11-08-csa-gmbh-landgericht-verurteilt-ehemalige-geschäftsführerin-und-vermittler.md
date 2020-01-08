@@ -1,7 +1,7 @@
 ---
 title: 'CSA GmbH: Landgericht verurteilt ehemalige Geschäftsführerin und Vermittler'
 date: 2018-11-08 00:00:00
-seo_beschreibung: >-
+description: >-
   CSA GmbH: Landgericht Nürnberg verurteilt Geschäftsführerin und Vermittler zu
   Schadensersatz
 layout: post

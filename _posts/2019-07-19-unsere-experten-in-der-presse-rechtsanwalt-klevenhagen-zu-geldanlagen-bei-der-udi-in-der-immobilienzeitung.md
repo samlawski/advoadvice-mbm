@@ -3,7 +3,7 @@ title: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung
 date: 2019-07-19 00:00:00
-seo_beschreibung: >-
+description: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung
 layout: post

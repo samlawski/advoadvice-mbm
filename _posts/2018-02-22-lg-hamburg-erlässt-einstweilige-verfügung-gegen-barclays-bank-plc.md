@@ -1,7 +1,7 @@
 ---
 title: LG Hamburg erlässt einstweilige Verfügung gegen Barclays Bank PLC
 date: 2018-02-22 00:00:00
-seo_beschreibung: Einstweilige Verfügung gegen Barclays Bank PLC durch LG Hamburg erlassen
+description: Einstweilige Verfügung gegen Barclays Bank PLC durch LG Hamburg erlassen
 layout: post
 feature_bild_path:
 tags:

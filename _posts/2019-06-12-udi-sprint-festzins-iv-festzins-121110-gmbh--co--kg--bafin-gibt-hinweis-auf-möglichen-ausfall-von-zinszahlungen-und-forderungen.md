@@ -3,7 +3,7 @@ title: >-
   UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG : BaFin gibt Hinweis
   auf möglichen Ausfall von Zinszahlungen und Forderungen
 date: 2019-06-12 00:00:00
-seo_beschreibung: 'UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG'
+description: 'UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG'
 layout: post
 feature_bild_path:
 tags:

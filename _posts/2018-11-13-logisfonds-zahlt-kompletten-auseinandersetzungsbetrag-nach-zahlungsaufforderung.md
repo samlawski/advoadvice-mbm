@@ -3,7 +3,7 @@ title: >-
   Logisfonds zahlt kompletten Auseinandersetzungsbetrag nach
   Zahlungsaufforderung
 date: 2018-11-13 00:00:00
-seo_beschreibung: LogisFonds I zahlt vollen Auseinandersetzungsbetrag an Berliner Anlegerin aus
+description: LogisFonds I zahlt vollen Auseinandersetzungsbetrag an Berliner Anlegerin aus
 layout: post
 feature_bild_path:
 tags:

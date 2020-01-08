@@ -1,7 +1,7 @@
 ---
 title: 'DSGVO: Gibt es neue Hoffnung bei Eintrag der Restschuldbefreiung?'
 date: 2018-06-19 00:00:00
-seo_beschreibung: Eintrag über Restschuldbefreiung unter DSGVO löschbar?
+description: Eintrag über Restschuldbefreiung unter DSGVO löschbar?
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 date: 2019-09-16 00:00:00
-seo_beschreibung: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
+description: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 layout: post
 feature_bild_path: /uploads/gold-bars-2467833-1920-1.jpg
 tags:

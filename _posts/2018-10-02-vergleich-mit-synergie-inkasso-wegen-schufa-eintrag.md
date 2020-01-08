@@ -1,7 +1,7 @@
 ---
 title: Vergleich mit Synergie Inkasso wegen Schufa Eintrag
 date: 2018-10-02 00:00:00
-seo_beschreibung: SCHUFA-Eintrag trotz Titulierung gelölscht
+description: SCHUFA-Eintrag trotz Titulierung gelölscht
 layout: post
 feature_bild_path:
 tags:

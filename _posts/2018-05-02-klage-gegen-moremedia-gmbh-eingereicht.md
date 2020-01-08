@@ -1,7 +1,7 @@
 ---
 title: Klage gegen MoreMedia GmbH eingereicht
 date: 2018-05-02 00:00:00
-seo_beschreibung: Klage gegen MoreMedia GmbH beim Landgericht Berlin eingereicht
+description: Klage gegen MoreMedia GmbH beim Landgericht Berlin eingereicht
 layout: post
 feature_bild_path:
 tags:

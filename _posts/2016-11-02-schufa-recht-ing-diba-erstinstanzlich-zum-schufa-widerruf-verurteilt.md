@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: ING DiBa erstinstanzlich zum Schufa Widerruf verurteilt'
 date: 2016-11-02 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

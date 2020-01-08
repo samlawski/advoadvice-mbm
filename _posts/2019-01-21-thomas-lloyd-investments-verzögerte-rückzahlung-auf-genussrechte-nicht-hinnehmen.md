@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd Investments: Verzögerte Rückzahlung auf Genussrechte nicht
   hinnehmen
 date: 2019-01-21 00:00:00
-seo_beschreibung: 'Thomas Lloyd Genussrechte: Zahlungsverzug muss Anlegern nicht akzeptieren'
+description: 'Thomas Lloyd Genussrechte: Zahlungsverzug muss Anlegern nicht akzeptieren'
 layout: post
 feature_bild_path:
 tags:

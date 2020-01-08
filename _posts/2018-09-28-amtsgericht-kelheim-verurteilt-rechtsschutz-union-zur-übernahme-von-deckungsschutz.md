@@ -3,7 +3,7 @@ title: >-
   Amtsgericht Kelheim verurteilt Rechtsschutz Union zur Übernahme von
   Deckungsschutz
 date: 2018-09-28 00:00:00
-seo_beschreibung: Rechtsschutz Union zur Übernahme von Kostenschutz verurteilt
+description: Rechtsschutz Union zur Übernahme von Kostenschutz verurteilt
 layout: post
 feature_bild_path:
 tags:

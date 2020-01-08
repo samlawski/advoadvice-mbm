@@ -1,7 +1,7 @@
 ---
 title: Erfolg gegen Schufa Eintrag der Synergie Inkasso
 date: 2018-04-18 00:00:00
-seo_beschreibung: Verjährte Forderung der Synergie Inkasso aus Schufa-Datenbestand gelöscht.
+description: Verjährte Forderung der Synergie Inkasso aus Schufa-Datenbestand gelöscht.
 layout: post
 feature_bild_path:
 tags:

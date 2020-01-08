@@ -1,7 +1,7 @@
 ---
 title: Fehlerhafte Exposés - Wofür haften Makler?
 date: 2018-03-05 00:00:00
-seo_beschreibung: Fehlerhafte Exposes - Wofür haftet der Makler?
+description: Fehlerhafte Exposes - Wofür haftet der Makler?
 layout: post
 feature_bild_path:
 tags:

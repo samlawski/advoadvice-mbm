@@ -1,7 +1,7 @@
 ---
 title: Diesel-Einigung - Ein Schlag ins Gesicht der Verbraucher
 date: 2018-10-05 00:00:00
-seo_beschreibung: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
+description: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
 layout: post
 feature_bild_path:
 tags:

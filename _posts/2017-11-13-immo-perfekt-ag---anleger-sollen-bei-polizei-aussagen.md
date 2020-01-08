@@ -1,7 +1,7 @@
 ---
 title: Immo Perfekt AG - Anleger sollen bei Polizei aussagen
 date: 2017-11-13 00:00:00
-seo_beschreibung: Anleger der Immo Perfekt AG sollen bei Polizei als Zeugen aussagen
+description: Anleger der Immo Perfekt AG sollen bei Polizei als Zeugen aussagen
 layout: post
 feature_bild_path:
 tags:

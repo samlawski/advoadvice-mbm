@@ -1,7 +1,7 @@
 ---
 title: Unsere Experten in der Presse - Berliner Morgenpost - Klagen von Lehman Anlegern
 date: 2017-04-28 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/morgenpost-mit-quardriga.jpg
 tags:

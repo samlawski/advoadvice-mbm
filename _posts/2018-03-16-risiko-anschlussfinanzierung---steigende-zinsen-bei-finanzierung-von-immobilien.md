@@ -3,7 +3,7 @@ title: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
 date: 2018-03-16 00:00:00
-seo_beschreibung: >-
+description: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
 layout: post
