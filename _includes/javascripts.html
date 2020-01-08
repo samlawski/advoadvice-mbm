@@ -1,25 +1,30 @@
 <!-- JavaScript -->
 <script>
   // Clear Cookies set before GA cookies were deactivated
-  if(localStorage.cookiesReset != 'v1'){
-    (function () {
-      var cookies = document.cookie.split("; ");
-      for (var c = 0; c < cookies.length; c++) {
-        var d = window.location.hostname.split(".");
-        while (d.length > 0) {
-          var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
-          var p = location.pathname.split('/');
-          document.cookie = cookieBase + '/';
-          while (p.length > 0) {
-            document.cookie = cookieBase + p.join('/');
-            p.pop();
-          };
-          d.shift();
+  function clearAllCookies(){
+    if(localStorage.cookiesReset != 'v1'){
+      (function () {
+        var cookies = document.cookie.split("; ");
+        for (var c = 0; c < cookies.length; c++) {
+          var d = window.location.hostname.split(".");
+          while (d.length > 0) {
+            var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+            var p = location.pathname.split('/');
+            document.cookie = cookieBase + '/';
+            while (p.length > 0) {
+              document.cookie = cookieBase + p.join('/');
+              p.pop();
+            };
+            d.shift();
+          }
         }
-      }
-    })();
-    localStorage.cookiesReset = 'v1'
+      })();
+      localStorage.cookiesReset = 'v1'
+    }
   }
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onRecaptchaLoad&render=explicit"
+    async defer>
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -35,6 +40,27 @@
 </script>
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<script>
+  function onRecaptchaLoad() { console.log('recaptcha loaded') }
+
+  var $cookieCheckbox = document.getElementById('cookie_check')
+  $cookieCheckbox.addEventListener("change", activateRecaptcha, false)
+
+  function activateRecaptcha(){
+    if($cookieCheckbox.checked){
+      
+      captchaContainer = grecaptcha.render('captcha_container', {
+        'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
+        'callback' : function(response) { $(".send-form").removeClass("hidden") },
+        'expired-callback' : function(response) { $(".send-form").addClass("hidden")  }
+      })
+      // onRecaptchaLoad()
+    }else{ //unchecked
+      clearAllCookies()
+    } // unckeck
+  }
+</script>
 
 <script src="{{ '/assets/js/plugins/elasticlunr.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/plugins/scrollMagic.js' | relative_url }}"></script>
