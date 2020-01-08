@@ -1,7 +1,7 @@
 ---
 title: Klage gegen Butlers vor LG Köln eingereicht
 date: 2018-06-27 00:00:00
-seo_beschreibung: Klage vor LG Köln wegen Butlers Genussrechten eingereicht
+description: Klage vor LG Köln wegen Butlers Genussrechten eingereicht
 layout: post
 feature_bild_path:
 tags:

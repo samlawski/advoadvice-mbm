@@ -1,7 +1,7 @@
 ---
 title: Ein Jahr Arbeitskreis für Bank- und Kapitalmarktrecht im Berliner Anwaltsverein
 date: 2017-05-17 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:

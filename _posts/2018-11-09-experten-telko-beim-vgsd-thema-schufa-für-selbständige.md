@@ -1,7 +1,7 @@
 ---
 title: 'Experten Telko beim VGSD:  Thema Schufa für Selbständige'
 date: 2018-11-09 00:00:00
-seo_beschreibung: >-
+description: >-
   Experten-Talk beim VGSD mit Dr. Sven Tintemann zum Thema Schufa für
   Selbständige
 layout: post

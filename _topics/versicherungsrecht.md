@@ -1,6 +1,6 @@
 ---
 featured: true
-seo_beschreibung: >-
+description: >-
   Kompetente Beratung in Sachen Versicherungsrecht und Widerruf von
   Lebensversicherungen durch erfahrene Rechtsanwälte
 title: Versicherungsrecht

@@ -1,7 +1,7 @@
 ---
 title: Alphapool - Prozess gegen drei Angeklagte läuft
 date: 2017-10-20 00:00:00
-seo_beschreibung: Alphapool Prozessauftakt in Saarbrücken
+description: Alphapool Prozessauftakt in Saarbrücken
 layout: post
 feature_bild_path:
 tags:

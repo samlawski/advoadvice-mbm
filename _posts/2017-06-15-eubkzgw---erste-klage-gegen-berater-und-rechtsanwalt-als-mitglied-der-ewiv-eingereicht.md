@@ -1,7 +1,7 @@
 ---
 title: EUBKZGW - Erste Klage gegen Berater und Rechtsanwalt als Mitglied der EWIV eingereicht
 date: 2017-06-15 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:

@@ -3,7 +3,7 @@ title: >-
   Erste Fahrverbote in Hamburg - kommen noch weitere Fahrverbote in
   Innenstädten?
 date: 2018-05-23 00:00:00
-seo_beschreibung: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
+description: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
 layout: post
 feature_bild_path:
 tags:

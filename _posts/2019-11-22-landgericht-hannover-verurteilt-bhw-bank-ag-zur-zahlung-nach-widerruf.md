@@ -1,7 +1,7 @@
 ---
 title: Landgericht Hannover verurteilt BHW Bank AG zur Zahlung nach Widerruf
 date: 2019-11-22 00:00:00
-seo_beschreibung: BWH nach Widerruf von drei Darlehen zur Zahlung verurteilt
+description: BWH nach Widerruf von drei Darlehen zur Zahlung verurteilt
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Johann Mieth - BaFin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-05-15 00:00:00
-seo_beschreibung: BaFin ordnet für Johann Mieth Abwicklung des Einlagengeschäfts an
+description: BaFin ordnet für Johann Mieth Abwicklung des Einlagengeschäfts an
 layout: post
 feature_bild_path:
 tags:

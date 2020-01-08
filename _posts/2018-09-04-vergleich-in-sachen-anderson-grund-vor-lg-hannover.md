@@ -1,7 +1,7 @@
 ---
 title: Vergleich in Sachen Anderson Grund vor LG Hannover
 date: 2018-09-04 00:00:00
-seo_beschreibung: Vergleich vor Landgericht Hannover in Sachen Anderson Grund
+description: Vergleich vor Landgericht Hannover in Sachen Anderson Grund
 layout: post
 feature_bild_path:
 tags:

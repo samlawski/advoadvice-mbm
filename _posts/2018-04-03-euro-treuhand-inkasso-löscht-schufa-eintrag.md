@@ -1,7 +1,7 @@
 ---
 title: Euro Treuhand Inkasso löscht Schufa Eintrag
 date: 2018-04-03 00:00:00
-seo_beschreibung: Falschlieferung führt zu negativem Schufa Eintrag
+description: Falschlieferung führt zu negativem Schufa Eintrag
 layout: post
 feature_bild_path:
 tags:

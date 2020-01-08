@@ -1,7 +1,7 @@
 ---
 title: Barclays Bank widerruft Schufa Eintrag
 date: 2018-01-24 00:00:00
-seo_beschreibung: Die Barclays Bank PLC hat erneut einen negativen Schufa Eintrag widerrufen.
+description: Die Barclays Bank PLC hat erneut einen negativen Schufa Eintrag widerrufen.
 layout: post
 feature_bild_path:
 tags:

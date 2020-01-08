@@ -1,7 +1,7 @@
 ---
 title: Erstes Insolvenzverfahren in Lettland eröffnet
 date: 2019-11-25 00:00:00
-seo_beschreibung: Mandant von AdvoAdvice stellt erfolgreich Insolvenzantrag in Riga
+description: Mandant von AdvoAdvice stellt erfolgreich Insolvenzantrag in Riga
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Logisfonds: Vergleichsvorschlag zu nunmehr 80% annehmen?'
 date: 2019-01-29 00:00:00
-seo_beschreibung: >-
+description: >-
   Logisfonds: Sollen Anleger den Vergleichsvorschlag von NBS Partners zu 80%
   annehmen?
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
 date: 2020-01-02 00:00:00
-seo_beschreibung: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
+description: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
 layout: post
 feature_bild_path:
 tags:

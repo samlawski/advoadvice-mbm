@@ -1,7 +1,7 @@
 ---
 title: Unverschuldeter Negativeintrag durch die S-Kreditpartner GmbH gelöscht
 date: 2019-05-31 00:00:00
-seo_beschreibung: Fehler einer anderen Bank führte zu Negativeintrag
+description: Fehler einer anderen Bank führte zu Negativeintrag
 layout: post
 feature_bild_path:
 tags:

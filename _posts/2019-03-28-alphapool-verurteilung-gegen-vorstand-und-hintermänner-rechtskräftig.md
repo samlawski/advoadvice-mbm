@@ -1,7 +1,7 @@
 ---
 title: 'Alphapool: Verurteilung gegen Vorstand und Hintermänner rechtskräftig'
 date: 2019-03-28 00:00:00
-seo_beschreibung: 'Alphapool: BGH weist Revision gegen Strafurteil zurück'
+description: 'Alphapool: BGH weist Revision gegen Strafurteil zurück'
 layout: post
 feature_bild_path:
 tags:

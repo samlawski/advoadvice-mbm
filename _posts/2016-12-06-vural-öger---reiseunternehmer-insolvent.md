@@ -1,7 +1,7 @@
 ---
 title: Vural Öger - Reiseunternehmer insolvent
 date: 2016-12-06 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

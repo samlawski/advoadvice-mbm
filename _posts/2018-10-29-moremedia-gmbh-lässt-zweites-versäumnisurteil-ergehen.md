@@ -1,7 +1,7 @@
 ---
 title: MoreMedia GmbH lässt zweites Versäumnisurteil ergehen
 date: 2018-10-29 00:00:00
-seo_beschreibung: Zweites Versäumnisurteil gegen MoreMedia GmbH
+description: Zweites Versäumnisurteil gegen MoreMedia GmbH
 layout: post
 feature_bild_path:
 tags:

@@ -3,7 +3,7 @@ title: >-
   Multi Asset Anspar Plan 3: Klage gegen Beratungsfirma und
   Gründungsgesellschafter eingereicht
 date: 2018-05-28 00:00:00
-seo_beschreibung: >-
+description: >-
   Multi Asset Anspar Plan 3: Klage gegen Gründungsgesellschafter und
   Beratungsfirma eingereicht
 layout: post

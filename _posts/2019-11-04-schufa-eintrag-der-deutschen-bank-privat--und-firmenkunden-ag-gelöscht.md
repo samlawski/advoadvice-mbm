@@ -1,7 +1,7 @@
 ---
 title: SCHUFA-Eintrag der Deutschen Bank Privat- und Firmenkunden AG gelöscht
 date: 2019-11-04 00:00:00
-seo_beschreibung: SCHUFA löscht Negativeintrag der Deutschen Bank
+description: SCHUFA löscht Negativeintrag der Deutschen Bank
 layout: post
 feature_bild_path:
 tags:

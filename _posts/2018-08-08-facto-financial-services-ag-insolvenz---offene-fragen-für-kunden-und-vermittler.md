@@ -3,7 +3,7 @@ title: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler
 date: 2018-08-08 00:00:00
-seo_beschreibung: >-
+description: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler
 layout: post

@@ -3,7 +3,7 @@ title: >-
   Fahrverbote in Frankfurt am Main - Widerruf bringt Möglichkeit Diesel
   loszuwerden
 date: 2018-09-07 00:00:00
-seo_beschreibung: Diesel Fahrverbote in Frankfurt - Widerrufsmöglichkeit prüfen lassen
+description: Diesel Fahrverbote in Frankfurt - Widerrufsmöglichkeit prüfen lassen
 layout: post
 feature_bild_path:
 tags:

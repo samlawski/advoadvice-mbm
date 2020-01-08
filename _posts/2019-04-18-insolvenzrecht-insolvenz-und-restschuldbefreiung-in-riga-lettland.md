@@ -1,7 +1,7 @@
 ---
 title: 'Insolvenzrecht: Insolvenz und Restschuldbefreiung in Riga (Lettland)'
 date: 2019-04-18 00:00:00
-seo_beschreibung: Insolvenz in Riga (Lettland) führt zu schneller Restschuldbefreiung
+description: Insolvenz in Riga (Lettland) führt zu schneller Restschuldbefreiung
 layout: post
 feature_bild_path:
 tags:

@@ -1,7 +1,7 @@
 ---
 title: ThomasLloyd Investments GmbH zahlt nach Zahlungsaufforderung Anlegergelder aus
 date: 2018-08-30 00:00:00
-seo_beschreibung: ThomasLloyd Investments GmbH zahlt an Anleger nach Zahlungsaufforderung aus
+description: ThomasLloyd Investments GmbH zahlt an Anleger nach Zahlungsaufforderung aus
 layout: post
 feature_bild_path:
 tags:

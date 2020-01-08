@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: Erneuter außergerichtlicher Erfolg gegen Synergie Inkasso GmbH'
 date: 2017-02-09 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:

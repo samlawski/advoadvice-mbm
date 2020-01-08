@@ -3,7 +3,7 @@ title: >-
   Brexit kommt: Lettland als neuer Standort für EU-Insolvenz so attraktiv wie
   nie
 date: 2019-12-13 00:00:00
-seo_beschreibung: >-
+description: >-
   Lettland wird mit dem Brexit für Interessenten an der EU-Insolvenz so
   attraktiv wie nie zuvor
 layout: post
