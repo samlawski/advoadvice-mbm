@@ -1,7 +1,7 @@
 ---
 title: Schufa Eintrag nach Identitätsmissbrauch gelöscht
 date: 2019-07-08 00:00:00
-seo_beschreibung: Schnelle Schufa-Löschung nach Identitätsdiebstahl erreicht
+description: Schnelle Schufa-Löschung nach Identitätsdiebstahl erreicht
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
   - Dr. Sven Tintemann
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 AdvoAdvice verhilft einem Lehrer aus Berlin zu Kauf einer Eigentumswohnung nach Identit&auml;tsmissbrauch.

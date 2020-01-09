@@ -3,7 +3,7 @@ title: >-
   Kündigung des Darlehens durch die Bank - Was man bei Darlehenskündigungen tun
   kann
 date: 2018-11-12 00:00:00
-seo_beschreibung: >-
+description: >-
   Kündigung des Darlehens durch die Bank - Was man bei Darlehenskündigungen tun
   kann
 layout: post
@@ -21,7 +21,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/bank-2907728-640-1.jpg)

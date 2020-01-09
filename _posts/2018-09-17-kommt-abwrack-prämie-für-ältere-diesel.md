@@ -1,7 +1,7 @@
 ---
 title: Kommt Abwrack-Prämie für ältere Diesel?
 date: 2018-09-17 00:00:00
-seo_beschreibung: Kommt jetzt Abwrack-Prämie für alte Diesel?
+description: Kommt jetzt Abwrack-Prämie für alte Diesel?
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +15,7 @@ tags:
   - Inforadio
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Berichten des Inforadio k&ouml;nnte jetzt eine Art Abwrackpr&auml;mie mit der Autoindustrie verhandelt werden. Dies strebe angeblich Bundesverkehrsminister Scheuer an. So sollen Fahrverbote in den Innenst&auml;dten umgangen werden.

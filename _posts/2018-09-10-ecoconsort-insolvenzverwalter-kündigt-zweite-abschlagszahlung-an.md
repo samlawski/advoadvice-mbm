@@ -1,7 +1,7 @@
 ---
 title: 'EcoConsort: Insolvenzverwalter kündigt zweite Abschlagszahlung an'
 date: 2018-09-10 00:00:00
-seo_beschreibung: 'EcoConsort: Zweite Abschlagszahlung durch Insolvenzverwalter angekündigt'
+description: 'EcoConsort: Zweite Abschlagszahlung durch Insolvenzverwalter angekündigt'
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +15,7 @@ tags:
   - Insolvenzverwalter
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Update zur Insolvenz der ecoConsort AG - Dresden:

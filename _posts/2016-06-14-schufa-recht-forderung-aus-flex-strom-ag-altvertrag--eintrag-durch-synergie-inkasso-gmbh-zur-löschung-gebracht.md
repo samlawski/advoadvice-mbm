@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: Forderung aus Flex Strom AG Altvertrag – Eintrag durch Synergie Inkasso GmbH zur Löschung gebracht'
 date: 2016-06-14 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -21,7 +21,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

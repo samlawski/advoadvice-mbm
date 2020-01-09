@@ -3,7 +3,7 @@ title: >-
   NoblewoodGroup: BaFin untersagt öffentliche Angebote bestimmter
   Direktinvestments in Edelhölzern
 date: 2019-04-24 00:00:00
-seo_beschreibung: 'NoblewoodGroup: BaFin untersagt öffentliche Angebote von Vermögensanlagen'
+description: 'NoblewoodGroup: BaFin untersagt öffentliche Angebote von Vermögensanlagen'
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +14,7 @@ tags:
   - Kim Oliver Klevenhagen
   - Edelhölzer
 topics:
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-6.jpg)

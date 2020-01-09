@@ -1,7 +1,7 @@
 ---
 title: Novum Consult GmbH - Zustellung unmöglich?
 date: 2015-12-19 13:14:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -11,7 +11,7 @@ tags:
   - Vermitterin
   - Leipzig
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

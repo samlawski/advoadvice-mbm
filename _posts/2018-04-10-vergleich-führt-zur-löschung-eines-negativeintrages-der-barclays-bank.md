@@ -1,7 +1,7 @@
 ---
 title: Vergleich führt zur Löschung eines Negativeintrages der Barclays Bank
 date: 2018-04-10 00:00:00
-seo_beschreibung: Gerichtlicher Vergleich führt zur Löschung eines Schufa Eintrages
+description: Gerichtlicher Vergleich führt zur Löschung eines Schufa Eintrages
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Einstweilige Verfügung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Barclays Bank PLC hat einen negativen Schufa Eintrag nach einem gerichtlichen Vergleich zur Löschung gebracht. Der Fall hatte für den Betroffenen eine besondere Brisanz, da seine Arbeitsstelle durch den negativen Eintrag in Gefahr gebracht wurde. Der Eintrag wurde durch die Barclays Bank PLC am 23.08.2017 über mehr als 7.000,00 Euro eingemeldet.

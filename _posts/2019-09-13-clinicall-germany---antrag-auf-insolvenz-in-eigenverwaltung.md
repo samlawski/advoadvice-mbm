@@ -1,7 +1,7 @@
 ---
 title: ClinicAll Germany - Antrag auf Insolvenz in Eigenverwaltung
 date: 2019-09-13 00:00:00
-seo_beschreibung: ClinicAll Germany - Antrag auf Insolvenz in Eigenverantwortung
+description: ClinicAll Germany - Antrag auf Insolvenz in Eigenverantwortung
 layout: post
 feature_bild_path: /uploads/money-1005464-640-11.jpg
 tags:
@@ -17,7 +17,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - sonstiges
   - insolvenzrecht
-team_member: rechtsanwalt klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-7.jpg){: width="640" height="369"}

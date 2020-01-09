@@ -1,7 +1,7 @@
 ---
 title: 'BGH: Zinscap-Prämien und Zinssicherungsgebühren unzulässig'
 date: 2018-06-06 00:00:00
-seo_beschreibung: Zinscap-Prämien und Zinssicherungsgebühren durch BGH für unwirksam erklärt
+description: Zinscap-Prämien und Zinssicherungsgebühren durch BGH für unwirksam erklärt
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 BGH, Urteil vom 05.06.2018 - Az. XI ZR 790/16
