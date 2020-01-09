@@ -12,12 +12,19 @@ var cookies = (function(){
     var recaptchaAgreed = $("#cookie_check").is(":checked")
     
     if(recaptchaAgreed){
-      captchaContainer = grecaptcha.render('captcha_container', {
-        'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
-        'callback' : function(response) { $(".send-form").attr("disabled", false) },
-        'expired-callback' : function(response) { $(".send-form").attr("disabled", true) }
-      })
-      $('#cookie_check_container').hide()
+      window.recaptchaLoaded = function(){
+        captchaContainer = grecaptcha.render('captcha_container', {
+          'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
+          'callback' : function(response) { $(".send-form").attr("disabled", false) },
+          'expired-callback' : function(response) { $(".send-form").attr("disabled", true) }
+        })
+
+        $('#cookie_check_container').hide()
+      }
+      
+      $('#captcha_script_container').html('<script src="https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded&render=explicit" async defer></script>')
+
+      $('#cookie_check_container').html('<div class="loader"></div>')
     }else{
       clearAllCookies()
     }
