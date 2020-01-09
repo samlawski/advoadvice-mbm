@@ -1,51 +1,61 @@
-var cookieBanner = (function(){
-  var init = function(){
-    showCookieBanner();
-  };
+var cookies = (function(){
+  var captchaContainer = null
 
-  function readCookie(n) {
-    var a = ("; " + document.cookie ).match(";\\s*" + n + "=([^;]+)");
-    return a ? a[1] : '';
+  var init = function(){
+    clearAllCookies()
+
+    // Start Listeners
+    $('#cookie_check').on('change', _activateRecaptcha)
   }
 
-  function showCookieBanner(){
-    if(!readCookie('cookieBannerDismissed')){
-      var banner_wrapper = document.createElement('div');
-      banner_wrapper.setAttribute("id", "cookieBanner");
-      banner_wrapper.style.cssText =
-        'font-size: 0.7rem;' +
-        'background-color: #ddd;' +
-        'color: #444;' +
-        'max-width: 240px;' +
-        'padding: 16px;' +
-        'position: fixed;' +
-        'bottom: 0;' +
-        'left: 0;';
+  function _activateRecaptcha(){
+    var recaptchaAgreed = $("#cookie_check").is(":checked")
+    
+    if(recaptchaAgreed){
+      window.recaptchaLoaded = function(){
+        captchaContainer = grecaptcha.render('captcha_container', {
+          'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
+          'callback' : function(response) { $(".send-form").attr("disabled", false) },
+          'expired-callback' : function(response) { $(".send-form").attr("disabled", true) }
+        })
 
-      var banner_text = document.createElement('p');
-      banner_text.innerHTML = 'Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies und Analysetools. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zur Nutzung von Cookies und Analysetools erhalten Sie in unserer <a href="/datenschutz">Datenschutzerklärung</a>.';
-      banner_wrapper.appendChild(banner_text);
+        $('#cookie_check_container').hide()
+      }
+      
+      $('#captcha_script_container').html('<script src="https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded&render=explicit" async defer></script>')
 
-      var banner_link = document.createElement('a');
-      banner_link.innerHTML = 'Verstanden';
-      banner_link.style.cssText = 
-        'margin-top: 8px;' +
-        'padding: 4px;' +
-        'border: 1px solid #444;' +
-        'display: inline-block;' +
-        'cursor: pointer;'
-      banner_link.addEventListener('click', function(){
-        document.cookie = "cookieBannerDismissed=true";
-        banner_wrapper.style.display = "none";
-      })
-      banner_wrapper.appendChild(banner_link);
+      $('#cookie_check_container').html('<div class="loader"></div>')
+    }else{
+      clearAllCookies()
+    }
+  }
 
-      document.body.appendChild(banner_wrapper);
+  function clearAllCookies(){
+    var cookies = document.cookie.split("; ");
+    for (var c = 0; c < cookies.length; c++) {
+      var d = window.location.hostname.split(".");
+      while (d.length > 0) {
+        var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+        var p = location.pathname.split('/');
+        document.cookie = cookieBase + '/';
+        while (p.length > 0) {
+          document.cookie = cookieBase + p.join('/');
+          p.pop();
+        };
+        d.shift();
+      }
     }
   }
 
 
-  return {
-    init: init
+  function readCookie(n) {
+    var a = ("; " + document.cookie ).match(";\\s*" + n + "=([^;]+)")
+    return a ? a[1] : ''
   }
-})();
+
+  return {
+    init: init,
+    readCookie: readCookie,
+    clearAllCookies: clearAllCookies
+  }
+})()
