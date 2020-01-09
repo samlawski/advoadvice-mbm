@@ -1,7 +1,7 @@
 ---
 title: Diesel-Einigung - Ein Schlag ins Gesicht der Verbraucher
 date: 2018-10-05 00:00:00
-seo_beschreibung: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
+description: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
 layout: post
 feature_bild_path:
 tags:
@@ -28,7 +28,7 @@ tags:
   - Frankfurt am Main
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Jetzt mal ganz ehrlich, liebe Autofahrerinnen und Autofahrer, da pr&auml;sentiert uns am Dienstag, den 02.10.2018, einen Tag vor dem Fest zur Deutschen Einheit, die Politik gemeinsam mit der Autoindustrie eine Diesel-Einigung und man kann sich bis heute nicht sicher sein, was man davon halten soll. Die S&uuml;ddeutsche Zeitung bezeichnete den Diesel-Deal als[ Luftnummer](https://www.sueddeutsche.de/wirtschaft/drohende-fahrverbote-der-diesel-deal-ist-eine-luftnummer-1.4153919), die Zeit titelt:[ "Am Ende lacht die Industrie."](https://www.zeit.de/politik/deutschland/2018-10/diesel-kompromiss-grosse-koalition-bundesregierung-auto-industrie-fahrverbote)

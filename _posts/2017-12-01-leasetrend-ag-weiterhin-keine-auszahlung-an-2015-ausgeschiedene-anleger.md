@@ -1,7 +1,7 @@
 ---
 title: 'LeaseTrend AG: Weiterhin keine Auszahlung an 2015 ausgeschiedene Anleger'
 date: 2017-12-01 00:00:00
-seo_beschreibung: LeaseTrend AG zahlt weiterhin Raten an Anleger nicht aus
+description: LeaseTrend AG zahlt weiterhin Raten an Anleger nicht aus
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

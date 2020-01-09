@@ -1,7 +1,7 @@
 ---
 title: SCHUFA-Fraud Pool Eintrag gelöscht
 date: 2019-11-20 00:00:00
-seo_beschreibung: CreditPlus Bank Eintrag in den SCHUFA-FraudPool gelöscht
+description: CreditPlus Bank Eintrag in den SCHUFA-FraudPool gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - KWG
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende Oktober 2019 meldete sich ein 28-j&auml;hriger Mann aus Hamburg und beklagte sich &uuml;ber einen negativen SCHUFA-Eintrag. Bei genauerer Betrachtung handelte es sich nicht um einen klassischen Negativeintrag, sondern um einen Eintrag im SCHUFA-FraudPool, welcher dem Betroffenen massive Probleme bereitete.

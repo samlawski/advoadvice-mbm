@@ -1,7 +1,7 @@
 ---
 title: 'Albis Capital (jetzt RvH AG und Co. KG i.L.): Anleger sollen an Dr. May, Hofmann und Kollegen zahlen'
 date: 2017-07-10 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -27,7 +27,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

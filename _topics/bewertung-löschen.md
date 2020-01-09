@@ -1,7 +1,7 @@
 ---
 featured: true
 title: Suchergebnisse und Bewertungen löschen
-seo_beschreibung: >-
+description: >-
   Suchergebnisse bei Google und Bewertungen auf Portalen durch Rechtsanwalt
   löschen lassen
 cta_titel:

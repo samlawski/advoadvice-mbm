@@ -15,7 +15,7 @@ tags:
   - Schadensersatz
 topics:
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

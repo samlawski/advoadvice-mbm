@@ -3,7 +3,7 @@ title: >-
   Klage gegen Targo Dienstleistungs GmbH wg. Eintrag im Schufa Fraud Pool
   eingereicht
 date: 2018-02-26 00:00:00
-seo_beschreibung: >-
+description: >-
   Klagen wg. Eintrag in Schufa Fraud Pool gegen Targo Dienstleistungs GmbH
   eingereicht
 layout: post
@@ -21,7 +21,7 @@ tags:
   - Landgericht Konstanz
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat vor dem LG Konstanz eine Klage gegen die Targo Dienstleistungs GmbH eingericht. Hintergrund war ein Eintrag in den sog. Schufa Fraud Pool.

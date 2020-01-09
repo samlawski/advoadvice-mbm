@@ -1,7 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Dr. Tintemann im Berliner Anwaltsblatt'
 date: 2018-07-12 00:00:00
-seo_beschreibung: >-
+description: >-
   Dr. Tintemann fasst Vortrag von VRiKG Fahr für das Berliner Anwaltsblatt
   zusammen
 layout: post
@@ -19,7 +19,7 @@ tags:
   - Kammergericht
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 19. April 2018 fand ein Vortrag zur aktuellen Rechtsprechung des Kammergerichts zum Bank- und Kapitalmarktrecht mit dem Vorsitzenden Richter am Kammergericht Siegfried Fahr statt.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;

@@ -1,7 +1,7 @@
 ---
 title: Prozesserfolg gegen LeaseTrend AG
 date: 2017-12-19 00:00:00
-seo_beschreibung: Prozesserfolg gegen LeaseTrend AG
+description: Prozesserfolg gegen LeaseTrend AG
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

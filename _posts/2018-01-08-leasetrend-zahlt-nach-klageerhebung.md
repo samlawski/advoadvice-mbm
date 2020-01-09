@@ -1,7 +1,7 @@
 ---
 title: Leasetrend zahlt nach Klageerhebung
 date: 2018-01-08 00:00:00
-seo_beschreibung: Leasetrend AG zahlt nach Klage vor dem Landgericht München I an Anleger aus
+description: Leasetrend AG zahlt nach Klage vor dem Landgericht München I an Anleger aus
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

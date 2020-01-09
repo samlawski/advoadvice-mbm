@@ -1,7 +1,7 @@
 ---
 title: Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
 date: 2018-02-13 00:00:00
-seo_beschreibung: >-
+description: >-
   Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
   beim Landgericht Hamburg
 layout: post
@@ -20,7 +20,7 @@ tags:
   - Kredit
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Barclays Bank PLC hat nach einem Antrag auf Erlass einer einstweiligen Verfügung beim Landgericht Hamburg durch die Kanzlei AdvoAdvice Rechtsanwälte mbB einen Schufa-Negativeintrag widerrufen.
