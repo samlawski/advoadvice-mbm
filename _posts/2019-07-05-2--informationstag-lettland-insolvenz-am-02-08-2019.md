@@ -20,7 +20,7 @@ tags:
   - Verfahrensdauer
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 02.08.2019 findet der 2. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt.

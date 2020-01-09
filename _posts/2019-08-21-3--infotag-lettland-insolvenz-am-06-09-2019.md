@@ -18,7 +18,7 @@ tags:
   - 06.09.2019
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 06.09.2019 findet der 3. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt.

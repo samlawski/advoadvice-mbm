@@ -22,7 +22,7 @@ tags:
 topics:
   - versicherungsrecht
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 In der Branche und sogenannten „gut unterrichteten Kreisen" befürchtete man es schon länger,  zuletzt überschlugen sich die Ereignisse. Einer der größten Marktteilnehmer im Geschäftsmodell der Rückabwicklung von Lebensversicherungen, die Facto Financial Services AG, hat vor dem zuständigen Amtsgericht München Insolvenz angemeldet. Dies allerdings in Eigenverwaltung. Was dies bedeutet und welche Auswirkungen die Insolvenz auf deren Kunden oder Vermittler der Facto hat, wird sich in den nächsten Wochen herausstellen. Tatsache ist, dass die nun eingetretene Situation prägend für die zukünftige Marktsituation der Versicherungsaufkäufer in Deutschland sein wird.

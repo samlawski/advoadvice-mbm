@@ -17,7 +17,7 @@ tags:
   - Anlegergemeinschaft
   - Ronda I
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

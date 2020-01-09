@@ -21,7 +21,7 @@ topics:
   - medien
   - datenschutz
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

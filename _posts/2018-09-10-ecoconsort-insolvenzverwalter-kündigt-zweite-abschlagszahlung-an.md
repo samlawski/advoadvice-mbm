@@ -15,7 +15,7 @@ tags:
   - Insolvenzverwalter
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Update zur Insolvenz der ecoConsort AG - Dresden:

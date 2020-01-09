@@ -22,7 +22,7 @@ tags:
   - Center of main interest
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Auch im Jahr 2020 setzt die Kanzlei AdvoAdvice aus Berlin die erfolgreiche Zusammenarbeit mit ihren Partnern in Riga weiter fort.

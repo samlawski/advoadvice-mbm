@@ -18,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 AdvoAdvice erstreitet Auszahlungen an eine Anlegerin, die in Genussrechte der Thomas Lloyd Investments GmbH investiert und diese zum 31.12.2016 gek&uuml;ndigt hatte.&nbsp;

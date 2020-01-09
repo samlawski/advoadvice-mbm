@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger der Logisfonds I GmbH (ehemals Garbe Logimac AG), die die Anlageform Sprint gezeichnet hatten, erhalten ein Anschreiben der Kanzlei NBS Partners, in welchem diese den Anlegern mitteilt, die Auszahlung eines bereits fälligen Auseinandersetzungsguthabens wäre nur mit einem Abschlag in Höhe von 35% möglich. Dies wird mit der Liquiditätslage der Logisfonds I begründet.

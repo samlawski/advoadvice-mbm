@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![Landgericht Berlin - Foto AdvoAdvice](/uploads/lg-berlin---spreeblick-nach-2.jpg "Landgericht Berlin verurteilt MoreMedia GmbH zur Zahlung")

@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Logisfonds I GmbH aus Hamburg bot Anlegern an, sich an ihrem Geschäftsmodell als atypisch stille Gesellschafter zu beteiligen. Am Ende der Beteiligung erwartet die meisten Anleger ein Verlust eines Teil ihres eingezahlten Geldes.

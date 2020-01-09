@@ -24,7 +24,7 @@ tags:
   - Auskunfteien
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 14.11.2018 l&auml;dt der Verband der Gr&uuml;nder und Selbst&auml;ndigen Deutschland e.V. zum Experten-Talk mit Dr. Sven Tintemann, Rechtsanwalt und Schufa-Experte aus der Kanzlei AdvoAdvice Rechtsanw&auml;lte in Berlin ein.&nbsp;

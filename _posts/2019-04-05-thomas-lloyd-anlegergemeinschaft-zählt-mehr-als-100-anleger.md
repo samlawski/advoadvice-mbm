@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice k&uuml;mmert sich um zahlreiche Anleger der mittlerweile im &ouml;sterreichischen Firmbuch gel&ouml;schten Thomas Lloyd Investments GmbH und der ebenfalls im deutschen Handelsregister gel&ouml;schten DKM Global Opportunities Fonds 01 GmbH.

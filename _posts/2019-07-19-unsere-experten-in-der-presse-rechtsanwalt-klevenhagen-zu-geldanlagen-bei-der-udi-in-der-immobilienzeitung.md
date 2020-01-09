@@ -27,7 +27,7 @@ topics:
   - medien
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die Immobilienzeitung berichtet in einem aktuellen Beitrag in ihrer Ausgabe 26/2019 vom 27.06.2019 &uuml;ber die Geldanlagen bei der UDI Gruppe, einem gro&szlig;en, bankenunabh&auml;ngigen Direktvertrieb von ökologischen Geldanlagen.

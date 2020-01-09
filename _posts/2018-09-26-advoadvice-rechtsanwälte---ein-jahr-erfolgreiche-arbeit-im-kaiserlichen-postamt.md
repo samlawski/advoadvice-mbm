@@ -22,7 +22,7 @@ topics:
   - datenschutz
   - versicherungsrecht
   - bewertung-löschen
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/kaiserliches-postamt-nah.jpg)

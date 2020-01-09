@@ -15,7 +15,7 @@ tags:
   - Pleite
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Berliner Fluggesellschaft Germania hat Insolvenz beim Amtsgericht Berlin Charlottenburg beantragt. Der Flugbetrieb wurde bereits in der Nacht zu Dienstag eingestellt. Ab dem 05.02.2019 heben keine weiteren Flieger der Fluglinie ab.

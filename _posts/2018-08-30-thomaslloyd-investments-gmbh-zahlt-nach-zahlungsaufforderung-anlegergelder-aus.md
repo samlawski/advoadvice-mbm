@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB konnte einem Anleger der Thomas Lloyd Investments GmbH zur Rückzahlung seines Auseinandersetzungsguthabens in Höhe von 15.942,29 Euro verhelfen.

@@ -17,7 +17,7 @@ tags:
   - Unwirksamkeit
 topics:
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/sparkasse-50118-640.jpg)

@@ -23,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin hat am 26.02.2019 eine Klage vor dem Landgericht Darmstadt eingereicht.

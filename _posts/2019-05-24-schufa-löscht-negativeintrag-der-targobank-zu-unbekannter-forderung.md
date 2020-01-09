@@ -14,7 +14,7 @@ tags:
   - Targobank
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat auf Hinwirken der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin einen Negativeintrag der TargoBank AG gel&ouml;scht. Der Fall wies einige Spezialit&auml;ten auf, welche nach wie vor nicht ganz aufgekl&auml;rt wurden.

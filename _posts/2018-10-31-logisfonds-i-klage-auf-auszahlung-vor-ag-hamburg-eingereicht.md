@@ -27,7 +27,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Firma LogisFonds I GmbH (vormals Logis Fonds I AG bzw. Garbe Logimac AG) meldete sich Anfang Oktober bei ihren Anlegern mit einem Schreiben der Rechtsanw&auml;lte nbs partners aus Hamburg und teilte den Anlegern mit, auf das errechnete Auseinandersetzungsguthaben zum 31.01.2017, welches am 31.01.2018 zur Zahlung f&auml;llig gewesen w&auml;re, nur 65% auszahlen zu wollen.

@@ -16,7 +16,7 @@ tags:
   - § 5a VVG
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

@@ -13,7 +13,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erneut meldet die BaFin auf ihrer Internetseite unter www.bafin.de/dok/10947204 die Untersagung eines ihrer Auffassung nach unerlaubt betriebenen Einlagengeschäfts. So wurde der Tix Automobil eG, Irrel, mit Bescheid vom 14. Mai 2018 durch die BaFin aufgegeben, das von ihr betriebene Einlagengeschäft unverzüglich abzuwickeln.

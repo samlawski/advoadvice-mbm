@@ -18,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) hat am 14. März 2018 den Entschädigungsfall für die Dero Bank AG festgestellt. Zur Begründung führte die BaFin aus, dass das Institut nicht mehr in der Lage war, sämtliche Einlagen seiner Kunden zurückzuzahlen.

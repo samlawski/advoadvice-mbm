@@ -17,7 +17,7 @@ tags:
   - DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat einen negativen SCHUFA-Eintrag der S-Kreditpartner GmbH gel&ouml;scht. Betroffen war ein Unternehmer aus Mecklenburg-Vorpommern, welcher im Sp&auml;tsommer 2018 kleinere Zahlungsschwierigkeiten hatte. Trotz der Zahlungsschwierigkeiten stand der Betroffene in regelm&auml;&szlig;igem Austausch mit seiner Bank, um einzelne Raten zu verschieben.

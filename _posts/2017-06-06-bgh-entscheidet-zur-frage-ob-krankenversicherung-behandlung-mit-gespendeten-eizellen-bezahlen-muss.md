@@ -7,7 +7,7 @@ feature_bild_path:
 tags:
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

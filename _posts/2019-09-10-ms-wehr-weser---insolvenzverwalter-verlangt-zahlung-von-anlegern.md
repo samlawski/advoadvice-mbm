@@ -22,7 +22,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Viele Anleger der MS "Wehr Weser" erhielten im August 2019 ein Schreiben aus der Rechtsanwaltskanzlei Reimer Rechtsanw&auml;lte. Hierin wurden sie vom Insolvenzverwalter der MS "Wehr Weser" Schiffahrtsgesellschaft mbH & Co. KG, Herrn RA Hendrik Gittermann, dazu aufgefordert, R&uuml;ckzahlungen in die Insolvenzmasse zu leisten.&nbsp;

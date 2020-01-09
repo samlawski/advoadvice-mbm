@@ -23,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bericht von der Gl&auml;ubigerversammlung in Sachen der EUBKZGW Europ&auml;isches Branchenkompetenzzentrum f&uuml;r das Gesundheitswesen EWIV vor dem Amtsgericht Berlin Charlottenburg vom 14.08.2018 - 12.00 Uhr:

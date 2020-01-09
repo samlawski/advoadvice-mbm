@@ -25,7 +25,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht N&uuml;rnberg hat mit Vers&auml;umnisurteil vom 18.10.2018 die ehemalige Gesch&auml;ftsf&uuml;hrerin der Firma CSA GmbH Christa S. und einen Anlagevermittler aus Uehlfeld zur Zahlung von Schadensersatz in H&ouml;he von 11.372,93 Euro verurteilt.

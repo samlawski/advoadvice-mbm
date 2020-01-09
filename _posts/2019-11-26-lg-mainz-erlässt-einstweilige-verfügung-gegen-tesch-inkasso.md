@@ -16,7 +16,7 @@ tags:
   - bezahlt
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfolg f&uuml;r die Kanzlei AdvoAdvice vor dem Landgericht Mainz. Das Gericht erlie&szlig; ohne Durchf&uuml;hrung einer m&uuml;ndlichen Hauptverhandlung eine einstweilige Verf&uuml;gung gegen die Tesch Inkasso Forderungsmanagement GmbH.&nbsp;

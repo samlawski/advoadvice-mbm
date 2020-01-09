@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Takestor", "Insolvenz", "Insolvenzverwalter", "Tim Schneider", "Zahlungsaufforderung", "Anleger", "Schaden"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Anleger der Takestor AG bekommen schon wieder Post.&nbsp;

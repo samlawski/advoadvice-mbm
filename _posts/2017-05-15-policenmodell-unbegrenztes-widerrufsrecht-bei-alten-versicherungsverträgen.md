@@ -22,7 +22,7 @@ tags:
 topics:
   - versicherungsrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

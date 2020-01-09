@@ -16,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - versicherungsrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Das Oberlandesgericht Stuttgart hat entschieden, dass Verbraucherinformationen der Allianz Lebensversicherungs-AG fehlerhaft sind. Dies er&ouml;ffnet vielen betroffenen Lebensversicherungskunden weiterhin die Chance, ihren Vertrag mit der Allianz zu zu widerrufen und hierdurch eine R&uuml;ckabwicklung zu erreichen.

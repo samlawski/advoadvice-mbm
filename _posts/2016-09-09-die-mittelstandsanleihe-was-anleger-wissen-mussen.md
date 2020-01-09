@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Mittelstandsanleihe", "Was tun", "Wertpapiere", "Finanzkrise", "Risiken der Anleihe", "Totalverlust", "Verlustrisiko", "Advoadvice", "Berlin"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
  **Mittelstandsanleihen – Woher kommt der Trend?**

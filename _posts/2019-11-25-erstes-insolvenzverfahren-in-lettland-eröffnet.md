@@ -18,7 +18,7 @@ tags:
   - EU-Insolvenz
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mandant von AdvoAdvice stellt erfolgreich Antrag auf Eröffnung des Insolvenzverfahrens in Riga.&nbsp;

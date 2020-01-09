@@ -17,7 +17,7 @@ tags:
   - AdvoAdvice
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat eine Klage vor dem Amtsgericht Kelheim zum Az. 3 C 290/18 gegen die Rechtsschutz Union Schaden GmbH eingereicht.
