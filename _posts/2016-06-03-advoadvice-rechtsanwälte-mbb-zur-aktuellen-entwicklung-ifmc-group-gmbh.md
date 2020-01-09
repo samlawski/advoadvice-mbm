@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'AdvoAdvice Rechtsanwälte mbB zur aktuellen Entwicklung IFMC –Group GmbH '
 date: '2016-06-03 04:00:00 -0500'
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -14,7 +17,7 @@ tags:
   - Haftung
   - Berater
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

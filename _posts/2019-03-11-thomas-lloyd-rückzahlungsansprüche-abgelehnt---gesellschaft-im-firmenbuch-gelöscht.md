@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thomas Lloyd: Rückzahlungsansprüche abgelehnt - Gesellschaft im Firmenbuch
   gelöscht
 date: 2019-03-11 00:00:00
-seo_beschreibung: >-
+description: >-
   Thomas Lloyd Investments GmbH im Firmenbuch gelöscht - CT Infrastructure
   Holding lehnt Rückzahlung ab
 layout: post
@@ -21,7 +24,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In Sachen Thomas Lloyd Investments GmbH haben die Nachforschungen der Kanzlei AdvoAdvice und bereits mit der Gesellschaft gef&uuml;hrter Schriftwechsel zu neuen Erkenntnissen gef&uuml;hrt.

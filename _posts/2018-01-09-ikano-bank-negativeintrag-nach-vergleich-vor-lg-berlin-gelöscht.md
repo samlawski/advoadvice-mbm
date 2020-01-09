@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Ikano Bank Negativeintrag nach Vergleich vor LG Berlin gelöscht
 date: 2018-01-09 00:00:00
-seo_beschreibung: >-
+description: >-
   Ikano Bank AB widerruft Negativeintrag nach Vergleich vor dem Landgericht
   Berlin
 layout: post
@@ -23,7 +26,7 @@ tags:
   - Landgericht Berlin
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

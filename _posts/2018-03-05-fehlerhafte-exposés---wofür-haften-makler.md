@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Fehlerhafte Exposés - Wofür haften Makler?
 date: 2018-03-05 00:00:00
-seo_beschreibung: Fehlerhafte Exposes - Wofür haftet der Makler?
+description: Fehlerhafte Exposes - Wofür haftet der Makler?
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +25,7 @@ tags:
 topics:
   - anlegerschutz
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Aufgrund der weiterhin niedrigen Zinssätze auf dem Geldmarkt ist der Ansturm auf Immobilien ungebrochen. Trotz der steigenden Immobilienpreise versuchen viele, ihren Traum vom eigenen Haus oder einer Eigentumswohnung zu verwirklichen und suchen händeringend Objekte. Doch der Markt ist leergefegt. Gleiches gilt für gewerbliche oder institutionelle Anleger.

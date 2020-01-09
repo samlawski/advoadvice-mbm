@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thormann / Leo One: LG Mosbach verurteilt ehemaligen Geschäftsführer und
   Rechtsanwalt
 date: 2017-10-09 00:00:00
-seo_beschreibung: >-
+description: >-
   Landgericht Mosbach verurteilt Leo One Geschäftsführer und Rechtsanwalt zum
   Schadensersatz
 layout: post
@@ -30,7 +33,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

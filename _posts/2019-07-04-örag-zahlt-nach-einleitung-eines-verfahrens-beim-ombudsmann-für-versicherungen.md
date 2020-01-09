@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: ÖRAG zahlt nach Einleitung eines Verfahrens beim Ombudsmann für Versicherungen
 date: 2019-07-04 00:00:00
-seo_beschreibung: Ombudsmannverfahren führt zum Ausgleich außergerichtlicher Rechtsanwaltskosten
+description: Ombudsmannverfahren führt zum Ausgleich außergerichtlicher Rechtsanwaltskosten
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Rechtsanwaltsgebühr
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die ÖRAG Rechtsschutzversicherungs-AG ist einer der bekanntesten deutschen Rechtsschutzversicherer am Markt. In vielen F&auml;llen erfolgt die &Uuml;bernahme von Anwaltskosten auch innerhalb einer kurzen Zeit, sofern die vertraglich vereinbarten Bedingungen erf&uuml;llt sind. Mit einem solchen Rechtsschutzfall trat im April 2016 auch eine Familie aus der N&auml;he von Berlin an die Kanzlei AdvoAdvice heran. In der Sache ging es um den [Widerruf eines Darlehens](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/)&nbsp;f&uuml;r eine Immobilie.&nbsp;

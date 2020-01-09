@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Abwicklungsverfügung gegen Thorsten Cierniak
 date: 2016-12-02 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -16,7 +19,7 @@ tags:
   - Kreditwesengesetz
   - Emission
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

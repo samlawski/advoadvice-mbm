@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: AdvoAdvice verstärkt sich mit Rechtsanwalt Martin Mrozek
 date: 2019-11-01 00:00:00
-seo_beschreibung: Rechtsanwalt Martin Mrozek verstärkt Kanzlei AdvoAdvice
+description: Rechtsanwalt Martin Mrozek verstärkt Kanzlei AdvoAdvice
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Neuzugang
   - Assoziierter Partner
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Rechtsanwalt Mrozek verst&auml;rkt seit dem 15. Oktober 2019 die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin.

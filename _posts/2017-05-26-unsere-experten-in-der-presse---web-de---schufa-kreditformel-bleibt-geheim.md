@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Unsere Experten in der Presse - Web.de - Schufa Kreditformel bleibt geheim
 date: 2017-05-26 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/web-de-logo.jpg
 tags:
@@ -21,7 +24,7 @@ tags:
   - VI ZR 156/13
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

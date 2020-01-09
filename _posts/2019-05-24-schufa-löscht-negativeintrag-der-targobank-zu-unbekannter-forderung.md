@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: SCHUFA löscht Negativeintrag der TargoBank zu unbekannter Forderung
 date: 2019-05-24 00:00:00
-seo_beschreibung: 'Schufa-Recht: Negativeintrag der Targobank gelöscht'
+description: 'Schufa-Recht: Negativeintrag der Targobank gelöscht'
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Targobank
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat auf Hinwirken der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin einen Negativeintrag der TargoBank AG gel&ouml;scht. Der Fall wies einige Spezialit&auml;ten auf, welche nach wie vor nicht ganz aufgekl&auml;rt wurden.

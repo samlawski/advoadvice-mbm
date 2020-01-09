@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Fortsetzung: LG Mainz bestätigt Einstweilige Verfügung gegen Tesch Inkasso'
 date:
-seo_beschreibung: Tesch Inkasso muss Negativeintrag nach einstweiliger Verfügung widerrufen
+description: Tesch Inkasso muss Negativeintrag nach einstweiliger Verfügung widerrufen
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ tags:
   - Einstweilige Verfügung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bereits vor einigen Wochen berichteten wir [hier](https://advoadvice.de/blog/lg-mainz-erl%C3%A4sst-einstweilige-verf%C3%BCgung-gegen-tesch-inkasso/)dar&uuml;ber, dass das Landgericht Mainz eine einstweilige Verf&uuml;gung gegen die Tesch Inkasso Forderungsmanagement GmbH erlassen hat. Erwartungsgem&auml;&szlig; legte die Tesch Inkasso gegen den Beschluss des LG Mainz Widerspruch ein. &nbsp;Aus diesem Grund kam es am 05.12.2019 zu einem Gerichtsverfahren vor dem Landgericht.

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Kostenlose Selbstauskunft heißt jetzt Datenkopie
 date: 2018-07-03 00:00:00
-seo_beschreibung: Die neue Datenkopie der SCHUFA
+description: Die neue Datenkopie der SCHUFA
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
   - Art. 15 DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mit der Einführung der DSGVO ändern sich nicht nur die allgegenwärtigen Cookie-Einstellungen, sondern auch manche Begrifflichkeiten. Im Kontext der SCHUFA Holding AG trifft dies auf die vormals als "Kostenlose Selbstauskunft" auch damals noch richtig als "Datenübersicht" benannte Zusammenfassung des eigenen Datenbestandes bei der SCHUFA zu. Diese heißt nunmehr Datenkopie und kann [hier ](https://www.meineschufa.de/index.php?site=11_3)angefordert werden.

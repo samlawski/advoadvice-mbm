@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Deutsche Öl und Gas S.A. schickt Anlegern Bettelbrief
 date: 2019-05-16 00:00:00
-seo_beschreibung: >-
+description: >-
   Deutsche Öl & Gas: Aktionäre sollen 1,20 Euro pro Aktien in die Rücklage
   einzahlen
 layout: post
@@ -18,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Luxemburg, den 3. Mai 2019

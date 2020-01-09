@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   BGH entscheidet: Keine Kündigung von Sparverträgen "S-Prämiensparen flexibel"
   durch Sparkassen vor Erreichen der höchsten Prämienstufe möglich
 date: 2019-05-14 00:00:00
-seo_beschreibung: >-
+description: >-
   BGH entscheidet: Keine Kündigung von Sparverträgen "S-Prämiensparen flexibel"
   durch Sparkassen vor Erreichen der höchsten Prämienstufe möglich
 layout: post
@@ -22,7 +25,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/bank-2907728-640-1.jpg)

@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Chefarztbehandlung nur vom Chefarzt!"
 date: 2016-08-30 09:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Behandlung", "Krankenhaus", "Chefarzt", "Einwilligung", "Oberarzt", "Rechtswidrig", "Konsequenzen", "Schadensersatz"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Im Jahr 2015 haben allein die Gutachterkommissionen und Schlichtungsstellen der Ärzteschaft in 2.132 Fällen einen Behandlungsfehler angenommen. Zwar ist Dr. Crusius, dem Vorsitzenden der Ständigen Konferenz der Gutachterkommissionen und Schlichtungsstellen der Bundesärztekammer, darin zuzustimmen, dass „überall wo Menschen arbeiten, Fehler passieren“. Passieren diese der Ärzteschaft, so sind die Folgen für die betroffenen Patienten und Patientinnen jedoch durchaus erheblich. Vor diesem Risiko versuchen Patienten sich teils mit Zusatzversicherungen oder besonderen Vereinbarungen zu schützen. So kann etwa eine ausdrückliche Chefarztbehandlung vertraglich geregelt werden, da Chefärzten doch zumeist mehr Vertrauen entgegenbracht wird, als vermeintlich unerfahreneren oder weniger qualifizierten Kollegen.&nbsp;

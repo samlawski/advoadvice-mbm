@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: EWIV - Europäische Wirtschaftliche Interessenvereinigung - Haftungsfalle für Mitglieder?
 date: 2017-02-22 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -24,7 +27,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

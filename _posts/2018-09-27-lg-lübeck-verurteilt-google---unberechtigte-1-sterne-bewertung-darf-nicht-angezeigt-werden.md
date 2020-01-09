@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   LG Lübeck verurteilt Google - Unberechtigte 1-Sterne-Bewertung darf nicht
   angezeigt werden
 date: 2018-09-27 00:00:00
-seo_beschreibung: Google muss Fake-Bewertung löschen
+description: Google muss Fake-Bewertung löschen
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +18,7 @@ tags:
   - DSGVO
 topics:
   - bewertung-löschen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nahezu jeder Internetnutzer kennt das folgende Szenario: Man ist auf der Suche nach einem Arzt, einem Rechtsanwalt oder einem anderen Unternehmen oder Anbieter in einem beliebigen Bereich. Eine schnelle Übersicht über mögliche Anbieter erhält man durch die Nutzung einer Suchmaschine wie www.google.de. Recht schnell stößt man über den Dienst "Google Maps" auf eine Übersicht verschiedener in der Umgebung ansässiger Anbieter. Diese Anbieter haben gemeinsam, dass sie über Google bewertet werden können. Die Durchschnittsbewertung eines Anbieters ist ein nicht unerhebliches Kriterium dafür, ob man das Unternehmen beauftragen möchte.

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Insolvenzverwalter Scheffler fordert bei Lombardium Rückzahlung durch Anleger
 date: 2019-11-06 00:00:00
-seo_beschreibung: Lombard Classic Anleger sollen Zinsen an Insolvenzverwalter zurückzahlen
+description: Lombard Classic Anleger sollen Zinsen an Insolvenzverwalter zurückzahlen
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +25,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger der Erste Oderfelder Beteiligungsgesellschaft mbH & Co. KG sollen Zinsen und Anlagebetrag an Insolvenzverwalter Scheffler zur&uuml;ckerstatten.&nbsp;

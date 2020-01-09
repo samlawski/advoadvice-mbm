@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: MS Wehr Weser - Insolvenzverwalter verlangt Zahlung von Anlegern
 date: 2019-09-10 00:00:00
-seo_beschreibung: >-
+description: >-
   Insolvenzverwalter der MS Wehr Weser Schiffahrtsgesellschaft fordert Zahlung
   von Anlegern
 layout: post
@@ -22,7 +25,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Viele Anleger der MS "Wehr Weser" erhielten im August 2019 ein Schreiben aus der Rechtsanwaltskanzlei Reimer Rechtsanw&auml;lte. Hierin wurden sie vom Insolvenzverwalter der MS "Wehr Weser" Schiffahrtsgesellschaft mbH & Co. KG, Herrn RA Hendrik Gittermann, dazu aufgefordert, R&uuml;ckzahlungen in die Insolvenzmasse zu leisten.&nbsp;

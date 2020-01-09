@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Unsere Experten in den Medien - Detektor FM - Schufa Formel bleibt geheim
 date: 2017-05-19 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/detektor-fm.jpg
 tags:
@@ -24,7 +27,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

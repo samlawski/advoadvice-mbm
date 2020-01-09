@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Deutsche Öl und Gas S.A. - Diesmal Geld für Klage bitte
 date: 2019-09-30 00:00:00
-seo_beschreibung: Deutsche Öl und Gas S.A. will in USA Klagen und braucht hierzu Geld
+description: Deutsche Öl und Gas S.A. will in USA Klagen und braucht hierzu Geld
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Neues von der Deutschen Öl und Gas S.A. Diese meldet sich mit einem Newsletter vom 27.09.2019 und verk&uuml;ndet &uuml;berraschendes.

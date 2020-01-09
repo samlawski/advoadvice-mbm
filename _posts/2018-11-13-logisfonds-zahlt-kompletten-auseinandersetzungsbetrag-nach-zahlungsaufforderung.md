@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Logisfonds zahlt kompletten Auseinandersetzungsbetrag nach
   Zahlungsaufforderung
 date: 2018-11-13 00:00:00
-seo_beschreibung: LogisFonds I zahlt vollen Auseinandersetzungsbetrag an Berliner Anlegerin aus
+description: LogisFonds I zahlt vollen Auseinandersetzungsbetrag an Berliner Anlegerin aus
 layout: post
 feature_bild_path:
 tags:
@@ -25,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger der LogisFonds I GmbH hatten in der Vergangenheit Schreiben der Rechtsanwaltskanzlei NBS Partners aus Hamburg erhalten. Hierin wurde Ihnen mitgeteilt, dass die Gesellschaft ein Angebot unterbreiten w&uuml;rde, eine Auszahlung des Abfindungsguthabens mit einem Abschlag von 35 % vorzunehmen. Den Anlegern wurde in diesem Zusammenhang eine entsprechende Vereinbarung vorgelegt. Dies wohl in der Annahme, dass die Anleger hierauf eingehen w&uuml;rden, um damit der LogisFonds I GmbH erhebliche Betr&auml;ge, die zur Auszahlung f&auml;llig w&auml;ren, zu ersparen.

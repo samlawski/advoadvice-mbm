@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Abwicklungsverfügung gegen Carhouse 24 UG
 date: 2016-12-06 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -15,7 +18,7 @@ tags:
   - Kreditwesengesetz
   - Rückzahlung
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

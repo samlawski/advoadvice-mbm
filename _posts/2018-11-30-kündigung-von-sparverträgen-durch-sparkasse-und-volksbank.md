@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Kündigung von Sparverträgen durch Sparkasse und Volksbank
 date: 2018-11-30 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - Unwirksamkeit
 topics:
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/sparkasse-50118-640.jpg)

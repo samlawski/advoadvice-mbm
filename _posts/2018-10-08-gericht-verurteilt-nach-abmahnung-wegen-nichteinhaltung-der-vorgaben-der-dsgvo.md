@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Gericht verurteilt nach Abmahnung wegen Nichteinhaltung der Vorgaben der DSGVO
 date: 2018-10-08 00:00:00
-seo_beschreibung: LG Würzburg verurteilt Rechtsanwältin wegen DSGVO-Verstoß
+description: LG Würzburg verurteilt Rechtsanwältin wegen DSGVO-Verstoß
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
   - Informationspflichten
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![](/uploads/dsgvo-3446011-1920-5.jpg)

@@ -1,5 +1,9 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: false
 title: Schufa
-seo_beschreibung: 
+description: 
 ---

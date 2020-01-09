@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Premium Safe Ltd: Insolvenzverwalter fordert Auszahlungen von Anlegern zurück'
 date: 2018-09-03 00:00:00
-seo_beschreibung: >-
+description: >-
   Insolvenzverwalter der Premium Safe Ltd. fordert Auszahlungen von Anlegern
   zurück
 layout: post
@@ -23,7 +26,7 @@ tags:
 topics:
   - insolvenzrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limited als Insolvenzverwalter der Gesellschaft und fordert von diesen bereits von der Gesellschaft an die Anleger gezahlte Auszahlungen zur&uuml;ck.

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: LG Berlin - Bank zu Rücknahme von VW Touran verurteilt
 date: 2018-03-26 00:00:00
-seo_beschreibung: Landgericht Berlin verurteilt Bank zur Rücknahme von VW Touran
+description: Landgericht Berlin verurteilt Bank zur Rücknahme von VW Touran
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ### Landgericht Berlin - Widerruf einer Kfz Finanzierung erfolgreich
