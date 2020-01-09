@@ -1,7 +1,7 @@
 ---
 title: Baxter Sachwert - Wie sicher sind die Sachwerte für die Anleger abgesichert?
 date: 2016-02-28 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -21,7 +21,7 @@ tags:
   - Hilfe
   - Opfer
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

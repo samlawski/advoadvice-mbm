@@ -1,7 +1,7 @@
 ---
 title: 'Zehlendorf Rechtsanwalt: AdvoAdvice übernimmt Domains'
 date: 2019-05-29 00:00:00
-seo_beschreibung: Zehlendorf-Rechtsanwalt.de - Neue Domain für AdvoAdvice
+description: Zehlendorf-Rechtsanwalt.de - Neue Domain für AdvoAdvice
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +22,7 @@ tags:
   - Kaiserliches Postamt
 topics:
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die Rechtsanwaltskanzlei AdvoAdvice Rechtsanw&auml;lte Tintemann Klevenhagen mbB in Berlin konnte von einem Anwaltskollegen die Internet-Domains **www.zehlendorfrechtsanwalt.de, www.zehlendorf-rechtsanwalt.de, www.zehlendorfanwalt.de** und **www.zehlendorf-anwalt.de** &uuml;bernehmen.

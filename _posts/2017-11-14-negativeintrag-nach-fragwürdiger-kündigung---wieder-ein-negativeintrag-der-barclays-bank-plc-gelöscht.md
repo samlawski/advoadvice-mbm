@@ -3,7 +3,7 @@ title: >-
   Negativeintrag nach fragwürdiger Kündigung - Wieder ein Negativeintrag der
   Barclays Bank PLC gelöscht
 date: 2017-11-14 00:00:00
-seo_beschreibung: >-
+description: >-
   Kündigung ohne Kündigungsvoraussetzungen führt zu negativen Schufa Eintrag
   durch Barclays Bank PLC.
 layout: post
@@ -22,7 +22,7 @@ tags:
   - Kreditrahmen
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

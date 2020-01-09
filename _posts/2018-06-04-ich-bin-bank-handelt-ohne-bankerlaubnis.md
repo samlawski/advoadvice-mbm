@@ -1,7 +1,7 @@
 ---
 title: 'Ich bin Bank: handelt ohne Bankerlaubnis'
 date: 2018-06-04 00:00:00
-seo_beschreibung: Ich bin Bank aus Tschechien hat keine deutsche Bankerlaubnis
+description: Ich bin Bank aus Tschechien hat keine deutsche Bankerlaubnis
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Manche gute Idee wird bereits im Keim erstickt und kommt nie zur Durchführung. So meldete die BaFin auf ihrer Webseite unter www.bafin.de/dok/10947200, dass sie für die Firma "Ich bin Bank (in Gründung) , Ostrava, Tschechische Republik, die Einstellung und Abwicklung des Einlagen- sowie des Kreditgeschäfts angeordnet habe.

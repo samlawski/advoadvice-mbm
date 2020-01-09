@@ -1,7 +1,7 @@
 ---
 title: 'LG München I: Google darf nicht jedes Suchergebnis anzeigen'
 date: 2018-10-10 00:00:00
-seo_beschreibung: Google muss Suchergebnis nach einstweiliger Verfügung löschen
+description: Google muss Suchergebnis nach einstweiliger Verfügung löschen
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +15,7 @@ tags:
   - Persönlichkeitsrecht
 topics:
   - bewertung-löschen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![Landgericht München I - Foto Pixabay](/uploads/lg-münchen-i-1.jpg "Landgericht München I verurteilt Google")
