@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Erfolg gegen BMW Financial Services innerhalb von 10 Tagen'
 date: 2017-07-11 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -21,7 +24,7 @@ tags:
   - Erfolg
 topics:
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

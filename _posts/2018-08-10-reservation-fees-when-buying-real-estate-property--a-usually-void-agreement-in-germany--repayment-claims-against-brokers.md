@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Reservation Fees when buying Real Estate Property – A Usually Void Agreement
   in Germany – Repayment claims against Brokers?
 date: 2018-08-10 00:00:00
-seo_beschreibung: >-
+description: >-
   Reservation Fees when buying Real Estate Property – A Usually Void Agreement
   in Germany – Repayment claims against Brokers?
 layout: post
@@ -23,7 +26,7 @@ topics:
   - anlegerschutz
   - sonstiges
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 The realization of the dream of one's own real estate property seems to be so close to a young couple and U.S. Expats T. from Berlin, Germany. They even reserved the property through a broker for a significant fee. But because financing fails at the very last moment, the young couple cannot buy. As the dream evaporates into thin air, they desperately ask the broker to repay them the reservation fee. The real estate agent refuses. Is he right?

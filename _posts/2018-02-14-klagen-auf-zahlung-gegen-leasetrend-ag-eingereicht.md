@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Klagen auf Zahlung gegen LeaseTrend AG eingereicht
 date: 2018-02-14 00:00:00
-seo_beschreibung: Klagen gegen LeaseTrend AG beim LG München I eingereicht
+description: Klagen gegen LeaseTrend AG beim LG München I eingereicht
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +23,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ehemalige Anleger der LeaseTrend AG haben seit Beginn des Monats Februar bereits vier Klagen durch die Kanzlei AdvoAdvice aus Berlin gegen die Anlagegesellschaft bei dem zuständigen Landgericht München I eingereicht.

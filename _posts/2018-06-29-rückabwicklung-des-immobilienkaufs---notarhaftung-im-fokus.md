@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Rückabwicklung des Immobilienkaufs - Notarhaftung im Fokus
 date: 2018-06-29 00:00:00
-seo_beschreibung: Notarhaftung bei Immobilienkauf
+description: Notarhaftung bei Immobilienkauf
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Wenn es um Notare geht, ist oft eine Menge Geld im Spiel und die Angelegenheit ist den beteiligten Parteien besonders wichtig: Es geht um Grundstücke, Erbschaftsangelegenheiten, Unternehmen oder andere weitreichende Verträge. Fehler können hier besonders teuer werden und auch weitereichende Folgen haben. Besonders beim Immobilienkauf von Verbrauchern gegenüber Bauträgern und Finanzberatungsunternehmen sind Notare in der Vergangenheit zum Teil aus Ihrer parteilosen Rolle herausgetreten.

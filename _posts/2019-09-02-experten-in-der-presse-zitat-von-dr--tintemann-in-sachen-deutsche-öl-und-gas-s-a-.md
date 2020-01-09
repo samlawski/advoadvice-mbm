@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Experten in der Presse: Zitat von Dr. Tintemann in Sachen Deutsche Öl und Gas
   S.A.
 date: 2019-09-02 00:00:00
-seo_beschreibung: Dr. Sven Tintemann in Zeitschrift Capital - Ausgabe September 2019
+description: Dr. Sven Tintemann in Zeitschrift Capital - Ausgabe September 2019
 layout: post
 feature_bild_path: /uploads/capital-logo.jpg
 tags:
@@ -22,7 +25,7 @@ tags:
   - Ausgerechnet Alaska
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Unsere Experten in der Presse - Beitrag &uuml;ber die Deutsche Öl und Gas S.A.&nbsp; Nennung und Zitat von Rechtsanwalt Dr. Sven Tintemann von der Kanzlei AdvoAdvice aus Berlin.&nbsp;

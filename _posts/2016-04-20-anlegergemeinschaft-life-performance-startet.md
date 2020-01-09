@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Anlegergemeinschaft Life Performance startet
 date: 2016-04-20 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -23,7 +26,7 @@ tags:
   - BaFin
   - Totalverlustrisiko
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

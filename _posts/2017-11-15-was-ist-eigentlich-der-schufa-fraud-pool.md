@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Was ist eigentlich der Schufa Fraud Pool?
 date: 2017-11-15 00:00:00
-seo_beschreibung: Schufa-FraudPool - Was ist das und wie bekommen Betroffene Informationen?
+description: Schufa-FraudPool - Was ist das und wie bekommen Betroffene Informationen?
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - betrügerische Handlung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

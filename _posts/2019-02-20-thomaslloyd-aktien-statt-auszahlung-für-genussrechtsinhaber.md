@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'ThomasLloyd: Aktien statt Auszahlung für Genussrechtsinhaber?'
 date: 2019-02-20 00:00:00
-seo_beschreibung: 'ThomasLloyd: Aktien statt Rückzahlung an Genussrechtsanleger'
+description: 'ThomasLloyd: Aktien statt Rückzahlung an Genussrechtsanleger'
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin melden sich in den letzten Tagen mehrere verunsicherte Anleger der Thomas Lloyd. Diese haben Angst um ihr Geld.

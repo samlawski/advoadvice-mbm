@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-11-28 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/bkr-ausgabe.jpg
 tags:
@@ -18,7 +21,7 @@ tags:
   - AdvoAdvice
 topics:
   - medien
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'ThomasLloyd: Früher erster Termin vor Landgericht Wiesbaden'
 date: 2019-05-10 00:00:00
-seo_beschreibung: 'ThomasLloyd: Landgericht Wiesbaden schickt Ladung zum frühen ersten Termin'
+description: 'ThomasLloyd: Landgericht Wiesbaden schickt Ladung zum frühen ersten Termin'
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erste Klage gegen CT Infrastructure Holding Ltd. wird Ende August vor dem Landgericht Wiesbaden verhandelt.&nbsp;

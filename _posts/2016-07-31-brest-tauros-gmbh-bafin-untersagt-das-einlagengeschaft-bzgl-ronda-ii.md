@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Brest-Tauros GmbH - BaFin untersagt das Einlagengeschäft bzgl. Ronda II"
 date: 2016-07-31 17:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Brest-Tauros GmbH", "Einlagengeschäft", "BaFin", "Bundesanstalt für Finanzdienstleistungsaufsicht", "Abwicklung", "Darlehen mit Grundschuldbesicherung", "Ronda II", "Einstellung", "Haftung", "Anleger", "Anlegergemeinschaft", "Kreditwesengesetz", "KWG"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) hat der Brest-Tauros GmbH (ehemals Brest-Taurus Immobilien GmbH) aus Leipzig mit Bescheid vom 24.05.2016 aufgegeben, dass ohne Erlaubnis betriebene Einlagengeschäft im Zusammenhang mit Darlehensverträgen vom Typ Ronda II – Darlehen mit Grundschuldbesicherung – sofort einzustellen und die unerlaubt betriebenen Geschäfte abzuwickeln. Dies gab die BaFin heute über ihre regelmäßig erscheinende Infomail bekannt. Laut Angaben der BaFin auf deren Homepage ist der Bescheid auch bestandkräftig.

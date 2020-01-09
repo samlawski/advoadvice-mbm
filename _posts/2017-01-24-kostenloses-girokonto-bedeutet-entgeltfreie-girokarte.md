@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Kostenloses Girokonto bedeutet entgeltfreie Girokarte
 date: 2017-01-24 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -16,7 +19,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

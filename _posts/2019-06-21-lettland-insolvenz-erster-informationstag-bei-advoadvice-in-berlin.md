@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Lettland Insolvenz: Erster Informationstag bei AdvoAdvice in Berlin'
 date: 2019-06-21 00:00:00
-seo_beschreibung: 'Lettland Insolvenz: Informationstag für Interessierte in Berlin am 21.06.2016'
+description: 'Lettland Insolvenz: Informationstag für Interessierte in Berlin am 21.06.2016'
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ tags:
   - AdvoAdvice
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 21.06.2019 fand in den R&auml;umen von AdvoAdvice der erste Informationstag zur Insolvenz und Restschuldbefreiung in Lettland statt.

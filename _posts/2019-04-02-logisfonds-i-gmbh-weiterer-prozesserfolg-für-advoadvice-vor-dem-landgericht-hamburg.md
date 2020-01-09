@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Logisfonds I GmbH: Weiterer Prozesserfolg für AdvoAdvice vor dem Landgericht
   Hamburg
 date: 2019-04-02 00:00:00
-seo_beschreibung: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
+description: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei der Firma Logisfonds I GmbH (ehemals Garbe Logimac AG) aus Hamburg beteiligten sich Anleger  als atypisch stille Gesellschafter. Am Ende der Beteiligung erwartet die meisten Anleger ein Verlust eines Teil ihrer eingezahlten Anlagesumme. Das steht leider heute schon fest.

@@ -1,7 +1,11 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: false
 title: Widerruf Kfz-Finanzierung
-seo_beschreibungs: Widerruf von Kfz-Finanzierungen und Darlehensverträgen
+description: Widerruf von Kfz-Finanzierungen und Darlehensverträgen
 ---
 
 ## **Wir helfen Ihnen!**

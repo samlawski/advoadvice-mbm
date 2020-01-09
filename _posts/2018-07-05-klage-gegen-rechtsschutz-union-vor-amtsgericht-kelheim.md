@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Klage gegen Rechtsschutz Union vor Amtsgericht Kelheim
 date: 2018-07-05 00:00:00
-seo_beschreibung: Klage gegen Rechtsschutz Union vor Amtsgericht eingereicht
+description: Klage gegen Rechtsschutz Union vor Amtsgericht eingereicht
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - AdvoAdvice
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat eine Klage vor dem Amtsgericht Kelheim zum Az. 3 C 290/18 gegen die Rechtsschutz Union Schaden GmbH eingereicht.

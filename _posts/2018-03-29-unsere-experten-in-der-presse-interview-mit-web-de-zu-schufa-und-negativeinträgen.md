@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Unsere Experten in der Presse: Interview mit Web.de zu Schufa und
   Negativeinträgen
 date: 2018-03-29 00:00:00
-seo_beschreibung: Dr. Tintemann zum Thema Schufa im Interview bei Web.de
+description: Dr. Tintemann zum Thema Schufa im Interview bei Web.de
 layout: post
 feature_bild_path: /uploads/web-de.jpg
 tags:
@@ -20,7 +23,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Wir freuen uns über die Veröffentlichung eines Artikel von Michaela Strassmair am 29.03.2018 um18.00 Uhr auf Web.de zum Thema: "Schufa: Was sie macht, was sie weiß und was das für unser tägliches Leben bedeutet."

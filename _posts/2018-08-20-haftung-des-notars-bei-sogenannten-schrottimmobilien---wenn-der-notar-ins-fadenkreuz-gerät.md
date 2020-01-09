@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Haftung des Notars bei sogenannten „Schrottimmobilien" - wenn der Notar ins
   Fadenkreuz gerät
 date: 2018-08-20 00:00:00
-seo_beschreibung: >-
+description: >-
   Haftung Des Notars Bei Sogenannten Schrottimmobilien Wenn der Notar Ins
   Fadenkreuz Gerät
 layout: post
@@ -22,7 +25,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die in der Allgemeinheit als sogenannte „Schrottimmobilien" bezeichneten Kapitalanlagen haben bereits eine Vielzahl von Erwerbern ins finanzielle Unglück gestürzt. Die versprochenen monatlichen Belastungen stimmen bei vielen nicht, auch wurden viele Immobilien, bedingt durch die im Kaufpreis beim Erwerb enthaltenen Provisionen viel zu teuer verkauft. Wenn die Betroffenen den wahren Sachverhalt erkennen, sind  zum Teil die damaligen Vermittler, die sogenannten Immobilienvertriebe, als auch die Verkäufer nicht mehr auffindbar oder pleite gegangen.

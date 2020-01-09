@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Haftung des Immobilienkäufers für Rückstände des Verkäufers?
 date: 2019-01-12 00:00:00
-seo_beschreibung: Haftung des Immobilienkäufers für Rückstände des Verkäufers
+description: Haftung des Immobilienkäufers für Rückstände des Verkäufers
 layout: post
 feature_bild_path:
 tags:
@@ -25,7 +28,7 @@ topics:
   - immobilienrecht
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-2724245-1920-1.jpg)

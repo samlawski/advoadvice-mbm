@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'CSA GmbH: Landgericht verurteilt ehemalige Geschäftsführerin und Vermittler'
 date: 2018-11-08 00:00:00
-seo_beschreibung: >-
+description: >-
   CSA GmbH: Landgericht Nürnberg verurteilt Geschäftsführerin und Vermittler zu
   Schadensersatz
 layout: post
@@ -25,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht N&uuml;rnberg hat mit Vers&auml;umnisurteil vom 18.10.2018 die ehemalige Gesch&auml;ftsf&uuml;hrerin der Firma CSA GmbH Christa S. und einen Anlagevermittler aus Uehlfeld zur Zahlung von Schadensersatz in H&ouml;he von 11.372,93 Euro verurteilt.

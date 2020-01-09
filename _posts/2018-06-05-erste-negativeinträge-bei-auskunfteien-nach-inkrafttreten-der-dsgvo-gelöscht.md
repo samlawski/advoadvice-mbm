@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Erste Negativeinträge bei Auskunfteien nach Inkrafttreten der DSGVO gelöscht
 date: 2018-06-05 00:00:00
-seo_beschreibung: Erster Negativeintrag nach Inkrafttreten der DSGVO gelöscht
+description: Erster Negativeintrag nach Inkrafttreten der DSGVO gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Inkasso
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Kurz vor Inkrafttreten der neuen Datenschutz-Grundverordnung am 25.05.2018, trat ein Rechtsanwaltskollege aus Berlin an die Experten der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB heran und bat um Hilfe bei der L&ouml;schung von Negativeintr&auml;gen bei der CRIF B&uuml;rgel GmbH und einer weiteren bekannten Auskunftei in Deutschland.

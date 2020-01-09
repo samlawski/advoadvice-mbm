@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Brest-Tauros GmbH - Rückfrage zum Sachstand der Abwicklung ohne Antwort"
 date: 2016-08-09 17:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Brest-Tauros GmbH", "Sachstandsanfrage", "Abwicklung", "BaFin", "Anleger", "Sicherheit", "Anlagensicherung", "Ronda II", "Ronda I", "grundbuchliche Besicherung", "Haftung", "Rückmeldung", "Anlegergemeinschaft", "AdvoAdvice", "Dr. Tintemann", "Bank- und Kapitalmarktrecht"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Brest-Tauros GmbH aus Leipzig hatte erst kürzlich von der BaFin eine Rückabwicklungsverfügung wegen der Kapitalanlage vom Typ Rondo II erhalten. Hierzu hatten wir bereits berichtet.

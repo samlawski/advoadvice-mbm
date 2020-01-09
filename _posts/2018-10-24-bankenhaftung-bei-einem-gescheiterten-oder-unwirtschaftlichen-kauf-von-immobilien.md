@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Bankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien
 date: 2018-10-24 00:00:00
-seo_beschreibung: >-
+description: >-
   ankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien
 layout: post
@@ -24,7 +27,7 @@ topics:
   - immobilienrecht
   - anlegerschutz
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/bank-2907728-640-1.jpg)

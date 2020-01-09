@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'ThomasLloyd: Anlegerin erhält Geld nach Zahlungsaufforderung'
 date: 2019-05-02 00:00:00
-seo_beschreibung: 'ThomasLLoyd: Zahlung an Anlegerin nach Zahlungsaufforderung erstritten'
+description: 'ThomasLLoyd: Zahlung an Anlegerin nach Zahlungsaufforderung erstritten'
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 AdvoAdvice erstreitet Auszahlungen an eine Anlegerin, die in Genussrechte der Thomas Lloyd Investments GmbH investiert und diese zum 31.12.2016 gek&uuml;ndigt hatte.&nbsp;

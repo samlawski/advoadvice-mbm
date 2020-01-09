@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Kammergericht verwirft Berufung der Postbank als unzulässig
 date: 2018-06-13 00:00:00
-seo_beschreibung: Postbank scheitert mit Berufung beim Kammergericht
+description: Postbank scheitert mit Berufung beim Kammergericht
 layout: post
 feature_bild_path:
 tags:
@@ -23,7 +26,7 @@ tags:
   - VI ZB 75/14
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Kammergericht hat einen Berufung der Deutschen Postbank AG gegen eine erstinstanzliche Entscheidung des Landgerichts Berlin, welches diese zur Löschung eines Schufa-Negativeintrages verurteilt hatte, als unzulässig verworfen.

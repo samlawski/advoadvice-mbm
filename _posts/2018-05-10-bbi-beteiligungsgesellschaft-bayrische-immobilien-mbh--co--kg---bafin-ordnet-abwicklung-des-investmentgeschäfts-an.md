@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   BBI Beteiligungsgesellschaft Bayrische Immobilien mbH & Co. KG - BaFin ordnet
   Abwicklung des Investmentgeschäfts an
 date: 2018-05-10 00:00:00
-seo_beschreibung: >-
+description: >-
   BaFin ordnet Abwicklung des Investmentgeschäfts der BBI
   Beteiligungsgesellschaft an
 layout: post
@@ -25,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (kurz BaFin) hat auf ihrer Webseite unter www.bafin.de/dok/10882714 mitgeteilt, dass sie der Firma BBI Beteiligungsgesellschaft Bayrische Immobilien mbH & Co. KG mit Bescheid vom 30.04.2018 die Einstellung und Abwicklung des Investmentgesch&auml;fts aufgegeben hat.
