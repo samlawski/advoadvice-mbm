@@ -1,13 +1,13 @@
 ---
 title: 'BGH: Entscheidet zur Frage, ob Krankenversicherung Behandlung mit gespendeten Eizellen bezahlen muss'
 date: 2017-06-06 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

@@ -3,7 +3,7 @@ title: >-
   Martin Oswald / CanTerra Investments Holding LLC: Einstellung des
   Investmentgeschäfts durch BaFin angeordnet
 date: 2018-01-15 00:00:00
-seo_beschreibung: >-
+description: >-
   BaFin ordnet Einstellung des Investmentgeschäfts bei Martin Oswald und Can
   Terra Investments Holding LLC an
 layout: post
@@ -24,7 +24,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

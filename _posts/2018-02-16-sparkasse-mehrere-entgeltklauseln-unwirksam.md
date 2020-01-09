@@ -1,7 +1,7 @@
 ---
 title: 'Sparkasse: Mehrere Entgeltklauseln unwirksam'
 date: 2018-02-16 00:00:00
-seo_beschreibung: Sparkasse verdient aufgrund unwirksamer Klauseln diverse Entgelte.
+description: Sparkasse verdient aufgrund unwirksamer Klauseln diverse Entgelte.
 layout: post
 feature_bild_path:
 tags:
@@ -12,7 +12,7 @@ tags:
   - Bundesgerichtshof
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundesgerichtshof hat am 12.09.2017 entschieden (Az. XI ZR 590/15), dass mehrere Entgeltklauseln einer Sparkasse unwirksam sind. Diese Klauseln dürfen nun nicht mehr gegenüber Verbrauchern verwendet werden.

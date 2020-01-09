@@ -1,7 +1,7 @@
 ---
 title: 'Eberhard Gugler: Abwicklung des Einlagengeschäfts durch BaFin angeordnet'
 date: 2018-02-19 00:00:00
-seo_beschreibung: BaFin ordnet Abwicklung des Einlagengeschäfts an
+description: BaFin ordnet Abwicklung des Einlagengeschäfts an
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) ordnet von Gesetzes wegen gegenüber Unternehmen die erlaubnispflichtige Geschäfte ohne entsprechende Erlaubnis der BaFin betreiben, deren Abwicklung an. Diese Anordnungen veröffentlicht die BaFin auf ihrer Webseite unter www.bafin.de.

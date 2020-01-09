@@ -1,7 +1,7 @@
 ---
 title: Kündigung von Sparkassenverträgen unwirksam?
 date: 2018-10-29 00:00:00
-seo_beschreibung: Kündigung von Sparverträgen der Sparkasse zweifelhaft
+description: Kündigung von Sparverträgen der Sparkasse zweifelhaft
 layout: post
 feature_bild_path:
 tags:
@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Angaben des Inforadio vom heutigen Tag sollen in Brandenburg tausende Sparkassenkunden von zweifelhaften Kündigungen ihrer Sparverträge Verträge betroffen sein.

@@ -1,15 +1,18 @@
-# Site Settings
+# Site & Meta Details
 title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
-email: info@advoadvice.com
-keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
 description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg
-baseurl: "" # the subpath of your site, e.g. /blog
+keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
+logo: /uploads/images/logo-compact.png
+
+lang: de_DE
+email: info@advoadvice.com
 url: "https://advoadvice.de" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Collection Settings
 collections:
-  team_members:
-    output: true
+  authors:
+    output: false
   topics:
     output: true
     permalink: /themen/:path/
@@ -40,7 +43,9 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-autoprefixer
+  # - jekyll-redirect-from
   # - jekyll-compress-images # activate periodically to compress all images
   # - jekyll/tagging
   # - jekyll-tagging-related_posts
@@ -49,7 +54,8 @@ plugins:
   # - suggested_posts: filter used to display 3 posts related to the given one
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page-:num/"
+seo_paginator_message: "Blog Seite %{current} von %{total} | "
 
 autoprefixer:
   browsers:

@@ -1,7 +1,7 @@
 ---
 title: Brest Tauros Anleger Informationsschreiben
 date: 2017-09-04 00:00:00
-seo_beschreibung: Brest Tauros Anleger erhalten Info-Schreiben von AdvoAdvice
+description: Brest Tauros Anleger erhalten Info-Schreiben von AdvoAdvice
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

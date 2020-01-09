@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: Erneut Negativeintrag zur Löschung gebracht'
 date: 2016-11-07 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -20,7 +20,7 @@ tags:
   - Erfolg
   - AdovAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

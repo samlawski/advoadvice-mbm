@@ -1,7 +1,7 @@
 ---
 title: ThomasLloyd Investments GmbH zahlt nach Zahlungsaufforderung Anlegergelder aus
 date: 2018-08-30 00:00:00
-seo_beschreibung: ThomasLloyd Investments GmbH zahlt an Anleger nach Zahlungsaufforderung aus
+description: ThomasLloyd Investments GmbH zahlt an Anleger nach Zahlungsaufforderung aus
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB konnte einem Anleger der Thomas Lloyd Investments GmbH zur Rückzahlung seines Auseinandersetzungsguthabens in Höhe von 15.942,29 Euro verhelfen.

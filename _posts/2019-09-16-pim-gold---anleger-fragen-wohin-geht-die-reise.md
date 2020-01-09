@@ -1,7 +1,7 @@
 ---
 title: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 date: 2019-09-16 00:00:00
-seo_beschreibung: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
+description: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 layout: post
 feature_bild_path: /uploads/gold-bars-2467833-1920-1.jpg
 tags:
@@ -18,7 +18,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/gold-bars-2467833-1920-2.jpg){: width="1920" height="1280"}<br>Nachdem die Staatsanwaltschaft Darmstadt am 4.9.2019 im Rahmen einer Durchsuchung der Gesch&auml;ftsr&auml;ume der PIM Gold dort befindliche Vermögenswerte sicherte und auch eine Festnahme erfolgte, werden jetzt die Folgen der Ma&szlig;nahmen der Staatsanwaltschaft sichtbar.&nbsp;

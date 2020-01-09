@@ -1,7 +1,7 @@
 ---
 title: Pflegeimmobilien als Kapitalanlage - Rendite und Risiko
 date: 2018-09-06 00:00:00
-seo_beschreibung: Pflegeimmobilien als Kapitalanlage - Rendite und Risiko
+description: Pflegeimmobilien als Kapitalanlage - Rendite und Risiko
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die Pflegeimmobilie als Renditeobjekt hat sich vom weithin unbeachteten Geheimtipp zum Shooting-Star der neuen Immobilien-Investitionen von Kleinanlegern entwickelt. Was früher nahezu ausschließlich für Großinvestoren und Fondsbetreiber interessant war, wird angesichts der derzeitigen Situation auf dem Geldmarkt auch für jene attraktiv, die sich ohnehin mit dem Erwerb einer fremdvermieteten Eigentumswohnung beschäftigen. 

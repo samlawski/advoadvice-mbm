@@ -1,7 +1,7 @@
 ---
 title: Schufa löscht Eintrag der Targobank nach Durchführung Insolvenz in England
 date: 2018-09-18 00:00:00
-seo_beschreibung: Schufa Eintrag nach Restschuldbefreiung in England gelöscht
+description: Schufa Eintrag nach Restschuldbefreiung in England gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ tags:
 topics:
   - datenschutz
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In den vergangenen Jahren gab es in Deutschland regelm&auml;&szlig;ig ca. [100.000 Privatinsolvenzen](https://de.statista.com/statistik/daten/studie/150565/umfrage/privatinsolvenzen-in-deutschland-seit-2000/) pro Kalenderjahr. Sinn und Zweck eines solchen Insolvenzverfahrens ist es, im Anschluss daran wieder wirtschaftlich leistungsf&auml;hig und damit auch kreditw&uuml;rdig zu sein. Eine solche Privatinsolvenz l&auml;sst sich in Einzelf&auml;llen auch im Ausland durchf&uuml;hren. Der gro&szlig;e Vorteil daran ist, dass eine Restschuldbefreiung bspw. in England oder in Frankreich deutlich schneller zu erreichen ist, als dies in Deutschland momentan der Fall ist.&nbsp; Eine solches Insolvenzverfahren in England wurde auch durch einen Mann aus Bremen durchgef&uuml;hrt. Die Restschuldbefreiung (engl. = certificate of discharge) wurde diesem bereits im M&auml;rz 2015 erteilt.

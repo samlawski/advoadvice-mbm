@@ -1,7 +1,7 @@
 ---
 title: SCHUFA-Eintrag der Deutschen Bank Privat- und Firmenkunden AG gelöscht
 date: 2019-11-04 00:00:00
-seo_beschreibung: SCHUFA löscht Negativeintrag der Deutschen Bank
+description: SCHUFA löscht Negativeintrag der Deutschen Bank
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Bareinzahlung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach einer jahrelangen Gesch&auml;ftsbeziehung zwischen einem 40-j&auml;hrigem Mann und der Deutschen Bank Privat- und Firmenkunden AG entwickelte sich ein schwelender Streit, welcher in letzter Etappe erst durch Hinzuziehung der Kanzlei AdvoAdvice Rechtsanw&auml;lte entschieden werden konnte.

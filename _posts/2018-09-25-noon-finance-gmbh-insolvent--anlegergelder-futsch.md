@@ -1,7 +1,7 @@
 ---
 title: Noon Finance Gmbh insolvent. Anlegergelder futsch?
 date: 2018-09-25 00:00:00
-seo_beschreibung: Noon Finance Gmbh insolvent. Was Anleger jetzt wissen müssen.
+description: Noon Finance Gmbh insolvent. Was Anleger jetzt wissen müssen.
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
 topics:
   - insolvenzrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) teilt im Internet mit, dass die Firma Noon Finance GmbH Insolvenz angemeldet hat. Dies wurde über die Seiten der BaFin unter https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Anlage/180924\_anlage\_meldung\_noon\_finance\_gmbh.html?nn=9021442 veröffentlicht.
