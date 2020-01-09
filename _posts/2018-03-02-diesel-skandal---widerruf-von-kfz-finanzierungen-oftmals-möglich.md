@@ -1,7 +1,7 @@
 ---
 title: Diesel Skandal - Widerruf von Kfz-Finanzierungen oftmals möglich
 date: 2018-03-02 00:00:00
-seo_beschreibung: >-
+description: >-
   Der Widerruf von Auto-Finanzierungen ist oftmals wegen Belehrungsfehlern für
   Verbraucher erfolgreich
 layout: post
@@ -22,7 +22,7 @@ tags:
   - Gebrauchtwagen
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der bisher treue Diesel, oftmals sogar als umweltfreundlich gelobt, entpuppt sich nach dem Urteil des Bundesverwaltungsgerichts zu Fahrverboten in deutschen Innenst&auml;dten immer mehr als Ladenh&uuml;ter und Altlast und muss daher bei vielen Verbrauchern dringend weg.

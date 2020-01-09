@@ -3,7 +3,7 @@ title: >-
   AdvoAdvice Rechtsanwälte - Ein Jahr erfolgreiche Arbeit im Kaiserlichen
   Postamt
 date: 2018-09-26 00:00:00
-seo_beschreibung: >-
+description: >-
   AdvoAdvice Rechtsanwälte - Ein Jahr erfolgreiche Arbeit im Kaiserlichen
   Postamt
 layout: post
@@ -22,7 +22,7 @@ topics:
   - datenschutz
   - versicherungsrecht
   - bewertung-löschen
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/kaiserliches-postamt-nah.jpg)

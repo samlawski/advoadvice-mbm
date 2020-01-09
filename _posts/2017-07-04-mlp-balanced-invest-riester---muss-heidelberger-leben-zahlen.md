@@ -1,7 +1,7 @@
 ---
 title: MLP balanced invest Riester - Muss Heidelberger Leben zahlen?
 date: 2017-07-04 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
   - intransparent
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

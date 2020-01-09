@@ -1,7 +1,7 @@
 ---
 title: Vergleich nach Klage wegen Anwaltshaftung
 date: 2019-08-27 00:00:00
-seo_beschreibung: Vergleich nach Klage gegen ehemaligen Anwalt wegen Anwaltshaftung
+description: Vergleich nach Klage gegen ehemaligen Anwalt wegen Anwaltshaftung
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +18,7 @@ tags:
   - Vergleich
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Wie in allen Gebieten des Lebens kommt es auch vor, dass Rechtsanw&auml;lte ihre Arbeit nicht richtig machen. Problematisch bei Anw&auml;lten ist, dass in der Folge eines Fehlers h&auml;ufig viel Geld verloren geht und damit ein hoher wirtschaftlicher Schaden eintritt.&nbsp;

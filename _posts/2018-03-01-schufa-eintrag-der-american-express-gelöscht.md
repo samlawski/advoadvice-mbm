@@ -1,7 +1,7 @@
 ---
 title: Schufa Eintrag der American Express gelöscht
 date: 2018-03-01 00:00:00
-seo_beschreibung: >-
+description: >-
   Negativer Schufa Eintrag von American Express nach Ratenzahlungsvereinbarung
   gelöscht.
 layout: post
@@ -20,7 +20,7 @@ tags:
   - Mahnung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Es gibt immer wieder Fälle in denen die Schufa Holding AG in Wiesbaden negative Schufa-Einträge selbständig zur Löschung bringt. Die Schufa Holding AG muss sicherstellen, dass der Datenbestand auf einer rechtmäßigen und wahren Grundlage beruft. Unabhängig von der Frage, ob eine Forderung tatsächlich entstanden und nicht sofort ausgeglichen wurde, gibt es immer wieder auch gute Gründe oder Vereinbarungen warum der Ausgleich der Forderung unterblieben ist.

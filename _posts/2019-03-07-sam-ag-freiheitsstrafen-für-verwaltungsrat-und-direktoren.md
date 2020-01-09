@@ -1,7 +1,7 @@
 ---
 title: 'SAM AG: Freiheitsstrafen für Verwaltungsrat und Direktoren'
 date: 2019-03-07 00:00:00
-seo_beschreibung: LG München verurteilt Hintermänner der SAM AG zu Freiheitsstrafen
+description: LG München verurteilt Hintermänner der SAM AG zu Freiheitsstrafen
 layout: post
 feature_bild_path:
 tags:
@@ -23,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht M&uuml;nchen hat im Strafprozess gegen die Verantwortlichen und Hinterm&auml;nner der SAM AG sein erstes Urteil gesprochen. Verurteilt wurde der ehemalige Verwaltungsrat de SAM AG Michael O. zu einer Freiheitsstrafe von 5 Jahren und 6 Monaten. Ebenfalls verurteilt wurden die Direktoren der SAM AG Michael H. und Dieter K. zu&nbsp; jeweils 3 Jahren und 6 Monaten Freiheitsstrafe.

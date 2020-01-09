@@ -1,12 +1,12 @@
 ---
 title: "Aktuelle Rechtsprechung zum Widerruf von Lebensversicherungen nach dem Policenmodell - Das frühere sog. „Policenmodell“"
 date: 2016-08-30 09:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Policenmodell", "Widerruf", "Lebensversicherung", "Ewiges Widerrufsrecht", "BGH", "BVerfG", "Karlsruhe"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach dem sog. „Policenmodell“ stellte der Versicherungsnehmer, zumeist nach Beratung durch den Versicherungsvermittler, den Antrag auf Abschluss eines Versicherungsvertrages, indem er ein ihm vom Versicherungsunternehmen bzw. dem Versicherungsvermittler vorgelegtes Antragsformular ausfüllte und unterschrieb. Dieses Vertragsangebot nahm der Versicherer dadurch an, dass er dem Versicherungsnehmer mit der Versicherungspolice die allgemeinen Versicherungsbedingungen und die für den Vertragsschluss maßgeblichen Verbraucherinformationen übersandte. Hiermit kam aber noch kein wirksamer Vertrag zustande. Nach dem früheren § 5a Abs. 1 Satz 1 des Versicherungsvertragsgesetzes (VVG) galt der Versicherungsvertrag vielmehr nur geschlossen, „wenn der Versicherungsnehmer nicht innerhalb von 14 Tagen nach Überlassung der Unterlagen schriftlich widerspricht“. Bis zum Ablauf dieser Frist war der Vertrag schwebend unwirksam.&nbsp;

@@ -1,7 +1,7 @@
 ---
 title: Cinema Sports Inc. - Schadensersatzklage erfolgreich
 date: 2016-11-10 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -17,7 +17,7 @@ tags:
   - Penny Stock
   - Vertriebskosten
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

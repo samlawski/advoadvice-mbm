@@ -1,7 +1,7 @@
 ---
 title: Tempo 30 in Berlin bringt wenig
 date: 2018-06-15 00:00:00
-seo_beschreibung: Tempo 30 auf Leipziger Straße mit wenig Effekt für Luftbelastung
+description: Tempo 30 auf Leipziger Straße mit wenig Effekt für Luftbelastung
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Leipziger Straße
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Angaben des Inforadio ist nach Einführung von Tempo 30 aus der Leipziger Straße die Luftbelastung nur minimal gesunken. Das hätten Messungen von rbb24 und der Technischen Universität Berlin einen Monat nach Einführung des Tempolimits gezeigt.

@@ -1,7 +1,7 @@
 ---
 title: AdvoAdvice - Bilanz nach einem Jahr
 date: 2017-01-02 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -14,7 +14,7 @@ tags:
   - Best of
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 
