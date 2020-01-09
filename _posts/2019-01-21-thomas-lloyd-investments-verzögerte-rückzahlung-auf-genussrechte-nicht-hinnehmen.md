@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd Investments: Verzögerte Rückzahlung auf Genussrechte nicht
   hinnehmen
 date: 2019-01-21 00:00:00
-seo_beschreibung: 'Thomas Lloyd Genussrechte: Zahlungsverzug muss Anlegern nicht akzeptieren'
+description: 'Thomas Lloyd Genussrechte: Zahlungsverzug muss Anlegern nicht akzeptieren'
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger erstreitet mit Hilfe von AdvoAdvice eine Auszahlung von der Thomas Lloyd Global Asset Management (Schweiz) AG in Höhe von 9.902,12 Euro zzgl. Zinsen.

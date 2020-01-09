@@ -1,7 +1,7 @@
 ---
 title: 'Alphapool: Verurteilung gegen Vorstand und Hintermänner rechtskräftig'
 date: 2019-03-28 00:00:00
-seo_beschreibung: 'Alphapool: BGH weist Revision gegen Strafurteil zurück'
+description: 'Alphapool: BGH weist Revision gegen Strafurteil zurück'
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Saarbr&uuml;cken hatte bereits im vergangenen Jahr den ehemaligen Vorstandsvorsitzenden der Alphapool AG sowie zwei Aufsichtsr&auml;te zu hohen Freiheitsstrafen verurteilt. Der ehemalige Vorstandsvorsitzende erhielt eine Freiheitsstrafe von sechs Jahren und drei Monaten. Die Aufsichtsr&auml;te wurden zu Freiheitsstrafen von sechs Jahren und sechs Monaten bzw. sieben Jahren verurteilt. Wir berichteten bereits ([zum Blog-Beitrag](/blog/alphapool-ag-lg-saarbr%C3%BCcken-verurteilt-drei-hauptt%C3%A4ter/)).

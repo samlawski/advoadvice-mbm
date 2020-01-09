@@ -1,7 +1,7 @@
 ---
 title: Rückruf von 238.000 Daimler Fahrzeugen angeordnet
 date: 2018-06-12 00:00:00
-seo_beschreibung: Minister Scheuer ordnet Rückruf von 238.000 Daimer Fahrzeugen an.
+description: Minister Scheuer ordnet Rückruf von 238.000 Daimer Fahrzeugen an.
 layout: post
 feature_bild_path:
 tags:
@@ -23,7 +23,7 @@ tags:
   - Widerruf
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Diesel Skandal zieht immer weitere Kreise und führt erneut zum Rückruf von Fahrzeugen, welche nach Auffassung des Bundesverkehrsministers eine unzulässige Abschalteinrichtung beinhalten.

@@ -1,7 +1,7 @@
 ---
 title: 6. Infotag Lettland Insolvenz in Berlin am 04.12.2019
 date: 2019-10-31 00:00:00
-seo_beschreibung: 6. Informationstag für Lettland Insolvenz am 04.12.2019
+description: 6. Informationstag für Lettland Insolvenz am 04.12.2019
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +16,7 @@ tags:
   - Schuldenfrei
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 04.12.2019 findet der 6. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt. Kurz vor Nikolaus besteht hier noch einmal im Jahr 2019 die Möglichkeit, sich zur Neuordnung der eigenen Finanzen &uuml;ber die hierzu in Lettland bestehenden Möglichkeiten zu informieren.&nbsp;

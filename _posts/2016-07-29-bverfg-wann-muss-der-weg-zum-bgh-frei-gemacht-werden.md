@@ -1,12 +1,12 @@
 ---
 title: "BVerfG: Wann muss der Weg zum BGH frei gemacht werden?"
 date: 2016-07-29 07:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Revision", "Versicherungsrecht", "Urteil", "Advoadvice", "Widerruf"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Eine in vielen Rechtsstreitigkeiten relevante Frage wurde nun durch das Bundesverfassungsgericht geklärt. Dieses äußert sich mit Beschluss v. 16.06.2016 – Az. 1 BvR 873/15 zu der wichtigen Frage, wann die Revision zum Bundesgerichtshof zugelassen werden muss. In den meisten Verfahren gilt das zweitinstanzliche Urteil vor dem Oberlandesgericht als abschließendes Urteil. Nur in besonderen Fällen muss die Revision zum Bundesgerichtshof zugelassen werden. Dies regelt die Zivilprozessordnung in § 543 Abs. 2 ZPO.

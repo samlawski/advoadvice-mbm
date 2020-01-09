@@ -1,12 +1,12 @@
 ---
 title: "Ende des ewigen Widerrufsrechts – neues Gesetz auf dem Weg"
 date: 2016-02-17 10:39:00 -0600
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Widerruf", "Bank- und Kapitalmarktrecht", "Ewiges Widerrufsrecht", "Bundesregierung", "Gesetzentwurf", "EuGH", "Europarecht", "Tintemann", "Klevenhagen"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesregierung hat zur Umsetzung der Richtlinie 2014/17/EU über Wohnimmobilienkredite einen neuen Gesetzesentwurf beschlossen. Kernpunkt der Neureglung für Verbraucher ist es, dass das bisher bestehende „ewige Widerrufsrecht“ gestrichen werden soll. Am 07. September 2015 hat die Bundesregierung einen Gesetzesentwurf verabschiedet, der weitreichende und teils verbraucherunfreundliche Konsequenzen haben dürfte. Es handelt sich insbesondere um die Novellierung des § 356b BGB, in welchem die Regelungen zu einem Widerrufsrecht bei Verbraucherdarlehensverträge geregelt sind. Der Paragraph wird um eine entscheidende Unternorm ergänzt. Dabei heißt es im Wortlaut:

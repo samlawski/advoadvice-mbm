@@ -1,7 +1,7 @@
 ---
 title: Klage gegen MoreMedia GmbH eingereicht
 date: 2018-05-02 00:00:00
-seo_beschreibung: Klage gegen MoreMedia GmbH beim Landgericht Berlin eingereicht
+description: Klage gegen MoreMedia GmbH beim Landgericht Berlin eingereicht
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin hat am 19.04.2018 eine Klage gegen die in Berlin ebenfalls gesch&auml;ftsans&auml;ssige Firma MoreMedia GmbH beim Landgericht Berlin eingereicht. Die MoreMedia GmbH mit Sitz in der Scharnhorststra&szlig;e 24 ging aus der Firma Oberle Geothermik GmbH hervor, welche von Anlegern Investsments als qualifiziert nachrangige Darlehensvertr&auml;ge entgegen nahm.

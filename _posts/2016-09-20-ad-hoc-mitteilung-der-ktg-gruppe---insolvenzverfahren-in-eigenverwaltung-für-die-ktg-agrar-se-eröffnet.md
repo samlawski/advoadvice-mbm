@@ -1,7 +1,7 @@
 ---
 title: Ad-hoc Mitteilung der KTG Gruppe - Insolvenzverfahren in Eigenverwaltung für die KTG Agrar SE eröffnet
 date: 2016-09-20 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -18,7 +18,7 @@ tags:
   - Advoadvice
   - Berlin
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

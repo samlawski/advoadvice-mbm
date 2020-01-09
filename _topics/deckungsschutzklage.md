@@ -1,7 +1,7 @@
 ---
 featured: false
 title: Deckungsschutzklage
-seo_beschreibung: >-
+description: >-
   Klage auf Erteilung von Deckungschutz gegen die eigene
   Rechtsschutzversicherung
 cta_titel:

@@ -1,7 +1,7 @@
 ---
 title: Erfolg gegen Schufa Eintrag der Synergie Inkasso
 date: 2018-04-18 00:00:00
-seo_beschreibung: Verjährte Forderung der Synergie Inkasso aus Schufa-Datenbestand gelöscht.
+description: Verjährte Forderung der Synergie Inkasso aus Schufa-Datenbestand gelöscht.
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Verjährung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Außergerichtlicher Erfolg gegen Schufa Negativeintrag der Synergie Inkasso. Diese hatte am 21.09.2015 eine offene Forderung über 1.618,00 Euro bei der Schufa Holding AG eingetragen. Nachdem beim Betroffenen die Stromzähler ausgetauscht wurden, gab es in der Folgezeit nicht nachvollziehbare Abrechnungen. Trotz mehrerer Kontaktversuche des Betroffenen mit der ursprünglichen Forderungsinhaberin, der FlexStrom AG, konnte keine Lösung gefunden werden. Anschließend wurde der Betroffene nur noch ein Mal kontaktiert. Dies geschah durch die Synergie Inkasso GmbH, welche die Forderungen der Flex Strom AG eintreibt, im Jahr 2014.
