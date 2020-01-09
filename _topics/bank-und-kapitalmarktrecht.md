@@ -1,7 +1,7 @@
 ---
 featured: true
 title: Bank- und Kapitalmarktrecht
-seo_beschreibung: >-
+description: >-
   Profesionelle Vertretung Ihrer Interessen durch Fachanwälte im Bank- und
   Kapitalmarktrecht in Berlin und deutschlandweit
 ---

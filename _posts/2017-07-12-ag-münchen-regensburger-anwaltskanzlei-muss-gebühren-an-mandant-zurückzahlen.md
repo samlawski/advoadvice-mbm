@@ -1,7 +1,7 @@
 ---
 title: 'AG München: Regensburger Anwaltskanzlei muss Gebühren an Mandant zurückzahlen'
 date: 2017-07-12 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +22,7 @@ tags:
   - zurückzahlen
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

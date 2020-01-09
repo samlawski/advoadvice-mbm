@@ -1,12 +1,12 @@
 ---
 title: "BaFin greift durch – zahlreiche Geschäftsmodelle von Abwicklungsverfügungen betroffen"
 date: 2016-08-01 17:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["BaFin", "Fact Swiss AG", "Altimeter Worldwide Services JLT", "Rechtsanwalt Johannes Praß", "Manfred Huber", "Einlagengeschäft", "Kreditgeschäft", "Abwicklung", "KWG", "Kreditwesengesetz", "Untersagung", "Abwickler", "Darlehen", "SPS Bank N.V.", "Care Tec Group", "Hans-Joachim Herrmann"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) hat heute über ihre regelmäßig erscheinende Infomail zahlreiche Maßnahmen zur Abwicklung von unerlaubt betriebenen Geschäften bekannt gegeben. Betroffen sind, neben der **Brest-Tauros GmbH** , zu der wir bereits gesondert berichtet hatten ([hier zum gesonderten Artikel](http://advoadvice.de/blog/brest-tauros-gmbh-bafin-untersagt-das-einlagengeschaft-bzgl-ronda-ii "Blog-Eintrag zur Brest-Tauros GmbH")), folgende Personen / Unternehmen:

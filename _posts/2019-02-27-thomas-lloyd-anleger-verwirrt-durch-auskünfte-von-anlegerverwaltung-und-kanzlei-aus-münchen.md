@@ -3,7 +3,7 @@ title: >-
   Thomas Lloyd: Anleger verwirrt durch Auskünfte von Anlegerverwaltung und
   Kanzlei aus München
 date: 2019-02-27 00:00:00
-seo_beschreibung: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
+description: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Anleger der Thomas Lloyd melden sich in den letzten Tagen vermehrt bei der Kanzlei AdvoAdvice und fragen danach, was auf das Schreiben der Anlegerverwaltung bis zum 28.02.2019 zu antworten ist.

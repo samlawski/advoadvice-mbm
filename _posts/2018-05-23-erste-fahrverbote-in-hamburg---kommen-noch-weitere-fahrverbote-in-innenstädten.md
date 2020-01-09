@@ -3,7 +3,7 @@ title: >-
   Erste Fahrverbote in Hamburg - kommen noch weitere Fahrverbote in
   Innenstädten?
 date: 2018-05-23 00:00:00
-seo_beschreibung: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
+description: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
 layout: post
 feature_bild_path:
 tags:
@@ -21,7 +21,7 @@ tags:
   - Musterfeststellungsklage
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Seit einigen Tage ist klar, die EU will Deutschland wegen der zu hohen Luftverschmutzung, verursacht durch Diesel-Abgase, verklagten. Dies bringt die Bundesregierung in Bedr&auml;ngnis und f&uuml;hrte bei Autofahrern verst&auml;rkt zu neuen Sorgen in Bezug auf die Frage, ob nun doch zeitnah Fahrverbote f&uuml;r Diesel-Fahrzeuge drohen.

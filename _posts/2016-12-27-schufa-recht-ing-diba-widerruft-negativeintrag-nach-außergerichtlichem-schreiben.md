@@ -1,7 +1,7 @@
 ---
 title: 'Schufa-Recht: ING-DiBa widerruft Negativeintrag nach außergerichtlichem Schreiben'
 date: 2016-12-27 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -19,7 +19,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 
