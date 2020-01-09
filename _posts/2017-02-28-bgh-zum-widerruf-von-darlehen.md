@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: BGH zum Widerruf von Darlehen
 date: 2017-02-28 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -23,7 +26,7 @@ tags:
 topics:
   - widerruf-verbraucherdarlehen
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

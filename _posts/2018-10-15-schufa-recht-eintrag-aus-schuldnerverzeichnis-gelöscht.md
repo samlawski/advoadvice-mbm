@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'SCHUFA-Recht: Eintrag aus Schuldnerverzeichnis gelöscht'
 date: 2018-10-15 00:00:00
-seo_beschreibung: Negativeintrag aus Schuldnerverzeichnis und SCHUFA gelöscht
+description: Negativeintrag aus Schuldnerverzeichnis und SCHUFA gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
   - Schuldnerverzeichnis
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Immer wieder müssen Betroffene unter negativen SCHUFA-Einträgen leiden. Neben "klassischen" Negativeinträgen, welche durch die Vertragspartner der SCHUFA eingemeldet werden, kommen auch Einträge aus sog. öffentlichen Verzeichnissen in Betracht. Dazu gehören u.a. Daten dem Schuldnerverzeichnis der Amtsgerichte und Veröffentlichungen aus Insolvenzverfahren.

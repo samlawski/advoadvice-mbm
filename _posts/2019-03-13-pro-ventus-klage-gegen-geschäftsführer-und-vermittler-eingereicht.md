@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler eingereicht'
 date: 2019-03-13 00:00:00
-seo_beschreibung: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler'
+description: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler'
 layout: post
 feature_bild_path:
 tags:
@@ -23,7 +26,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin hat am 26.02.2019 eine Klage vor dem Landgericht Darmstadt eingereicht.

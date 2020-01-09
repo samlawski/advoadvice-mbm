@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Negativeintrag der American Express durch die SCHUFA gelöscht
 date: 2018-08-13 00:00:00
-seo_beschreibung: SCHUFA löscht Eintrag der American Express
+description: SCHUFA löscht Eintrag der American Express
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - AMEX
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende Juli 2018 wandte sich ein 34-j&auml;hriger Mann aus Braunschweig an die Advoadvice Rechtsanw&auml;lte. Dieser musste feststellen, dass er unter einem negativen SCHUFA-Eintrag der American Express Services Europe Ltd. (fortan: American Express) litt.

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Thomas Lloyd: Anlegergemeinschaft zählt mehr als 100 Anleger'
 date: 2019-04-05 00:00:00
-seo_beschreibung: 'Thomas Lloyd: Erste Klage eingereicht'
+description: 'Thomas Lloyd: Erste Klage eingereicht'
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +25,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice k&uuml;mmert sich um zahlreiche Anleger der mittlerweile im &ouml;sterreichischen Firmbuch gel&ouml;schten Thomas Lloyd Investments GmbH und der ebenfalls im deutschen Handelsregister gel&ouml;schten DKM Global Opportunities Fonds 01 GmbH.

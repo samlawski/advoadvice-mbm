@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Strategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?
 date: 2019-01-22 00:00:00
-seo_beschreibung: >-
+description: >-
   trategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?
 layout: post
@@ -27,7 +30,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 #### ![](/uploads/justice-2071539-640-1.jpg)

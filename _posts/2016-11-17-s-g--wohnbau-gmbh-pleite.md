@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: S.G. Wohnbau GmbH pleite
 date: 2016-11-17 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -13,7 +16,7 @@ tags:
   - Rechtsanwalt Dr. Markus Eibofner
   - Insolvenzverwalter
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

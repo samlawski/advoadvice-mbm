@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Brest-Tauros GmbH - Insolvenzantrag
 date: 2016-09-22 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -17,7 +20,7 @@ tags:
   - Anlegergemeinschaft
   - Ronda I
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

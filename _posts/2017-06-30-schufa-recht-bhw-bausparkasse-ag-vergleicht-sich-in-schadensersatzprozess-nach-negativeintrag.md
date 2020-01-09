@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: BHW Bausparkasse AG vergleicht sich in Schadensersatzprozess nach Negativeintrag'
 date: 2017-06-30 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - OLG Hamm
 topics:
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

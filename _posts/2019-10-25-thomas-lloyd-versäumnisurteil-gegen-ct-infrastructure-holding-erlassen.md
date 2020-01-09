@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Thomas Lloyd: Versäumnisurteil gegen CT Infrastructure Holding erlassen'
 date: 2019-10-25 00:00:00
-seo_beschreibung: >-
+description: >-
   Landgericht Görlitz erlässt Versäumnisurteil gegen CT Infrastructure Holding
   Ltd.
 layout: post
@@ -22,7 +25,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Görlitz hat gegen die CT Infrasturcture Holding Ltd. ein Vers&auml;umnisurteil erlassen. Das Urteil erging am 18.09.2019 im schriftlichen Verfahren.&nbsp;

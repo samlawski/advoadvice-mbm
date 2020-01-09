@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'GFI AG, DIG AG & Co - Schadenersatz durch Haftung von Anwälten als Treuhänder?'
 date: 2018-03-06 08:53:00
-seo_beschreibung: >-
+description: >-
   AdvoAdvice prüfen Schadenersatzansprüche gegen Rechtsanwälte als Treuhänder -
   GFI AG, DIG AG - Haftet der Anwalt als Treuhänder?
 layout: post
@@ -19,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Zu Beginn dieses Jahrzehnts hatten sich, bedingt durch die sich verringernde Rendite von klassischen Versicherungen als Anlageformen, zunehmend Anlageformen auf dem Kapitalmarkt gebildet, die mit Hilfe von als Treuhänder tätigen Rechtsanwälten Rückkaufswerte von Versicherungen anderweitig investierten.

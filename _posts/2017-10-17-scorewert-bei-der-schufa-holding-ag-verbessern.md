@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Scorewert bei der Schufa Holding AG verbessern
 date: 2017-10-17 00:00:00
-seo_beschreibung: 'BlackBox Schufa: Was beeinflusst den Schufa Scorewert?'
+description: 'BlackBox Schufa: Was beeinflusst den Schufa Scorewert?'
 layout: post
 feature_bild_path:
 tags:
@@ -13,7 +16,7 @@ tags:
   - Scorewert
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

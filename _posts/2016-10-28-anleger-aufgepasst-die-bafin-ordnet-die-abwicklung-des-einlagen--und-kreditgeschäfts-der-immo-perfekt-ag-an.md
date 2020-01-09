@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Anleger aufgepasst! Die BaFin ordnet die Abwicklung des Einlagen- und Kreditgeschäfts der Immo Perfekt AG an'
 date: 2016-10-28 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -21,7 +24,7 @@ tags:
   - Experte
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

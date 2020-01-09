@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   OLG Düsseldorf: Kein Deckungsschutz von D & O Versicherung bei verspätetem
   Insolvenzantrag
 date: 2018-11-28 00:00:00
-seo_beschreibung: >-
+description: >-
   OLG Düsseldorf sieht D&O Versicherung nicht in der Haftung bei verspätetet
   gestelltem Insolvenzantrag
 layout: post
@@ -19,7 +22,7 @@ tags:
 topics:
   - versicherungsrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Stellt ein Gesch&auml;ftsf&uuml;hrer einer GmbH versp&auml;tet einen Insolvenzantrag, muss die sogenannte D&O-Versicherung (also die Verm&ouml;gensschaden-Haftpflichtversicherung f&uuml;r Vorst&auml;nde, Gesch&auml;ftsf&uuml;hrer und leitende Angestellte) nicht eintreten. Dies entschied das Oberlandesgericht D&uuml;sseldorf mit Urteil vom 20.07.2018 zu dem Az. 4 U 93/16. Es tut sich hier also eine gef&auml;hrliche Deckungsl&uuml;cke f&uuml;r die betroffenen Vorst&auml;nde, Gesch&auml;ftsf&uuml;hrer oder leitenden Angestellten auf, da diese dann ggf. mit ihrem Privatverm&ouml;gen gegen&uuml;ber dem Insolvenzverwalter der insolventen Gesellschaft haften.

@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
 date: 2018-03-16 00:00:00
-seo_beschreibung: >-
+description: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
 layout: post
@@ -28,7 +31,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Seit dem letzten Zinshoch im Jahr 2008 fielen die Zinsen stetig, bis sie im Jahr 2016 einen neuen Tiefpunkt erreicht hatten. Seitdem halten sich die Zinsen auf einem historisch niedrigen Stand.

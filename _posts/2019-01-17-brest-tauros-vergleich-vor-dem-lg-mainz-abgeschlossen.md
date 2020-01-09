@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Brest Tauros: Vergleich vor dem LG Mainz abgeschlossen'
 date: 2019-01-17 00:00:00
-seo_beschreibung: >-
+description: >-
   Vergleich bei Klage gegen Verantwortliche der Brest Tauros vor LG Mainz
   abgeschlossen
 layout: post
@@ -20,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In Sachen Brest Tauros GmbH k&ouml;nnen sich Anleger aus Main, die durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin vertreten worden sind, &uuml;ber eine vergleichsweise Einigung freuen, welche nunmehr vor dem Landgericht Mainz erzielt worden ist.&nbsp; Hierin verpflichteten sich die beiden ehemaligen Gesch&auml;ftsf&uuml;hrer der Brest Tauros GmbH Jens St. und Stev K. zur einer Zahlung in H&ouml;he von 6.373,01 Euro.

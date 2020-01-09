@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Allianz Lebensversicherung: Widerspruch gegen Verträge bis 2007 möglich'
 date: 2019-01-14 00:00:00
-seo_beschreibung: 'OLG Stuttgart: Verbraucherinformationen der Allianz Lebensversicherungs AG'
+description: 'OLG Stuttgart: Verbraucherinformationen der Allianz Lebensversicherungs AG'
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - versicherungsrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Das Oberlandesgericht Stuttgart hat entschieden, dass Verbraucherinformationen der Allianz Lebensversicherungs-AG fehlerhaft sind. Dies er&ouml;ffnet vielen betroffenen Lebensversicherungskunden weiterhin die Chance, ihren Vertrag mit der Allianz zu zu widerrufen und hierdurch eine R&uuml;ckabwicklung zu erreichen.

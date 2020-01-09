@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Neue DSGVO: Was tun bei Abmahnung oder Rückfragen vom Datenschutzbeauftragten?'
 date: 2018-05-24 00:00:00
-seo_beschreibung: Abmahnungen unter der DSGVO
+description: Abmahnungen unter der DSGVO
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Datenschutzerklärung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mit dem 25.05.2018 tritt die neue Datenschutzgrundverordnung (kurz DSGVO) europaweit einheitlich in Kraft. Dies kommt, obwohl bereits seit zwei Jahren klar, für viele Unternehmer und Betreiber von Webseiten immer noch überraschend.

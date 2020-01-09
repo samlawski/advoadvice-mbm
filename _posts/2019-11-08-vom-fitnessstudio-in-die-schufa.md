@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vom Fitnessstudio in die SCHUFA
 date: 2019-11-08 00:00:00
-seo_beschreibung: Schufa löscht Eintrag aus Vertrag mit Fitnessstudio
+description: Schufa löscht Eintrag aus Vertrag mit Fitnessstudio
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
   - Collectia GmbH
   - Fit X
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende August meldete sich ein junger Mann aus Bochum bei der Kanzlei AdvoAdvice. Dieser berichtete, dass er Anfang des Jahres zuf&auml;llig von einem SCHUFA-Eintrag der Collectia GmbH, einem Inkassounternehmen aus Deggendorf, erfuhr.

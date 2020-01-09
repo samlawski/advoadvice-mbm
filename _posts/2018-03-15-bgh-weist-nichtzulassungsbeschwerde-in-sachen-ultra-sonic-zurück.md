@@ -1,14 +1,17 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: BGH weist Nichtzulassungsbeschwerde in Sachen Ultra Sonic zurück
 date: 2018-03-15 00:00:00
-seo_beschreibung: BGH weist Nichtzulassungsbescherde gegen Urteil des OLG Stuttgart zurück
+description: BGH weist Nichtzulassungsbescherde gegen Urteil des OLG Stuttgart zurück
 layout: post
 feature_bild_path:
 tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundesgerichtshof hat eine Nichtzulassungsbeschwerde von Michael Oberle und Friedrich Winter gegen eine Entscheidung des OLG Stuttgart, in welchem diese vom Schadensersatz verurteilt worden waren, mit Beschluss vom 27.02.2018 zum Az. VI ZR 513/16 zurückgewiesen.

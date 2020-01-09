@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Lindorff Deutschland GmbH mit Beschwerde vor Bundesgerichtshof ohne Erfolg'
 date: 2016-05-27 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -18,7 +21,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

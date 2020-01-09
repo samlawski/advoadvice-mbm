@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Questra Holdings Inc. stellte keinen Antrag auf Banklizenz bei BaFin
 date: 2017-08-03 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

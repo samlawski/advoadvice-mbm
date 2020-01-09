@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Der neue Widerrufsjoker - Das erstaunliche Urteil des LG Ravensburg vom
   21.09.2018, AZ 2 O 21/18
 date: 2018-11-07 17:27:13
-seo_beschreibung: >-
+description: >-
   Das Landgericht Ravensburg hat sich im Rahmen eines Darlehenswiderrufs mit den
   Allgemeinen Geschäftsbedingungen (AGB) von Sparkassen auseinandergesetzt und
   dazu am 21.09.2018 unter dem Aktenzeichen 2 O 21/18 ein für Verbraucher sehr
@@ -25,7 +28,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-1.jpg)

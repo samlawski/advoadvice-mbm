@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Schufa löscht Eintrag der Barclays Bank
 date: 2019-02-26 00:00:00
-seo_beschreibung: Schufa löscht Negativeintrag nach Überschneidung von Zahlung und Kündigung
+description: Schufa löscht Negativeintrag nach Überschneidung von Zahlung und Kündigung
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
   - Bank
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG kooperiert mit fast allen Banken im deutschsprachigen Wirtschaftsraum. Dabei gilt das sog. Gegenseitigkeitsprinzip, was hei&szlig;t, dass nur derjenige Daten von der SCHUFA erh&auml;lt, welcher auch Daten zur Verf&uuml;gung stellt. Aufgrund der hohen Auswirkungen von negativen SCHUFA-Eintr&auml;gen, gibt es gesetzliche Vorgaben, an welche sich Unternehmen halten m&uuml;ssen, bevor es zu einer Daten&uuml;bermittlung kommt.

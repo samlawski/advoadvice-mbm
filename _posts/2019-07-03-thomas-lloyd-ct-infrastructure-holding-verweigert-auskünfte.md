@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Thomas Lloyd: CT Infrastructure Holding verweigert Auskünfte'
 date: 2019-07-03 00:00:00
-seo_beschreibung: >-
+description: >-
   Thomas Lloyd: Auskunftsansprüche durch CT Infrastructure Holding Ltd.
   abgelehnt
 layout: post
@@ -19,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Thomas Lloyd: Tauziehen geht weiter. CT Infrastructure Holding Ltd. verweigert Ausk&uuml;nfte f&uuml;r ehemalige stille Gesellschafter.
