@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Schufa Eintrag zu titulierter Forderung der Universum Inkasso GmbH gelöscht
 date: 2017-07-28 00:00:00
 description:

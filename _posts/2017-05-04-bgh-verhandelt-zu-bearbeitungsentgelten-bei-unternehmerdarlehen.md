@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: BGH verhandelt zu Bearbeitungsentgelten bei Unternehmerdarlehen
 date: 2017-05-04 00:00:00
 description:

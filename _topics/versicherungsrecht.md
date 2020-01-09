@@ -1,4 +1,8 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 description: >-
   Kompetente Beratung in Sachen Versicherungsrecht und Widerruf von

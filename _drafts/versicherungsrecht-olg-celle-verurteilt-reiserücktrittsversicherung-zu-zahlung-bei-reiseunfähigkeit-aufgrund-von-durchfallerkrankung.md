@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Versicherungsrecht: OLG Celle verurteilt Reiserücktrittsversicherung zu
   Zahlung bei Reiseunfähigkeit aufgrund von Durchfallerkrankung

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'CSA GmbH: Landgericht verurteilt ehemalige Geschäftsführerin und Vermittler'
 date: 2018-11-08 00:00:00
 description: >-

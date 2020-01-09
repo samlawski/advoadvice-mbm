@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'ImmoAnlageKonzept GmbH: BaFin ordnet Abwicklung des Einlagengeschäft an'
 date: 2019-04-23 00:00:00
 description: 'ImmoAnlageKonzept GmbH: BaFin ordnet Abwicklung des Einlagengeschäft an'

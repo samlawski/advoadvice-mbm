@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Infinus Pleite: Insolvenzverwalter der Prosavus fordert Rückzahlung von
   Scheingewinnen

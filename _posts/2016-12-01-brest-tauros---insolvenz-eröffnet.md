@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Brest Tauros - Insolvenz eröffnet
 date: 2016-12-01 00:00:00
 description:

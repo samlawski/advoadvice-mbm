@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Thormann Capital - Nachrangklausel bei Leo One Verträgen unwirksam
 date: 2018-04-27 00:00:00
 description: >-

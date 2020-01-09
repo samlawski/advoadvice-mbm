@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   NoblewoodGroup: BaFin untersagt öffentliche Angebote bestimmter
   Direktinvestments in Edelhölzern

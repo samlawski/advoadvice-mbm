@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Telekom widerruft negativen Schufa Eintrag
 date: 2017-10-11 00:00:00
 description: >-

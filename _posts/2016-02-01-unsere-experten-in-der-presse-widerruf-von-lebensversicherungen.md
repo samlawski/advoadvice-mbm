@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Unsere Experten in der Presse: Widerruf von Lebensversicherungen'
 date: 2016-02-01 12:00:00
 description:

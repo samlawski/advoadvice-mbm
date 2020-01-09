@@ -1,4 +1,8 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 title: Suchergebnisse und Bewertungen löschen
 description: >-

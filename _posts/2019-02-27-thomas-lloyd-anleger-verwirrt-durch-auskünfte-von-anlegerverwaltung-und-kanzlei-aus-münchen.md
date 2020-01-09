@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thomas Lloyd: Anleger verwirrt durch Auskünfte von Anlegerverwaltung und
   Kanzlei aus München

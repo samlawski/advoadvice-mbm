@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Fahrverbote in Frankfurt am Main - Widerruf bringt Möglichkeit Diesel
   loszuwerden
