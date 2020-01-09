@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Creditreform löscht Negativeintrag einer Apotheke
 date: 2019-09-13 00:00:00
-seo_beschreibung: Eintrag der Ventalis Internetapotheke bei Creditreform Boniversum gelöscht
+description: Eintrag der Ventalis Internetapotheke bei Creditreform Boniversum gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -15,7 +18,7 @@ tags:
   - DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Creditreform Boniversum GmbH hat nach einer mehrwöchigen au&szlig;ergerichtlichen Auseinandersetzung einen Negativeintrag der Ventalis Internetapotheke gelöscht.

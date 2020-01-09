@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Unsere Kanzlei in der Presse: Hamburger Morgenpost verweist auf unseren Blog'
 date: 2018-06-25 00:00:00
-seo_beschreibung: Hamburger Morgenpost bericht über Blog von AdvoAdvice
+description: Hamburger Morgenpost bericht über Blog von AdvoAdvice
 layout: post
 feature_bild_path: /uploads/mopo-hamburg.png
 tags:
@@ -12,7 +15,7 @@ tags:
   - Morgenpost
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei einem Bericht &uuml;ber ein aktuelles Strafverfahren vor der Wirtschaftsstrafkammer des Landgerichts Hamburg hat die Hamburger Morgenpost (MoPo) im Rahmen der Berichterstattung auf einen Beitrag im Blog von AdvoAdvice verwiesen (–&gt; [Zum Bericht der MoPo](https://www.mopo.de/hamburg/polizei/prozessauftakt-gauner-trio-erbeutet-fast-eine-halbe-million-euro-mit-aktien-betrug-30628130?dmcid=nl_20180618_30628130#){: target="_blank"}). &Uuml;ber das Strafverfahren wurde u.a. auch in der BILD berichtet.

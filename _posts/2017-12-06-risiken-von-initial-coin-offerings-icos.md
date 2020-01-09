@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Risiken von Initial Coin Offerings (ICOs)
 date: 2017-12-06 00:00:00
-seo_beschreibung: Risiken von Initial Coin Offerings
+description: Risiken von Initial Coin Offerings
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ tags:
   - Bitcoin
 topics:
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

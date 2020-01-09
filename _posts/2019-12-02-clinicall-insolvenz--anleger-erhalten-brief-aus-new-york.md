@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: ClinicAll Insolvenz – Anleger erhalten Brief aus New York
 date: 2019-12-02 00:00:00
-seo_beschreibung: ClinicAll Insolvenz – Anleger erhalten Brief aus New York?
+description: ClinicAll Insolvenz – Anleger erhalten Brief aus New York?
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
 topics:
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-6.jpg){: width="640" height="369"}

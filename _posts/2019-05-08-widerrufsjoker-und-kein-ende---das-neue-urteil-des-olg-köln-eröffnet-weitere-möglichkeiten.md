@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 date: 2019-05-08 00:00:00
-seo_beschreibung: >-
+description: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 layout: post
@@ -21,7 +24,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/bank-2907728-640-1.jpg)

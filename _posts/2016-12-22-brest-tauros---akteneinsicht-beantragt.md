@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Brest Tauros - Akteneinsicht beantragt
 date: 2016-12-22 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -21,7 +24,7 @@ tags:
   - Einlagengeschäft
   - KWG
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

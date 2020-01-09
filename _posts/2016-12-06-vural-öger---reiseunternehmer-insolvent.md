@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vural Öger - Reiseunternehmer insolvent
 date: 2016-12-06 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -18,7 +21,7 @@ tags:
   - Reiseunternehmer
   - 1542 IN 2272/16
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

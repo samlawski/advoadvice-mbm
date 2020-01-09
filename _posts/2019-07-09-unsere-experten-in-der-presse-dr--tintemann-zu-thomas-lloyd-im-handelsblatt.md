@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Unsere Experten in der Presse: Dr. Tintemann zu Thomas Lloyd im Handelsblatt'
 date: 2019-07-09 00:00:00
-seo_beschreibung: 'Thomas Lloyd: Artikel im Handelsblatt zitiert Dr. Tintemann von AdvoAdvice'
+description: 'Thomas Lloyd: Artikel im Handelsblatt zitiert Dr. Tintemann von AdvoAdvice'
 layout: post
 feature_bild_path: /uploads/handelsblatt-logo-1.png
 tags:
@@ -19,7 +22,7 @@ topics:
   - medien
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Handelsblatt berichtet in einem aktuellen Beitrag vom 09.07.2019 &uuml;ber die Thomas Lloyd Gruppe und Anlagen bei der DKM GOF 1 GmbH und der Thomas Lloyd Investments GmbH (Österreich).

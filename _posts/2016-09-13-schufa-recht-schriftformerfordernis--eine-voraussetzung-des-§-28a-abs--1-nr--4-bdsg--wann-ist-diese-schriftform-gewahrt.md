@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Schriftformerfordernis – Eine Voraussetzung des  § 28a Abs. 1 Nr. 4 BDSG – Wann ist diese Schriftform gewahrt?'
 date: 2016-09-13 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -15,7 +18,7 @@ tags:
   - Advoadvice
   - Berlin
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

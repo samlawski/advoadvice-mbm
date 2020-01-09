@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Unverschuldeter Negativeintrag durch die S-Kreditpartner GmbH gelöscht
 date: 2019-05-31 00:00:00
-seo_beschreibung: Fehler einer anderen Bank führte zu Negativeintrag
+description: Fehler einer anderen Bank führte zu Negativeintrag
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat einen negativen SCHUFA-Eintrag der S-Kreditpartner GmbH gel&ouml;scht. Betroffen war ein Unternehmer aus Mecklenburg-Vorpommern, welcher im Sp&auml;tsommer 2018 kleinere Zahlungsschwierigkeiten hatte. Trotz der Zahlungsschwierigkeiten stand der Betroffene in regelm&auml;&szlig;igem Austausch mit seiner Bank, um einzelne Raten zu verschieben.

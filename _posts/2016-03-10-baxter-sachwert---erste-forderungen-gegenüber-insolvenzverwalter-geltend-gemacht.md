@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Baxter Sachwert - erste Forderungen gegenüber Insolvenzverwalter geltend gemacht
 date: 2016-03-10 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -17,7 +20,7 @@ tags:
   - Voigt Saulus
   - Pleite
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

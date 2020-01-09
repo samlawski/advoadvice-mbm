@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung
 date: 2019-07-19 00:00:00
-seo_beschreibung: >-
+description: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung
 layout: post
@@ -27,7 +30,7 @@ topics:
   - medien
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die Immobilienzeitung berichtet in einem aktuellen Beitrag in ihrer Ausgabe 26/2019 vom 27.06.2019 &uuml;ber die Geldanlagen bei der UDI Gruppe, einem gro&szlig;en, bankenunabh&auml;ngigen Direktvertrieb von ökologischen Geldanlagen.

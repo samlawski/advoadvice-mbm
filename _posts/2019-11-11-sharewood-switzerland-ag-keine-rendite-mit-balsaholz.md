@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'ShareWood Switzerland AG: Keine Rendite mit Balsaholz'
 date: 2019-11-11 00:00:00
-seo_beschreibung: Balsa-Bauminvest nichts mehr wert? Was Anleger wissen sollten.
+description: Balsa-Bauminvest nichts mehr wert? Was Anleger wissen sollten.
 layout: post
 feature_bild_path:
 tags:
@@ -26,7 +29,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die ShareWood Switzerland AG aus Z&uuml;rich möchte f&uuml;r Anleger mit dem Anbau von B&auml;umen im Ausland Geld verdienen. Bekannt sind Investments in Teak-, Eukalyptus- und Balsa-B&auml;ume. Doch das Investment in Balsa-Holz scheint f&uuml;r die Anleger nicht mit einer gro&szlig;en Rendite, sondern eher mit einem Totalausfall zu enden.&nbsp;

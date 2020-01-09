@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Versäumnisurteil gegen Advanzia Bank S.A.
 date: 2019-08-30 00:00:00
-seo_beschreibung: >-
+description: >-
   Landgericht Ansbach verurteilt Advanzia Bank S.A. zu Widerruf eines
   Negativeintrages
 layout: post
@@ -21,7 +24,7 @@ tags:
   - Löschung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Ansbach hat mit Vers&auml;umnisurteil vom 16.07.2019 ohne m&uuml;ndlichen Verhandlung die Advanzia Bank S.A. dazu verurteilt, einen Negativeintrag &uuml;ber einen von AdvoAdvice vertretenen Mandanten zu widerrufen.&nbsp;

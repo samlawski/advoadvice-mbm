@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'OLG Stuttgart: Unzulässige Anwaltswerbung mit Ehren-Doktortitel'
 date: 2018-07-09 00:00:00
-seo_beschreibung: Anwaltswerbung mit Ehren-Doktor unzulässig
+description: Anwaltswerbung mit Ehren-Doktor unzulässig
 layout: post
 feature_bild_path:
 tags:
@@ -13,7 +16,7 @@ tags:
   - unzulässig
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die verwaltungsrechtlich nicht zu beanstandende Führung eines akademischen Grades kann irreführend im Sinne von § 5 I 2 Nr. 3 UWG sein, wenn sie im geschäftlichen Verkehr zu einer Täuschung führt, was insbesondere der Fall ist, wenn der akademische Grad ehrenhalber von einer ausländischen Hochschule verliehen wurde und beide Umstände nicht in der Art und Weise der Titelführung zum Ausdruck kommen. Dies entschied das OLG Stuttgart zum Az. 2 U 35/17 in einem Urteil vom 22.10.2015.

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft (kurz: EUBKZGW)'
 date: 2016-09-02 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -17,7 +20,7 @@ tags:
   - Vermittler
   - Berater
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

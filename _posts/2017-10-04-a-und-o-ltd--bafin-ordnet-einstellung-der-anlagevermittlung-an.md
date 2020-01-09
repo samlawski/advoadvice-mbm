@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'A und O Ltd.: BaFin ordnet Einstellung der Anlagevermittlung an'
 date: 2017-10-04 00:00:00
-seo_beschreibung: >-
+description: >-
   BaFin ordnet Einstellung der Anlagevermittlung der A und O Ltd. aus Schweden
   an
 layout: post
@@ -19,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

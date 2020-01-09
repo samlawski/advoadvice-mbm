@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Schufa Holding AG löscht Eintrag der Dohr Inkasso GmbH & Co. KG'
 date: 2017-06-21 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +23,7 @@ tags:
   - kein besonderer Vertrauenstatbestand
 topics:
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

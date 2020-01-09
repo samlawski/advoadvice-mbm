@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Buchempfehlung: Die große Fondslüge von Michael Ritzau'
 date: 2017-01-13 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -22,7 +25,7 @@ tags:
 topics:
   - sonstiges
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

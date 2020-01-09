@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Hanseatische Fußball Kontor GmbH: Vorläufiges Insolvenzverfahren eröffnet'
 date: 2016-07-26 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -19,7 +22,7 @@ tags:
   - Rendite
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

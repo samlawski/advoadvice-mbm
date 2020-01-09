@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Brest Tauros - Insolvenz eröffnet
 date: 2016-12-01 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -18,7 +21,7 @@ tags:
   - Forderungsanmeldung
   - Insolvenzverwalter
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

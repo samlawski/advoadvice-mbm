@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Real Solution Inkasso: Unterlassungserklärung nach Schufa-Negativeintrag'
 date: 2019-04-12 00:00:00
-seo_beschreibung: >-
+description: >-
   Schufa-Recht: Real Solution Inkasso gibt Unterlassungserklärung nach Löschung
   ab
 layout: post
@@ -18,7 +21,7 @@ tags:
   - International Card Services B.V.
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Eine Kreditkartenkunde aus Marburg meldete sich bei der Kanzlei AdvoAdvice aus Berlin und berichtete von einem Schufa-Negativeintrag, den die Firma Real Solution Inkasso GmbH & Co. KG über ihn lanciert hatte.

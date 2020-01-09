@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: DEF Deutsche Energie Finanz 11 GmbH & Co. KG schickt neues Anlegerschreiben
 date: 2018-08-15 00:00:00
-seo_beschreibung: >-
+description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG kann Immobilie nicht insgesamt
   verkaufen
 layout: post
@@ -21,7 +24,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die DEF Deutsche Energie Finanz 11 GmbH & Co. KG meldet sich bei ihren Anlegern mit einem neuen Rundschreiben vom 31.7.2018. Hierin wird mitgeteilt, dass sich die Hoffnung der Gesellschaft auf einen zeitnahen Verkauf der Immobilie in G&auml;nze, einem Sanierungsobjekt, zerschlagen habe. Die Gesellschaft beabsichtigt nun, die Immobilie mit einem Immobiliensanierer zu sanieren, um dann nicht in G&auml;nze alle 90 Wohnungen mit einer Wohnfl&auml;che von ca. 6000 m&sup2; zu verkaufen, sondern diese einzeln zu ver&auml;u&szlig;ern. Der zu erwartende Verkaufserl&ouml;s w&uuml;rde dann nach Ansicht der Gesellschaft deutlich h&ouml;her sein.

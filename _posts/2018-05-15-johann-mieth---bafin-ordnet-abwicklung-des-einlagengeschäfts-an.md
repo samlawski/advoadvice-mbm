@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Johann Mieth - BaFin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-05-15 00:00:00
-seo_beschreibung: BaFin ordnet für Johann Mieth Abwicklung des Einlagengeschäfts an
+description: BaFin ordnet für Johann Mieth Abwicklung des Einlagengeschäfts an
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +19,7 @@ tags:
   - erlaubnispflichtig
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Angaben der Bundesanstalt für Finanzdienstleistungsaufsicht ( kurz BaFin) auf deren Webseite unter www.bafin.de hat diese Herrn Johann Mieth, Neubiberg, mit Bescheid vom 16. Februar 2018 aufgegeben, das Einlagengeschäft unverzüglich abzuwickeln.

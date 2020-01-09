@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Fahrverbote in Frankfurt am Main - Widerruf bringt Möglichkeit Diesel
   loszuwerden
 date: 2018-09-07 00:00:00
-seo_beschreibung: Diesel Fahrverbote in Frankfurt - Widerrufsmöglichkeit prüfen lassen
+description: Diesel Fahrverbote in Frankfurt - Widerrufsmöglichkeit prüfen lassen
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
   - Diesel-Fahrer
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am Mittwochabend verlangte das Verwaltungsgericht Wiesbaden nach Medienberichten ein Fahrverbot für Diesel-Fahrzeuge in der Main - Metropole Frankfurt. Ein Paukenschlag so kurz vor der bevorstehenden Landtagswahl, welcher nicht nur die schwarz-grüne Landesregierung hart trifft.

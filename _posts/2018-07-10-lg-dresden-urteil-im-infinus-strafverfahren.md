@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'LG Dresden: Urteil im Infinus Strafverfahren'
 date: 2018-07-10 00:00:00
-seo_beschreibung: Infinus Skandal - Strafurteil gegen Hintermänner
+description: Infinus Skandal - Strafurteil gegen Hintermänner
 layout: post
 feature_bild_path:
 tags:
@@ -21,7 +24,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hinterm&auml;nner des Infinus-Skandals nunmehr seine Urteile gesprochen. Diese wurden bereits mit Spannung erwartet und wurden am 09.07.2018 verk&uuml;ndet. Die sechs Hauptangeklagten wurden zu Haftstrafen verurteilt.

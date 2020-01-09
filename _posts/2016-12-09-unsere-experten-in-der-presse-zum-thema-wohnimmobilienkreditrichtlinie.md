@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-12-09 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/berliner-anwaltsblatt.jpg
 tags:
@@ -19,7 +22,7 @@ tags:
   - AdvoAdvice
 topics:
   - medien
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

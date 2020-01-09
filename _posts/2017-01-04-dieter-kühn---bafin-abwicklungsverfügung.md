@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Dieter Kühn - BaFin Abwicklungsverfügung
 date: 2017-01-04 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -20,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

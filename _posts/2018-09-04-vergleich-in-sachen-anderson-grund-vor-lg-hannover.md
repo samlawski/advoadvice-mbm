@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vergleich in Sachen Anderson Grund vor LG Hannover
 date: 2018-09-04 00:00:00
-seo_beschreibung: Vergleich vor Landgericht Hannover in Sachen Anderson Grund
+description: Vergleich vor Landgericht Hannover in Sachen Anderson Grund
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In Sachen Anderson Grund konnte die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin vor dem Landgericht Hannover einen sehr positiven Vergleich für einen ehemaligen Anleger abschließen. Die damals tätige Beratungsfirma D. GmbH aus Hannover verplichtete sich zur Zahlung von 11.500 Euro und übernahme 3/4 der Kosten des Rechtsstreits und des Vergleichs.

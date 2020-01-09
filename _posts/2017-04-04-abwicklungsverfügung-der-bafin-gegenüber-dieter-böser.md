@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Abwicklungsverfügung der BaFin gegenüber Dieter Böser
 date: 2017-04-04 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -17,7 +20,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

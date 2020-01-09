@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Abmahnung bei unzureichendem Datenschutzhinweis
 date: 2019-01-31 00:00:00
-seo_beschreibung: Gefahr einer Abmahnung bei unzureichendem  Datenschutzhinweis
+description: Gefahr einer Abmahnung bei unzureichendem  Datenschutzhinweis
 layout: post
 feature_bild_path:
 tags:
@@ -13,7 +16,7 @@ tags:
   - AdvoAdvice
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Az. 1025/19

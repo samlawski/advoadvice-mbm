@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Produktinformationsblatt (PIB) - Bewährt sich der Beipackzettel bei Anlageberatungen?
 date: 2017-07-20 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

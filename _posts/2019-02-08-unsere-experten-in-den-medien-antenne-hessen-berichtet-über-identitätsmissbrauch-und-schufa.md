@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Unsere Experten in den Medien: Antenne Hessen berichtet über
   Identitätsmissbrauch und Schufa
 date: 2019-02-08 00:00:00
-seo_beschreibung: Antenne Hessen berichtet über Identitätsmissbrauch und Schufa
+description: Antenne Hessen berichtet über Identitätsmissbrauch und Schufa
 layout: post
 feature_bild_path: /uploads/antenne-hessen.png
 tags:
@@ -18,7 +21,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Radiosender Antenne Hessen berichtet in einem Online-Beitrag vom 05.02.2019 unter der Überschrift "Wie die Schufa über Dein Leben entscheidet" über einen Fall eines 27 jährigen Mandanten der Kanzlei AdvoAdvice, der Opfer eines Identitätsmissbrauchs geworden ist.

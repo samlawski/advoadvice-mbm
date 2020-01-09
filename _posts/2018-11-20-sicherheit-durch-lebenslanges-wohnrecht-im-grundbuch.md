@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
 date: 2018-11-20 00:00:00
-seo_beschreibung: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
+description: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ tags:
 topics:
   - immobilienrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 #### ![](/uploads/balcony-plants-357702-640.jpg)
