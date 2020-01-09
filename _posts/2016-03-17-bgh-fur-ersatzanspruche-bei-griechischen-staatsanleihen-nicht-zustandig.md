@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Bundesgerichtshof", "Staatsanleihen", "Griechenland", "Unzuständig", "Schadensersatz", "EuGH", "Anleger", "scheitern"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Einige Gläubiger von griechischen Staatsanleihen hatten ihr Klageverfahren bis vor den Bundesgerichtshof (Az. VI ZR 516/14) gebracht. Dieser lehnte nun einen Schadensersatzanspruch mangels Zuständigkeit ab.

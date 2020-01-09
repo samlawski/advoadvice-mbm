@@ -15,7 +15,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Insolvenzverwalter der Europ&auml;isches Branchenkompetenzzentrum f&uuml;r die Gesundheitswirtschaft EWIV sieht gute R&uuml;ckzahlungschancen f&uuml;r einige Gl&auml;ubiger.

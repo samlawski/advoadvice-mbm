@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["BGH", "Karlsruhe", "Widerrufsbelehrung", "Verfristung", "Urteil", "verbraucherfreundlich", "Verbraucher", "AdvoAdvice", "Erstberatung", "Berlin", "rechtsmissbräuchlich", "Rechtsmißbrauch", "Haustürwiderruf", "Motivprüfung"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundesgerichtshof hat mit [Urteil vom 12. Juli 2016 – Az. XI ZR 564/15](http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2016&Sort=3&nr=75249&pos=0&anz=119 "Link: http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2016&Sort=3&nr=75249&pos=0&anz=119") und mit Urteil zum Az. XI ZR 501/15 entschieden, dass Verbraucherdarlehensverträge auch noch nach Jahren widerrufen werden können.

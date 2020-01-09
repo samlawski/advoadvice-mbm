@@ -18,7 +18,7 @@ tags:
   - Staatsanwaltschaft München
 topics:
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

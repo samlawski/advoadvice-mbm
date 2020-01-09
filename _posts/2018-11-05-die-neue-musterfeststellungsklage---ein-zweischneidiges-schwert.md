@@ -19,7 +19,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/justice-2071539-640-1.jpg)

@@ -26,7 +26,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die ShareWood Switzerland AG aus Z&uuml;rich möchte f&uuml;r Anleger mit dem Anbau von B&auml;umen im Ausland Geld verdienen. Bekannt sind Investments in Teak-, Eukalyptus- und Balsa-B&auml;ume. Doch das Investment in Balsa-Holz scheint f&uuml;r die Anleger nicht mit einer gro&szlig;en Rendite, sondern eher mit einem Totalausfall zu enden.&nbsp;

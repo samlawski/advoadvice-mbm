@@ -16,7 +16,7 @@ tags:
   - Telekom
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG ist f&uuml;r viele betroffene Verbraucher in Deutschland ein Buch mit sieben Siegeln. Dabei kann h&auml;ufig nicht nachvollzogen werden, wieso "die SCHUFA" so viele Daten sammelt und wie sie an diese Daten gelangt. In dieser Betrachtung muss jedoch ber&uuml;cksichtigt werden, dass die SCHUFA eine Vielzahl an Vertragspartnern hat, welche ihr die Daten liefern und diese bei ihr einmelden. Einer dieser Vertragspartner ist die Telekom Deutschland GmbH. Am Beispiel eines Unternehmers aus Berlin l&auml;sst sich darstellen, dass man sich nicht nur auf die SCHUFA einschie&szlig;en darf, wenn es um Fragen der Richtigkeit von Daten geht.

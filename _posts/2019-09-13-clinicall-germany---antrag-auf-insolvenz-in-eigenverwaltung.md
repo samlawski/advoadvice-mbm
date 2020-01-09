@@ -17,7 +17,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - sonstiges
   - insolvenzrecht
-team_member: rechtsanwalt klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-7.jpg){: width="640" height="369"}

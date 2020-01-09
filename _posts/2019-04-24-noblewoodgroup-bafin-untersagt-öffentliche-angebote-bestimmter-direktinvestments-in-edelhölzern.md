@@ -14,7 +14,7 @@ tags:
   - Kim Oliver Klevenhagen
   - Edelhölzer
 topics:
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-6.jpg)

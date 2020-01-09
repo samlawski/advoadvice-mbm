@@ -23,7 +23,7 @@ tags:
   - § 28a BDSG
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

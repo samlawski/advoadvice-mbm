@@ -16,7 +16,7 @@ tags:
   - Collectia GmbH
   - Fit X
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende August meldete sich ein junger Mann aus Bochum bei der Kanzlei AdvoAdvice. Dieser berichtete, dass er Anfang des Jahres zuf&auml;llig von einem SCHUFA-Eintrag der Collectia GmbH, einem Inkassounternehmen aus Deggendorf, erfuhr.

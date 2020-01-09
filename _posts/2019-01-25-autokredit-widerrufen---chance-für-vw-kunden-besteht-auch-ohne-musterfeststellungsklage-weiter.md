@@ -25,7 +25,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Vor dem Oberlandesgericht Braunschweig läuft die bisher sehr bekannt gewordene Musterfeststellungsklage gegen die Volkswagen AG, welche zum Az. 4 MK 1/18 geführt und auch im öffentlichen Klageregister des Bundesamtes für Justiz geführt wird. Eine weitere Musterfeststellungsklage läuft vor dem OLG Stuttgart zum Az. 6 MK 1/18 gegen die Mercesdes Benz Bank AG. Weitere Informationen zu den Verfahren finden interessierte Verbraucher unter dem Link: [https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/Klageregister/Allgemeines\_node.html ](https://www.bundesjustizamt.de/DE/Themen/Buergerdienste/Klageregister/Allgemeines_node.html)

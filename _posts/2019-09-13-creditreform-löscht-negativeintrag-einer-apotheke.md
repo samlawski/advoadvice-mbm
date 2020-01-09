@@ -15,7 +15,7 @@ tags:
   - DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Creditreform Boniversum GmbH hat nach einer mehrwöchigen au&szlig;ergerichtlichen Auseinandersetzung einen Negativeintrag der Ventalis Internetapotheke gelöscht.

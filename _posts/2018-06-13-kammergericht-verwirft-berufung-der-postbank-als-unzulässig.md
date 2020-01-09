@@ -23,7 +23,7 @@ tags:
   - VI ZB 75/14
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Kammergericht hat einen Berufung der Deutschen Postbank AG gegen eine erstinstanzliche Entscheidung des Landgerichts Berlin, welches diese zur Löschung eines Schufa-Negativeintrages verurteilt hatte, als unzulässig verworfen.

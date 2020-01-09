@@ -25,7 +25,7 @@ tags:
 topics:
   - anlegerschutz
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Für Interessenten und Käufer von Immobilien sind die Zeiten gerade aufregend. Noch ist das Zinsniveau historisch niedrig und attraktive Finanzierungen sind immer noch möglich. Doch geeignete Objekte zu einem plausiblen Kaufpreis sind rar. Der Erwerb einer Immobilie ist auch für die meisten Menschen alles andere als alltäglich. Dann kommt die Traumimmobilie doch noch in Sicht.

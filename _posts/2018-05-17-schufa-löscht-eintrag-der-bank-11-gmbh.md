@@ -20,7 +20,7 @@ tags:
   - fehlerhaft
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Au&szlig;ergerichtlicher Erfolg im Kampf gegen Schufa Eintr&auml;ge durch AdvoAdvice. Bereits in k&uuml;rzer Zeit konnte ein Eintrag der Bank 11 GmbH bei der Schufa Holding AG gel&ouml;scht werden.

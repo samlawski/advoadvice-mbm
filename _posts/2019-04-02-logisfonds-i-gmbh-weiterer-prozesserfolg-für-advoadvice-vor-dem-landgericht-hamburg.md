@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei der Firma Logisfonds I GmbH (ehemals Garbe Logimac AG) aus Hamburg beteiligten sich Anleger  als atypisch stille Gesellschafter. Am Ende der Beteiligung erwartet die meisten Anleger ein Verlust eines Teil ihrer eingezahlten Anlagesumme. Das steht leider heute schon fest.

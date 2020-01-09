@@ -20,7 +20,7 @@ tags:
   - Dr. Sven Tintemann
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 AdvoAdvice verhilft einem Lehrer aus Berlin zu Kauf einer Eigentumswohnung nach Identit&auml;tsmissbrauch.

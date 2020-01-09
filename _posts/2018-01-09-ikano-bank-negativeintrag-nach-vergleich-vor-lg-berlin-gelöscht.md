@@ -23,7 +23,7 @@ tags:
   - Landgericht Berlin
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

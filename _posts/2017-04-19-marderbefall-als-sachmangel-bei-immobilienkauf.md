@@ -23,7 +23,7 @@ tags:
   - 22 U 104/16
 topics:
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

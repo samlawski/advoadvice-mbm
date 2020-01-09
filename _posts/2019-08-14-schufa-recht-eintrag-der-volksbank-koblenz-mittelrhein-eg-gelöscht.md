@@ -16,7 +16,7 @@ tags:
   - Erledigungsvermerk
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anfang Juni 2019 wandte sich ein Mann aus dem Gro&szlig;raum Koblenz an die Kanzlei AdvoAdvice Rechtsanw&auml;lte. Die Volksbank Koblenz Mittelrhein eG nahm den Betroffenen aus einer B&uuml;rgschaft in Anspruch und machte eine Forderung gegen ihn geltend. Den Vorgang meldete die Bank bei der SCHUFA Holding AG als sog. Negativeintrag ein. Die Angelegenheit wurde sodann zeitnah an ein Inkassounternehmen abgegeben und von diesem weiter verfolgt.&nbsp;

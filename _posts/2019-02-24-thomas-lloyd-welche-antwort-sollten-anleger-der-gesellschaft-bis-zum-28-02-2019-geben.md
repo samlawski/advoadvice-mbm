@@ -17,7 +17,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger der Firma Thomas Lloyd erhielten innerhalb der letzten Wochen ein Schreiben ihrer Anlagegesellschaft, in welchem sie vor eine problematische Auswahl gestellt wurden. Die Gesellschaft teilte zun&auml;chst mit, dass aufgrund der nicht zufriedenstellenden Performance der Vergangenheit nunmehr ein B&ouml;rsengang geplant sei. Um diesen realisieren zu k&ouml;nnen, seien die Kapitalanlagen der Anleger abgewertet worden.&nbsp;

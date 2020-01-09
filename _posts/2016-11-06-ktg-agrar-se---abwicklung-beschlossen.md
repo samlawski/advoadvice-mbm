@@ -17,7 +17,7 @@ tags:
   - Biowertpapier III
   - Anleihezinsen
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

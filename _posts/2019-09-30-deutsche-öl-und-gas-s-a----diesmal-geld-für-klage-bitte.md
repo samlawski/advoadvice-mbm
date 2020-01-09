@@ -17,7 +17,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Neues von der Deutschen Öl und Gas S.A. Diese meldet sich mit einem Newsletter vom 27.09.2019 und verk&uuml;ndet &uuml;berraschendes.

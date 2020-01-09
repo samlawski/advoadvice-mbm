@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Sampling", "Urteil", "Verfassungsbeschwerde", "Urheberrecht"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Denkt man an die Justiz und deren Bezug zu Hip Hop denkt man häufig an die berühmt berüchtigten Gangster Rapper und ihre Vergangenheit. Nun ist die Rechtsprechung um ein weiteres Urteil reicher, welches sich mit deutschem Hip Hop beschäftigt. Dieses Mal geht es aber nicht um die üblichen Klisches, sondern um einen jahrelang schwelenden Rechtsstreit – in welchem sich um zwei Sekunden gestritten wird.

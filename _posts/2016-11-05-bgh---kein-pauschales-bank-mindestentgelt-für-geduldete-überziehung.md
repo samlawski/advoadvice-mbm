@@ -15,7 +15,7 @@ tags:
   - XI ZR 9/15
   - XI ZR 387/15
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

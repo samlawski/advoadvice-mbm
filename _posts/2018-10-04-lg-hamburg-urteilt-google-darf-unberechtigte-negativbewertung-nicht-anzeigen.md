@@ -17,7 +17,7 @@ tags:
   - Persönlichkeitsrecht
 topics:
   - bewertung-löschen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Kürzlich haben wir über ein [Urteil des Landgerichts Lübeck](https://advoadvice.de/blog/lg-l%C3%BCbeck-verurteilt-google-unberechtigte-1-sterne-bewertung-darf-nicht-angezeigt-werden/) berichtet, in welchem Google dazu verurteilt wurde, eine unberechtigte 1-Sterne-Bewertung künftig nicht mehr anzuzeigen.  Auch das Landgericht Hamburg entschied (Urteil v. 12.01.2018, Az.: 324 O 63/17), dass die Google Inc. Corporation es unterlassen muss, eine solche Bewertung anzuzeigen.

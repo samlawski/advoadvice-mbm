@@ -16,7 +16,7 @@ tags:
 topics:
   - medien
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

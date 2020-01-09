@@ -16,7 +16,7 @@ tags:
   - Kündigung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Im vergangenen Monat konnte einmal mehr ein Schufa-Eintrag der Barclays Bank erfolgreich gel&ouml;scht werden. Das besondere an diesem Fall: Die L&ouml;schung erfolgte in Rekordzeit.

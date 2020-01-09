@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Thomas Lloyd: Tauziehen geht weiter. CT Infrastructure Holding Ltd. verweigert Ausk&uuml;nfte f&uuml;r ehemalige stille Gesellschafter.

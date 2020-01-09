@@ -13,7 +13,7 @@ tags:
   - Rechtsanwälte
 topics:
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ### OLG Stuttgart best&auml;tigt die Haftung von anwaltlichen Treuh&auml;ndern bei erlaubnispflichtigen Einlagengesch&auml;ften

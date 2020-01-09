@@ -20,7 +20,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Stiftung Warentest berichtete am 29.03.2018 auf ihrer Internetseite www.test.de &uuml;ber die M&ouml;glichkeit f&uuml;r Verbraucher, Autofinanzierungen in Form von Kredit- und Leasingvertr&auml;gen fast aller Autobanken zu widerrufen.

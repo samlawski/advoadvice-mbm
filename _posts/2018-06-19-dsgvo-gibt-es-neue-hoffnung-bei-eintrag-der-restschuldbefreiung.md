@@ -17,7 +17,7 @@ tags:
   - Insolvenz
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Seit dem 25.05.2018 gilt die Datenschutzgrundverordnung. Das ist bekannt und gilt nat&uuml;rlich auch f&uuml;r die &Uuml;bermittlung personenbezogener Daten an die Schufa Holding AG und die dort erfolgende Speicherung und Verarbeitung von Daten.

@@ -22,7 +22,7 @@ tags:
   - Notwendigkeit
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

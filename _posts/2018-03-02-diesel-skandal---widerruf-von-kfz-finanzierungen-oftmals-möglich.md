@@ -22,7 +22,7 @@ tags:
   - Gebrauchtwagen
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der bisher treue Diesel, oftmals sogar als umweltfreundlich gelobt, entpuppt sich nach dem Urteil des Bundesverwaltungsgerichts zu Fahrverboten in deutschen Innenst&auml;dten immer mehr als Ladenh&uuml;ter und Altlast und muss daher bei vielen Verbrauchern dringend weg.
