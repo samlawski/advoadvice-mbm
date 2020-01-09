@@ -1,7 +1,7 @@
 ---
 title: Lettland Insolvenz - Informationstag in Berlin am 21.06.2019
 date: 2019-06-07 00:00:00
-seo_beschreibung: 'Lettland Insolvenz: AdvoAdvice bietet Informationstag in Berlin an'
+description: 'Lettland Insolvenz: AdvoAdvice bietet Informationstag in Berlin an'
 layout: post
 feature_bild_path:
 tags:
@@ -16,7 +16,7 @@ tags:
   - COMI
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Lettland Insolvenz wird ein immer gr&ouml;&szlig;eres Thema im Internet. Mittlerweile haben bereits mehr als 700 Interessierte die Informationen von AdvoAdvice im Blog auf der Internetseite www.advoadvice.de angesehen. Die von AdvoAdvice zu diesem Thema bei Anwalt.de ver&ouml;ffentlichten Artikel wurden bereits &uuml;ber 400 mal gelesen.

@@ -3,7 +3,7 @@ title: >-
   Versicherungsrecht: Amtsgericht Mitte verurteilt Rechtsschutz Union Schaden
   GmbH zur Kostenübernahme
 date: 2019-03-15 00:00:00
-seo_beschreibung: Rechtsschutz Union zur Kostenübernahme nach Deckungsschutzklage verurteilt
+description: Rechtsschutz Union zur Kostenübernahme nach Deckungsschutzklage verurteilt
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ tags:
   - Rechtsschutzversicherung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Amtsgericht Mitte hat die Rechtsschutz Union Schaden GmbH verurteilt, angefallene Gebühren für eine Vertretung durch Advoadvice in einem Berufungsverfahren sowie entstandene Gerichtskosten zu zahlen.

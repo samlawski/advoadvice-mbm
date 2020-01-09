@@ -1,7 +1,7 @@
 ---
 title: Schufa löscht Eintrag der Bank 11 GmbH
 date: 2018-05-17 00:00:00
-seo_beschreibung: Schufa löscht Negativeintrag der Bank 11 GmbH
+description: Schufa löscht Negativeintrag der Bank 11 GmbH
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
   - fehlerhaft
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Au&szlig;ergerichtlicher Erfolg im Kampf gegen Schufa Eintr&auml;ge durch AdvoAdvice. Bereits in k&uuml;rzer Zeit konnte ein Eintrag der Bank 11 GmbH bei der Schufa Holding AG gel&ouml;scht werden.

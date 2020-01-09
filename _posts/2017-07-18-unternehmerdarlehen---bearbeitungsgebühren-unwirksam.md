@@ -1,7 +1,7 @@
 ---
 title: Unternehmerdarlehen - Bearbeitungsgebühren unwirksam
 date: 2017-07-18 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -13,7 +13,7 @@ tags:
   - Rechtsanwalt
 topics:
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

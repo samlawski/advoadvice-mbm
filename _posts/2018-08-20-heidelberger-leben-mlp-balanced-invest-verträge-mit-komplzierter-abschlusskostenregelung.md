@@ -3,7 +3,7 @@ title: |-
   Heidelberger Leben: MLP balanced Invest Verträge
   mit komplzierter Abschlusskostenregelung
 date: 2018-08-20 00:00:00
-seo_beschreibung: >-
+description: >-
   MLP balanced Invest Riester mit unklarer Regelung der Abschluss- und
   Vertriebskosten
 layout: post
@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Riester Vertr&auml;ge waren vor einigen Jahre noch schwer in Mode. Heute ist das nur noch teilweise der Fall, wenn es sich f&uuml;r die betroffenen Sparer wirklich noch aufgrund stattlicher Zusch&uuml;sse lohne, dort Gelder f&uuml;rs Alter zu sparen. Mit gro&szlig;artigen Zinsen muss man hier sicherlich nicht mehr rechnen.&nbsp;

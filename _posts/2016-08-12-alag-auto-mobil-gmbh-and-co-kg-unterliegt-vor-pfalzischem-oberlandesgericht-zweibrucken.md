@@ -1,12 +1,12 @@
 ---
 title: "ALAG Auto-Mobil GmbH & Co. KG unterliegt vor Pfälzischem Oberlandesgericht Zweibrücken"
 date: 2016-08-12 02:30:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["ALAG", "Automobil", "ALAG Auto-Mobil GmbH & Co. KG", "OLG", "Zweibrücken", "Prozess", "Erfolg", "AdvoAdvice", "Klevenhagen"]
 topics: []
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Das Pfälzische Oberlandesgericht Zweibrücken hat eine Berufung gegen ein erstinstanzliches Urteil des Landgerichts (LG) Zweibrücken der ALAG Auto-Mobil GmbH & Co. KG mit Beschluss vom 27.07.2016 zurückgewiesen. Die Entscheidung ist rechtskräftig, da der Streitwert von dem Gericht auf 9.000 Euro festgelegt und die Revision nicht zugelassen wurde.

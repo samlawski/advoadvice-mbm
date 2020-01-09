@@ -1,7 +1,7 @@
 ---
 title: 'DSGVO: Gibt es neue Hoffnung bei Eintrag der Restschuldbefreiung?'
 date: 2018-06-19 00:00:00
-seo_beschreibung: Eintrag über Restschuldbefreiung unter DSGVO löschbar?
+description: Eintrag über Restschuldbefreiung unter DSGVO löschbar?
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Insolvenz
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Seit dem 25.05.2018 gilt die Datenschutzgrundverordnung. Das ist bekannt und gilt nat&uuml;rlich auch f&uuml;r die &Uuml;bermittlung personenbezogener Daten an die Schufa Holding AG und die dort erfolgende Speicherung und Verarbeitung von Daten.

@@ -1,7 +1,7 @@
 ---
 title: Unsere Experten in der Presse - BILD Zeitung - Bild-Telefon-Aktion Immobilien
 date: 2017-05-05 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/bild-logo.png
 tags:
@@ -18,7 +18,7 @@ topics:
   - medien
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

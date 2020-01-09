@@ -1,7 +1,7 @@
 ---
 title: Thomas Lloyd Fonds auf Warnliste bei Finanztest
 date: 2019-09-17 00:00:00
-seo_beschreibung: Finanztest setzt drei Thomas Lloyd Fonds auf Warnliste
+description: Finanztest setzt drei Thomas Lloyd Fonds auf Warnliste
 layout: post
 feature_bild_path:
 tags:
@@ -23,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Thomas Lloyd Gruppe ger&auml;t immer mehr unter Beschuss von Presse und Medien. Zuletzt berichtete das Handelsblatt in einem Beitrag vom 09.07.2019 &uuml;ber die Thomas Lloyd Gruppe und Anlagen bei der DKM GOF 1 GmbH und der Thomas Lloyd Investments GmbH (Österreich). Nun legt die Zeitschrift Finanztest in der [aktuellen Ausgabe von Oktober 2019](https://www.test.de/ThomasLloyd-Gruppe-Riskante-Anlagen-mit-raetselhaften-Renditen-5515856-0/) nach und setzt drei Produkte der Thomas Lloyd Gruppe auf die [Warnliste Geldanlage](https://www.test.de/Warnliste-Geldanlage-Unserioese-Firmen-und-Finanzprodukte-1131965-0/).

@@ -1,7 +1,7 @@
 ---
 featured: false
 title:
-seo_beschreibung:
+description:
 cta_titel: 
 cta_link_text:
 cta_link:
