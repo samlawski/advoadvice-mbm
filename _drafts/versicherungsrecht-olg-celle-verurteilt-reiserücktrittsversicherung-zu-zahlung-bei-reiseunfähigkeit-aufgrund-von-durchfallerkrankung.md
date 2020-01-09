@@ -8,7 +8,7 @@ layout: post
 feature_bild_path:
 tags: []
 topics: []
-author dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 OLG Celle: Verhindert Durchfallerkrankung den Reiseantritt, muss Reiser&uuml;cktrittsversicherung leisten
