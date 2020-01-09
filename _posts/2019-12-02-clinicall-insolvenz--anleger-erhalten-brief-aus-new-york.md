@@ -18,7 +18,7 @@ tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
 topics:
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-6.jpg){: width="640" height="369"}

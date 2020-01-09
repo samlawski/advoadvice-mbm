@@ -18,7 +18,7 @@ tags:
 topics:
   - medien
   - versicherungsrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

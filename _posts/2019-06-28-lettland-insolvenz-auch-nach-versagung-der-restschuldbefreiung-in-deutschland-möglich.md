@@ -21,7 +21,7 @@ tags:
   - AdvoAdvice
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Lettland Insolvenz nach Versagung der Restschuldbefreiung in Deutschland möglich.&nbsp;

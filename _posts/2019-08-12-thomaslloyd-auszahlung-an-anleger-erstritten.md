@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erneuter Erfolg f&uuml;r die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin. Einem Anleger wurden durch die CT Infrastructure Holding Ltd. nunmehr 13.937,76 Euro zzgl. Zinsen in Höhe von 860,55 Euro &uuml;berwiesen.&nbsp;

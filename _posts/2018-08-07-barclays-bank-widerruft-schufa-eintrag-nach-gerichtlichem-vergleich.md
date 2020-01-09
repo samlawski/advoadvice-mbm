@@ -17,7 +17,7 @@ tags:
   - Gerichtlicher Vergleich
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In den verganenen Monaten wurde bereits mehrach berichtet, dass negative SCHUFA-Einträge, welche durch die Barclays Bank PLC eingemeldet wurden, zur Löschung gebracht oder widerrufen wurden (siehe z.B. [Reaktion in Rekordzeit](https://advoadvice.de/blog/schufa-eintrag-der-barclays-bank-reaktion-in-rekordzeit/)). Erneut konnten die Advoadvice Rechtsanwälte nun einem Betroffenen helfen.

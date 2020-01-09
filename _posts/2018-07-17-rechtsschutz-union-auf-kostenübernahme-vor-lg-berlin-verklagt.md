@@ -14,7 +14,7 @@ tags:
   - Berufung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin hat Klage gegen die Rechtsschutz Union Schaden GmbH vor dem Landgericht Berlin auf Übernahme von Anwalts- und Gerichtskosten eingereicht.

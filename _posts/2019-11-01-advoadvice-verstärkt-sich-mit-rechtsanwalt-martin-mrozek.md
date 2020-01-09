@@ -14,7 +14,7 @@ tags:
   - Neuzugang
   - Assoziierter Partner
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Rechtsanwalt Mrozek verst&auml;rkt seit dem 15. Oktober 2019 die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin.

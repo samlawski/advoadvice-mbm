@@ -27,7 +27,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Einige Anleger der insolventen Alphapool GmbH erhalten diese Tage Post vom Insolvenzverwalter R&uuml;diger Bauch aus der Kanzlei Schultze & Braun. Die Nachricht, die die Anleger erhalten, ist leider f&uuml;r viele eher schockierend als erfreulich. Der Insolvenzverwalter fordert n&auml;mlich von den Anlegern sog. Scheingewinnaussch&uuml;ttungen, die diese von der insolventen Anlagefirma in der Vergangenheit erhalten hatten, zur&uuml;ck.

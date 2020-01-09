@@ -12,7 +12,7 @@ tags:
   - Bundesgerichtshof
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundesgerichtshof hat am 12.09.2017 entschieden (Az. XI ZR 590/15), dass mehrere Entgeltklauseln einer Sparkasse unwirksam sind. Diese Klauseln dürfen nun nicht mehr gegenüber Verbrauchern verwendet werden.

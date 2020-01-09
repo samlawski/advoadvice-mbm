@@ -12,7 +12,7 @@ tags:
   - Musterfeststellungsklage
   - Gesetz
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundestag hat ein Gesetz erlassen, wonach nun eine sog. Musterfeststellungsklage m&ouml;glich sein soll. Sinn und Zweck einer solchen Musterfeststellungsklage ist es, Schadensersatzanspr&uuml;che gegen Unternehmen gerichtlich und somit verbindlich durchzusetzen, ohne selbst ein Gerichtsverfahren anstrengen zu m&uuml;ssen. Daf&uuml;r k&ouml;nnen "qualifizierte Einrichtungen" die Interessen der Betroffenen wahrnehmen. In der Begr&uuml;ndung zum Gesetzesentwurf vom 09.05.2018 hei&szlig;t es w&ouml;rtlich:

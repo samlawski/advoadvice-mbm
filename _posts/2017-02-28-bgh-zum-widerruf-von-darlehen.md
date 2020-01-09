@@ -23,7 +23,7 @@ tags:
 topics:
   - widerruf-verbraucherdarlehen
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

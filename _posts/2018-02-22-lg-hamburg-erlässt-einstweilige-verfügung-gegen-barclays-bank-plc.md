@@ -18,7 +18,7 @@ tags:
   - Einstweilige Verfügung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Hamburg hat gegen die Barclays Bank PLC eine einstweilige Verfügung erlassen. Die Entscheidung erging nach einer mündlichen Verhandlung am 16.02.2018 über den Antrag der Kanzlei AdvoAdvice.

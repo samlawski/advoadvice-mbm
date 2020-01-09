@@ -16,7 +16,7 @@ tags:
   - Schuldnerverzeichnis
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Immer wieder müssen Betroffene unter negativen SCHUFA-Einträgen leiden. Neben "klassischen" Negativeinträgen, welche durch die Vertragspartner der SCHUFA eingemeldet werden, kommen auch Einträge aus sog. öffentlichen Verzeichnissen in Betracht. Dazu gehören u.a. Daten dem Schuldnerverzeichnis der Amtsgerichte und Veröffentlichungen aus Insolvenzverfahren.

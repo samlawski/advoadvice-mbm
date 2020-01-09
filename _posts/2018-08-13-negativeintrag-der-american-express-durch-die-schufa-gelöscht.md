@@ -17,7 +17,7 @@ tags:
   - AMEX
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende Juli 2018 wandte sich ein 34-j&auml;hriger Mann aus Braunschweig an die Advoadvice Rechtsanw&auml;lte. Dieser musste feststellen, dass er unter einem negativen SCHUFA-Eintrag der American Express Services Europe Ltd. (fortan: American Express) litt.

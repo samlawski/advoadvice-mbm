@@ -16,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erste Klage gegen CT Infrastructure Holding Ltd. wird Ende August vor dem Landgericht Wiesbaden verhandelt.&nbsp;

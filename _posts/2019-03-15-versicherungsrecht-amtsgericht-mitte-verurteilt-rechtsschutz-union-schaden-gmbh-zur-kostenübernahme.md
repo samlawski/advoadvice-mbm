@@ -19,7 +19,7 @@ tags:
   - Rechtsschutzversicherung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Amtsgericht Mitte hat die Rechtsschutz Union Schaden GmbH verurteilt, angefallene Gebühren für eine Vertretung durch Advoadvice in einem Berufungsverfahren sowie entstandene Gerichtskosten zu zahlen.

@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt f&uuml;r Finanzdienstleitstungsaufsicht (kurz BaFin) hat bekannt gegeben, dass sie der Firma Five Star Leasing GmbH aus Stuttgart mit Bescheid vom 1. April 2019 die sofortige Einstellung und die unverz&uuml;gliche Abwicklung des Finanzierungsleasings aufgegeben hat.

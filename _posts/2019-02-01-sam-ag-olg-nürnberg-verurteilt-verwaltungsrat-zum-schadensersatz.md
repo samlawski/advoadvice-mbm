@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![Justitia - Foto Pixabay](/uploads/justice-2071539-640-3.jpg "Erfolg von AdvoAdvice vor dem OLG Nürnberg")

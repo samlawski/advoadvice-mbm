@@ -19,7 +19,7 @@ tags:
   - AdvoAdvice
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 21.06.2019 fand in den R&auml;umen von AdvoAdvice der erste Informationstag zur Insolvenz und Restschuldbefreiung in Lettland statt.

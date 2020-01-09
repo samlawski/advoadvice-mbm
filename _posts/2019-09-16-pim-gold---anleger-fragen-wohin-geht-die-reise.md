@@ -18,7 +18,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/gold-bars-2467833-1920-2.jpg){: width="1920" height="1280"}<br>Nachdem die Staatsanwaltschaft Darmstadt am 4.9.2019 im Rahmen einer Durchsuchung der Gesch&auml;ftsr&auml;ume der PIM Gold dort befindliche Vermögenswerte sicherte und auch eine Festnahme erfolgte, werden jetzt die Folgen der Ma&szlig;nahmen der Staatsanwaltschaft sichtbar.&nbsp;

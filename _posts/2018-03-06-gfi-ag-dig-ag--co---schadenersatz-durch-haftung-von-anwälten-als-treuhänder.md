@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Zu Beginn dieses Jahrzehnts hatten sich, bedingt durch die sich verringernde Rendite von klassischen Versicherungen als Anlageformen, zunehmend Anlageformen auf dem Kapitalmarkt gebildet, die mit Hilfe von als Treuhänder tätigen Rechtsanwälten Rückkaufswerte von Versicherungen anderweitig investierten.

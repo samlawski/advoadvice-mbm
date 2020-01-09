@@ -18,7 +18,7 @@ tags:
   - Vollstreckungsbescheid
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat einen Negativeintrag der Rechtsanw&auml;lte Purps, Vogel, Flinder GbR zur L&ouml;schung gebracht, obgleich die Forderung durch einen Vollstreckungsbescheid, ausgestellt durch das Amtsgericht Coburg, tituliert war.&nbsp;

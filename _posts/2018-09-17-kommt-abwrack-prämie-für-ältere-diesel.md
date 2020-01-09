@@ -15,7 +15,7 @@ tags:
   - Inforadio
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Berichten des Inforadio k&ouml;nnte jetzt eine Art Abwrackpr&auml;mie mit der Autoindustrie verhandelt werden. Dies strebe angeblich Bundesverkehrsminister Scheuer an. So sollen Fahrverbote in den Innenst&auml;dten umgangen werden.

@@ -17,7 +17,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfolg für AdvoAdvice vor dem Landgericht Hamburg. Dieses verurteilte mit einer am 14.09.2018 verkündeten Entscheidung erstinstanzlich die NL Nord Lease AG zu einer Zahlung in Höhe von 18.806,15 Euro. 

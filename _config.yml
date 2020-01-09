@@ -11,8 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Collection Settings
 collections:
-  team_members:
-    output: true
+  authors:
+    output: false
   topics:
     output: true
     permalink: /themen/:path/

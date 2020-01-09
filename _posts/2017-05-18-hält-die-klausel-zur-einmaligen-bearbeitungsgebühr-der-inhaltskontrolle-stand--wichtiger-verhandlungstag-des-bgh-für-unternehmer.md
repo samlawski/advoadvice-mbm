@@ -24,7 +24,7 @@ tags:
   - 5 U 138/16
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

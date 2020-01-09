@@ -19,7 +19,7 @@ topics:
   - anlegerschutz
   - immobilienrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-5.jpg)

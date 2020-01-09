@@ -30,7 +30,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfolg in der zweiten Instanz f&uuml;r die Kanzlei AdvoAdvice aus Berlin in Sachen SAM AG. Das OLG N&uuml;rnberg hob eine zun&auml;chst klageabweisende Entscheidung des LG Regensburg gegen zwei Anleger der SAM AG auf und verurteilte nunmehr zwei Rechtsanw&auml;lte und eine Regensburger Rechtsanwaltssoziet&auml;t zum Schadensersatz.&nbsp;

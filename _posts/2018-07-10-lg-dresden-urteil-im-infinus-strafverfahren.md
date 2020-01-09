@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Dresden hat nach jahrelanger Verhandlung gegen die Hinterm&auml;nner des Infinus-Skandals nunmehr seine Urteile gesprochen. Diese wurden bereits mit Spannung erwartet und wurden am 09.07.2018 verk&uuml;ndet. Die sechs Hauptangeklagten wurden zu Haftstrafen verurteilt.

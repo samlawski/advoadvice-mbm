@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das OLG Karlsruhe hat in zweiter Instanz eine Verurteilung des Verwaltungsratsvorsitzenden der SAM AG, Michael O. (welcher sich zur Zeit in Untersuchungshaft befindet), durch das LG Mosbach zur Zahlung von Schadensersatz im Umfang von 6.532,22 Euro best&auml;tigt und eine Berufung des Beklagten gegen die erstinstanzliche Entscheidung zur&uuml;ckgewiesen.

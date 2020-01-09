@@ -28,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Seit dem letzten Zinshoch im Jahr 2008 fielen die Zinsen stetig, bis sie im Jahr 2016 einen neuen Tiefpunkt erreicht hatten. Seitdem halten sich die Zinsen auf einem historisch niedrigen Stand.

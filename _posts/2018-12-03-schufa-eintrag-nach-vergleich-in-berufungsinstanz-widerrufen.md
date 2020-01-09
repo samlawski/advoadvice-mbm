@@ -19,7 +19,7 @@ tags:
   - Synergie Inkasso
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Immer wieder wenden sich Betroffene an die Kanzlei AdvoAdvice, welche unter negativen SCHUFA-Eintr&auml;gen der Synergie Inkasso GmbH leiden. Diese Eintr&auml;ge sind zumeist auf Vertragsverh&auml;ltnisse mit der FlexStrom AG und der FlexGas AG zur&uuml;ckzuf&uuml;hren, welche beide vor einigen Jahren den Gang in die Insolvenz antreten mussten.

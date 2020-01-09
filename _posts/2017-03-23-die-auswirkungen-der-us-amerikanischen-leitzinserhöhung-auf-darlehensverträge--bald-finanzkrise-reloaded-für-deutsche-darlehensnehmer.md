@@ -9,7 +9,7 @@ tags:
   - Leitzinserhöhung
 topics:
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

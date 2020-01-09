@@ -21,7 +21,7 @@ tags:
 topics:
   - datenschutz
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 
