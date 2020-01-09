@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Gesetzgeber will die Umsetzung der EU-Wohnimmobilienkreditrichtlinie entschärfen
 date: 2017-02-15 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -15,7 +18,7 @@ tags:
   - Förderdarlehen
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

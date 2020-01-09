@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Löschung eines negativen Schufa Eintrags der Barclays Bank PLC nach
   Darlehenskündigung
 date: 2017-11-23 00:00:00
-seo_beschreibung: >-
+description: >-
   Schufa löscht negativen Eintrag der Barclays Bank PLC nach fristloser
   Kündigung
 layout: post
@@ -21,7 +24,7 @@ tags:
   - Zahlungsrückstand
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Eintrag der Rechtsanwälte Purps Vogel Flinder GbR gelöscht'
 date: 2019-03-08 00:00:00
-seo_beschreibung: Schufa löscht titulierte Forderung
+description: Schufa löscht titulierte Forderung
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
   - Vollstreckungsbescheid
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG hat einen Negativeintrag der Rechtsanw&auml;lte Purps, Vogel, Flinder GbR zur L&ouml;schung gebracht, obgleich die Forderung durch einen Vollstreckungsbescheid, ausgestellt durch das Amtsgericht Coburg, tituliert war.&nbsp;

@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Deutsche Gesundheitskasse DeGeKa VVAG: Bafin ordnet Einstellung und Abwicklung
   des unerlaubten Versicherungsgeschäfts an
 date: 2017-11-07 00:00:00
-seo_beschreibung: BaFin ordnet Einstellung des Versicherungsgeschäfts der DeGeKa an.
+description: BaFin ordnet Einstellung des Versicherungsgeschäfts der DeGeKa an.
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
   - Einstellung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

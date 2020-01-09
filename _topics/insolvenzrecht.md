@@ -1,7 +1,11 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 title: Insolvenzrecht
-seo_beschreibung: >-
+description: >-
   Beratung bei Anträgen zur Verbraucherinsolvenz und Regelinsolvenz durch
   erfahrene Rechtsanwälte
 ---

@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert
 date: 2019-10-30 00:00:00
-seo_beschreibung: >-
+description: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert
 layout: post
@@ -20,7 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/money-1005464-640-1.jpg){: width="640" height="369"}

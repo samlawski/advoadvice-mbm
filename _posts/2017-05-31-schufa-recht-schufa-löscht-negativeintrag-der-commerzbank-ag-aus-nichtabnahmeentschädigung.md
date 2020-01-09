@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Schufa löscht Negativeintrag der Commerzbank AG aus Nichtabnahmeentschädigung'
 date: 2017-05-31 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - Immobiliar-Verbraucherdarlehen
 topics:
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

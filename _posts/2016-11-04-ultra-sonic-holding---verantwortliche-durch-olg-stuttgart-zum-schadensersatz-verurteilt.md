@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Ultra Sonic Holding - Verantwortliche durch OLG Stuttgart zum Schadensersatz verurteilt
 date: 2016-11-04 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -19,7 +22,7 @@ tags:
   - Drittstaateneinlagenvermittlung
   - Inhaberschuldverschreibung
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

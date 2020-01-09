@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "„Ewiges Widerrufsrecht“ – AachenMünchener scheitert mit Verfassungsbeschwerde"
 date: 2016-07-29 02:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Ewiges Widerrufsrecht", "Versicherung", "Verfassungsbeschwerde", "Bundesverfassungsgericht", "AdvoAdvice"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die AachenMünchener Versicherung ist mit einer Verfassungsbeschwerde gegen ein sog. „ewiges Widerrufsrecht“ gescheitert (Az.: 1 BvR 2230/15, 1 BvR 2231/15). Für Versicherer stellt sich insbesondere im Bereich der Lebensversicherungen das Problem, dass vom Bundesgerichtshof in Karlsruhe ein sog. „ewiges Widerrufsrecht“ für zwischen 1994 und 2008 abgeschlossene Verträge anerkannt wurde. Gegen diese Sicht des BGH wollte die AachenMünchener mit einer eingereichten Verfassungsbeschwerde vorgehen.

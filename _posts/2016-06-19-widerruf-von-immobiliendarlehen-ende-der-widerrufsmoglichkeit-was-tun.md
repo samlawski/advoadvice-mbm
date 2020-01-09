@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was tun?"
 date: 2016-06-19 17:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Widerruf", "Immobilienkredit", "Darlehen", "Verjährung", "AdvoAdvice", "Klevenhagen", "Gesetzesänderung", "Bank", "Kredit"]
 topics: []
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Am 21.06.2016 ist es soweit. Die Banken und Immobilienfinanzierer haben endlich, was sie schon seit Jahren vorbereitet und dem Gesetzgeber, wohl in mühevoller Lobbyarbeit, abgetrotzt haben, die VERJÄHRUNG VON ANSPRÜCHEN AUS WIDERRUFSBELEHRUNGEN!

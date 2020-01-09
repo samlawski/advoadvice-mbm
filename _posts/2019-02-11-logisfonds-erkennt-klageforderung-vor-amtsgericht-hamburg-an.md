@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Logisfonds erkennt Klageforderung vor Amtsgericht Hamburg an
 date: 2019-02-11 00:00:00
-seo_beschreibung: Logisfonds erkennt Klageforderung vor AG Hamburg an
+description: Logisfonds erkennt Klageforderung vor AG Hamburg an
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Logisfonds I GmbH aus Hamburg bot Anlegern an, sich an ihrem Geschäftsmodell als atypisch stille Gesellschafter zu beteiligen. Am Ende der Beteiligung erwartet die meisten Anleger ein Verlust eines Teil ihres eingezahlten Geldes.

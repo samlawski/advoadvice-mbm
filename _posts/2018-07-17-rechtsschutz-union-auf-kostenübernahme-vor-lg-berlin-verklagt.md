@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Rechtsschutz Union auf Kostenübernahme vor LG Berlin verklagt
 date: 2018-07-17 00:00:00
-seo_beschreibung: Klage gegen Rechtsschutz Union vor Landgericht Berlin eingereicht
+description: Klage gegen Rechtsschutz Union vor Landgericht Berlin eingereicht
 layout: post
 feature_bild_path:
 tags:
@@ -14,7 +17,7 @@ tags:
   - Berufung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin hat Klage gegen die Rechtsschutz Union Schaden GmbH vor dem Landgericht Berlin auf Übernahme von Anwalts- und Gerichtskosten eingereicht.

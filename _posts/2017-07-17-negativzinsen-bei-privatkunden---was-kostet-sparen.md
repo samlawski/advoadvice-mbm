@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Negativzinsen bei Privatkunden - Was kostet Sparen?
 date: 2017-07-17 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +21,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

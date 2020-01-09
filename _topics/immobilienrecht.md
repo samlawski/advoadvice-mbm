@@ -1,7 +1,11 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 title: Immobilienrecht
-seo_beschreibung: Vertretung durch Experten im Immobilienrecht
+description: Vertretung durch Experten im Immobilienrecht
 cta_titel:
 cta_link_text:
 cta_link:

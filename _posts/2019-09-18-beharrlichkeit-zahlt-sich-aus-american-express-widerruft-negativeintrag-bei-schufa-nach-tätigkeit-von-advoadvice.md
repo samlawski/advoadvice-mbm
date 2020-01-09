@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Beharrlichkeit zahlt sich aus: American Express widerruft Negativeintrag bei
   Schufa nach Tätigkeit von AdvoAdvice
 date: 2019-09-18 00:00:00
-seo_beschreibung: >-
+description: >-
   Negativeintrag durch American Express nach beharrlichem Vorgehen von
   AdvoAdvice widerrufen
 layout: post
@@ -23,7 +26,7 @@ tags:
   - Hartnäckigkeit
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ein 49-J&auml;hriger Mann aus Köln trat vor wenigen Wochen an die Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin heran. Der Kölner musste mit den negativen Folgen eines SCHUFA-Eintrages, veranlasst durch die American Express Europa S.A. (Germany Branch), zurecht kommen.

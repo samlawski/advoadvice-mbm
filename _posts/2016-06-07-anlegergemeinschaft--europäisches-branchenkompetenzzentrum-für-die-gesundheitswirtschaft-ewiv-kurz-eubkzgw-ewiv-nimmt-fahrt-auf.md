@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft EWIV (kurz EUBKZGW EWIV)“ nimmt Fahrt auf
 date: 2016-06-07 23:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -18,7 +21,7 @@ tags:
   - Geschädigtengemeinschaft
   - Insolvenzverfahren
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

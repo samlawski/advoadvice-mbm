@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Negativeintrag der Barclays Bank PLC nach gerichtlichem Vergleich widerrufen'
 date: 2017-06-22 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +25,7 @@ tags:
 topics:
   - datenschutz
   - schufa
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

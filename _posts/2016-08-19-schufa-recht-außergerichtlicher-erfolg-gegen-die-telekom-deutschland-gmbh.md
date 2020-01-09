@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Außergerichtlicher Erfolg gegen die Telekom Deutschland GmbH'
 date: 2016-08-19 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -20,7 +23,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

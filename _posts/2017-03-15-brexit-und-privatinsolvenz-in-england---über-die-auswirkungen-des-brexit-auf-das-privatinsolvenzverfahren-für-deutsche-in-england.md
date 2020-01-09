@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Brexit und Privatinsolvenz in England - Über die Auswirkungen des Brexit auf das Privatinsolvenzverfahren für Deutsche in England
 date: 2017-03-15 00:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags:
@@ -38,7 +41,7 @@ tags:
   - Frankreich Insolvenz
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

@@ -1,9 +1,12 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Pflegeimmobilien  kaufen - Erklärung und FAQ zum neuen Hit auf dem
   Kapitalmarkt
 date: 2018-10-22 00:00:00
-seo_beschreibung: Pflegeimmobilien – der neue Hit auf dem Kapitalmarkt?!
+description: Pflegeimmobilien – der neue Hit auf dem Kapitalmarkt?!
 layout: post
 feature_bild_path:
 tags:
@@ -26,7 +29,7 @@ topics:
   - immobilienrecht
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/advoadvice-01-59-von-80.jpg)

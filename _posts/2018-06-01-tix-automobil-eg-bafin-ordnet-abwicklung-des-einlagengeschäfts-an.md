@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Tix Automobil eG; Bafin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-06-01 00:00:00
-seo_beschreibung: 'Tix Automobil eG: Bafin ordnet Abwicklung des Einlagengeschäfts an'
+description: 'Tix Automobil eG: Bafin ordnet Abwicklung des Einlagengeschäfts an'
 layout: post
 feature_bild_path:
 tags:
@@ -13,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erneut meldet die BaFin auf ihrer Internetseite unter www.bafin.de/dok/10947204 die Untersagung eines ihrer Auffassung nach unerlaubt betriebenen Einlagengeschäfts. So wurde der Tix Automobil eG, Irrel, mit Bescheid vom 14. Mai 2018 durch die BaFin aufgegeben, das von ihr betriebene Einlagengeschäft unverzüglich abzuwickeln.

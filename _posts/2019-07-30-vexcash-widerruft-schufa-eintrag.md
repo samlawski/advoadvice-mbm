@@ -1,7 +1,10 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vexcash widerruft Schufa Eintrag
 date: 2019-07-30 00:00:00
-seo_beschreibung: SCHUFA-Eintrag nach ausgelaufenem Kurzzeitkredit gelöscht.
+description: SCHUFA-Eintrag nach ausgelaufenem Kurzzeitkredit gelöscht.
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +20,7 @@ tags:
   - Kurzzeitkredit
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Vexcash AG ist ein in Berlin ans&auml;ssiger Anbieter f&uuml;r sog. Kurzzeitkredite. Diese haben in der Regel eine Laufzeit von ca. 30 Tagen und sollen bei kurzfristigen Finanzierungen helfen. &Uuml;blicherweise kann ein neuer Kredit erst abgeschlossen werden, wenn der alte Kredit vollst&auml;ndig ausgeglichen ist.&nbsp;

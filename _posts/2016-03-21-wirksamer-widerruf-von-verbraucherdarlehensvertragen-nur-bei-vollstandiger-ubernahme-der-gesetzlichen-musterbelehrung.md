@@ -1,12 +1,15 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Wirksamer Widerruf von Verbraucherdarlehensverträgen nur bei vollständiger Übernahme der gesetzlichen Musterbelehrung"
 date: 2016-03-21 18:00:00 -0500
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: ""
 tags: ["Widerrufsbelehrung", "Darlehensverträge", "Darlehensvertrag", "Musterbelehrung", "Widerrufs-Joker", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice"]
 topics: []
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Mit dem geplanten Gesetz zur Umsetzung der Richtlinien 2014/17/EU des Europäischen Parlaments und Rates über Wohnimmobilienkreditverträge für Verbraucher plant der Gesetzgeber, bei Immobiliar-Verbraucherdarlehen eine absolute Erlöschungsregelung einzuführen, d.h., dass das Widerrufsrecht hier nach 1 Jahr und 14 Tagen spätestens erlöschen würde.
