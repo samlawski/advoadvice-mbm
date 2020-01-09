@@ -8,7 +8,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-author dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Az. 1116/19
