@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Butlers Insolvenz: Nachrangklausel von Genussrechten bei Insolvenzverwalter
   angefochten

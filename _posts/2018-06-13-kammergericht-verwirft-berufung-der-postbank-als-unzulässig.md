@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Kammergericht verwirft Berufung der Postbank als unzulässig
 date: 2018-06-13 00:00:00
 description: Postbank scheitert mit Berufung beim Kammergericht

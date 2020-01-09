@@ -1,4 +1,8 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: false
 title: Stichentscheid
 description: Stichentscheid bei Problemen mit der Rechtsschutzversicherung

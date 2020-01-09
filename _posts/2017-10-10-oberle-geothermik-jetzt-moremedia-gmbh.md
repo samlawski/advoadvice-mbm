@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Oberle Geothermik jetzt MoreMedia GmbH
 date: 2017-10-10 00:00:00
 description: 'Oberle Geothermik ändert Namen, Sitz und Geschäftsführer'

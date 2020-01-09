@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Josef Müller: BaFin ordnet Einstellung der Finanzportfolioverwaltung an'
 date: 2017-11-03 00:00:00
 description: Bafin odrnet Einstellung der Finanzportfolioverwaltung bei Josef Müller an.

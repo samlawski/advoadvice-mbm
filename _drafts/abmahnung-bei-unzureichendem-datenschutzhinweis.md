@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Abmahnung bei unzureichendem Datenschutzhinweis
 date: 2019-01-31 00:00:00
 description: Gefahr einer Abmahnung bei unzureichendem  Datenschutzhinweis

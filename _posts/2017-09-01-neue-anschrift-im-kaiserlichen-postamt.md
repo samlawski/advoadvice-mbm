@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Neue Anschrift im Kaiserlichen Postamt
 date: 2017-09-01 00:00:00
 description: AdvoAdvice Rechtsanwälte im Kaiserlichen Postamt Zehlendorf

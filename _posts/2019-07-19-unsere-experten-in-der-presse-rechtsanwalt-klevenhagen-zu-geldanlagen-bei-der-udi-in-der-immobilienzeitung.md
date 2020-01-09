@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Immobilienerwerb mit Nebenwirkungen - Was tun bei Krise nach dem Kauf?
 date: 2018-10-01 00:00:00
 description: >-

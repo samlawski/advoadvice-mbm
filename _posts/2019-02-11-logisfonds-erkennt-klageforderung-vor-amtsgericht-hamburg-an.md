@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Logisfonds erkennt Klageforderung vor Amtsgericht Hamburg an
 date: 2019-02-11 00:00:00
 description: Logisfonds erkennt Klageforderung vor AG Hamburg an

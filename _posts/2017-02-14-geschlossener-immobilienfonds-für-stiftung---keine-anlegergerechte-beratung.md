@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Geschlossener Immobilienfonds für Stiftung - keine anlegergerechte Beratung
 date: 2017-02-14 00:00:00
 description:

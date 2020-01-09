@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Versicherungsrecht: Amtsgericht Mitte verurteilt Rechtsschutz Union Schaden
   GmbH zur Kostenübernahme

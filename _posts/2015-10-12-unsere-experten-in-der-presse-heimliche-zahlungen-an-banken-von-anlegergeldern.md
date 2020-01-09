@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Unsere Experten in der Presse: Heimliche Zahlungen an Banken von Anlegergeldern'
 date: 2015-10-12 15:33:00
 description:

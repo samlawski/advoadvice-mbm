@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'LG Hamburg urteilt: Google darf unberechtigte Negativbewertung nicht anzeigen'
 date: 2018-10-04 00:00:00
 description: Landgericht Hamburg verurteilt Google zur Löschung einer Bewertung

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Thomas Lloyd: CT Infrastructure Holding verweigert Auskünfte'
 date: 2019-07-03 00:00:00
 description: >-

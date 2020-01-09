@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten

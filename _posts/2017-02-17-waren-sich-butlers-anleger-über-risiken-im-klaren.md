@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Waren sich Butlers Anleger über Risiken im klaren?
 date: 2017-02-17 00:00:00
 description:

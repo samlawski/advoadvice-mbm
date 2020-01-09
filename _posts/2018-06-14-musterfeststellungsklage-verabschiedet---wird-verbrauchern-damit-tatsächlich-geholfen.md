@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Musterfeststellungsklage verabschiedet - Wird Verbrauchern damit tatsächlich
   geholfen?

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Schufa Eintrag der Barclays Bank PLC gelöscht
 date: 2018-05-04 00:00:00
 description: Schufa Eintrag der Barclays Bank PLC binnen fünf Tagen gelöscht

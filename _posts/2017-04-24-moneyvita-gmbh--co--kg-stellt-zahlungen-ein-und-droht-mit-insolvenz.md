@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'MoneyVita GmbH & Co. KG stellt Zahlungen ein und droht mit Insolvenz'
 date: 2017-04-24 00:00:00
 description:

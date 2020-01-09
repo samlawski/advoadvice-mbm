@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Deutsche Gesundheitskasse DeGeKa VVAG: Bafin ordnet Einstellung und Abwicklung
   des unerlaubten Versicherungsgeschäfts an

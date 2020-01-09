@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: EUBKZGW - zweiter Zwischenbericht des Insolvenzverwalters positiv
 date: 2018-04-24 00:00:00
 description: Insolvenzverwalter der EUBKZGW legt zweiten Zwischenbericht vor

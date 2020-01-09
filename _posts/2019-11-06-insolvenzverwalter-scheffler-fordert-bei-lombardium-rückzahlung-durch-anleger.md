@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Insolvenzverwalter Scheffler fordert bei Lombardium Rückzahlung durch Anleger
 date: 2019-11-06 00:00:00
 description: Lombard Classic Anleger sollen Zinsen an Insolvenzverwalter zurückzahlen

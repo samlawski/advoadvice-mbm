@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Unsere Kanzlei in der Presse: Hamburger Morgenpost verweist auf unseren Blog'
 date: 2018-06-25 00:00:00
 description: Hamburger Morgenpost bericht über Blog von AdvoAdvice

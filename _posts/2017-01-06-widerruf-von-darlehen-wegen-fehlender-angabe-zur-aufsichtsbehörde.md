@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Widerruf von Darlehen wegen fehlender Angabe zur Aufsichtsbehörde?
 date: 2017-01-06 00:00:00
 description:
