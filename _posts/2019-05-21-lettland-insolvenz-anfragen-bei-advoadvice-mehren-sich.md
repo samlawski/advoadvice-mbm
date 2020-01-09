@@ -1,7 +1,7 @@
 ---
 title: 'Lettland Insolvenz: Anfragen bei AdvoAdvice mehren sich'
 date: 2019-05-21 00:00:00
-seo_beschreibung: 'Lettland Insolvenz: Anwaltliche Hilfe in Deutschland und Lettland sinnvoll'
+description: 'Lettland Insolvenz: Anwaltliche Hilfe in Deutschland und Lettland sinnvoll'
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +18,7 @@ tags:
   - AdvoAdvice
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Vor etwa einem Monat startete AdvoAdvice mit seinen Netzwerkpartnern in Riga ein Angebot f&uuml;r die Insolvenz in Riga / Lettland. Was ist seitdem geschehen?

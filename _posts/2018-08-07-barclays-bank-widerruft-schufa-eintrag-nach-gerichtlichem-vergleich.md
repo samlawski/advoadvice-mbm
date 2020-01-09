@@ -1,7 +1,7 @@
 ---
 title: Barclays Bank widerruft SCHUFA-Eintrag nach gerichtlichem Vergleich
 date: 2018-08-07 00:00:00
-seo_beschreibung: Forderung bei der SCHUFA nach gerichtlichem Vergleich widerrufen.
+description: Forderung bei der SCHUFA nach gerichtlichem Vergleich widerrufen.
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Gerichtlicher Vergleich
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In den verganenen Monaten wurde bereits mehrach berichtet, dass negative SCHUFA-Einträge, welche durch die Barclays Bank PLC eingemeldet wurden, zur Löschung gebracht oder widerrufen wurden (siehe z.B. [Reaktion in Rekordzeit](https://advoadvice.de/blog/schufa-eintrag-der-barclays-bank-reaktion-in-rekordzeit/)). Erneut konnten die Advoadvice Rechtsanwälte nun einem Betroffenen helfen.

@@ -3,7 +3,7 @@ title: >-
   Eurotreuhand Inkasso: Negativeinträge bei Schufa Holding AG und anderer
   Auskunftei widerrufen
 date: 2018-09-12 00:00:00
-seo_beschreibung: Eurotreuhand Inkasso widerruft Negativeintrag bei der SCHUFA
+description: Eurotreuhand Inkasso widerruft Negativeintrag bei der SCHUFA
 layout: post
 feature_bild_path:
 tags:
@@ -18,7 +18,7 @@ tags:
   - Eurotreuhand Inkasso GmbH
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice konnte erneut einem Mandanten zum Widerruf von Negativeinträgen in Auskunfteien verhelfen. So wurde erreicht, dass die Eurotreuhand Inkasso GmbH Negativeinträge über eine durch AdvoAdvice vertretene Berliner Mandantin bei der Schufa Holding AG und einer weiteren Auskunftei, der I. GmbH, kurzfristig widerrufen hat.

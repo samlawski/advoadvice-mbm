@@ -1,7 +1,7 @@
 ---
 layout: default
 hintergrund_bild_path: /uploads/images/title-min.jpg
-seo_beschreibung: >-
+description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
 ---
@@ -28,7 +28,7 @@ seo_beschreibung: >-
     <h1 class="padding-20 editable" href="/#kontakt">
       Das Team
     </h1>
-    {% assign members = site.team_members | sort: 'reihenfolge' %}
+    {% assign members = site.authors | sort: 'reihenfolge' %}
     {% for member in members %}
       <div class="col-sm-6">
         <div class="margin-20 row team-box">

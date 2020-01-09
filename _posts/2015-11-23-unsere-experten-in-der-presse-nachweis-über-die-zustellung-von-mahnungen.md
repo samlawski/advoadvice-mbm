@@ -1,7 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Nachweis über die Zustellung von Mahnungen'
 date: 2015-11-23 18:49:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/vur.png
 tags:
@@ -22,7 +22,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

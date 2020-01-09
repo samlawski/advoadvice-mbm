@@ -1,7 +1,7 @@
 ---
 title: 'SAM AG: OLG Karlsruhe bestätigt Verurteilung von SAM AG Verwaltungsrat'
 date: 2018-04-30 00:00:00
-seo_beschreibung: OLG Karlsruhe bestätigt Entscheidung des LG Mosbach in Sachen SAM AG
+description: OLG Karlsruhe bestätigt Entscheidung des LG Mosbach in Sachen SAM AG
 layout: post
 feature_bild_path:
 tags:
@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das OLG Karlsruhe hat in zweiter Instanz eine Verurteilung des Verwaltungsratsvorsitzenden der SAM AG, Michael O. (welcher sich zur Zeit in Untersuchungshaft befindet), durch das LG Mosbach zur Zahlung von Schadensersatz im Umfang von 6.532,22 Euro best&auml;tigt und eine Berufung des Beklagten gegen die erstinstanzliche Entscheidung zur&uuml;ckgewiesen.

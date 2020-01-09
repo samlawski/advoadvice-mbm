@@ -1,7 +1,7 @@
 ---
 title: 'Deutsche Öl und Gas: ECI stellt Insolvenzantrag'
 date: 2019-06-25 00:00:00
-seo_beschreibung: >-
+description: >-
   Deutsche Öl und Gas: ECI Energy Capital Invest Beteiligungsgesellschaft mbH
   stellt Insolvenzantrag
 layout: post
@@ -21,7 +21,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ### Deutsche Öl und Gas S.A. - Breaking News
