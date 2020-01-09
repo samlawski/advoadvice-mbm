@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Synergie Inkasso: Erneut Negativeintrag durch Schufa gelöscht'
 date: 2018-01-05 00:00:00
 description: >-

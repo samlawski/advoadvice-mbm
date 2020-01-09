@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'BAXTER Sachwert GmbH & Co. KG - Anlegergemeinschaft gestartet'
 date: 2016-02-02 23:00:00
 description:

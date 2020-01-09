@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Deutsche Öl und Gas: ECI stellt Insolvenzantrag'
 date: 2019-06-25 00:00:00
 description: >-

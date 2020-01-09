@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: DSK Leasing - Anleger sollen Rückstände einzahlen
 date: 2017-04-20 00:00:00
 description:

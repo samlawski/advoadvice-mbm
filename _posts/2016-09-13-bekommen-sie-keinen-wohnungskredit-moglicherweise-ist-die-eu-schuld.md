@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Bekommen Sie keinen Wohnungskredit? Möglicherweise ist die EU schuld!'
 date: 2016-09-13T00:00:00.000Z
 layout: post

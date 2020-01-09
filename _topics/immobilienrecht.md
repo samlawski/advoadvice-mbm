@@ -1,4 +1,8 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 title: Immobilienrecht
 description: Vertretung durch Experten im Immobilienrecht

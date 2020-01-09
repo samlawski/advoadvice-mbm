@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Real Solution Inkasso: Unterlassungserklärung nach Schufa-Negativeintrag'
 date: 2019-04-12 00:00:00
 description: >-

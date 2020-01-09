@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Unsere Experten in den Medien: Antenne Hessen berichtet über
   Identitätsmissbrauch und Schufa

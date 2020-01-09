@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   OLG Düsseldorf: Kein Deckungsschutz von D & O Versicherung bei verspätetem
   Insolvenzantrag

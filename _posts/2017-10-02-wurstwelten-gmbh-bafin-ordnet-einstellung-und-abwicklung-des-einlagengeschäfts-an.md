@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Wurstwelten GmbH: BaFin ordnet Einstellung und Abwicklung des
   Einlagengeschäfts an

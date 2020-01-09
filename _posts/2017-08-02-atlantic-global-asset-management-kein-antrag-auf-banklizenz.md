@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Atlantic Global Asset Management: Kein Antrag auf Banklizenz'
 date: 2017-08-02 00:00:00
 description:

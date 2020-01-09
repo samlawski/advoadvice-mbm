@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Keine Reservierungsgebühr für Makler
 date: 2017-01-18 00:00:00
 description:

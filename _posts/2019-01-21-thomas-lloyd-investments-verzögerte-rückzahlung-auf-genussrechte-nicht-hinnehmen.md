@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thomas Lloyd Investments: Verzögerte Rückzahlung auf Genussrechte nicht
   hinnehmen

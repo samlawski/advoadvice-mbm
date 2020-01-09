@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
