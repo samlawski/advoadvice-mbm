@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Ikano Bank Negativeintrag nach Vergleich vor LG Berlin gelöscht
 date: 2018-01-09 00:00:00
 description: >-

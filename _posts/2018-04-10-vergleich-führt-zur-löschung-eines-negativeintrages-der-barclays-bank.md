@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vergleich führt zur Löschung eines Negativeintrages der Barclays Bank
 date: 2018-04-10 00:00:00
 description: Gerichtlicher Vergleich führt zur Löschung eines Schufa Eintrages

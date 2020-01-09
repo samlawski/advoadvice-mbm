@@ -1,4 +1,8 @@
 ---
+_options:
+  layout:
+    hidden: true
+layout: "topic"
 featured: true
 title: SCHUFA- und Datenschutzrecht
 description: >-

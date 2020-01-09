@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: KTG Agrar SE - Abwicklung beschlossen
 date: 2016-11-06 00:00:00
 description:

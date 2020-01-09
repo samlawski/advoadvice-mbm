@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'DEF Deutsche Energie Finanz 11 GmbH & Co. KG lädt zu außerordentlichen Versammlungen in Hannover und Berlin'
 date: 2017-03-11 00:00:00
 description:

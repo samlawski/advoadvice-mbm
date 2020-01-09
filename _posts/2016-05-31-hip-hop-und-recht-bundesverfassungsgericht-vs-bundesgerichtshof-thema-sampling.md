@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "Hip-Hop und Recht – Bundesverfassungsgericht vs. Bundesgerichtshof – Thema: Sampling"
 date: 2016-05-31 17:00:00 -0500
 description:

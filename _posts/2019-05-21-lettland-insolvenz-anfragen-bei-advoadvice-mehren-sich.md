@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Lettland Insolvenz: Anfragen bei AdvoAdvice mehren sich'
 date: 2019-05-21 00:00:00
 description: 'Lettland Insolvenz: Anwaltliche Hilfe in Deutschland und Lettland sinnvoll'

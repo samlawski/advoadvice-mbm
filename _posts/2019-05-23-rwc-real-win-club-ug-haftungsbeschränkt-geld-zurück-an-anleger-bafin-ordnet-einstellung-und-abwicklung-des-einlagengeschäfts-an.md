@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   RWC Real Win Club UG (haftungsbeschränkt): Geld zurück an Anleger? BaFin
   ordnet Einstellung und Abwicklung des Einlagengeschäfts an

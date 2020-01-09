@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thomas Lloyd: Rückzahlungsansprüche abgelehnt - Gesellschaft im Firmenbuch
   gelöscht

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Schufa löscht Negativeintrag der Barclays Bank
 date: 2017-08-30 00:00:00
 description: Schufa löscht Negativeintrag der Barclays Bank

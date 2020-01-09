@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: BGH zum Widerruf von Darlehen - Unzulässigkeit der Feststellungsklage
 date: 2017-03-01 00:00:00
 description:

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
 date: 2018-02-13 00:00:00
 description: >-

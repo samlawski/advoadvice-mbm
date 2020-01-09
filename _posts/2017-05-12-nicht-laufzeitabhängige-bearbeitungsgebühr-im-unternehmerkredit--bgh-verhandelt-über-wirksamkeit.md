@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Nicht laufzeitabhängige Bearbeitungsgebühr im Unternehmerkredit- BGH verhandelt über Wirksamkeit
 date: 2017-05-12 00:00:00
 description:

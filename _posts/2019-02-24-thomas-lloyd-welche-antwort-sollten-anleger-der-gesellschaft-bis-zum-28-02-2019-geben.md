@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Thomas Lloyd: Welche Antwort sollten Anleger der Gesellschaft bis zum
   28.02.2019 geben?

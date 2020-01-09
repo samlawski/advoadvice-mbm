@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: SCHUFA-Eintrag nach Identitätsmissbrauch gelöscht
 date: 2018-11-22 00:00:00
 description: Identitätsmissbrauch und SCHUFA-Eintrag

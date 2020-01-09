@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
 date: 2018-11-05 00:00:00
 description: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
