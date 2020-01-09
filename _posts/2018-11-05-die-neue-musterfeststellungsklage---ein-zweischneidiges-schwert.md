@@ -1,7 +1,7 @@
 ---
 title: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
 date: 2018-11-05 00:00:00
-seo_beschreibung: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
+description: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
 layout: post
 feature_bild_path:
 tags:
@@ -19,7 +19,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/justice-2071539-640-1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Euro Treuhand Inkasso löscht Schufa Eintrag
 date: 2018-04-03 00:00:00
-seo_beschreibung: Falschlieferung führt zu negativem Schufa Eintrag
+description: Falschlieferung führt zu negativem Schufa Eintrag
 layout: post
 feature_bild_path:
 tags:
@@ -17,7 +17,7 @@ tags:
   - Nachlieferung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Bestellen von Blumenk&auml;sten in einer bestimmten Farbe kann zum Schufa Eintrag f&uuml;hren. Diese Erfahrung machte eine Kundin aus der Lausitz, welche sich im Jahr 2016 drei massive Pflanzenkasten bestellte. Diese wurden jedoch in der falschen Farbe gesendet. Dies stellte eine klassische Falschlieferung da, welche einen sog. M&auml;ngelgew&auml;hrleistungsanspruch nach sich zieht.

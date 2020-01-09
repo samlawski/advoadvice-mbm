@@ -1,7 +1,7 @@
 ---
 title: Schufa Eintrag der Barclays Bank PLC gelöscht
 date: 2018-05-04 00:00:00
-seo_beschreibung: Schufa Eintrag der Barclays Bank PLC binnen fünf Tagen gelöscht
+description: Schufa Eintrag der Barclays Bank PLC binnen fünf Tagen gelöscht
 layout: post
 feature_bild_path:
 tags:
@@ -20,7 +20,7 @@ tags:
   - Kreditkartenvertrag
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfolg von AdvoAdvice innerhalb von nur fünf Tagen. Eintrag der Barclays Bank PLC bei der Schufa Holding AG gelöscht.

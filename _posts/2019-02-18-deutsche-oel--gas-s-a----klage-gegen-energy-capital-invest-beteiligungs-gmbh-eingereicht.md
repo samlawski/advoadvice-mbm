@@ -3,7 +3,7 @@ title: >-
   Deutsche Oel & Gas S.A. - Klage gegen Energy Capital Invest Beteiligungs GmbH
   eingereicht
 date: 2019-02-18 00:00:00
-seo_beschreibung: >-
+description: >-
   Klage gegen Energy Capital Invest Beteiligungsgesellschaft mbH vor Landgericht
   Stuttgart eingereich
 layout: post
@@ -28,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![](/uploads/dogsa-prospekt-nsv-4.jpg)

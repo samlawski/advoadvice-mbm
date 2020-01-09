@@ -1,7 +1,7 @@
 ---
 title: 'Unsere Experten in der Presse: Widerruf von Lebensversicherungen'
 date: 2016-02-01 12:00:00
-seo_beschreibung:
+description:
 layout: post
 feature_bild_path: /uploads/euro-logo.gif
 tags:
@@ -23,7 +23,7 @@ tags:
 topics:
   - medien
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 
