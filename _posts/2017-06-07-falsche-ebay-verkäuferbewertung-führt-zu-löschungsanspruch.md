@@ -22,7 +22,7 @@ tags:
   - § 280 BGB
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

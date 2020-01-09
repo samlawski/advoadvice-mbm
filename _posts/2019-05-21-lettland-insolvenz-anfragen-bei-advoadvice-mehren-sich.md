@@ -18,7 +18,7 @@ tags:
   - AdvoAdvice
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Vor etwa einem Monat startete AdvoAdvice mit seinen Netzwerkpartnern in Riga ein Angebot f&uuml;r die Insolvenz in Riga / Lettland. Was ist seitdem geschehen?

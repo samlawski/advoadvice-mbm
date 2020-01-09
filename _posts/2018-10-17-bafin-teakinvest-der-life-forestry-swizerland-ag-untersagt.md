@@ -18,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![Teak Plantage - Foto Pixabay](/uploads/teak-plantation-289157-640.jpg "BaFin untersagt Teakinvest")

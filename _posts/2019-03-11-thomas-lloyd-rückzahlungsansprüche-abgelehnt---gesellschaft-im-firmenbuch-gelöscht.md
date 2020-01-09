@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In Sachen Thomas Lloyd Investments GmbH haben die Nachforschungen der Kanzlei AdvoAdvice und bereits mit der Gesellschaft gef&uuml;hrter Schriftwechsel zu neuen Erkenntnissen gef&uuml;hrt.

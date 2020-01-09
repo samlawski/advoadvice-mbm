@@ -19,7 +19,7 @@ tags:
   - AdvoAdvice
 topics:
   - medien
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 

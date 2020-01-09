@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger erstreitet mit Hilfe von AdvoAdvice eine Auszahlung von der Thomas Lloyd Global Asset Management (Schweiz) AG in Höhe von 9.902,12 Euro zzgl. Zinsen.

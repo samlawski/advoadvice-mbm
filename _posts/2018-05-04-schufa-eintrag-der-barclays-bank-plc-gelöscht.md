@@ -20,7 +20,7 @@ tags:
   - Kreditkartenvertrag
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfolg von AdvoAdvice innerhalb von nur fünf Tagen. Eintrag der Barclays Bank PLC bei der Schufa Holding AG gelöscht.

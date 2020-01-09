@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - sonstiges
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Aufgrund der weiterhin niedrigen Zinssätze auf dem Geldmarkt ist der Ansturm auf Immobilien ungebrochen. Trotz der steigenden Immobilienpreise versuchen viele, ihren Traum vom eigenen Haus oder einer Eigentumswohnung zu verwirklichen und suchen händeringend Objekte. Doch der Markt ist leergefegt. Gleiches gilt für gewerbliche oder institutionelle Anleger.

@@ -14,7 +14,7 @@ tags:
   - Datenschutzerklärung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mit dem 25.05.2018 tritt die neue Datenschutzgrundverordnung (kurz DSGVO) europaweit einheitlich in Kraft. Dies kommt, obwohl bereits seit zwei Jahren klar, für viele Unternehmer und Betreiber von Webseiten immer noch überraschend.

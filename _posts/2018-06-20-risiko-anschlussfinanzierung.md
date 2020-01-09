@@ -14,7 +14,7 @@ tags:
   - Anschlussfinanzierung
 topics:
   - bank-und-kapitalmarktrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Anschlussfinanzierungen stellen für Darlehensnehmer oftmals ein großes Risiko dar

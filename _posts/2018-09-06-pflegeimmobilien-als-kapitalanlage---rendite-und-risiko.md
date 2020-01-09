@@ -17,7 +17,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Die Pflegeimmobilie als Renditeobjekt hat sich vom weithin unbeachteten Geheimtipp zum Shooting-Star der neuen Immobilien-Investitionen von Kleinanlegern entwickelt. Was früher nahezu ausschließlich für Großinvestoren und Fondsbetreiber interessant war, wird angesichts der derzeitigen Situation auf dem Geldmarkt auch für jene attraktiv, die sich ohnehin mit dem Erwerb einer fremdvermieteten Eigentumswohnung beschäftigen. 

@@ -16,7 +16,7 @@ tags:
   - erlaubnispflichtig
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Angaben der Bundesanstalt für Finanzdienstleistungsaufsicht ( kurz BaFin) auf deren Webseite unter www.bafin.de hat diese Herrn Johann Mieth, Neubiberg, mit Bescheid vom 16. Februar 2018 aufgegeben, das Einlagengeschäft unverzüglich abzuwickeln.

@@ -8,7 +8,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Landgericht Saarbrücken verurteilt ehemaligen Vorstandsvorsitzenden und ehemalige Aufsichtsräte zu Freiheitsstrafen.

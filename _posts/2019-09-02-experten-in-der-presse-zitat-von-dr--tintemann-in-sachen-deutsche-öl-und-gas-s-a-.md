@@ -22,7 +22,7 @@ tags:
   - Ausgerechnet Alaska
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Unsere Experten in der Presse - Beitrag &uuml;ber die Deutsche Öl und Gas S.A.&nbsp; Nennung und Zitat von Rechtsanwalt Dr. Sven Tintemann von der Kanzlei AdvoAdvice aus Berlin.&nbsp;

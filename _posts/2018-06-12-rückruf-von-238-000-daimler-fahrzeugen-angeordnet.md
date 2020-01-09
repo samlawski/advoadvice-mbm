@@ -23,7 +23,7 @@ tags:
   - Widerruf
 topics:
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Diesel Skandal zieht immer weitere Kreise und führt erneut zum Rückruf von Fahrzeugen, welche nach Auffassung des Bundesverkehrsministers eine unzulässige Abschalteinrichtung beinhalten.

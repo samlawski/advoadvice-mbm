@@ -20,7 +20,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Wir freuen uns über die Veröffentlichung eines Artikel von Michaela Strassmair am 29.03.2018 um18.00 Uhr auf Web.de zum Thema: "Schufa: Was sie macht, was sie weiß und was das für unser tägliches Leben bedeutet."

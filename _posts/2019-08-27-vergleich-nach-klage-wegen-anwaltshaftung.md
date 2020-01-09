@@ -18,7 +18,7 @@ tags:
   - Vergleich
 topics:
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Wie in allen Gebieten des Lebens kommt es auch vor, dass Rechtsanw&auml;lte ihre Arbeit nicht richtig machen. Problematisch bei Anw&auml;lten ist, dass in der Folge eines Fehlers h&auml;ufig viel Geld verloren geht und damit ein hoher wirtschaftlicher Schaden eintritt.&nbsp;

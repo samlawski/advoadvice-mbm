@@ -21,7 +21,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/bank-2907728-640-1.jpg)

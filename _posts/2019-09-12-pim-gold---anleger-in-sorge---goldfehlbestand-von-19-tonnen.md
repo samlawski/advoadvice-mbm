@@ -17,7 +17,7 @@ topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
   - sonstiges
-team_member: Rechtsanwalt-Klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 ![](/uploads/gold-bars-2467833-1920-1.jpg){: width="1920" height="1280"}

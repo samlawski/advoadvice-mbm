@@ -21,7 +21,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - immobilienrecht
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Nach dem Gesetz steht einem Makler die Maklergebühr nur in einem einzigen Fall zu: Wenn die Tätigkeit des Maklers auch zum Abschluss des Miet- oder Kaufvertrags geführt hat.

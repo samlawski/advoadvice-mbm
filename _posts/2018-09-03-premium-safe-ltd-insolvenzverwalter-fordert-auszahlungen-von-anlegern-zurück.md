@@ -23,7 +23,7 @@ tags:
 topics:
   - insolvenzrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Rechtsanwalt Oliver Schartl meldet sich bei Anlegern der Premium Safe Limited als Insolvenzverwalter der Gesellschaft und fordert von diesen bereits von der Gesellschaft an die Anleger gezahlte Auszahlungen zur&uuml;ck.

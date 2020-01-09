@@ -25,7 +25,7 @@ tags:
 topics:
   - versicherungsrecht
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bereits in der ersten Woche nach Einf&uuml;hrung der Datenschutzgrundverordnung kamen bei den AdvoAdvice Rechtsanw&auml;lten die ersten Anfragen Betroffener wegen Datenschutzverst&ouml;&szlig;en und sog. Negativeintr&auml;gen in Auskunfteien. Die Geltendmachung von Verst&ouml;&szlig;en gegen die DSGVO ist in vielen F&auml;llen vom Versicherungsumfang der Rechtsschutzversicherer umfasst, da sich die Anspr&uuml;che zumeist als Schadensersatzanspr&uuml;che qualifizieren lassen.

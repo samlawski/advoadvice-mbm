@@ -16,7 +16,7 @@ tags:
   - Schuldenfrei
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 04.12.2019 findet der 6. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt. Kurz vor Nikolaus besteht hier noch einmal im Jahr 2019 die Möglichkeit, sich zur Neuordnung der eigenen Finanzen &uuml;ber die hierzu in Lettland bestehenden Möglichkeiten zu informieren.&nbsp;

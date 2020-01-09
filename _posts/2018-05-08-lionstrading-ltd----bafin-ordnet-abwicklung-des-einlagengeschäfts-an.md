@@ -20,7 +20,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) hat der Firma Lionstradingclub Ltd. nach Angaben auf ihrer Homepage unter www.bafin.de/dok/10664488 am 13.03.2018 aufgegeben, das Einlagengeschäft einzustellen und abzuwickeln.

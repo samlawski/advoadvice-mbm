@@ -26,7 +26,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mit Datum vom 15.05.2018 hat die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin eine Klage vor dem Landgericht Hamburg für eine Anlegerin der Multi Asset Anspar Plan 3 GmbH & Co. KG eingereicht. Die Klage richtet sich allerdings nicht direkt gegen die Anlagegesellschaft selbst, sondern gegen eine Beratungsgesellschaft aus Mönchengladbach sowie die Gründungsgesellschafter der Multi Asset Anspar Plan 3 GmbH & Co. KG aus Hamburg.

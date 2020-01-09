@@ -21,7 +21,7 @@ tags:
 topics:
   - medien
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Rechtsanwalt Dr. Tintemann - Beitrag vom 14.09.2015 in [portfolio international](http://www.portfolio-international.de/no_cache/newsdetails-print/article/wacklige-klagen-zu-kick-backs-i.html?type=98&amp;tx_ttnews%5BsViewPointer%5D=1&amp;print=1)

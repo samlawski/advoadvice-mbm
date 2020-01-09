@@ -21,7 +21,7 @@ tags:
   - Landgericht Konstanz
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat vor dem LG Konstanz eine Klage gegen die Targo Dienstleistungs GmbH eingericht. Hintergrund war ein Eintrag in den sog. Schufa Fraud Pool.

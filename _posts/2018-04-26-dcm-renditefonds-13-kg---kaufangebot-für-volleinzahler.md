@@ -19,7 +19,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei den Anlegern der Firma DCM Verwaltungs & Co. Renditefonds 13 KG (DCM 13) meldet sich mit Schreiben vom 03.04.2018 angeblich in eigener Sache der Dipl. Kaufmann Arvid Schulze-Sch&ouml;nberg aus Hamburg und unterbreitet den sog. Volleinzahlern ein Kaufangebot.

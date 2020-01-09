@@ -19,7 +19,7 @@ tags:
   - Schufa-Eintrag
 topics:
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

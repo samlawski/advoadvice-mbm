@@ -28,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die LeaseTrend AG hat erneut Anlegern, die Klagen &uuml;ber die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB vor dem LG M&uuml;nchen eingereicht haben, das aus Sicht der Anleger f&auml;llig Auseinandersetzungsguthaben zzgl. Zinsen ausgezahlt.

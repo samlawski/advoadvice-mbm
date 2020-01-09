@@ -17,7 +17,7 @@ tags:
   - Barclays Bank
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ende Oktober diesen Jahres meldete sich ein Mitte 20-j&auml;hriger Student aus Frankfurt am Main bei der Rechtsanwaltskanzlei AdvoAdvice aus Berlin. Dieser hatte kurz zuvor festgestellt, dass die Barclays Bank PLC einen negativen SCHUFA-Eintrag &uuml;ber ihn veranlasst hat. Die Forderung war auf ein Kreditkartenkonto zur&uuml;ckzuf&uuml;hren, welches der Betroffene geringf&uuml;gig &uuml;berzogen hatte.

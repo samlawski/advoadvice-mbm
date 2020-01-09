@@ -7,7 +7,7 @@ feature_bild_path:
 tags:
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author dr-sven-tintemann
 ---
 
 ### € 500.000 Schmerzensgeld f&uuml;r &auml;rztlichen Behandlungsfehler

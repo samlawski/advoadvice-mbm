@@ -22,7 +22,7 @@ tags:
   - nicht tituliert
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die SCHUFA Holding AG ist eine Wirtschaftsauskunftei aus Wiesbaden, welche es sich u.a. zur Aufgabe gemacht hat, die Kreditwürdigkeit von Privatpersonen zu bewerten, mit der Intention, hierdurch schnellere und sicherere Vertragsabschlüsse zu ermöglichen. Dafür musste und muss die SCHUFA eine große Anzahl an Daten sammeln. Neben der Schwierigkeit, dass vor einer Datenübermittlung die entsprechenden Rechtsgrundlagen beachtet werden müssen, bestehen häufig auch Fälle, die zwar zunächst rechtmäßig eingemeldet wurden, jedoch als sog. "Härtefall" keinen Rückschluss auf die Zahlungswilligkeit und -fähigkeit des Betroffenen zulassen.

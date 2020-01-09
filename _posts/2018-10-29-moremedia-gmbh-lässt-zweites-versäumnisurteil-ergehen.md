@@ -19,7 +19,7 @@ tags:
   - Erfolg
   - Oberle Geothermik GmbH
 topics:
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Vor dem Landgericht Berlin fand heute, am 29.10.2018 um 12.00 Uhr die zweite m&uuml;ndliche Hauptverhandlung gegen die MoreMedia GmbH aus Berlin statt. Diese firmierte zuvor unter der besser bekannten Firma Oberle Geothermik GmbH.

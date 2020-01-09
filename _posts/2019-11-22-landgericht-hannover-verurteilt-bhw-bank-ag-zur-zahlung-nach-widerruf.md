@@ -16,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bankkunde klagt erfolgreich vor dem Landgericht Hannover auf R&uuml;ckzahlung nach Widerruf von Darlehensvertr&auml;gen.

@@ -24,7 +24,7 @@ tags:
   - Strafrecht
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Wer ein Insolvenzverfahren einleitet, der möchte am Ende dieses Verfahrens als Privatperson natürlich sicher sein, dass für ihn am Ende des Verfahrens auch die Befreiung von Schulden durch Erteilung der Restschuldbefreiung herauskommt.

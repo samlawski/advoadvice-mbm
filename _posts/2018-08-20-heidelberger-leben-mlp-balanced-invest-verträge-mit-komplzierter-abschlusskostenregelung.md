@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Riester Vertr&auml;ge waren vor einigen Jahre noch schwer in Mode. Heute ist das nur noch teilweise der Fall, wenn es sich f&uuml;r die betroffenen Sparer wirklich noch aufgrund stattlicher Zusch&uuml;sse lohne, dort Gelder f&uuml;rs Alter zu sparen. Mit gro&szlig;artigen Zinsen muss man hier sicherlich nicht mehr rechnen.&nbsp;

@@ -16,7 +16,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat für eine Anlegerin aus München Klage gegen die Butlers GmbH & Co. KG aus Köln vor dem Landgericht Köln eingereicht.

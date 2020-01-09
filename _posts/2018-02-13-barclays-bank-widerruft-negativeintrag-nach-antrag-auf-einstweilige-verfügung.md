@@ -20,7 +20,7 @@ tags:
   - Kredit
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Barclays Bank PLC hat nach einem Antrag auf Erlass einer einstweiligen Verfügung beim Landgericht Hamburg durch die Kanzlei AdvoAdvice Rechtsanwälte mbB einen Schufa-Negativeintrag widerrufen.

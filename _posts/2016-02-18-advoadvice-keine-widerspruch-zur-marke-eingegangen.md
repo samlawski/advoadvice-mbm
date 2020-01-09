@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["AdvoAdvice", "Marke", "Widerspruch", "Markengesetz", "Wortmarke", "Bildmarke", "Patentamt", "Markenamt"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Erfreuliche Nachricht für AdvoAdvice Rechtsanwälte mbB.
