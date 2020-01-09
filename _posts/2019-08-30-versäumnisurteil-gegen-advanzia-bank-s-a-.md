@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Versäumnisurteil gegen Advanzia Bank S.A.
 date: 2019-08-30 00:00:00
 description: >-

@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Barclays Bank: Vergleich vor Landgericht Hamburg nach Antrag auf einstweilige
   Verfügung

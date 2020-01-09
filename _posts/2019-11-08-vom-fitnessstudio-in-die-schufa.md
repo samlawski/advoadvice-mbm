@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Vom Fitnessstudio in die SCHUFA
 date: 2019-11-08 00:00:00
 description: Schufa löscht Eintrag aus Vertrag mit Fitnessstudio

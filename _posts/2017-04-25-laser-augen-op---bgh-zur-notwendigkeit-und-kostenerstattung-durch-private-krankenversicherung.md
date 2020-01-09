@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Laser-Augen-OP - BGH zur Notwendigkeit und Kostenerstattung durch Private Krankenversicherung
 date: 2017-04-25 00:00:00
 description:

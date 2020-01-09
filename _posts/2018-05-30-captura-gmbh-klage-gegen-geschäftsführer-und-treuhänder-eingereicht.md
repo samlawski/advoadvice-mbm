@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Captura GmbH: Klage gegen Geschäftsführer und Treuhänder eingereicht'
 date: 2018-05-30 00:00:00
 description: Klage gegen Geschäftsführer und Treuhänder der Captura GmbH eingereicht

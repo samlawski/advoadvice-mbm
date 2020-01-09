@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: "ALAG Auto-Mobil GmbH & Co. KG unterliegt vor Pfälzischem Oberlandesgericht Zweibrücken"
 date: 2016-08-12 02:30:00 -0500
 description:

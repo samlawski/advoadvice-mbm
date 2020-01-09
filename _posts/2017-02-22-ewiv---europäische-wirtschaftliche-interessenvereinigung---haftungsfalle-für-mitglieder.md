@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: EWIV - Europäische Wirtschaftliche Interessenvereinigung - Haftungsfalle für Mitglieder?
 date: 2017-02-22 00:00:00
 description:

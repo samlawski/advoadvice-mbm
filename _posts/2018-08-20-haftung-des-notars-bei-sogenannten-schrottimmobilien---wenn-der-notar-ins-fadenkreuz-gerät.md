@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   Haftung des Notars bei sogenannten „Schrottimmobilien" - wenn der Notar ins
   Fadenkreuz gerät

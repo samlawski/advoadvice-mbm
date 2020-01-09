@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: Air Berlin Insolvenz - Droht Anlegern in Anleihen jetzt Totalverlust?
 date: 2017-08-22 00:00:00
 description: Air Berlin Insolvenz - Anleihen mit Totalverlustrisiko behaftet

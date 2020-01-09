@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Metropolitan Estates - 32% Rückzahlung angekündigt'
 date: 2016-10-31 00:00:00
 description:

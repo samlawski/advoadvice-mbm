@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'Schufa-Recht: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch noch Erfolg gegen die Santander Consumer Bank AG'
 date: 2016-06-21 12:00:00
 description:

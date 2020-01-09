@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: 'DSK Leasing: Treuhänderin warnt Anleger vor Zahlung an DSK Leasing Verwaltung GmbH i.L.'
 date: 2017-07-07 00:00:00
 description:

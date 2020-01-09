@@ -1,4 +1,7 @@
 ---
+_options:
+  layout:
+    hidden: true
 title: >-
   LG Lübeck verurteilt Google - Unberechtigte 1-Sterne-Bewertung darf nicht
   angezeigt werden
