@@ -23,7 +23,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Rechtsanwalt Olaf Spiekermann verklagt als Insolvenzverwalter der Immobilienfonds Neue Bundesländer No. 3 GdbR deren ehemalige Anleger auf anteilige Rückzahlung von bei der Sparkasse Vorderpfalz aufgenommener Darlehen.

@@ -17,7 +17,7 @@ tags:
   - Einstweilige Verfügung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Barclays Bank PLC hat einen negativen Schufa Eintrag nach einem gerichtlichen Vergleich zur Löschung gebracht. Der Fall hatte für den Betroffenen eine besondere Brisanz, da seine Arbeitsstelle durch den negativen Eintrag in Gefahr gebracht wurde. Der Eintrag wurde durch die Barclays Bank PLC am 23.08.2017 über mehr als 7.000,00 Euro eingemeldet.

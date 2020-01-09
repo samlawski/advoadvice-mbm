@@ -15,7 +15,7 @@ tags:
 topics:
   - insolvenzrecht
   - sonstiges
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

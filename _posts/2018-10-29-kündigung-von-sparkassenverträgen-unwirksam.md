@@ -21,7 +21,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Nach Angaben des Inforadio vom heutigen Tag sollen in Brandenburg tausende Sparkassenkunden von zweifelhaften Kündigungen ihrer Sparverträge Verträge betroffen sein.

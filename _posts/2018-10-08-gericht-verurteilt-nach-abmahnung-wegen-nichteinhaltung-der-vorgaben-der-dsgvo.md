@@ -16,7 +16,7 @@ tags:
   - Informationspflichten
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![](/uploads/dsgvo-3446011-1920-5.jpg)

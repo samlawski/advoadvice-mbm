@@ -22,7 +22,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Landgericht Görlitz hat gegen die CT Infrasturcture Holding Ltd. ein Vers&auml;umnisurteil erlassen. Das Urteil erging am 18.09.2019 im schriftlichen Verfahren.&nbsp;

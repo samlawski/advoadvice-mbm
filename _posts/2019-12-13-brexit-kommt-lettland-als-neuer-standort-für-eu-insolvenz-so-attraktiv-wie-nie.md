@@ -23,7 +23,7 @@ tags:
   - Schuldenschnitt
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ### Brexit steht wahrscheinlich unmittelbar bevor

@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["airbnb", "Mietrecht", "Kündigung", "Wohnraum", "Berlin", "Untervermietung", "AdvoAdvice"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 „airbnb“ ist ein 2008 im kalifornischen Silicon Valley gegründeter Community-Marktplatz für Buchung und Vermietung von Unterkünften. Dies funktioniert ähnlich einem Computerreservierungssystem für Hotelzimmer. „Weltweit Zuhause“ heißt es auf der Webseite, denn in über 34.000 Städten inserieren Menschen über diese Plattform Unterkünfte, insbesondere für Touristen. Die Gesamtzahl der Gäste, die über diese Plattform buchen, soll bei über 60 Millionen liegen. Bietet ein Mieter seine Mietwohnung jedoch über „airbnb“ Touristen zur Nutzung an und vermietet sie auch, ohne zuvor beim Vermieter eine Erlaubnis zur Gebrauchsüberlassung einzuholen, so verletzt er dadurch in erheblichem Maße die Rechte des Vermieters. Das Landgericht Berlin hat mit Beschluss vom 03.02.2015 zum Az. 67 T 29/15 daher entschieden, dass dies eine außerordentliche Kündigung des Mietverhältnisses gemäß § 543 Abs. 1 Bürgerliches Gesetzbuch (BGB) rechtfertige und damit dem Vermieter einen Räumungsanspruch nach fristloser Kündigung zustehe.

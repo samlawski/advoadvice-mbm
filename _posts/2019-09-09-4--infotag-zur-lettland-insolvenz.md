@@ -21,7 +21,7 @@ tags:
   - Wohnsitz
 topics:
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Am 27.09.2019 findet der 4. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt.

@@ -20,7 +20,7 @@ tags:
   - BaFin
   - grundbuchliche Besicherung
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

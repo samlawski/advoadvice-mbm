@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Widerruf", "Widerrufs-Joker", "Ende", "Ewigkeit", "Gesetzgeber", "beschränkt", "Widerrufsrecht", "Immobiliendarlehen", "Widerrufsbelehrung", "Vorfälligkeit", "Klage", "Verjährung", "21.06.2016", "Rechtsmissbrauch", "enge Grenzen", "BGH", "VIII ZR 146/15"]
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
  **Gesetzgeber beschränkt Widerrufsmöglichkeit bei Immobiliendarlehensverträgen – Verjährungsfrist nun auch für den Widerruf – Stärkung der Verbraucherrechte**

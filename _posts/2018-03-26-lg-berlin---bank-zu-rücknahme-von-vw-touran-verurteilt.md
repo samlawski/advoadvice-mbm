@@ -18,7 +18,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ### Landgericht Berlin - Widerruf einer Kfz Finanzierung erfolgreich

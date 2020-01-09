@@ -6,7 +6,7 @@ layout: post
 feature_bild_path: ""
 tags: ["Widerruf", "Widerrufs-Joker", "Bundesgerichtshof", "Darlehensvertrag", "Darlehensverträge", "Rechtsmissbrauch", "BGH", "Entscheidung", "Ausübung", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice", "VIII ZR 146/15"]
 topics: []
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 Widerruf von Verträgen ohne Rücksicht auf die Beweggründe des Verbrauchers möglich – Bundesgerichtshof (BGH) stärkt Verbraucherrechte.

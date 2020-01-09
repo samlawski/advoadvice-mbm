@@ -19,7 +19,7 @@ tags:
   - "ISIN DE000A1ML257"
   - Gustav Zeck Stiftung
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

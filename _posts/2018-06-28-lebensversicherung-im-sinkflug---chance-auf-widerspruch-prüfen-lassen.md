@@ -18,7 +18,7 @@ tags:
   - Rückzahlung
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die BILD berichtet heute online, dass nach ihren Recherchen 34 Anbietern von Lebensversicherung finanzielle Probleme drohen. Dies soll nach Angaben der Zeitung mit dem dauerhaften Zinstief zusammenh&auml;ngen, welches es den Anbietern immer schwerer mache, hohe Zinsen f&uuml;r ihre Kunden und die zugesagten Garantien zu erwirtschaften. Es wird daher mit dem Titel aufgemacht: "Soll ich meine Police jetzt k&uuml;ndigen?"

@@ -20,9 +20,9 @@ layout: page
           {% endfor %}
         </div>
       {% endif %}
-      {% assign team_member_id = "/team_members/" | append: page.team_member %}
-      {% assign team_member = site.team_members | where: "id", team_member_id | first %}
-      <small>- {{page.date | date: "%d. %B %Y" }} :: {{ team_member.name }}</small>
+      {% assign author_id = "/authors/" | append: page.author %}
+      {% assign author = site.authors | where: "id", author_id | first %}
+      <small>- {{page.date | date: "%d. %B %Y" }} :: {{ author.name }}</small>
     </article>
 
     {% include related_posts.html %} 

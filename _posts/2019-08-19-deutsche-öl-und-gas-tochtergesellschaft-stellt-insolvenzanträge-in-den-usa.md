@@ -17,7 +17,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ### Deutsche Öl und S.A. informiert Anleger &uuml;ber Insolvenzantrag der DOGSA Tochter Furie Operating Alaska, LLC. und geplanten Verkauf

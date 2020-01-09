@@ -15,7 +15,7 @@ tags:
   - Persönlichkeitsrecht
 topics:
   - bewertung-löschen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 ![Landgericht München I - Foto Pixabay](/uploads/lg-münchen-i-1.jpg "Landgericht München I verurteilt Google")

@@ -17,7 +17,7 @@ tags:
   - Amtsgericht Königs Wusterhausen
   - Amtsgericht Arnstadt
 topics: []
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

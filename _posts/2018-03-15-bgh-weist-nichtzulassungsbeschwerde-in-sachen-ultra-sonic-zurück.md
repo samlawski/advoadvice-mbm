@@ -8,7 +8,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Bundesgerichtshof hat eine Nichtzulassungsbeschwerde von Michael Oberle und Friedrich Winter gegen eine Entscheidung des OLG Stuttgart, in welchem diese vom Schadensersatz verurteilt worden waren, mit Beschluss vom 27.02.2018 zum Az. VI ZR 513/16 zurückgewiesen.

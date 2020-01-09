@@ -22,7 +22,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - insolvenzrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Anleger der Erste Oderfelder Beteiligungsgesellschaft mbH & Co. KG sollen Zinsen und Anlagebetrag an Insolvenzverwalter Scheffler zur&uuml;ckerstatten.&nbsp;

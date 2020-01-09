@@ -17,7 +17,7 @@ tags:
   - Prozesserfolg
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Überraschungserfolg für die Kanzlei AdvoAdvice Rechtsanwälte mbB vor dem Landgericht München I. Dort hatte die Kanzlei aus Berlin für einen ehemaligen SAM AG Anleger Schadensersatzansprüche aus abgetretenem Recht eines Rechtsanwalt aus der Nähe von Stuttgart gegen dessen Haftpflichtversicherer, die Generali Versicherung AG aus München eingeklagt.

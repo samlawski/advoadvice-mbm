@@ -18,7 +18,7 @@ tags:
   - Eurotreuhand Inkasso GmbH
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice konnte erneut einem Mandanten zum Widerruf von Negativeinträgen in Auskunfteien verhelfen. So wurde erreicht, dass die Eurotreuhand Inkasso GmbH Negativeinträge über eine durch AdvoAdvice vertretene Berliner Mandantin bei der Schufa Holding AG und einer weiteren Auskunftei, der I. GmbH, kurzfristig widerrufen hat.

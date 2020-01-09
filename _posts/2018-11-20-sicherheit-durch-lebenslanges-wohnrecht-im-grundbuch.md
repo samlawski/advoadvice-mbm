@@ -19,7 +19,7 @@ tags:
 topics:
   - immobilienrecht
   - anlegerschutz
-team_member: kim-oliver-klevenhagen
+author: kim-oliver-klevenhagen
 ---
 
 #### ![](/uploads/balcony-plants-357702-640.jpg)

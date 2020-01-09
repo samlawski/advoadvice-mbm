@@ -28,7 +28,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die EU-27 und England verschieben den Brexit, mal wieder k&ouml;nnte man entnervt denken.

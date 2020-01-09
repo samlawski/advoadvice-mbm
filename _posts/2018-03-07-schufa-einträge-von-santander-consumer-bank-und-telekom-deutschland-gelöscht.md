@@ -18,7 +18,7 @@ tags:
   - Santander Consumer Bank AG
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Vor einigen Wochen wandte sich ein Mann aus M&uuml;nchen an die Kanzlei AdvoAdvice. Dieser stellte fest, dass zu seinen Lasten ein negativer Schufa Eintrag der Santander Bank Zweigniederlassung der Santander Consumer Bank AG und ein zweiter Eintrag der Telekom Deutschland GmbH Sparte t-mobile vermerkt war. Die Eintr&auml;ge wurden im Jahr 2013 bzw. 2014 eingemeldet.

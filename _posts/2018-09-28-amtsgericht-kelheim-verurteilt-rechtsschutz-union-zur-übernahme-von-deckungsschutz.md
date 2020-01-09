@@ -20,7 +20,7 @@ tags:
   - Kostenübernahme
 topics:
   - versicherungsrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Das Amtsgericht Kelheim hat am 25.09.2018 erstinstanzlich die Rechtsschutz Union zur Übernahme des Deckungsschutzes in einer SAM Angelegenheit verurteilt. Konkret wurde durch das Gericht festgestellt, dass die Rechtsschutz Union verpflichtet ist, die Kosten für den Vergleichsabschluss in der mündlichen Verhandlung vom 18.12.2017 unter Berücksichtigung eines Streitwertes in Höhe von 14.171,35 Euro zu übernehmen.

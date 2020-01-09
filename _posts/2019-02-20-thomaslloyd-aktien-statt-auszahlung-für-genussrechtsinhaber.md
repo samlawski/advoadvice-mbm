@@ -15,7 +15,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte aus Berlin melden sich in den letzten Tagen mehrere verunsicherte Anleger der Thomas Lloyd. Diese haben Angst um ihr Geld.

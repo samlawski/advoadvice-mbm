@@ -19,7 +19,7 @@ tags:
   - Zustellung
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Kanzlei AdvoAdvice hat mit der Synergie Inkasso GmbH vor dem Amtsgericht Pforzheim einen Vergleich &uuml;ber die L&ouml;schung eines negativen Schufa-Eintrags geschlossen. Eine parallel vor dem Landgericht Berlin gef&uuml;hrte Klage wurde danach zur&uuml;ckgenommen.

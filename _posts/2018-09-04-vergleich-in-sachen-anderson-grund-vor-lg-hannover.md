@@ -18,7 +18,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In Sachen Anderson Grund konnte die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin vor dem Landgericht Hannover einen sehr positiven Vergleich für einen ehemaligen Anleger abschließen. Die damals tätige Beratungsfirma D. GmbH aus Hannover verplichtete sich zur Zahlung von 11.500 Euro und übernahme 3/4 der Kosten des Rechtsstreits und des Vergleichs.

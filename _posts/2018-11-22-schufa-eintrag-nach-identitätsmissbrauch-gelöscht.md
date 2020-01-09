@@ -16,7 +16,7 @@ tags:
   - DSGVO
 topics:
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 In den Medien wird immer wieder &uuml;ber Datenschutzvorf&auml;lle und Identit&auml;tsdiebst&auml;hle berichtet. Neben den unmittelbar folgenden Schwierigkeiten, dass man beispielsweise zum Ausgleich von Rechnungen aufgefordert wird, schleichen sich dar&uuml;ber manchmal auch l&auml;ngerfristige Folgen ein. So ist es einem Mann aus Berlin geschehen, dem durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB nunmehr kurzfristig geholfen werden konnte.

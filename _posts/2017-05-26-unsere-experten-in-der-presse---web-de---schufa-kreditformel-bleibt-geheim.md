@@ -21,7 +21,7 @@ tags:
   - VI ZR 156/13
 topics:
   - medien
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 

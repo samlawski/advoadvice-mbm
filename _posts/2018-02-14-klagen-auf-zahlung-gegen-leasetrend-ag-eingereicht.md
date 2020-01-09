@@ -20,7 +20,7 @@ tags:
 topics:
   - bank-und-kapitalmarktrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Ehemalige Anleger der LeaseTrend AG haben seit Beginn des Monats Februar bereits vier Klagen durch die Kanzlei AdvoAdvice aus Berlin gegen die Anlagegesellschaft bei dem zuständigen Landgericht München I eingereicht.

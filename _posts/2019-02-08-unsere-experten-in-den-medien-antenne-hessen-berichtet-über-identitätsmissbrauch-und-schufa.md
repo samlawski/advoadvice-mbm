@@ -18,7 +18,7 @@ tags:
 topics:
   - medien
   - datenschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Der Radiosender Antenne Hessen berichtet in einem Online-Beitrag vom 05.02.2019 unter der Überschrift "Wie die Schufa über Dein Leben entscheidet" über einen Fall eines 27 jährigen Mandanten der Kanzlei AdvoAdvice, der Opfer eines Identitätsmissbrauchs geworden ist.

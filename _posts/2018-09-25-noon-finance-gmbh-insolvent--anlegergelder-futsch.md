@@ -20,7 +20,7 @@ tags:
 topics:
   - insolvenzrecht
   - anlegerschutz
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) teilt im Internet mit, dass die Firma Noon Finance GmbH Insolvenz angemeldet hat. Dies wurde über die Seiten der BaFin unter https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Anlage/180924\_anlage\_meldung\_noon\_finance\_gmbh.html?nn=9021442 veröffentlicht.

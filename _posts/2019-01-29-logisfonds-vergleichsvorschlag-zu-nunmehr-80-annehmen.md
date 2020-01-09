@@ -23,7 +23,7 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarktrecht
   - widerruf-verbraucherdarlehen
-team_member: dr-sven-tintemann
+author: dr-sven-tintemann
 ---
 
 Mit Schreiben vom 22.01.2019 meldet sich erneut die Rechtsanwaltskanzlei NBS Partners aus Hamburg bei den Anlegern der LogisFonds I GmbH und bietet diesmal anstatt der bisher angebotenen Abfindungssumme in H&ouml;he von 65% eine Abfindungssumme in H&ouml;he von 80% f&uuml;r die betroffenen Anleger der LogisFonds I GmbH an.
