@@ -1,0 +1,100 @@
+/*
+- General
+- Typography
+- Forms
+- Buttons
+*/
+
+// General
+* { box-sizing: border-box; }
+
+// Typography
+
+body {
+  font-family: $font-family--text;
+  font-size: $font-size;
+  color: $clr-text;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: $clr-primary;
+  transition: text-decoration .3s;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+b, strong { font-weight: 700; }
+em { font-style: italic; }
+small { font-size: 0.7rem; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family--title;
+  font-weight: 700;
+}
+h1 {
+  font-size: 2rem;
+  line-height: 1.1;
+
+  @media(min-width: $media-sm) { font-size: 3rem; }
+  @media(min-width: $media-md) { font-size: 4rem; }
+}
+
+h2 {
+  font-size: 1.7rem;
+  font-weight: 400;
+
+  @media(min-width: $media-sm) { font-size: 2rem; }
+  @media(min-width: $media-md) { font-size: 3rem; }
+}
+h3 {
+  font-size: 1.3rem;
+
+  @media(min-width: $media-sm) { font-size: 1.5rem; }
+  @media(min-width: $media-md) { font-size: 2rem; }
+}
+
+// Forms
+
+input,
+textarea {
+  background-color: transparent;
+  border: 1px solid $clr-transparent-bl-7;
+  padding: 8px;
+  outline: none;
+
+  font-size: $font-size;
+  font-family: $font-family--text;
+
+  transition: border-color $transition-time-1;
+
+  &:active,
+  &:focus {
+    border-color: $clr-highlight-2;
+  }
+}
+
+// Buttons
+
+[type="submit"],
+button {
+  font-size: $font-size;
+  font-family: $font-family--text;
+  color: $clr-text;
+  border: 2px solid $clr-text;
+  outline: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 3px;
+
+  background-color: transparent;
+  transition: border-color $transition-time-1, color $transition-time-1;
+
+  &:hover {
+    border-color: $clr-transparent-bl-7;
+    color: $clr-transparent-bl-7;
+  }
+}
