@@ -3,41 +3,36 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// Constants
+$clr-primary:             #244c5a;
+$clr-secondary:           #7ba7bc;
+$clr-text:                #081114;
+$clr-highlight:           #A80874;
+$clr-highlight-2:         #B7FDFE;
 
-$spacing-unit:     30px;
+$clr-bg:                  white;
+$clr-transparent-wh-1:    rgba(255,255,255,0.1);
+$clr-transparent-bl-7:    rgba(0,0,0,0.7);
+ 
+$font-family--text:       'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif;      
+$font-family--title:      'Playfair Display', "Georgia", serif;
+$font-size:               16px;
+ 
+$media-sm:                600px;
+$media-md:                800px;
+$media-lg:                1000px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$transition-time-1:       .3s;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
+// $spacing-1:               5px;
+// $spacing-2:               10px;
+// $spacing-3:               15px;
+// $spacing-4:               30px;
+// $spacing-5:               60px;
 
 @import
   "reset",
-  "typography",
   "helpers",
   "global",
   "pages"
 ;
-
-// @import
-//   "layout",
-//   "schufa_beratung",
-//   "landing",
-//   "topic",
-//   "loader"
-// ;
