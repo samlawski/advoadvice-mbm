@@ -4,10 +4,18 @@ _options:
     hidden: true
 title: 8. Informationstag zur Lettland Insolvenz in Berlin
 date: 2020-01-13 00:00:00
-description:
+description: 8. Informationstag zur Insolvenz in Lettland in Berlin
 layout: post
 feature_bild_path:
 tags:
+  - Insolvenz
+  - Lettland
+  - Riga
+  - Restschuldbefreiung
+  - Kanzlei
+  - EU-Insolvenz
+  - Formular
+  - Informationstag
 topics:
   - insolvenzrecht
 author: dr-sven-tintemann
