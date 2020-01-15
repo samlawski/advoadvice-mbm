@@ -2,128 +2,89 @@
 _options:
   layout:
     hidden: true
+  style_id:
+    hidden: true
 layout: default
+style_id: home
 hintergrund_bild_path: /uploads/images/title-min.jpg
 description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
 ---
 
-{% include header.html %}
-
-<!-- HEADER  -->
-<section class="image-bg" style="background-image: url('{{ page.hintergrund_bild_path }}');">
-  <h3 class="editable" href="/#kontakt">
-    "Kompetente Rechtsberatung, der Sie vertrauen k&ouml;nnen!"
-  </h3>
-  <div id="kennenlernen">
-    <a href="#team" class="a-scroll cta">
-      <span class="glyphicon glyphicon-menu-down hidden-xs" aria-hidden="true"></span>
-      <span class="editable" href="/#kontakt">Lernen Sie uns kennen</span>
-      <span class="glyphicon glyphicon-menu-down hidden-xs" aria-hidden="true"></span>
-    </a>
+<header>
+  <div class="header__text">
+    <h1>Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
+    <h3>Kompotente Rechtsberatung mit langjähriger Erfahrung und hoher Erfolgsquote.</h3>
   </div>
-</section>
+  <div class="header__image">
+    <div class="header__image__bg"></div>
+    <!-- TODO Reduce size -->
+    <img src="/uploads/advoadvice-01-59-von-80-2.jpg" alt="AdvoAdvice Büro">
+  </div>
+</header>
 
-<!-- TEAM -->
-<main class="container">
-  <section id="team" class="row">
-    <h1 class="padding-20 editable" href="/#kontakt">
-      Das Team
-    </h1>
-    {% assign members = site.authors | sort: 'reihenfolge' %}
-    {% for member in members %}
-      <div class="col-sm-6">
-        <div class="margin-20 row team-box">
-          <div class="col-sm-12 col-md-6">
-            <img src="{{ member.portrait_path }}" alt="{{member.name}}" class="img-responsive" />
-          </div><!-- /col -->
-          <div class="col-sm-12 col-md-6">
-            <h4>{{ member.name }}</h4>
-            <p>
-              {{member.content}}
-            </p>
-            <ul>
-              {% for topic in member.themes %}
-                <li><a href="{{topic.link}}">{{topic.titel}}</a></li>
-              {% endfor %}
-            </ul>
-            <p>
-              <a href="mailto:{{member.email}}">{{member.email}}</a>
-            </p>
-          </div><!-- /col -->
-        </div><!-- /row -->
-      </div><!-- /col -->
-    {% endfor %}
-  </section>
+<main>
+  <section>in der Presse ... Logos</section>
 
-  <!-- DETAILS & FORMULARE -->
-  <section id="formulare" class="second-bg padding-20">
-    <h1 class="editable" href="/#kontakt">
-      ADVOADVICE - kompetenter Ratschlag von erfahrenen Rechtsanw&auml;lten
-    </h1>
-    <div class="editable" href="/#kontakt">
-      <p>Von einem Rechtsanwalt erwarten Sie vor allem zwei Dinge:</p>
-      <ul>
-        <li>faire Beratung</li>
-        <li>kompetente Expertise</li>
-      </ul>
-      <p>Rufen Sie uns an oder kontaktieren Sie uns per Mail.</p>
-      <p>Bitte halten Sie daf&uuml;r ihre Unterlagen bereit.</p>
-      <p>Unsere Experten pr&uuml;fen dann anhand ihrer Angaben, was f&uuml;r Sie das Beste ist und geben Ihnen z&uuml;gig eine R&uuml;ckmeldung.</p>
-      <p>Nach einem ersten Kontakt kann in der Regel schon gesagt werden, ob das Einschalten eines Rechtsanwalts sinnvoll ist.</p>
-      <p>Ihr Rechtsanwalt wird mit Ihnen dann das weitere Vorgehen besprechen.</p>
+  <section id="themen">
+    <div>
+      <p>Unsere Themen ...</p>
+  
+      <!-- TODO: Landing page: <h2>Schufa-Einträge löschen und Score verbessern</h2> -->
+      <h2>Schufa- & Datenschutzrecht</h2>
+      <p>Ob Sie einen Kredit nicht erhalten oder eine Wohnung nicht beziehen können liegt häufig an schelchten Schufa-Scores. Wir können Ihnen helfen, Ihren Score zu verbessern und Negativeinträge zu löschen.</p>
+  
+      <!-- TODO: Landing page: <h2>Sicher durch die Insolvenz</h2> -->
+      <h2>Insolvenzrecht</h2>
+      <p>Wir beraten Sie gerne im Falle einer Insolvenz. Bei uns erhalten Sie Beratung und Unterstützung durch die Insolvenz alles aus einer Hand - dank unseres Partners aus Lettland.</p>
+  
+      <!-- TODO: Landing page: <h2>Falschberatung Kapitalanlagen anfechten</h2> -->
+      <h2>Bank- und Kapitalmarktrecht</h2>
+      <p>Wurden Sie falsch beraten und/oder haben bei einer Kapitalanlage viel Geld verloren? Möglicherweise besteht ein Klagegrund. Wir helfen Ihnen gerne dies herauszufinden.</p>
+      
+      <!-- TODO: Landing page: <h2>Beratung zu Immobilien</h2> -->
+      <h2>Immobilien- & Mietrecht</h2>
+      <p>Wir bieten Ihnen professionelle, anwaltliche Beratung zur Verwaltung Ihrer Immobilien.</p>
     </div>
-    <p class="text-center margin-20">
-      <a href="#kontakt" class="a-scroll cta editable">Vereinbaren Sie einen Rückruftermin</a>
-    </p>
-    <p class="text-center">
-      <a href="#formular" data-toggle="modal" data-target="#myModal" class="btn btn-lg btn-second editable">Download Formulare</a>
-    </p>
+  
+    <div>
+      <h3>Versicherungsrecht</h3>
+      <h3>Suchergebnisse und Bewertungen löschen</h3>
+      <h3>Darlehenswiderruf</h3>
+    </div>
   </section>
 
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title editable" id="myModalLabel" href="#formular">
-            Download Formulare
-          </h4>
-        </div><!-- /modal header -->
-        <div class="modal-body">
-          <ul>
-            {% for formular in site.data.formulare %}
-              <li><a href="{{ formular.datei_path }}" target="_blank">{{formular.title}}</a></li>
-            {% endfor %}
-          </ul>
-
-        </div><!-- /modal body -->
-        <div class="modal-footer">
-          <small class="editable" href="#formular">Alle Dokumente sind PDF-Format gespeichert und können mit dem <a href="http://www.adobe.com/de/">Acrobat Reader</a> geöffnet werden.</small>
-        </div><!-- /modal footer -->
-      </div><!-- /modal content -->
-    </div><!-- /modal dialog -->
-  </div><!-- /modal -->
-
-  <!-- BLOG -->
-  <section id="blog" class="padding-20">
-    <h1 class="editable" href="#formular">
-      Neues im Blog
-    </h1>
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <li class="blog-post">
-            <h4>{{post.title}}</h4>
-            <small>- {{ post.date | date: "%d. %B %Y" }}</small>
-          </li>
-        </a>
-      {% endfor %}
-      <a href="{{ "/blog" | prepend: site.baseurl }}">
-        <li class="blog-post editable" href="#formular">Archiv ...</li>
-      </a>
-    </ul>
+  <section id="kontakt--1">
+    <p>Kontaktieren Sie uns noch jetzt und machen Sie einen Rückruftermin aus.</p>
+    <form action="">
+      <input type="text" placeholder="Name">
+      <input type="text" placeholder="email">
+      <select name="" id="">
+        <option value="anliegen-1"></option>
+      </select>
+      <textarea name="" id="" cols="30" rows="10">Ihr Anliegen ...</textarea>
+      <input type="submit">
+    </form>
   </section>
+
+  <section id="anwaelte">
+    
+  </section>
+
+  <section></section>
+
 </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
