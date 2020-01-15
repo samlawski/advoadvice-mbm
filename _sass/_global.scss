@@ -81,7 +81,8 @@ h6, .h6 {
 input,
 textarea {
   background-color: transparent;
-  border: 1px solid $clr-transparent-bl-7;
+  border: none;
+  border-bottom: 1px solid $clr-transparent-bl-7;
   padding: 8px;
   outline: none;
 
@@ -94,6 +95,9 @@ textarea {
   &:focus {
     border-color: $clr-highlight-2;
   }
+}
+[type="checkbox"] {
+  display: inline-block;
 }
 
 // Buttons
@@ -117,6 +121,6 @@ button,
     border-color: $clr-transparent-bl-7;
     color: $clr-transparent-bl-7;
     text-decoration: none;
-    box-shadow: $shadow;
+    // box-shadow: $shadow;
   }
 }
