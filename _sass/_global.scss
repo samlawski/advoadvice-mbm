@@ -99,7 +99,8 @@ textarea {
 // Buttons
 
 [type="submit"],
-button {
+button,
+.button {
   font-size: $font-size;
   font-family: $font-family--text;
   color: $clr-text;
@@ -110,10 +111,12 @@ button {
   border-radius: 3px;
 
   background-color: transparent;
-  transition: border-color $transition-time-1, color $transition-time-1;
+  transition: border-color $transition-time-1, color $transition-time-1, box-shadow $transition-time-1;
 
   &:hover {
     border-color: $clr-transparent-bl-7;
     color: $clr-transparent-bl-7;
+    text-decoration: none;
+    box-shadow: $shadow;
   }
 }
