@@ -62,25 +62,42 @@ description: >-
     <hr>
 
     <div class="themen__neben">
-      <a href="#"><h3 class="h4">Versicherungsrecht</h3></a>
+      <a href="#"><h3 class="h5">Versicherungsrecht</h3></a>
       <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
-      <a href="#"><h3 class="h4">Suchergebnisse und Bewertungen löschen</h3></a>
+      <a href="#"><h3 class="h5">Suchergebnisse und Bewertungen löschen</h3></a>
       <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
-      <a href="#"><h3 class="h4">Darlehenswiderruf</h3></a>
+      <a href="#"><h3 class="h5">Darlehenswiderruf</h3></a>
     </div>
   </section>
 
-  <section id="kontakt--1">
-    <p>Kontaktieren Sie uns noch jetzt und machen Sie einen Rückruftermin aus.</p>
-    <form action="">
-      <input type="text" placeholder="Name">
-      <input type="text" placeholder="email">
-      <select name="" id="">
-        <option value="anliegen-1"></option>
-      </select>
-      <textarea name="" id="" cols="30" rows="10">Ihr Anliegen ...</textarea>
-      <input type="submit">
-    </form>
+  <section id="kontakt--1" class="kontakt--1">
+    <div class="kontakt__container h-container">
+      <img class="kontakt__portrait" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
+      <p class="h4">Kontaktieren Sie uns noch jetzt!</p>
+      <p class="kontakt__text--2">Gerne kontaktieren wir Sie <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
+      
+      
+      <form action="">
+        <div class="kontakt__inputs">
+          <input type="text" name="name" placeholder="Ihr Name* ..." required>
+          <input type="email" name="email" placeholder="Ihre Email* ..." required>
+          <input type="tel" name="tel" placeholder="Ihre Telefonnummer ...">
+        </div>
+        
+        <textarea name="anliegen" placeholder="Ihr Anliegen ..." rows="3"></textarea>
+
+        <label for="gdpr_check">
+          <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
+          <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister CloudCannon einverstanden.</small>
+        </label>
+        <label id="cookie_check_container" for="cookie_check">
+          <input type="checkbox" name="cookie_check" id="cookie_check" required>
+          <small>&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine email schicken)</small>
+        </label>
+
+        <input type="submit" value="Anfrage Senden">
+      </form>
+    </div>
   </section>
 
   <section id="anwaelte" style="display: none;">

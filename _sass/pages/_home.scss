@@ -101,6 +101,7 @@
   .themen__block {
     text-align: center; 
     display: block;
+    padding: 0 $spacing-1 $spacing-1;
 
     transition: box-shadow $transition-time-1;
     &:hover {
@@ -115,7 +116,6 @@
 
     @media(min-width: $media-md){
       flex: 1 0 50%;
-      padding: 0 $spacing-1;
     }
     @media(min-width: $media-lg){
       flex-basis: 25%;
@@ -131,6 +131,70 @@
   }
 
   // Kontakt 1
+
+  .kontakt--1 {
+    background-color: $clr-primary;
+    color: $clr-bg;
+
+    padding: 20px 0;    
+
+    .kontakt__portrait {
+      border-radius: 50%;
+      height: 80px;
+      float: left;
+      margin-right: 20px;
+      margin-bottoM: 20px;
+    }
+
+    input, textarea {
+      border-color: $clr-bg;
+      color: $clr-bg; 
+    }
+
+    [type="text"], [type="email"], [type="tel"],
+    textarea {
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    input::placeholder, textarea::placeholder {
+      color: $clr-transparent-wh-7;
+    }
+    label {
+      display: block;
+    }
+    [type="submit"] {
+      margin-top: 30px;
+    }
+
+    .kontakt__text--2,
+    .kontakt__inputs {
+      clear: both;
+    }
+
+    @media(min-width: $media-sm){
+      .kontakt__text--2 {
+        clear: initial;
+      }
+      [type="email"], [type="tel"] {
+        display: inline-block;
+        width: 49%;
+      }
+    }
+    @media(min-width: $media-md){
+      .kontakt__inputs {
+        display: flex;
+
+        input { flex: 1; }
+        input:first-of-type {
+          margin-right: 20px;
+        }
+        input:last-of-type {
+          margin-left: 20px;
+        }
+      }
+    }
+    
+  }
 
 
   // Anwälte
