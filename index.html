@@ -71,7 +71,7 @@ description: >-
   </section>
 
   <section id="kontakt--1" class="kontakt--1">
-    <div class="kontakt__container h-container">
+    <div class="kontakt__container h-container--md">
       <img class="kontakt__portrait" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
       <p class="h4">Kontaktieren Sie uns noch jetzt!</p>
       <p class="kontakt__text--2">Gerne kontaktieren wir Sie <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
@@ -100,8 +100,34 @@ description: >-
     </div>
   </section>
 
-  <section id="anwaelte" style="display: none;">
-    
+  <section id="anwaelte" class="h-container">
+    <p class="anwaelte__title h6">Ihre Anwälte</p>
+
+    <div class="anwaelte">
+      {% assign members = site.authors | sort: 'reihenfolge' %}
+      {% for member in members %}
+        <div class="anwalt">
+          <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
+            <div class="anwalt__portrait__frame"></div>
+          </div>
+          <div class="anwalt__text">
+            <h4>{{ member.name }}</h4>
+            <p>
+              {{member.content}}
+            </p>
+            <ul>
+              {% for topic in member.themes %}
+                <li><a href="{{topic.link}}">{{topic.titel}}</a></li>
+              {% endfor %}
+            </ul>
+            <!-- <p>
+              <a href="mailto:{{member.email}}">{{member.email}}</a>
+            </p> -->
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
   </section>
 
   <section style="display: none;">in der Presse ... Logos</section>
