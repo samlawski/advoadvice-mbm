@@ -1,0 +1,37 @@
+.page {
+  max-width: $max-width;
+  margin: auto;
+}
+
+// Home
+
+.page__home {
+  header {
+    display: flex;
+    align-items: center;
+  }
+
+  .header__text {
+    padding: 100px;
+    flex-basis: 50%;
+  }
+
+  .header__image {
+    position: relative;
+
+    img {
+      width: 100%;
+      // max-width: 400px;
+    }
+
+    .header__image__bg {
+      position: absolute;
+      background-color: $clr-primary;
+      bottom: -10px;
+      left: 15px;
+      right: -15px;
+      top: 15px;
+      z-index: -1;
+    }
+  }
+}
