@@ -11,24 +11,53 @@
 
 .page__home {
   header {
-    // display: flex;
-    align-items: center;
+    @media(min-width: $media-sm){
+      display: flex;
+      align-items: center;
+
+      min-height: 70vh;
+    }
   }
 
   .header__text {
-    // padding: 100px;
-    flex-basis: 50%;
+    background-color: $clr-transparent-wh-7;
+    margin-right: 20vw;
+
+    h1 {
+      margin-top: 60px;
+      margin-bottom: 40px;
+    }
+    h3 { 
+      padding: 20px;
+    }
+
+    @media(min-width: $media-sm){
+      margin-right: -10vw;
+
+      flex: 1;
+
+      h1 { margin-top: 30px; }
+      h3 { padding: 0; }
+    }
   }
 
   .header__image {
     position: relative;
+    margin: -75px -20px 0;
+    z-index: -1;
 
     img {
-      width: 50%;
-      // max-width: 400px;
+      width: 100%;
+    }
+
+    @media(min-width: $media-sm){
+      margin: auto; 
+
+      flex: 1;
     }
 
     // .header__image__bg {
+    //   content: '';
     //   position: absolute;
     //   background-color: $clr-primary;
     //   bottom: -10px;
