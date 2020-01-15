@@ -12,3 +12,22 @@
   padding-left: $spacing-1;
   padding-right: $spacing-1;
 }
+
+.h-visible-sm {
+  display: none;
+  @media(min-width: $media-sm){
+    display: initial;
+  }
+}
+.h-visible-md {
+  display: none;
+  @media(min-width: $media-md){
+    display: initial;
+  }
+}
+.h-visible-lg {
+  display: none;
+  @media(min-width: $media-lg){
+    display: initial;
+  }
+}
