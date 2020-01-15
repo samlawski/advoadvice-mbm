@@ -1,4 +1,7 @@
 .h-container {
   max-width: $max-width;
   margin: auto;
+  
+  padding-left: $spacing-1;
+  padding-right: $spacing-1;
 }
