@@ -42,6 +42,17 @@
     }
   }
 
+  .header__cta {
+    display: inline-block;
+    margin: 0 0 20px 20px;
+    background-color: $clr-text;
+    color: $clr-bg;
+
+    @media(min-width: $media-sm){
+      margin: 20px 0;
+    }
+  }
+
   .header__image {
     position: relative;
     margin: -75px -20px 0;
@@ -94,7 +105,7 @@
     transition: box-shadow $transition-time-1;
     &:hover {
       cursor: pointer;
-      box-shadow: 0 5px 10px $clr-transparent-bl-3;
+      box-shadow: $shadow;
     }
     
     img {
