@@ -1,0 +1,135 @@
+/*
+- Header
+*/
+
+.page__home {
+
+  // Header
+
+  header {
+    @media(min-width: $media-sm){
+      display: flex;
+      align-items: center;
+
+      margin-top: 80px;
+      margin-bottom: 80px;
+    }
+    @media(min-width: $media-md){
+      margin-top: 100px;
+      margin-bottom: 100px;
+    }
+  }
+
+  .header__text {
+    background-color: $clr-transparent-wh-7;
+    margin-right: 20vw;
+
+    h1 {
+      margin-top: 60px;
+      margin-bottom: 40px;
+    }
+    h3 { 
+      padding: 20px;
+    }
+
+    @media(min-width: $media-sm){
+      margin-right: -10vw;
+
+      flex: 1;
+
+      h1 { margin-top: 30px; }
+      h3 { padding: 0; }
+    }
+  }
+
+  .header__image {
+    position: relative;
+    margin: -75px -20px 0;
+    z-index: -1;
+
+    img {
+      width: 100%;
+    }
+
+    @media(min-width: $media-sm){
+      margin: auto; 
+
+      flex: 1;
+    }
+
+    // .header__image__bg {
+    //   content: '';
+    //   position: absolute;
+    //   background-color: $clr-primary;
+    //   bottom: -10px;
+    //   left: 15px;
+    //   right: -15px;
+    //   top: 15px;
+    //   z-index: -1;
+    // }
+  }
+
+  // Themen 
+  .themen {
+    text-align: center;
+
+    a {
+      color: $clr-text;
+      &:hover { text-decoration: none; }
+    }
+  }
+  .themen__title {
+    margin: 40px 0 20px;
+  }
+  .themen__haupt {
+    @media(min-width: $media-md){
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+  .themen__block {
+    text-align: center; 
+    display: block;
+
+    transition: box-shadow $transition-time-1;
+    &:hover {
+      cursor: pointer;
+      box-shadow: 0 5px 10px $clr-transparent-bl-3;
+    }
+    
+    img {
+      margin-top: 20px;
+      height: 80px;
+    }
+
+    @media(min-width: $media-md){
+      flex: 1 0 50%;
+      padding: 0 $spacing-1;
+    }
+    @media(min-width: $media-lg){
+      flex-basis: 25%;
+    }
+  }
+  .themen__neben {
+    h3 { 
+      @media(min-width: $media-md){
+        display: inline-block; 
+        padding: 0 10px;
+      }
+    }
+  }
+
+  // Kontakt 1
+
+
+  // Anwälte
+
+
+  // Presse 
+
+
+  // Kontakt 2
+
+
+}
+
