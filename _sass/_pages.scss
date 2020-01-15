@@ -1,18 +1,22 @@
-.page {
-  max-width: $max-width;
-  margin: auto;
-}
+/*
+- General
+- Home
+*/
+
+// General
+
+// .page {}
 
 // Home
 
 .page__home {
   header {
-    display: flex;
+    // display: flex;
     align-items: center;
   }
 
   .header__text {
-    padding: 100px;
+    // padding: 100px;
     flex-basis: 50%;
   }
 
@@ -20,18 +24,18 @@
     position: relative;
 
     img {
-      width: 100%;
+      width: 50%;
       // max-width: 400px;
     }
 
-    .header__image__bg {
-      position: absolute;
-      background-color: $clr-primary;
-      bottom: -10px;
-      left: 15px;
-      right: -15px;
-      top: 15px;
-      z-index: -1;
-    }
+    // .header__image__bg {
+    //   position: absolute;
+    //   background-color: $clr-primary;
+    //   bottom: -10px;
+    //   left: 15px;
+    //   right: -15px;
+    //   top: 15px;
+    //   z-index: -1;
+    // }
   }
 }

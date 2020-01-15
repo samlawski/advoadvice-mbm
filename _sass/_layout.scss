@@ -1,3 +1,10 @@
+/*
+- Navigation
+*/
+
+
+// Navigation
+
 .page__nav {
   position: fixed;
   top: 0;
@@ -10,60 +17,92 @@
 
 .nav__wrapper {
   display: flex;
-  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+
+  padding: 20px;
 
   max-width: $max-width;
   margin: auto;
 }
 
 .nav__logo {
-  // @media(min-width: $media-md){
-  //   display: none;
-  // }
+  flex: 1; 
 
-  img {
-    width: 250px;
-  }
   a { 
     height: 100%;
     display: flex;
     align-items: center;
   }
+  img {
+    height: 40px;
+  }
 }
 .nav__spacer {
-  flex-grow: 1;
+  flex: 0;
+
+  .hamburger {
+    padding: 0;
+    padding-top: 5px;
+
+    @media(min-width: $media-sm){ display: none; }
+  }
+  // Change hamburger line height
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    height: 3px;
+  }
 }
 
 .nav__menu {
-  @media(min-width: $media-md){
-    .hamburger { display: none; }
-  }
+  flex: 0 1 100%;
 
-  ul,li { height: 100%; }
+  // ul,li { height: 100%; }
   ul {
+    display: block;
     list-style: none;
     padding-left: 0;
     margin: 0;
 
-    display: flex;
+    text-align: right;
+    font-weight: 700;
+    font-size: 1.5rem;
+    background-color: white;
+    
+    // Menu Closed on mobile: 
+    height: 0;
+    opacity: 0;
+    transition: 
+      height $transition-time-1 cubic-bezier(0.86, 0, 0.07, 1),
+      opacity $transition-time-1;
   }
+  &.open ul {
+    height: 100vh;
+    opacity: 1;
+    transition: 
+      height $transition-time-1 cubic-bezier(0.86, 0, 0.07, 1),
+      opacity $transition-time-1 ease-in $transition-time-1;
+  }
+
   li {
     margin: 0;
-    align-items: stretch;
-    border-top: 4px solid transparent;
-    transition: border-color $transition-time-1, background-color $transition-time-1;
+    padding: 5px 0;
 
-    display: flex;
-    align-items: center;
+    // align-items: stretch;
+    // border-top: 4px solid transparent;
+    // transition: border-color $transition-time-1, background-color $transition-time-1;
 
-    &:hover {
-      border-color: $clr-primary;
-      background-color: $clr-transparent-bl-1;
-    }
+    // display: flex;
+    // align-items: center;
+
+    // &:hover {
+    //   border-color: $clr-primary;
+    //   background-color: $clr-transparent-bl-1;
+    // }
   }  
-  a {
-    padding: $spacing-1;
-  }
+  // a {
+  //   // padding: $spacing-1;
+  // }
   a:hover { text-decoration: none; }
 }
 
