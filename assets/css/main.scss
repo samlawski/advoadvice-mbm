@@ -12,6 +12,7 @@ $clr-highlight-2:         #B7FDFE;
 
 $clr-bg:                  white;
 $clr-transparent-wh-1:    rgba(255,255,255,0.1);
+$clr-transparent-bl-1:    rgba(0,0,0,0.07);
 $clr-transparent-bl-7:    rgba(0,0,0,0.7);
  
 $font-family--text:       'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif;      
@@ -24,6 +25,9 @@ $media-lg:                1000px;
 
 $transition-time-1:       .3s;
 
+$max-width:               1200px;
+$spacing-1:               20px;
+
 // $spacing-1:               5px;
 // $spacing-2:               10px;
 // $spacing-3:               15px;
@@ -34,5 +38,7 @@ $transition-time-1:       .3s;
   "reset",
   "helpers",
   "global",
+  "plugins",
+  "layout",
   "pages"
 ;

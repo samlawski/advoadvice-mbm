@@ -52,6 +52,7 @@ h2 {
 }
 h3 {
   font-size: 1.3rem;
+  font-weight: 400;
 
   @media(min-width: $media-sm) { font-size: 1.5rem; }
   @media(min-width: $media-md) { font-size: 2rem; }
