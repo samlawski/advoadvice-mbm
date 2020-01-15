@@ -1,8 +1,7 @@
-$(document).ready(function(){
-  layout.init();
-  search.init();
-  cookies.init();
+// Navigation
 
-  if($('.schufaTool').length > 0) schufaTool.init();
-  ($('.landing__header').length >= 1) ? landing.init() : false;
-});
+$('.hamburger').click(function(){
+  $(this).toggleClass('is-active')
+  $('.nav__menu').toggleClass('open')
+})
+
