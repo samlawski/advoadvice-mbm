@@ -21,14 +21,19 @@
   flex-wrap: wrap;
   align-items: center;
 
-  padding: 20px;
+  padding: 0 20px;
 
   max-width: $max-width;
   margin: auto;
+
+  @media(min-width: $media-sm){
+    align-items: stretch;
+  }
 }
 
 .nav__logo {
   flex: 1; 
+  padding: 20px 0;
 
   a { 
     height: 100%;
@@ -38,9 +43,18 @@
   img {
     height: 40px;
   }
+  .logo--lg { display: none; }
+
+  @media(min-width: $media-md){ 
+    .logo--sm { display: none; }
+    .logo--lg { display: block; }
+  }
+
+  @media(min-width: $media-sm){ flex: 0 1; }
 }
 .nav__spacer {
   flex: 0;
+  padding: 20px 0;
 
   .hamburger {
     padding: 0;
@@ -52,12 +66,14 @@
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     height: 3px;
   }
+
+  @media(min-width: $media-sm){ flex: 0 1; }
 }
 
 .nav__menu {
   flex: 0 1 100%;
+  @media(min-width: $media-sm){ flex: 1; }
 
-  // ul,li { height: 100%; }
   ul {
     display: block;
     list-style: none;
@@ -75,6 +91,17 @@
     transition: 
       height $transition-time-1 cubic-bezier(0.86, 0, 0.07, 1),
       opacity $transition-time-1;
+    
+    // Desktop
+    @media(min-width: $media-sm){
+      height: 100%;
+      opacity: 1;
+      font-size: inherit;
+      font-weight: 400;
+
+      display: flex;
+      justify-content: flex-end;
+    }
   }
   &.open ul {
     height: 100vh;
@@ -88,24 +115,30 @@
     margin: 0;
     padding: 5px 0;
 
-    // align-items: stretch;
-    // border-top: 4px solid transparent;
-    // transition: border-color $transition-time-1, background-color $transition-time-1;
+    // Desktop
+    @media(min-width: $media-sm){
+      height: 100%;
+      display: inline-block;
+      
+      display: flex;
+      align-items: center;
+      align-items: stretch;
 
-    // display: flex;
-    // align-items: center;
+      border-top: 4px solid transparent;
+      transition: border-color $transition-time-1, background-color $transition-time-1;
 
-    // &:hover {
-    //   border-color: $clr-primary;
-    //   background-color: $clr-transparent-bl-1;
-    // }
+      &:hover {
+        border-color: $clr-primary;
+        background-color: $clr-transparent-bl-1;
+      }
+    }
   }  
-  // a {
-  //   // padding: $spacing-1;
-  // }
+  a {
+    padding: 20px 15px;
+  }
   a:hover { text-decoration: none; }
 }
 
 .page__nav__spacer {
-  height: 60px;
+  height: 80px;
 }
