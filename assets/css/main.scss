@@ -10,6 +10,9 @@ $clr-text:                #081114;
 $clr-highlight:           #A80874;
 $clr-highlight-2:         #B7FDFE;
 
+$clr-primary-2:           rgba(36, 76, 90, 0.2);
+$clr-secondary-2:         rgba(123, 167, 188, 0.2);
+
 $clr-bg:                  white;
 $clr-transparent-wh-1:    rgba(255,255,255,0.1);
 $clr-transparent-wh-7:    rgba(255,255,255,0.7);
@@ -32,11 +35,7 @@ $max-width--md:           1000px;
 $max-width-padding:       1220px;
 $spacing-1:               20px;
 
-// $spacing-1:               5px;
-// $spacing-2:               10px;
-// $spacing-3:               15px;
-// $spacing-4:               30px;
-// $spacing-5:               60px;
+$shadow:                  0 5px 10px $clr-transparent-bl-3;
 
 @import
   "reset",
