@@ -10,18 +10,25 @@ hintergrund_bild_path: /uploads/images/title-min.jpg
 description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
+ablauf: 
+  - Als erstes treten Sie mit uns [telefonisch](tel:+493092100040) oder per [email](mailto:info@advoadvice.de) in Kontakt und schildern uns Ihr Anliegen. 
+  - Wir nehmen kostenlos und unverbindlich meist telefonisch Kontakt mit Ihnen auf, um Ihren Fall zu besprechen.
+  - Nach dem Erstgespräch senden Sie uns Dokumente und Formulare zu Ihrem Fall zu, sodass wir uns ein detailiertes Bild machen können.
+  - Wir schicken Ihnen ein Angebot und Vorschlag zum weiteren Verlauf. Wenn Sie eine Rechtschutzversicherung haben, stellen wir eine Deckungsanfrage an diese. Andernfalls senden wir Ihnen Informationen zu den Rechtsanwaltsgebühren zu.
+  - Wenn Sie das wünschen, erteilen Sie uns nun ein Mandat.
+  - Wir beginnen mit der Arbeit.
 ---
 
 <header class="h-container--md">
   <div class="header__text">
     <h1>Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
-    <h3>Kompotente Rechtsberatung mit langjähriger Erfahrung.</h3>
+    <h3>Kompetente Rechtsberatung mit langjähriger Erfahrung.</h3>
     <a class="header__cta button" href="#kontakt--1">Gespräch vereinbaren</a>
   </div>
   <div class="header__image">
     <!-- <div class="header__image__bg"></div> -->
-    <!-- TODO Reduce size & Alternative: /uploads/images/title-min.jpg-->
-    <img src="/uploads/advoadvice-01-59-von-80-2.jpg" alt="AdvoAdvice Büro">
+    <!-- TODO Reduce size & Alternative: /uploads/images/title-min.jpg /uploads/advoadvice-01-59-von-80-2.jpg -->
+    <img src="/uploads/images/title-min.jpg" alt="AdvoAdvice Büro">
   </div>
 </header>
 
@@ -153,7 +160,17 @@ description: >-
     </div>
   </section>
 
-  <section style="display: none;"></section>
+  <section id="ablauf" class="ablauf h-container--sm">
+    <p class="ablauf__title h6">Wie läuft das ganze ab?</p>
+
+    {% for item in page.ablauf %}
+      <div class="ablauf__item">
+        <div class="ablauf__number">{{ forloop.index }}</div>
+        <div class="ablauf__text">{{ item | markdownify }}</div>
+      </div>
+    {% endfor %}
+  </section>
+
 
 </main>
 

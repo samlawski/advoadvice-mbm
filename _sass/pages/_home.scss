@@ -4,8 +4,8 @@
 - Kontakt 1
 - Anwälte
 - Referenzen & Presse
-- Blog & Formulare
-- Kontakt 2
+- Ablauf
+
 */
 
 .page__home {
@@ -323,6 +323,45 @@
       }
     }
   }
+
+
+  // Ablauf
+  
+  .ablauf {
+    background-color: $clr-transparent-bl-1;
+
+    margin-top: 40px;
+    padding: 60px;
+  }
+  .ablauf__title {
+    text-align: center;
+  }
+
+  .ablauf__item {
+    margin-bottom: 10px;
+    text-align: center;
+
+    @media(min-width: $media-md){
+      text-align: left;
+      display: flex;
+      align-items: center;
+    }
+  }
+  .ablauf__number {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 2px solid $clr-text;
+    font-weight: 700;
+    text-align: center;
+
+    @media(min-width: $media-md){
+      flex-shrink: 0;
+      margin-right: 40px;
+    }
+  }
+
 
   // Kontakt 2
 
