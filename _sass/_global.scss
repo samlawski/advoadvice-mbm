@@ -3,6 +3,7 @@
 - Typography
 - Forms
 - Buttons
+- Modals
 */
 
 // General
@@ -22,13 +23,9 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: $clr-primary;
   transition: text-decoration .3s;
-
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 b, strong { font-weight: 700; }
@@ -107,6 +104,7 @@ button,
 .button {
   font-size: $font-size;
   font-family: $font-family--text;
+  text-decoration: none;
   color: $clr-text;
   border: 2px solid $clr-text;
   outline: none;
@@ -120,7 +118,70 @@ button,
   &:hover {
     border-color: $clr-transparent-bl-7;
     color: $clr-transparent-bl-7;
-    text-decoration: none;
-    // box-shadow: $shadow;
   }
 }
+
+.button--cta {
+  background-color: $clr-text;
+  color: $clr-bg;
+
+  transition: background-color $transition-time-1;
+  &:hover {
+    background-color: transparent;
+    color: $clr-text;
+  }
+}
+
+
+// Modals
+// :targe muss pro Modal definiert werden (siehe #formulare in _home.scss)
+
+.modal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 11;
+  overflow: hidden;
+
+  background-color: $clr-transparent-bl-7;
+  transition: opacity $transition-time-1, visibility $transition-time-1;
+  opacity: 0;
+  visibility: hidden;
+}
+.modal__exit {
+  position: absolute; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.modal__box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  width: 800px;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 20px;
+
+  max-height: 90vh;
+  overflow: scroll;
+
+  background-color: $clr-bg;
+  box-shadow: $shadow;
+  padding: 0 20px 20px;
+
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+
+  @media(min-width: $media-md){
+    margin-top: 60px;
+  }
+}
+

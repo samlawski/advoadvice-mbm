@@ -5,14 +5,14 @@
 - Anwälte
 - Referenzen & Presse
 - Ablauf
-
+- Formulare
 */
 
 .page__home {
 
   // Header
 
-  header {
+  &>header {
     @media(min-width: $media-sm){
       display: flex;
       align-items: center;
@@ -51,8 +51,6 @@
   .header__cta {
     display: inline-block;
     margin: 0 0 20px 20px;
-    background-color: $clr-text;
-    color: $clr-bg;
 
     @media(min-width: $media-sm){
       margin: 20px 0;
@@ -84,7 +82,7 @@
 
     a {
       color: $clr-text;
-      &:hover { text-decoration: none; }
+      text-decoration: none;
     }
   }
   .themen__title {
@@ -254,6 +252,11 @@
     left: -15px;
     right: 15px;
     top: -15px;
+
+    transition: transform $transition-time-2 ease-in;
+  }
+  .anwalt__portrait:hover .anwalt__portrait__frame {
+    transform: scale(1.05);
   }
   .anwalt:nth-of-type(even) .anwalt__portrait__frame{
     background-color: $clr-secondary;
@@ -268,6 +271,12 @@
 
     h4 {margin-bottom: 0;}
     p {margin-top: 0;}
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
   }
   
 
@@ -331,7 +340,12 @@
     background-color: $clr-transparent-bl-1;
 
     margin-top: 40px;
-    padding: 60px;
+    padding: 60px 60px;
+
+    footer {
+      text-align: center;
+      padding-top: 20px;
+    }
   }
   .ablauf__title {
     text-align: center;
@@ -362,6 +376,25 @@
     }
   }
 
+
+  // Formulare
+
+
+  .formulare {
+    background-color: $clr-transparent-bl-1;
+    padding: 20px;
+    border-top: 1px solid $clr-transparent-bl-3;
+  }
+  .formulare__link { text-align: center; }
+
+  #formulare:not(:target) {
+    opacity: 0;
+    visibility: hidden;
+  }
+  #formulare:target {
+    opacity: 1;
+    visibility: visible;
+  }
 
   // Kontakt 2
 

@@ -13,7 +13,7 @@ description: >-
 ablauf: 
   - Als erstes treten Sie mit uns [telefonisch](tel:+493092100040) oder per [email](mailto:info@advoadvice.de) in Kontakt und schildern uns Ihr Anliegen. 
   - Wir nehmen kostenlos und unverbindlich meist telefonisch Kontakt mit Ihnen auf, um Ihren Fall zu besprechen.
-  - Nach dem Erstgespräch senden Sie uns Dokumente und Formulare zu Ihrem Fall zu, sodass wir uns ein detailiertes Bild machen können.
+  - Nach dem Erstgespräch senden Sie uns Dokumente und [Formulare](#formulare) zu Ihrem Fall zu, sodass wir uns ein detailiertes Bild machen können.
   - Wir schicken Ihnen ein Angebot und Vorschlag zum weiteren Verlauf. Wenn Sie eine Rechtschutzversicherung haben, stellen wir eine Deckungsanfrage an diese. Andernfalls senden wir Ihnen Informationen zu den Rechtsanwaltsgebühren zu.
   - Wenn Sie das wünschen, erteilen Sie uns nun ein Mandat.
   - Wir beginnen mit der Arbeit.
@@ -23,7 +23,7 @@ ablauf:
   <div class="header__text">
     <h1>Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
     <h3>Kompetente Rechtsberatung mit langjähriger Erfahrung.</h3>
-    <a class="header__cta button" href="#kontakt--1">Gespräch vereinbaren</a>
+    <a class="header__cta button button--cta" href="#kontakt--1">Gespräch vereinbaren</a>
   </div>
   <div class="header__image">
     <!-- <div class="header__image__bg"></div> -->
@@ -133,7 +133,11 @@ ablauf:
               <small>
                 <strong>Themen:</strong>
                 {% for topic in member.themes %}
-                  <a href="{{topic.link}}">{{topic.titel}}</a>
+                  {% if topic.link %}
+                    <a href="{{topic.link}}">{{topic.titel}}</a>
+                  {% else %}
+                    {{ topic.titel }}
+                  {% endif %}
                   {%if forloop.last %}{% else %}&nbsp;&#183&nbsp;{%endif%}
                 {% endfor %}
               </small>
@@ -169,6 +173,31 @@ ablauf:
         <div class="ablauf__text">{{ item | markdownify }}</div>
       </div>
     {% endfor %}
+
+    <footer>
+      <a class="button button--cta" href="#kontakt--2">Gespräch vereinbaren</a>
+    </footer>
+  </section>
+  
+  <section id="downloads" class="formulare h-container--sm">
+    <div class="formulare__link"><a href="#formulare">Download Formulare</a></div>
+    
+    <div class="modal" id="formulare">
+      <a class="modal__exit" href="#downloads"></a>
+      <div class="modal__box">
+        <header>
+          <h4>Download Formulare</h4>
+        </header>
+        <ul>
+          {% for formular in site.data.formulare %}
+          <li><a href="{{ formular.datei_path }}" target="_blank">{{formular.title}}</a></li>
+        {% endfor %}
+        </ul>
+        <footer>
+          <a href="#downloads" class="button">Schließen</a>
+        </footer>
+      </div>
+    </div>
   </section>
 
 
