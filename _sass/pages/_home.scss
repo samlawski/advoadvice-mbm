@@ -1,5 +1,8 @@
 /*
 - Header
+- Themen
+- Kontakt 1
+- Anwälte
 */
 
 .page__home {
@@ -33,7 +36,7 @@
     }
 
     @media(min-width: $media-sm){
-      margin-right: -10vw;
+      margin-right: -5vw;
 
       flex: 1;
 
@@ -69,7 +72,10 @@
     }
   }
 
+
   // Themen 
+
+
   .themen {
     text-align: center;
 
@@ -121,7 +127,9 @@
     }
   }
 
+
   // Kontakt 1
+
 
   .kontakt--1 {
     background-color: $clr-primary;
@@ -135,6 +143,9 @@
       float: left;
       margin-right: 20px;
       margin-bottoM: 20px;
+    }
+    p.h4 {
+      margin-bottom: 0;
     }
 
     input, textarea {
@@ -190,6 +201,7 @@
 
   // Anwälte
 
+  
   .anwaelte {
     display: flex;
     flex-wrap: wrap;
@@ -202,10 +214,14 @@
     flex: 1 0 50%;
     // text-align: center;
 
-    display: flex;
+    
     margin-bottom: 60px;
 
-    h4 { margin-bottom: 10px; }
+    @media(min-width: $media-sm){
+      display: flex;
+    }
+
+    h4 { margin-bottom: 0; }
     ul {
       text-align: left;
     }
