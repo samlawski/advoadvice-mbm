@@ -206,31 +206,34 @@
     text-align: center;
   }
 
-  .anwaelte {
-    display: flex;
-    flex-wrap: wrap;
+  @media(min-width: $media-sm){
+    .anwaelte {
+      display: flex;
+      flex-wrap: wrap;
+    }
   }
 
-  // v1
-
   .anwalt {
-    margin-bottom: 60px;
+    padding: 0 20px 40px;
 
     @media(min-width: $media-sm){
       flex: 1 0 50%;
-      display: flex;
-      padding-right: 20px;
     }
+    
+    @media(min-width: $media-lg){
+      flex: 1 0 25%;
 
-    h4 { margin-bottom: 0; }
-    ul {
-      text-align: left;
+      &:nth-of-type(even) {
+        .anwalt__spacer {
+          height: 80px;
+        }
+      }
     }
   }
+
   .anwalt__portrait {
-    flex: 0 0 225px;
-    height: 350px; 
-    width: 225px;
+    height: 330px; 
+    width: 205px;
     margin: auto;
     background-position: center;
     background-size: cover;
@@ -238,33 +241,30 @@
     position: relative;
   }
   .anwalt__portrait__frame {
-    content: '';
     position: absolute;
-    background-color: $clr-secondary;
-    bottom: -10px;
-    left: 15px;
-    right: -15px;
-    top: 15px;
     z-index: -1;
-  }
-  .anwalt:nth-of-type(odd) .anwalt__portrait__frame{
+
     background-color: $clr-primary;
     bottom: 15px;
     left: -15px;
     right: 15px;
     top: -15px;
   }
-  .anwalt__text {
-    flex: 1;
-    margin-left: 30px;
+  .anwalt:nth-of-type(even) .anwalt__portrait__frame{
+    background-color: $clr-secondary;
+    bottom: -10px;
+    left: 15px;
+    right: -15px;
+    top: 15px;
   }
+  .anwalt__text {
+    max-width: 230px;
+    margin: auto;
 
-  // // v2
-
-  // .anwalt {
-  //   flex: 1 0 25%;
-  // }
-
+    h4 {margin-bottom: 0;}
+    p {margin-top: 0;}
+  }
+  
 
   // Presse 
 

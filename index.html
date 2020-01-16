@@ -105,8 +105,10 @@ description: >-
 
     <div class="anwaelte">
       {% assign members = site.authors | sort: 'reihenfolge' %}
+      {% assign members_size = members | size %}
       {% for member in members %}
         <div class="anwalt">
+          {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
           <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
             <div class="anwalt__portrait__frame"></div>
           </div>
@@ -115,14 +117,18 @@ description: >-
             <p>
               {{member.content}}
             </p>
-            <ul>
-              {% for topic in member.themes %}
-                <li><a href="{{topic.link}}">{{topic.titel}}</a></li>
-              {% endfor %}
-            </ul>
             <!-- <p>
               <a href="mailto:{{member.email}}">{{member.email}}</a>
             </p> -->
+            <p>
+              <small>
+                <strong>Themen:</strong>
+                {% for topic in member.themes %}
+                  <a href="{{topic.link}}">{{topic.titel}}</a>
+                  {%if forloop.last %}{% else %}&nbsp;&#183&nbsp;{%endif%}
+                {% endfor %}
+              </small>
+            </p>
           </div>
         </div>
       {% endfor %}
