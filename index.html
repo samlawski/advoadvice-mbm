@@ -72,6 +72,7 @@ description: >-
 
   <section id="kontakt--1" class="kontakt--1">
     <div class="kontakt__container h-container--md">
+      <!-- TODO Reduce size: -->
       <img class="kontakt__portrait" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
       <p class="h4">Kontaktieren Sie uns noch jetzt!</p>
       <p class="kontakt__text--2">Gerne kontaktieren wir Sie <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
@@ -88,11 +89,11 @@ description: >-
 
         <label for="gdpr_check">
           <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
-          <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister CloudCannon einverstanden.</small>
+          <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
         </label>
         <label id="cookie_check_container" for="cookie_check">
           <input type="checkbox" name="cookie_check" id="cookie_check" required>
-          <small>&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine email schicken)</small>
+          <small>&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
         </label>
 
         <input type="submit" value="Anfrage Senden">
@@ -109,6 +110,7 @@ description: >-
       {% for member in members %}
         <div class="anwalt">
           {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
+          <!-- TODO Reduce size: -->
           <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
             <div class="anwalt__portrait__frame"></div>
           </div>
@@ -133,10 +135,23 @@ description: >-
         </div>
       {% endfor %}
     </div>
-
   </section>
 
-  <section style="display: none;">in der Presse ... Logos</section>
+  <section id="referenzen" class="referenzen h-container">
+    <div class="referenzen__ratings">
+      <!-- TODO Reduce image sizes: -->
+      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de"></a>
+      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google"></a>
+    </div>
+    <div class="referenzen__news">
+      <a href="/blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/"><img src="/uploads/images/presse-mopo.png" alt="Presselogo Hamburger Morgenpost"></a>
+      <a href="/blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/"><img src="/uploads/images/presse-immozeitung.png" alt="Presselogo Immobilienzeitung"></a>
+      <a href="/blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/"><img src="/uploads/images/presse-handelsblatt.png" alt="Presselogo Handelsblatt"></a>
+      <a href="/blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/"><img src="/uploads/images/presse-capital.png" alt="Presselogo Capital"></a>
+      <a href="/blog/unsere-experten-in-der-presse-auto-bild-kein-kredit-nach-crash/"><img src="/uploads/images/presse-autobild.png" alt="Presselogo Autobild"></a>
+      <a href="/blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/"><img src="/uploads/images/presse-anwaltsblatt.jpg" alt="Presselogo Berliner Anwaltsblatt"></a>
+    </div>
+  </section>
 
   <section style="display: none;"></section>
 
