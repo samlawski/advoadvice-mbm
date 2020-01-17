@@ -8,6 +8,23 @@
 - Formulare
 */
 
+// Offset scroll position when linking to an ID:
+#themen, 
+#kontakt--1, 
+#anwaelte,
+#referenzen,
+#ablauf,
+#downloads {
+  &[id]::before {
+    content: '';
+    display: block;
+    height:      83px;
+    margin-top: -83px;
+    visibility: hidden;
+  }
+}
+
+
 .page__home {
 
   // Header
