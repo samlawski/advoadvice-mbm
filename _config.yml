@@ -1,4 +1,4 @@
-# Site & Meta Details
+# Site & Meta Details (Fallback)
 title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
 description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg
 keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
@@ -19,6 +19,15 @@ collections:
   posts:
     permalink: /blog/:title/
 
+# Defaults
+defaults:
+  - scope:
+      path: ''
+      type: ''
+    values:
+      _comments:
+        title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
+        description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
 
 # Build settings
 markdown: kramdown
