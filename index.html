@@ -4,12 +4,36 @@ _options:
     hidden: true
   style_id:
     hidden: true
+_comments: 
+  presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
 layout: default
 style_id: home
-hintergrund_bild_path: /uploads/images/title-min.jpg
+title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
 description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
+presse_logos:
+  - logo_path: /uploads/images/presse-zeit.png
+    link: /blog/unsere-experten-in-der-presse-zeit-online-schufa-und-identitätsdiebstahl/
+    logo_seo_text: Presselogo Zeit Online
+  - logo_path: /uploads/images/presse-handelsblatt.png
+    link: /blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/
+    logo_seo_text: Presselogo Handelsblatt
+  - logo_path: /uploads/images/presse-capital.png
+    link: /blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/
+    logo_seo_text: Presselogo Capital
+  - logo_path: /uploads/images/presse-mopo.png
+    link: /blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/
+    logo_seo_text: Presselogo Hamburger Morgenpost
+  - logo_path: /uploads/images/presse-immozeitung.png
+    link: /blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/
+    logo_seo_text: Presselogo Immobilienzeitung
+  - logo_path: /uploads/images/presse-anwaltsblatt.jpg
+    link: /blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/
+    logo_seo_text: Presselogo Berliner Anwaltsblatt
+  - logo_path: /uploads/images/presse-autobild.png
+    link: /blog/unsere-experten-in-der-presse-auto-bild-kein-kredit-nach-crash/
+    logo_seo_text: Presselogo Autobild
 ablauf: 
   - Als erstes treten Sie mit uns [telefonisch](tel:+493092100040) oder per [email](mailto:info@advoadvice.de) in Kontakt und schildern uns Ihr Anliegen. 
   - Wir nehmen kostenlos und unverbindlich meist telefonisch Kontakt mit Ihnen auf, um Ihren Fall zu besprechen.
@@ -21,20 +45,19 @@ ablauf:
 
 <header class="h-container--md">
   <div class="header__text">
-    <h1>Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
-    <h3>Kompetente Rechtsberatung mit langjähriger Erfahrung.</h3>
-    <a class="header__cta button button--cta" href="#kontakt--1">Gespräch vereinbaren</a>
+    <h1 class="editable">Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
+    <h3 class="editable">Kompetente Rechtsberatung mit langjähriger Erfahrung.</h3>
+    <a class="header__cta button button--cta editable" href="#kontakt--1">Gespräch vereinbaren</a>
   </div>
   <div class="header__image">
-    <!-- <div class="header__image__bg"></div> -->
     <!-- TODO Reduce size & Alternative: /uploads/images/title-min.jpg /uploads/advoadvice-01-59-von-80-2.jpg -->
-    <img src="/uploads/images/title-min.jpg" alt="AdvoAdvice Büro">
+    <img src="/uploads/images/title-min.jpg" alt="AdvoAdvice Büro" class="editable">
   </div>
 </header>
 
 <main>
   <section id="themen" class="themen h-container">
-    <p class="themen__title h6">Unsere Themen</p>
+    <p class="themen__title h6 editable">Unsere Themen</p>
 
     <div class="themen__haupt">
       <a href="#" class="themen__block">
@@ -80,9 +103,9 @@ ablauf:
   <section id="kontakt--1" class="kontakt--1">
     <div class="kontakt__container h-container--md">
       <!-- TODO Reduce size: -->
-      <img class="kontakt__portrait" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
-      <p class="h4">Kontaktieren Sie uns noch jetzt!</p>
-      <p class="kontakt__text--2">Gerne kontaktieren wir Sie <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
+      <img class="kontakt__portrait editable" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
+      <p class="h4 editable">Kontaktieren Sie uns noch jetzt!</p>
+      <p class="kontakt__text--2 editable">Gerne kontaktieren wir Sie <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
       
       
       <form action="">
@@ -96,11 +119,11 @@ ablauf:
 
         <label for="gdpr_check">
           <input type="checkbox" name="gdpr_check" id="gdpr_check" required>
-          <small>&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
+          <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
         </label>
         <label id="cookie_check_container" for="cookie_check">
           <input type="checkbox" name="cookie_check" id="cookie_check" required>
-          <small>&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
+          <small class="editable">&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
         </label>
 
         <input type="submit" value="Anfrage Senden">
@@ -109,7 +132,7 @@ ablauf:
   </section>
 
   <section id="anwaelte" class="h-container">
-    <p class="anwaelte__title h6">Ihre Anwälte</p>
+    <p class="anwaelte__title h6 editable">Ihre Anwälte</p>
 
     <div class="anwaelte">
       {% assign members = site.authors | sort: 'reihenfolge' %}
@@ -151,21 +174,18 @@ ablauf:
   <section id="referenzen" class="referenzen h-container">
     <div class="referenzen__ratings">
       <!-- TODO Reduce image sizes: -->
-      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de"></a>
-      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google"></a>
+      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable"></a>
+      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable"></a>
     </div>
     <div class="referenzen__news">
-      <a href="/blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/"><img src="/uploads/images/presse-mopo.png" alt="Presselogo Hamburger Morgenpost"></a>
-      <a href="/blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/"><img src="/uploads/images/presse-immozeitung.png" alt="Presselogo Immobilienzeitung"></a>
-      <a href="/blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/"><img src="/uploads/images/presse-handelsblatt.png" alt="Presselogo Handelsblatt"></a>
-      <a href="/blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/"><img src="/uploads/images/presse-capital.png" alt="Presselogo Capital"></a>
-      <a href="/blog/unsere-experten-in-der-presse-auto-bild-kein-kredit-nach-crash/"><img src="/uploads/images/presse-autobild.png" alt="Presselogo Autobild"></a>
-      <a href="/blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/"><img src="/uploads/images/presse-anwaltsblatt.jpg" alt="Presselogo Berliner Anwaltsblatt"></a>
+      {% for logo in page.presse_logos limit: 6 %}
+        <a href="{{logo.link}}"><img src="{{logo.logo_path}}" alt="{{logo.logo_seo_text}}"></a>
+      {% endfor %}
     </div>
   </section>
 
   <section id="ablauf" class="ablauf h-container--sm">
-    <p class="ablauf__title h6">Wie läuft das ganze ab?</p>
+    <p class="ablauf__title h6 editable">Wie läuft das ganze ab?</p>
 
     {% for item in page.ablauf %}
       <div class="ablauf__item">
@@ -175,18 +195,18 @@ ablauf:
     {% endfor %}
 
     <footer>
-      <a class="button button--cta" href="#kontakt--2">Gespräch vereinbaren</a>
+      <a class="button button--cta editable" href="#kontakt--2">Gespräch vereinbaren</a>
     </footer>
   </section>
-  
+
   <section id="downloads" class="formulare h-container--sm">
-    <div class="formulare__link"><a href="#formulare">Download Formulare</a></div>
+    <div class="formulare__link"><a href="#formulare" class="editable">Download Formulare</a></div>
     
     <div class="modal" id="formulare">
       <a class="modal__exit" href="#downloads"></a>
       <div class="modal__box">
         <header>
-          <h4>Download Formulare</h4>
+          <h4 class="editable">Download Formulare</h4>
         </header>
         <ul>
           {% for formular in site.data.formulare %}
@@ -198,6 +218,11 @@ ablauf:
         </footer>
       </div>
     </div>
+  </section>
+
+
+  <section id="kontakt--2">
+    
   </section>
 
 
