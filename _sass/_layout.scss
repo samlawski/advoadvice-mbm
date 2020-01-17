@@ -3,6 +3,23 @@
 - Footer
 */
 
+// Offset scroll position when linking to an ID:
+#themen, 
+#kontakt--1, 
+#anwaelte,
+#referenzen,
+#ablauf,
+#downloads,
+#kontakt {
+  &[id]::before {
+    content: '';
+    display: block;
+    height:      83px;
+    margin-top: -83px;
+    visibility: hidden;
+  }
+}
+
 
 // Navigation
 
@@ -148,6 +165,77 @@
 }
 
 
-// Footer 
+// Footer & Kontakt
 
+.page__footer {
+  background-color: $clr-primary;
+  color: $clr-bg;
 
+  input, textarea {
+    border-color: $clr-bg;
+    color: $clr-bg; 
+
+    &::placeholder {
+      color: $clr-transparent-wh-7;
+    }
+  }
+  label, input, textarea {
+    display: block;
+  }
+  [type="checkbox"] {
+    display: inline-block;
+  }
+  a { color: $clr-secondary; }
+
+  // Specific: 
+  padding: 40px 0;
+
+  [type="text"], [type="email"], [type="tel"],
+  label, textarea {
+    margin-bottom: 20px;
+      width: 100%;
+  }
+}
+
+.footer__einleitung {
+  text-align: center;
+  margin-bottom: 40px;
+
+  img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+  }
+  p {margin: 0;}
+}
+
+.footer__anschrift {
+  margin-top: 40px;
+}
+
+@media(min-width: $media-md) {
+  .footer__kontakt {
+    display: flex;
+
+    &>* { flex: 1 0 50%; }
+  }
+
+  .footer__form {
+    margin-right: 20px;
+    form { max-width: 500px; }
+  }
+  .footer__anschrift {
+    margin-top: 0;
+    margin-left: 20px;
+
+    p:first-of-type { margin-top: 0; }
+  }
+  
+}
+
+.footer__legal {
+  font-size: .7rem;
+  margin-top: 20px;
+  
+  a { text-decoration: none; }
+}

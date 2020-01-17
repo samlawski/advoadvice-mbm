@@ -8,23 +8,6 @@
 - Formulare
 */
 
-// Offset scroll position when linking to an ID:
-#themen, 
-#kontakt--1, 
-#anwaelte,
-#referenzen,
-#ablauf,
-#downloads {
-  &[id]::before {
-    content: '';
-    display: block;
-    height:      83px;
-    margin-top: -83px;
-    visibility: hidden;
-  }
-}
-
-
 .page__home {
 
   // Header
@@ -196,10 +179,15 @@
     @media(min-width: $media-sm){
       .kontakt__text--2 {
         clear: initial;
+        margin-top: 0;
       }
       [type="email"], [type="tel"] {
         display: inline-block;
         width: 49%;
+      }
+
+      form {
+        margin-top: 40px;
       }
     }
     @media(min-width: $media-md){
@@ -401,6 +389,7 @@
     background-color: $clr-transparent-bl-1;
     padding: 20px;
     border-top: 1px solid $clr-transparent-bl-3;
+    margin-bottom: 60px;
   }
   .formulare__link { text-align: center; }
 
