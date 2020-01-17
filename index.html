@@ -56,6 +56,19 @@ ablauf:
 </header>
 
 <main>
+  <section id="referenzen" class="referenzen h-container">
+    <div class="referenzen__ratings">
+      <!-- TODO Reduce image sizes: -->
+      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable"></a>
+      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable"></a>
+    </div>
+    <div class="referenzen__news">
+      {% for logo in page.presse_logos limit: 6 %}
+        <a href="{{logo.link}}"><img src="{{logo.logo_path}}" alt="{{logo.logo_seo_text}}"></a>
+      {% endfor %}
+    </div>
+  </section>
+
   <section id="themen" class="themen h-container">
     <p class="themen__title h6 editable">Unsere Themen</p>
 
@@ -148,19 +161,6 @@ ablauf:
             </p>
           </div>
         </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <section id="referenzen" class="referenzen h-container">
-    <div class="referenzen__ratings">
-      <!-- TODO Reduce image sizes: -->
-      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable"></a>
-      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable"></a>
-    </div>
-    <div class="referenzen__news">
-      {% for logo in page.presse_logos limit: 6 %}
-        <a href="{{logo.link}}"><img src="{{logo.logo_path}}" alt="{{logo.logo_seo_text}}"></a>
       {% endfor %}
     </div>
   </section>
