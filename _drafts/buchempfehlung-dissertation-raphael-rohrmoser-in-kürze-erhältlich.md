@@ -32,7 +32,7 @@ Die Dissertation von Dr. Raphael Rohrmoser wird in K&uuml;rze beim Verlag Dr. Ko
 
 Die Dissertation ist unter dem Titel "Die Auswirkungen des neuen BDSG und der DSGVO auf das Verbraucherschutzniveau bei der Datenerhebung und dem Scoringverfahren der SCHUFA" erschienen und hat 354 Seiten. Die Dissertation wurde an den Freien Universit&auml;t im Rahmen eines Promotionsverfahrens vorgelegt und dort mit "magna cum laude" bewertet.
 
-![](/uploads/rohrmoser.gif){: width="170" height="243"}
+![Rohrmoser Dissertation Dr. Kovac](/uploads/rohrmoser.gif "Die Auswirkungen des neuen BDSG und der DSGVO auf das Verbraucherschutzniveau bei der Datenerhebung und dem Scoringverfahren der SCHUFA"){: width="170" height="243"}
 
 **ISBN 978-3-339-10676-6 (Print), ISBN 978-3-339-10677-3 (eBook)**
 
