@@ -22,8 +22,8 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: '*'
-      type: ''
+      path: ''
+      # type: ''
     values:
       _comments:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
