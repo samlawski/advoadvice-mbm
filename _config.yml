@@ -32,12 +32,6 @@ defaults:
           hidden: true
         style_id:
           hidden: true
-        _block: 
-          format: p h3 h4
-          bold: true
-          italic: true
-          undo: true
-          redo: true
       _comments:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 

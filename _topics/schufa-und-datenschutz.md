@@ -4,7 +4,6 @@ style_id: topic
 title: Schufa-Score verbessern
 description: Erfolgreich Schufa-Einträge löschen und den Schufa-Score verbessern. AdvoAdvice Anwälte haben bereits mehr als 5000 Schufa-Einträge erfolgreich gelöscht.
 header_titel: Schufa-Einträge löschen und Score verbessern
-test_block: na?
 erfolge: 
   - zahl: 333+
     text: glückliche Mandanten
@@ -15,7 +14,5 @@ erfolge:
 abschnitte:
   - link: negativ-eintrag-loeschen
     titel: Negativeintrag löschen
-    text_block: Test
+    text_markdown: Test
 ---
-
-### Nicht sicher, was auf Sie zutrifft?
