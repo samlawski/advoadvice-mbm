@@ -28,6 +28,7 @@ defaults:
       _comments:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
+        presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
 
 # Build settings
 markdown: kramdown
