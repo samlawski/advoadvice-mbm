@@ -1,20 +1,23 @@
 .h-container {
   max-width: $max-width;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   
   padding-left: $spacing-1;
   padding-right: $spacing-1;
 }
 .h-container--md {
   max-width: $max-width--md;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   
   padding-left: $spacing-1;
   padding-right: $spacing-1;
 }
 .h-container--sm {
   max-width: $max-width--sm;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   
   padding-left: $spacing-1;
   padding-right: $spacing-1;

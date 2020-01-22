@@ -2,36 +2,65 @@
 layout: default
 ---
 
-<header>
-  <h1>{{page.header_titel}}</h1>
+<header style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.7)), url('{{page.header_image}}')">
+  <div class="h-container">
+    <h1>{{page.header_titel}}</h1>
+  </div>
 </header>
 
 <main>
-  <nav>
-    <ul>
-      {% for abschnitt in page.abschnitte %}
-        <li><a href="#{{abschnitt.link}}">{{abschnitt.titel}}</a></li>
+  <div class="h-container">
+    <nav>
+      <ul>
+        {% for abschnitt in page.abschnitte %}
+          <li><a href="#{{abschnitt.link}}">{{abschnitt.titel}}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+
+  <section class="erfolge h-container">
+    <p class="h6">Erfolge</p>
+
+    <div class="erfolge__boxen">
+      {% for erfolg in page.erfolge %}
+        <div>
+          <span class="h1">{{erfolg.zahl}}</span>
+          <br>
+          <span>{{erfolg.text}}</span>
+        </div>
       {% endfor %}
-    </ul>
-  </nav>
+    </div>
+  </section>
 
-  <section>
-    <p>Erfolge</p>
 
-    {% for erfolg in page.erfolge %}
-      <div>
-        <span class="h1">{{erfolg.zahl}}</span>
-        <br>
-        <span>{{erfolg.text}}</span>
-      </div>
+  <section style="display: none">
+    <p>{{page.intro_titel}}</p>
+    <p>{{page.intro_text}}</p>
+
+    <a href="{{page.intro_link}}">{{page.intro_link_text}}</a>
+  </section>
+
+
+  <section style="display: none">
+    {% for abschnitt in page.abschnitte %}
+      <article>
+        <h2 id="{{abschnitt.link}}">{{abschnitt.titel}}</h2>
+        <div>{{abschnitt.text_markdown | markdownify}}</div>
+
+        <img src="{{abschnitt.image}}" alt="{{abschnitt.image_beschreibung}}">
+
+        <a href="#kontakt">Kostenloses Erstgespräch vereinbaren</a>
+      </article>
     {% endfor %}
   </section>
 
 
-  {% for abschnitt in page.abschnitte %}
-    <section>
-      <h2 id="{{abschnitt.link}}">{{abschnitt.titel}}</h2>
-      <div>{{abschnitt.text_markdown | markdownify}}</div>
-    </section>
-  {% endfor %}
+  <section style="display: none">
+    <h2>Artikel zum Thema</h2>
+  </section>
+
+  <section style="display: none">
+    <h2>Formulare zum Thema</h2>
+  </section>
 </main>
