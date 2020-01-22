@@ -33,12 +33,20 @@
 
   .erfolge {
     text-align: center;
+    margin-top: 40px;
   }
   @media(min-width: $media-sm){
+    .erfolge { margin-top: 0; }
     .erfolge__boxen {
       display: flex;
   
       &>* { flex: 1; }
     }
+  }
+
+  .intro {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
   }
 }
