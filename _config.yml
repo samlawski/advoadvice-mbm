@@ -13,8 +13,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 collections:
   authors:
     output: false
+    _hide_content: true
   topics:
     output: true
+    _hide_content: true
     permalink: /themen/:path/
   posts:
     permalink: /blog/:title/
@@ -23,13 +25,19 @@ collections:
 defaults:
   - scope:
       path: ''
-      # type: ''
+      type: ''
     values:
       _options:
         layout:
           hidden: true
         style_id:
           hidden: true
+        _block: 
+          format: p h3 h4
+          bold: true
+          italic: true
+          undo: true
+          redo: true
       _comments:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
