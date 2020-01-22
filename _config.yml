@@ -37,6 +37,15 @@ defaults:
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
         presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
 
+# CloudCannon
+abschnitt_templates:
+  - weiss_bild_links
+  - weiss_bild_rechts
+  - banner
+  - banner_hintergrund_bild
+  - box_hell
+  - box_dunkel
+
 # Build settings
 markdown: kramdown
 sass:
