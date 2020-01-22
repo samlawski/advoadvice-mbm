@@ -31,7 +31,7 @@ layout: default
   {% for abschnitt in page.abschnitte %}
     <section>
       <h2 id="{{abschnitt.link}}">{{abschnitt.titel}}</h2>
-      <div>{{abschnitt.text_block}}</div>
+      <div>{{abschnitt.text_markdown | markdownify}}</div>
     </section>
   {% endfor %}
 </main>
