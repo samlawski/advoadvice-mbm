@@ -22,7 +22,7 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: ''
+      path: '*'
       type: ''
     values:
       _comments:
