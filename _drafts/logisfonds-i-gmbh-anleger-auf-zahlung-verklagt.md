@@ -26,7 +26,9 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Die Logisfonds I GmbH aus Hamburg meldet sich bei einigen Anlegern nunmehr mit einer Klage auf Zahlung. Hintergrund dieser Klagen sind Anspruchsschreiben aus dem Jahr 2018 (wie berichteten), in denen die Gesellschaft die Anleger zu Zahlung aufgefordert hatte.
+Die Logisfonds I GmbH aus Hamburg meldet sich bei einigen Anlegern nunmehr mit einer Klage auf Zahlung. Hintergrund dieser Klagen sind Anspruchsschreiben aus dem Jahr 2018 (wie berichteten), in denen die Gesellschaft die Anleger zur Zahlung aufgefordert hatte. Ein ehemaliger Arzt aus Berlin wurde nunmehr vor dem Landgericht Berlin auf Zahlung gerichtlich in Anspruch genommen.
+
+![](/uploads/lg-berlin---spreeblick-2.jpg){: width="4032" height="3024"}
 
 ### Auflösung der Beteiligung im Januar 2017
 
