@@ -75,18 +75,19 @@
 
     .weiss_bild_rechts {}
 
-    .banner {}
+    .banner {
+      background-color: $clr-secondary;
+    }
 
     .banner_hintergrund_bild {}
 
-    .box_hell {
+    .box_hell,
+    .box_dunkel {
       article {
         padding-left: 0;
-
-        background-color: $clr-transparent-bl-1;
+        padding-right: 0;
 
         display: flex;
-        flex-direction: row-reverse;
         align-items: stretch;
 
         max-width: 300px;
@@ -100,16 +101,34 @@
         @media(min-width: $media-md){
           display: block;
           width: 250px;
-          margin-right: 20px;
 
           flex-shrink: 0;
         }
       }
       .abschnitt__text {
-        padding: 0 20px 20px;
+        flex: 1;
+        padding: 0 20px 40px;
+        @media(min-width: $media-sm){ padding: 0 40px 40px; }
       }
     }
 
-    .box_dunkel {}
+    .box_hell {
+      article {
+        background-color: $clr-transparent-bl-1;
+        flex-direction: row-reverse;
+      }
+    }
+    .box_dunkel {
+      article {
+        background-color: $clr-primary;
+        flex-direction: row;
+        color: $clr-bg;
+      }
+
+      .abschnitt__cta {
+        border-color: $clr-bg;
+        color: $clr-bg;
+      }
+    }
   }
 }
