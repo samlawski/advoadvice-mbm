@@ -5,6 +5,30 @@ title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
 description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
+hauptthemen: 
+  - titel: Schufa- & Datenschutzrecht
+    beschreibung: Ob Sie einen Kredit nicht erhalten oder eine Wohnung nicht beziehen können liegt häufig an schelchten Schufa-Scores. Wir können Ihnen helfen, Ihren Score zu verbessern und Negativeinträge zu löschen.
+    topic: schufa-und-datenschutz
+    icon_path: /assets/icons/icon-schufa.svg
+  - titel: Insolvenzrecht
+    beschreibung: Wir beraten Sie gerne im Falle einer Insolvenz. Bei uns erhalten Sie Beratung und Unterstützung durch die Insolvenz alles aus einer Hand - dank unseres Partners aus Lettland.
+    topic: insolvenz
+    icon_path: /assets/icons/icon-insolvenz.svg
+  - titel: Bank- und Kapitalmarktrecht
+    beschreibung: Wurden Sie falsch beraten und/oder haben bei einer Kapitalanlage viel Geld verloren? Möglicherweise besteht ein Klagegrund. Wir helfen Ihnen gerne dies herauszufinden.
+    topic: bank-und-kapitalmarkt
+    icon_path: /assets/icons/icon-bank.svg
+  - titel: Immobilienrecht
+    beschreibung: Wir bieten Ihnen professionelle, anwaltliche Beratung zur Verwaltung Ihrer Immobilien.
+    topic: immobilien
+    icon_path: /assets/icons/icon-immobilien.svg
+nebenthemen:
+  - titel: Versicherungsrecht
+    topic: versicherung
+  - titel: Suchergebnisse und Bewertungen löschen
+    topic: suchergebnisse-und-bewertungen-loeschen
+  - titel: Kredit widerrufen
+    topic: kedit-widerrufen
 presse_logos:
   - logo_path: /uploads/images/presse-zeit.png
     link: /blog/unsere-experten-in-der-presse-zeit-online-schufa-und-identitätsdiebstahl/
@@ -66,41 +90,27 @@ ablauf:
     <p class="themen__title h6 editable">Unsere Themen</p>
 
     <div class="themen__haupt">
-      <a href="#" class="themen__block">
-        <img src="/assets/icons/icon-schufa.svg" alt="Schufa & Datenschutz Symbol">
-        <h2 class="h4">Schufa- & Datenschutzrecht</h2 class="h4">
-        <p>Ob Sie einen Kredit nicht erhalten oder eine Wohnung nicht beziehen können liegt häufig an schelchten Schufa-Scores. Wir können Ihnen helfen, Ihren Score zu verbessern und Negativeinträge zu löschen.</p>
-      </a>
+      {% for thema in page.hauptthemen %}
+        <a href="/themen/{{thema.topic}}" class="themen__block">
+          <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol">
+          <h2 class="h4">{{thema.titel}}</h2 class="h4">
+          <p>{{thema.beschreibung}}</p>
+        </a>
+      {% endfor %}
 
-      <a href="#" class="themen__block">
-        <img src="/assets/icons/icon-insolvenz.svg" alt="Insolvenz Symbol">
-        <h2 class="h4">Insolvenzrecht</h2>
-        <p>Wir beraten Sie gerne im Falle einer Insolvenz. Bei uns erhalten Sie Beratung und Unterstützung durch die Insolvenz alles aus einer Hand - dank unseres Partners aus Lettland.</p>
-      </a>
-
-      <a href="#" class="themen__block">
-        <!-- TODO: Landing page: <h2>Falschberatung Kapitalanlagen anfechten</h2> -->
-        <img src="/assets/icons/icon-bank.svg" alt="Bank Symbol">
-        <h2 class="h4">Bank- und Kapitalmarktrecht</h2>
-        <p>Wurden Sie falsch beraten und/oder haben bei einer Kapitalanlage viel Geld verloren? Möglicherweise besteht ein Klagegrund. Wir helfen Ihnen gerne dies herauszufinden.</p>
-      </a>
-
-      <a href="#" class="themen__block">
-        <!-- TODO: Landing page: <h2>Beratung zu Immobilien</h2> -->
-        <img src="/assets/icons/icon-immobilien.svg" alt="Immobilien Symbol">
-        <h2 class="h4">Immobilien- & Mietrecht</h2>
-        <p>Wir bieten Ihnen professionelle, anwaltliche Beratung zur Verwaltung Ihrer Immobilien.</p>
-      </a>
+      <!-- TODO: Landing page: <h2>Falschberatung Kapitalanlagen anfechten</h2> -->
+      <!-- TODO: Landing page: <h2>Beratung zu Immobilien</h2> -->
     </div>
 
     <hr>
 
     <div class="themen__neben">
-      <a href="#"><h3 class="h5">Versicherungsrecht</h3></a>
-      <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
-      <a href="#"><h3 class="h5">Suchergebnisse und Bewertungen löschen</h3></a>
-      <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
-      <a href="#"><h3 class="h5">Darlehenswiderruf</h3></a>
+      {% for thema in page.nebenthemen %}
+        <a href="/themen/{{thema.topic}}"><h3 class="h5">{{thema.titel}}</h3></a>
+        {% unless forloop.last %}
+          <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
+        {% endunless %}
+      {% endfor %}
     </div>
   </section>
 
