@@ -81,7 +81,6 @@
 
     .box_hell {
       article {
-        max-width: $max-width--sm;
         padding-left: 0;
 
         background-color: $clr-transparent-bl-1;
@@ -89,13 +88,25 @@
         display: flex;
         flex-direction: row-reverse;
         align-items: stretch;
+
+        max-width: 300px;
+        @media(min-width: $media-sm){ max-width: 580px; }
+        @media(min-width: $media-md){ max-width: $max-width--sm; }
       }
 
       .abschnitt__img {
-        width: 200px;
-        margin-right: 40px;
+        display: none;
 
-        flex-shrink: 0;
+        @media(min-width: $media-md){
+          display: block;
+          width: 250px;
+          margin-right: 20px;
+
+          flex-shrink: 0;
+        }
+      }
+      .abschnitt__text {
+        padding: 0 20px 20px;
       }
     }
 
