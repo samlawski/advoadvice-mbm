@@ -23,11 +23,21 @@
     margin-top: -80px;
 
     box-shadow: $shadow;
-    padding: 20px 40px; 
+    // padding: 20px 40px; 
 
     ul {
       list-style: none;
       padding: 0;
+    }
+
+    a {
+      padding: 5px 40px;
+      display: block;
+      
+      transition: background-color $transition-time-1;
+      &:hover {
+        background-color: $clr-transparent-bl-1;
+      }
     }
   }
 
