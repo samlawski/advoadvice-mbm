@@ -1,7 +1,7 @@
 ---
 layout: topic
 style_id: topic
-title: Schufa-Score verbessern
+title: Sicher durch die Insolvenz
 description: Beratung und Begleitung durch die Verbraucherinsolvenz und Regelinsolvenz von Rechtsanwälten mit langjähriger Erfahrung.
 header_titel: Sicher durch die Insolvenz
 header_image: /uploads/theme-schufa1.jpg
