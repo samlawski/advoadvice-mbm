@@ -40,9 +40,7 @@ defaults:
 # CloudCannon
 abschnitt_templates:
   - weiss_bild_links
-  - weiss_bild_rechts
-  - banner
-  - banner_hintergrund_bild
+  - banner_bild_rechts
   - box_hell
   - box_dunkel
 

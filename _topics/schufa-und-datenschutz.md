@@ -17,6 +17,11 @@ intro_text: Erhalten Sie eine erste Empfehlung zu Ihrer Situation jetzt sofort m
 intro_link_text: Zum SchuFa Selbst-Check
 intro_link: /schufa-beratung
 abschnitte:
+  - abschnitt_template: weiss_bild_links
+    link: negativ-eintrag-loeschen3
+    titel: Negativeintrag löschen
+    text_markdown: "Die meisten in Deutschland lebenden Menschen registrieren früher oder später, dass es die Schufa Holding AG (auch bekannt als Schutzgemeinschaft für die allgemeine Kreditsicherung, oder wie hier fortan: SCHUFA) und andere Wirtschaftsauskunfteien wie z.B. die infoscore Consumer Data GmbH oder die Creditreform Boniversum GmbH gibt. Das dahinterstehende Konzept dieser Unternehmen ist so simpel wie weitreichend:"
+    image: /uploads/auto-2679743-640-1.jpg
   - abschnitt_template: box_hell
     link: negativ-eintrag-loeschen
     titel: Negativeintrag löschen
