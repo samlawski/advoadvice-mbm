@@ -22,19 +22,9 @@ abschnitte:
     titel: Negativeintrag löschen
     text_markdown: "Die meisten in Deutschland lebenden Menschen registrieren früher oder später, dass es die Schufa Holding AG (auch bekannt als Schutzgemeinschaft für die allgemeine Kreditsicherung, oder wie hier fortan: SCHUFA) und andere Wirtschaftsauskunfteien wie z.B. die infoscore Consumer Data GmbH oder die Creditreform Boniversum GmbH gibt. Das dahinterstehende Konzept dieser Unternehmen ist so simpel wie weitreichend:"
     image: /uploads/auto-2679743-640-1.jpg
-  # - link: negativ-eintrag-loeschen
-  #   titel: Negativeintrag löschen
-  #   text_markdown: Test
-  #   image: /uploads/auto-2679743-640-1.jpg
-  #   image_beschreibung: Bild
-  # - link: negativ-eintrag-loeschen
-  #   titel: Negativeintrag löschen
-  #   text_markdown: Test
-  #   image: /uploads/auto-2679743-640-1.jpg
-  #   image_beschreibung: Bild
-  # - link: negativ-eintrag-loeschen
-  #   titel: Negativeintrag löschen
-  #   text_markdown: Test
-  #   image: /uploads/auto-2679743-640-1.jpg
-  #   image_beschreibung: Bild
+  - abschnitt_template: box_dunkel
+    link: negativ-eintrag-loeschen2
+    titel: Negativeintrag löschen
+    text_markdown: "Die meisten in Deutschland lebenden Menschen registrieren früher oder später, dass es die Schufa Holding AG (auch bekannt als Schutzgemeinschaft für die allgemeine Kreditsicherung, oder wie hier fortan: SCHUFA) und andere Wirtschaftsauskunfteien wie z.B. die infoscore Consumer Data GmbH oder die Creditreform Boniversum GmbH gibt. Das dahinterstehende Konzept dieser Unternehmen ist so simpel wie weitreichend:"
+    image: /uploads/auto-2679743-640-1.jpg
 ---
