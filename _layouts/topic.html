@@ -46,8 +46,8 @@ layout: default
     {% for abschnitt in page.abschnitte %}
       <div class="abschnitt {{abschnitt.abschnitt_template}}">
         <article>
+          <h2 class="abschnitt__header" id="{{abschnitt.link}}">{{abschnitt.titel}}</h2>
           <div class="abschnitt__text">
-            <h2 id="{{abschnitt.link}}">{{abschnitt.titel}}</h2>
             <div>{{abschnitt.text_markdown | markdownify}}</div>
 
             <a class="abschnitt__cta button" href="#kontakt">Kostenlos Gespräch vereinbaren</a>
