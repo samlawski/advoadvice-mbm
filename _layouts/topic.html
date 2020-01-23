@@ -35,10 +35,16 @@ layout: default
 
 
   <section class="intro h-container">
-    <p class="h5">{{page.intro_titel}}</p>
-    <p>{{page.intro_text}}</p>
+    {% if page.intro_titel %}
+      <p class="h5">{{page.intro_titel}}</p>
+    {% endif %}
+    {% if page.intro_text_markdown %}
+      <div>{{page.intro_text_markdown | markdownify}}</div>
+    {% endif %}
 
-    <a class="button" href="{{page.intro_link}}">{{page.intro_link_text}}</a>
+    {% if page.intro_link %}
+      <a class="button" href="{{page.intro_link}}">{{page.intro_link_text}}</a>
+    {% endif %}
   </section>
 
 
