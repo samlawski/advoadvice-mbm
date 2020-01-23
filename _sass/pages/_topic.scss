@@ -54,6 +54,7 @@
 
     // Styles of all boxes: 
 
+    .abschnitt { clear: both; }
     article {
       margin-left: auto;
       margin-right: auto;
@@ -82,47 +83,47 @@
       article {
         max-width: $max-width--md;
 
-        display: grid;
-        grid-template-columns: auto;
-        grid-template-rows: 300px auto auto;
-        grid-template-areas: 
-          "image"
-          "header"
-          "text";
-
         @media(min-width: $media-md){
-          grid-template-columns: 1fr 2fr;
-          grid-template-rows: auto auto;
-          grid-template-areas: 
-            "header header"
-            "image text";
-          // 
+          display: flex;
+          flex-wrap: wrap;
         }
-        
       }
 
       .abschnitt__img {
-        grid-area: image;
+        width: 300px;
+        max-width: 100%;
+        height: 200px;
+        margin: 20px auto;
+
+        @media(min-width: $media-sm){
+          width: 500px;
+          height: 350px;
+        }
         @media(min-width: $media-md){
+          width: 400px;
+          height: 300px;
           margin-right: 40px;
         }
       }
       .abschnitt__header {
-        grid-area: header;
-        padding-top: 40px;
+        flex-basis: 100%;
+
+        padding-top: 20px;
         @media(min-width: $media-md){
           padding-top: 0;
-          padding-bottom: 40px;
+          padding-bottom: 20px;
         }
       }
       .abschnitt__text {
-        grid-area: text;
+        flex: 1;
       }
     }
 
 
     .banner_bild_rechts {
       background-color: $clr-secondary;
+      padding-top: 20px;
+      padding-bottom: 1px;
 
       article {
         max-width: $max-width;
