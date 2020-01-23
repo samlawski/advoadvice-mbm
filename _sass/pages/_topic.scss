@@ -103,6 +103,9 @@
           width: 400px;
           height: 300px;
           margin-right: 40px;
+
+          position: sticky;
+          top: 83px;
         }
       }
       .abschnitt__header {
@@ -227,6 +230,16 @@
         border-color: $clr-bg;
         color: $clr-bg;
       }
+
+      a { color: $clr-secondary; }
     }
+    .abschnitt--noimage.box_dunkel article,
+    .abschnitt--noimage.box_hell article {
+      grid-template-columns: auto;
+      grid-template-areas: 
+        "header"
+        "text";
+    }
+
   }
 }
