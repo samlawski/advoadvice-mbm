@@ -73,4 +73,6 @@ abschnitte:
       Hier ist somit zum einen Vorsicht und zum anderen Eile geboten, insbesondere um eine eigene Haftung des Gesch&auml;ftsf&uuml;hrers / Vorstandes sowie eine strafrechtliche Verfolgung durch die Justiz zu vermeiden.
     image: 
     cta: false
+redirect_from: 
+  - '/themen/insolvenzrecht'
 ---

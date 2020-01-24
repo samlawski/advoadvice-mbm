@@ -1,6 +1,6 @@
 ---
-titel: Kim Oliver Klevenhagen Rechtsanwalt
 name: Kim Oliver Klevenhagen
+titel: Gr&uuml;ndungspartner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
 portrait_path: /uploads/klevenhagen-klein.jpg
 email: klevenhagen@advoadvice.de
 themes:
@@ -19,5 +19,3 @@ themes:
     link: '#'
 reihenfolge: 2
 ---
-
-Gr&uuml;ndungspartner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht

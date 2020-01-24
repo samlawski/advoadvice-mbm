@@ -20,4 +20,6 @@ abschnitte:
       
     image: 
     cta: true
+redirect_from: 
+  - ''
 ---
