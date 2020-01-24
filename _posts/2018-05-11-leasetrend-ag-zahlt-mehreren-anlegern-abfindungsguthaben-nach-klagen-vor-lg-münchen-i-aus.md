@@ -10,6 +10,7 @@ description: >-
   Prozesserfolge: LeaseTrend AG zahlt Abfindungsguthaben nach Klagen vor LG
   München I
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

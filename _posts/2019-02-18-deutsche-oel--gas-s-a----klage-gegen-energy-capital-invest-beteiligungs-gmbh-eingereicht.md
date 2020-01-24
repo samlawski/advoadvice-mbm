@@ -10,6 +10,7 @@ description: >-
   Klage gegen Energy Capital Invest Beteiligungsgesellschaft mbH vor Landgericht
   Stuttgart eingereich
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

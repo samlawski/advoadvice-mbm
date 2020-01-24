@@ -8,6 +8,7 @@ description: >-
   Insolvenzverwalter der Premium Safe Ltd. fordert Auszahlungen von Anlegern
   zurück
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche

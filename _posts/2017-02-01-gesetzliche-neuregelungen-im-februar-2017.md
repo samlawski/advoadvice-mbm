@@ -6,6 +6,7 @@ title: Gesetzliche Neuregelungen im Februar 2017
 date: 2017-02-01 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation

@@ -8,6 +8,7 @@ title: >-
 date: 2019-02-27 00:00:00
 description: Thomas Lloyd Anleger verwirrt - Angebot auf keinen Fall annehmen!
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger

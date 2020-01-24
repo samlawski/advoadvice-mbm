@@ -10,6 +10,7 @@ description: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ClinicAll Germany

@@ -10,6 +10,7 @@ description: >-
   Landgericht Mosbach verurteilt Leo One Geschäftsführer und Rechtsanwalt zum
   Schadensersatz
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

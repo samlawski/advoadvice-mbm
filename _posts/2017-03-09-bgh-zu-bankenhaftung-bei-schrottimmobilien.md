@@ -6,6 +6,7 @@ title: BGH zu Bankenhaftung bei Schrottimmobilien
 date: 2017-03-09 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

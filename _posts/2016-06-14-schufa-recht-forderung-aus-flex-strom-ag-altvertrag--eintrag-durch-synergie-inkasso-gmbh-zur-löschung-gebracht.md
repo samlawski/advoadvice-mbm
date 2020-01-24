@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Forderung aus Flex Strom AG Altvertrag – Eintrag durch S
 date: 2016-06-14 12:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag

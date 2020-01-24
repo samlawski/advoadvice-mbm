@@ -8,6 +8,7 @@ description: >-
   Die Synergie Inkasso widerruft einen negativen Schufa Eintrag zeitglieich zur
   Löschungs-Mitteilung der Schufa Holding AG.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

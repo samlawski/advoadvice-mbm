@@ -6,6 +6,7 @@ title: Erste Negativeinträge bei Auskunfteien nach Inkrafttreten der DSGVO gel�
 date: 2018-06-05 00:00:00
 description: Erster Negativeintrag nach Inkrafttreten der DSGVO gelöscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Negativeintrag

@@ -6,6 +6,7 @@ title: SCHUFA-Eintrag nach Vergleich in Berufungsinstanz widerrufen
 date: 2018-12-03 00:00:00
 description: Synergie Inkasso widerruft Schufa Eintrag nach Vergleich vor OLG Oldenburg
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

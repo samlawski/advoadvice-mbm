@@ -6,6 +6,7 @@ title: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
 date: 2018-11-20 00:00:00
 description: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Wohnrecht

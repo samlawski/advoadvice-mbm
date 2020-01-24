@@ -10,6 +10,7 @@ description: >-
   RWC Real Win Club UG (haftungsbeschränkt): BaFin ordnet Einstellung und
   Abwicklung des Einlagengeschäfts an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - RWC UG

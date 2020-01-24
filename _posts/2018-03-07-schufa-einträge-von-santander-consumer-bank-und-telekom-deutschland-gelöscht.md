@@ -8,6 +8,7 @@ description: >-
   AdvoAdvice erzielt Löschung von zwei Negativeinträgen der Santander Consumer
   Bank und Telekom Deutschland GmbH
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

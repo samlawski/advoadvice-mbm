@@ -6,6 +6,7 @@ title: 'IN-Genium Galvano Fonds GmbH & Co. KG - Insolvenz mangels Masse nicht er
 date: 2017-02-16 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

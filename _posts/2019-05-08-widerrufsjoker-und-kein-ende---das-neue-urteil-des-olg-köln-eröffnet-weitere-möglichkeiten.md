@@ -10,6 +10,7 @@ description: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerrufsjoker

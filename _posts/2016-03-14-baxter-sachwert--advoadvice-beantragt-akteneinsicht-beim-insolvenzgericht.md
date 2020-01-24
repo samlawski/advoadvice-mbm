@@ -6,6 +6,7 @@ title: Baxter Sachwert – AdvoAdvice beantragt Akteneinsicht beim Insolvenzgeri
 date: 2016-03-14 18:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

@@ -8,6 +8,7 @@ description: >-
   Vergleich bei Klage gegen Verantwortliche der Brest Tauros vor LG Mainz
   abgeschlossen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

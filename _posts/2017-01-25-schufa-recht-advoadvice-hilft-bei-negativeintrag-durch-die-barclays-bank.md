@@ -6,6 +6,7 @@ title: 'Schufa-Recht: AdvoAdvice hilft bei Negativeintrag durch die Barclays Ban
 date: 2017-01-25 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag

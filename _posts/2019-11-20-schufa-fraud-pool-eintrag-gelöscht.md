@@ -6,6 +6,7 @@ title: SCHUFA-Fraud Pool Eintrag gelöscht
 date: 2019-11-20 00:00:00
 description: CreditPlus Bank Eintrag in den SCHUFA-FraudPool gelöscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

@@ -6,6 +6,7 @@ title: EWIV - Europäische Wirtschaftliche Interessenvereinigung - Haftungsfalle
 date: 2017-02-22 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

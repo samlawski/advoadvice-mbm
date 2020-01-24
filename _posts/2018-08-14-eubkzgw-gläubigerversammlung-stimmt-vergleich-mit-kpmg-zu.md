@@ -8,6 +8,7 @@ description: >-
   Gläubigerversammlung der EUBKZGW EWIV stimmt Vergleichsvorschlag des
   Insolvenzverwalters zu.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz

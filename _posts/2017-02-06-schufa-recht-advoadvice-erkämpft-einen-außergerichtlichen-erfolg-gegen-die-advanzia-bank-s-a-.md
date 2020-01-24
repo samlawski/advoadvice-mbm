@@ -6,6 +6,7 @@ title: 'Schufa-Recht: AdvoAdvice erkämpft einen außergerichtlichen Erfolg gege
 date: 2017-02-06 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag

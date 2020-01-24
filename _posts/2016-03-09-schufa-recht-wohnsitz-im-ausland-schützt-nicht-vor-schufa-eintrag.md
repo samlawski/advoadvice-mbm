@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Wohnsitz im Ausland schützt nicht vor Schufa Eintrag'
 date: 2016-03-09 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag

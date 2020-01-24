@@ -10,6 +10,7 @@ description: >-
   Reservation Fees when buying Real Estate Property – A Usually Void Agreement
   in Germany – Repayment claims against Brokers?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Real Estate
