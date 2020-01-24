@@ -6,6 +6,7 @@ title: Bankenhaftung bei Falschberatung zu Anleihe
 date: 2016-09-22 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation

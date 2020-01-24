@@ -6,6 +6,7 @@ title: 'SCHUFA und DSGVO: Härtefälle und Einzelfallprüfung'
 date: 2018-07-19 00:00:00
 description: Neue Härtefallregelung der SCHUFA
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Recht

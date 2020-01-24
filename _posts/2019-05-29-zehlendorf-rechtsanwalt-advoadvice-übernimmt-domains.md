@@ -6,6 +6,7 @@ title: 'Zehlendorf Rechtsanwalt: AdvoAdvice übernimmt Domains'
 date: 2019-05-29 00:00:00
 description: Zehlendorf-Rechtsanwalt.de - Neue Domain für AdvoAdvice
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Zehlendorf

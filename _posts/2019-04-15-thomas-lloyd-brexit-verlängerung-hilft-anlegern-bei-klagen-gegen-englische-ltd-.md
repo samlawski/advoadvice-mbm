@@ -10,6 +10,7 @@ description: >-
   Thomas Lloyd: Brexit Verschiebung hilft Anlegern bei Klagen gegen englische
   Limited.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Brexit

@@ -6,6 +6,7 @@ title: 'Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für d
 date: 2016-09-02 23:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

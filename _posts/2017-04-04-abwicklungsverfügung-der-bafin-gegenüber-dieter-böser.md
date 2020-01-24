@@ -6,6 +6,7 @@ title: Abwicklungsverfügung der BaFin gegenüber Dieter Böser
 date: 2017-04-04 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

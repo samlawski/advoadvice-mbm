@@ -10,6 +10,7 @@ description: >-
   Chance auf Widerruf der Autofinanzierung besteht fort, auch wenn
   Schadenersatzansprüche verjährt sind
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

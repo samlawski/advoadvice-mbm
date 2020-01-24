@@ -6,6 +6,7 @@ title: Solarworld AG Insolvenz - Was Anleger der Anleihen jetzt wissen müssen
 date: 2017-05-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz

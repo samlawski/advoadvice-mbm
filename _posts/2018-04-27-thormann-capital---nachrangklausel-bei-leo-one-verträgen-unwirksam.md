@@ -8,6 +8,7 @@ description: >-
   Thormann Capital: Anleger können Forderung aus GreenUp Verträgen zur
   Insolvenztabelle anmelden
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz

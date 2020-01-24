@@ -8,6 +8,7 @@ title: >-
 date: 2018-05-23 00:00:00
 description: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

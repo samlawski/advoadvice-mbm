@@ -8,6 +8,7 @@ description: >-
   Experten-Talk beim VGSD mit Dr. Sven Tintemann zum Thema Schufa für
   Selbständige
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa

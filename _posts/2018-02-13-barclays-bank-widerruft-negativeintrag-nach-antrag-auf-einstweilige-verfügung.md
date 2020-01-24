@@ -8,6 +8,7 @@ description: >-
   Barclays Bank widerruft Negativeintrag nach Antrag auf einstweilige Verfügung
   beim Landgericht Hamburg
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

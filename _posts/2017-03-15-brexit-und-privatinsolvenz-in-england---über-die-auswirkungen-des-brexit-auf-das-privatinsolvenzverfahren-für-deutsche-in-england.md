@@ -6,6 +6,7 @@ title: Brexit und Privatinsolvenz in England - Über die Auswirkungen des Brexit
 date: 2017-03-15 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

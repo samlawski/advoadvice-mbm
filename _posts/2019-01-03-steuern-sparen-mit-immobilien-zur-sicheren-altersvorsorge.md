@@ -6,6 +6,7 @@ title: Steuern sparen mit Immobilien zur sicheren Altersvorsorge
 date: 2019-01-03 00:00:00
 description: Steuern sparen mit Immobilien zur sicheren Altersvorsorge
 layout: post
+style_id: post
 feature_bild_path:
 tags:
 topics:

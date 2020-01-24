@@ -8,6 +8,7 @@ title: >-
 date: 2018-06-14 10:39:11
 description: Neue Musterfeststellungsklage beschlossen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

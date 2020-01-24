@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Junger Unternehmer nach Löschung eines  Negativeintrages 
 date: 2017-05-08 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

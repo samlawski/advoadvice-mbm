@@ -6,6 +6,7 @@ title: SCHUFA-Eintrag der Telekom gelöscht
 date: 2018-11-15 00:00:00
 description: Schufa Eintrag wegen fehlender Mahn- und Kündigungsschreiben unrechtmäßig
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

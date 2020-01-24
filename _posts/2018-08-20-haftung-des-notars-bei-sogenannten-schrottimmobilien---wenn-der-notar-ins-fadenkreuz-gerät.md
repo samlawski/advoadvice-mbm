@@ -10,6 +10,7 @@ description: >-
   Haftung Des Notars Bei Sogenannten Schrottimmobilien Wenn der Notar Ins
   Fadenkreuz Gerät
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilie

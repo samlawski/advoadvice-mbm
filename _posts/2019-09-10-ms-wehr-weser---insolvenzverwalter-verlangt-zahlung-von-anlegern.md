@@ -8,6 +8,7 @@ description: >-
   Insolvenzverwalter der MS Wehr Weser Schiffahrtsgesellschaft fordert Zahlung
   von Anlegern
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - MS Wehr Weser

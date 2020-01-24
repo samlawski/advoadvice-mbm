@@ -10,6 +10,7 @@ description: >-
   Thomas Lloyd Investments GmbH im Firmenbuch gelöscht - CT Infrastructure
   Holding lehnt Rückzahlung ab
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ThomasLloyd Investments GmbH

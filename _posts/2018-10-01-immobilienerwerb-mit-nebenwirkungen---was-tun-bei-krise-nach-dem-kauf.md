@@ -8,6 +8,7 @@ description: >-
   Haftungsfallen erkennen und abwehren bei Hauskauf –  Was Rechtsanwälte bei
   verschwiegenen Mängeln raten.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilie

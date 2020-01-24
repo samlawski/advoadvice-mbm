@@ -10,6 +10,7 @@ description: >-
   Kündigung ohne Kündigungsvoraussetzungen führt zu negativen Schufa Eintrag
   durch Barclays Bank PLC.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag

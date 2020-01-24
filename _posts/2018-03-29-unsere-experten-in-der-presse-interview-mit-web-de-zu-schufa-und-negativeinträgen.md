@@ -8,6 +8,7 @@ title: >-
 date: 2018-03-29 00:00:00
 description: Dr. Tintemann zum Thema Schufa im Interview bei Web.de
 layout: post
+style_id: post
 feature_bild_path: /uploads/web-de.jpg
 tags:
   - Experten

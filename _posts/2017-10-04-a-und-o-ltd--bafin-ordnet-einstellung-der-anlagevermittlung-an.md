@@ -8,6 +8,7 @@ description: >-
   BaFin ordnet Einstellung der Anlagevermittlung der A und O Ltd. aus Schweden
   an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

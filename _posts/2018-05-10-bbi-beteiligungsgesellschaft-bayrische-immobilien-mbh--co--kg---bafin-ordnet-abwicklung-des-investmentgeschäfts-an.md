@@ -10,6 +10,7 @@ description: >-
   BaFin ordnet Abwicklung des Investmentgeschäfts der BBI
   Beteiligungsgesellschaft an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

@@ -6,6 +6,7 @@ title: 'Air Berlin: Sachwalter Prof. Dr. Flöther schreibt Gläubiger an'
 date: 2017-11-30 00:00:00
 description: Air Berlin Insolvenz - Gläubiger sollen Forderungen anmelden
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformationen

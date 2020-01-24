@@ -6,6 +6,7 @@ title: 6. Infotag Lettland Insolvenz in Berlin am 04.12.2019
 date: 2019-10-31 00:00:00
 description: 6. Informationstag für Lettland Insolvenz am 04.12.2019
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Lettland

@@ -8,6 +8,7 @@ title: >-
 date: 2019-03-15 00:00:00
 description: Rechtsschutz Union zur Kostenübernahme nach Deckungsschutzklage verurteilt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Amtsgericht Mitte

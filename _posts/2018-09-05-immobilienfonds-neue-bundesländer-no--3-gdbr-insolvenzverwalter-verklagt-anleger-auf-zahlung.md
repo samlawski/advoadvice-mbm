@@ -10,6 +10,7 @@ description: >-
   Insolvenzverwalter der Immobilienfonds Neue Bundesländer No. 3 GdbR verklagt
   Anleger auf Zahlung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger

@@ -10,6 +10,7 @@ description: >-
   Schufa löscht negativen Eintrag der Barclays Bank PLC nach fristloser
   Kündigung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
