@@ -103,7 +103,7 @@ ablauf:
 
     <div class="themen__neben">
       {% for thema in page.nebenthemen %}
-        <a href="/themen/{{thema.topic}}"><h3 class="h5">{{thema.titel}}</h3></a>
+        <a href="/themen/{{thema.topic}}"><h3 class="h4">{{thema.titel}}</h3></a>
         {% unless forloop.last %}
           <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
         {% endunless %}
