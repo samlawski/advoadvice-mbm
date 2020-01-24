@@ -10,6 +10,7 @@ description: >-
   Kündigung des Darlehens durch die Bank - Was man bei Darlehenskündigungen tun
   kann
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Darlehen

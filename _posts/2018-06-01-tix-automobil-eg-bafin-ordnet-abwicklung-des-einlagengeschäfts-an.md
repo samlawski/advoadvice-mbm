@@ -6,6 +6,7 @@ title: Tix Automobil eG; Bafin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-06-01 00:00:00
 description: 'Tix Automobil eG: Bafin ordnet Abwicklung des Einlagengeschäfts an'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

@@ -6,6 +6,7 @@ title: Reservierungsgebühren beim gescheiterten Immobilienkauf – Rückzahlung
 date: 2017-03-16 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformationen

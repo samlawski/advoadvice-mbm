@@ -6,6 +6,7 @@ title: 'ThomasLloyd: Aktien statt Auszahlung für Genussrechtsinhaber?'
 date: 2019-02-20 00:00:00
 description: 'ThomasLloyd: Aktien statt Rückzahlung an Genussrechtsanleger'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

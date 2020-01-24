@@ -6,6 +6,7 @@ title: Unsere Experten in der Presse - WELT über Lehman Klagen
 date: 2017-06-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/welt-n24-quadrat.jpg
 tags:
   - Experten

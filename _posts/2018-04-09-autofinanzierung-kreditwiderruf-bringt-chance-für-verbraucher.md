@@ -8,6 +8,7 @@ description: >-
   Stiftung Warentest berichtet über Möglichkeit des Widerrufs von
   Autofinanzierungen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerruf

@@ -6,6 +6,7 @@ title: Rückabwicklung des Immobilienkaufs - Notarhaftung im Fokus
 date: 2018-06-29 00:00:00
 description: Notarhaftung bei Immobilienkauf
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Klevenhagen

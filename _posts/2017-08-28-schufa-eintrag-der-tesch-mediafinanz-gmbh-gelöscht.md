@@ -6,6 +6,7 @@ title: Schufa Eintrag der Tesch Mediafinanz GmbH gelöscht
 date: 2017-08-28 00:00:00
 description: Schufa Eintrag der Tesch Mediafinanz gelöscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag

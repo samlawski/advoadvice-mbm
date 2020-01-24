@@ -6,6 +6,7 @@ title: 'SAM AG: BGH hebt KG auf und verweist zurück.'
 date: 2018-07-24 00:00:00
 description: 'SAM AG: Bundesgerichtshof hebt Urteil des Kammergericht auf'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

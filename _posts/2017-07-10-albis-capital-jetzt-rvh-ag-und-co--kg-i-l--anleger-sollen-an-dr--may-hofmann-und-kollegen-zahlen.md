@@ -6,6 +6,7 @@ title: 'Albis Capital (jetzt RvH AG und Co. KG i.L.): Anleger sollen an Dr. May,
 date: 2017-07-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

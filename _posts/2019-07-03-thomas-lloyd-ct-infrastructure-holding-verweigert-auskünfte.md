@@ -8,6 +8,7 @@ description: >-
   Thomas Lloyd: Auskunftsansprüche durch CT Infrastructure Holding Ltd.
   abgelehnt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ThomasLloyd

@@ -8,6 +8,7 @@ description: >-
   Die Synergie Inkasso GmbH kann die Forderungsinhaberschaft häufig nicht
   nachweisen.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

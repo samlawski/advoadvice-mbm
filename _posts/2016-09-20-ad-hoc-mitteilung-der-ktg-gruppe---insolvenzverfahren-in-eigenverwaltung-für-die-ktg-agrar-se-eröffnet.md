@@ -6,6 +6,7 @@ title: Ad-hoc Mitteilung der KTG Gruppe - Insolvenzverfahren in Eigenverwaltung 
 date: 2016-09-20 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

@@ -10,6 +10,7 @@ description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG durch Landgericht Berlin zur
   Zahlung verurteilt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

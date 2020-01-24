@@ -6,6 +6,7 @@ title: Unsere Experten in den Medien - Star FM - Beitrag über Namensdoppelgäng
 date: 2017-06-09 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/starfm-logo.png
 tags:
   - Experten

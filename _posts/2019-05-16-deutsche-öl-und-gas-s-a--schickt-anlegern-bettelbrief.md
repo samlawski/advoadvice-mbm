@@ -8,6 +8,7 @@ description: >-
   Deutsche Öl & Gas: Aktionäre sollen 1,20 Euro pro Aktien in die Rücklage
   einzahlen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger

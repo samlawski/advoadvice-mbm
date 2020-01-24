@@ -6,6 +6,7 @@ title: "Brest-Tauros GmbH - Rückfrage zum Sachstand der Abwicklung ohne Antwort
 date: 2016-08-09 17:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Brest-Tauros GmbH", "Sachstandsanfrage", "Abwicklung", "BaFin", "Anleger", "Sicherheit", "Anlagensicherung", "Ronda II", "Ronda I", "grundbuchliche Besicherung", "Haftung", "Rückmeldung", "Anlegergemeinschaft", "AdvoAdvice", "Dr. Tintemann", "Bank- und Kapitalmarktrecht"]
 topics: []

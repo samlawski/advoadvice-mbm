@@ -10,6 +10,7 @@ description: >-
   Insolvenzrecht: Verfahrenskosten aus Strafverfahren durch Restschuldbefreiung
   loswerden
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz

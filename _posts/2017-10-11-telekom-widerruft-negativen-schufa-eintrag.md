@@ -8,6 +8,7 @@ description: >-
   Die Telekom Deutschland GmbH widerruft einen negativen Schufa Eintrag nach
   gerichtlichem Vergleich.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag

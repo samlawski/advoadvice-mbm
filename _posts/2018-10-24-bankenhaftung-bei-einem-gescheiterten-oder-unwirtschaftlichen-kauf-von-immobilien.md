@@ -10,6 +10,7 @@ description: >-
   ankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schrottimmobilie

@@ -8,6 +8,7 @@ description: >-
   PIM Gold und Scheideanstalt GmbH - StA durchsucht Geschäftsräume und stellt
   Vermögenswerte sicher
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - PIM Gold

@@ -13,6 +13,7 @@ description: >-
   vorteilhaftes Urteil erlassen, welches den Sparkassenkunden eine Art
   Widerrufsjoker bei Darlehensverträgen gewährt.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerrufsrecht

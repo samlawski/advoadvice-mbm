@@ -6,6 +6,7 @@ title: 'DSGVO: Gibt es neue Hoffnung bei Eintrag der Restschuldbefreiung?'
 date: 2018-06-19 00:00:00
 description: Eintrag über Restschuldbefreiung unter DSGVO löschbar?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

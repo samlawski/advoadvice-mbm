@@ -6,6 +6,7 @@ title: 'DEF Deutsche Energie Finanz 11 GmbH & Co. KG lädt zu außerordentlichen
 date: 2017-03-11 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz
