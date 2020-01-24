@@ -19,20 +19,21 @@ layout: default
     </nav>
   </div>
 
-  <section class="erfolge h-container">
-    <p class="h6">Erfolge</p>
+  {% if page.erfolge %}
+    <section class="erfolge h-container">
+      <p class="h6">Erfolge</p>
 
-    <div class="erfolge__boxen">
-      {% for erfolg in page.erfolge %}
-        <div>
-          <span class="h1">{{erfolg.zahl}}</span>
-          <br>
-          <span>{{erfolg.text}}</span>
-        </div>
-      {% endfor %}
-    </div>
-  </section>
-
+      <div class="erfolge__boxen">
+        {% for erfolg in page.erfolge %}
+          <div>
+            <span class="h1">{{erfolg.zahl}}</span>
+            <br>
+            <span>{{erfolg.text}}</span>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
 
   <section class="intro h-container">
     {% if page.intro_titel %}
