@@ -8,6 +8,7 @@ description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG kann Immobilie nicht insgesamt
   verkaufen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

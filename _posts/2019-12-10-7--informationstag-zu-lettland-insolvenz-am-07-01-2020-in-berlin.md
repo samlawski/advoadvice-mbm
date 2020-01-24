@@ -6,6 +6,7 @@ title: 7. Informationstag zu Lettland Insolvenz am 07.01.2020 in Berlin
 date: 2019-12-10 00:00:00
 description: Informationstag zu Insolvenz in Lettland in Berlin bei Kanzlei AdvoAdvice
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Lettland

@@ -6,6 +6,7 @@ title: 'Anleger aufgepasst! Die BaFin ordnet die Abwicklung des Einlagen- und Kr
 date: 2016-10-28 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

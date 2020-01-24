@@ -6,6 +6,7 @@ title: SAM AG - Vermittler durch LG Regensburg wegen Drittstaateneinlagenvermitt
 date: 2017-05-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

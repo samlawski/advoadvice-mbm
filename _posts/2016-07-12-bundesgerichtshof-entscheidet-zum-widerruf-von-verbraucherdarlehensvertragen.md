@@ -6,6 +6,7 @@ title: "Bundesgerichtshof entscheidet zum Widerruf von Verbraucherdarlehensvertr
 date: 2016-07-12 10:35:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["BGH", "Karlsruhe", "Widerrufsbelehrung", "Verfristung", "Urteil", "verbraucherfreundlich", "Verbraucher", "AdvoAdvice", "Erstberatung", "Berlin", "rechtsmissbräuchlich", "Rechtsmißbrauch", "Haustürwiderruf", "Motivprüfung"]
 topics: []

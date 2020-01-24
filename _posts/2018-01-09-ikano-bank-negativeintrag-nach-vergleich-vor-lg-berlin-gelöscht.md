@@ -8,6 +8,7 @@ description: >-
   Ikano Bank AB widerruft Negativeintrag nach Vergleich vor dem Landgericht
   Berlin
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

@@ -8,6 +8,7 @@ description: >-
   Landgericht Görlitz erlässt Versäumnisurteil gegen CT Infrastructure Holding
   Ltd.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ThomasLloyd

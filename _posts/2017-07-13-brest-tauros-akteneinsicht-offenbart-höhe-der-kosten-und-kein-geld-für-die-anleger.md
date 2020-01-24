@@ -6,6 +6,7 @@ title: 'Brest Tauros: Akteneinsicht offenbart Höhe der Kosten und kein Geld fü
 date: 2017-07-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

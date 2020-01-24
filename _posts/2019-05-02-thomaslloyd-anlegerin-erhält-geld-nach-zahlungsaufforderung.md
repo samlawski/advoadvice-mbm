@@ -6,6 +6,7 @@ title: 'ThomasLloyd: Anlegerin erhält Geld nach Zahlungsaufforderung'
 date: 2019-05-02 00:00:00
 description: 'ThomasLLoyd: Zahlung an Anlegerin nach Zahlungsaufforderung erstritten'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

@@ -6,6 +6,7 @@ title: Brest Tauros - Amtsgericht bewilligt Akteneinsicht
 date: 2017-01-12 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

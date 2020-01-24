@@ -10,6 +10,7 @@ description: >-
   BaFin ordnet Einstellung des Investmentgeschäfts bei Martin Oswald und Can
   Terra Investments Holding LLC an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

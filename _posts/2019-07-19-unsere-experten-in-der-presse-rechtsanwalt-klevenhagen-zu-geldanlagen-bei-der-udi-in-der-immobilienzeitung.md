@@ -10,6 +10,7 @@ description: >-
   Unsere Experten in der Presse: Rechtsanwalt Klevenhagen zu Geldanlagen bei der
   UDI in der Immobilienzeitung
 layout: post
+style_id: post
 feature_bild_path: /uploads/immozeitung.png
 tags:
   - Festzinsanlage UDI

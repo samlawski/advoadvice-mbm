@@ -8,6 +8,7 @@ description: >-
   Landgericht Ansbach verurteilt Advanzia Bank S.A. zu Widerruf eines
   Negativeintrages
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Advanzia Bank S.A.

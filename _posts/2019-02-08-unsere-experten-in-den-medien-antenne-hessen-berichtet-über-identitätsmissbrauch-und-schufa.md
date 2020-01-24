@@ -8,6 +8,7 @@ title: >-
 date: 2019-02-08 00:00:00
 description: Antenne Hessen berichtet über Identitätsmissbrauch und Schufa
 layout: post
+style_id: post
 feature_bild_path: /uploads/antenne-hessen.png
 tags:
   - Antenne Hessen

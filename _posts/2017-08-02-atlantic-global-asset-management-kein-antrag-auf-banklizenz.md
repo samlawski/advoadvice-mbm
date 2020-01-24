@@ -6,6 +6,7 @@ title: 'Atlantic Global Asset Management: Kein Antrag auf Banklizenz'
 date: 2017-08-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

@@ -6,6 +6,7 @@ title: Unsere Experten in der Presse zum Thema Wohnimmobilienkreditrichtlinie
 date: 2016-11-28 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/bkr-ausgabe.jpg
 tags:
   - Experten

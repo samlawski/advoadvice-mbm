@@ -8,6 +8,7 @@ description: >-
   Der Widerruf von Auto-Finanzierungen ist oftmals wegen Belehrungsfehlern für
   Verbraucher erfolgreich
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerruf

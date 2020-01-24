@@ -6,6 +6,7 @@ title: Kündigung von Sparverträgen durch Sparkasse und Volksbank
 date: 2018-11-30 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Sparkasse

@@ -6,6 +6,7 @@ title: EUBKZGW - Erste Klage gegen Berater und Rechtsanwalt als Mitglied der EWI
 date: 2017-06-15 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

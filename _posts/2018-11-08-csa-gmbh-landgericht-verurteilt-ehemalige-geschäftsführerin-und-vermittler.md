@@ -8,6 +8,7 @@ description: >-
   CSA GmbH: Landgericht Nürnberg verurteilt Geschäftsführerin und Vermittler zu
   Schadensersatz
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

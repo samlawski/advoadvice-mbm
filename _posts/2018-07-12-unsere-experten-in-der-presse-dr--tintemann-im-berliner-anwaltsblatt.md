@@ -8,6 +8,7 @@ description: >-
   Dr. Tintemann fasst Vortrag von VRiKG Fahr für das Berliner Anwaltsblatt
   zusammen
 layout: post
+style_id: post
 feature_bild_path: /uploads/berliner-anwaltsblatt-1.png
 tags:
   - Experten in den Medien

@@ -8,6 +8,7 @@ description: >-
   Negativer Schufa Eintrag von American Express nach Ratenzahlungsvereinbarung
   gelöscht.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

@@ -10,6 +10,7 @@ description: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherungsgeschäft

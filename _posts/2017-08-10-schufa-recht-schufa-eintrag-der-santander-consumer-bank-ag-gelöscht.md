@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Schufa Eintrag der Santander Consumer Bank AG gelöscht'
 date: 2017-08-10 00:00:00
 description: Erfolgreich Schufa Eintrag der Santander Consumer Bank löschen lassen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

@@ -6,6 +6,7 @@ title: 'Unsere Experten in der Presse: Dr. Tintemann zu Thomas Lloyd im Handelsb
 date: 2019-07-09 00:00:00
 description: 'Thomas Lloyd: Artikel im Handelsblatt zitiert Dr. Tintemann von AdvoAdvice'
 layout: post
+style_id: post
 feature_bild_path: /uploads/handelsblatt-logo-1.png
 tags:
   - ThomasLloyd

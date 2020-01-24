@@ -8,6 +8,7 @@ title: >-
 date: 2019-03-20 00:00:00
 description: Rechtsschutzversicherung zahlt nach Einleitung eines Ombudsmannverfahrens
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherung

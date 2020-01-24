@@ -6,6 +6,7 @@ title: 'Buchempfehlung: Die große Fondslüge von Michael Ritzau'
 date: 2017-01-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation

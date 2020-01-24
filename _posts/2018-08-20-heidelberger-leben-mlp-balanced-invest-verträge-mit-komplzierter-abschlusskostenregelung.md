@@ -10,6 +10,7 @@ description: >-
   MLP balanced Invest Riester mit unklarer Regelung der Abschluss- und
   Vertriebskosten
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherungsrecht

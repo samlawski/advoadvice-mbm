@@ -6,6 +6,7 @@ title: Negativeintrag der American Express durch die SCHUFA gelöscht
 date: 2018-08-13 00:00:00
 description: SCHUFA löscht Eintrag der American Express
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

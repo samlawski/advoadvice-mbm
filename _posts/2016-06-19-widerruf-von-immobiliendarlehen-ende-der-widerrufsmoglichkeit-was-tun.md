@@ -6,6 +6,7 @@ title: "Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was t
 date: 2016-06-19 17:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Widerruf", "Immobilienkredit", "Darlehen", "Verjährung", "AdvoAdvice", "Klevenhagen", "Gesetzesänderung", "Bank", "Kredit"]
 topics: []

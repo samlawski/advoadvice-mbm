@@ -6,6 +6,7 @@ title: "Ist die IFMC-Group GmbH ihrer Abwicklungsverfügung wirklich im Sinne de
 date: 2016-06-28 08:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["IFMC-Group GmbH", "Abwicklungsverfügung", "BaFin", "MoneyVita Treuhand GmbH & Co. KG", "Anleger", "Anlegerschutz", "Rückabwicklung", "Geschäftsmodell", "AdvoAdvice", "Schadensersatz"]
 topics: []

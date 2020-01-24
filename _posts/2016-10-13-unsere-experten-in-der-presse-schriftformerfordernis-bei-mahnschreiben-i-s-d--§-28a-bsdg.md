@@ -6,6 +6,7 @@ title: 'Unsere Experten in der Presse: Schriftformerfordernis bei Mahnschreiben 
 date: 2016-10-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/vur.png
 tags:
   - Experten
