@@ -217,4 +217,5 @@ abschnitte:
       Das Scoring muss daher auch einer rechtlichen &Uuml;berpr&uuml;fung unterzogen werden k&ouml;nnen, auch wenn der Bundesgerichtshof meint, dass die Schufa Holding AG ihre Datenformel nicht offen legen muss.
     image: 
     cta: false
+redirect_from: '/themen/datenschutz'
 ---

@@ -196,4 +196,6 @@ abschnitte:
       Dr. Tintemann vertritt hier Unternehmen im Vorfeld der Ermittlungen der BaFin oder der Bundesbank, geht aber auch, soweit notwendig, gegen entsprechende Verwaltungsakte der BaFin mit Klagen vor dem zuständigen Verwaltungsgericht Frankfurt am Main vor.
     image: 
     cta: true
+redirect_from: 
+  - '/themen/bank-und-kapitalmarktrecht'
 ---
