@@ -1,6 +1,6 @@
 ---
-titel: Martin Mrozek Rechtsanwalt
 name: Martin Mrozek
+titel: Assoziierter Partner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht sowie Handels- und Gesellschaftsrecht
 portrait_path: /uploads/Webp.net-resizeimage-min.jpg
 email: mrozek@advoadvice.de
 themes:
@@ -16,5 +16,3 @@ themes:
     link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
 reihenfolge: 3
 ---
-
-Assoziierter Partner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht sowie Handels- und Gesellschaftsrecht

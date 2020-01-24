@@ -1,6 +1,6 @@
 ---
-titel: 
 name:
+titel: 
 portrait_path:
 email:
 themes:

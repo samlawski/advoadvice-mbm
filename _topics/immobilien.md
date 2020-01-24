@@ -27,4 +27,6 @@ abschnitte:
       AdvoAdvice Rechtsanwälte mbB ist kompetent in den  Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen ist seit vielen Jahren Experte für alle Fragen bezüglich solcher Anlagemodelle. Denn: Erst nachdem die Eigentumswohnung erworben wurde und meist das erste bzw. zweite Jahr verstrichen ist, stellen die meisten Anleger fest, dass die ihnen gemachten Versprechungen leider überhaupt nicht eingetroffen sind. Die Finanzierung der fremdgenutzten und fremdfinanzierten Eigentumswohnung lässt sich nicht mehr aufbringen. An diesem Punkt kann jedem betroffenen Anleger nur dringendst empfohlen werden, anwaltlichen Rat zu suchen. Denn die Möglichkeit für Anleger, denen Schrottimmobilien verkauft wurden und die nun die Rückabwicklung suchen, hat sich stetig verbessert. Eine genaue rechtliche Analyse des Einzelfalls ist bei AdvoAdvice selbstverständlich. Denn nur so können wir gemeinsam mit Ihnen den besten Weg finden, Ihnen wirtschaftlich sinnvoll zu helfen. Nicht immer ist ein möglicherweise langjähriger Gerichtsprozess die richtige Lösung. Häufig gibt es außergerichtliche Lösungsmöglichkeiten, die schneller zum Ziel führen.
     image: 
     cta: true
+redirect_from: 
+  - '/themen/immobilienrecht'
 ---
