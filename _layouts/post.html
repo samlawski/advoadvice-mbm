@@ -2,40 +2,44 @@
 layout: default
 ---
 
-<main>
-  {% if page.feature_bild_path %}
-    <header class="h-container--md" style="backgorund-image:url('{{page.feature_bild_path}}')"></header>
-  {% endif %}
+{% assign author_id = "/authors/" | append: page.author %}
+{% assign author = site.authors | where: "id", author_id | first %}
 
+{% if page.feature_bild_path %}
+  <header class="h-container--md" style="background-image:url('{{page.feature_bild_path}}')"></header>
+{% endif %}
+
+<main>
   <article class="h-container--sm">
     <header>
       <h1>{{page.title}}</h1>
+      <div class="post__authordate">von {{author.name}}, {{page.date | date: "%d. %B %Y" }}</div>
     </header>
 
     <section class="post__content">
       {{ content }}
     </section>
+  </article>
 
-    <footer>
-      {% assign author_id = "/authors/" | append: page.author %}
-      {% assign author = site.authors | where: "id", author_id | first %}
-      
+  <section class="h-container--sm">
+    <h2 class="editable">Nächste Schritte</h2>
+    <ol>
+      <li class="editable">Nehmen Sie gleich <a href="#kontakt">Kontakt</a> auf, um kostenlos eine erste Einschätzung vom Anwalt zu bekommen</li>
+      <li class="editable">Informieren Sie sich mehr zum Thema auf unseren <a href="/#themen">Seiten</a>.</li>
+    </ol>
+    <div>
+      <a class="button" href="#kontakt">Kostenloses Erstgespräch vereinbaren</a>
+    </div>
+
+
+    <footer class="post__author">
       <div class="post__author__img" style="background-image:url({{ author.portrait_path }})">
         <div class="post__author__img__frame"></div>
       </div>
 
-      <span class="post__author__name">{{ author.name }}</span>
+      <strong class="post__author__name">{{ author.name }}</strong><br>
       <span class="post__author__titel">{{ author.titel }}</span>
-      <span class="post__date">{{page.date | date: "%d. %B %Y" }}</span>
     </footer>
-  </article>
-
-  <section class="h-container--sm">
-    <h2>Nächste Schritte</h2>
-    <ol>
-      <li>Nehmen Sie gleich Kontakt auf, um kostenlos eine erste Einschätzung vom Anwalt zu bekommen</li>
-      <li>Informieren Sie sich mehr zum Theme “Thema seite link”</li>
-    </ol>
   </section>
 
   <section class="h-container--md">
