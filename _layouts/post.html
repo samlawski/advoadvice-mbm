@@ -1,33 +1,45 @@
 ---
-layout: page
+layout: default
 ---
 
-<div class="row">
-  <section id="blog" class="col-md-8 col-lg-9 margin-tb-20">
-    <a href="/blog">< Zurück zum Blog</a>
-    <article class="blog-post">
-      <h1 class="padding-20">
-        {{page.title}}
-      </h1>
-      <div class="padding-20">
-        {{ content }}
-      </div><!-- post.body -->
-      {% if page.tags %}
-        <div class="tags margin-20">
-          <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
-          {% for tag in page.tags %}
-            <span>{{tag}}</span>
-          {% endfor %}
-        </div>
-      {% endif %}
+<main>
+  {% if page.feature_bild_path %}
+    <header class="h-container--md" style="backgorund-image:url('{{page.feature_bild_path}}')"></header>
+  {% endif %}
+
+  <article class="h-container--sm">
+    <header>
+      <h1>{{page.title}}</h1>
+    </header>
+
+    <section class="post__content">
+      {{ content }}
+    </section>
+
+    <footer>
       {% assign author_id = "/authors/" | append: page.author %}
       {% assign author = site.authors | where: "id", author_id | first %}
-      <small>- {{page.date | date: "%d. %B %Y" }} :: {{ author.name }}</small>
-    </article>
+      
+      <div class="post__author__img" style="background-image:url({{ author.portrait_path }})">
+        <div class="post__author__img__frame"></div>
+      </div>
 
-    {% include related_posts.html %} 
+      <span class="post__author__name">{{ author.name }}</span>
+      <span class="post__author__titel">{{ author.titel }}</span>
+      <span class="post__date">{{page.date | date: "%d. %B %Y" }}</span>
+    </footer>
+  </article>
+
+  <section class="h-container--sm">
+    <h2>Nächste Schritte</h2>
+    <ol>
+      <li>Nehmen Sie gleich Kontakt auf, um kostenlos eine erste Einschätzung vom Anwalt zu bekommen</li>
+      <li>Informieren Sie sich mehr zum Theme “Thema seite link”</li>
+    </ol>
   </section>
 
-  <!-- SIDEBAR -->
-  {% include sidebar.html %}
-</div><!-- row -->
+  <section class="h-container--md">
+    <h2>Weitere Artikel zum Thema</h2>
+  </section>
+</main>
+
