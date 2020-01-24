@@ -36,7 +36,8 @@ defaults:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
         presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
-
+        redirect_from: Alte Seiten, die weitergeleitet werden sollten.
+      
 # CloudCannon
 abschnitt_templates:
   - weiss_bild_links
@@ -63,7 +64,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-autoprefixer
-  # - jekyll-redirect-from
+  - jekyll-redirect-from
   # - jekyll-compress-images # activate periodically to compress all images
   # - jekyll/tagging
   # - jekyll-tagging-related_posts
