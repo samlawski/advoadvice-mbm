@@ -4,8 +4,27 @@
 
 .page__post {
   // Header
+  &>header {
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+
+    @media(min-width: $media-md){
+      height: 400px;
+    }
+  }
 
   // Content
+  article>header h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .post__authordate {
+    margin-bottom: 40px;
+    color: $clr-transparent-bl-7;
+    text-align: center;
+    font-size: .8rem;
+  }
   .post__content {
     img {
       margin: auto;
@@ -17,6 +36,31 @@
 
 
   // Footer
+  .post__author {
+    margin: 40px 0; 
+    padding: 20px 0;
+    border-top: 1px solid $clr-transparent-bl-3;
+    border-bottom: 1px solid $clr-transparent-bl-3;
+  }
+
+  .post__author__img {
+    height: 90px; 
+    width: 60px;
+    background-position: center;
+    background-size: cover;
+
+    position: relative;
+  }
+  .post__author__img__frame {
+    position: absolute;
+    z-index: -1;
+
+    background-color: $clr-primary;
+    bottom: 5px;
+    left: -5px;
+    right: 5px;
+    top: -5px;
+  }
 
 
   // Weitere Artikel
