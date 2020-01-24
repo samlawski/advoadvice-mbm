@@ -1,12 +1,23 @@
 ---
-_options:
-  layout:
-    hidden: true
-layout: "topic"
-featured: false
-title:
-description:
-cta_titel: 
-cta_link_text:
-cta_link:
+layout: topic
+style_id: topic
+title: 
+description: 
+header_titel: 
+header_image: 
+erfolge: 
+  - zahl: "???+"
+    text: Fälle zur Insolvenz bearbeitet
+intro_titel:
+intro_text_markdown: >-
+  
+intro_link_text: 
+intro_link: 
+abschnitte:
+  - abschnitt_template: 
+    titel: 
+    text_markdown: >-
+      
+    image: 
+    cta: true
 ---
