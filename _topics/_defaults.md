@@ -7,14 +7,14 @@ header_titel:
 header_image: 
 erfolge: 
   - zahl: "???+"
-    text: Fälle zur Insolvenz bearbeitet
+    text: Fälle bearbeitet
 intro_titel:
 intro_text_markdown: >-
   
 intro_link_text: 
 intro_link: 
 abschnitte:
-  - abschnitt_template: 
+  - abschnitt_template: weiss_bild_links
     titel: 
     text_markdown: >-
       
