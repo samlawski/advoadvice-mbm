@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Schufa löscht Negativeintrag der Commerzbank AG aus Nicht
 date: 2017-05-31 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

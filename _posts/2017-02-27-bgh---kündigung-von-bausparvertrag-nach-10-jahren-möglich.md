@@ -6,6 +6,7 @@ title: BGH - Kündigung von Bausparvertrag nach 10 Jahren möglich
 date: 2017-02-27 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

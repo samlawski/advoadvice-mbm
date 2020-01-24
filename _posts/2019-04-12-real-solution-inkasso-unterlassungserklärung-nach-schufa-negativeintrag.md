@@ -8,6 +8,7 @@ description: >-
   Schufa-Recht: Real Solution Inkasso gibt Unterlassungserklärung nach Löschung
   ab
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Recht

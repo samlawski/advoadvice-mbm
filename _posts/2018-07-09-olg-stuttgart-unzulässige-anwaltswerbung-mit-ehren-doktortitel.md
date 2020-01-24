@@ -6,6 +6,7 @@ title: 'OLG Stuttgart: Unzulässige Anwaltswerbung mit Ehren-Doktortitel'
 date: 2018-07-09 00:00:00
 description: Anwaltswerbung mit Ehren-Doktor unzulässig
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Standesrecht

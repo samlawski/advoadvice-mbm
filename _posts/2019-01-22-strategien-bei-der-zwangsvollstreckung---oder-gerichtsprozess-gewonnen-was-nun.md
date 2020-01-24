@@ -10,6 +10,7 @@ description: >-
   trategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz

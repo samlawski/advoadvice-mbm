@@ -6,6 +6,7 @@ title: Risiko Anschlussfinanzierung
 date: 2018-06-20 00:00:00
 description: Anschlussfinanzierung als Risiko fürs Eigenheim
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - AdvoAdvice Rechtsanwälte

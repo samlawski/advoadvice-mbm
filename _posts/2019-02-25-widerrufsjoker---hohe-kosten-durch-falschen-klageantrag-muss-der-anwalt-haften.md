@@ -10,6 +10,7 @@ description: >-
   Anwaltshaftung: Feststellungsantrag statt Leistungsantrag gestellt - Wofür
   haftet ein Rechtsanwalt bei Klagen auf Darlehensrückabwicklung?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerruf

@@ -6,6 +6,7 @@ title: Ultra Sonic Holding - Verantwortliche durch OLG Stuttgart zum Schadensers
 date: 2016-11-04 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz

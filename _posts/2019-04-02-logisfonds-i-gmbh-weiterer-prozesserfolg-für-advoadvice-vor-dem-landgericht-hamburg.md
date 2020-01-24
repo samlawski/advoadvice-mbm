@@ -8,6 +8,7 @@ title: >-
 date: 2019-04-02 00:00:00
 description: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger

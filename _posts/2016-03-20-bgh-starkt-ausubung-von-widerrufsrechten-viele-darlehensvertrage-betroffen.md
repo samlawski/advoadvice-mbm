@@ -6,6 +6,7 @@ title: "BGH stärkt Ausübung von Widerrufsrechten – Viele Darlehensverträge 
 date: 2016-03-20 18:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Widerruf", "Widerrufs-Joker", "Bundesgerichtshof", "Darlehensvertrag", "Darlehensverträge", "Rechtsmissbrauch", "BGH", "Entscheidung", "Ausübung", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice", "VIII ZR 146/15"]
 topics: []

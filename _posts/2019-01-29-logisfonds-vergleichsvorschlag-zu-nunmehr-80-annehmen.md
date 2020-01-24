@@ -8,6 +8,7 @@ description: >-
   Logisfonds: Sollen Anleger den Vergleichsvorschlag von NBS Partners zu 80%
   annehmen?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche

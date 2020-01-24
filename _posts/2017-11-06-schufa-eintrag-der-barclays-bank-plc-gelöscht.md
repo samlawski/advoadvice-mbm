@@ -8,6 +8,7 @@ description: >-
   Die Schufa Holding AG hat einen negativen Schufa Eintrag der Barlcays Bank PLC
   gelöscht.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag

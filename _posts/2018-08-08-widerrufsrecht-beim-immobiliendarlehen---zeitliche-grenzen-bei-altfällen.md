@@ -6,6 +6,7 @@ title: Widerrufsrecht beim Immobiliendarlehen - Zeitliche Grenzen bei "Altfälle
 date: 2018-08-08 00:00:00
 description: Widerrufsrecht beim Immobiliendarlehen - Zeitliche Grenzen bei "Altfällen"
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilienrecht

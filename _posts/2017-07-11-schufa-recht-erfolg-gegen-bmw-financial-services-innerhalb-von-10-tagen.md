@@ -6,6 +6,7 @@ title: 'Schufa-Recht: Erfolg gegen BMW Financial Services innerhalb von 10 Tagen
 date: 2017-07-11 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag

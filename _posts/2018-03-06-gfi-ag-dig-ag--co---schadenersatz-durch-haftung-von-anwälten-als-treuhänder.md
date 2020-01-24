@@ -8,6 +8,7 @@ description: >-
   AdvoAdvice prüfen Schadenersatzansprüche gegen Rechtsanwälte als Treuhänder -
   GFI AG, DIG AG - Haftet der Anwalt als Treuhänder?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - DIG AG

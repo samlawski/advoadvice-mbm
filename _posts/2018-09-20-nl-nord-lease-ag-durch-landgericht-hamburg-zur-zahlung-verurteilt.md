@@ -6,6 +6,7 @@ title: NL Nord Lease AG durch Landgericht Hamburg zur Zahlung verurteilt
 date: 2018-09-20 00:00:00
 description: Landgericht Hamburg verurteilt NL Nord Lease AG zur Zahlung an Anleger
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche

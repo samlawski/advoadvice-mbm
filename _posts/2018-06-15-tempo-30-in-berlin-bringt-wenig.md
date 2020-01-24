@@ -6,6 +6,7 @@ title: Tempo 30 in Berlin bringt wenig
 date: 2018-06-15 00:00:00
 description: Tempo 30 auf Leipziger Straße mit wenig Effekt für Luftbelastung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

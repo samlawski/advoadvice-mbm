@@ -8,6 +8,7 @@ description: >-
   Deutsche Öl und Gas: ECI Energy Capital Invest Beteiligungsgesellschaft mbH
   stellt Insolvenzantrag
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche

@@ -8,6 +8,7 @@ title: >-
 date: 2019-07-17 00:00:00
 description: UDI Energie FESTZINS 14
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - UDI Energie Festzins 14

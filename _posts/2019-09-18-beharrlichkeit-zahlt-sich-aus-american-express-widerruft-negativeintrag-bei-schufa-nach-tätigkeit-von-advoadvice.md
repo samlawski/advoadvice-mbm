@@ -10,6 +10,7 @@ description: >-
   Negativeintrag durch American Express nach beharrlichem Vorgehen von
   AdvoAdvice widerrufen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Recht

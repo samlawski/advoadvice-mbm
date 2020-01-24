@@ -8,6 +8,7 @@ description: >-
   Lebensversicherer stehen teilweise schlecht da - Widerspruch oder Kündigung
   sinnvoll?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

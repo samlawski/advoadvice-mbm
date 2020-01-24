@@ -6,6 +6,7 @@ title: Das Widerrufsrecht bei Immobiliendarlehen ist tot - es lebe die Zinsreduz
 date: 2016-10-11 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Widerruf

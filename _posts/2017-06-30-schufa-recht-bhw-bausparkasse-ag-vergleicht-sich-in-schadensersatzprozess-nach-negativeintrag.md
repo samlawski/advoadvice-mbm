@@ -6,6 +6,7 @@ title: 'Schufa-Recht: BHW Bausparkasse AG vergleicht sich in Schadensersatzproze
 date: 2017-06-30 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Recht
