@@ -4,7 +4,7 @@ style_id: topic
 title: Sicher durch die Insolvenz
 description: Beratung und Begleitung durch die Verbraucherinsolvenz und Regelinsolvenz von Rechtsanwälten mit langjähriger Erfahrung.
 header_titel: Sicher durch die Insolvenz
-header_image: /uploads/theme-schufa1.jpg
+header_image: /uploads/theme-insolvenz1.jpg
 erfolge: 
   - zahl: "???+"
     text: Fälle zur Insolvenz bearbeitet
