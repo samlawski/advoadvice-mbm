@@ -105,6 +105,8 @@ textarea {
 [type="submit"],
 button,
 .button {
+  display: inline-block;
+  
   font-size: $font-size;
   font-family: $font-family--text;
   text-decoration: none;
