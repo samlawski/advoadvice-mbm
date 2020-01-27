@@ -5,7 +5,7 @@ _options:
 title: >-
   Auxilia Rechtsschutz-Versicherungs-AG erteilt Deckungsschutz nach
   Ombudsmannverfahren
-date: 2020-01-23 00:00:00
+date: 2020-01-27 00:00:00
 description: Auxilia erteilt Deckungsschutz für Klage nach Ombudsmannverfahren
 layout: post
 feature_bild_path:
