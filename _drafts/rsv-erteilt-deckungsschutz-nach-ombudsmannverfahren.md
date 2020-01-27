@@ -2,7 +2,9 @@
 _options:
   layout:
     hidden: true
-title: RSV erteilt Deckungsschutz nach Ombudsmannverfahren
+title: >-
+  Auxilia Rechtsschutz-Versicherungs-AG erteilt Deckungsschutz nach
+  Ombudsmannverfahren
 date: 2020-01-23 00:00:00
 description: Auxilia erteilt Deckungsschutz für Klage nach Ombudsmannverfahren
 layout: post
