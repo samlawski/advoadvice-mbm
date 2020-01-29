@@ -70,7 +70,8 @@ plugins:
   # - jekyll-tagging-related_posts
 
   # Custom plugins in _plugins folder are: 
-  # - suggested_posts: filter used to display 3 posts related to the given one
+  # - related_with_tags: filter used to display 3 posts related to the given one
+  # - related_with_topics: filter used to display 3 posts related to the given one
 
 paginate: 12
 paginate_path: "/blog/page-:num/"
