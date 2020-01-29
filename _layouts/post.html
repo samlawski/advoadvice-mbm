@@ -4,8 +4,7 @@ layout: default
 
 {% assign author_id = "/authors/" | append: page.author %}
 {% assign author = site.authors | where: "id", author_id | first %}
-
-{% assign related_posts = page | related_with_topics %}
+{% assign suggested_posts = page | related_with_tags %}
 
 {% if page.feature_bild_path %}
   <header class="h-container--md" style="background-image:url('{{page.feature_bild_path}}')"></header>
@@ -49,32 +48,8 @@ layout: default
   <section class="h-container--md">
     <h2 class="h-center h6 editable">Weitere Artikel zum Thema</h2>
 
-    <div class="articles">
-      {% for post in related_posts %}
-        <article style="background-image: url('{{ post.feature_bild_path }}')">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <h3>{{post.title}}</h3>
+    {% include articles.html articles=suggested_posts %}
 
-            <p>
-              {% if post.description %}
-                {{post.description | strip_html | truncatewords: 40}}
-              {% else %}
-                {{post.content | strip_html | truncatewords: 40}}
-              {% endif %}
-            </p>
-
-            <div>
-              {% for topic in post.topics %}
-                <small>{{topic}}</small>
-                {% unless forloop.last %}
-                  <span>&nbsp;&#183&nbsp;</span>
-                {% endunless %}
-              {% endfor %}
-            </div>
-          </a>
-        </article>
-      {% endfor %}
-    </div>
   </section>
 </main>
 
