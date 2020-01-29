@@ -6,6 +6,7 @@ title: 'Versicherungsrecht: Hohes Schmerzensgeld nach Behandlungsfehler'
 date: 2019-04-01 00:00:00
 description: OLG Celle verurteilt Hausazrt zu Zahlung von 500.000 Euro Schmerzensgeld
 layout: post
+style_id: post
 feature_bild_path:
 tags:
 topics:
