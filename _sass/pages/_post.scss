@@ -26,6 +26,8 @@
     font-size: .8rem;
   }
   .post__content {
+    word-wrap: break-word;
+    
     img {
       margin: auto;
       max-width: 100%;
