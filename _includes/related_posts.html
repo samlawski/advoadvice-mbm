@@ -1,8 +1,8 @@
-{% assign suggested_posts = page | suggested_posts %}
+{% assign related_with_tags = page | related_with_tags %}
 <div>
   <hr>
   <h3 class="editable">Das könnte Sie auch interessieren</h3>
-  {% for related_post in suggested_posts %}
+  {% for related_post in related_with_tags %}
     <div class="col-sm-4">
       <div class="blog-post">
         <h5>
