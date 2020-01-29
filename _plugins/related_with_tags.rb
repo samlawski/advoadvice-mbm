@@ -1,6 +1,6 @@
 module Jekyll
   module AssetFilter
-    def suggested_posts(original_post_hash)
+    def related_with_tags(original_post_hash)
       all_posts = @context.registers[:site].posts.docs
       original_post_tags = original_post_hash["tags"]
 

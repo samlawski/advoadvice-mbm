@@ -41,6 +41,8 @@
     padding: 20px 0;
     border-top: 1px solid $clr-transparent-bl-3;
     border-bottom: 1px solid $clr-transparent-bl-3;
+
+    display: flex; 
   }
 
   .post__author__img {
@@ -50,6 +52,9 @@
     background-size: cover;
 
     position: relative;
+
+    margin-right: 20px;
+    flex-shrink: 0;
   }
   .post__author__img__frame {
     position: absolute;
@@ -60,6 +65,12 @@
     left: -5px;
     right: 5px;
     top: -5px;
+  }
+
+  .post__author__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
 
