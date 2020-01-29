@@ -72,6 +72,7 @@ plugins:
   # Custom plugins in _plugins folder are: 
   # - related_with_tags: filter used to display 3 posts related to the given one
   # - related_with_topics: filter used to display 3 posts related to the given one
+  # - strip_fill_words: remove words not relevant for search from the text to reduce file size
 
 paginate: 12
 paginate_path: "/blog/page-:num/"
