@@ -6,6 +6,7 @@ title: 'Fortsetzung: LG Mainz bestätigt Einstweilige Verfügung gegen Tesch Ink
 date:
 description: Tesch Inkasso muss Negativeintrag nach einstweiliger Verfügung widerrufen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag

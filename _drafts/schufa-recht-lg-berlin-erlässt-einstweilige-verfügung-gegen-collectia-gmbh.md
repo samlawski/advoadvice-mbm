@@ -6,6 +6,7 @@ title: 'SCHUFA-Recht: LG Berlin erlässt einstweilige Verfügung gegen Collectia
 date:
 description: Collectia GmbH zum Widerruf eines Negativeintrages verurteilt.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag
