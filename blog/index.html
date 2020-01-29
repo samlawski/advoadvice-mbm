@@ -14,7 +14,7 @@ such_tips:
 <header class="h-container">
   <h1>Blog</h1>
 
-  <input class="suche" type="text" placeholder="Suche ...">
+  <input id="blog__suche" class="suche" type="text" placeholder="Suche ...">
 
   <nav class="suche__suggestions">
     <strong>Vorschläge: </strong><br>
@@ -31,32 +31,7 @@ such_tips:
   <section class="h-container">
     <h2 class="blog__h h6">Aktuelle Artikel</h2>
 
-    <div class="articles">
-      {% for post in paginator.posts %}
-        <article style="background-image: url('{{ post.feature_bild_path }}')">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <h3>{{post.title}}</h3>
-
-            <p>
-              {% if post.description %}
-                {{post.description | strip_html | truncatewords: 40}}
-              {% else %}
-                {{post.content | strip_html | truncatewords: 40}}
-              {% endif %}
-            </p>
-
-            <div>
-              {% for topic in post.topics %}
-                <small>{{topic}}</small>
-                {% unless forloop.last %}
-                  <span>&nbsp;&#183&nbsp;</span>
-                {% endunless %}
-              {% endfor %}
-            </div>
-          </a>
-        </article>
-      {% endfor %}
-    </div>
+    {% include articles.html articles=paginator.posts %}
 
     <!-- Pagination Links -->
     <nav>
