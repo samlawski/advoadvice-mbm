@@ -6,5 +6,5 @@
   "description": "{% if post.description %}{{post.description | strip_html | truncatewords: 40 | strip_newlines | xml_escape }}{% else %}{{post.content | strip_html | truncatewords: 40 | strip_newlines | xml_escape }}{% endif %}",
   "author": "{{ author.name | xml_escape }}",
   "topics": {{ post.topics | jsonify }},
-  "searchable_content": {{ post.content | strip_html | strip_newlines | strip_fill_words | jsonify }}
+  "searchable_content": {{ post.content | strip_html | strip_newlines | jsonify }}
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
