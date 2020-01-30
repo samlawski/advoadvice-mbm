@@ -17,9 +17,8 @@ tags:
   - Schufa Holding AG
   - Best of
 topics:
-  - schufa
-  - medien
   - schufa-und-datenschutz
+  - medien
 author: dr-sven-tintemann
 ---
 

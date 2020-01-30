@@ -24,7 +24,7 @@ tags:
   - Löschungsanspruch
   - Erfolg
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

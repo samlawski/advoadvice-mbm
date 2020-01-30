@@ -20,7 +20,7 @@ tags:
   - Vergleich
   - OLG Hamm
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

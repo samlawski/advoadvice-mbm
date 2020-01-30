@@ -23,7 +23,7 @@ tags:
   - Zustellung
   - kein besonderer Vertrauenstatbestand
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
