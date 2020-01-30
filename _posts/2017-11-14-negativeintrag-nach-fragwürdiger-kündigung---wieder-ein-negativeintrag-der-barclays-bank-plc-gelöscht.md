@@ -25,7 +25,7 @@ tags:
   - Kündigung
   - Kreditrahmen
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -18,9 +18,9 @@ tags:
   - AdvoAdvice Rechtsanwälte
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - sonstiges
-  - insolvenzrecht
+  - insolvenz
 author: kim-oliver-klevenhagen
 ---
 

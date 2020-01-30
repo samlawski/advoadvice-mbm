@@ -22,7 +22,7 @@ tags:
   - Erfolg
   - Schufa Eintrag löschen
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

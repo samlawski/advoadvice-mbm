@@ -18,7 +18,7 @@ tags:
   - BSDG
   - Santander Consumer Bank AG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
   - schufa
 author: dr-sven-tintemann
 ---

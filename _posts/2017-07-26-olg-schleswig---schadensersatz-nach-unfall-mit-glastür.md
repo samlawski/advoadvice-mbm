@@ -24,7 +24,7 @@ tags:
   - Hotel
   - Glaselement
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

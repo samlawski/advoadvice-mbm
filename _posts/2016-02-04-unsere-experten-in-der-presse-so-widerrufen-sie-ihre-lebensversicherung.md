@@ -21,7 +21,7 @@ tags:
   - Rechtsanwalt
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: kim-oliver-klevenhagen
 ---
 

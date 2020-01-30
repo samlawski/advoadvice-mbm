@@ -25,7 +25,7 @@ tags:
   - Frist
   - nicht tituliert
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

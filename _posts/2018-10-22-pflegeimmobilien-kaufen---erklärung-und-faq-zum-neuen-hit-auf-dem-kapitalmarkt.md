@@ -27,8 +27,8 @@ tags:
   - Rendite
   - Betreibergesellschaft
 topics:
-  - immobilienrecht
-  - bank-und-kapitalmarktrecht
+  - immobilien
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

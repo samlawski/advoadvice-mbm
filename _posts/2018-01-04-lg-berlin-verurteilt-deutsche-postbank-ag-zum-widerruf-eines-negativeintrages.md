@@ -19,8 +19,8 @@ tags:
   - Landgericht Berlin
   - Urteil
 topics:
-  - datenschutz
-  - bank-und-kapitalmarktrecht
+  - schufa-und-datenschutz
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

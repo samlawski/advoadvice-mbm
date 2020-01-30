@@ -24,7 +24,7 @@ tags:
   - IX ZB 282/09
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

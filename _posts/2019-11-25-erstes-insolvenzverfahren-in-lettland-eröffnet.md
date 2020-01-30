@@ -21,7 +21,7 @@ tags:
   - Insolvenzverfahren
   - EU-Insolvenz
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

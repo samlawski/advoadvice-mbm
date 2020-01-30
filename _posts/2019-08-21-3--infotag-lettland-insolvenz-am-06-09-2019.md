@@ -21,7 +21,7 @@ tags:
   - Kanzlei
   - 06.09.2019
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

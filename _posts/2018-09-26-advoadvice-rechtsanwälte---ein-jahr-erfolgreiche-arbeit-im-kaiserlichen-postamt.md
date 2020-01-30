@@ -20,12 +20,12 @@ tags:
   - Tintemann
   - Rechtsanwälte
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - immobilienrecht
-  - datenschutz
-  - versicherungsrecht
-  - bewertung-löschen
+  - immobilien
+  - schufa-und-datenschutz
+  - versicherung
+  - suchergebnisse-und-bewertungen-loeschen
 author: kim-oliver-klevenhagen
 ---
 

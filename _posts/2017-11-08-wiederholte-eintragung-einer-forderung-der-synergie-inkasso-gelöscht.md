@@ -19,7 +19,7 @@ tags:
   - Synergie Inkasso GmbH
   - Neue Eintragung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

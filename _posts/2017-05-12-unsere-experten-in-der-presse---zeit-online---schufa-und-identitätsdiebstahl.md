@@ -23,7 +23,7 @@ tags:
   - Missbrauch
   - Mißbrauch
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
   - medien
 author: dr-sven-tintemann
 ---

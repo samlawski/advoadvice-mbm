@@ -19,7 +19,7 @@ tags:
   - Vollstreckungsbescheid
   - bezahlt
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

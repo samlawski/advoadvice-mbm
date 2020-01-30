@@ -17,7 +17,7 @@ tags:
   - BGH
   - Urteil
 topics:
-  - insolvenzrecht
+  - insolvenz
   - sonstiges
 author: dr-sven-tintemann
 ---

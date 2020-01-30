@@ -10,7 +10,7 @@ style_id: post
 feature_bild_path:
 tags:
 topics:
-  - immobilienrecht
+  - immobilien
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

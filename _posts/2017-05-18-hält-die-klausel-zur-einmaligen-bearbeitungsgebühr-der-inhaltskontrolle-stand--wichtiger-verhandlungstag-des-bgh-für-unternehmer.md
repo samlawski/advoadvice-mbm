@@ -27,7 +27,7 @@ tags:
   - 03.08.2016
   - 5 U 138/16
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

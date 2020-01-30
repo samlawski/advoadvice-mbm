@@ -25,7 +25,7 @@ tags:
   - Nebenpflicht
   - § 280 BGB
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

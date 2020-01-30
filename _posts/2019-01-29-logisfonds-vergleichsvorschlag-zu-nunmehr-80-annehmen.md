@@ -25,8 +25,8 @@ tags:
   - Advoadvice
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarkt
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

@@ -22,7 +22,7 @@ tags:
   - Berger Consulting
   - AdvoAdvice
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

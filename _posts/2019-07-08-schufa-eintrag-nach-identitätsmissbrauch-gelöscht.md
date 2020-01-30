@@ -23,7 +23,7 @@ tags:
   - AdvoAdvice
   - Dr. Sven Tintemann
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

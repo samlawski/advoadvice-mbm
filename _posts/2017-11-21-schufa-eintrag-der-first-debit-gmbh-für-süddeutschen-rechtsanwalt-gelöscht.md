@@ -20,7 +20,7 @@ tags:
   - Süddeutschland
   - Rechtsanwalt
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

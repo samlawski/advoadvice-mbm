@@ -20,7 +20,7 @@ tags:
   - Deutsche Postbank AG
   - Bareinzahlung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

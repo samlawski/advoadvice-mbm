@@ -41,7 +41,7 @@ tags:
   - Spanien Insolvenz
   - Frankreich Insolvenz
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

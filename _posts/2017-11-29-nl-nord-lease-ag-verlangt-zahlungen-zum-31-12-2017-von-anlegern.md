@@ -21,7 +21,7 @@ tags:
   - Hofmann und Kollegen
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -25,8 +25,8 @@ tags:
   - Mithaftung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - insolvenzrecht
+  - bank-und-kapitalmarkt
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

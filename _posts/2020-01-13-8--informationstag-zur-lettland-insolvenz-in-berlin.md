@@ -18,7 +18,7 @@ tags:
   - Formular
   - Informationstag
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

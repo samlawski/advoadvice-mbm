@@ -29,7 +29,7 @@ tags:
   - DSK Leasing Services GmbH
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

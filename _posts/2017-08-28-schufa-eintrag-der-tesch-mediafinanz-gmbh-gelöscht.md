@@ -20,7 +20,7 @@ tags:
   - Email
   - Mahnung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

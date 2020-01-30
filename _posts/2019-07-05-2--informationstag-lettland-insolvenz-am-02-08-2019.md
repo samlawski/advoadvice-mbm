@@ -23,7 +23,7 @@ tags:
   - Bankkonto
   - Verfahrensdauer
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

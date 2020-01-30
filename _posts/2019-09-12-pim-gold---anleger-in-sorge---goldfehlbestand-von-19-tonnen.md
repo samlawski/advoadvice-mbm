@@ -18,7 +18,7 @@ tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
   - AdvoAdvice Rechtsanwälte
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
   - sonstiges
 author: kim-oliver-klevenhagen

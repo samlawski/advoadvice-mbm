@@ -25,7 +25,7 @@ tags:
   - Erhöhung
   - Versicherungsbeitrag
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

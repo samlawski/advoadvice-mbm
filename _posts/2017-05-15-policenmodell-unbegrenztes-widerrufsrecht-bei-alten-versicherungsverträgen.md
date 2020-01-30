@@ -24,7 +24,7 @@ tags:
   - gekündigt
   - Kündigung
 topics:
-  - versicherungsrecht
+  - versicherung
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
