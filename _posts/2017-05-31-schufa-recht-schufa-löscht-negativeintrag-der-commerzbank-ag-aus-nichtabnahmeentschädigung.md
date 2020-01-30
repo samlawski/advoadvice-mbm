@@ -20,7 +20,7 @@ tags:
   - Nichtabnahmeentschädigung
   - Immobiliar-Verbraucherdarlehen
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

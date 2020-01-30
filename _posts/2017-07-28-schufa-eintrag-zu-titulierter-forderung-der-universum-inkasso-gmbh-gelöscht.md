@@ -20,7 +20,7 @@ tags:
   - Titulierung
   - Zustellung
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

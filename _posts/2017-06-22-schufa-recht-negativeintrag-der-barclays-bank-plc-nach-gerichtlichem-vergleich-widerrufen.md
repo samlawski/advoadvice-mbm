@@ -25,7 +25,6 @@ tags:
   - Vergleich
 topics:
   - schufa-und-datenschutz
-  - schufa
 author: dr-sven-tintemann
 ---
 
