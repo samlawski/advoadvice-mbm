@@ -30,7 +30,6 @@ tags:
   - Tintemann
   - Advoadvice
 topics:
-  - schufa
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---

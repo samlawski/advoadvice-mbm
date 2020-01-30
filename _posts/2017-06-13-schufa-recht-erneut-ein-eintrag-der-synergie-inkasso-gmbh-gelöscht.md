@@ -21,7 +21,7 @@ tags:
   - Mahnbescheid
   - Widerspruch
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

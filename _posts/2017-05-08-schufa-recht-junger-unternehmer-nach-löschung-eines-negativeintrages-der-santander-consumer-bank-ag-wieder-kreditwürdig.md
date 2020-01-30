@@ -22,7 +22,7 @@ tags:
   - Score
   - Scorewert
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

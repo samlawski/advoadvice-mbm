@@ -22,7 +22,6 @@ tags:
   - AdvoAdvice
 topics:
   - medien
-  - schufa
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
