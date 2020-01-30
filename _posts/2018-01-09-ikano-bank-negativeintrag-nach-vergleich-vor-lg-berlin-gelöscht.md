@@ -26,7 +26,7 @@ tags:
   - Klage
   - Landgericht Berlin
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

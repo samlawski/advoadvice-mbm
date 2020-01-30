@@ -27,7 +27,7 @@ tags:
   - Einlagengeschäft
   - Rücktzahlung Einlagen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

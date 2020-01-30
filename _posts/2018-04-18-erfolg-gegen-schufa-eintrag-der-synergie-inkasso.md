@@ -20,7 +20,7 @@ tags:
   - Synergie Inkasso GmbH
   - Verjährung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

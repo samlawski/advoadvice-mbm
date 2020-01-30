@@ -22,7 +22,7 @@ tags:
 topics:
   - medien
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

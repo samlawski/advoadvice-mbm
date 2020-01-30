@@ -26,7 +26,7 @@ tags:
   - Gesetzesmaterialien
   - § 28a BDSG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

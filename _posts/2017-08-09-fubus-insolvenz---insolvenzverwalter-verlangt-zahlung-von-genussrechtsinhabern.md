@@ -25,7 +25,7 @@ tags:
   - Entreicherung
   - Luxusaufwendungen
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

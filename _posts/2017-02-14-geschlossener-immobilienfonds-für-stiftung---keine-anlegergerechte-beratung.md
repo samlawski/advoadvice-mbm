@@ -25,7 +25,7 @@ tags:
   - 1 U 32/13
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

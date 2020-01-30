@@ -21,8 +21,8 @@ tags:
   - persönliche Haftung
   - Geschäftsführer
 topics:
-  - versicherungsrecht
-  - insolvenzrecht
+  - versicherung
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

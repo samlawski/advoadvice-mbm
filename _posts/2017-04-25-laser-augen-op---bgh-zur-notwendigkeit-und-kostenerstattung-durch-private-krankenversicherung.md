@@ -25,7 +25,7 @@ tags:
   - AVB
   - Notwendigkeit
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

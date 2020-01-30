@@ -17,7 +17,7 @@ tags:
   - OLG München
   - OLG Düsseldorf
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -17,7 +17,7 @@ tags:
   - Website
   - Datenschutzerklärung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

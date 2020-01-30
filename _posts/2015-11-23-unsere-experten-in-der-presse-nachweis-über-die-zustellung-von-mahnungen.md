@@ -25,7 +25,7 @@ tags:
   - wertvolle Hinweise
 topics:
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

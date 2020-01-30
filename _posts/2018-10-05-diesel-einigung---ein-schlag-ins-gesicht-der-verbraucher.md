@@ -31,7 +31,7 @@ tags:
   - Ludwigsburg
   - Frankfurt am Main
 topics:
-  - widerruf-verbraucherdarlehen
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

@@ -19,9 +19,9 @@ tags:
   - Immobilieninvestition
   - Rückzahlung
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - immobilienrecht
+  - immobilien
   - sonstiges
 author: kim-oliver-klevenhagen
 ---

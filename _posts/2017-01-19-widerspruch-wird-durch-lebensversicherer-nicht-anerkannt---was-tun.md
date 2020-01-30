@@ -21,7 +21,7 @@ tags:
   - § 5 a VVG
   - Bundesgerichtshof
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

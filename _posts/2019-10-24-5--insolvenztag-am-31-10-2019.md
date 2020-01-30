@@ -24,7 +24,7 @@ tags:
   - Riga
   - Wohnsitz
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

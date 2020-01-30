@@ -22,7 +22,7 @@ tags:
   - Schadensersatz
   - Insolvenz
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

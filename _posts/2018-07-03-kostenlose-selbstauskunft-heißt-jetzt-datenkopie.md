@@ -19,7 +19,7 @@ tags:
   - § 34 BDSG
   - Art. 15 DSGVO
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

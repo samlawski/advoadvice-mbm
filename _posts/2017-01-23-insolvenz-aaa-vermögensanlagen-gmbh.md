@@ -21,7 +21,7 @@ tags:
   - Rechtsanwalt Tobias Hohmann
   - Anmeldung bis zum 23.02.2017
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

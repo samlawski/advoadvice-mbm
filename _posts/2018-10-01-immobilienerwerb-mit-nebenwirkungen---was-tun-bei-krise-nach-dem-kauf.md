@@ -20,8 +20,8 @@ tags:
   - Kapitalanlage
   - Schrottimmobilie
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

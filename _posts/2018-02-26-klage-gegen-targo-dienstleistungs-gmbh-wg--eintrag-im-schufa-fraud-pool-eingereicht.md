@@ -24,7 +24,7 @@ tags:
   - Targo Dienstleistungs GmbH
   - Landgericht Konstanz
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

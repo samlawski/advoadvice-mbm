@@ -24,7 +24,7 @@ tags:
   - Kündigung
   - Zahlungsrückstand
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

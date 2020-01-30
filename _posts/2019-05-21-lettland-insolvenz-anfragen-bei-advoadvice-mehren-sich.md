@@ -21,7 +21,7 @@ tags:
   - Anwalt
   - AdvoAdvice
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

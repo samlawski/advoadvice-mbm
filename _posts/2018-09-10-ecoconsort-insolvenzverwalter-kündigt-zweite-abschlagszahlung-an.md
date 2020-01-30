@@ -18,7 +18,7 @@ tags:
   - Insolvenz
   - Insolvenzverwalter
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

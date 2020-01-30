@@ -31,7 +31,7 @@ tags:
   - IVF
   - unfruchtbar
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

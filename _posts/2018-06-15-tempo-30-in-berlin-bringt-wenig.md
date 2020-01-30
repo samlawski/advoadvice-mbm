@@ -20,7 +20,7 @@ tags:
   - Luftbelastung
   - Leipziger Straße
 topics:
-  - widerruf-verbraucherdarlehen
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

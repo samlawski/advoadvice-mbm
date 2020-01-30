@@ -31,7 +31,7 @@ tags:
   - Totalverlust
   - InsO
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

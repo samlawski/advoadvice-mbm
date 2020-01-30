@@ -19,7 +19,7 @@ tags:
   - Telekom Deutschland GmbH
   - Telekom
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

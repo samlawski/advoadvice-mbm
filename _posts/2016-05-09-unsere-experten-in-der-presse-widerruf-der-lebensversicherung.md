@@ -25,7 +25,7 @@ tags:
   - Dr. Sven Tintemann
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

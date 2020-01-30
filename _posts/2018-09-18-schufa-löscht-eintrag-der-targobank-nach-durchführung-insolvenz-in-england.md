@@ -21,8 +21,8 @@ tags:
   - BDSG
   - Targobank
 topics:
-  - datenschutz
-  - insolvenzrecht
+  - schufa-und-datenschutz
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

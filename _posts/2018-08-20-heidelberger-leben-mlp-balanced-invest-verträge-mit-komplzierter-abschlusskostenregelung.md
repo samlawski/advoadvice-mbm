@@ -25,7 +25,7 @@ tags:
   - Riester-Rente
 topics:
   - anlegerschutz
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

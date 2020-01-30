@@ -26,7 +26,7 @@ tags:
   - Vergleich
   - Rechtsanwalt Wobig
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

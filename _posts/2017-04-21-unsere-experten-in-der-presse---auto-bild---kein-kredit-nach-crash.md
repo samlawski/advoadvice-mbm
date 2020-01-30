@@ -23,7 +23,7 @@ tags:
   - Selbstbeteiligung
 topics:
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
   - schufa
 author: dr-sven-tintemann
 ---
