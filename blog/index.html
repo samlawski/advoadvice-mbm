@@ -19,7 +19,7 @@ such_tips:
   <nav class="suche__suggestions">
     <strong>Vorschläge: </strong><br>
     {% for suggestion in page.such_tips %}
-      <a href="">{{suggestion}}</a>
+      <a href="#" class="suche__suggestion">{{suggestion}}</a>
       {% unless forloop.last %}
         <span>&nbsp;&#183&nbsp;</span>
       {% endunless %}
