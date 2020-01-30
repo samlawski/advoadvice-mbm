@@ -29,4 +29,5 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/themen/immobilienrecht'
+redirect_to: 
 ---
