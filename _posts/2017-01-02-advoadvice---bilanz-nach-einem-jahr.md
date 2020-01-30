@@ -16,8 +16,7 @@ tags:
   - Monatsübersicht
   - Pressemitteilungen
   - Best of
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

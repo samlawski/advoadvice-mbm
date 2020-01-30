@@ -24,8 +24,7 @@ tags:
   - 22 U 104/16
   - Wohnungseigentümergemeinschaft
   - Offenbarungspflicht
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

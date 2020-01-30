@@ -23,7 +23,6 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarkt
-  - sonstiges
 author: dr-sven-tintemann
 ---
 

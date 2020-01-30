@@ -26,7 +26,6 @@ tags:
   - 15 O 152/16
   - Verbraucherzentrale Berlin
 topics:
-  - sonstiges
   - anlegerschutz
 author: dr-sven-tintemann
 ---

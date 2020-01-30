@@ -15,8 +15,7 @@ tags:
   - Ehren-Doktor
   - wettbewerbswidrig
   - unzulässig
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

@@ -22,7 +22,6 @@ topics:
   - bank-und-kapitalmarkt
   - anlegerschutz
   - immobilien
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

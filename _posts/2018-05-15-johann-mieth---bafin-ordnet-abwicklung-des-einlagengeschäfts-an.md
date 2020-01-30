@@ -18,8 +18,7 @@ tags:
   - Verfügung
   - Einlagengeschäft
   - erlaubnispflichtig
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 
