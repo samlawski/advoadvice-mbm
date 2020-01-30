@@ -21,7 +21,7 @@ tags:
   - Anleger Gold
   - Goldanlage
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
   - sonstiges
 author: kim-oliver-klevenhagen

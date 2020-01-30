@@ -23,7 +23,7 @@ tags:
   - Warnhinweis
   - fehlerhaft
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

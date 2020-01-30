@@ -21,7 +21,7 @@ tags:
   - Barclays Bank
   - Bank
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

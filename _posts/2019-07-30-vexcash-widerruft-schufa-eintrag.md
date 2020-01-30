@@ -20,7 +20,7 @@ tags:
   - Vexcash AG
   - Kurzzeitkredit
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

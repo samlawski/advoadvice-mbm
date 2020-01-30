@@ -24,7 +24,7 @@ tags:
   - Erfolg
   - Löschung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

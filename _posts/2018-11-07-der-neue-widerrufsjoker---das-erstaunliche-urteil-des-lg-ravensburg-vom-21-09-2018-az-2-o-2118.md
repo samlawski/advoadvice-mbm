@@ -27,8 +27,8 @@ tags:
   - Kim Oliver Klevenhagen
   - Verbraucherschutz
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

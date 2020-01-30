@@ -20,7 +20,7 @@ tags:
   - Bad Homburger Inkasso
   - DSGVO
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

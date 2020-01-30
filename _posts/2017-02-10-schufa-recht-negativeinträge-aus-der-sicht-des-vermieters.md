@@ -28,7 +28,7 @@ tags:
   - Mietschulden
   - Mietschuldenfreiheit
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
   - schufa
 author: dr-sven-tintemann
 ---

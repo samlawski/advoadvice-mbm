@@ -21,7 +21,7 @@ tags:
   - Telekom Deutschland GmbH
   - Santander Consumer Bank AG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

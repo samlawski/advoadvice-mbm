@@ -19,7 +19,7 @@ tags:
 topics:
   - schufa
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

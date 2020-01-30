@@ -25,7 +25,7 @@ tags:
   - COMI
   - Center of main interest
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

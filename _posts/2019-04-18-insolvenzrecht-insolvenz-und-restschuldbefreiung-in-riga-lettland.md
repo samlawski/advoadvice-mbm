@@ -26,7 +26,7 @@ tags:
   - deutscher Ansprechpartner vor Ort
   - EU-Insolvenz
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

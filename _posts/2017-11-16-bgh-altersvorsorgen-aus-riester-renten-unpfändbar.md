@@ -18,8 +18,8 @@ tags:
   - Bundesgerichtshof
   - Urteil
 topics:
-  - versicherungsrecht
-  - insolvenzrecht
+  - versicherung
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

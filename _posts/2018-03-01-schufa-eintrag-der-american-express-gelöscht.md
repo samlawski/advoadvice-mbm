@@ -23,7 +23,7 @@ tags:
   - Ratenzahlungsvereinbarung
   - Mahnung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

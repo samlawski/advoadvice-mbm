@@ -18,7 +18,7 @@ tags:
   - Fake-Bewertung
   - DSGVO
 topics:
-  - bewertung-löschen
+  - suchergebnisse-und-bewertungen-loeschen
 author: dr-sven-tintemann
 ---
 

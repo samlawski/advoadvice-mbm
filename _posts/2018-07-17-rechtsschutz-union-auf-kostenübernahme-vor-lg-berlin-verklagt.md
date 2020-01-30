@@ -17,7 +17,7 @@ tags:
   - Landgericht Berlin
   - Berufung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

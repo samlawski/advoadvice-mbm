@@ -22,8 +22,8 @@ tags:
   - Urteile
   - VW Bank
 topics:
-  - bank-und-kapitalmarktrecht
-  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarkt
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

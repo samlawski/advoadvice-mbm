@@ -23,7 +23,7 @@ tags:
   - Vergleich
   - Kostenübernahme
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

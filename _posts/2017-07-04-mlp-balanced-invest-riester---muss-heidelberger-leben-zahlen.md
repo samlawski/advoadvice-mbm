@@ -23,7 +23,7 @@ tags:
   - jährlich
   - intransparent
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

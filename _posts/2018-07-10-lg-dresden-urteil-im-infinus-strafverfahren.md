@@ -24,7 +24,7 @@ tags:
   - 9. Juli 2018
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

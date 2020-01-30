@@ -21,7 +21,7 @@ tags:
   - DSGVO
 topics:
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

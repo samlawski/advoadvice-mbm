@@ -20,7 +20,7 @@ tags:
   - Anleger Gold
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - sonstiges
 author: kim-oliver-klevenhagen
 ---

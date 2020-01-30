@@ -27,8 +27,8 @@ tags:
   - Erfolg
   - Dr. Sven Tintemann
 topics:
-  - versicherungsrecht
-  - datenschutz
+  - versicherung
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

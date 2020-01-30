@@ -26,9 +26,9 @@ tags:
   - Feststellungsantrag
   - Feststellungsklage
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - immobilienrecht
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

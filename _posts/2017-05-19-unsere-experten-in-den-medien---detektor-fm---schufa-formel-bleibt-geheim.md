@@ -27,7 +27,7 @@ tags:
   - Tintemann
 topics:
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

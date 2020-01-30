@@ -17,7 +17,7 @@ tags:
   - Einstellung von Zahlungen
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

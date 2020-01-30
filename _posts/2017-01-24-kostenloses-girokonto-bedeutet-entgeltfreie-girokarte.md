@@ -18,7 +18,7 @@ tags:
   - Landgericht Düsseldorf
   - überraschende Klauseln
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - sonstiges
 author: dr-sven-tintemann
 ---

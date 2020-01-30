@@ -23,7 +23,7 @@ tags:
   - Global High Yield Fund 450
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

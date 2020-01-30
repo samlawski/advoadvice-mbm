@@ -29,7 +29,7 @@ tags:
   - Zweite Chance für Millionen
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

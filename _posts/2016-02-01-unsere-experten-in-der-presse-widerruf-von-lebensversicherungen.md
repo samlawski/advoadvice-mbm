@@ -26,7 +26,7 @@ tags:
   - Versicherer
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

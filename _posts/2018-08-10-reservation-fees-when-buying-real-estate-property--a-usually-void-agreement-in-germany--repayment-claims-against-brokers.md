@@ -23,10 +23,10 @@ tags:
   - Broker
   - Reservation fees
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
   - sonstiges
-  - immobilienrecht
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

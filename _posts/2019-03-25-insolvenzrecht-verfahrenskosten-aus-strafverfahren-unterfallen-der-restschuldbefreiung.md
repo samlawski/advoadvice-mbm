@@ -27,7 +27,7 @@ tags:
   - Straftat
   - Strafrecht
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

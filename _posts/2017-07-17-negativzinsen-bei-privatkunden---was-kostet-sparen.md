@@ -20,7 +20,7 @@ tags:
   - Klevenhagen
   - Rechtsanwalt
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

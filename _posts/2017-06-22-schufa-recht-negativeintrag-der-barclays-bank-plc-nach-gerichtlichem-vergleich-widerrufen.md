@@ -24,7 +24,7 @@ tags:
   - Landgericht Berlin
   - Vergleich
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
   - schufa
 author: dr-sven-tintemann
 ---

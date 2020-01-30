@@ -16,7 +16,7 @@ tags:
   - Bearbeitungsgebühren
   - Rechtsanwalt
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

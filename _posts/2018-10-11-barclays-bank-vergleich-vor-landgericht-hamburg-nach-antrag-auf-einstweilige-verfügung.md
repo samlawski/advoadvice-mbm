@@ -25,7 +25,7 @@ tags:
   - LG Hamburg
   - Einstweilige Verfügung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

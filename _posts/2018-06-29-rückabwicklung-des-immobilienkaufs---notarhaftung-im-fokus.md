@@ -23,7 +23,7 @@ tags:
   - Rückabwicklung
 topics:
   - anlegerschutz
-  - immobilienrecht
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

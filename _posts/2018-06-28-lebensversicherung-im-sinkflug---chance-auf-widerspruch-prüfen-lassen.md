@@ -21,7 +21,7 @@ tags:
   - Prüfung
   - Rückzahlung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

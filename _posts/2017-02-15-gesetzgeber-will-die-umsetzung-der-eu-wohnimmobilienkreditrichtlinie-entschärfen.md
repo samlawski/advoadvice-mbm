@@ -18,7 +18,7 @@ tags:
   - Kreditvergabe
   - Förderdarlehen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

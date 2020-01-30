@@ -20,7 +20,7 @@ tags:
   - BGB
   - Persönlichkeitsrecht
 topics:
-  - bewertung-löschen
+  - suchergebnisse-und-bewertungen-loeschen
 author: dr-sven-tintemann
 ---
 
