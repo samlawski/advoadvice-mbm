@@ -76,7 +76,7 @@ layout: default
     <div class="articles">
       {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
       {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
-      {% for article in topic_posts %}
+      {% for article in topic_posts limit: 3 %}
         {% include article.html article=article %}
       {% endfor %}
     </div>
