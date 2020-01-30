@@ -20,7 +20,7 @@ tags:
   - Schufa-Regelung
   - Vorzeitige Löschung
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
