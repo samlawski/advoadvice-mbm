@@ -43,7 +43,12 @@ module Jekyll
 
 
     def strip_fill_words(original_string)
-      original_string
+      words = [
+        'und ' , 'die ', 'der ', 'das ', 'ein ', 'eine ', 'wie ', 'z.B. ',
+        'oder ', 'auch ', 'in ', 'jetzt ', 'am '
+      ] 
+
+      original_string.gsub(Regexp.union(words), " ")
     end
     
 
