@@ -20,7 +20,6 @@ tags:
 topics:
   - bank-und-kapitalmarkt
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

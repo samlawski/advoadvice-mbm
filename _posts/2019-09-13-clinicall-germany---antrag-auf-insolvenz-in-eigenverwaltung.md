@@ -19,7 +19,6 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarkt
-  - sonstiges
   - insolvenz
 author: kim-oliver-klevenhagen
 ---

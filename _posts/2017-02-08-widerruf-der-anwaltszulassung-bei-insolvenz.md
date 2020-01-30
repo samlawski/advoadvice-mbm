@@ -18,7 +18,6 @@ tags:
   - Urteil
 topics:
   - insolvenz
-  - sonstiges
 author: dr-sven-tintemann
 ---
 
