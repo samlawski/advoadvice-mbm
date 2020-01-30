@@ -20,7 +20,7 @@ tags:
   - DSGVO
   - KWG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

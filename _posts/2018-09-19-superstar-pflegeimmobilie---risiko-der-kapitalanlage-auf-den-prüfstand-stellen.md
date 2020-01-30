@@ -20,8 +20,8 @@ tags:
   - Kaufvertrag
   - Investition
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

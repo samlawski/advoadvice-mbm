@@ -16,7 +16,7 @@ tags:
   - BDSG
   - Scorewert
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

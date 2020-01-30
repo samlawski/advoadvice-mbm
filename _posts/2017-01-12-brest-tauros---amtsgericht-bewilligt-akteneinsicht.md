@@ -22,7 +22,7 @@ tags:
   - Handelsregister
   - AdvoAdvice
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

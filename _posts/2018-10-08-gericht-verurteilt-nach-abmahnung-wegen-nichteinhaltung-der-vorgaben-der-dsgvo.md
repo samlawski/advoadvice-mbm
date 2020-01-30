@@ -19,7 +19,7 @@ tags:
   - Verschlüsselung
   - Informationspflichten
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

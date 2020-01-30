@@ -28,8 +28,8 @@ tags:
   - ISIN DE000A1YCN14
   - SolarWorld FRN IS. 2014 2019 Serie 1116
 topics:
-  - bank-und-kapitalmarktrecht
-  - insolvenzrecht
+  - bank-und-kapitalmarkt
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

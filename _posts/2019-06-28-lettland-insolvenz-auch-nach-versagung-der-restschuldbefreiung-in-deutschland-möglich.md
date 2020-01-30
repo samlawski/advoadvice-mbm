@@ -24,7 +24,7 @@ tags:
   - Insolvenzverwalter
   - AdvoAdvice
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

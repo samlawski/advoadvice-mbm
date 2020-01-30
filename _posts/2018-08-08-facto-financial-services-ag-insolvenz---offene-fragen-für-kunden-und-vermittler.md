@@ -24,8 +24,8 @@ tags:
   - Eigeninsolvenzantrag
   - Insolvenz
 topics:
-  - versicherungsrecht
-  - bank-und-kapitalmarktrecht
+  - versicherung
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

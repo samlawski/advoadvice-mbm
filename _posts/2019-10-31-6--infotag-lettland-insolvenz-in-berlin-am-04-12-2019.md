@@ -19,7 +19,7 @@ tags:
   - AdvoAdvice
   - Schuldenfrei
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

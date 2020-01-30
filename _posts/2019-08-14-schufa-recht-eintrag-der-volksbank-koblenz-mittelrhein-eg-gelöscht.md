@@ -19,7 +19,7 @@ tags:
   - Volksbank Koblenz Mittelrhein eG
   - Erledigungsvermerk
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

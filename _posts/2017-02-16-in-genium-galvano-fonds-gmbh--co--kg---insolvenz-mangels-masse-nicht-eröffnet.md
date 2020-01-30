@@ -25,7 +25,7 @@ tags:
   - Beteiligung
   - Amtsgericht Deggendorf
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

@@ -17,7 +17,7 @@ tags:
   - VVG
   - Versicherungsvertragsgesetz
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

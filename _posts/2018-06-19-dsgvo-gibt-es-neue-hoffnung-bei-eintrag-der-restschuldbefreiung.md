@@ -20,7 +20,7 @@ tags:
   - Restschuldbefreiung
   - Insolvenz
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

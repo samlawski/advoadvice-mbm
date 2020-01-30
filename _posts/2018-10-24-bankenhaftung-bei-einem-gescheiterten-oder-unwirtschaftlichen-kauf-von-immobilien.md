@@ -24,8 +24,8 @@ tags:
   - Haftung der Bank
   - Rückabwicklung
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
   - anlegerschutz
   - sonstiges
 author: kim-oliver-klevenhagen

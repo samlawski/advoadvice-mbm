@@ -22,7 +22,7 @@ tags:
   - Auslegung
   - Norm
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -26,8 +26,8 @@ tags:
   - Anwaltsfehler
   - Anwaltsregress
 topics:
-  - widerruf-verbraucherdarlehen
-  - bank-und-kapitalmarktrecht
+  - kredit-widerrufen
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

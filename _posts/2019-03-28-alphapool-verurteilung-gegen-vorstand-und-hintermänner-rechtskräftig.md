@@ -22,7 +22,7 @@ tags:
   - Klage
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - sonstiges
 author: dr-sven-tintemann
 ---

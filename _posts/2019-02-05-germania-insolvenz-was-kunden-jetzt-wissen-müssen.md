@@ -18,7 +18,7 @@ tags:
   - Amtsgericht Charlottenburg
   - Pleite
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

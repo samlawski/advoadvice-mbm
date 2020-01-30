@@ -25,8 +25,8 @@ tags:
   - XI ZR 501/15
   - kein besonderer Vertrauenstatbestand
 topics:
-  - widerruf-verbraucherdarlehen
-  - bank-und-kapitalmarktrecht
+  - kredit-widerrufen
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

@@ -42,7 +42,7 @@ tags:
   - keine eigene Nachforschungspflicht
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

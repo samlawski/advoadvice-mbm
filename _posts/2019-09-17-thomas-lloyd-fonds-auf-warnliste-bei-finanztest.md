@@ -26,7 +26,7 @@ tags:
   - Drucksache 19/12693
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

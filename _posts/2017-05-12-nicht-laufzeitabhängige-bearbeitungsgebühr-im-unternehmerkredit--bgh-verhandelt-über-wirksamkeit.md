@@ -35,7 +35,7 @@ tags:
   - liquiditätsschonend
   - Eigeninteresse
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

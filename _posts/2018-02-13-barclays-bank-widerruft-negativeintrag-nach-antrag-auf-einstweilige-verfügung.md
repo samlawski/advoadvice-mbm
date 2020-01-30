@@ -23,7 +23,7 @@ tags:
   - Einstweilige Verfügung
   - Kredit
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -17,7 +17,7 @@ tags:
   - Klevenhagen
   - Anschlussfinanzierung
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

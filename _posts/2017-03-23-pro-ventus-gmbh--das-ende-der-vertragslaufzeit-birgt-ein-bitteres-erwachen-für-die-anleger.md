@@ -18,9 +18,9 @@ tags:
   - Vertragslaufzeit
   - AdvoAdvice
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

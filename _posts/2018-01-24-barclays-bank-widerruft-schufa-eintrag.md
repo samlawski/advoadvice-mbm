@@ -19,7 +19,7 @@ tags:
   - Barclays Bank PLC
   - Löschungsanspruch
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

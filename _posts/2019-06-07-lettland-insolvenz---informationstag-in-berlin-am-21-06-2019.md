@@ -19,7 +19,7 @@ tags:
   - EU-Insolvenz
   - COMI
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

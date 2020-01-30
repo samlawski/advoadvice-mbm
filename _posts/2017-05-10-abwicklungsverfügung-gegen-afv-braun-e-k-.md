@@ -26,7 +26,7 @@ tags:
   - § 1 Abs. 1 Satz 2 Nr. 1 KWG
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 
