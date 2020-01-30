@@ -19,7 +19,8 @@ layout: default
     </nav>
   </div>
 
-  {% if page.erfolge %}
+  {% assign erfolge_size = page.erfolge | size %}
+  {% if erfolge_size > 0 %}
     <section class="erfolge h-container">
       <p class="h6">Erfolge</p>
 
@@ -69,18 +70,21 @@ layout: default
     {% endfor %}
   </section>
 
+  {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
+  {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
+  {% assign topic_posts_size = topic_posts | size %}
 
-  <section class="h-container">
-    <h2 class="h-center h6 editable">Artikel zum Thema</h2>
+  {% if topic_posts_size > 0 %}
+    <section class="h-container">
+      <h2 class="h-center h6 editable">Artikel zum Thema</h2>
 
-    <div class="articles">
-      {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
-      {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
-      {% for article in topic_posts limit: 3 %}
-        {% include article.html article=article %}
-      {% endfor %}
-    </div>
-  </section>
+      <div class="articles">
+        {% for article in topic_posts limit: 3 %}
+          {% include article.html article=article %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
 
   <!-- <section style="display: none">
     <h2>Formulare zum Thema</h2>

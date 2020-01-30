@@ -5,11 +5,7 @@ title: Rechtsberatung zu Kapitalanlagen
 description: Erfahrene Rechtsberatung zu Kapitalanlagen bspw. bei Falschberatung und Verlust von Vermögen. Lassen Sie sich von erfahrenen Anwälten vertreten.
 header_titel: Falschberatung Kapitalanlagen anfechten
 header_image: /uploads/theme-bank1.jpg
-erfolge: 
-  - zahl: "10+"
-    text: Jahre Erfahrung im Kapitalmarktrecht
-  - zahl: "???+"
-    text: Erfolgreiche Klagen
+erfolge: []
 intro_titel:
 intro_text_markdown: >-
   Das Bank- und Kapitalmarktrecht ist der Hauptschwerpunkt der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB. Die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen sind in diesem Rechtsgebiet seit mehr als zehn Jahren tätig. Beide Rechtsanwälte sind Fachanwälte für Bank- und Kapitalmarktrecht seit mehr als fünf Jahren und haben bereits zahlreiche Fälle sowohl außergerichtlich als auch gerichtlich erfolgreich bearbeitet. Ständige Fortbildungen und Mitgliedschaften in fachspezifischen Arbeitskreisen sind für uns selbstverständlich.

@@ -5,11 +5,7 @@ title: Sicher durch die Insolvenz
 description: Beratung und Begleitung durch die Verbraucherinsolvenz und Regelinsolvenz von Rechtsanwälten mit langjähriger Erfahrung.
 header_titel: Sicher durch die Insolvenz
 header_image: /uploads/theme-insolvenz1.jpg
-erfolge: 
-  - zahl: "???+"
-    text: Fälle zur Insolvenz bearbeitet
-  - zahl: "???+"
-    text: Abgeschlossene Insolvenzen
+erfolge: []
 intro_titel:
 intro_text_markdown: >-
   Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.

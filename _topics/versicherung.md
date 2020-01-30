@@ -5,13 +5,7 @@ title: Versicherung zum Zahlen bewegen oder widerrufen
 description: Kompetente Beratung wenn die Versicherung nicht zahlt oder zum Widerruf von Lebensversicherungen durch erfahrene Rechtsanwälte.
 header_titel: Versicherung zum Zahlen bewegen oder widerrufen
 header_image: /uploads/theme-versicherung1.jpg
-erfolge: 
-  - zahl: "???+"
-    text: Versicherungen widerrufen
-  - zahl: "???+"
-    text: Zahlungen erwirkt
-  - zahl: "???+"
-    text: Fälle bearbeitet
+erfolge: []
 intro_titel:
 intro_text_markdown: >-
   

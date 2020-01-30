@@ -5,7 +5,7 @@ title: Autokredit widerrufen
 description: Erfahrene Rechtsanwälte helfen Verbrauchern beim Wideruf von Autokrediten und Kfz Finanzierungen.
 header_titel: Autokredit widerrufen
 header_image: /uploads/car.jpg
-erfolge:
+erfolge: []
 intro_titel: Wir helfen Ihnen!
 intro_text_markdown: Wir sind darauf spezialisiert, Ihnen beim Diesel-Skandal und bei Widerruf Ihres Autokredites zu helfen!
 intro_link_text: Kostenfreie und unverbindliche Erstberatung
