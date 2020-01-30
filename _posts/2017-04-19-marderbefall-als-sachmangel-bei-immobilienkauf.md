@@ -25,8 +25,7 @@ tags:
   - OLG Hamm
   - 13.02.2017
   - 22 U 104/16
-topics:
-  - sonstiges
+topics: []
 author: kim-oliver-klevenhagen
 ---
 

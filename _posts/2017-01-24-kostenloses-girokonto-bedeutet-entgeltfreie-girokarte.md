@@ -19,7 +19,6 @@ tags:
   - überraschende Klauseln
 topics:
   - bank-und-kapitalmarkt
-  - sonstiges
 author: dr-sven-tintemann
 ---
 

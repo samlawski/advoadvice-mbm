@@ -21,8 +21,7 @@ tags:
   - Gerichtsverfahren
   - Schufa
   - Schufa-Eintrag
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

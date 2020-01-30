@@ -24,8 +24,7 @@ tags:
   - München
   - Gebühren
   - zurückzahlen
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 
