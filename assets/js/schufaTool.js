@@ -577,3 +577,5 @@ var schufaTool = (function(){
     init: init
   }
 })()
+
+schufaTool.init()
