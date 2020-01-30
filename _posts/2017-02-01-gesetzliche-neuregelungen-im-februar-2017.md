@@ -14,8 +14,7 @@ tags:
   - Streitbeilegung
   - Gurtpflicht
   - Umzugskostenpauschale
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

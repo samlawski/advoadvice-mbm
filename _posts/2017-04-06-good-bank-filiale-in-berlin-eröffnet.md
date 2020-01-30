@@ -15,8 +15,7 @@ tags:
   - eigener Anbau
   - Salat
   - Vertical Farming
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 
