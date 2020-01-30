@@ -48,7 +48,11 @@ layout: default
   <section class="h-container--md">
     <h2 class="h-center h6 editable">Weitere Artikel zum Thema</h2>
 
-    {% include articles.html articles=suggested_posts %}
+    <div class="articles">
+      {% for article in suggested_posts %}
+        {% include article.html article=article %}
+      {% endfor %}
+    </div>
 
   </section>
 </main>

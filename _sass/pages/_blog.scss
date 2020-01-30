@@ -42,4 +42,14 @@
       font-size: .8rem;
     }
   }
+
+  // Search
+  .wrapper--articles,
+  .wrapper--search {
+    display: none; 
+
+    &.active {
+      display: block;
+    }
+  }
 }
