@@ -24,7 +24,6 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics:
-  - schufa
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---

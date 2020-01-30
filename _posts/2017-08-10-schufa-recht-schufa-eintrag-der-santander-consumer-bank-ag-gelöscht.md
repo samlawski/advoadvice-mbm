@@ -19,7 +19,6 @@ tags:
   - Santander Consumer Bank AG
 topics:
   - schufa-und-datenschutz
-  - schufa
 author: dr-sven-tintemann
 ---
 
