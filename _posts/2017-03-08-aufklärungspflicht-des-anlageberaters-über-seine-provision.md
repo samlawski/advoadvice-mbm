@@ -31,7 +31,7 @@ tags:
   - III ZR 389/12
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

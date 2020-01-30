@@ -30,7 +30,7 @@ tags:
   - Geschäftsführer
 topics:
   - anlegerschutz
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

@@ -20,7 +20,7 @@ tags:
   - Generali Versicherung AG
   - Prozesserfolg
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

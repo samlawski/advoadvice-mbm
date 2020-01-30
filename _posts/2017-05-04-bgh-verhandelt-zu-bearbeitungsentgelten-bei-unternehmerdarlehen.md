@@ -31,7 +31,7 @@ tags:
   - 02.12.2015
   - 3 U 113/15
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

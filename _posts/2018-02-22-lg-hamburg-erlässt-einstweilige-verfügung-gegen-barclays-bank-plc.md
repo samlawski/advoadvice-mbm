@@ -21,7 +21,7 @@ tags:
   - BDSG
   - Einstweilige Verfügung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

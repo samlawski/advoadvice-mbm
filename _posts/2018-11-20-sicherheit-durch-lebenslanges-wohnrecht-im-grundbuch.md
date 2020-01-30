@@ -21,7 +21,7 @@ tags:
   - Tintemann
   - Neue Eintragung
 topics:
-  - immobilienrecht
+  - immobilien
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

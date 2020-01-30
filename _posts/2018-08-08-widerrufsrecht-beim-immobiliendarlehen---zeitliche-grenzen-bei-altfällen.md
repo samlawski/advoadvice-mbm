@@ -18,8 +18,8 @@ tags:
   - AdvoAdvice Rechtsanwälte
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

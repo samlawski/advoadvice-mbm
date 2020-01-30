@@ -17,7 +17,7 @@ tags:
   - DSGVO
   - Inkasso
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

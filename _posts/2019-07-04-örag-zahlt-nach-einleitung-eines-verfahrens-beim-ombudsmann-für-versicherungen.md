@@ -17,7 +17,7 @@ tags:
   - Lebensversicherungen
   - Rechtsanwaltsgebühr
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

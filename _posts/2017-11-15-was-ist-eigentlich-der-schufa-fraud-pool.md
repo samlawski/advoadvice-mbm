@@ -20,7 +20,7 @@ tags:
   - ungewöhnlicher Sachverhalt
   - betrügerische Handlung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

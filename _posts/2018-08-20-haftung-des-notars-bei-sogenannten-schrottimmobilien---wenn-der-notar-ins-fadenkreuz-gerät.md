@@ -24,8 +24,8 @@ tags:
   - Falschberatung
   - Beurkundung
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

@@ -19,7 +19,7 @@ tags:
   - Tabelle
   - Insolvenzgericht
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

@@ -18,8 +18,8 @@ tags:
   - unwirksam
   - OLG Düsseldorf
 topics:
-  - widerruf-verbraucherdarlehen
-  - bank-und-kapitalmarktrecht
+  - kredit-widerrufen
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

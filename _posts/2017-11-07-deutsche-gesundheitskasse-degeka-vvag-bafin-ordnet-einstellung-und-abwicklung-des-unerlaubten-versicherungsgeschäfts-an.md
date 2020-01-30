@@ -21,7 +21,7 @@ tags:
   - Abwicklung
   - Einstellung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

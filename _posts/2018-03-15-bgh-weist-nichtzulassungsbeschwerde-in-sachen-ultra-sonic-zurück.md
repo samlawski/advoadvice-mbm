@@ -10,7 +10,7 @@ style_id: post
 feature_bild_path:
 tags:
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

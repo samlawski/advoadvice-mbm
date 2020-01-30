@@ -26,7 +26,7 @@ tags:
   - Restschuldbefreiung
   - Schuldenschnitt
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

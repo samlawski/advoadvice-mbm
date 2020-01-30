@@ -20,7 +20,7 @@ tags:
   - Rechtsschutz Union
   - AdvoAdvice
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

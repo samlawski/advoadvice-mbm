@@ -21,7 +21,7 @@ tags:
   - Schlaganfall
   - Gesundheitsfragen
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

@@ -30,7 +30,7 @@ tags:
 topics:
   - medien
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

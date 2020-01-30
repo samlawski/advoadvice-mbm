@@ -22,7 +22,7 @@ tags:
   - Versicherungsrecht
   - Rechtsschutzversicherung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

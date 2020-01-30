@@ -21,7 +21,7 @@ tags:
   - Pflichtangabe
   - AdvoAdvice
 topics:
-  - widerruf-verbraucherdarlehen
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

@@ -26,9 +26,9 @@ tags:
   - Kaufvertrag
   - Notar
 topics:
-  - immobilienrecht
+  - immobilien
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

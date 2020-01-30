@@ -26,7 +26,7 @@ tags:
   - Schaden
 topics:
   - anlegerschutz
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

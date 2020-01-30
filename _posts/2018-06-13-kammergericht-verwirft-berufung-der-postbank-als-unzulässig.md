@@ -26,7 +26,7 @@ tags:
   - VI ZB 48/14
   - VI ZB 75/14
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

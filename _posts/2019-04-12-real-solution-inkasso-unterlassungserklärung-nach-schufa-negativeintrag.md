@@ -21,7 +21,7 @@ tags:
   - Kreditkarte
   - International Card Services B.V.
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

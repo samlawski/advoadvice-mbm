@@ -19,7 +19,7 @@ tags:
   - Einlagengeschäft
   - KWG
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

@@ -21,7 +21,7 @@ tags:
   - titulierte Forderung
   - Vollstreckungsbescheid
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
