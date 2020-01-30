@@ -42,33 +42,31 @@ $navLinks.forEach(function($link){
 
 /* *** Search *** */
 ;(function(){
-  var $blogSuche  = document.getElementById('blog__suche')
+  var $blogSuche        = document.getElementById('blog__suche')
   
   // Stop if necessary elements aren't present
   if(!$blogSuche) return 
 
   // Methods
   function initializeSearch(callback){
-    var index = null
+    var index     = null,
+        searchObj = null
 
-    if(index){
-      callback(index)
+    if(searchObj){
+      callback(index, searchObj)
     }else if(sessionStorage.searchObj){
-      index = initializeLunr(
-        JSON.parse(sessionStorage.searchObj)
-      )
-      callback(index)
+      searchObj = JSON.parse(sessionStorage.searchObj)
+      index = initializeLunr(searchObj)
+      callback(index, searchObj)
     }else{
       get("/api/v1/posts.json", function(dataString){
         sessionStorage.searchObj = dataString
-        index = initializeLunr(
-          JSON.parse(dataString)
-        )
-        callback(index)
+        searchObj = JSON.parse(dataString)
+        index = initializeLunr(searchObj)
+        callback(index, searchObj)
       })
     }
   }
-
 
   function initializeLunr(searchObj){
     var index = elasticlunr(function(){
@@ -90,7 +88,6 @@ $navLinks.forEach(function($link){
     return index
   }
 
-
   function search(query, index){
     return index.search(query, {
       fields: {
@@ -101,24 +98,48 @@ $navLinks.forEach(function($link){
     })
   }
 
-  function displayResults(data){
-    console.log('results', data, data.map(r => {
-      return JSON.parse(sessionStorage.searchObj)[parseInt(r.ref)]
-    }))
+  function displayResults(searchResults, searchObj){    
+    document.querySelector('.wrapper--search .articles').innerHTML = searchResults.map(result => {
+      var article = searchObj[parseInt(result.ref)]
+      return articleTemplate(article)
+    }).join(" ")
   }
 
-  
+  function articleTemplate(article){
+    var topics = article.topics ? article.topics.map(function(topic){
+      return '<small>' + topic + '</small>'
+    }).join('<span>&nbsp;&#183&nbsp;</span>') : ''
+    
+    return '' + 
+    '<article>' +
+      '<a class="article__link" href="' + article.url + '">' +
+        '<h3 class="article__title">' + article.title + '</h3>' + 
+        '<p class="article__description">' + article.description + '</p>' +
+        '<div class="article__topics">' + topics + '</div>' +
+      '</a>' +
+    '</article>'
+  }
+
+  function toggleResultVisibility(query){
+    if(query.trim().length == 0){
+      document.querySelector('.wrapper--articles').classList.add('active')
+      document.querySelector('.wrapper--search').classList.remove('active')
+    }else{
+      document.querySelector('.wrapper--articles').classList.remove('active')
+      document.querySelector('.wrapper--search').classList.add('active')
+    }
+  }
 
   // Execution
 
   // GET searchable content
   $blogSuche.addEventListener('keyup', function(event){
-    initializeSearch(function(index){
-      var results = search(event.target.value, index)
+    initializeSearch(function(index, searchObj){
+      var searchResults = search(event.target.value, index)
 
-      displayResults(results)
+      displayResults(searchResults, searchObj)
+      toggleResultVisibility(event.target.value)
     })
-
   })
   
 })()
