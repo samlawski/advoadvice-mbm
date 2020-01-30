@@ -1,3 +1,10 @@
+.page__schufa_tool {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+
 // PROGRESS BUTTONS
 .schufaTool__progressButtons {
   margin-top: 40px;
@@ -114,4 +121,8 @@
 }
 .schufaTool__form__radio {
   label { margin: 5px 10px; }
+}
+
+.schufaTool__finalForm {
+  display: none;
 }
