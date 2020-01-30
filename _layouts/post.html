@@ -4,7 +4,7 @@ layout: default
 
 {% assign author_id = "/authors/" | append: page.author %}
 {% assign author = site.authors | where: "id", author_id | first %}
-{% assign suggested_posts = page | related_with_tags %}
+{% assign suggested_posts = page | related_with_topics %}
 
 {% if page.feature_bild_path %}
   <header class="h-container--md" style="background-image:url('{{page.feature_bild_path}}')"></header>
