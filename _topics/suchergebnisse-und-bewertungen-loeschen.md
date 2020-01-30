@@ -5,9 +5,7 @@ title: Suchergebnisse und Bewertungen löschen
 description: Suchergebnisse bei Google und Bewertungen auf Portalen durch einen Rechtsanwalt löschen lassen.
 header_titel: Suchergebnisse und Bewertungen löschen
 header_image: /uploads/theme-bewertungen1.jpg
-erfolge: 
-  - zahl: "???+"
-    text: Einträge gelöscht
+erfolge: []
 intro_titel:
 intro_text_markdown:
 intro_link_text: 

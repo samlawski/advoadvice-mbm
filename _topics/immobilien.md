@@ -5,7 +5,7 @@ title: Rechtsberatung zu Immobilien und Eigentum
 description: Expertenberatung beim Erwerb von Immobilien. Beratung und Hilfe bei Streitfragen zu Ihrem EIgentum.
 header_titel: Beratung zu Immobilien und Eigentum
 header_image: /uploads/theme-immobilien1.jpg
-erfolge: 
+erfolge: []
 intro_titel:
 intro_text_markdown: >-
   Unser Gründungspartner Rechtsanwalt Klevenhagen leitet das Dezernat für dieses anspruchsvolle und umfangreiche Rechtsgebiet. Durch seine langjährige Erfahrung und nachgewiesene Qualifikation als Fachanwalt für Bank- und Kapitalmarktrecht können wir Ihnen in diesem Rechtsgebiet eine ganzheitliche, integrale Beratung bieten. Er und sein Team sind besonnene und besonders erfahrene Berater und Prozessanwälte, die gemeinsam mit Ihnen Ihre individuellen Ziele zu definieren und durchsetzen.
