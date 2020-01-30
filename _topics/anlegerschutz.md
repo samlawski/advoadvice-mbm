@@ -1,7 +1,7 @@
 ---
 layout: topic
 style_id: topic
-title: Medien
+title: Anlegerschutz
 description: 
 header_titel: 
 header_image: 
@@ -12,4 +12,5 @@ intro_link_text:
 intro_link: 
 abschnitte: []
 redirect_from: []
+redirect_to: /
 ---
