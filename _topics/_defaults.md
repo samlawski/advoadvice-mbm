@@ -22,4 +22,5 @@ abschnitte:
     cta: true
 redirect_from: 
   - ''
+redirect_to: 
 ---
