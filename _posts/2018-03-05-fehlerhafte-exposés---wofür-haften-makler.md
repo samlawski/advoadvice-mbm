@@ -25,7 +25,6 @@ tags:
   - Details
 topics:
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

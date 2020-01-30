@@ -11,8 +11,7 @@ feature_bild_path: ""
 tags:
   - Verbraucherinformationen
   - Leitzinserhöhung
-topics:
-  - sonstiges
+topics: []
 author: kim-oliver-klevenhagen
 ---
 

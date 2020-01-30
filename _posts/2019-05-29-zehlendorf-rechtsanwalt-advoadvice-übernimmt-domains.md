@@ -24,8 +24,7 @@ tags:
   - Rathaus
   - S-Bahnhof
   - Kaiserliches Postamt
-topics:
-  - sonstiges
+topics: []
 author: kim-oliver-klevenhagen
 ---
 

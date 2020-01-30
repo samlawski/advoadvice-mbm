@@ -14,8 +14,7 @@ tags:
   - Kaiserliches Postamt
   - Martin-Buber-Str. 14
   - Berlin-Zehlendorf
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

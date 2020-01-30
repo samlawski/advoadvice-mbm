@@ -28,7 +28,6 @@ tags:
   - Finanzierung
 topics:
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

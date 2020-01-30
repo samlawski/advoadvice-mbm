@@ -24,7 +24,6 @@ tags:
   - Banken
   - Stiftung Warentest
 topics:
-  - sonstiges
   - anlegerschutz
 author: dr-sven-tintemann
 ---
