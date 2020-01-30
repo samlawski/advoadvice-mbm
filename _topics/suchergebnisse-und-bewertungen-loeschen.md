@@ -75,4 +75,5 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/themen/bewertung-löschen'
+redirect_to: 
 ---
