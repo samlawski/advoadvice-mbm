@@ -42,7 +42,7 @@ $navLinks.forEach(function($link){
 
 /* *** Search *** */
 ;(function(){
-  var $blogSuche        = document.getElementById('blog__suche')
+  var $blogSuche = document.getElementById('blog__suche')
   
   // Stop if necessary elements aren't present
   if(!$blogSuche) return 
@@ -130,15 +130,25 @@ $navLinks.forEach(function($link){
     }
   }
 
+  function executeSearch(){
+    initializeSearch(function(index, searchObj){
+      var searchResults = search($blogSuche.value, index)
+
+      displayResults(searchResults, searchObj)
+      toggleResultVisibility($blogSuche.value)
+    })
+  }
+
   // Execution
 
   // GET searchable content
-  $blogSuche.addEventListener('keyup', function(event){
-    initializeSearch(function(index, searchObj){
-      var searchResults = search(event.target.value, index)
+  $blogSuche.addEventListener('keyup', executeSearch)
 
-      displayResults(searchResults, searchObj)
-      toggleResultVisibility(event.target.value)
+  // Suggestions 
+  document.querySelectorAll('.suche__suggestion').forEach(function($sugg){
+    $sugg.addEventListener('click', function(event){
+      $blogSuche.value = event.target.innerText
+      executeSearch()
     })
   })
   
