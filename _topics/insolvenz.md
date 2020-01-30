@@ -75,4 +75,5 @@ abschnitte:
     cta: false
 redirect_from: 
   - '/themen/insolvenzrecht'
+redirect_to: 
 ---
