@@ -28,10 +28,14 @@ such_tips:
 </header>
 
 <main>
-  <section class="h-container">
+  <section class="h-container wrapper--articles active">
     <h2 class="blog__h h6">Aktuelle Artikel</h2>
 
-    {% include articles.html articles=paginator.posts %}
+    <div class="articles">
+      {% for article in paginator.posts %}
+        {% include article.html article=article %}
+      {% endfor %}
+    </div>
 
     <!-- Pagination Links -->
     <nav>
@@ -52,5 +56,9 @@ such_tips:
         {% endif %}
       </ul>
     </nav>
+  </section>
+  <section class="h-container wrapper--search">
+    <h2 class="blog__h h6">Suchergebnisse</h2>
+    <div class="articles"></div>
   </section>
 </main>
