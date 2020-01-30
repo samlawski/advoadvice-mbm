@@ -76,6 +76,30 @@
   }
 
 
-  // Weitere Artikel
+  // Presse
 
+  .post__presse {
+    padding-top: 40px;
+    background-color: $clr-transparent-bl-1;
+
+    .presse__logos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+
+      a {
+        flex: 1 1 33%;
+        text-align: center;
+        text-decoration: none;
+        padding: 20px;
+      }
+
+      img {
+        max-width: 100%;
+        width: 180px;
+        margin: auto;
+      }
+    }
+  }
 }
