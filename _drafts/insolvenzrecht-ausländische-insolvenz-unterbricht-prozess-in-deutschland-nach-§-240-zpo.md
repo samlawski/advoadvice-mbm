@@ -8,6 +8,7 @@ title: >-
 date: 2020-01-23 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
 topics:
