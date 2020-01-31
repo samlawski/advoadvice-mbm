@@ -16,7 +16,7 @@ tags:
   - Unterlassung
   - AdvoAdvice
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
