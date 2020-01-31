@@ -1,6 +1,7 @@
 /*
 
   - General Functions
+  - On Page Load
   - Navigation
   - Search (only on blog)
   - reCaptcha Cookies - Contact Form
@@ -26,7 +27,30 @@ function get(url, callback){
 function arrayFrom(arr){
   return Array.prototype.slice.call(arr)
 }
+function clearAllCookies(){
+  var cookies = document.cookie.split("; ");
+  for (var c = 0; c < cookies.length; c++) {
+    var d = window.location.hostname.split(".");
+    while (d.length > 0) {
+      var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+      var p = location.pathname.split('/');
+      document.cookie = cookieBase + '/';
+      while (p.length > 0) {
+        document.cookie = cookieBase + p.join('/');
+        p.pop();
+      };
+      d.shift();
+    }
+  }
+}
+function readCookie(n) {
+  var a = ("; " + document.cookie ).match(";\\s*" + n + "=([^;]+)")
+  return a ? a[1] : ''
+}
 
+/* *** On Page Load *** */
+
+clearAllCookies()
 
 /* *** Navigation *** */
 
@@ -181,28 +205,6 @@ var captchas = []
 
   // Methods
 
-  function clearAllCookies(){
-    var cookies = document.cookie.split("; ");
-    for (var c = 0; c < cookies.length; c++) {
-      var d = window.location.hostname.split(".");
-      while (d.length > 0) {
-        var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
-        var p = location.pathname.split('/');
-        document.cookie = cookieBase + '/';
-        while (p.length > 0) {
-          document.cookie = cookieBase + p.join('/');
-          p.pop();
-        };
-        d.shift();
-      }
-    }
-  }
-
-  function readCookie(n) {
-    var a = ("; " + document.cookie ).match(";\\s*" + n + "=([^;]+)")
-    return a ? a[1] : ''
-  }
-
   function _enableSendBtn(){
     $sendBtns.forEach(function($btn){
       $btn.disabled = false
@@ -262,5 +264,4 @@ var captchas = []
   $cookieCheckInputs.forEach(function($check){
     $check.addEventListener('change', _activateRecaptcha)
   })
-
 })()
