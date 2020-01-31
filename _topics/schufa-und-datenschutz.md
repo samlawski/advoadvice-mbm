@@ -13,8 +13,8 @@ erfolge:
   - zahl: 20+
     text: Medienberichte zu Erfolgen
 intro_titel: Nicht sicher, was auf Sie zutrifft?
-intro_text_markdown: Erhalten Sie eine erste Empfehlung zu Ihrer Situation jetzt sofort mit unserem kostenlosen Selb-check
-intro_link_text: Zum SchuFa Selbst-Check
+intro_text_markdown: Erhalten Sie eine erste Empfehlung zu Ihrer Situation jetzt sofort mit unserem kostenlosen und unverbindlichen Selbst-check
+intro_link_text: Zum SCHUFA Selbst-Check
 intro_link: /schufa-beratung
 abschnitte:
   - abschnitt_template: box_hell
