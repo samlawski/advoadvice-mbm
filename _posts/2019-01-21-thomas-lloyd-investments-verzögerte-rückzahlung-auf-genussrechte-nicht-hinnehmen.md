@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Thomas Lloyd Investments: Verzögerte Rückzahlung auf Genussrechte nicht
   hinnehmen
 date: 2019-01-21 00:00:00
 description: 'Thomas Lloyd Genussrechte: Zahlungsverzug muss Anlegern nicht akzeptieren'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -22,7 +20,7 @@ tags:
   - Global High Yield Fund 450
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

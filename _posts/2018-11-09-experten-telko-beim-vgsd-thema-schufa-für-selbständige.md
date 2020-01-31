@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Experten Telko beim VGSD:  Thema Schufa für Selbständige'
 date: 2018-11-09 00:00:00
 description: >-
   Experten-Talk beim VGSD mit Dr. Sven Tintemann zum Thema Schufa für
   Selbständige
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa
@@ -26,7 +24,7 @@ tags:
   - Scoring
   - Auskunfteien
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schweigepflicht bleibt Schweigepflicht – Ärzte dürfen Daten nur an den Berechtigten herausgeben
 date: 2017-06-20 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Datenschutz
@@ -16,7 +14,7 @@ tags:
   - OLG München
   - OLG Düsseldorf
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

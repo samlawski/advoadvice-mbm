@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler eingereicht'
 date: 2019-03-13 00:00:00
 description: 'Pro Ventus: Klage gegen Geschäftsführer und Vermittler'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger
@@ -25,7 +23,7 @@ tags:
   - Vermittler
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

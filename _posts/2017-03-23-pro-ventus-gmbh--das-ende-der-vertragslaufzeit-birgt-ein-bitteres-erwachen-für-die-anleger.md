@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Pro Ventus GmbH – das Ende der Vertragslaufzeit birgt ein bitteres Erwachen für die Anleger
 date: 2017-03-23 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz
@@ -17,9 +15,9 @@ tags:
   - Vertragslaufzeit
   - AdvoAdvice
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

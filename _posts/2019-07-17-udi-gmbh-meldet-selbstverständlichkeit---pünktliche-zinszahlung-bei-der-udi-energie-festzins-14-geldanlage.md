@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   UDI GmbH meldet Selbstverständlichkeit - Pünktliche  Zinszahlung bei der UDI
   Energie FESTZINS 14 Geldanlage
 date: 2019-07-17 00:00:00
 description: UDI Energie FESTZINS 14
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - UDI Energie Festzins 14
@@ -20,7 +18,7 @@ tags:
   - Klevenhagen
   - Rechtsanwalt Klevenhagen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Erneuter außergerichtlicher Erfolg gegen Synergie Inkasso GmbH'
 date: 2017-02-09 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufaeintrag
@@ -23,8 +21,7 @@ tags:
   - Kostenübernahme
   - AdvoAdvice
 topics:
-  - schufa
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

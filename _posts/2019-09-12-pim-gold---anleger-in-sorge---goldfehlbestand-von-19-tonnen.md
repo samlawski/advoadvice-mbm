@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'PIM Gold - Anleger in Sorge - Goldfehlbestand von 1,9 Tonnen?'
 date: 2019-09-12 00:00:00
 description: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
 layout: post
+style_id: post
 feature_bild_path: /uploads/gold-bars-2467833-1920.jpg
 tags:
   - PIM Gold
@@ -17,9 +15,8 @@ tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
   - AdvoAdvice Rechtsanwälte
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

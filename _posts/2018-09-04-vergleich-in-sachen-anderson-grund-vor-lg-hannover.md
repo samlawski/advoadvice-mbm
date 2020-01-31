@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Vergleich in Sachen Anderson Grund vor LG Hannover
 date: 2018-09-04 00:00:00
 description: Vergleich vor Landgericht Hannover in Sachen Anderson Grund
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche
@@ -20,7 +18,7 @@ tags:
   - Darlehen mit Grundschuldbesicherung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

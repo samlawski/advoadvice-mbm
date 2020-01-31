@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Josef Müller: BaFin ordnet Einstellung der Finanzportfolioverwaltung an'
 date: 2017-11-03 00:00:00
 description: Bafin odrnet Einstellung der Finanzportfolioverwaltung bei Josef Müller an.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -18,7 +16,7 @@ tags:
   - KWG
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

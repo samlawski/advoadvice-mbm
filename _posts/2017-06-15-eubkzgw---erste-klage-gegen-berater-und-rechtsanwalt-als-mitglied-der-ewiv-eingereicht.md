@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: EUBKZGW - Erste Klage gegen Berater und Rechtsanwalt als Mitglied der EWIV eingereicht
 date: 2017-06-15 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -21,7 +19,7 @@ tags:
   - Amtsgericht Charlottenburg
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

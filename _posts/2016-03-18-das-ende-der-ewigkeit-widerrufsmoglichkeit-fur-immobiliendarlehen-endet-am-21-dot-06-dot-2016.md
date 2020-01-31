@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Das Ende der Ewigkeit - Widerrufsmöglichkeit für Immobiliendarlehen endet am 21.06.2016"
 date: 2016-03-18 18:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Widerruf", "Widerrufs-Joker", "Ende", "Ewigkeit", "Gesetzgeber", "beschränkt", "Widerrufsrecht", "Immobiliendarlehen", "Widerrufsbelehrung", "Vorfälligkeit", "Klage", "Verjährung", "21.06.2016", "Rechtsmissbrauch", "enge Grenzen", "BGH", "VIII ZR 146/15"]
 topics: []

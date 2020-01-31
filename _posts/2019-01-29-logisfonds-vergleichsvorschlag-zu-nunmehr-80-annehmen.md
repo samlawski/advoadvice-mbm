@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Logisfonds: Vergleichsvorschlag zu nunmehr 80% annehmen?'
 date: 2019-01-29 00:00:00
 description: >-
   Logisfonds: Sollen Anleger den Vergleichsvorschlag von NBS Partners zu 80%
   annehmen?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche
@@ -24,8 +22,8 @@ tags:
   - Advoadvice
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarkt
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

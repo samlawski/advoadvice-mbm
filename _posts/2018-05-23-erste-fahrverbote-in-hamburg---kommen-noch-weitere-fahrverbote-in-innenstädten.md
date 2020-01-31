@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Erste Fahrverbote in Hamburg - kommen noch weitere Fahrverbote in
   Innenstädten?
 date: 2018-05-23 00:00:00
 description: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -23,7 +21,7 @@ tags:
   - Nachrüstung
   - Musterfeststellungsklage
 topics:
-  - widerruf-verbraucherdarlehen
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

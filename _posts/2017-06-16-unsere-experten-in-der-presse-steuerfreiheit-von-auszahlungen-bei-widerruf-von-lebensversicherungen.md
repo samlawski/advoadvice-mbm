@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Steuerfreiheit von Auszahlungen bei Widerruf von Lebensversicherungen'
 date: 2017-06-16 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/euro.gif
 tags:
   - Experten
@@ -18,7 +16,7 @@ tags:
   - Steuerfreiheit
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

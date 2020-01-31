@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Klage gegen Rechtsschutz Union vor Amtsgericht Kelheim
 date: 2018-07-05 00:00:00
 description: Klage gegen Rechtsschutz Union vor Amtsgericht eingereicht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherungsrecht
@@ -19,7 +17,7 @@ tags:
   - Rechtsschutz Union
   - AdvoAdvice
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

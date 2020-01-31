@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Ikano Bank Negativeintrag nach Vergleich vor LG Berlin gelöscht
 date: 2018-01-09 00:00:00
 description: >-
   Ikano Bank AB widerruft Negativeintrag nach Vergleich vor dem Landgericht
   Berlin
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -25,7 +23,7 @@ tags:
   - Klage
   - Landgericht Berlin
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

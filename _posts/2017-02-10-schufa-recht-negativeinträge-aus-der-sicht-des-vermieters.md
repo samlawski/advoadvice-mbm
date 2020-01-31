@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Negativeinträge aus der Sicht des Vermieters'
 date: 2017-02-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag
@@ -27,8 +25,7 @@ tags:
   - Mietschulden
   - Mietschuldenfreiheit
 topics:
-  - datenschutz
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

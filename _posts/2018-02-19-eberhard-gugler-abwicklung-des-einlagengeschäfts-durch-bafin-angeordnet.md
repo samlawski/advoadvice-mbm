@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Eberhard Gugler: Abwicklung des Einlagengeschäfts durch BaFin angeordnet'
 date: 2018-02-19 00:00:00
 description: BaFin ordnet Abwicklung des Einlagengeschäfts an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -20,7 +18,7 @@ tags:
   - Rückzahlung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

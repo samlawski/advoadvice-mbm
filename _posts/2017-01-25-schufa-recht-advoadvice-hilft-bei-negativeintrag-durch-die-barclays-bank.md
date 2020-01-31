@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: AdvoAdvice hilft bei Negativeintrag durch die Barclays Bank'
 date: 2017-01-25 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag
@@ -22,8 +20,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics:
-  - schufa
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Met- Immobilien Festzins GmbH – Nachrangdarlehen und ihre Risiken für Anleger
 date: 2017-05-24 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -23,7 +21,7 @@ tags:
   - Zinsen
   - Rendite
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

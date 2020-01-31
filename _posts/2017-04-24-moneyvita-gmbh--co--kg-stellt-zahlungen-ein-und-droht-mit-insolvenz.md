@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'MoneyVita GmbH & Co. KG stellt Zahlungen ein und droht mit Insolvenz'
 date: 2017-04-24 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -27,7 +25,7 @@ tags:
   - 'MoneyVita GmbH & Co. KG'
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

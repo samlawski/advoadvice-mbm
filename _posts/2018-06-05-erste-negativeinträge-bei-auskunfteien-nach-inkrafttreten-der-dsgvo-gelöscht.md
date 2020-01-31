@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Erste Negativeinträge bei Auskunfteien nach Inkrafttreten der DSGVO gelöscht
 date: 2018-06-05 00:00:00
 description: Erster Negativeintrag nach Inkrafttreten der DSGVO gelöscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Negativeintrag
@@ -16,7 +14,7 @@ tags:
   - DSGVO
   - Inkasso
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

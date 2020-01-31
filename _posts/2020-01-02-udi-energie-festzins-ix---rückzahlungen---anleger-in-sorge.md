@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
 date: 2020-01-02 00:00:00
 description: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - UDI GmbH
@@ -21,7 +19,7 @@ tags:
   - Rechtsanwalt Klevenhagen
   - Anlegerschutz
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

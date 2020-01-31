@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   LG Berlin: Nachrangabrede der DEF Deutsche Energie Finanz 11 GmbH & Co. KG
   unwirksam
@@ -10,6 +7,7 @@ description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG durch Landgericht Berlin zur
   Zahlung verurteilt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -23,7 +21,7 @@ tags:
   - AGB
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -3,48 +3,54 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// Constants
+$clr-primary:             #244c5a;
+$clr-secondary:           #7ba7bc;
+$clr-text:                #081114;
+$clr-highlight:           #A80874;
+$clr-highlight-2:         #B7FDFE;
 
-$spacing-unit:     30px;
+$clr-primary-2:           rgba(36, 76, 90, 0.2);
+$clr-secondary-2:         rgba(123, 167, 188, 0.2);
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$clr-bg:                  white;
+$clr-transparent-wh-1:    rgba(255,255,255,0.1);
+$clr-transparent-wh-7:    rgba(255,255,255,0.7);
+$clr-transparent-wh-8:    rgba(255,255,255,0.8);
+$clr-transparent-bl-1:    rgba(0,0,0,0.07);
+$clr-transparent-bl-3:    rgba(0,0,0,0.3);
+$clr-transparent-bl-7:    rgba(0,0,0,0.7);
+ 
+$font-family--text:       'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif;      
+$font-family--title:      'Playfair Display', "Georgia", serif;
+$font-size:               16px;
+ 
+$media-sm:                600px;
+$media-md:                850px;
+$media-lg:                1024px;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$transition-time-1:       .3s;
+$transition-time-2:       .8s;
 
-// Width of the content area
-$content-width:    800px;
+$max-width:               1200px;
+$max-width--md:           1000px;
+$max-width--sm:           820px;
+$max-width-padding:       1220px;
+$spacing-1:               20px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+$shadow:                  0 5px 10px $clr-transparent-bl-3;
 
 @import
+  "reset",
+  "plugins",
+  "helpers",
+  "global",
   "layout",
-  "schufa_beratung",
-  "landing",
-  "topic",
-  "loader"
+  "components/article",
+  "pages/home",
+  "pages/topic",
+  "pages/blog",
+  "pages/post",
+  "pages/simple_page",
+  "pages/legacy_schufa_beratung"
 ;

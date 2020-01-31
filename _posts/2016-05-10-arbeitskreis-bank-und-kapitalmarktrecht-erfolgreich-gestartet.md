@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Arbeitskreis Bank- und Kapitalmarktrecht erfolgreich gestartet"
 date: 2016-05-10 12:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Arbeitskreis", "Bankrecht", "Kapitalmarktrecht", "Anwaltsverein", "Kirchner", "Christiani", "Liebscher", "Tintemann"]
 topics: []

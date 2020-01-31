@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Der neue Widerrufsjoker - Das erstaunliche Urteil des LG Ravensburg vom
   21.09.2018, AZ 2 O 21/18
@@ -13,6 +10,7 @@ description: >-
   vorteilhaftes Urteil erlassen, welches den Sparkassenkunden eine Art
   Widerrufsjoker bei Darlehensverträgen gewährt.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerrufsrecht
@@ -26,8 +24,8 @@ tags:
   - Kim Oliver Klevenhagen
   - Verbraucherschutz
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

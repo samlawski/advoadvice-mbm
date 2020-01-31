@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Brexit kommt: Lettland als neuer Standort für EU-Insolvenz so attraktiv wie
   nie
@@ -10,7 +7,8 @@ description: >-
   Lettland wird mit dem Brexit für Interessenten an der EU-Insolvenz so
   attraktiv wie nie zuvor
 layout: post
-feature_bild_path:
+style_id: post
+feature_bild_path: /uploads/flag-1090955-640-1.jpg
 tags:
   - Insolvenz
   - Lettland
@@ -25,15 +23,13 @@ tags:
   - Restschuldbefreiung
   - Schuldenschnitt
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 
 ### Brexit steht wahrscheinlich unmittelbar bevor
 
 Die Briten haben gew&auml;hlt und wie es aussieht, f&uuml;r eine satte Mehrheit des Premierministers Boris Johnson gesorgt. Dies wird wohl zur Folge haben, dass es nunmehr tats&auml;chlich am 31.01.2020 zu einem Vollzug des Brexit (also dem Austritt Gro&szlig;britanniens aus der Europ&auml;ischen Union kommen d&uuml;rfte.&nbsp;
-
-![](/uploads/flag-1090955-640-1.jpg){: width="640" height="442"}
 
 Der Brexit hat weitreichende Folgen f&uuml;r die B&uuml;rger der Europ&auml;ischen Union und auch die B&uuml;rger Gro&szlig;britanniens. Das d&uuml;rfte unstreitig sein.&nbsp;
 

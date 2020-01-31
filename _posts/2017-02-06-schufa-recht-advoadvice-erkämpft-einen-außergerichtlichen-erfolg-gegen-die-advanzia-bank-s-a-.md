@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: AdvoAdvice erkämpft einen außergerichtlichen Erfolg gegen die Advanzia Bank S.A.'
 date: 2017-02-06 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag
@@ -23,8 +21,7 @@ tags:
   - Erfolg
   - AdvoAdvice
 topics:
-  - schufa
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Vergleich mit Synergie Inkasso wegen Schufa Eintrag
 date: 2018-10-02 00:00:00
 description: SCHUFA-Eintrag trotz Titulierung gelölscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -21,7 +19,7 @@ tags:
   - Vergleich
   - Zustellung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

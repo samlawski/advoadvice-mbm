@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BaFin untersagt Geschäftsmodell der Five Star Leasing GmbH
 date: 2019-04-11 00:00:00
 description: 'Five Star Leasing GmbH: Bafin untersagt Geschäftsmodell'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Bafin
@@ -22,7 +20,7 @@ tags:
   - Kraftfahrzeug
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

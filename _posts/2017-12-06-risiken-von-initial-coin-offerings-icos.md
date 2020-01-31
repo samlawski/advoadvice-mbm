@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Risiken von Initial Coin Offerings (ICOs)
 date: 2017-12-06 00:00:00
 description: Risiken von Initial Coin Offerings
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation

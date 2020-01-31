@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Auto Bild - Kein Kredit nach Crash
 date: 2017-04-21 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/auto-bild-logo.jpg
 tags:
   - Experten
@@ -22,8 +20,7 @@ tags:
   - Selbstbeteiligung
 topics:
   - medien
-  - datenschutz
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
