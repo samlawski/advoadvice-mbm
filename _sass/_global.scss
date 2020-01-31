@@ -4,6 +4,7 @@
 - Forms
 - Buttons
 - Modals
+- Loading Spinner
 */
 
 // General
@@ -124,6 +125,13 @@ button,
     border-color: $clr-transparent-bl-7;
     color: $clr-transparent-bl-7;
   }
+
+  &[disabled],
+  &[disabled]:hover {
+    cursor: not-allowed;
+    border-color: $clr-transparent-bl-7;
+    color: $clr-transparent-bl-7;
+  }
 }
 
 .button--cta {
@@ -190,3 +198,20 @@ button,
   }
 }
 
+// Loading Spinner
+.loader {
+  border: 16px solid $clr-transparent-bl-3; 
+  border-top: 16px solid $clr-secondary; 
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  animation: spin 2s linear infinite;
+  margin: auto;
+}
+.loader.hide {
+  visibility: hidden;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
