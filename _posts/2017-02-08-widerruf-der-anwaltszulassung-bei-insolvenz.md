@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Widerruf der Anwaltszulassung bei Insolvenz
 date: 2017-02-08 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz
@@ -16,8 +14,7 @@ tags:
   - BGH
   - Urteil
 topics:
-  - insolvenzrecht
-  - sonstiges
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

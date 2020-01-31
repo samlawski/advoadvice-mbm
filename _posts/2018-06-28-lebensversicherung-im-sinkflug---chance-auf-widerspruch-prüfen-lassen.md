@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Lebensversicherung im Sinkflug - Chance auf Widerspruch prüfen lassen
 date: 2018-06-28 00:00:00
 description: >-
   Lebensversicherer stehen teilweise schlecht da - Widerspruch oder Kündigung
   sinnvoll?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -20,7 +18,7 @@ tags:
   - Prüfung
   - Rückzahlung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

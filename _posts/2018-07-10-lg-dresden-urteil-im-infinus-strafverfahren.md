@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'LG Dresden: Urteil im Infinus Strafverfahren'
 date: 2018-07-10 00:00:00
 description: Infinus Skandal - Strafurteil gegen Hintermänner
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche
@@ -23,7 +21,7 @@ tags:
   - 9. Juli 2018
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

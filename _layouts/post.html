@@ -1,33 +1,75 @@
 ---
-layout: page
+layout: default
 ---
 
-<div class="row">
-  <section id="blog" class="col-md-8 col-lg-9 margin-tb-20">
-    <a href="/blog">< Zurück zum Blog</a>
-    <article class="blog-post">
-      <h1 class="padding-20">
-        {{page.title}}
-      </h1>
-      <div class="padding-20">
-        {{ content }}
-      </div><!-- post.body -->
-      {% if page.tags %}
-        <div class="tags margin-20">
-          <i class="glyphicon glyphicon-tags small"></i>&nbsp;&nbsp;
-          {% for tag in page.tags %}
-            <span>{{tag}}</span>
-          {% endfor %}
-        </div>
-      {% endif %}
-      {% assign author_id = "/authors/" | append: page.author %}
-      {% assign author = site.authors | where: "id", author_id | first %}
-      <small>- {{page.date | date: "%d. %B %Y" }} :: {{ author.name }}</small>
-    </article>
+{% assign author_id = "/authors/" | append: page.author %}
+{% assign author = site.authors | where: "id", author_id | first %}
+{% assign suggested_posts = page | related_with_topics %}
 
-    {% include related_posts.html %} 
+{% if page.feature_bild_path %}
+  <header class="h-container--md" style="background-image:url('{{page.feature_bild_path}}')"></header>
+{% endif %}
+
+<main>
+  <article class="h-container--sm">
+    <header>
+      <h1>{{page.title}}</h1>
+      <div class="post__authordate">von {{author.name}}, {{page.date | date: "%d. %B %Y" }}</div>
+    </header>
+
+    <section class="post__content">
+      {{ content }}
+    </section>
+  </article>
+
+  <section class="h-container--sm">
+    <h2 class="editable">Nächste Schritte</h2>
+    <ol>
+      <li class="editable">Nehmen Sie gleich <a href="#kontakt">Kontakt</a> auf, um kostenlos eine erste Einschätzung vom Anwalt zu bekommen</li>
+      <li class="editable">Informieren Sie sich mehr zum Thema auf unseren <a href="/#themen">Seiten</a>.</li>
+    </ol>
+    <div>
+      <a class="button editable" href="#kontakt">Kostenloses Erstgespräch vereinbaren</a>
+    </div>
+
+
+    <footer class="post__author">
+      <div class="post__author__img" style="background-image:url({{ author.portrait_path }})">
+        <div class="post__author__img__frame"></div>
+      </div>
+
+      <div class="post__author__text">
+        <strong class="post__author__name">{{ author.name }}</strong>
+        <span class="post__author__titel">{{ author.titel }}</span>
+      </div>
+    </footer>
   </section>
 
-  <!-- SIDEBAR -->
-  {% include sidebar.html %}
-</div><!-- row -->
+  <section class="h-container--md">
+    <h2 class="h-center h6 editable">Weitere Artikel zum Thema</h2>
+
+    <div class="articles">
+      {% for article in suggested_posts %}
+        {% include article.html article=article %}
+      {% endfor %}
+    </div>
+
+  </section>
+
+  <section class="post__presse">
+    <div class="h-container--md">
+      <h2 class="h-center h6 editable">Unsere Anwälte in der Presse</h2>
+
+      <div class="presse__logos">
+        {% assign presse_artikel = site.posts | where_exp: "post", "post.topics contains 'medien'" | where_exp: "post", "post.feature_bild_path" %}
+        {% for article in presse_artikel limit: 3 %}
+          <a href="{{ article.url | prepend: site.baseurl }}">
+            <img src="{{article.feature_bild_path}}" alt="Logo {{article.title}}">
+            <h3 class="h5">{{article.title}}</h3>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</main>
+

@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Immobilienerwerb mit Nebenwirkungen - Was tun bei Krise nach dem Kauf?
 date: 2018-10-01 00:00:00
 description: >-
   Haftungsfallen erkennen und abwehren bei Hauskauf –  Was Rechtsanwälte bei
   verschwiegenen Mängeln raten.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilie
@@ -19,8 +17,8 @@ tags:
   - Kapitalanlage
   - Schrottimmobilie
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

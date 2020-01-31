@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: DEF 11 KG droht mit Insolvenz bei Klage durch Anleger
 date: 2017-08-31 00:00:00
 description: DEF 11 KG informiert Anleger und droht mit Insolvenz
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -22,7 +20,7 @@ tags:
   - Rückzahlung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

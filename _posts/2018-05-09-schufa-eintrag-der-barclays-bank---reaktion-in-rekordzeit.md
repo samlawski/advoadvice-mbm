@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag der Barclays Bank - Reaktion in Rekordzeit
 date: 2018-05-09 00:00:00
 description: Schufa Eintrag in Rekordzeit gelöscht.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -18,7 +16,7 @@ tags:
   - Barclays Bank PLC
   - Kündigung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

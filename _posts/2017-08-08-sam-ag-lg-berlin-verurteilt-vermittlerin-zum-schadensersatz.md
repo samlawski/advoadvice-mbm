@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'SAM AG: LG Berlin verurteilt Vermittlerin zum Schadensersatz'
 date: 2017-08-08 00:00:00
 description: Landgericht Berlin verurteilt SAM AG Beraterin zum Schadensersatz
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -21,7 +19,7 @@ tags:
   - Falschberatung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

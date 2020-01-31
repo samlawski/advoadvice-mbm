@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Klage gegen Targo Dienstleistungs GmbH wg. Eintrag im Schufa Fraud Pool
   eingereicht
@@ -10,6 +7,7 @@ description: >-
   Klagen wg. Eintrag in Schufa Fraud Pool gegen Targo Dienstleistungs GmbH
   eingereicht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -23,7 +21,7 @@ tags:
   - Targo Dienstleistungs GmbH
   - Landgericht Konstanz
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

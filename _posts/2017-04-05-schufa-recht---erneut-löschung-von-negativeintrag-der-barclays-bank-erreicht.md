@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Recht - Erneut Löschung von Negativeintrag der Barclays Bank erreicht
 date: 2017-04-05 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufaeintrag
@@ -22,8 +20,7 @@ tags:
   - Tintemann
   - AdvoAdvice
 topics:
-  - schufa
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

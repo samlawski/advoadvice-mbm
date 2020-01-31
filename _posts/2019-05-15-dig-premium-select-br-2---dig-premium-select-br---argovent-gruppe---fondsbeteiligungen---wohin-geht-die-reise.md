@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   DIG Premium Select bR 2 - DIG Premium Select bR - ArgoVent Gruppe -
   Fondsbeteiligungen - Wohin geht die Reise?
 date: 2019-05-15 00:00:00
 description: DIG Premium Select bR 2 - ArgoVent Gruppe Berlin - Wohin geht die Reise?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - DIG Premium Select bR
@@ -24,7 +22,7 @@ tags:
   - Kündigungen
   - AdovAdvice
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'ThomasLloyd: Früher erster Termin vor Landgericht Wiesbaden'
 date: 2019-05-10 00:00:00
 description: 'ThomasLloyd: Landgericht Wiesbaden schickt Ladung zum frühen ersten Termin'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -18,7 +16,7 @@ tags:
   - Prozess
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

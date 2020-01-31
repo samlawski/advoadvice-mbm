@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Reservierungsvereinbarung beim geplatzten Kauf von Immobilien - Geld zurück
   vom Makler?
@@ -10,6 +7,7 @@ description: >-
   Reservierungsvereinbarung beim geplatzten Kauf von Immobilien - Geld zurück
   vom Makler?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Klevenhagen
@@ -27,7 +25,6 @@ tags:
   - Finanzierung
 topics:
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

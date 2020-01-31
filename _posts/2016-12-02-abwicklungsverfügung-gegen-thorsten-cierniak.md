@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Abwicklungsverfügung gegen Thorsten Cierniak
 date: 2016-12-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation

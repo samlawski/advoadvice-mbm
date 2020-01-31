@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler
@@ -10,6 +7,7 @@ description: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherungsgeschäft
@@ -23,8 +21,8 @@ tags:
   - Eigeninsolvenzantrag
   - Insolvenz
 topics:
-  - versicherungsrecht
-  - bank-und-kapitalmarktrecht
+  - versicherung
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

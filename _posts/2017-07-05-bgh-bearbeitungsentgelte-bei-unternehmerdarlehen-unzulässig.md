@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BGH: Bearbeitungsentgelte bei Unternehmerdarlehen unzulässig'
 date: 2017-07-05 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Bankrecht
@@ -20,7 +18,7 @@ tags:
   - Inhaltskontrolle
   - Preisnebenabrede
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

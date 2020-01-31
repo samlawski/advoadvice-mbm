@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Reservierungsgebühren beim gescheiterten Immobilienkauf – Rückzahlungsansprüche gegen Makler?
 date: 2017-03-16 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformationen
@@ -40,8 +38,7 @@ tags:
   - Vereinbaren eines Notartermins
   - Amtsgericht Charlottenburg
   - 216 C 270/13
-topics:
-  - sonstiges
+topics: []
 author: kim-oliver-klevenhagen
 ---
 

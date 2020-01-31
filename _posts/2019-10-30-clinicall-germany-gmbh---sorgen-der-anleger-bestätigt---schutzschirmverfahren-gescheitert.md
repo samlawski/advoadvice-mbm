@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert
@@ -10,6 +7,7 @@ description: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ClinicAll Germany
@@ -22,7 +20,7 @@ tags:
   - Inhaber-Schuldverschreibungen
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

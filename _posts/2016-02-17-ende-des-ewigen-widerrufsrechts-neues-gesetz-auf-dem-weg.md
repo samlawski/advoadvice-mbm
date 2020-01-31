@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Ende des ewigen Widerrufsrechts – neues Gesetz auf dem Weg"
 date: 2016-02-17 10:39:00 -0600
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Widerruf", "Bank- und Kapitalmarktrecht", "Ewiges Widerrufsrecht", "Bundesregierung", "Gesetzentwurf", "EuGH", "Europarecht", "Tintemann", "Klevenhagen"]
 topics: []

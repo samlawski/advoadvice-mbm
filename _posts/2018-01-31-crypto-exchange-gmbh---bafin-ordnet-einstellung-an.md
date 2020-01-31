@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Crypto-exchange GmbH - BaFin ordnet Einstellung an
 date: 2018-01-31 00:00:00
 description: BaFin untersagt Crypto-exchange GmbH das Finanzkommissionsgeschäft
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -14,7 +12,7 @@ tags:
   - Einstellung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

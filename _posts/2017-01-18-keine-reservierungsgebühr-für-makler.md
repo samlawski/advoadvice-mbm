@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Keine Reservierungsgebühr für Makler
 date: 2017-01-18 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation
@@ -25,7 +23,6 @@ tags:
   - 15 O 152/16
   - Verbraucherzentrale Berlin
 topics:
-  - sonstiges
   - anlegerschutz
 author: dr-sven-tintemann
 ---

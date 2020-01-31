@@ -1,0 +1,217 @@
+/*
+- General
+- Typography
+- Forms
+- Buttons
+- Modals
+- Loading Spinner
+*/
+
+// General
+html { scroll-behavior: smooth; }
+* { box-sizing: border-box; }
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+// Typography
+
+body {
+  font-family: $font-family--text;
+  font-size: $font-size;
+  color: $clr-text;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: underline;
+  color: $clr-primary;
+  transition: text-decoration .3s;
+}
+
+b, strong { font-weight: 700; }
+em { font-style: italic; }
+small { font-size: 0.7rem; }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $font-family--title;
+  font-weight: 700;
+}
+h1, .h1 {
+  font-size: 2rem;
+  line-height: 1.1;
+
+  @media(min-width: $media-sm) { font-size: 3rem; }
+  @media(min-width: $media-md) { font-size: 4rem; }
+}
+
+h2, .h2 {
+  font-size: 1.7rem;
+  font-weight: 400;
+
+  @media(min-width: $media-sm) { font-size: 2rem; }
+  @media(min-width: $media-md) { font-size: 2.5rem; }
+}
+h3, .h3 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
+
+  @media(min-width: $media-sm) { font-size: 1.5rem; }
+  @media(min-width: $media-md) { font-size: 1.5rem; }
+}
+h4, .h4 {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+h5, .h5 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+h6, .h6 {
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+// Forms
+
+input,
+textarea {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid $clr-transparent-bl-7;
+  padding: 8px;
+  outline: none;
+
+  font-size: $font-size;
+  font-family: $font-family--text;
+
+  transition: border-color $transition-time-1;
+
+  &:active,
+  &:focus {
+    border-color: $clr-highlight-2;
+  }
+}
+[type="checkbox"] {
+  display: inline-block;
+}
+
+// Buttons
+
+[type="submit"],
+button,
+.button {
+  display: inline-block;
+  
+  font-size: $font-size;
+  font-family: $font-family--text;
+  text-decoration: none;
+  color: $clr-text;
+  border: 2px solid $clr-text;
+  outline: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 3px;
+
+  background-color: transparent;
+  transition: border-color $transition-time-1, color $transition-time-1, box-shadow $transition-time-1;
+
+  &:hover {
+    border-color: $clr-transparent-bl-7;
+    color: $clr-transparent-bl-7;
+  }
+
+  &[disabled],
+  &[disabled]:hover {
+    cursor: not-allowed;
+    border-color: $clr-transparent-bl-7;
+    color: $clr-transparent-bl-7;
+  }
+}
+
+.button--cta {
+  background-color: $clr-text;
+  color: $clr-bg;
+
+  transition: background-color $transition-time-1;
+  &:hover {
+    background-color: transparent;
+    color: $clr-text;
+  }
+}
+
+
+// Modals
+// :targe muss pro Modal definiert werden (siehe #formulare in _home.scss)
+
+.modal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 11;
+  overflow: hidden;
+
+  background-color: $clr-transparent-bl-7;
+  transition: opacity $transition-time-1, visibility $transition-time-1;
+  opacity: 0;
+  visibility: hidden;
+}
+.modal__exit {
+  position: absolute; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.modal__box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  width: 800px;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 20px;
+
+  max-height: 90vh;
+  overflow: scroll;
+
+  background-color: $clr-bg;
+  box-shadow: $shadow;
+  padding: 0 20px 20px;
+
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+
+  @media(min-width: $media-md){
+    margin-top: 60px;
+  }
+}
+
+// Loading Spinner
+.loader {
+  border: 16px solid $clr-transparent-bl-3; 
+  border-top: 16px solid $clr-secondary; 
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  animation: spin 2s linear infinite;
+  margin: auto;
+}
+.loader.hide {
+  visibility: hidden;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

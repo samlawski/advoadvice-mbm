@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Abwicklungsverfügung gegen AfV Braun e.K.
 date: 2017-05-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -25,7 +23,7 @@ tags:
   - § 1 Abs. 1 Satz 2 Nr. 1 KWG
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

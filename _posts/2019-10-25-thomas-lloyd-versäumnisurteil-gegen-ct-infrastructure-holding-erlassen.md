@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Thomas Lloyd: Versäumnisurteil gegen CT Infrastructure Holding erlassen'
 date: 2019-10-25 00:00:00
 description: >-
   Landgericht Görlitz erlässt Versäumnisurteil gegen CT Infrastructure Holding
   Ltd.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - ThomasLloyd
@@ -24,7 +22,7 @@ tags:
   - DKM Global Opportunities Fonds
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

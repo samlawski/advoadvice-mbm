@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Boundless-Concept GmbH & Co. KG, Real Benefit GmbH, LOCA Vertriebskoordination
   - Unzufriedene Immobilienkäufer melden sich bei AdvoAdvice Rechtsanwälte mbB
@@ -10,6 +7,7 @@ description: >-
   Boundless-Concept GmbH & Co. KG, Real Benefit GmbH, LOCA Vertriebskoordination
   - Unzufriedene - Immobilienkäufer melden sich bei AdvoAdvice Rechtsanwälte mbB
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilienkauf
@@ -24,7 +22,7 @@ tags:
   - Überteuerung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Multi Asset Anspar Plan 3: Klage gegen Beratungsfirma und
   Gründungsgesellschafter eingereicht
@@ -10,6 +7,7 @@ description: >-
   Multi Asset Anspar Plan 3: Klage gegen Gründungsgesellschafter und
   Beratungsfirma eingereicht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -28,7 +26,7 @@ tags:
   - Landgericht Hamburg
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Landgericht Magdeburg verurteilt Premium Safe Vermittler zum Schadensersatz
 date: 2017-01-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz
@@ -29,7 +27,7 @@ tags:
   - Prospekt
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'ImmoAnlageKonzept GmbH: BaFin ordnet Abwicklung des Einlagengeschäft an'
 date: 2019-04-23 00:00:00
 description: 'ImmoAnlageKonzept GmbH: BaFin ordnet Abwicklung des Einlagengeschäft an'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - BaFin
@@ -18,10 +16,9 @@ tags:
   - Immobilieninvestition
   - Rückzahlung
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - immobilienrecht
-  - sonstiges
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Logisfonds I: Auszahlung nur in Höhe von 65% an Sprint Anleger?'
 date: 2018-09-21 00:00:00
 description: Logisfonds I will nur 65% Abfindung an Anleger auszahlen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche
@@ -23,7 +21,7 @@ tags:
   - Rothmann & Cie
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

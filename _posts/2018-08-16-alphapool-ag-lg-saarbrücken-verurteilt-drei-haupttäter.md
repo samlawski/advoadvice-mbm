@@ -1,16 +1,14 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Alphapool AG: LG Saarbrücken verurteilt drei Haupttäter'
 date: 2018-08-16 00:00:00
 description: Strafgericht verurteilt Vorstand und Aufsichträte der Alphapool AG
 layout: post
+style_id: post
 feature_bild_path:
 tags:
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

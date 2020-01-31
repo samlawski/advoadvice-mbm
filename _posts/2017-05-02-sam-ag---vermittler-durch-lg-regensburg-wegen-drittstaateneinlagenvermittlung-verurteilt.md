@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: SAM AG - Vermittler durch LG Regensburg wegen Drittstaateneinlagenvermittlung verurteilt
 date: 2017-05-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -20,7 +18,7 @@ tags:
   - Drittstaateneinlagenvermittlung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

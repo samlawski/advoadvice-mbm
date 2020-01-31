@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Thomas Lloyd: Welche Antwort sollten Anleger der Gesellschaft bis zum
   28.02.2019 geben?
 date: 2019-02-24 00:00:00
 description: 'ThomasLloyd: Vorsicht bei der Nutzung von vorgegebenen Antworten'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -19,7 +17,7 @@ tags:
   - Auszahlung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

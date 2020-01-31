@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'SCHUFA-Recht: LG Berlin erlässt einstweilige Verfügung gegen Collectia GmbH'
 date: 2020-01-15 00:00:00
 description: Collectia GmbH zum Widerruf eines Negativeintrages verurteilt.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag
@@ -22,7 +20,7 @@ tags:
   - FitX
   - FitX Deutschland GmbH
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

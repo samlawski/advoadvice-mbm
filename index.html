@@ -1,129 +1,217 @@
 ---
-_options:
-  layout:
-    hidden: true
 layout: default
-hintergrund_bild_path: /uploads/images/title-min.jpg
+style_id: home
+title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
 description: >-
   Kompetente Rechtsberatung von Fachanwälten im Bank- und Kapitalmarktrecht in
   Berlin und deutschlandweit
+hauptthemen: 
+  - titel: Schufa- & Datenschutzrecht
+    beschreibung: Ob Sie einen Kredit erhalten oder eine Wohnung beziehen können, liegt häufig an Ihren Schufa-Scores. Wir beraten Sie, zur Verbesserung Ihres Scorewertes oder bei der Löschung von Negativeinträgen.
+    topic: schufa-und-datenschutz
+    icon_path: /assets/icons/icon-schufa.svg
+  - titel: Insolvenzrecht
+    beschreibung: Wir beraten und unterstützen Sie im Falle einer Insolvenz oder Überschuldung in Deutschland und Lettland, um zu einer schnellen Restschuldbefreiung zu gelangen.
+    topic: insolvenz
+    icon_path: /assets/icons/icon-insolvenz.svg
+  - titel: Bank- und Kapitalmarktrecht
+    beschreibung: Wurden Sie falsch beraten und/oder haben bei einer Kapitalanlage viel Geld verloren? Wir prüfen für Sie Ansprüche auf Rückabwicklung und Schadenersatz und setzen diese gerichtlich durch.
+    topic: bank-und-kapitalmarkt
+    icon_path: /assets/icons/icon-bank.svg
+  - titel: Immobilienrecht
+    beschreibung: Wir bieten Ihnen professionelle, anwaltliche Beratung zum Kauf, Vermietung, Finanzierung oder Verwaltung Ihrer Immobilie. Ein besonderer Schwerpunkt bildet hierbei das Thema Zweckentfremdung.
+    topic: immobilien
+    icon_path: /assets/icons/icon-immobilien.svg
+nebenthemen:
+  - titel: Versicherungsrecht
+    topic: versicherung
+  - titel: Suchergebnisse und Bewertungen löschen
+    topic: suchergebnisse-und-bewertungen-loeschen
+  - titel: Kredit widerrufen / Dieselskandal
+    topic: kredit-widerrufen
+presse_logos:
+  - logo_path: /uploads/images/presse-zeit.png
+    link: /blog/unsere-experten-in-der-presse-zeit-online-schufa-und-identitätsdiebstahl/
+    logo_seo_text: Presselogo Zeit Online
+  - logo_path: /uploads/images/presse-handelsblatt.png
+    link: /blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/
+    logo_seo_text: Presselogo Handelsblatt
+  - logo_path: /uploads/images/presse-capital.png
+    link: /blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/
+    logo_seo_text: Presselogo Capital
+  - logo_path: /uploads/images/presse-bild.png
+    link: /blog/unsere-experten-in-der-presse-bild-zeitung-bild-telefon-aktion-immobilien/
+    logo_seo_text: Presselogo Bild Zeitung
+  - logo_path: /uploads/images/presse-immozeitung.png
+    link: /blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/
+    logo_seo_text: Presselogo Immobilienzeitung
+  - logo_path: /uploads/images/presse-anwaltsblatt.jpg
+    link: /blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/
+    logo_seo_text: Presselogo Berliner Anwaltsblatt
+  - logo_path: /uploads/images/presse-autobild.png
+    link: /blog/unsere-experten-in-der-presse-auto-bild-kein-kredit-nach-crash/
+    logo_seo_text: Presselogo Autobild
+  - logo_path: /uploads/images/presse-mopo.png
+    link: /blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/
+    logo_seo_text: Presselogo Hamburger Morgenpost
+ablauf: 
+  - Als Erstes treten Sie mit uns [telefonisch](tel:+493092100040) oder per [email](mailto:info@advoadvice.de) in Kontakt und schildern uns Ihr Anliegen. 
+  - Wir nehmen kostenlos und unverbindlich meist telefonisch Kontakt mit Ihnen auf, um Ihren Fall zu besprechen.
+  - Nach dem Erstgespräch senden Sie uns Dokumente und [Formulare](#formulare) zu Ihrem Fall zu, sodass wir uns ein detailiertes Bild machen können.
+  - Wir schicken Ihnen ein Angebot und Vorschlag zum weiteren Vorgehen. Wenn Sie eine Rechtschutzversicherung haben, stellen wir eine Deckungsanfrage. Andernfalls senden wir Ihnen Informationen zu den Rechtsanwaltsgebühren zu.
+  - Wenn Sie mit unserem Vorgehen einverstanden sind, erteilen Sie uns einen konkreten Auftrag durch das Übersenden unserer Mandatsunterlagen.
+  - Nach Eingang der Mandatsunterlagen bei uns, legen wir eine Akte an und bearbeiten Ihren Fall.
 ---
 
-{% include header.html %}
-
-<!-- HEADER  -->
-<section class="image-bg" style="background-image: url('{{ page.hintergrund_bild_path }}');">
-  <h3 class="editable" href="/#kontakt">
-    "Kompetente Rechtsberatung, der Sie vertrauen k&ouml;nnen!"
-  </h3>
-  <div id="kennenlernen">
-    <a href="#team" class="a-scroll cta">
-      <span class="glyphicon glyphicon-menu-down hidden-xs" aria-hidden="true"></span>
-      <span class="editable" href="/#kontakt">Lernen Sie uns kennen</span>
-      <span class="glyphicon glyphicon-menu-down hidden-xs" aria-hidden="true"></span>
-    </a>
+<header class="h-container--md">
+  <div class="header__text">
+    <h1 class="editable">Fachanwälte für Bank- & Kapitalmarktrecht.</h1>
+    <h3 class="editable">Kompetente Rechtsberatung mit langjähriger Erfahrung.</h3>
+    <a class="header__cta button button--cta editable" href="#kontakt--1">Gespräch vereinbaren</a>
   </div>
-</section>
+  <div class="header__image">
+    <!-- TODO Reduce size & Alternative: /uploads/images/title-min.jpg /uploads/advoadvice-01-59-von-80-2.jpg -->
+    <img src="/uploads/advoadvice-01-59-von-80-2.jpg" alt="AdvoAdvice Büro" class="editable">
+  </div>
+</header>
 
-<!-- TEAM -->
-<main class="container">
-  <section id="team" class="row">
-    <h1 class="padding-20 editable" href="/#kontakt">
-      Das Team
-    </h1>
-    {% assign members = site.authors | sort: 'reihenfolge' %}
-    {% for member in members %}
-      <div class="col-sm-6">
-        <div class="margin-20 row team-box">
-          <div class="col-sm-12 col-md-6">
-            <img src="{{ member.portrait_path }}" alt="{{member.name}}" class="img-responsive" />
-          </div><!-- /col -->
-          <div class="col-sm-12 col-md-6">
-            <h4>{{ member.name }}</h4>
-            <p>
-              {{member.content}}
-            </p>
-            <ul>
-              {% for topic in member.themes %}
-                <li><a href="{{topic.link}}">{{topic.titel}}</a></li>
-              {% endfor %}
-            </ul>
-            <p>
-              <a href="mailto:{{member.email}}">{{member.email}}</a>
-            </p>
-          </div><!-- /col -->
-        </div><!-- /row -->
-      </div><!-- /col -->
-    {% endfor %}
-  </section>
-
-  <!-- DETAILS & FORMULARE -->
-  <section id="formulare" class="second-bg padding-20">
-    <h1 class="editable" href="/#kontakt">
-      ADVOADVICE - kompetenter Ratschlag von erfahrenen Rechtsanw&auml;lten
-    </h1>
-    <div class="editable" href="/#kontakt">
-      <p>Von einem Rechtsanwalt erwarten Sie vor allem zwei Dinge:</p>
-      <ul>
-        <li>faire Beratung</li>
-        <li>kompetente Expertise</li>
-      </ul>
-      <p>Rufen Sie uns an oder kontaktieren Sie uns per Mail.</p>
-      <p>Bitte halten Sie daf&uuml;r ihre Unterlagen bereit.</p>
-      <p>Unsere Experten pr&uuml;fen dann anhand ihrer Angaben, was f&uuml;r Sie das Beste ist und geben Ihnen z&uuml;gig eine R&uuml;ckmeldung.</p>
-      <p>Nach einem ersten Kontakt kann in der Regel schon gesagt werden, ob das Einschalten eines Rechtsanwalts sinnvoll ist.</p>
-      <p>Ihr Rechtsanwalt wird mit Ihnen dann das weitere Vorgehen besprechen.</p>
+<main>
+  <section id="referenzen" class="referenzen h-container">
+    <div class="referenzen__ratings">
+      <!-- TODO Reduce image sizes: -->
+      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank"><img src="/uploads/images/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable"></a>
+      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank"><img src="/uploads/images/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable"></a>
     </div>
-    <p class="text-center margin-20">
-      <a href="#kontakt" class="a-scroll cta editable">Vereinbaren Sie einen Rückruftermin</a>
-    </p>
-    <p class="text-center">
-      <a href="#formular" data-toggle="modal" data-target="#myModal" class="btn btn-lg btn-second editable">Download Formulare</a>
-    </p>
+    <div class="referenzen__news">
+      {% for logo in page.presse_logos limit: 6 %}
+        <a href="{{logo.link}}"><img src="{{logo.logo_path}}" alt="{{logo.logo_seo_text}}"></a>
+      {% endfor %}
+    </div>
   </section>
 
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title editable" id="myModalLabel" href="#formular">
-            Download Formulare
-          </h4>
-        </div><!-- /modal header -->
-        <div class="modal-body">
-          <ul>
-            {% for formular in site.data.formulare %}
-              <li><a href="{{ formular.datei_path }}" target="_blank">{{formular.title}}</a></li>
-            {% endfor %}
-          </ul>
+  <section id="themen" class="themen h-container">
+    <p class="themen__title h6 editable">Unsere Themen</p>
 
-        </div><!-- /modal body -->
-        <div class="modal-footer">
-          <small class="editable" href="#formular">Alle Dokumente sind PDF-Format gespeichert und können mit dem <a href="http://www.adobe.com/de/">Acrobat Reader</a> geöffnet werden.</small>
-        </div><!-- /modal footer -->
-      </div><!-- /modal content -->
-    </div><!-- /modal dialog -->
-  </div><!-- /modal -->
-
-  <!-- BLOG -->
-  <section id="blog" class="padding-20">
-    <h1 class="editable" href="#formular">
-      Neues im Blog
-    </h1>
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <li class="blog-post">
-            <h4>{{post.title}}</h4>
-            <small>- {{ post.date | date: "%d. %B %Y" }}</small>
-          </li>
+    <div class="themen__haupt">
+      {% for thema in page.hauptthemen %}
+        <a href="/themen/{{thema.topic}}" class="themen__block">
+          <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol">
+          <h2 class="h4">{{thema.titel}}</h2 class="h4">
+          <p>{{thema.beschreibung}}</p>
         </a>
       {% endfor %}
-      <a href="{{ "/blog" | prepend: site.baseurl }}">
-        <li class="blog-post editable" href="#formular">Archiv ...</li>
-      </a>
-    </ul>
+    </div>
+
+    <hr>
+
+    <div class="themen__neben">
+      {% for thema in page.nebenthemen %}
+        <a href="/themen/{{thema.topic}}"><h3 class="h4">{{thema.titel}}</h3></a>
+        {% unless forloop.last %}
+          <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="kontakt--1">
+    <div id="kontakt--1" class="kontakt__container h-container--md">
+      <!-- TODO Reduce size: -->
+      <img class="kontakt__portrait editable" src="/uploads/images/kim-small.png" alt="Kim Oliver Klevenhagen - Kleines Portrait">
+      <p class="h4 editable">Kontaktieren Sie uns noch jetzt!</p>
+      <p class="kontakt__text--2 editable">Gerne melden wir uns bei Ihnen <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
+      
+      
+      {% include kontakt_formular.html id="1" %}
+    </div>
+  </section>
+
+  <section id="anwaelte" class="h-container">
+    <p class="anwaelte__title h6 editable">Ihre Experten</p>
+
+    <div class="anwaelte">
+      {% assign members = site.authors | sort: 'reihenfolge' %}
+      {% assign members_size = members | size %}
+      {% for member in members %}
+        <div class="anwalt">
+          {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
+          <!-- TODO Reduce size: -->
+          <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
+            <div class="anwalt__portrait__frame"></div>
+          </div>
+          <div class="anwalt__text">
+            <h4>{{ member.name }}</h4>
+            <p>
+              {{member.titel}}
+            </p>
+            <!-- <p>
+              <a href="mailto:{{member.email}}">{{member.email}}</a>
+            </p> -->
+            <p>
+              <small>
+                <strong>Themen:</strong>
+                {% for topic in member.themes %}
+                  {% if topic.link %}
+                    <a href="{{topic.link}}">{{topic.titel}}</a>
+                  {% else %}
+                    {{ topic.titel }}
+                  {% endif %}
+                  {%if forloop.last %}{% else %}&nbsp;&#183&nbsp;{%endif%}
+                {% endfor %}
+              </small>
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section id="ablauf" class="ablauf h-container--sm">
+    <p class="ablauf__title h6 editable">Wie läuft das ganze ab?</p>
+
+    {% for item in page.ablauf %}
+      <div class="ablauf__item">
+        <div class="ablauf__number">{{ forloop.index }}</div>
+        <div class="ablauf__text">{{ item | markdownify }}</div>
+      </div>
+    {% endfor %}
+
+    <footer>
+      <a class="button button--cta editable" href="#kontakt">Gespräch vereinbaren</a>
+    </footer>
+  </section>
+
+  <section id="downloads" class="formulare h-container--sm">
+    <div class="formulare__link"><a href="#formulare" class="editable">Download Formulare</a></div>
+    
+    <div class="modal" id="formulare">
+      <a class="modal__exit" href="#downloads"></a>
+      <div class="modal__box">
+        <header>
+          <h4 class="editable">Download Formulare</h4>
+        </header>
+        <ul>
+          {% for formular in site.data.formulare %}
+          <li><a href="{{ formular.datei_path }}" target="_blank">{{formular.title}}</a></li>
+        {% endfor %}
+        </ul>
+        <footer>
+          <a href="#downloads" class="button">Schließen</a>
+        </footer>
+      </div>
+    </div>
   </section>
 </main>
+
+
+
+
+
+
+
+
+
+
+
+
+

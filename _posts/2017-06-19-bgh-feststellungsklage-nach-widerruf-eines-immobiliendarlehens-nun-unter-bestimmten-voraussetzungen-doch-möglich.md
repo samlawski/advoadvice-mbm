@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BGH: Feststellungsklage nach Widerruf eines Immobiliendarlehens nun unter bestimmten Voraussetzungen doch möglich'
 date: 2017-06-19 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerruf
@@ -22,7 +20,7 @@ tags:
   - fehlerhaft
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

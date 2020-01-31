@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Investition in Krypowährungen - Zwischen Renditechance und  digitalem Milliardengrab. Wohin geht die Reise?
 date: 2017-07-14 12:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -17,8 +15,7 @@ tags:
   - Digitalwährung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - sonstiges
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

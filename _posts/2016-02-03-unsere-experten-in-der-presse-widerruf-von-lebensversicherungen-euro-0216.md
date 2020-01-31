@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Widerruf von Lebensversicherungen (Euro 02/16)'
 date: 2016-02-03 23:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/euro-logo.gif
 tags:
   - Experten
@@ -28,7 +26,7 @@ tags:
   - Zweite Chance für Millionen
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

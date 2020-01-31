@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BGH zum Widerruf von Darlehen - Unzulässigkeit der Feststellungsklage
 date: 2017-03-01 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Widerruf
@@ -25,8 +23,8 @@ tags:
   - Anwaltsfehler
   - Anwaltsregress
 topics:
-  - widerruf-verbraucherdarlehen
-  - bank-und-kapitalmarktrecht
+  - kredit-widerrufen
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

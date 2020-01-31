@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Infinus Pleite: Insolvenzverwalter der Prosavus fordert Rückzahlung von
   Scheingewinnen
 date: 2017-09-08 00:00:00
 description: Prosavus Anlager sollen Scheingewinne an Insolvenzverwalter zurückzahlen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -21,7 +19,7 @@ tags:
   - Insolvenzverwalter
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 
