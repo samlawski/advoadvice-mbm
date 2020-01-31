@@ -28,6 +28,12 @@ abschnitte:
     image: 
     cta: true
   - abschnitt_template: weiss_bild_links
+    titel: Klagen gegen Rechtsschutzversicherer (Deckungsschutzklage) sowie Stichentscheide
+    text_markdown: >-
+      Die Kanzlei AdvoAdvice hilft bei Problemen und Unstimmigkeiten mit der Rechtsschutzversicherung. Hierbei haben wir die Erfahrung gemacht, dass oftmals berechtige Deckungsanfragen von Mandanten mit lapidaren Begründungen und Verweis auf mangelnde Erfolgsaussichten oder auf einen Haftungsausschluss abgewiesen werden. Hier helfen wir bei der außergerichtlichen Auseinandersetzung mit der Rechtsschutzversicherung, bei der Erstellung eines Stichentscheides, bei der Einleitung eines Schlichtungsverfahrens bei Ombudsmann für Versicherungen und zuletzt auch mit einer Klage auf Erteilung einer Deckungszusage. Hierdurch konnten wir bereits vielen Mandanten doch nur zur zunächst versagten Erteilung einer Deckungszusage verhelfen.
+    image: 
+    cta: true
+  - abschnitt_template: weiss_bild_links
     titel: Schwere Krankheiten Versicherung (Dread Disease)
     text_markdown: >-
       Im Bereich des Versicherungsrechts beschäftigt sich die Kanzlei auch mit den so genannten Dread-Disease-Versicherungen. Diese Versicherungen sind eine Alternative zur Berufsunfähigkeits- bzw. Erwerbsunfähigkeitsversicherung und solle eine finanzielle Absicherung für den Fall bieten, dass eine schwere Erkrankung eintritt.

@@ -8,7 +8,7 @@ header_image: /uploads/theme-immobilien1.jpg
 erfolge: []
 intro_titel:
 intro_text_markdown: >-
-  Unser Gründungspartner Rechtsanwalt Klevenhagen leitet das Dezernat für dieses anspruchsvolle und umfangreiche Rechtsgebiet. Durch seine langjährige Erfahrung und nachgewiesene Qualifikation als Fachanwalt für Bank- und Kapitalmarktrecht können wir Ihnen in diesem Rechtsgebiet eine ganzheitliche, integrale Beratung bieten. Er und sein Team sind besonnene und besonders erfahrene Berater und Prozessanwälte, die gemeinsam mit Ihnen Ihre individuellen Ziele zu definieren und durchsetzen.
+  Unser Gründungspartner Rechtsanwalt Klevenhagen leitet das Dezernat für dieses anspruchsvolle und umfangreiche Rechtsgebiet. Durch seine langjährige Erfahrung und nachgewiesene Qualifikation als Fachanwalt für Bank- und Kapitalmarktrecht können wir Ihnen in diesem Rechtsgebiet eine ganzheitliche, integrale Beratung bieten. Er und sein Team sind besonnene und besonders erfahrene Berater und Prozessanwälte, die gemeinsam mit Ihnen Ihre individuellen Ziele definieren und durchsetzen.
 intro_link_text: 
 intro_link: 
 abschnitte:
@@ -22,11 +22,23 @@ abschnitte:
     image: /uploads/mirror-facade-of-tall-building-1963557.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
-    titel: Kompetenz und integrale Beratung in der Krise
+    titel: Die Immobilie in der Krise – Umgang mit Schrottimmobilien
     text_markdown: >-
-      AdvoAdvice Rechtsanwälte mbB ist kompetent in den  Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen ist seit vielen Jahren Experte für alle Fragen bezüglich solcher Anlagemodelle. Denn: Erst nachdem die Eigentumswohnung erworben wurde und meist das erste bzw. zweite Jahr verstrichen ist, stellen die meisten Anleger fest, dass die ihnen gemachten Versprechungen leider überhaupt nicht eingetroffen sind. Die Finanzierung der fremdgenutzten und fremdfinanzierten Eigentumswohnung lässt sich nicht mehr aufbringen. An diesem Punkt kann jedem betroffenen Anleger nur dringendst empfohlen werden, anwaltlichen Rat zu suchen. Denn die Möglichkeit für Anleger, denen Schrottimmobilien verkauft wurden und die nun die Rückabwicklung suchen, hat sich stetig verbessert. Eine genaue rechtliche Analyse des Einzelfalls ist bei AdvoAdvice selbstverständlich. Denn nur so können wir gemeinsam mit Ihnen den besten Weg finden, Ihnen wirtschaftlich sinnvoll zu helfen. Nicht immer ist ein möglicherweise langjähriger Gerichtsprozess die richtige Lösung. Häufig gibt es außergerichtliche Lösungsmöglichkeiten, die schneller zum Ziel führen.
+      Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen ist seit vielen Jahren Experte für alle Fragen in Bezug auf die Rückabwicklung oder Sanierung von Schrottimmobilien. Denn: Erst nachdem die Eigentumswohnung erworben wurde und meist das erste bzw. zweite Jahr verstrichen ist, stellen die meisten Anleger fest, dass die ihnen gemachten Versprechungen leider überhaupt nicht eingetroffen sind. Die Finanzierung der fremdgenutzten und fremdfinanzierten Eigentumswohnung lässt sich nicht mehr aufbringen. An diesem Punkt kann jedem betroffenen Anleger nur dringendst empfohlen werden, anwaltlichen Rat zu suchen. Denn die Möglichkeit für Anleger, denen Schrottimmobilien verkauft wurden und die nun die Rückabwicklung suchen, hat sich stetig verbessert. Eine genaue rechtliche Analyse des Einzelfalls ist bei AdvoAdvice selbstverständlich. Denn nur so können wir gemeinsam mit Ihnen den besten Weg finden, Ihnen wirtschaftlich sinnvoll zu helfen. Nicht immer ist ein möglicherweise langjähriger Gerichtsprozess die richtige Lösung. Häufig gibt es außergerichtliche Lösungsmöglichkeiten, die schneller zum Ziel führen.
+    image: 
+    cta: false
+  - abschnitt_template: box_hell
+    titel: Die vermietete Immobilie – Mietrecht aus Sicht des Vermieters
+    text_markdown: >- 
+      Dr. Sven Tintemann und sein Team vertreten seit mehreren Jahren die Interessen von Immobilieneigentümern, die ihre Immobilien vermietet haben. Hierbei berät Dr. Tintemann in allen Bereichen des Mietrechts und hilft insbesondere dann, wenn Probleme mit dem Mietverhältnis durch Zahlungsausfälle oder durch Störungen in der Hausgemeinschaft gibt. Die Kanzlei AdvoAdvice vertritt innerhalb und auch außerhalb von Berlin mehrere Immobilieninvestoren und Eigentümer und regelt für diese mietrechtliche Angelegenheiten schnell und effektiv.      
     image: 
     cta: true
+  - abschnitt_template: weiss_bild_links
+    titel: Zweckentfremdungsverbot von Wohnraum
+    text_markdown: >-
+      Rechtsanwalt Martin Mrozek berat und vertritt Mandanten bei Fragen zum Zweckentfremdungsverbot von Wohnraum. Die Tätigkeit von Rechtsanwalt Mrozek umfasst dabei den Bereich der Vermietung von Wohnraum als Ferienwohnung, die Umwandlung von Wohnraum in gewerblich oder freiberuflich genutzte Flächen sowie umgekehrt die Umwandlung von gewerblichen Flächen in Wohnraum. Besondern in Berlin sind in den letzten Monaten zahlreiche Bußgelder wegen eines Verstoßes gegen das Zweckentfremdungsverbot verhängt worden. Hier legt die Kanzlei AdvoAdvice für Betroffene Einspruch gegen den Bußgeldbescheid ein und vertritt Ihre Interessen gegenüber Behörden und vor Gericht.
+    image: 
+    cta: false
 redirect_from: 
   - '/themen/immobilienrecht'
 redirect_to: 
