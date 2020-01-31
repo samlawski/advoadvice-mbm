@@ -157,6 +157,12 @@
     input, textarea {
       border-color: $clr-bg;
       color: $clr-bg; 
+
+      &[disabled],
+      &[disabled]:hover {
+        border-color: $clr-transparent-wh-7;
+        color: $clr-transparent-wh-7;
+      }
     }
 
     [type="text"], [type="email"], [type="tel"],
@@ -404,9 +410,6 @@
     opacity: 1;
     visibility: visible;
   }
-
-  // Kontakt 2
-
 
 }
 
