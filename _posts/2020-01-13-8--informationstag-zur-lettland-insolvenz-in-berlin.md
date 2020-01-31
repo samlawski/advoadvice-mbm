@@ -81,4 +81,4 @@ Lassen Sie sich nicht von Informationen anderer Anbieter abschrecken, die behaup
 
 ## Jetzt Termin sichern
 
-Vereinbaren Sie daher noch heute Ihren persönlichen Beratungstermin in Berlin am 07.01.2020 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
+Vereinbaren Sie daher noch heute Ihren persönlichen Beratungstermin in Berlin am 13.02.2020 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
