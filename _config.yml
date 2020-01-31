@@ -36,7 +36,8 @@ defaults:
         title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
         description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
         presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
-        redirect_from: Alte Seiten, die weitergeleitet werden sollten.
+        redirect_from: Für SEO. Hier können URLs eingegeben werden, von (!) denen zu dieser Seite weitergeleitet werden sollen.
+        redirect_to: Wenn diese Seite nicht erreichbar sein soll und woanders hin weiterleiten sollte, kann die Weiterleitungs-URL hier eingefügt werden.
       
 # CloudCannon
 abschnitt_templates:
