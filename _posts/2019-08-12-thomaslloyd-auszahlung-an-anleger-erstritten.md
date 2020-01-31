@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'ThomasLloyd: Auszahlung an Anleger erstritten'
 date: 2019-08-12 00:00:00
 description: 'ThomasLloyd: Zahlung an 2016 ausgeschiedenen Anleger'

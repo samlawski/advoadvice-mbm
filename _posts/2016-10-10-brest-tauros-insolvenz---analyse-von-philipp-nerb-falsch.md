@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Brest-Tauros Insolvenz - Analyse von Philipp Nerb falsch?
 date: 2016-10-10 00:00:00
 description:

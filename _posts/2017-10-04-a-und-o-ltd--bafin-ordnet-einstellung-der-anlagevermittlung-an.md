@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'A und O Ltd.: BaFin ordnet Einstellung der Anlagevermittlung an'
 date: 2017-10-04 00:00:00
 description: >-

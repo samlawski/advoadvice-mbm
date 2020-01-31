@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Facto Financial Services AG Insolvenz - Offene Fragen für Kunden und
   Vermittler

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Pflegeimmobilien  kaufen - Erklärung und FAQ zum neuen Hit auf dem
   Kapitalmarkt

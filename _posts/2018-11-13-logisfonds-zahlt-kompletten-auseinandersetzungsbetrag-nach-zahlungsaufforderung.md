@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Logisfonds zahlt kompletten Auseinandersetzungsbetrag nach
   Zahlungsaufforderung

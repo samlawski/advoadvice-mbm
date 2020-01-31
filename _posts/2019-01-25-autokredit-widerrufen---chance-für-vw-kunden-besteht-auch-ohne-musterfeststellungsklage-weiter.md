@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Autokredit widerrufen - Chance für VW Kunden besteht auch ohne
   Musterfeststellungsklage weiter

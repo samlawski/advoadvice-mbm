@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Anlegergemeinschaft Life Performance startet
 date: 2016-04-20 23:00:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Deutsche Öl und Gas: Tochtergesellschaft stellt Insolvenzanträge in den USA'
 date: 2019-08-19 00:00:00
 description: Deutsche ÖL und Gas S.A. - Insolvenzanträge von drei LLC in den USA

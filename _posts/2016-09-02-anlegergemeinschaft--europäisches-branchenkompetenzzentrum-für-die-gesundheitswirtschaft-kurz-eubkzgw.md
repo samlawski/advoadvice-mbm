@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft (kurz: EUBKZGW)'
 date: 2016-09-02 23:00:00
 description:

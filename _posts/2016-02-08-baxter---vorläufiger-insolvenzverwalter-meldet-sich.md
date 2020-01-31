@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Baxter - vorläufiger Insolvenzverwalter meldet sich
 date: 2016-02-08 23:00:00
 description:

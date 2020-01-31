@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Lebensversicherung im Sinkflug - Chance auf Widerspruch prüfen lassen
 date: 2018-06-28 00:00:00
 description: >-

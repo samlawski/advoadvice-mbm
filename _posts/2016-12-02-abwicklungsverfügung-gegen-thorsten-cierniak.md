@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Abwicklungsverfügung gegen Thorsten Cierniak
 date: 2016-12-02 00:00:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: ÖRAG zahlt nach Einleitung eines Verfahrens beim Ombudsmann für Versicherungen
 date: 2019-07-04 00:00:00
 description: Ombudsmannverfahren führt zum Ausgleich außergerichtlicher Rechtsanwaltskosten

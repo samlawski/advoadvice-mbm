@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: LG Dessau-Rosslau verurteilt SAM AG Vermittler
 date: 2017-01-16 00:00:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Vexcash widerruft Schufa Eintrag
 date: 2019-07-30 00:00:00
 description: SCHUFA-Eintrag nach ausgelaufenem Kurzzeitkredit gelöscht.

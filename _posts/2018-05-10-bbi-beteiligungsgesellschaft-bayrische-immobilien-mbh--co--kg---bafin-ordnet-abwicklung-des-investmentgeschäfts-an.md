@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   BBI Beteiligungsgesellschaft Bayrische Immobilien mbH & Co. KG - BaFin ordnet
   Abwicklung des Investmentgeschäfts an

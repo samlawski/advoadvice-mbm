@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Auxilia Rechtsschutz-Versicherungs-AG erteilt Deckungsschutz nach
   Ombudsmannverfahren

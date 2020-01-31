@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'LogisFonds I GmbH: Anleger auf Zahlung verklagt'
 date: 2020-01-23 00:00:00
 description: LogisFonds I reicht Zahlungsklagen gegen Anleger ein

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Ende des ewigen Widerrufsrechts – neues Gesetz auf dem Weg"
 date: 2016-02-17 10:39:00 -0600
 description:

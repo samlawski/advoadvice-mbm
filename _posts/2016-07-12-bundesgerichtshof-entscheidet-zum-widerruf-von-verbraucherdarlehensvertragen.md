@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Bundesgerichtshof entscheidet zum Widerruf von Verbraucherdarlehensverträgen "
 date: 2016-07-12 10:35:00 -0500
 description:

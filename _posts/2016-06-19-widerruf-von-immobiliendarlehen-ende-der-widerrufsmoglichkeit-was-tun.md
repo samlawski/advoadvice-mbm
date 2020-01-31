@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was tun?"
 date: 2016-06-19 17:00:00 -0500
 description:

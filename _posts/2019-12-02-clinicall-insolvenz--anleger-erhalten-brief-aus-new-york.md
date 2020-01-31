@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: ClinicAll Insolvenz – Anleger erhalten Brief aus New York
 date: 2019-12-02 00:00:00
 description: ClinicAll Insolvenz – Anleger erhalten Brief aus New York?

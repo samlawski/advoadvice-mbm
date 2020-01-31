@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Allianz Lebensversicherung: Widerspruch gegen Verträge bis 2007 möglich'
 date: 2019-01-14 00:00:00
 description: 'OLG Stuttgart: Verbraucherinformationen der Allianz Lebensversicherungs AG'

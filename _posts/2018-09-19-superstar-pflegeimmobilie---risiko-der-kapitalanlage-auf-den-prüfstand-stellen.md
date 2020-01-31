@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Superstar Pflegeimmobilie? - Risiko der Kapitalanlage auf den Prüfstand
   stellen
