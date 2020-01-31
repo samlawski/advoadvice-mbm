@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Einrichtungskette Butlers insolvent - Was Anleger jetzt wissen müssen
 date: 2017-02-07 00:00:00
 description:

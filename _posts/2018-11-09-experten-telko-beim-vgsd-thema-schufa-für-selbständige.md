@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Experten Telko beim VGSD:  Thema Schufa für Selbständige'
 date: 2018-11-09 00:00:00
 description: >-

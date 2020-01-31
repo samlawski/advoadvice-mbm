@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   LG Berlin: Nachrangabrede der DEF Deutsche Energie Finanz 11 GmbH & Co. KG
   unwirksam

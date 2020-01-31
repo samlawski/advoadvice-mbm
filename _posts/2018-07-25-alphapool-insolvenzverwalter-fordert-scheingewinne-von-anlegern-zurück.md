@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Alphapool: Insolvenzverwalter fordert Scheingewinne von Anlegern zurück'
 date: 2018-07-25 00:00:00
 description: Alphapool Insolvenzverwalter fordert Rückzahlung von Anlegern

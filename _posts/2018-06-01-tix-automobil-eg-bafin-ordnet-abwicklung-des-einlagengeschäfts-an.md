@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Tix Automobil eG; Bafin ordnet Abwicklung des Einlagengeschäfts an
 date: 2018-06-01 00:00:00
 description: 'Tix Automobil eG: Bafin ordnet Abwicklung des Einlagengeschäfts an'

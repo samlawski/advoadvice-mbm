@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Aktuelle Rechtsprechung zum Widerruf von Lebensversicherungen nach dem Policenmodell - Das frühere sog. „Policenmodell“"
 date: 2016-08-30 09:00:00 -0500
 description:

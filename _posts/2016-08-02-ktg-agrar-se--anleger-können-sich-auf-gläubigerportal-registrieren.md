@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: KTG Agrar SE – Anleger können sich auf Gläubigerportal registrieren
 date: 2016-08-02 23:00:00
 description:

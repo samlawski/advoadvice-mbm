@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Leasetrend zahlt nach Zahlungsklage
 date: 2017-10-12 00:00:00
 description: Leasetrend AG zahlt nach Zahlungsklage Guthaben an Anlegerin aus

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'GFI AG, DIG AG & Co - Schadenersatz durch Haftung von Anwälten als Treuhänder?'
 date: 2018-03-06 08:53:00
 description: >-

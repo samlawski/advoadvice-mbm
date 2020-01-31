@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Brest Tauros: Vergleich vor dem LG Mainz abgeschlossen'
 date: 2019-01-17 00:00:00
 description: >-

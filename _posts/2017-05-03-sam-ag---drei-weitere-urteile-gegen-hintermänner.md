@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: SAM AG - Drei weitere Urteile gegen Hintermänner
 date: 2017-05-03 00:00:00
 description:

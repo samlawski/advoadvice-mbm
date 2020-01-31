@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: BHW Bausparkasse AG vergleicht sich in Schadensersatzprozess nach Negativeintrag'
 date: 2017-06-30 00:00:00
 description:

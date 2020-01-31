@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG : BaFin gibt Hinweis
   auf möglichen Ausfall von Zinszahlungen und Forderungen

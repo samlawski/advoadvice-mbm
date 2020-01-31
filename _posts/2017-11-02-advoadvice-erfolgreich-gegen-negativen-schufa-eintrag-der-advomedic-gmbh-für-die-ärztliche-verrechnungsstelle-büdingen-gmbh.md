@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   AdvoAdvice erfolgreich gegen negativen Schufa Eintrag der advomedic GmbH für
   die Ärztliche Verrechnungsstelle Büdingen GmbH

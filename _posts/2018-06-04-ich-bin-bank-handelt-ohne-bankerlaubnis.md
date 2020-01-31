@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Ich bin Bank: handelt ohne Bankerlaubnis'
 date: 2018-06-04 00:00:00
 description: Ich bin Bank aus Tschechien hat keine deutsche Bankerlaubnis

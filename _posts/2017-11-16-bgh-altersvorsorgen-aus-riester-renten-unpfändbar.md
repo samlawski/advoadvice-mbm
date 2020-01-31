@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BGH: Altersvorsorgen aus Riester-Renten unpfändbar'
 date: 2017-11-16 00:00:00
 description: Bundesgerichtshof hält Altersvorsorgen aus Riester-Renten für unpfändbar

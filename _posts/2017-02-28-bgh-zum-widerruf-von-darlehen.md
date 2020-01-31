@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BGH zum Widerruf von Darlehen
 date: 2017-02-28 00:00:00
 description:

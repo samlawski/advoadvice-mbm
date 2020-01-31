@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Takestor AG: Insolvenzverwalter Schneider schickt Mahnbescheide'
 date: 2017-11-22 00:00:00
 description: Takestor Insolvenzverwalter schickt Anlegern Mahnbescheide vor Weihnachten

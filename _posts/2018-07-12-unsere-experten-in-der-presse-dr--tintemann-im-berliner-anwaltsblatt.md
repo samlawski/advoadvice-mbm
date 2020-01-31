@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Dr. Tintemann im Berliner Anwaltsblatt'
 date: 2018-07-12 00:00:00
 description: >-

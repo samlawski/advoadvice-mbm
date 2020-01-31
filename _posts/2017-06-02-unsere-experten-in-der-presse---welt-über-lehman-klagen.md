@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - WELT über Lehman Klagen
 date: 2017-06-02 00:00:00
 description:

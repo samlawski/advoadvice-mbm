@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schweigepflicht bleibt Schweigepflicht – Ärzte dürfen Daten nur an den Berechtigten herausgeben
 date: 2017-06-20 00:00:00
 description:

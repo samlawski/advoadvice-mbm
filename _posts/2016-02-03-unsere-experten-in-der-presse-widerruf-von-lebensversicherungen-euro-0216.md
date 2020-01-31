@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Widerruf von Lebensversicherungen (Euro 02/16)'
 date: 2016-02-03 23:00:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Insolvenz AAA Vermögensanlagen GmbH
 date: 2017-01-23 00:00:00
 description:

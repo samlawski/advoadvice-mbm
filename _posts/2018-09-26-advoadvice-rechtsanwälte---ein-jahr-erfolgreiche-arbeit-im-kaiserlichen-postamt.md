@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   AdvoAdvice Rechtsanwälte - Ein Jahr erfolgreiche Arbeit im Kaiserlichen
   Postamt

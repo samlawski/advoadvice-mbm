@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "CSA Unternehmensverwaltungs-GmbH betreibt unerlaubt Einlagengeschäfte – BaFin ordnet die Rückabwicklung an"
 date: 2016-06-17 09:15:00 -0500
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Widerruf von Finanzierungen für Solaranlagen möglich?
 date: 2018-07-18 00:00:00
 description: Widerruf von Solaranlagen-Finanzierungen oftmals möglich

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BGH: Bearbeitungsentgelte bei Unternehmerdarlehen unzulässig'
 date: 2017-07-05 00:00:00
 description:
