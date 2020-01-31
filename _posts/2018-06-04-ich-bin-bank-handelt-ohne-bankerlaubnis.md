@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Ich bin Bank: handelt ohne Bankerlaubnis'
 date: 2018-06-04 00:00:00
 description: Ich bin Bank aus Tschechien hat keine deutsche Bankerlaubnis
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -24,7 +22,7 @@ tags:
   - Anlegerschutz
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,50 +1,64 @@
 ---
-_options:
-  layout:
-    hidden: true
-title: Blog
-layout: page
+layout: default
+style_id: blog
+title: AdvoAvice Blog
+description: Blogartikel von erfahrenen Rechtsanwälten zu Themen wir Bank- und Kapitalmarktrecht, Insolvenzrecht, Schufa- und Datenschutzrecht und Immobilienrecht.
+such_tips: 
+  - Schufa
+  - Immobilienrecht
+  - Kapitalmarkt
+  - Versicherung
+  - Presse
 ---
 
-<div class="row">
-  <!-- BLOG POSTS -->
-  <section id="blog" class="col-md-8 col-lg-9 margin-tb-20">
-    {% for post in paginator.posts %}
-      <article class="blog-post">
-        <h1 class="padding-20">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-        </h1>
-        <div class="padding-20">
-          {{post.content | strip_html | truncatewords: 40}}<br><br>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="editable"><b>Weiterlesen ...</b></a>
-        </div><!-- post.body -->
-        {% assign author_id = "/authors/" | append: post.author %}
-        {% assign author = site.authors | where: "id", author_id | first %}
-        <small>- {{post.date | date: "%d. %B %Y" }} :: {{author.name}}</small>
-      </article>
-    {% endfor %}
+<header class="h-container">
+  <h1>Blog</h1>
 
-    <!-- Pagination links -->
+  <input id="blog__suche" class="suche" type="text" placeholder="Suche ...">
+
+  <nav class="suche__suggestions">
+    <strong>Vorschläge: </strong><br>
+    {% for suggestion in page.such_tips %}
+      <a href="#" class="suche__suggestion">{{suggestion}}</a>
+      {% unless forloop.last %}
+        <span>&nbsp;&#183&nbsp;</span>
+      {% endunless %}
+    {% endfor %}
+  </nav>
+</header>
+
+<main>
+  <section class="h-container wrapper--articles active">
+    <h2 class="blog__h h6">Aktuelle Artikel</h2>
+
+    <div class="articles">
+      {% for article in paginator.posts %}
+        {% include article.html article=article %}
+      {% endfor %}
+    </div>
+
+    <!-- Pagination Links -->
     <nav>
       <ul class="pager">
         {% if paginator.previous_page %}
-          <li class="previous">
+          <li class="pager__prev">
             <a href="{{ paginator.previous_page_path }}">
-              <span aria-hidden="true">&larr;</span><span class="hidden-xs"> Neue Beiträge</span>
+              <span aria-hidden="true">&larr;</span><span class=""> Neue Beiträge</span>
             </a>
           </li>
         {% endif %}
         {% if paginator.next_page %}
-          <li class="next">
+          <li class="pager__next">
             <a href="{{ paginator.next_page_path }}">
-              <span class="hidden-xs">Ältere Beiträge</span> <span aria-hidden="true">&rarr;</span>
+              <span class="">Ältere Beiträge</span> <span aria-hidden="true">&rarr;</span>
             </a>
           </li>
         {% endif %}
       </ul>
     </nav>
   </section>
-
-  <!-- SIDEBAR -->
-  {% include sidebar.html %}
-</div><!-- row -->
+  <section class="h-container wrapper--search">
+    <h2 class="blog__h h6">Suchergebnisse</h2>
+    <div class="articles"></div>
+  </section>
+</main>

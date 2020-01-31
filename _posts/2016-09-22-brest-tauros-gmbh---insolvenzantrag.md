@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Brest-Tauros GmbH - Insolvenzantrag
 date: 2016-09-22 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

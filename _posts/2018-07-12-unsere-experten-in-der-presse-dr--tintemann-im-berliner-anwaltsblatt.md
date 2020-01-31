@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Dr. Tintemann im Berliner Anwaltsblatt'
 date: 2018-07-12 00:00:00
 description: >-
   Dr. Tintemann fasst Vortrag von VRiKG Fahr für das Berliner Anwaltsblatt
   zusammen
 layout: post
+style_id: post
 feature_bild_path: /uploads/berliner-anwaltsblatt-1.png
 tags:
   - Experten in den Medien

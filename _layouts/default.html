@@ -1,14 +1,128 @@
 <!DOCTYPE html>
 <html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="{{ site.keywords }}{% if page.tags %}, {{ page.tags }}{% endif %}">
+    {% seo %}
 
-  {% include head.html %}
+    <!-- Theme & Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ '/favicon/apple-touch-icon-57x57.png' | prepend: site.baseurl }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'/favicon/apple-touch-icon-114x114.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'/favicon/apple-touch-icon-72x72.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'/favicon/apple-touch-icon-144x144.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{'/favicon/apple-touch-icon-60x60.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{'/favicon/apple-touch-icon-120x120.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{'/favicon/apple-touch-icon-76x76.png' | prepend: site.baseurl}}" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{'/favicon/apple-touch-icon-152x152.png' | prepend: site.baseurl}}" />
+    <link rel="icon" type="image/png" href="{{'/favicon/favicon-196x196.png' | prepend: site.baseurl}}" sizes="196x196" />
+    <link rel="icon" type="image/png" href="{{'/favicon/favicon-96x96.png' | prepend: site.baseurl}}" sizes="96x96" />
+    <link rel="icon" type="image/png" href="{{'/favicon/favicon-32x32.png' | prepend: site.baseurl}}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{'/favicon/favicon-16x16.png' | prepend: site.baseurl}}" sizes="16x16" />
+    <link rel="icon" type="image/png" href="{{'/favicon/favicon-128.png' | prepend: site.baseurl}}" sizes="128x128" />
+    <meta name="application-name" content="{{ site.title }}"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="{{'/favicon/mstile-144x144.png' | prepend: site.baseurl}}" />
+    <meta name="msapplication-square70x70logo" content="{{'/favicon/mstile-70x70.png' | prepend: site.baseurl}}" />
+    <meta name="msapplication-square150x150logo" content="{{'/favicon/mstile-150x150.png' | prepend: site.baseurl}}" />
+    <meta name="msapplication-wide310x150logo" content="{{'/favicon/mstile-310x150.png' | prepend: site.baseurl}}" />
+    <meta name="msapplication-square310x310logo" content="{{'/favicon/mstile-310x310.png' | prepend: site.baseurl}}" />
 
+    <!-- CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro:400,400i,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
   <body>
-    {{ content }}
 
-    <a class="call-cta" href="tel:+493092100040"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></a>
-    {% include footer.html %}
-    {% include javascripts.html %}
+    <nav class="page__nav">
+      <div class="nav__wrapper">
+        <div class="nav__logo">
+          <a href="{{site.url}}#">
+            <!-- TODO Reduce size -->
+            <img src="/uploads/images/logo-wordmark.png" alt="AdvoAdvice - Logo mit Text">
+          </a>
+        </div>
+        <div class="nav__spacer">
+          <button class="hamburger hamburger--spring" type="button">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"></span>
+            </span>
+          </button>
+        </div>
+        <div class="nav__menu">
+          <ul>
+            <li><a href="{{ '/#themen' | prepend: site.url }}">Unsere Themen</a></li>
+            <li><a href="{{ '/#anwaelte' | prepend: site.url }}">Ihre Anwälte</a></li>
+            <li><a href="{{ '/#ablauf' | prepend: site.url }}">Wie es abläuft</a></li>
+            <li><a href="{{ '/blog' | prepend: site.url }}">Blog</a></li>
+            <li><a href="#kontakt"><strong>Kontakt</strong></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="page__nav__spacer"></div>
+
+    <div class="page page__{{page.style_id}}">
+      {{ content }}
+    </div>
+
+    <footer class="page__footer"> 
+      <div id="kontakt" class="h-container">
+
+        <div class="footer__einleitung h-container--sm">
+          <!-- TODO Reduce size: -->
+          <img class="kontakt__portrait editable" src="/uploads/images/sven-small.png" alt="Dr. Tintemann - Kleines Portrait">
+          <p class="h4 editable">
+            Nehmen Sie noch jetzt Kontakt auf! 
+          </p>
+          <p class="editable">Wir beraten Sie gerne bei Ihrem Anliegen und geben Ihnen ganz <strong>kostenlos</strong> und <strong>unverbindlich</strong> eine erste Einschätzung.</p>
+        </div>
+
+        <div class="footer__kontakt">
+          <div class="footer__form">
+            {% include kontakt_formular.html id="2" %}
+          </div>
+
+          <div class="footer__anschrift">
+            <p class="editable">
+              Telefon: 030 - 921 000 40 <br />
+              Telefax: 030 - 921 000 410 <br />
+              E-Mail: info@advoadvice.de
+            </p>
+            <h4 class="editable">Anschrift</h4>
+            <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
+            <h4 class="editable">Sprechzeiten</h4>
+            <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
+
+            <div class="footer__legal">
+              <a href="/impressum" class="editable">Impressum</a>
+              &nbsp;&#183&nbsp;
+              <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-77131734-1', {
+          'storage': 'none',
+          storeGac: false
+      });
+      ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview');
+    </script>
+    <div id="captcha_script_container"></div> <!-- Dynamically added by form (see main.js) -->
+
+    <script src="/assets/js/plugins/elasticlunr.js"></script> 
+    <script src="/assets/js/main.js"></script>
   </body>
-
 </html>

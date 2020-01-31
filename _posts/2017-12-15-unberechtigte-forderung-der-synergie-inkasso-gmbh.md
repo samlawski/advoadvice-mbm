@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unberechtigte Forderung der Synergie Inkasso GmbH?
 date: 2017-12-15 00:00:00
 description: >-
   Die Synergie Inkasso GmbH kann die Forderungsinhaberschaft häufig nicht
   nachweisen.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -20,8 +18,7 @@ tags:
   - Gerichtsverfahren
   - Schufa
   - Schufa-Eintrag
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

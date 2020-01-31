@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Butlers Insolvenz: Nachrangklausel von Genussrechten bei Insolvenzverwalter
   angefochten
 date: 2017-09-07 00:00:00
 description: Butlers Anlegerin geht gegen intrasparente Nachrangklausel vor
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Kapitalmarktrecht
@@ -22,7 +20,7 @@ tags:
   - Totalverlust
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

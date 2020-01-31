@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BGH zum Widerruf von Darlehen
 date: 2017-02-28 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Widerruf
@@ -24,8 +22,8 @@ tags:
   - XI ZR 501/15
   - kein besonderer Vertrauenstatbestand
 topics:
-  - widerruf-verbraucherdarlehen
-  - bank-und-kapitalmarktrecht
+  - kredit-widerrufen
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

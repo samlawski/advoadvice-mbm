@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Brest Tauros: Vergleich vor dem LG Mainz abgeschlossen'
 date: 2019-01-17 00:00:00
 description: >-
   Vergleich bei Klage gegen Verantwortliche der Brest Tauros vor LG Mainz
   abgeschlossen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -22,7 +20,7 @@ tags:
   - Einlagengeschäft
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

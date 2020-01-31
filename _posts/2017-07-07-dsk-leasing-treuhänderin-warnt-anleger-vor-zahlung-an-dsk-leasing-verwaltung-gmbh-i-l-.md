@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'DSK Leasing: Treuhänderin warnt Anleger vor Zahlung an DSK Leasing Verwaltung GmbH i.L.'
 date: 2017-07-07 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -31,7 +29,7 @@ tags:
   - Trust Fonds
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

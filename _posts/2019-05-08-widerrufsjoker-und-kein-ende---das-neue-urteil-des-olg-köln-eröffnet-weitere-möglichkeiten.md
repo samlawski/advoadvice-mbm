@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
@@ -10,6 +7,7 @@ description: >-
   Widerrufsjoker und kein Ende - Das neue Urteil des OLG Köln eröffnet weitere
   Möglichkeiten
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerrufsjoker
@@ -22,7 +20,7 @@ tags:
   - AdvoAdvice Rechtsanwälte
   - Kim Oliver Klevenhagen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

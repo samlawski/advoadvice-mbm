@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Zeit Online - Schufa und Identitätsdiebstahl
 date: 2017-05-12 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/zeitonline-logo.png
 tags:
   - Experten
@@ -22,7 +20,7 @@ tags:
   - Missbrauch
   - Mißbrauch
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
   - medien
 author: dr-sven-tintemann
 ---

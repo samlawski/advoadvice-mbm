@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Barclays Bank widerruft SCHUFA-Eintrag nach gerichtlichem Vergleich
 date: 2018-08-07 00:00:00
 description: Forderung bei der SCHUFA nach gerichtlichem Vergleich widerrufen.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -19,7 +17,7 @@ tags:
   - Barclays Bank
   - Gerichtlicher Vergleich
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

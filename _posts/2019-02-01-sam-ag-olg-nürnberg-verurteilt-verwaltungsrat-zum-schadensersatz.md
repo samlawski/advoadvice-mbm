@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'SAM AG: OLG Nürnberg verurteilt Verwaltungsrat zum Schadensersatz'
 date: 2019-02-01 00:00:00
 description: 'SAM AG: OLG Nürnberg verurteilt Verwaltungsrat zum Schadensersatz'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -22,7 +20,7 @@ tags:
   - Verurteilung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

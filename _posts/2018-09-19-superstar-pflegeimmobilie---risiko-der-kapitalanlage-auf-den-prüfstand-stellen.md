@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Superstar Pflegeimmobilie? - Risiko der Kapitalanlage auf den Prüfstand
   stellen
 date: 2018-09-19 00:00:00
 description: Die Investition in die Pflegeimmobilie - Rendite und Risiko
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Kapitalanlage
@@ -19,8 +17,8 @@ tags:
   - Kaufvertrag
   - Investition
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

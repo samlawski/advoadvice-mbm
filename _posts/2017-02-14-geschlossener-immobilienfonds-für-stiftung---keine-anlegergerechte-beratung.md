@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Geschlossener Immobilienfonds für Stiftung - keine anlegergerechte Beratung
 date: 2017-02-14 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Anlegerschutz
@@ -24,7 +22,7 @@ tags:
   - 1 U 32/13
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

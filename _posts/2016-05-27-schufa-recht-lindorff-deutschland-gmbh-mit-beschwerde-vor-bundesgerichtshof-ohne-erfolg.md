@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Lindorff Deutschland GmbH mit Beschwerde vor Bundesgerichtshof ohne Erfolg'
 date: 2016-05-27 12:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa-Recht

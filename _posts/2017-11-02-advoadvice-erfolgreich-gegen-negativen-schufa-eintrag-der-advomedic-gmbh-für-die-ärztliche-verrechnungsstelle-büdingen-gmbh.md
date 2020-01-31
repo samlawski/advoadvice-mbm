@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   AdvoAdvice erfolgreich gegen negativen Schufa Eintrag der advomedic GmbH für
   die Ärztliche Verrechnungsstelle Büdingen GmbH
 date: 2017-11-02 00:00:00
 description: Löschung eines negativen Schufa Eintrages in Folge einer titulierten Forderung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag
@@ -25,7 +23,7 @@ tags:
   - Gesetzesmaterialien
   - § 28a BDSG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

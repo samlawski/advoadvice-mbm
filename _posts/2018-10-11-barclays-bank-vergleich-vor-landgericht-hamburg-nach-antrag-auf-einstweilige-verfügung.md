@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Barclays Bank: Vergleich vor Landgericht Hamburg nach Antrag auf einstweilige
   Verfügung
 date: 2018-10-11 00:00:00
 description: Eintrag nach Vergleich widerrufen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -24,7 +22,7 @@ tags:
   - LG Hamburg
   - Einstweilige Verfügung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

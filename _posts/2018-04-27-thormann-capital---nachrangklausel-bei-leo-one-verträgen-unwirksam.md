@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Thormann Capital - Nachrangklausel bei Leo One Verträgen unwirksam
 date: 2018-04-27 00:00:00
 description: >-
   Thormann Capital: Anleger können Forderung aus GreenUp Verträgen zur
   Insolvenztabelle anmelden
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz
@@ -23,8 +21,8 @@ tags:
   - GreenUp
   - Forderungsanmeldung
 topics:
-  - bank-und-kapitalmarktrecht
-  - insolvenzrecht
+  - bank-und-kapitalmarkt
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

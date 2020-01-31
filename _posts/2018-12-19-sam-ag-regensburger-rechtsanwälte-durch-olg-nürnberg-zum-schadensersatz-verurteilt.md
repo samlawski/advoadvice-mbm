@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   SAM AG: Regensburger Rechtsanwälte durch OLG Nürnberg zum Schadensersatz
   verurteilt
@@ -10,6 +7,7 @@ description: >-
   OLG Nürnberg verurteilt Regensburger Rechtsanwälte in Sachen SAM AG zum
   Schadensersatz
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anspüche
@@ -32,7 +30,7 @@ tags:
   - Kündigung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

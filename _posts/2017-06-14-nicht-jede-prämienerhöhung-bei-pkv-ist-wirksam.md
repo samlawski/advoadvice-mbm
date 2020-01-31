@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Nicht jede Prämienerhöhung bei PKV ist wirksam
 date: 2017-06-14 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherungrecht
@@ -24,7 +22,7 @@ tags:
   - Erhöhung
   - Versicherungsbeitrag
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

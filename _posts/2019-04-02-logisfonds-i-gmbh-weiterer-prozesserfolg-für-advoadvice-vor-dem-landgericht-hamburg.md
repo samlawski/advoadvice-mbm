@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Logisfonds I GmbH: Weiterer Prozesserfolg für AdvoAdvice vor dem Landgericht
   Hamburg
 date: 2019-04-02 00:00:00
 description: LogisFonds I GmbH erkennt Klageforderung vor Landgericht Hamburg an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anleger
@@ -22,7 +20,7 @@ tags:
   - Garbe Logimac AG
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

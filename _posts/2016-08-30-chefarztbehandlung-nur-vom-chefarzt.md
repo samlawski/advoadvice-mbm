@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Chefarztbehandlung nur vom Chefarzt!"
 date: 2016-08-30 09:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Behandlung", "Krankenhaus", "Chefarzt", "Einwilligung", "Oberarzt", "Rechtswidrig", "Konsequenzen", "Schadensersatz"]
 topics: []

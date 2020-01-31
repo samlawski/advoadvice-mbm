@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Diesel-Einigung - Ein Schlag ins Gesicht der Verbraucher
 date: 2018-10-05 00:00:00
 description: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Diesel
@@ -30,7 +28,7 @@ tags:
   - Ludwigsburg
   - Frankfurt am Main
 topics:
-  - widerruf-verbraucherdarlehen
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

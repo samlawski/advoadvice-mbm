@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Good Bank Filiale in Berlin eröffnet
 date: 2017-04-06 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Good Bank
@@ -14,8 +12,7 @@ tags:
   - eigener Anbau
   - Salat
   - Vertical Farming
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

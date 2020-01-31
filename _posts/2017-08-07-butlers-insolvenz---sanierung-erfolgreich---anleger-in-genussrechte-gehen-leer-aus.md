@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Butlers Insolvenz - Sanierung erfolgreich - Anleger in Genussrechte gehen leer
   aus
 date: 2017-08-07 00:00:00
 description: Anleger in Genussrechte von Butlers gehen bei Insolvenz leer aus
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherschutz
@@ -22,7 +20,7 @@ tags:
   - Totalverlust
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

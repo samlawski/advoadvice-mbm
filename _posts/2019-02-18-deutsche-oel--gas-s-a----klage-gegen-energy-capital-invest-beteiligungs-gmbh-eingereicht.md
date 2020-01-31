@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Deutsche Oel & Gas S.A. - Klage gegen Energy Capital Invest Beteiligungs GmbH
   eingereicht
@@ -10,6 +7,7 @@ description: >-
   Klage gegen Energy Capital Invest Beteiligungsgesellschaft mbH vor Landgericht
   Stuttgart eingereich
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -30,7 +28,7 @@ tags:
   - TB Treuhand GmbH Wirtschaftsprüfungsgesellschaft
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

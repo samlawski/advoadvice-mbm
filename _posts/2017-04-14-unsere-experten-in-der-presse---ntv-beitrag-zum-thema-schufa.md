@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - NTV Beitrag zum Thema Schufa
 date: 2017-04-14 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: "/uploads/versions/ntv-logo---x----200-200x---.png"
 tags:
   - Experten
@@ -16,9 +14,8 @@ tags:
   - Schufa Holding AG
   - Best of
 topics:
-  - schufa
+  - schufa-und-datenschutz
   - medien
-  - datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Gesetzliche Neuregelungen im Februar 2017
 date: 2017-02-01 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation
@@ -13,8 +11,7 @@ tags:
   - Streitbeilegung
   - Gurtpflicht
   - Umzugskostenpauschale
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

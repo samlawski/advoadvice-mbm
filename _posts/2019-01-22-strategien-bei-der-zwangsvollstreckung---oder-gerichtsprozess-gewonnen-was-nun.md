@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Strategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?
@@ -10,6 +7,7 @@ description: >-
   trategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -28,8 +26,7 @@ tags:
   - Mahnbescheid
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - sonstiges
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

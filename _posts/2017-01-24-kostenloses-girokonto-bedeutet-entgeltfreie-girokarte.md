@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Kostenloses Girokonto bedeutet entgeltfreie Girokarte
 date: 2017-01-24 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation
@@ -17,8 +15,7 @@ tags:
   - Landgericht Düsseldorf
   - überraschende Klauseln
 topics:
-  - bank-und-kapitalmarktrecht
-  - sonstiges
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

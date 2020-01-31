@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag der Barclays Bank PLC gelöscht
 date: 2017-11-06 00:00:00
 description: >-
   Die Schufa Holding AG hat einen negativen Schufa Eintrag der Barlcays Bank PLC
   gelöscht.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag
@@ -21,7 +19,7 @@ tags:
   - Auslegung
   - Norm
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

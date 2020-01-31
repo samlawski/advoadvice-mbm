@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Real Solution Inkasso: Unterlassungserklärung nach Schufa-Negativeintrag'
 date: 2019-04-12 00:00:00
 description: >-
   Schufa-Recht: Real Solution Inkasso gibt Unterlassungserklärung nach Löschung
   ab
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Recht
@@ -20,7 +18,7 @@ tags:
   - Kreditkarte
   - International Card Services B.V.
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Schriftformerfordernis bei Mahnschreiben i.S.d. § 28a BSDG'
 date: 2016-10-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/vur.png
 tags:
   - Experten
@@ -23,7 +21,7 @@ tags:
   - AdvoAdvice
 topics:
   - medien
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

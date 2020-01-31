@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Oberle Geothermik jetzt MoreMedia GmbH
 date: 2017-10-10 00:00:00
 description: 'Oberle Geothermik ändert Namen, Sitz und Geschäftsführer'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -22,7 +20,7 @@ tags:
   - geändert
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

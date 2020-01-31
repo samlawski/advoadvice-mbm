@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Anton Westrich: Bafin ordnet Abwicklung des unerlaubt betriebenen
   Einlagengeschäfts an
 date: 2017-08-01 00:00:00
 description: Anton Westrich wurde Einlagengeschäft durch BaFin untersagt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Ansprüche
@@ -24,7 +22,7 @@ tags:
   - Lebensversicherung
   - Privatdarlehen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

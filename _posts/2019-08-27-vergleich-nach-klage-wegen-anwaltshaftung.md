@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Vergleich nach Klage wegen Anwaltshaftung
 date: 2019-08-27 00:00:00
 description: Vergleich nach Klage gegen ehemaligen Anwalt wegen Anwaltshaftung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Zivilrecht
@@ -20,7 +18,7 @@ tags:
   - Schadensersatz
   - Vergleich
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 
