@@ -31,7 +31,7 @@
     <meta name="msapplication-square310x310logo" content="{{'/favicon/mstile-310x310.png' | prepend: site.baseurl}}" />
 
     <!-- CSS -->
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro:400,400i,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Source+Sans+Pro:400,400i,700&display=swap" rel="stylesheet" rel=preconnect>
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
@@ -45,7 +45,7 @@
           </a>
         </div>
         <div class="nav__spacer">
-          <button class="hamburger hamburger--spring" type="button">
+          <button class="hamburger hamburger--spring" type="button" aria-label="Open Main Naviagion" aria-hidden="true">
             <span class="hamburger-box">
               <span class="hamburger-inner"></span>
             </span>
