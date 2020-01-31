@@ -24,13 +24,13 @@ author: dr-sven-tintemann
 ---
 
 
-[![](http://www.bafin.de/SiteGlobals/Frontend/Images/icons/newsletter/icon_webcodelink.png?__blob=normal)](http://www.bafin.de/dok/10181964 "Öffnet neues Fenster")Die Bundesanstalt für Finanzdienstleistungsaufsicht, kurz BaFin, warnt auf ihrer Internetseite vor den Risiken von sog. Initial Coin Offerings. Diese seien höchst spekulative Investments und würden aufgrund des hohen öffentlichen Interesses auch Betrüger anziehen.
+[![](https://www.bafin.de/SiteGlobals/Frontend/Images/icons/newsletter/icon_webcodelink.png?__blob=normal)](https://www.bafin.de/dok/10181964 "Öffnet neues Fenster")Die Bundesanstalt für Finanzdienstleistungsaufsicht, kurz BaFin, warnt auf ihrer Internetseite vor den Risiken von sog. Initial Coin Offerings. Diese seien höchst spekulative Investments und würden aufgrund des hohen öffentlichen Interesses auch Betrüger anziehen.
 {: .present-before-paste}
 
 ### Hohe Verlustrisiken und keine gesetzlichen Vorgaben
 {: .present-before-paste}
 
-So gäbe es bei den sog. Tokens hohe Preisschwankungen. Es bestehe hier das Risiko eines nicht liquiden oder gar vorhandenen Zweitmarkts und auch das Totalverlustrisiko, so die BaFin in ihrer Mitteilung vom 09.11.2017 unter [www.bafin.de/dok/10181964](http://www.bafin.de/dok/10181964 "Öffnet neues Fenster").
+So gäbe es bei den sog. Tokens hohe Preisschwankungen. Es bestehe hier das Risiko eines nicht liquiden oder gar vorhandenen Zweitmarkts und auch das Totalverlustrisiko, so die BaFin in ihrer Mitteilung vom 09.11.2017 unter [www.bafin.de/dok/10181964](https://www.bafin.de/dok/10181964 "Öffnet neues Fenster").
 {: .present-before-paste}
 
 Aufgrund fehlender gesetzlicher Vorgaben und Transparenzvorschriften, warnt die BaFin, sei der Verbraucher allein auf sich gestellt wenn es darum ginge, die Identität, Seriosität und Bonität des Token-Anbieters zu überprüfen und das angebotene Investment zu verstehen und zu bewerten.
