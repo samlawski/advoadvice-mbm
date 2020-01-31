@@ -14,8 +14,8 @@
   &[id]::before {
     content: '';
     display: block;
-    height:      83px;
-    margin-top: -83px;
+    height:      80px;
+    margin-top: -80px;
     visibility: hidden;
   }
 }
@@ -47,7 +47,7 @@
   max-width: $max-width;
   margin: auto;
 
-  @media(min-width: $media-sm){
+  @media(min-width: $media-md){
     align-items: stretch;
   }
 }
@@ -62,16 +62,11 @@
     align-items: center;
   }
   img {
-    height: 40px;
-  }
-  .logo--lg { display: none; }
-
-  @media(min-width: $media-md){ 
-    .logo--sm { display: none; }
-    .logo--lg { display: block; }
+    height: 30px;
+    @media(min-width: $media-md){ height: 40px; }
   }
 
-  @media(min-width: $media-sm){ flex: 0 1; }
+  @media(min-width: $media-md){ flex: 0 1; }
 }
 .nav__spacer {
   flex: 0;
@@ -81,19 +76,26 @@
     padding: 0;
     padding-top: 5px;
 
-    @media(min-width: $media-sm){ display: none; }
+    @media(min-width: $media-md){ display: none; }
   }
   // Change hamburger line height
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     height: 3px;
+    // Change hamburger size 
+    width: 30px;
+  }
+  // Change hamburger size 
+  .hamburger-box {
+    width: 30px;
+    height: 20px;
   }
 
-  @media(min-width: $media-sm){ flex: 0 1; }
+  @media(min-width: $media-md){ flex: 0 1; }
 }
 
 .nav__menu {
   flex: 0 1 100%;
-  @media(min-width: $media-sm){ flex: 1; }
+  @media(min-width: $media-md){ flex: 1; }
 
   ul {
     display: block;
@@ -114,7 +116,7 @@
       opacity $transition-time-1;
     
     // Desktop
-    @media(min-width: $media-sm){
+    @media(min-width: $media-md){
       height: 100%;
       opacity: 1;
       font-size: inherit;
@@ -137,7 +139,7 @@
     padding: 5px 0;
 
     // Desktop
-    @media(min-width: $media-sm){
+    @media(min-width: $media-md){
       height: 100%;
       display: inline-block;
       
@@ -161,7 +163,7 @@
 }
 
 .page__nav__spacer {
-  height: 83px;
+  height: 80px;
 }
 
 
