@@ -31,11 +31,11 @@ author: dr-sven-tintemann
 
 ### Was macht die BaFin als Bankenaufsicht?
 
-[![](http://www.bafin.de/SiteGlobals/Frontend/Images/icons/newsletter/icon_webcodelink.png?__blob=normal)](http://www.bafin.de/dok/10234356 "Öffnet neues Fenster")Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht, kurz BaFin, ver&ouml;ffentlicht auf ihrer Interenetseite regelm&auml;&szlig;ig Informationen &uuml;ber Aufsichtsma&szlig;nahmen nach dem Kreditwesengesetz (KWG). Diese richten sich gegen Unternehmen, bei denen die BaFin eine T&auml;tigkeit vermutet, die nach dem KWG einer Erlaubnis bedarf, welche die Unternehmen aber ohne entsprechende Erlaubnis aus&uuml;ben. Es kommt daher zu einer sogenannten Einstellungs- und Abwicklungsverf&uuml;gung durch die BaFin. Diese ist ein Verwaltungsakt, der sofort vollziehbar ist und gegen den das betroffene Unternehmen Rechtsmittel einlegen kann.
+[![](https://www.bafin.de/SiteGlobals/Frontend/Images/icons/newsletter/icon_webcodelink.png?__blob=normal)](https://www.bafin.de/dok/10234356 "Öffnet neues Fenster")Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht, kurz BaFin, ver&ouml;ffentlicht auf ihrer Interenetseite regelm&auml;&szlig;ig Informationen &uuml;ber Aufsichtsma&szlig;nahmen nach dem Kreditwesengesetz (KWG). Diese richten sich gegen Unternehmen, bei denen die BaFin eine T&auml;tigkeit vermutet, die nach dem KWG einer Erlaubnis bedarf, welche die Unternehmen aber ohne entsprechende Erlaubnis aus&uuml;ben. Es kommt daher zu einer sogenannten Einstellungs- und Abwicklungsverf&uuml;gung durch die BaFin. Diese ist ein Verwaltungsakt, der sofort vollziehbar ist und gegen den das betroffene Unternehmen Rechtsmittel einlegen kann.
 
 ### Bescheid an FUNVESTMENT Limited
 
-Adressat eines solchen Bescheides auf Einstellung und Abwicklung des Einlagengesch&auml;fts nach &sect; 1 Abs. 1 KWG war die Firma FUNVESTMENT Limited aus Karlsruhe. Dies berichtet die BaFin auf ihrer Webseite unter dem Link: [www.bafin.de/dok/10234356.](http://www.bafin.de/dok/10234356 "Öffnet neues Fenster")
+Adressat eines solchen Bescheides auf Einstellung und Abwicklung des Einlagengesch&auml;fts nach &sect; 1 Abs. 1 KWG war die Firma FUNVESTMENT Limited aus Karlsruhe. Dies berichtet die BaFin auf ihrer Webseite unter dem Link: [www.bafin.de/dok/10234356.](https://www.bafin.de/dok/10234356 "Öffnet neues Fenster")
 
 Der Bescheid der BaFin stammt hiernach vom 13.11.2017 und ist noch nicht bestandskr&auml;ftig, allerdings sofort vollziehbar.
 

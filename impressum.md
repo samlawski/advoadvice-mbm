@@ -58,13 +58,13 @@ Die Haftung der sachbearbeitenden Rechtsanwälte und auch der Partnerschaftsgese
 
 ### Außergerichtliche Streitschlichtung:
 
-Bei Streitigkeiten zwischen Rechtsanwälten und ihren Auftraggebern besteht auf Antrag die Möglichkeit der außergerichtlichen Streitschlichtung bei der Rechtsanwaltskammer Berlin (gemäß § 73 Abs. 2 Nr. 3 i.V.m. § 73 Abs. 5 BRAO) oder bei der Schlichtungsstelle der Rechtsanwaltschaft (§ 191f BRAO) bei der Bundesrechtsanwaltskammer, im Internet zu finden über die Homepage der Bundes­rechtsanwaltskammer ([www.brak.de](http://www.brak.de "Link: http://www.brak.de")) email: schlichtungsstelle@brak.de.
+Bei Streitigkeiten zwischen Rechtsanwälten und ihren Auftraggebern besteht auf Antrag die Möglichkeit der außergerichtlichen Streitschlichtung bei der Rechtsanwaltskammer Berlin (gemäß § 73 Abs. 2 Nr. 3 i.V.m. § 73 Abs. 5 BRAO) oder bei der Schlichtungsstelle der Rechtsanwaltschaft (§ 191f BRAO) bei der Bundesrechtsanwaltskammer, im Internet zu finden über die Homepage der Bundes­rechtsanwaltskammer ([www.brak.de](https://www.brak.de "Link: https://www.brak.de")) email: schlichtungsstelle@brak.de.
 
 Rechtsanwaltskammer:  
 Alle Rechtsanwälte sind Mitglieder der  
 Rechtsanwaltskammer Berlin  
 Littenstraße 9, 10179 Berlin  
-[http://www.rak-berlin.de](http://www.rak-berlin.de "Link: http://www.rak-berlin.de")
+[https://www.rak-berlin.de](https://www.rak-berlin.de "Link: https://www.rak-berlin.de")
 
 Plattform der EU zur außergerichtlichen OnlineStreitbeilegung: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/ "Link: http://ec.europa.eu/consumers/odr/")
 
