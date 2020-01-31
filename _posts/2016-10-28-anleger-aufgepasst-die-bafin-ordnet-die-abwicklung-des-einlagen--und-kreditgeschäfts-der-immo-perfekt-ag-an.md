@@ -36,7 +36,7 @@ Für die Anleger bedeutet dieser Bescheid, dass die Immo Perfekt AG diejenigen G
 
 Aber auch hinsichtlich der Abwicklung des unerlaubt betriebenen Kreditgeschäftes macht die BaFin konkrete Vorgaben: Die Darlehen hat die Immo Perfekt AG in der Weise zurückzuführen, die nach den Verträgen die Schnellstmögliche ist.
 
-Allerdings ist zu beachten, dass dieser Bescheid vom 10.10.2016 zwar sofort vollziehbar ist, aber noch nicht bestandskräftig. Dies gibt die BaFin auf ihrer Internetseite unter [www.bafin.de](http://www.bafin.de) der Rubrik Verbrauchermitteilungen „Unerlaubte Geschäfte“ bekannt.
+Allerdings ist zu beachten, dass dieser Bescheid vom 10.10.2016 zwar sofort vollziehbar ist, aber noch nicht bestandskräftig. Dies gibt die BaFin auf ihrer Internetseite unter [www.bafin.de](https://www.bafin.de) der Rubrik Verbrauchermitteilungen „Unerlaubte Geschäfte“ bekannt.
 
 Dies ändert jedoch nichts daran, dass sich der derzeitige Vorstand Herbert Nunn dringend Gedanken machen muss, wie er als Verantwortlicher der Aktiengesellschaft den Anordnungen der BaFin Folge leisten kann. Auffällig ist hinsichtlich der Vorstände der Aktiengesellschaft bei einem Blick ins Handelsregister, dass diese sehr häufig wechselten. Mehrfach sind in den acht Jahren Geschäftstätigkeit unter der Firma Immo Perfekt AG Vorstände bestellt worden und wieder ausgeschieden. Dieser Aspekt ist insbesondere für die Prüfung der Haftung auf Schadensersatz von Bedeutung.
 
