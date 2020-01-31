@@ -38,6 +38,7 @@ defaults:
         presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
         redirect_from: Für SEO. Hier können URLs eingegeben werden, von (!) denen zu dieser Seite weitergeleitet werden sollen.
         redirect_to: Wenn diese Seite nicht erreichbar sein soll und woanders hin weiterleiten sollte, kann die Weiterleitungs-URL hier eingefügt werden.
+        feature_bild_path: Dieses Bild ist optional. Es wird beim Artikel ganz oben groß dargestellt. Also sollte es als großes Bild idealerweise funktionieren.
       
 # CloudCannon
 abschnitt_templates:
