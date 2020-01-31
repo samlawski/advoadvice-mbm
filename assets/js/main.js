@@ -2,11 +2,16 @@
 
   - General Functions
   - Navigation
-  - Scoped (by page or component)
-
+  - Search (only on blog)
+  - reCaptcha Cookies - Contact Form
+  
 */
 
+/* *** template *** */
+;(function(){})()
+
 /* *** General Functions *** */
+
 function get(url, callback){
   var xmlhttp
   xmlhttp = new XMLHttpRequest()
@@ -18,29 +23,36 @@ function get(url, callback){
   xmlhttp.open("GET", url, true)
   xmlhttp.send()
 }
+function arrayFrom(arr){
+  return Array.prototype.slice.call(arr)
+}
+
 
 /* *** Navigation *** */
 
-var $navBtn   = document.querySelector('.hamburger'),
+;(function(){
+  var $navBtn   = document.querySelector('.hamburger'),
     $navMenu  = document.querySelector('.nav__menu'),
     $navLinks = document.querySelectorAll('.nav__menu a')
 
-// Toggle Hamburger menu
-$navBtn.onclick = function(){
-  $navBtn.classList.toggle('is-active')
-  $navMenu.classList.toggle('open')
-}
+  // Toggle Hamburger menu
+  $navBtn.onclick = function(){
+    $navBtn.classList.toggle('is-active')
+    $navMenu.classList.toggle('open')
+  }
 
-// Close menu when clicking links
-$navLinks.forEach(function($link){
-  $link.addEventListener('click', function(){
-    $navBtn.classList.remove('is-active')
-    $navMenu.classList.remove('open')
+  // Close menu when clicking links
+  $navLinks.forEach(function($link){
+    $link.addEventListener('click', function(){
+      $navBtn.classList.remove('is-active')
+      $navMenu.classList.remove('open')
+    })
   })
-})
+})()
 
 
 /* *** Search *** */
+
 ;(function(){
   var $blogSuche = document.getElementById('blog__suche')
   
@@ -151,5 +163,104 @@ $navLinks.forEach(function($link){
       executeSearch()
     })
   })
-  
+})()
+
+
+/* *** reCaptcha Cookies / Contact Form *** */
+var captchas = []
+
+;(function(){
+  var $captchaScriptContainer = document.getElementById('captcha_script_container'),
+      $cookieCheckInputs      = document.querySelectorAll('.cookie_check--js'),
+      $cookieCheckContainers  = document.querySelectorAll('.cookie_check_container--js'),
+      $captchaContainers      = document.querySelectorAll('.captcha_container--js'),
+      $sendBtns               = document.querySelectorAll('.kontakt__send')
+
+  // Don't run unless necessary elements are present
+  if($cookieCheckInputs.length == 0) return 
+
+  // Methods
+
+  function clearAllCookies(){
+    var cookies = document.cookie.split("; ");
+    for (var c = 0; c < cookies.length; c++) {
+      var d = window.location.hostname.split(".");
+      while (d.length > 0) {
+        var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+        var p = location.pathname.split('/');
+        document.cookie = cookieBase + '/';
+        while (p.length > 0) {
+          document.cookie = cookieBase + p.join('/');
+          p.pop();
+        };
+        d.shift();
+      }
+    }
+  }
+
+  function readCookie(n) {
+    var a = ("; " + document.cookie ).match(";\\s*" + n + "=([^;]+)")
+    return a ? a[1] : ''
+  }
+
+  function _enableSendBtn(){
+    $sendBtns.forEach(function($btn){
+      $btn.disabled = false
+    })
+  }
+  function _disableSendBtn(){
+    $sendBtns.forEach(function($btn){
+      $btn.disabled = true
+    })
+  }
+
+  function _activateRecaptcha(){
+    var recaptchaAgreed = arrayFrom($cookieCheckInputs).some(function($check){
+      return $check.checked
+    })
+    
+    if(recaptchaAgreed){
+      // After the recaptcha script has been inserted and loaded
+      window.recaptchaLoaded = function(){
+        // Activate reCaptcha for all forms
+        $captchaContainers.forEach(function($container){
+          // Add loaded captcha to array.
+          captchas.push(
+            grecaptcha.render($container.id, {
+              'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
+              'callback' : _enableSendBtn,
+              'expired-callback' : _disableSendBtn
+            })
+          )
+        })
+         
+        // Hide all Cookie request checks
+        $cookieCheckContainers.forEach(function($check){
+          $check.style.display = 'none'
+        })
+      }
+      
+      // Insert reCaptcha script
+      var tempScript  = document.createElement('script')
+
+      tempScript.src = "https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded&render=explicit"
+      tempScript.async = true
+      tempScript.defer = true
+
+      $captchaScriptContainer.appendChild(tempScript)
+
+      // Show loading spinner until all is loaded
+      $cookieCheckContainers.forEach(function($check){
+        $check.innerHTML = '<div class="loader"></div>'
+      })
+    }else{
+      clearAllCookies()
+    }
+  }
+
+  // Execution
+  $cookieCheckInputs.forEach(function($check){
+    $check.addEventListener('change', _activateRecaptcha)
+  })
+
 })()
