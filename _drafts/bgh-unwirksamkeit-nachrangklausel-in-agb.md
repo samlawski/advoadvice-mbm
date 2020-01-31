@@ -1,0 +1,14 @@
+---
+_options:
+  layout:
+    hidden: true
+title: 'BGH: Unwirksamkeit Nachrangklausel in AGB'
+date:
+description:
+layout: post
+feature_bild_path:
+tags:
+topics:
+author: dr-sven-tintemann
+---
+
