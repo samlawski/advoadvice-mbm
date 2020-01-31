@@ -13,7 +13,7 @@ author: kim-oliver-klevenhagen
 ---
 
 
-# Die Leitzinserhöhung der Federal Reserve in den USA
+## Die Leitzinserhöhung der Federal Reserve in den USA
 
 Am 15.03.2017 hob die US-amerikanische Notenbank Federal Reserve, kurz Fed, erwartungsgemäß den amerikanischen Leitzins um 0,25 Prozentpunkte auf nunmehr zwischen 0,75 und 1 Prozent an. Diese Erhöhung stellt den dritten Zinsanstieg innerhalb von eineinhalb Jahren dar, nachdem in Folge der Finanzkrise von 2007, die unter anderem auf Grund des Platzens der Immobilienblase in den USA entstand, die Fed eine siebenjährige Nullzinspolitik betrieben hatte. Des Weiteren kündigte die Federal Reserve an, bis 2018 fünf weitere Zinserhöhungen vorzunehmen. Dies unter der Voraussetzung, dass die US-Wirtschaft weiter fluoriert. Laut Notenbankchefin Janet Yellen soll so bis 2019 ein Zinsniveau von 3 Prozent erreicht werden.
 
