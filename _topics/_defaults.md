@@ -15,12 +15,12 @@ intro_link_text:
 intro_link: 
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: 
+    titel: ''
     text_markdown: >-
       
-    image: 
+    image: ''
     cta: true
 redirect_from: 
   - ''
-redirect_to: 
+redirect_to: ''
 ---
