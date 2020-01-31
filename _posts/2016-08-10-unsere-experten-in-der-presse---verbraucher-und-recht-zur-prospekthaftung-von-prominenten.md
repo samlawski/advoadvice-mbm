@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Verbraucher und Recht zur Prospekthaftung von Prominenten
 date: 2016-08-10 00:00:00
 description:

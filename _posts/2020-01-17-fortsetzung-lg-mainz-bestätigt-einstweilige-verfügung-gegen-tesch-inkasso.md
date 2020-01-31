@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Fortsetzung: LG Mainz bestätigt Einstweilige Verfügung gegen Tesch Inkasso'
 date: 2020-01-17 00:00:00
 description: Tesch Inkasso muss Negativeintrag nach einstweiliger Verfügung widerrufen

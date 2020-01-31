@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: LG Berlin verurteilt Deutsche Postbank AG zum Widerruf eines Negativeintrages
 date: 2018-01-04 00:00:00
 description: Deutsche Postbank Ag zum Widerruf eines Schufa Negativeintrags verurteilt

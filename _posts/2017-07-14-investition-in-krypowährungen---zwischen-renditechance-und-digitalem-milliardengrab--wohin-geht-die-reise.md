@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Investition in Krypowährungen - Zwischen Renditechance und  digitalem Milliardengrab. Wohin geht die Reise?
 date: 2017-07-14 12:00:00
 description:

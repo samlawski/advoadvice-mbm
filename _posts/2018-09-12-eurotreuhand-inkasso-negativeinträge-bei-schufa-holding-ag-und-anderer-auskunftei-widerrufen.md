@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Eurotreuhand Inkasso: Negativeinträge bei Schufa Holding AG und anderer
   Auskunftei widerrufen

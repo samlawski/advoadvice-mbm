@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Experten in der Presse: Zitat von Dr. Tintemann in Sachen Deutsche Öl und Gas
   S.A.

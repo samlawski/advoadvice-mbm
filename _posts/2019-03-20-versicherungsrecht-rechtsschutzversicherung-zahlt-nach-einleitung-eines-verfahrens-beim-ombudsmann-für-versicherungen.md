@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Versicherungsrecht: Rechtsschutzversicherung zahlt nach Einleitung eines
   Verfahrens beim Ombudsmann für Versicherungen

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Hanseatische Fußball Kontor GmbH: Vorläufiges Insolvenzverfahren eröffnet'
 date: 2016-07-26 23:00:00
 description:

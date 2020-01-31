@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: AdvoAdvice verstärkt sich mit Rechtsanwalt Martin Mrozek
 date: 2019-11-01 00:00:00
 description: Rechtsanwalt Martin Mrozek verstärkt Kanzlei AdvoAdvice

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'ThomasLloyd: Früher erster Termin vor Landgericht Wiesbaden'
 date: 2019-05-10 00:00:00
 description: 'ThomasLloyd: Landgericht Wiesbaden schickt Ladung zum frühen ersten Termin'

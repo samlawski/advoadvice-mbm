@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BGH weist Nichtzulassungsbeschwerde in Sachen Ultra Sonic zurück
 date: 2018-03-15 00:00:00
 description: BGH weist Nichtzulassungsbescherde gegen Urteil des OLG Stuttgart zurück

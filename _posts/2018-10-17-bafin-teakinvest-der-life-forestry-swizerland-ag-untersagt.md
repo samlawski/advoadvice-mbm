@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BaFin: Teakinvest der Life Forestry Swizerland AG untersagt'
 date: 2018-10-17 00:00:00
 description: BaFin untersagt Teakinvest der Life Forestry Swizerland AG

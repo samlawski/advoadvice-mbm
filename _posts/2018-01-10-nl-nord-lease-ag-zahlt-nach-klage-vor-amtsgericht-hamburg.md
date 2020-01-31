@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: NL Nord Lease AG zahlt nach Klage vor Amtsgericht Hamburg
 date: 2018-01-10 00:00:00
 description: NL Nord Lease zahlt nach Klage vor Amtsgericht Hamburg

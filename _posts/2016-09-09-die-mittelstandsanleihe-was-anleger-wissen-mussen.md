@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Die Mittelstandsanleihe - was Anleger wissen müssen"
 date: 2016-09-09 02:00:00 -0500
 description:

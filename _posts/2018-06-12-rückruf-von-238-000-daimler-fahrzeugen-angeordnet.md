@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Rückruf von 238.000 Daimler Fahrzeugen angeordnet
 date: 2018-06-12 00:00:00
 description: Minister Scheuer ordnet Rückruf von 238.000 Daimer Fahrzeugen an.

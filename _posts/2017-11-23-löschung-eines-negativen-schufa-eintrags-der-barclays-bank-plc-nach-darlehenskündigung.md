@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Löschung eines negativen Schufa Eintrags der Barclays Bank PLC nach
   Darlehenskündigung

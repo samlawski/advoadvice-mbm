@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Erneut SCHUFA-Eintrag der Collectia GmbH gelöscht
 date: 2020-01-22 00:00:00
 description: SCHUFA löscht Negativeintrag der Collectia GmbH

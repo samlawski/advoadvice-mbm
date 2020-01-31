@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Negativeintrag nach fragwürdiger Kündigung - Wieder ein Negativeintrag der
   Barclays Bank PLC gelöscht

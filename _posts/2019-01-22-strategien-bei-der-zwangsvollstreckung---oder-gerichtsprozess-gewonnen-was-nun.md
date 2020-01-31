@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Strategien bei der Zwangsvollstreckung - Oder: Gerichtsprozess gewonnen, was
   nun?

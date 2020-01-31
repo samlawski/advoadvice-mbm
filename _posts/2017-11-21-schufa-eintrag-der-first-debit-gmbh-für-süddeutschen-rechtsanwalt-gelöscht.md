@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag der First Debit GmbH für süddeutschen Rechtsanwalt gelöscht
 date: 2017-11-21 00:00:00
 description: Schufa Eintrag der First Debit GmbH für süddeutschen Rechtsanwalt gelöscht

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: SCHUFA löscht Negativeintrag der TargoBank zu unbekannter Forderung
 date: 2019-05-24 00:00:00
 description: 'Schufa-Recht: Negativeintrag der Targobank gelöscht'

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "BaFin greift durch – zahlreiche Geschäftsmodelle von Abwicklungsverfügungen betroffen"
 date: 2016-08-01 17:00:00 -0500
 description:

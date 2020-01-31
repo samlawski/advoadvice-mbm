@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Insolvenzrecht: Ausländische Insolvenz unterbricht Prozess in Deutschland nach
   § 240 ZPO

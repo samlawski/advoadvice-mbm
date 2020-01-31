@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "BGH für Ersatzansprüche bei griechischen Staatsanleihen nicht zuständig"
 date: 2016-03-17 18:00:00 -0500
 description:

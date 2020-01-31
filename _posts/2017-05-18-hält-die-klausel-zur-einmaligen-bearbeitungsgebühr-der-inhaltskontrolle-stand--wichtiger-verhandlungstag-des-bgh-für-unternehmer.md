@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Hält die Klausel zur einmaligen Bearbeitungsgebühr der Inhaltskontrolle stand? – Wichtiger Verhandlungstag des BGH für Unternehmer
 date: 2017-05-18 00:00:00
 description:

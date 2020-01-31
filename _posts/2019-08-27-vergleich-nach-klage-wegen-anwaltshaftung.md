@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Vergleich nach Klage wegen Anwaltshaftung
 date: 2019-08-27 00:00:00
 description: Vergleich nach Klage gegen ehemaligen Anwalt wegen Anwaltshaftung

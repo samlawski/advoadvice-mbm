@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Sparkasse: Mehrere Entgeltklauseln unwirksam'
 date: 2018-02-16 00:00:00
 description: Sparkasse verdient aufgrund unwirksamer Klauseln diverse Entgelte.

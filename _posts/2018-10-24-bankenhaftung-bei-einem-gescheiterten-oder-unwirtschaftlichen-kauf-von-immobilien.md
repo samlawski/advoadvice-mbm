@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Bankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unberechtigte Forderung der Synergie Inkasso GmbH?
 date: 2017-12-15 00:00:00
 description: >-

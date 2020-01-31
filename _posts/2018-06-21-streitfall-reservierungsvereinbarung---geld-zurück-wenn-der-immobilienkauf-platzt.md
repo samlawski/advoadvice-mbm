@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Streitfall Reservierungsvereinbarung - Geld zurück wenn der Immobilienkauf
   platzt?

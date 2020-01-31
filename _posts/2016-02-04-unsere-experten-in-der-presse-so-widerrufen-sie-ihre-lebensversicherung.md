@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: So widerrufen Sie Ihre Lebensversicherung'
 date: 2016-02-04 12:00:00
 description:

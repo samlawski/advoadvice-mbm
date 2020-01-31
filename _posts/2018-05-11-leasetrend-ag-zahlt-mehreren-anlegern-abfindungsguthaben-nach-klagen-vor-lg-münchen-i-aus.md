@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   LeaseTrend AG zahlt mehreren Anlegern Abfindungsguthaben nach Klagen vor LG
   München I aus

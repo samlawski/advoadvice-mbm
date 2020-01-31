@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: KTG Energie AG - Insolvenz in Eigenverwaltung
 date: 2016-11-03 00:00:00
 description:

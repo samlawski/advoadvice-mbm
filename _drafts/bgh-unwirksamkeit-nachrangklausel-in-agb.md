@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BGH: Unwirksamkeit Nachrangklausel in AGB'
 date:
 description:

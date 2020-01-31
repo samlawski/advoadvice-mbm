@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: PIM Gold GmbH - StA durchsucht Geschäftsräume und stellt Vermögenswerte sicher
 date: 2019-09-06 00:00:00
 description: >-

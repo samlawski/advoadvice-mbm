@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Abwicklungsverfügung gegen AfV Braun e.K.
 date: 2017-05-10 00:00:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Infinus Skandal: Wer bezahlt gemeinsamen Vertreter der FuBus Schuldverschreibungsgläubiger?'
 date: 2017-06-26 00:00:00
 description:

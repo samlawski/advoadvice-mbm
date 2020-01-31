@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Logisfonds: Vergleichsvorschlag zu nunmehr 80% annehmen?'
 date: 2019-01-29 00:00:00
 description: >-

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag der American Express gelöscht
 date: 2018-03-01 00:00:00
 description: >-

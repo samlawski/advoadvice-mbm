@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa löscht Eintrag der Barclays Bank
 date: 2019-02-26 00:00:00
 description: Schufa löscht Negativeintrag nach Überschneidung von Zahlung und Kündigung

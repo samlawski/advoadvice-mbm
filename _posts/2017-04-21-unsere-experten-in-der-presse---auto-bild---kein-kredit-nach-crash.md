@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Auto Bild - Kein Kredit nach Crash
 date: 2017-04-21 00:00:00
 description:

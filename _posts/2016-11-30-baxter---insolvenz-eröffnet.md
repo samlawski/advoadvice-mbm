@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Baxter - Insolvenz eröffnet
 date: 2016-11-30 00:00:00
 description:

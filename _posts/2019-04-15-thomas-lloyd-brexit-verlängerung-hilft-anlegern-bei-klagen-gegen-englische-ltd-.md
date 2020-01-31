@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Thomas Lloyd: Brexit Verlängerung hilft Anlegern bei Klagen gegen englische
   Ltd.

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Dieter Kühn - BaFin Abwicklungsverfügung
 date: 2017-01-04 00:00:00
 description:
