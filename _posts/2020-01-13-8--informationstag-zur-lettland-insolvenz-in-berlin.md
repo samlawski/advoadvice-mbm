@@ -19,8 +19,6 @@ topics:
 author: dr-sven-tintemann
 ---
 
-# 8\. Informationstag zur Lettland Insolvenz am 13.02.2020 in Berlin
-
 Auch im Jahr 2020 setzt die Kanzlei AdvoAdvice aus Berlin die erfolgreiche Zusammenarbeit mit ihren Partnern in Riga weiter fort. Hierzu findet am 13.02.2020 der nunmehr 8. Informationstag zur Lettland Insolvenz in Berlin in der Kanzlei AdvoAdvice statt.
 
 ![](/uploads/bankruptcy-2774830-6401-1.jpg){: width="640" height="480"}
