@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   ClinicAll Germany GmbH - Sorgen der Anleger bestätigt - Schutzschirmverfahren
   gescheitert

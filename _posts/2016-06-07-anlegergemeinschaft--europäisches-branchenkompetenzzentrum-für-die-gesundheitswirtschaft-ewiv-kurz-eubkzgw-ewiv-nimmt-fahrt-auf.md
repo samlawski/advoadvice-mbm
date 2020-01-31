@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Anlegergemeinschaft – „Europäisches Branchenkompetenzzentrum für die Gesundheitswirtschaft EWIV (kurz EUBKZGW EWIV)“ nimmt Fahrt auf
 date: 2016-06-07 23:00:00
 description:

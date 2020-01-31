@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Drohende Insolvenz des Modehauses Wöhrl besorgt Anleger
 date: 2016-09-09 07:00:00
 description:

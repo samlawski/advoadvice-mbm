@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Deutsche Oel & Gas S.A. - Klage gegen Energy Capital Invest Beteiligungs GmbH
   eingereicht

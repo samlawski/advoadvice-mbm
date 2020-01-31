@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa Recht: PNO Inkasso widerruft Negativeintrag'
 date: 2016-12-07 00:00:00
 description:

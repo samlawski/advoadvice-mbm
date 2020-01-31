@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'SCHUFA-Recht: Eintrag aus Schuldnerverzeichnis gelöscht'
 date: 2018-10-15 00:00:00
 description: Negativeintrag aus Schuldnerverzeichnis und SCHUFA gelöscht

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Diesel Skandal - Widerruf von Kfz-Finanzierungen oftmals möglich
 date: 2018-03-02 00:00:00
 description: >-

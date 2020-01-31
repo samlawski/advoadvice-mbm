@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Negativeinträge aus der Sicht des Vermieters'
 date: 2017-02-10 00:00:00
 description:

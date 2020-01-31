@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'EcoConsort: Insolvenzverwalter kündigt zweite Abschlagszahlung an'
 date: 2018-09-10 00:00:00
 description: 'EcoConsort: Zweite Abschlagszahlung durch Insolvenzverwalter angekündigt'

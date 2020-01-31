@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Schufa Holding AG löscht Eintrag der Dohr Inkasso GmbH & Co. KG'
 date: 2017-06-21 00:00:00
 description:

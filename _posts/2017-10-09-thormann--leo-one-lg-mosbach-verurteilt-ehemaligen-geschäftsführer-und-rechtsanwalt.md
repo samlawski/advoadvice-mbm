@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Thormann / Leo One: LG Mosbach verurteilt ehemaligen Geschäftsführer und
   Rechtsanwalt

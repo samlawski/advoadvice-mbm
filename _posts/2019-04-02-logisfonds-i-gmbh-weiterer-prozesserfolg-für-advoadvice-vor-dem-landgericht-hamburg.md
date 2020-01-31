@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Logisfonds I GmbH: Weiterer Prozesserfolg für AdvoAdvice vor dem Landgericht
   Hamburg

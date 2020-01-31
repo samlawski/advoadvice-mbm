@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Berliner Morgenpost - Klagen von Lehman Anlegern
 date: 2017-04-28 00:00:00
 description:

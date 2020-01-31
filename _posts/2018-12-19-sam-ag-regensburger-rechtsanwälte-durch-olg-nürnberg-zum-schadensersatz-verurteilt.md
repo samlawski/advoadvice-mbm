@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   SAM AG: Regensburger Rechtsanwälte durch OLG Nürnberg zum Schadensersatz
   verurteilt

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Der neue Widerrufsjoker - Das erstaunliche Urteil des LG Ravensburg vom
   21.09.2018, AZ 2 O 21/18

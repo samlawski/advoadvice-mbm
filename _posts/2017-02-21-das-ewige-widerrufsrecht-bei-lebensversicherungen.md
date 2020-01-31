@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Das ewige Widerrufsrecht bei Lebensversicherungen
 date: 2017-02-21 00:00:00
 description:

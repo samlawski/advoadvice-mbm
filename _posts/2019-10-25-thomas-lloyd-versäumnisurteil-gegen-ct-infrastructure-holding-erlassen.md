@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Thomas Lloyd: Versäumnisurteil gegen CT Infrastructure Holding erlassen'
 date: 2019-10-25 00:00:00
 description: >-

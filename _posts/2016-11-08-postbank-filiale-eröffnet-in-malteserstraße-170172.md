@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Postbank Filiale eröffnet in Malteserstraße 170/172
 date: 2016-11-08 00:00:00
 description:

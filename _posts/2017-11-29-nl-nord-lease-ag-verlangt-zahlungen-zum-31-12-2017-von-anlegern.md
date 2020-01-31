@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: NL Nord Lease AG verlangt Zahlungen zum 31.12.2017 von Anlegern
 date: 2017-11-29 00:00:00
 description: NL Nord Lease AG fordert Anleger zur Zahlung zum Jahresende auf

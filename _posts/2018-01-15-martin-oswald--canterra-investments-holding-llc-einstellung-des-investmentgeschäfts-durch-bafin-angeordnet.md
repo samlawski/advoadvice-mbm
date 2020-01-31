@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Martin Oswald / CanTerra Investments Holding LLC: Einstellung des
   Investmentgeschäfts durch BaFin angeordnet

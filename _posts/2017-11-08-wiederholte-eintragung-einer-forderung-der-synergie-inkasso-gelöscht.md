@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Wiederholte Eintragung einer Forderung der Synergie Inkasso gelöscht
 date: 2017-11-08 00:00:00
 description: Wiederholte Eintragung der Synergie Inkasso gelöscht

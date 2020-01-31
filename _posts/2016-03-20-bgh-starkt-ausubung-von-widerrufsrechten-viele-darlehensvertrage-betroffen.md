@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "BGH stärkt Ausübung von Widerrufsrechten – Viele Darlehensverträge betroffen  "
 date: 2016-03-20 18:00:00 -0500
 description:

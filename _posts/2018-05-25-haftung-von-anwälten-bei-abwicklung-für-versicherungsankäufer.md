@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Haftung von Anwälten bei Abwicklung für Versicherungsankäufer
 date: 2018-05-25 00:00:00
 description: Haftet ein Anwalt bei Abwicklung von Verträgen für Versicherungsankäufer

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Klagen auf Zahlung gegen LeaseTrend AG eingereicht
 date: 2018-02-14 00:00:00
 description: Klagen gegen LeaseTrend AG beim LG München I eingereicht

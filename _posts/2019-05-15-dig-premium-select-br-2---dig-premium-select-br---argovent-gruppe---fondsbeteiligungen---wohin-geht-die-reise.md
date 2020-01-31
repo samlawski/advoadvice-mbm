@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   DIG Premium Select bR 2 - DIG Premium Select bR - ArgoVent Gruppe -
   Fondsbeteiligungen - Wohin geht die Reise?

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Änderung von AVB oft nicht wirksam
 date: 2017-02-20 00:00:00
 description:

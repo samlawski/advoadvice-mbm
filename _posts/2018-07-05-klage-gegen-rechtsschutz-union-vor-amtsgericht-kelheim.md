@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Klage gegen Rechtsschutz Union vor Amtsgericht Kelheim
 date: 2018-07-05 00:00:00
 description: Klage gegen Rechtsschutz Union vor Amtsgericht eingereicht
