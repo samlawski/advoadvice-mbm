@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Synergie Inkasso: Erneut Negativeintrag durch Schufa gelöscht'
 date: 2018-01-05 00:00:00
 description: >-
   Die Synergie Inkasso widerruft einen negativen Schufa Eintrag zeitglieich zur
   Löschungs-Mitteilung der Schufa Holding AG.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -19,7 +17,7 @@ tags:
   - BDSG
   - Synergie Inkasso GmbH
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

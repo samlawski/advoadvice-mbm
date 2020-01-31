@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Versicherungsrecht: Rechtsschutzversicherung zahlt nach Einleitung eines
   Verfahrens beim Ombudsmann für Versicherungen
 date: 2019-03-20 00:00:00
 description: Rechtsschutzversicherung zahlt nach Einleitung eines Ombudsmannverfahrens
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Versicherung
@@ -26,8 +24,8 @@ tags:
   - Erfolg
   - Dr. Sven Tintemann
 topics:
-  - versicherungsrecht
-  - datenschutz
+  - versicherung
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

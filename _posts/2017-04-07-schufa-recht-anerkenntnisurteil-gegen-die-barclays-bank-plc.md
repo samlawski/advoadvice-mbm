@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Anerkenntnisurteil gegen die Barclays Bank PLC'
 date: 2017-04-07 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa-Eintrag
@@ -29,8 +27,7 @@ tags:
   - Tintemann
   - Advoadvice
 topics:
-  - schufa
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

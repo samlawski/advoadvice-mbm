@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Winfried Kleinhenz: BaFin ordnet Abwicklung des Einlagengeschäfts an'
 date: 2017-10-18 00:00:00
 description: BaFin ordnet Abwicklung von Einlagengeschäft bei Winfried Kleinhenz an.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -18,7 +16,7 @@ tags:
   - AdvoAdvice
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Solarworld AG Insolvenz - Was Anleger der Anleihen jetzt wissen müssen
 date: 2017-05-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz
@@ -27,8 +25,8 @@ tags:
   - ISIN DE000A1YCN14
   - SolarWorld FRN IS. 2014 2019 Serie 1116
 topics:
-  - bank-und-kapitalmarktrecht
-  - insolvenzrecht
+  - bank-und-kapitalmarkt
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

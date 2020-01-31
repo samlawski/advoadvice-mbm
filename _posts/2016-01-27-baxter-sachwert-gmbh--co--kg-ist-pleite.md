@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BAXTER Sachwert GmbH & Co. KG ist pleite'
 date: 2016-01-27 19:39:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Insolvenz AAA Vermögensanlagen GmbH
 date: 2017-01-23 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Insolvenz
@@ -20,7 +18,7 @@ tags:
   - Rechtsanwalt Tobias Hohmann
   - Anmeldung bis zum 23.02.2017
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

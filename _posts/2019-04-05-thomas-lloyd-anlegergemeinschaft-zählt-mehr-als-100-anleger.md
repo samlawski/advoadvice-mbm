@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Thomas Lloyd: Anlegergemeinschaft zählt mehr als 100 Anleger'
 date: 2019-04-05 00:00:00
 description: 'Thomas Lloyd: Erste Klage eingereicht'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegergemeinschaft
@@ -24,7 +22,7 @@ tags:
   - Auszahlung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

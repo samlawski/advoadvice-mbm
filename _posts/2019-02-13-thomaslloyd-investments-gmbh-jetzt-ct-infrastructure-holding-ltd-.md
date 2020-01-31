@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: ThomasLloyd Investments GmbH jetzt CT Infrastructure Holding Ltd.?
 date: 2019-02-13 00:00:00
 description: ThomasLloyd Investments GmbH verschmolzen auf CT Infrastructure Holding Ltd.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -24,7 +22,7 @@ tags:
   - Brexit
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

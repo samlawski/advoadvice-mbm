@@ -1,0 +1,49 @@
+.articles {
+  article {
+    background-size: cover;
+    background-position: center;
+  
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+    h3 { font-weight: 700; }
+  
+    a {
+      border-bottom: 1px solid $clr-transparent-bl-3;
+      
+      background-color: $clr-transparent-wh-8;
+      display: block;
+      height: 100%;
+      width: 100%;
+  
+      padding: 20px;
+  
+      color: $clr-text;
+      text-decoration: none;
+  
+      transition: all $transition-time-1;
+      &:hover {
+        border-color: transparent;
+        box-shadow: $shadow;
+      }
+    }
+  }
+  @media(min-width: $media-md){
+    display: flex;
+    flex-wrap: wrap;
+  
+    article {
+      margin: 20px;
+      flex: 1 0 40%;
+  
+      a {
+        border: none;
+      }
+    }
+  }
+  @media(min-width: $media-lg){
+    article {
+      flex: 1 0 25%;
+    }
+  }
+}

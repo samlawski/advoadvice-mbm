@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Löschung eines negativen Schufa Eintrags der Barclays Bank PLC nach
   Darlehenskündigung
@@ -10,6 +7,7 @@ description: >-
   Schufa löscht negativen Eintrag der Barclays Bank PLC nach fristloser
   Kündigung
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -23,7 +21,7 @@ tags:
   - Kündigung
   - Zahlungsrückstand
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

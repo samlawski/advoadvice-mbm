@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Infinus Skandal: Wer bezahlt gemeinsamen Vertreter der FuBus Schuldverschreibungsgläubiger?'
 date: 2017-06-26 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -29,7 +27,7 @@ tags:
   - Insolvenzverwalter
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

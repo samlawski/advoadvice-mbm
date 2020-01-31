@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Kammergericht verwirft Berufung der Postbank als unzulässig
 date: 2018-06-13 00:00:00
 description: Postbank scheitert mit Berufung beim Kammergericht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufarecht
@@ -25,7 +23,7 @@ tags:
   - VI ZB 48/14
   - VI ZB 75/14
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

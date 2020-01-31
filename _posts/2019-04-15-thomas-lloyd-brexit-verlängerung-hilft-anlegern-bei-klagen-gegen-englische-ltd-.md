@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Thomas Lloyd: Brexit Verlängerung hilft Anlegern bei Klagen gegen englische
   Ltd.
@@ -10,6 +7,7 @@ description: >-
   Thomas Lloyd: Brexit Verschiebung hilft Anlegern bei Klagen gegen englische
   Limited.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Brexit
@@ -30,7 +28,7 @@ tags:
   - Abwertung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

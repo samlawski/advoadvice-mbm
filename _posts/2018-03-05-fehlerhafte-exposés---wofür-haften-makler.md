@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Fehlerhafte Exposés - Wofür haften Makler?
 date: 2018-03-05 00:00:00
 description: Fehlerhafte Exposes - Wofür haftet der Makler?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilienrecht
@@ -24,7 +22,6 @@ tags:
   - Details
 topics:
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

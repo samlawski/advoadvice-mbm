@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Änderung von AVB oft nicht wirksam
 date: 2017-02-20 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Versicherungsrecht
@@ -16,7 +14,7 @@ tags:
   - VVG
   - Versicherungsvertragsgesetz
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

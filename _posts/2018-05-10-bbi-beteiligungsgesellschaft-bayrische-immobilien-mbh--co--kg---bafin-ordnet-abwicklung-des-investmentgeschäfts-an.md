@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   BBI Beteiligungsgesellschaft Bayrische Immobilien mbH & Co. KG - BaFin ordnet
   Abwicklung des Investmentgeschäfts an
@@ -10,6 +7,7 @@ description: >-
   BaFin ordnet Abwicklung des Investmentgeschäfts der BBI
   Beteiligungsgesellschaft an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -27,7 +25,7 @@ tags:
   - KAGB
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

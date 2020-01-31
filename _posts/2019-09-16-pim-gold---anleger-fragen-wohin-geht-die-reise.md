@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 date: 2019-09-16 00:00:00
 description: 'PIM Gold - Anleger fragen: Wohin geht die Reise?'
 layout: post
+style_id: post
 feature_bild_path: /uploads/gold-bars-2467833-1920-1.jpg
 tags:
   - PIM Gold
@@ -19,8 +17,7 @@ tags:
   - Anleger Gold
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - sonstiges
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

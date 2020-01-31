@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Autofinanzierung: Kreditwiderruf bringt Chance für Verbraucher'
 date: 2018-04-09 00:00:00
 description: >-
   Stiftung Warentest berichtet über Möglichkeit des Widerrufs von
   Autofinanzierungen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Widerruf
@@ -21,8 +19,8 @@ tags:
   - Urteile
   - VW Bank
 topics:
-  - bank-und-kapitalmarktrecht
-  - widerruf-verbraucherdarlehen
+  - bank-und-kapitalmarkt
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 

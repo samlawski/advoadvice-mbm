@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schluss mit lustig - FUNVESTMENT erhält Abwicklungsverfügung der BaFin
 date: 2017-12-04 00:00:00
 description: Funvestments erhält Abwicklungsverfügung der BaFin
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -26,7 +24,7 @@ tags:
   - Einlagengeschäft
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

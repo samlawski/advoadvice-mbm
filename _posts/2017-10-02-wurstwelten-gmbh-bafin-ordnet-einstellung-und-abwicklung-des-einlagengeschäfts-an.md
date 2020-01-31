@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Wurstwelten GmbH: BaFin ordnet Einstellung und Abwicklung des
   Einlagengeschäfts an
 date: 2017-10-02 00:00:00
 description: 'Wurstwelten GmbH: Einstellung und Abwicklung des Einlagengeschäfts angeordnet'
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformationen
@@ -20,7 +18,7 @@ tags:
   - Kreditwesengesetz
   - KWG
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: dr-sven-tintemann
 ---

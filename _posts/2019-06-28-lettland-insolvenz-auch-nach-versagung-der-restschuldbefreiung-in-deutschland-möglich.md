@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Lettland Insolvenz: Auch nach Versagung der Restschuldbefreiung in Deutschland
   möglich
@@ -10,6 +7,7 @@ description: >-
   Lettland Insolvenz kann auch nach Versagung der Restschuldbefreiung in
   Deutschland durchgeführt werden
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Lettland
@@ -23,7 +21,7 @@ tags:
   - Insolvenzverwalter
   - AdvoAdvice
 topics:
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

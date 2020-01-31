@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Stefan Frieß jetzt als Stefan Frieb in Dubai beratend unterwegs?
 date: 2018-01-26 00:00:00
 description: Lebt Stefan Frieß jetzt als Stefan Frieb in Dubai?
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerinformation
@@ -18,7 +16,7 @@ tags:
   - Anleger
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

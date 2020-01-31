@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
@@ -10,6 +7,7 @@ description: >-
   Risiko Anschlussfinanzierung - Steigende Zinsen bei Finanzierung von
   Immobilien
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Baufinanzierung
@@ -30,7 +28,7 @@ tags:
   - Tilgung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 

@@ -2,38 +2,91 @@
 layout: default
 ---
 
-{% include front_nav.html %}
+<header style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.7)), url('{{page.header_image}}')">
+  <div class="h-container">
+    <h1>{{page.header_titel}}</h1>
+  </div>
+</header>
 
-<main class="container">
-  <div class="row">
-    <section class="col-md-8 col-lg-9 margin-tb-20">
-      <div>
-        <h1 class="padding-20">
-          {{page.title}}
-        </h1>
-        <div class="padding-20">
-          {% if page.cta_link and page.cta_link_text %}
-            <div class="topicCta__box text-center">
-              <p>{{page.cta_titel}}</p>
-              <a href="{{page.cta_link}}">{{page.cta_link_text}}</a>
-            </div>
-          {% endif %}
+<main>
+  <div class="h-container">
+    <nav>
+      <ul>
+        {% for abschnitt in page.abschnitte %}
+          <li><a href="#{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 
-          <div class="topic__body">
-            {{ content }}
+  {% assign erfolge_size = page.erfolge | size %}
+  {% if erfolge_size > 0 %}
+    <section class="erfolge h-container">
+      <p class="h6">Erfolge</p>
+
+      <div class="erfolge__boxen">
+        {% for erfolg in page.erfolge %}
+          <div>
+            <span class="h1">{{erfolg.zahl}}</span>
+            <br>
+            <span>{{erfolg.text}}</span>
           </div>
-
-          {% if page.cta_link and page.cta_link_text %}
-            <div class="topicCta__box text-center">
-              <p>{{page.cta_titel}}</p>
-              <a href="{{page.cta_link}}">{{page.cta_link_text}}</a>
-            </div>
-          {% endif %}
-        </div><!-- post.body -->
+        {% endfor %}
       </div>
     </section>
+  {% endif %}
 
-    <!-- SIDEBAR -->
-    {% include sidebar.html %}
-  </div><!-- row -->
+  <section class="intro h-container">
+    {% if page.intro_titel %}
+      <p class="h5">{{page.intro_titel}}</p>
+    {% endif %}
+    {% if page.intro_text_markdown %}
+      <div>{{page.intro_text_markdown | markdownify}}</div>
+    {% endif %}
+
+    {% if page.intro_link %}
+      <a class="button button--cta" href="{{page.intro_link}}">{{page.intro_link_text}}</a>
+    {% endif %}
+  </section>
+
+
+  <section class="abschnitte">
+    {% for abschnitt in page.abschnitte %}
+      <div class="abschnitt {{abschnitt.abschnitt_template}} {% if abschnitt.image %}{% else %}abschnitt--noimage{% endif %}">
+        <article>
+          <h2 class="abschnitt__header" id="{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</h2>
+          {% if abschnitt.image %}
+            <div class="abschnitt__img" style="background-image: url('{{abschnitt.image}}')"></div>
+          {% endif %}
+          <div class="abschnitt__text">
+            <div>{{abschnitt.text_markdown | markdownify}}</div>
+
+            {% if abschnitt.cta %}
+              <a class="abschnitt__cta button" href="#kontakt">Kostenlos Gespräch vereinbaren</a>
+            {% endif %}
+          </div>
+        </article>
+      </div>
+    {% endfor %}
+  </section>
+
+  {% capture topic_path %}{{page.path | replace: '.md', '' | replace: '_topics/', ''}}{% endcapture %}
+  {% assign topic_posts = site.posts | where_exp:"post", "post.topics contains topic_path" %}
+  {% assign topic_posts_size = topic_posts | size %}
+
+  {% if topic_posts_size > 0 %}
+    <section class="h-container">
+      <h2 class="h-center h6 editable">Artikel zum Thema</h2>
+
+      <div class="articles">
+        {% for article in topic_posts limit: 3 %}
+          {% include article.html article=article %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+
+  <!-- <section style="display: none">
+    <h2>Formulare zum Thema</h2>
+  </section> -->
 </main>

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Klage gegen Butlers vor LG Köln eingereicht
 date: 2018-06-27 00:00:00
 description: Klage vor LG Köln wegen Butlers Genussrechten eingereicht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherinformation
@@ -18,7 +16,7 @@ tags:
   - Einlagengeschäft
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Einträge von Santander Consumer Bank und Telekom Deutschland gelöscht
 date: 2018-03-07 00:00:00
 description: >-
   AdvoAdvice erzielt Löschung von zwei Negativeinträgen der Santander Consumer
   Bank und Telekom Deutschland GmbH
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -20,7 +18,7 @@ tags:
   - Telekom Deutschland GmbH
   - Santander Consumer Bank AG
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

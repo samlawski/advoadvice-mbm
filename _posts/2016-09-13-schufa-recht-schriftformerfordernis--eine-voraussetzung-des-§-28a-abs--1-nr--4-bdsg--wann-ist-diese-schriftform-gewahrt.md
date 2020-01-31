@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Schriftformerfordernis – Eine Voraussetzung des  § 28a Abs. 1 Nr. 4 BDSG – Wann ist diese Schriftform gewahrt?'
 date: 2016-09-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa Eintrag

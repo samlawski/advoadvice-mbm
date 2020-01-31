@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Verjährungs-Joker: Rückforderung bei Anlegern in der KG unter Umständen
   verjährt
 date:
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags: []
 topics: []

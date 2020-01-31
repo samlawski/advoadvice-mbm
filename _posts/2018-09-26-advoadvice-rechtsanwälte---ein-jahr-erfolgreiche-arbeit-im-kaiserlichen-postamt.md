@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   AdvoAdvice Rechtsanwälte - Ein Jahr erfolgreiche Arbeit im Kaiserlichen
   Postamt
@@ -10,6 +7,7 @@ description: >-
   AdvoAdvice Rechtsanwälte - Ein Jahr erfolgreiche Arbeit im Kaiserlichen
   Postamt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - AdovAdvice
@@ -19,12 +17,12 @@ tags:
   - Tintemann
   - Rechtsanwälte
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
-  - immobilienrecht
-  - datenschutz
-  - versicherungsrecht
-  - bewertung-löschen
+  - immobilien
+  - schufa-und-datenschutz
+  - versicherung
+  - suchergebnisse-und-bewertungen-loeschen
 author: kim-oliver-klevenhagen
 ---
 
