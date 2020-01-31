@@ -1,7 +1,7 @@
 ---
 name: Dr. Sven Tintemann
 titel: Gr&uuml;ndungspartner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
-portrait_path: /uploads/sven-portrait-klein.jpg
+portrait_path: /uploads/0-layout/portrait-tintemann-1.jpg
 email: tintemann@advoadvice.de
 themes:
   - titel: Versicherungsrecht
