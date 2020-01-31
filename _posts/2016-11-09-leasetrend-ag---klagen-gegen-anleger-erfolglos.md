@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Leasetrend AG - Klagen gegen Anleger erfolglos
 date: 2016-11-09 00:00:00
 description:

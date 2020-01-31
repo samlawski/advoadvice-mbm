@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Novum Consult GmbH - Zustellung unmöglich?
 date: 2015-12-19 13:14:00
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Butlers Insolvenz - Sanierung erfolgreich - Anleger in Genussrechte gehen leer
   aus

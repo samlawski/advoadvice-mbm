@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unternehmerdarlehen - Bearbeitungsgebühren unwirksam
 date: 2017-07-18 12:00:00
 description:

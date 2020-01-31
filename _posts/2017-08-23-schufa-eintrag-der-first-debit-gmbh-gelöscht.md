@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag der First Debit GmbH gelöscht
 date: 2017-08-23 00:00:00
 description: Schufa Negativeintrag der First Debi GmbH gelöscht

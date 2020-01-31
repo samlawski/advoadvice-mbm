@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Chefarztbehandlung nur vom Chefarzt!"
 date: 2016-08-30 09:00:00 -0500
 description:

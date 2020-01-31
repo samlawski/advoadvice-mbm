@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   MoreMedia GmbH (ehemals Oberle Geothermik) nimmt Versäumnisurteil vor
   Landgericht Berlin

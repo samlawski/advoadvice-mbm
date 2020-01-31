@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Eberhard Gugler: Abwicklung des Einlagengeschäfts durch BaFin angeordnet'
 date: 2018-02-19 00:00:00
 description: BaFin ordnet Abwicklung des Einlagengeschäfts an

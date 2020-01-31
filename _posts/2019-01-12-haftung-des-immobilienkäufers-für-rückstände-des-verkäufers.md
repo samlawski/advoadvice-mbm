@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Haftung des Immobilienkäufers für Rückstände des Verkäufers?
 date: 2019-01-12 00:00:00
 description: Haftung des Immobilienkäufers für Rückstände des Verkäufers

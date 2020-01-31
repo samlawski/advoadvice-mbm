@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Buchempfehlung: Die große Fondslüge von Michael Ritzau'
 date: 2017-01-13 00:00:00
 description:

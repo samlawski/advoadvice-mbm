@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: |-
   Heidelberger Leben: MLP balanced Invest Verträge
   mit komplzierter Abschlusskostenregelung

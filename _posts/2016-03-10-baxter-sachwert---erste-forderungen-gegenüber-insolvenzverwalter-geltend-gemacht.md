@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Baxter Sachwert - erste Forderungen gegenüber Insolvenzverwalter geltend gemacht
 date: 2016-03-10 23:00:00
 description:

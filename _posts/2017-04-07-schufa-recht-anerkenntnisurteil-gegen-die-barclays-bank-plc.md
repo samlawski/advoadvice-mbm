@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Anerkenntnisurteil gegen die Barclays Bank PLC'
 date: 2017-04-07 00:00:00
 description:

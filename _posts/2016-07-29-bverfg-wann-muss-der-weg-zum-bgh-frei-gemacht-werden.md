@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "BVerfG: Wann muss der Weg zum BGH frei gemacht werden?"
 date: 2016-07-29 07:00:00 -0500
 description:

@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Lettland Insolvenz: Auch nach Versagung der Restschuldbefreiung in Deutschland
   möglich

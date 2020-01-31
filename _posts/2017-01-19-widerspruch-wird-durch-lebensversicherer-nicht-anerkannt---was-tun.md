@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Widerspruch wird durch Lebensversicherer nicht anerkannt - Was tun?
 date: 2017-01-19 00:00:00
 description:

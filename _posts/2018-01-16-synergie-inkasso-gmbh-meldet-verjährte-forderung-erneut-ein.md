@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Synergie Inkasso GmbH meldet verjährte Forderung erneut ein
 date: 2018-01-16 00:00:00
 description: Synergie Inkasso GmbH hat eine verjährte Forderung bei der Schufa eingemeldet

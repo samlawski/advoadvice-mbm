@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Good Bank Filiale in Berlin eröffnet
 date: 2017-04-06 00:00:00
 description:

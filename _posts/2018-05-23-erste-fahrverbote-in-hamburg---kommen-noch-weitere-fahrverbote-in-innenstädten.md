@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Erste Fahrverbote in Hamburg - kommen noch weitere Fahrverbote in
   Innenstädten?

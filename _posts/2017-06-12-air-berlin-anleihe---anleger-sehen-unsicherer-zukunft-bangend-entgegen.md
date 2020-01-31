@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Air Berlin Anleihe - Anleger sehen unsicherer Zukunft bangend entgegen
 date: 2017-06-12 00:00:00
 description:

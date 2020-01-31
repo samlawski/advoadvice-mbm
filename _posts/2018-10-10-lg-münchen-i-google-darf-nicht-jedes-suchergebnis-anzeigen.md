@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'LG München I: Google darf nicht jedes Suchergebnis anzeigen'
 date: 2018-10-10 00:00:00
 description: Google muss Suchergebnis nach einstweiliger Verfügung löschen

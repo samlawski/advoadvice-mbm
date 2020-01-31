@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Policenmodell: Unbegrenztes Widerrufsrecht bei alten Versicherungsverträgen?'
 date: 2017-05-15 00:00:00
 description:

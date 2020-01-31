@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Amtsgericht Kelheim verurteilt Rechtsschutz Union zur Übernahme von
   Deckungsschutz

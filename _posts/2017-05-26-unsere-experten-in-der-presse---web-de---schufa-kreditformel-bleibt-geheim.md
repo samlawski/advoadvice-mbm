@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Web.de - Schufa Kreditformel bleibt geheim
 date: 2017-05-26 00:00:00
 description:

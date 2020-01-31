@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'AdvoAdvice Rechtsanwälte mbB zur aktuellen Entwicklung IFMC –Group GmbH '
 date: '2016-06-03 04:00:00 -0500'
 description:

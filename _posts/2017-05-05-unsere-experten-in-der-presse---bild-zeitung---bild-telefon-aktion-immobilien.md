@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - BILD Zeitung - Bild-Telefon-Aktion Immobilien
 date: 2017-05-05 00:00:00
 description:

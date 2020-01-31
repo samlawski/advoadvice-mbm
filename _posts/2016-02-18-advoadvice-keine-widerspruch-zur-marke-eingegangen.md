@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "AdvoAdvice - keine Widerspruch zur Marke eingegangen"
 date: 2016-02-18 17:00:00 -0600
 description:

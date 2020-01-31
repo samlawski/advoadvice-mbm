@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Autofinanzierung: Kreditwiderruf bringt Chance für Verbraucher'
 date: 2018-04-09 00:00:00
 description: >-

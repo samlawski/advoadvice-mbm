@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "„Ewiges Widerrufsrecht“ – AachenMünchener scheitert mit Verfassungsbeschwerde"
 date: 2016-07-29 02:00:00 -0500
 description:

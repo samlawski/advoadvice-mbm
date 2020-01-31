@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: Steuerfreiheit von Auszahlungen bei Widerruf von Lebensversicherungen'
 date: 2017-06-16 00:00:00
 description:

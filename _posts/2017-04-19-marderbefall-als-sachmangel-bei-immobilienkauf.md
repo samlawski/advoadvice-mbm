@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Marderbefall als Sachmangel bei Immobilienkauf
 date: 2017-04-19 00:00:00
 description:

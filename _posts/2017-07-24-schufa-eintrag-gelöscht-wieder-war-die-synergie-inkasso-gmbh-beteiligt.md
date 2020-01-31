@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa Eintrag gelöscht: Wieder war die Synergie Inkasso GmbH beteiligt'
 date: 2017-07-24 00:00:00
 description:

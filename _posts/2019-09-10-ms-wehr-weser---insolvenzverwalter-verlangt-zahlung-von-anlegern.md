@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: MS Wehr Weser - Insolvenzverwalter verlangt Zahlung von Anlegern
 date: 2019-09-10 00:00:00
 description: >-

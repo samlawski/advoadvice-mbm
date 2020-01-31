@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Unsere Experten in der Presse: Interview mit Web.de zu Schufa und
   Negativeinträgen

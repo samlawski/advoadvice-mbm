@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'SAM AG: Freiheitsstrafen für Verwaltungsrat und Direktoren'
 date: 2019-03-07 00:00:00
 description: LG München verurteilt Hintermänner der SAM AG zu Freiheitsstrafen

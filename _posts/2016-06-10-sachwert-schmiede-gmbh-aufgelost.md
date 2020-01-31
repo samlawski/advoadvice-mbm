@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Sachwert-Schmiede GmbH aufgelöst!"
 date: 2016-06-10 09:00:00 -0500
 description:

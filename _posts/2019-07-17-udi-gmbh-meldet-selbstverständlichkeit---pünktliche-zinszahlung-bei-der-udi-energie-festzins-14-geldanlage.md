@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   UDI GmbH meldet Selbstverständlichkeit - Pünktliche  Zinszahlung bei der UDI
   Energie FESTZINS 14 Geldanlage
