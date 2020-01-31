@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: MS Wehr Weser - Insolvenzverwalter verlangt Zahlung von Anlegern
 date: 2019-09-10 00:00:00
 description: >-
   Insolvenzverwalter der MS Wehr Weser Schiffahrtsgesellschaft fordert Zahlung
   von Anlegern
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - MS Wehr Weser
@@ -23,8 +21,8 @@ tags:
   - Kapitalertragssteuer
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
-  - insolvenzrecht
+  - bank-und-kapitalmarkt
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

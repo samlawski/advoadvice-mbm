@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Bankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien
@@ -10,6 +7,7 @@ description: >-
   ankenhaftung bei einem gescheiterten oder unwirtschaftlichen Kauf von
   Immobilien
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schrottimmobilie
@@ -23,10 +21,9 @@ tags:
   - Haftung der Bank
   - Rückabwicklung
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
   - anlegerschutz
-  - sonstiges
 author: kim-oliver-klevenhagen
 ---
 

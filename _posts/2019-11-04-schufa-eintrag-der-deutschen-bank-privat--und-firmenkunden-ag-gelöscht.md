@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: SCHUFA-Eintrag der Deutschen Bank Privat- und Firmenkunden AG gelöscht
 date: 2019-11-04 00:00:00
 description: SCHUFA löscht Negativeintrag der Deutschen Bank
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -19,7 +17,7 @@ tags:
   - Deutsche Postbank AG
   - Bareinzahlung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

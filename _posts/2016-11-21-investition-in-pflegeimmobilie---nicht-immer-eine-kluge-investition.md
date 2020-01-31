@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Investition in Pflegeimmobilie - nicht immer eine kluge Investition
 date: 2016-11-21 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Verbraucherinformation

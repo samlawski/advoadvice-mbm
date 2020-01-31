@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Unsere Experten in der Presse: So widerrufen Sie Ihre Lebensversicherung'
 date: 2016-02-04 12:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/bild-logo.png
 tags:
   - Experten
@@ -20,7 +18,7 @@ tags:
   - Rechtsanwalt
 topics:
   - medien
-  - versicherungsrecht
+  - versicherung
 author: kim-oliver-klevenhagen
 ---
 

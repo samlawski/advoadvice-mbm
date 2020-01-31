@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Haftung des Notars bei sogenannten „Schrottimmobilien" - wenn der Notar ins
   Fadenkreuz gerät
@@ -10,6 +7,7 @@ description: >-
   Haftung Des Notars Bei Sogenannten Schrottimmobilien Wenn der Notar Ins
   Fadenkreuz Gerät
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Immobilie
@@ -23,8 +21,8 @@ tags:
   - Falschberatung
   - Beurkundung
 topics:
-  - bank-und-kapitalmarktrecht
-  - immobilienrecht
+  - bank-und-kapitalmarkt
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 

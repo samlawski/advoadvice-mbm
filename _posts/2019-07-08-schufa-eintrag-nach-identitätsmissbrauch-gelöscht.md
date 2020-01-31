@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa Eintrag nach Identitätsmissbrauch gelöscht
 date: 2019-07-08 00:00:00
 description: Schnelle Schufa-Löschung nach Identitätsdiebstahl erreicht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Recht
@@ -22,7 +20,7 @@ tags:
   - AdvoAdvice
   - Dr. Sven Tintemann
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

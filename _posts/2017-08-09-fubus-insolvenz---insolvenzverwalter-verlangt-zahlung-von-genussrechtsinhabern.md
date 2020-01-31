@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: FuBus Insolvenz - Insolvenzverwalter verlangt Zahlung von Genussrechtsinhabern
 date: 2017-08-09 00:00:00
 description: Insolvenzverwalter der FuBus KGaA fordert Zahlung von Genussrechtsinhabern
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Verbraucherschutz
@@ -24,7 +22,7 @@ tags:
   - Entreicherung
   - Luxusaufwendungen
 topics:
-  - insolvenzrecht
+  - insolvenz
   - anlegerschutz
 author: dr-sven-tintemann
 ---

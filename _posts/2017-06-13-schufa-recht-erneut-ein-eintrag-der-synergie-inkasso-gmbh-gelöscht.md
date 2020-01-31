@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Erneut ein Eintrag der Synergie Inkasso GmbH gelöscht'
 date: 2017-06-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -20,7 +18,7 @@ tags:
   - Mahnbescheid
   - Widerspruch
 topics:
-  - schufa
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

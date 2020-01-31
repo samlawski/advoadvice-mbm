@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: BGH zu Klausel bei Berufungsunfähigkeitsversicherung
 date: 2017-03-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Versicherungsrecht
@@ -27,7 +25,7 @@ tags:
   - Erwerbungsunfähigkeit
   - durchschnittlicher Versicherungsnehmer
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

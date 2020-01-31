@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: LG Hamburg erlässt einstweilige Verfügung gegen Barclays Bank PLC
 date: 2018-02-22 00:00:00
 description: Einstweilige Verfügung gegen Barclays Bank PLC durch LG Hamburg erlassen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -20,7 +18,7 @@ tags:
   - BDSG
   - Einstweilige Verfügung
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

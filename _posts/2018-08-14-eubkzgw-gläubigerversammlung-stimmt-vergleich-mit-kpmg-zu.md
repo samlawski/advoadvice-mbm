@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'EUBKZGW: Gläubigerversammlung stimmt Vergleich mit KPMG zu'
 date: 2018-08-14 00:00:00
 description: >-
   Gläubigerversammlung der EUBKZGW EWIV stimmt Vergleichsvorschlag des
   Insolvenzverwalters zu.
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Insolvenz
@@ -25,7 +23,7 @@ tags:
   - Schaden
 topics:
   - anlegerschutz
-  - insolvenzrecht
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

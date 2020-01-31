@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Unsere Experten in der Presse - Verbraucher und Recht zur Prospekthaftung von Prominenten
 date: 2016-08-10 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: /uploads/vur.png
 tags:
   - Experten
@@ -28,7 +26,7 @@ tags:
 topics:
   - medien
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

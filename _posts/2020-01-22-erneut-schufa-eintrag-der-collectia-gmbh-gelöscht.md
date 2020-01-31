@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Erneut SCHUFA-Eintrag der Collectia GmbH gelöscht
 date: 2020-01-22 00:00:00
 description: SCHUFA löscht Negativeintrag der Collectia GmbH
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa Eintrag
@@ -20,7 +18,7 @@ tags:
   - FitX
   - FitX Deutschland GmbH
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

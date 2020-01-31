@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Experten in der Presse: Zitat von Dr. Tintemann in Sachen Deutsche Öl und Gas
   S.A.
 date: 2019-09-02 00:00:00
 description: Dr. Sven Tintemann in Zeitschrift Capital - Ausgabe September 2019
 layout: post
+style_id: post
 feature_bild_path: /uploads/capital-logo.jpg
 tags:
   - Deutsche Öl und Gas S.A.

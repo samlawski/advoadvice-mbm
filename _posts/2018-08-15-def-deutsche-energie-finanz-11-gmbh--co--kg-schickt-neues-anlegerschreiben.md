@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: DEF Deutsche Energie Finanz 11 GmbH & Co. KG schickt neues Anlegerschreiben
 date: 2018-08-15 00:00:00
 description: >-
   DEF Deutsche Energie Finanz 11 GmbH & Co. KG kann Immobilie nicht insgesamt
   verkaufen
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -23,7 +21,7 @@ tags:
   - Insolvenzantrag
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

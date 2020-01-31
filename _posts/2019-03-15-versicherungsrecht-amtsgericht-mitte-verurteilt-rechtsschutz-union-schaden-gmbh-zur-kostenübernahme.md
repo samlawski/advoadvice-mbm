@@ -1,13 +1,11 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   Versicherungsrecht: Amtsgericht Mitte verurteilt Rechtsschutz Union Schaden
   GmbH zur Kostenübernahme
 date: 2019-03-15 00:00:00
 description: Rechtsschutz Union zur Kostenübernahme nach Deckungsschutzklage verurteilt
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Amtsgericht Mitte
@@ -21,7 +19,7 @@ tags:
   - Versicherungsrecht
   - Rechtsschutzversicherung
 topics:
-  - versicherungsrecht
+  - versicherung
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Schufa-Recht: Wenn die Postbank zweimal einträgt - AdvoAdvice hilft schnell bei Löschung von Negativeintrag'
 date: 2016-04-06 12:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - Schufa-Eintrag

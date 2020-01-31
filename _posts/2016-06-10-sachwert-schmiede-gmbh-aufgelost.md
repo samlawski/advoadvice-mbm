@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: "Sachwert-Schmiede GmbH aufgelöst!"
 date: 2016-06-10 09:00:00 -0500
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags: ["Sachwert-Schmiede GmbH", "AG Mannheim", "BaFin", "Auflösung", "Anleger", "Bank- und Kapitalmarktrecht", "Insolvenzverfahren", "AdvoAdvice Partnerschaft von Rechtsanwälten mbB"]
 topics: []

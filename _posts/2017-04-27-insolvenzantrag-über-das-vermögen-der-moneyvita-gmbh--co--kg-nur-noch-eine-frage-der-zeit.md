@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Insolvenzantrag über das Vermögen der MoneyVita GmbH & Co. KG nur noch eine Frage der Zeit?'
 date: 2017-04-27 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -23,7 +21,7 @@ tags:
   - IX ZB 282/09
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

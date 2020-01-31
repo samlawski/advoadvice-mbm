@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: AdvoAdvice - Bilanz nach einem Jahr
 date: 2017-01-02 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path: ""
 tags:
   - AdvoAdvice
@@ -15,8 +13,7 @@ tags:
   - Monatsübersicht
   - Pressemitteilungen
   - Best of
-topics:
-  - sonstiges
+topics: []
 author: dr-sven-tintemann
 ---
 

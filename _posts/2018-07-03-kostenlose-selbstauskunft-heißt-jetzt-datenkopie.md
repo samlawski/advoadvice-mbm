@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Kostenlose Selbstauskunft heißt jetzt Datenkopie
 date: 2018-07-03 00:00:00
 description: Die neue Datenkopie der SCHUFA
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Recht
@@ -18,7 +16,7 @@ tags:
   - § 34 BDSG
   - Art. 15 DSGVO
 topics:
-  - datenschutz
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 

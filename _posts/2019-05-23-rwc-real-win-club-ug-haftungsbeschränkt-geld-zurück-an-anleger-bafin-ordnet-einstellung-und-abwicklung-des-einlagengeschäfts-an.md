@@ -1,7 +1,4 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: >-
   RWC Real Win Club UG (haftungsbeschränkt): Geld zurück an Anleger? BaFin
   ordnet Einstellung und Abwicklung des Einlagengeschäfts an
@@ -10,6 +7,7 @@ description: >-
   RWC Real Win Club UG (haftungsbeschränkt): BaFin ordnet Einstellung und
   Abwicklung des Einlagengeschäfts an
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - RWC UG
@@ -26,7 +24,7 @@ tags:
   - Einlagengeschäft
   - Rücktzahlung Einlagen
 topics:
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---

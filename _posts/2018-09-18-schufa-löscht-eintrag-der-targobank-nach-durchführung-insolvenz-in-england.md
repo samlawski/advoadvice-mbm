@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: Schufa löscht Eintrag der Targobank nach Durchführung Insolvenz in England
 date: 2018-09-18 00:00:00
 description: Schufa Eintrag nach Restschuldbefreiung in England gelöscht
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Schufa-Eintrag
@@ -20,8 +18,8 @@ tags:
   - BDSG
   - Targobank
 topics:
-  - datenschutz
-  - insolvenzrecht
+  - schufa-und-datenschutz
+  - insolvenz
 author: dr-sven-tintemann
 ---
 

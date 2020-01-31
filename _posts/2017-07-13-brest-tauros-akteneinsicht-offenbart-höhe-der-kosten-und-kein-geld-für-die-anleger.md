@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'Brest Tauros: Akteneinsicht offenbart Höhe der Kosten und kein Geld für die Anleger'
 date: 2017-07-13 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -17,7 +15,7 @@ tags:
   - Schadensersatz
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'BaFin: Teakinvest der Life Forestry Swizerland AG untersagt'
 date: 2018-10-17 00:00:00
 description: BaFin untersagt Teakinvest der Life Forestry Swizerland AG
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - BaFin
@@ -20,7 +18,7 @@ tags:
   - Investment
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

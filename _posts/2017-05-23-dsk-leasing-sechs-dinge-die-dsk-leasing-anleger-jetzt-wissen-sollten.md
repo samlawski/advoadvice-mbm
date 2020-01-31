@@ -1,11 +1,9 @@
 ---
-_options:
-  layout:
-    hidden: true
 title: 'DSK Leasing: Sechs Dinge, die DSK Leasing Anleger jetzt wissen sollten'
 date: 2017-05-23 00:00:00
 description:
 layout: post
+style_id: post
 feature_bild_path:
 tags:
   - Anlegerschutz
@@ -28,7 +26,7 @@ tags:
   - Nachhaftung
 topics:
   - anlegerschutz
-  - bank-und-kapitalmarktrecht
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 

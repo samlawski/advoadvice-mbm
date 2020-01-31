@@ -1,0 +1,22 @@
+<form class="kontakt_{{ include.id }}" name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify></form>
+  <div class="kontakt__inputs">
+    <input type="text" name="name" placeholder="Ihr Name* ..." required>
+    <input type="email" name="email" placeholder="Ihre Email* ..." required>
+    <input type="tel" name="tel" placeholder="Ihre Telefonnummer ...">
+  </div>
+  
+  <textarea name="anliegen" placeholder="Ihr Anliegen ..." rows="3"></textarea>
+
+  <label for="gdpr_check_{{ include.id }}">
+    <input type="checkbox" name="gdpr_check" id="gdpr_check_{{ include.id }}" required>
+    <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
+  </label>
+  <label class="cookie_check_container--js" id="cookie_check_container_{{ include.id }}" for="cookie_check_{{ include.id }}">
+    <input class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_{{ include.id }}" required>
+    <small class="editable">&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
+  </label>
+
+  <div class="captcha_container--js" id="captcha_container_{{ include.id }}"></div>
+
+  <input class="kontakt__send" type="submit" value="Anfrage senden" disabled>
+</form>
