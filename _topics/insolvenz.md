@@ -8,16 +8,22 @@ header_image: /uploads/theme-insolvenz1.jpg
 erfolge: []
 intro_titel:
 intro_text_markdown: >-
-  Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
+      Durch hohe Schulden und Firmenpleiten werden Selbst&auml;ndige und Verbraucher gleichermassen betroffen. Lagen kurz nach Einf&uuml;hrung der neuen Insolvenzordnung im Jahr 2002 noch 20.000 Verbraucherinsolvenzantr&auml;ge vor, so ist diese Zahl in Deutschland erstmals in 2007 auf 100.000 Antr&auml;ge gestiegen. Nachdem die Zahl der Insolvenzverfahren in den Folgejahren leicht weiter gestiegen ist, &nbsp;ist eine Tendenz von ca. 100.000 Antr&auml;gen pro Jahr auch in Zeiten guter Konjuktur feststellbar.
 
 
-  Um der erdr&uuml;ckenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des Schuldenbergs ein Ende zu setzen.
+      Um der erdr&uuml;ckenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des Schuldenbergs ein Ende zu setzen.
 
 
-  Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende m&uuml;ssen das Regelinsolvenzverfahren durchlaufen.
+      Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende m&uuml;ssen das Regelinsolvenzverfahren durchlaufen.
 intro_link_text: 
 intro_link: 
 abschnitte:
+  - abschnitt_template: banner_bild_rechts
+    titel: Insolvenz in Lettland
+    text_markdown: >-
+      Nutzen Sie die Möglichkeiten der EU-Insolvenz in Lettland. Hierdurch gelangen Sie zu einer schnelleren Restschuldbefreiung und entgehen der Zwangsvollstreckung in Deutschland. Wir beraten Sie zu den rechtlichen Begebenheiten, unterstützen Sie bei Ihrem Wohnsitzwechsel und der Ansiedlung sowie Jobsuche in Lettland durch unsere lokalen Partner in Riga (Lettland) und bringen Sie sicher bis zur Insolvenzeröffnung und zur Restschuldbefreiung sowie deren Anerkennung und Umsetzung in Deutschland.
+    image: /uploads/latvia-1758828-640.png
+    cta: true
   - abschnitt_template: box_hell
     titel: Verbraucherinsolvenz
     text_markdown: >-
