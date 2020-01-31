@@ -95,6 +95,9 @@ clearAllCookies()
       index = initializeLunr(searchObj)
       callback(index, searchObj)
     }else{
+      // Show loading spinner
+      document.querySelector('.wrapper--search .articles').innerHTML = '<div class="loader" style="margin-bottom: 40px;"></div>'
+      // GET searchable content
       get("/api/v1/posts.json", function(dataString){
         sessionStorage.searchObj = dataString
         searchObj = JSON.parse(dataString)
