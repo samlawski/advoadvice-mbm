@@ -4,12 +4,12 @@ titel: Assoziierter Partner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht sowi
 portrait_path: /uploads/0-layout/portrait-mrozek-1.jpg
 email: mrozek@advoadvice.de
 themes:
-  - titel: Widerruf von Immobiliendarlehen
-    link: 'https://advoadvice.de/themen/insolvenzrecht/'
+  - titel: Dieselskandal
+    link: 'https://www.kanzlei-dieselskandal.de/'
   - titel: Widerruf von Kfz-Darlehen
-    link: 'https://advoadvice.de/themen/insolvenzrecht/'
+    link: 'https://www.kanzlei-fuer-widerruf.de/'
   - titel: Zweckentfremdung von Wohnraum
-    link:
+    link: 'https://www.kanzlei-fuer-zweckentfremdung.de/'
   - titel: Falsche Berechnung von Dispozinsen
     link:
   - titel: Kapitalmarktrecht
