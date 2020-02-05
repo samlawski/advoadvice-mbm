@@ -1,8 +1,10 @@
 # Site & Meta Details (Fallback)
 title: AdvoAdvice Rechtsanwälte mbB - Rechtsberatung online und deutschlandweit
+title_short: AdvoAdvice
 description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten und Fachanwälten für Ihren Erfolg
 keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
 logo: /uploads/0-layout/logo-compact.png
+color: '#244c5a'
 
 lang: de_DE
 email: info@advoadvice.com
