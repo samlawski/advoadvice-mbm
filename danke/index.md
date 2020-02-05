@@ -7,4 +7,5 @@ intro_zeigen: true
 intro_markdown: Wir werden uns so bald wie möglich mit Ihnen in Verbindung setzen.
 intro_cta_text: Zurück zur Hauptseite
 intro_cta_link: "/"
+sitemap: false
 ---
