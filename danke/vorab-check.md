@@ -14,4 +14,5 @@ intro_markdown: >-
   Ein Mandatsverhältnis entsteht erst, wenn die aufgeführten Unterlagen durch uns angefordert und durch Sie unterschrieben zurückgesandt wurden. Gerne können Sie die Unterlagen schon vorbereiten, um die weitere Bearbeitung bei einer Rückmeldung zu beschleunigen.
 intro_cta_text: Zurück zur Hauptseite
 intro_cta_link: "/"
+sitemap: false
 ---
