@@ -38,7 +38,7 @@ Am 25. September 2017 nahm die Kanzlei AdvoAdvice Rechtsanw&auml;lte die Arbeit 
 Als Fachanw&auml;lte f&uuml;r Bank- und Kapitalmarktrecht bieten die Gr&uuml;ndungspartner der Kanzlei AdvoAdvice, Rechtsanwalt Dr. Sven Tintemann und Rechtsanwalt Kim Oliver Klevenhagen neben der Beratung im SCHUFA-und Datenschutzrecht, dem Immobilienrecht, dem Reputationsrecht im Internet sowie dem Insolvenzrecht und Versicherungsrecht auch integrale Rechtsberatung jeweils individuell angepasst an die vertretenen Mandanten an.
 {: .present-before-paste}
 
-Interessante Neuigkeiten und relevante Informationen rund um unser Anbietungsspektrum ver&ouml;ffentlichen wir regelm&auml;&szlig;ig in unserem Blog unter [www.advoadvice.de/blog](www.advoadvice.de).&nbsp;
+Interessante Neuigkeiten und relevante Informationen rund um unser Anbietungsspektrum ver&ouml;ffentlichen wir regelm&auml;&szlig;ig in unserem Blog unter [advoadvice.de/blog](https://advoadvice.de/blog/).&nbsp;
 {: .present-before-paste}
 
 Wir sind f&uuml;r Sie telefonisch unter 030-92100040 und per E-Mail unter info@advoadvice.de f&uuml;r Sie erreichbar.&nbsp;
