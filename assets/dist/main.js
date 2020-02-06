@@ -12434,23 +12434,37 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
-
-var _vue = _interopRequireDefault(require("vue"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
 //
 //
 //
 //
-var _default = _vue.default.extend({
+//
+//
+//
+//
+//
+//
+//
+//
+//
+var _default = {
+  name: 'AppSchufa',
+  components: {},
   data: function data() {
     return {
-      test: "Test neues Schufatool"
+      repo: repoSchufa,
+      index: 0,
+      results: [repoSchufa[0]]
     };
+  },
+  props: [],
+  computed: {},
+  methods: {
+    currentBlock: function currentBlock() {
+      return this.results[this.index];
+    }
   }
-});
-
+};
 exports.default = _default;
         var $cc4b83 = exports.default || module.exports;
       
@@ -12464,7 +12478,20 @@ exports.default = _default;
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("h1", [_vm._v(_vm._s(_vm.test))])
+  return _c("div", [
+    _c("p", [_vm._v(_vm._s(_vm.currentBlock().text))]),
+    _vm._v(" "),
+    _c(
+      "ul",
+      { attrs: { id: "antworten" } },
+      _vm._l(_vm.currentBlock().optionen, function(option, index) {
+        return _c("li", { key: index }, [
+          _c("button", [_vm._v(_vm._s(option))])
+        ])
+      }),
+      0
+    )
+  ])
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -12499,7 +12526,7 @@ render._withStripped = true
       
       }
     })();
-},{"vue":"../../node_modules/vue/dist/vue.common.js","_css_loader":"../../node_modules/parcel-bundler/src/builtins/css-loader.js","vue-hot-reload-api":"../../node_modules/vue-hot-reload-api/dist/index.js"}],"main.js":[function(require,module,exports) {
+},{"_css_loader":"../../node_modules/parcel-bundler/src/builtins/css-loader.js","vue-hot-reload-api":"../../node_modules/vue-hot-reload-api/dist/index.js","vue":"../../node_modules/vue/dist/vue.common.js"}],"main.js":[function(require,module,exports) {
 "use strict";
 
 var _vue = _interopRequireDefault(require("vue"));
@@ -12541,7 +12568,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60054" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49656" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

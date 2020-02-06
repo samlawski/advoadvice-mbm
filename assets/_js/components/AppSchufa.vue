@@ -1,21 +1,44 @@
 <template>
-  <h1>{{test}}</h1>
+  <div>
+    <p>{{currentBlock().text}}</p>
+
+    <ul id="antworten">
+      <li v-for="(option, index) in currentBlock().optionen" v-bind:key="index">
+        <button>{{ option }}</button>
+      </li>
+    </ul>
+
+  </div>
 </template>
 
 <script>
-import Vue from "vue";
-
-export default Vue.extend({
-  data() {
+export default {
+  name: 'AppSchufa',
+  components: {},
+  data(){
     return {
-      test: "Test neues Schufatool"
+      repo: repoSchufa,
+      index: 0,
+      results: [
+        repoSchufa[0]
+      ]
+    }
+  },
+  props: [],
+  computed: {},
+  methods: {
+    currentBlock(){
+      return this.results[this.index]
     }
   }
-})
+}
 </script>
 
 <style lang="scss" scoped>
-.container {
-  color: green;
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
 }
 </style>

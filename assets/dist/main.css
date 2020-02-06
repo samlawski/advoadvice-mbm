@@ -1,3 +1,6 @@
-.container[data-v-cc4b83] {
-  color: green;
+ul[data-v-cc4b83] {
+  padding-left: 0;
+}
+li[data-v-cc4b83] {
+  list-style: none;
 }
