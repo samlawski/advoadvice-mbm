@@ -62,6 +62,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - siteicon.png
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - .cache
+  - .gitignore
+  - .ruby-version
 
 
 # Plugin Settings
