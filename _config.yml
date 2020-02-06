@@ -69,6 +69,7 @@ exclude:
   - .cache
   - .gitignore
   - .ruby-version
+  - .babelrc
 
 
 # Plugin Settings
