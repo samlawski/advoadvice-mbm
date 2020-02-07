@@ -12447,23 +12447,121 @@ exports.default = void 0;
 //
 //
 //
+//
+//
+var repo = repoSchufa,
+    firstBlockId = repo[0].block_id;
+
+var flattenArr = function flattenArr(arr) {
+  return [].concat.apply([], arr);
+};
+
+var flattenAndMerge = function flattenAndMerge(arr1, arr2) {
+  return [].concat.apply(arr1, arr2);
+};
+
+var getBlockById = function getBlockById(id) {
+  return repo.find(function (block) {
+    return block.block_id == id;
+  });
+};
+
+var getBlocksByIds = function getBlocksByIds(ids) {
+  return repo.filter(function (block) {
+    return ids.includes(block.block_id);
+  });
+};
+
+var getFolgeBlockIds = function getFolgeBlockIds(id, answer) {
+  var block = getBlockById(id);
+  if (!block || !block.folge_bloecke) return []; // Note: `antwort_ist` and `block_ids` must be arrays
+
+  var folgeBlocks = block.folge_bloecke.filter(function (folgeBlock) {
+    return folgeBlock.antwort_ist.includes(answer);
+  });
+  var idsOfFolgeBlocks = folgeBlocks.map(function (folgeBlock) {
+    return folgeBlock.block_ids;
+  });
+  return flattenArr(idsOfFolgeBlocks);
+};
+
+var buildQuizBLock = function buildQuizBLock(block_id) {
+  var answer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+  return {
+    id: block_id,
+    answer: answer
+  };
+};
+
+var initQuiz = function initQuiz() {
+  return [buildQuizBLock(firstBlockId)];
+};
+
 var _default = {
   name: 'AppSchufa',
-  components: {},
   data: function data() {
     return {
-      repo: repoSchufa,
-      index: 0,
-      results: [repoSchufa[0]]
+      quiz: initQuiz()
     };
   },
-  props: [],
-  computed: {},
   methods: {
+    getText: function getText(id) {
+      return getBlockById(id) ? getBlockById(id).text : '';
+    },
+    getOptions: function getOptions(id) {
+      return getBlockById(id) ? getBlockById(id).optionen || [] : [];
+    },
+    getAnswer: function getAnswer(id) {
+      var quizBlock = this.quiz.find(function (block) {
+        return block.id == id;
+      });
+      return quizBlock ? quizBlock.answer : null;
+    },
     currentBlock: function currentBlock() {
-      return this.results[this.index];
+      return this.quiz.findIndex(function (block) {
+        return !block.answer;
+      });
+    },
+    handleChoice: function handleChoice(block_id, choiceText) {
+      console.log('click', block_id, choiceText);
+
+      this._addAnswerToQuiz(buildQuizBLock(block_id, choiceText));
+
+      this._rebuildQuiz();
+    },
+    _addAnswerToQuiz: function _addAnswerToQuiz(newQuizBlock) {
+      var blockIndex = this.quiz.findIndex(function (block) {
+        return block.id == newQuizBlock.id;
+      });
+
+      if (blockIndex >= 0) {
+        this.quiz[blockIndex] = newQuizBlock;
+      } else {
+        this.quiz.push(newQuizBlock);
+      }
+    },
+    _rebuildQuiz: function _rebuildQuiz() {
+      var _this = this;
+
+      // Get all blocks that already have answers given
+      var blocksWithAnswers = this.quiz.filter(function (block) {
+        return block.answer;
+      });
+      console.log('answered questions', blocksWithAnswers); // Based on the answers find all folge_block_ids
+
+      var allBlockIds = flattenAndMerge([firstBlockId], blocksWithAnswers.map(function (block) {
+        return getFolgeBlockIds(block.id, block.answer);
+      }));
+      console.log('allBlockIds', allBlockIds); // Create new quiz array only including the right block IDs and adding existing answers
+
+      this.quiz = allBlockIds.map(function (id) {
+        return buildQuizBLock(id, _this.getAnswer(id));
+      });
     }
-  }
+  },
+  computed: {},
+  props: [],
+  components: {}
 };
 exports.default = _default;
         var $cc4b83 = exports.default || module.exports;
@@ -12478,20 +12576,36 @@ exports.default = _default;
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _c("p", [_vm._v(_vm._s(_vm.currentBlock().text))]),
-    _vm._v(" "),
-    _c(
-      "ul",
-      { attrs: { id: "antworten" } },
-      _vm._l(_vm.currentBlock().optionen, function(option, index) {
-        return _c("li", { key: index }, [
-          _c("button", [_vm._v(_vm._s(option))])
-        ])
-      }),
-      0
-    )
-  ])
+  return _c(
+    "div",
+    _vm._l(_vm.quiz, function(quizBlock) {
+      return _c("div", [
+        _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
+        _vm._v(" "),
+        _c(
+          "ul",
+          { attrs: { id: "antworten" } },
+          _vm._l(_vm.getOptions(quizBlock.id), function(option, index) {
+            return _c("li", { key: index }, [
+              _c(
+                "button",
+                {
+                  on: {
+                    click: function($event) {
+                      return _vm.handleChoice(quizBlock.id, option)
+                    }
+                  }
+                },
+                [_vm._v(_vm._s(option))]
+              )
+            ])
+          }),
+          0
+        )
+      ])
+    }),
+    0
+  )
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -12568,7 +12682,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49656" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52567" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

@@ -1,3 +1,7 @@
+This website is built with Jekyll and optimized to be hosted on CloudCannon. 
+
+`npm` is used to allow for using `vue` with `parcel`. Vue is only used and loaded on `/schufa-beratung.html`.
+
 ## Installation
 
 ```
