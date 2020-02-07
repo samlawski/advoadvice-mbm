@@ -57,9 +57,4 @@ Weitere Informationen finden Sie auch in unserem&nbsp;[**Themenbereich Bank- und
 
 Informationen und Kontaktformulare finden Sie im Bereich ”Formulare - Download”. Wenden Sie sich auch gerne per Email an uns oder rufen Sie einfach an unter der Rufnummer 030 921 000 40 erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.&nbsp;
 
-## N&auml;chste Schritte
-
-1. Nehmen Sie gleich&nbsp;[Kontakt](https://advoadvice.de/blog/udi-energie-festzins-ix-r%C3%BCckzahlungen-anleger-in-sorge/#kontakt)&nbsp;auf, um kostenlos eine erste Einsch&auml;tzung vom Anwalt zu bekommen
-2. Informieren Sie sich mehr zum Thema auf unseren&nbsp;[Seiten](https://advoadvice.de/#themen).
-
-[Kostenloses Erstgespr&auml;ch vereinbaren](https://advoadvice.de/blog/udi-energie-festzins-ix-r%C3%BCckzahlungen-anleger-in-sorge/#kontakt)
+## &nbsp;
