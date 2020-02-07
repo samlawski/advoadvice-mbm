@@ -15,15 +15,15 @@
     - antwort_ist: ["Schufa-Score verbessern"]
       block_ids: ["score_verbessern_1", "score_verbessern_2", "basis_score_1"]
     - antwort_ist: ["Einen (negativen) Eintrag löschen"]
-      block_ids: ["negativ_eintrag_1"]
-    - antwort_ist: ["Veraltete Daten löschen"]
-      block_ids: ["veraltete_daten_1"]
-    - antwort_ist: ["Daten zur Restschuldbefreiung löschen"]
-      block_ids: ["restschuldbefreiung_1"]
-    - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
-      block_ids: ["oeffentliche_verzeichnisse_1"]
-    - antwort_ist: ["Eintrag im FraudPool löschen"]
-      block_ids: ["fraudpool_1"]
+      block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
+    # - antwort_ist: ["Veraltete Daten löschen"]
+    #   block_ids: ["veraltete_daten_1"]
+    # - antwort_ist: ["Daten zur Restschuldbefreiung löschen"]
+    #   block_ids: ["restschuldbefreiung_1"]
+    # - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
+    #   block_ids: ["oeffentliche_verzeichnisse_1"]
+    # - antwort_ist: ["Eintrag im FraudPool löschen"]
+    #   block_ids: ["fraudpool_1"]
 
 # Wiederverwendet
 
@@ -44,8 +44,8 @@
   text: Haben Sie einen negativen Schufa-Eintrag?
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
-    # - antwort_ist: ["Ja"]
-    #   block_ids: ["negativeintrag_1"]
+    - antwort_ist: ["Ja"]
+      block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
 - block_id: score_verbessern_2
   block_typ: frage_mit_auswahl 
   text: "Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)"
@@ -54,10 +54,103 @@
 
 # Negativeinträge löschen
 
+- block_id: negativ_eintrag_wer
+  block_typ: frage_mit_text
+  text: Wer hat den Schufa-Eintrag vorgenommen?
+  optionen: []
+  folge_bloecke: []
+- block_id: negativ_eintrag_wann
+  block_typ: frage_mit_datum
+  text: Wann wurde der Eintrag vorgenommen?
+  optionen: []
+  folge_bloecke: []
+- block_id: negativ_eintrag_titulierung
+  block_typ: frage_mit_auswahl
+  text: Gibt es eine Titulierung der Forderung durch Urteil oder Vollstreckungsbescheid?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["titulierung_wann"]
+- block_id: negativ_eintrag_ausgeglichen
+  block_typ: frage_mit_auswahl
+  text: Wurde die Forderung bereits durch Sie ausgeglichen?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["ausgleich_wann"]
+- block_id: negativ_eintrag_inkasso
+  block_typ: frage_mit_auswahl
+  text: Wurde ein Inkassounternehmen beauftragt?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["inkasso_wer"]
+- block_id: negativ_eintrag_mahnschreiben
+  block_typ: frage_mit_auswahl
+  text: Haben Sie Mahnschreiben zu der Forderung erhalten?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["mahnschreiben_wann"]
+- block_id: negativ_eintrag_vertragskuendigung
+  block_typ: frage_mit_auswahl
+  text: Wurde das Vertragsverhältnis gekündigt?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["vertragskuendigung_wann"]
+- block_id: negativ_eintrag_bestritten
+  block_typ: frage_mit_auswahl
+  text: Wurde die Forderung durch Sie bestritten?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["bestritten_wie"]
+- block_id: negativ_eintrag_ratenzahlungen
+  block_typ: frage_mit_auswahl
+  text: Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung getroffen?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    - antwort_ist: ["Ja"]
+      block_ids: ["ratenzahlungen_wie"]
 
+## Negativeintrag Folgefragen
 
-
-
+- block_id: titulierung_wann
+  block_typ: frage_mit_datum
+  text: Wann wurde die Titulierung erlassen?
+  optionen: []
+  folge_bloecke: []
+- block_id: titulierung_wann
+  block_typ: frage_mit_datum
+  text: Wann wurde die Forderung von Ihnen ausgeglichen?
+  optionen: []
+  folge_bloecke: []
+- block_id: inkasso_wer
+  block_typ: frage_mit_text
+  text: Wie heißt das Inkassounternehmen?
+  optionen: []
+  folge_bloecke: []
+- block_id: mahnschreiben_wann
+  block_typ: frage_mit_datum
+  text: Zu welchem Datum wurden das oder die Mahnschreiben erstellt?
+  optionen: []
+  folge_bloecke: []
+- block_id: vertragskuendigung_wann
+  block_typ: frage_mit_datum
+  text: Zu welchem Datum wurde das Kündigungsschreiben erstellt?
+  optionen: []
+  folge_bloecke: []
+- block_id: bestritten_wie
+  block_typ: frage_mit_text
+  text: Wann und in welcher Form haben Sie die Forderung bestritten?
+  optionen: []
+  folge_bloecke: []
+- block_id: ratenzahlungen_wie
+  block_typ: frage_mit_text
+  text: Wann und in welcher Form haben Sie eine Ratenzahlungsvereinbarung getroffen?
+  optionen: []
+  folge_bloecke: []
 
 # Kostenlos eine Schufaauskunft bekommen:
 # Unter "Datenkopie (nach Art. 15 DS-GVO)" auf "Jetzt bestellen" klicken
