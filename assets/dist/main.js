@@ -12487,7 +12487,7 @@ var getFolgeBlockIds = function getFolgeBlockIds(id, answer) {
   return flattenArr(idsOfFolgeBlocks);
 };
 
-var buildQuizBLock = function buildQuizBLock(block_id) {
+var buildQuizBlock = function buildQuizBlock(block_id) {
   var answer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
   return {
     id: block_id,
@@ -12496,7 +12496,7 @@ var buildQuizBLock = function buildQuizBLock(block_id) {
 };
 
 var initQuiz = function initQuiz() {
-  return [buildQuizBLock(firstBlockId)];
+  return [buildQuizBlock(firstBlockId)];
 };
 
 var _default = {
@@ -12527,7 +12527,7 @@ var _default = {
     handleChoice: function handleChoice(block_id, choiceText) {
       console.log('click', block_id, choiceText);
 
-      this._addAnswerToQuiz(buildQuizBLock(block_id, choiceText));
+      this._addAnswerToQuiz(buildQuizBlock(block_id, choiceText));
 
       this._rebuildQuiz();
     },
@@ -12545,20 +12545,24 @@ var _default = {
     _rebuildQuiz: function _rebuildQuiz() {
       var _this = this;
 
-      // Get all blocks that already have answers given
-      var blocksWithAnswers = this.quiz.filter(function (block) {
-        return block.answer;
-      });
-      console.log('answered questions', blocksWithAnswers); // Based on the answers find all folge_block_ids
+      var newQuiz = []; // Recursive function to add each quiz block one by one making sure that nested followup questions are added right in the middle
 
-      var allBlockIds = flattenAndMerge([firstBlockId], blocksWithAnswers.map(function (block) {
-        return getFolgeBlockIds(block.id, block.answer);
-      }));
-      console.log('allBlockIds', allBlockIds); // Create new quiz array only including the right block IDs and adding existing answers
+      var rebuildBlock = function rebuildBlock(id) {
+        var answer = _this.getAnswer(id); // Add block to new quiz array (including an answer if it has been given)
 
-      this.quiz = allBlockIds.map(function (id) {
-        return buildQuizBLock(id, _this.getAnswer(id));
-      });
+
+        newQuiz.push(buildQuizBlock(id, answer)); // Stop here if no answer has been given
+
+        if (!answer) return; // Get the followup questions for the given answers (if they exist) and call this function for each followup question
+
+        var folgeBlockIds = getFolgeBlockIds(id, answer);
+        folgeBlockIds.forEach(function (folgeBlockid) {
+          return rebuildBlock(folgeBlockid);
+        });
+      };
+
+      rebuildBlock(firstBlockId);
+      this.quiz = newQuiz;
     }
   },
   updated: function updated() {
@@ -12690,7 +12694,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52567" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49459" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

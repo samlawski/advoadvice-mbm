@@ -33,15 +33,14 @@ const getFolgeBlockIds = (id, answer) => {
   return flattenArr(idsOfFolgeBlocks)
 }
 
-const buildQuizBLock = (block_id, answer = null) => {
+const buildQuizBlock = (block_id, answer = null) => {
   return {
     id: block_id,
     answer: answer
   }
 }
 
-const initQuiz = () => [buildQuizBLock(firstBlockId)]
-
+const initQuiz = () => [buildQuizBlock(firstBlockId)]
 
 export default {
   name: 'AppSchufa',
@@ -64,7 +63,7 @@ export default {
       console.log('click', block_id, choiceText)
 
       this._addAnswerToQuiz(
-        buildQuizBLock(block_id, choiceText)
+        buildQuizBlock(block_id, choiceText)
       )
 
       this._rebuildQuiz()
@@ -78,21 +77,22 @@ export default {
       }
     },
     _rebuildQuiz(){
-      // Get all blocks that already have answers given
-      let blocksWithAnswers = this.quiz.filter(block => block.answer)
-      console.log('answered questions', blocksWithAnswers)
+      const newQuiz = []
 
-      // Based on the answers find all folge_block_ids
-      let allBlockIds = flattenAndMerge(
-        [firstBlockId],
-        blocksWithAnswers.map(block => getFolgeBlockIds(block.id, block.answer))
-      )
-      console.log('allBlockIds', allBlockIds)
+      // Recursive function to add each quiz block one by one making sure that nested followup questions are added right in the middle
+      const rebuildBlock = id => {
+        let answer = this.getAnswer(id)
+        // Add block to new quiz array (including an answer if it has been given)
+        newQuiz.push(buildQuizBlock(id, answer))
+        // Stop here if no answer has been given
+        if(!answer) return 
+        // Get the followup questions for the given answers (if they exist) and call this function for each followup question
+        let folgeBlockIds = getFolgeBlockIds(id, answer)
+        folgeBlockIds.forEach(folgeBlockid => rebuildBlock(folgeBlockid))
+      }
+      rebuildBlock(firstBlockId)
 
-      // Create new quiz array only including the right block IDs and adding existing answers
-      this.quiz = allBlockIds.map(id => buildQuizBLock(id, this.getAnswer(id)))
-
-      
+      this.quiz = newQuiz
     }
   },
   updated(){
