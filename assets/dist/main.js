@@ -12556,9 +12556,14 @@ var _default = {
 
       this.quiz = allBlockIds.map(function (id) {
         return buildQuizBLock(id, _this.getAnswer(id));
-      }); // // Move to next question
-      // location.hash = this.currentBlock() && this.currentBlock().id
+      });
     }
+  },
+  updated: function updated() {
+    this.$nextTick(function () {
+      // Move to next question
+      location.hash = this.currentBlock() && this.currentBlock().id;
+    });
   },
   computed: {},
   props: [],
@@ -12580,7 +12585,7 @@ exports.default = _default;
   return _c(
     "div",
     _vm._l(_vm.quiz, function(quizBlock) {
-      return _c("div", { attrs: { id: quizBlock.id } }, [
+      return _c("div", { key: quizBlock.id, attrs: { id: quizBlock.id } }, [
         _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
         _vm._v(" "),
         _c(
