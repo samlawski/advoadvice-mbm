@@ -4,6 +4,7 @@
     <!-- TODO: Highlight current question -->
     <p>{{getText(quizBlock.id)}}</p>
 
+    <!-- TODO: Add v-if and conditionally an input type for each block_typ -->
     <ul id="antworten">
       <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
         <!-- TODO: Hightlight already selected answer -->
