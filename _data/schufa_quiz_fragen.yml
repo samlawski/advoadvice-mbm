@@ -1,0 +1,19 @@
+- block_id: begruessung
+  block_typ: text
+  text: Willkommen zum interaktiven Schufa-Selbst-Test
+  optionen: null
+  folge_bloecke: null
+- block_id: intro
+  block_typ: frage_mit_auswahl
+  text: Um welches Problem handelt es sich?
+  optionen: 
+    - Schufa-Score verbessern
+    - Einen (negativen) Eintrag löschen
+    - Veraltete Daten löschen
+    - Daten zur Restschuldbefreiung löschen
+    - Einträge aus öffentlichen Verzeichnissen löschen # (bspw. Haftbefehle oder Zwangsvollstreckungen)
+    - Eintrag im FraudPool löschen  # (u.a. auch wegen Identitätsdiebstahl)
+  folge_bloecke: 
+    - antwort_ist: "Schufa-Score verbessern"
+      block_ids: ["score_verbessern_1", "score_verbessern_2", "basis_score_1"]
+      position: vorne
