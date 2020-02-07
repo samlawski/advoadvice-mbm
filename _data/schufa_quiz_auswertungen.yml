@@ -1,0 +1,8 @@
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: schufa
+  text: hier ist die auswertung
+
+# Erst Fragen
+# Dann auswertungen nach Bedingungen
+# Dann Kontakt nach Bedingungen
