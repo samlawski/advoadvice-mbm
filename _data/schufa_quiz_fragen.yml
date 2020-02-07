@@ -1,8 +1,6 @@
-- block_id: begruessung
-  block_typ: text
-  text: Willkommen zum interaktiven Schufa-Selbst-Test
-  optionen: null
-  folge_bloecke: null
+# `antwort_ist`: entweder oder
+# block_typ: frage_mit_auswahl, text, frage_mit_auswahl, frage_mit_text, frage_mit_datum, frage_mit_zahl
+
 - block_id: intro
   block_typ: frage_mit_auswahl
   text: Um welches Problem handelt es sich?
@@ -14,6 +12,54 @@
     - Einträge aus öffentlichen Verzeichnissen löschen # (bspw. Haftbefehle oder Zwangsvollstreckungen)
     - Eintrag im FraudPool löschen  # (u.a. auch wegen Identitätsdiebstahl)
   folge_bloecke: 
-    - antwort_ist: "Schufa-Score verbessern"
+    - antwort_ist: ["Schufa-Score verbessern"]
       block_ids: ["score_verbessern_1", "score_verbessern_2", "basis_score_1"]
-      position: vorne
+    - antwort_ist: ["Einen (negativen) Eintrag löschen"]
+      block_ids: ["negativ_eintrag_1"]
+    - antwort_ist: ["Veraltete Daten löschen"]
+      block_ids: ["veraltete_daten_1"]
+    - antwort_ist: ["Daten zur Restschuldbefreiung löschen"]
+      block_ids: ["restschuldbefreiung_1"]
+    - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
+      block_ids: ["oeffentliche_verzeichnisse_1"]
+    - antwort_ist: ["Eintrag im FraudPool löschen"]
+      block_ids: ["fraudpool_1"]
+
+# Wiederverwendet
+
+- block_id: basis_score_1
+  block_typ: frage_mit_auswahl 
+  text: "Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?"
+  optionen: 
+    - Über 95%
+    - 90% - 95%
+    - 80% - 90%
+    - Unter 80%
+  folge_bloecke: []
+
+# Schufa-Score verbessern
+
+- block_id: score_verbessern_1
+  block_typ: frage_mit_auswahl
+  text: Haben Sie einen negativen Schufa-Eintrag?
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke:
+    # - antwort_ist: ["Ja"]
+    #   block_ids: ["negativeintrag_1"]
+- block_id: score_verbessern_2
+  block_typ: frage_mit_auswahl 
+  text: "Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)"
+  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  folge_bloecke: []
+
+# Negativeinträge löschen
+
+
+
+
+
+
+# Kostenlos eine Schufaauskunft bekommen:
+# Unter "Datenkopie (nach Art. 15 DS-GVO)" auf "Jetzt bestellen" klicken
+# https://www.meineschufa.de/index.php?site=11_3&via=menu
+# Bei Zeitdruck auch kostenpflichtig direkt online oder bei der Postbank persönlich

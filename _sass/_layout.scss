@@ -3,23 +3,13 @@
 - Footer
 */
 
-// Offset scroll position when linking to an ID:
-#themen, 
-#kontakt--1, 
-#anwaelte,
-#referenzen,
-#ablauf,
-#downloads,
-#kontakt {
-  &[id]::before {
-    content: '';
-    display: block;
-    height:      80px;
-    margin-top: -80px;
-    visibility: hidden;
-  }
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  height: 80px;
+  margin-top: -80px; 
+  visibility: hidden; 
 }
-
 
 // Navigation
 

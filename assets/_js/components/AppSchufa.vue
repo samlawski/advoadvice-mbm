@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div v-for="quizBlock in quiz">
+  <div v-for="quizBlock in quiz" :id="quizBlock.id">
     <p>{{getText(quizBlock.id)}}</p>
 
     <ul id="antworten">
@@ -56,7 +56,7 @@ export default {
       return quizBlock ? quizBlock.answer : null
     },
     currentBlock(){
-      return this.quiz.findIndex(block => !block.answer)
+      return this.quiz.find(block => !block.answer)
     },
     handleChoice(block_id, choiceText){
       console.log('click', block_id, choiceText)
@@ -89,6 +89,9 @@ export default {
 
       // Create new quiz array only including the right block IDs and adding existing answers
       this.quiz = allBlockIds.map(id => buildQuizBLock(id, this.getAnswer(id)))
+
+      // // Move to next question
+      // location.hash = this.currentBlock() && this.currentBlock().id
     }
   },
   computed: {},

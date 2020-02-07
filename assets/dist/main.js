@@ -12518,7 +12518,7 @@ var _default = {
       return quizBlock ? quizBlock.answer : null;
     },
     currentBlock: function currentBlock() {
-      return this.quiz.findIndex(function (block) {
+      return this.quiz.find(function (block) {
         return !block.answer;
       });
     },
@@ -12556,7 +12556,8 @@ var _default = {
 
       this.quiz = allBlockIds.map(function (id) {
         return buildQuizBLock(id, _this.getAnswer(id));
-      });
+      }); // // Move to next question
+      // location.hash = this.currentBlock() && this.currentBlock().id
     }
   },
   computed: {},
@@ -12579,7 +12580,7 @@ exports.default = _default;
   return _c(
     "div",
     _vm._l(_vm.quiz, function(quizBlock) {
-      return _c("div", [
+      return _c("div", { attrs: { id: quizBlock.id } }, [
         _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
         _vm._v(" "),
         _c(
