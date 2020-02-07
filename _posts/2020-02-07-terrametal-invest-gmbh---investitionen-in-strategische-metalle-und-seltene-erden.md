@@ -1,5 +1,5 @@
 ---
-title: "erraMetal Invest GmbH - Investitionen in strategische Metalle und seltene\_Erden"
+title: "TerraMetal Invest GmbH - Investitionen in strategische Metalle und seltene\_Erden"
 date: 2020-02-07 00:00:00
 description: >-
   Die TerraMetal Invest GmbH aus dem schleswig-holsteinischen Quickborn bietet
