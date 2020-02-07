@@ -1,11 +1,11 @@
 <template>
 <div>
-  <div v-for="quizBlock in quiz" :id="quizBlock.id">
+  <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id">
     <p>{{getText(quizBlock.id)}}</p>
 
     <ul id="antworten">
-      <li v-for="(option, index) in getOptions(quizBlock.id)" v-bind:key="index">
-        <button v-on:click="handleChoice(quizBlock.id, option)">{{ option }}</button>
+      <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
+        <button @click="handleChoice(quizBlock.id, option)">{{ option }}</button>
       </li>
     </ul>
 
@@ -90,9 +90,14 @@ export default {
       // Create new quiz array only including the right block IDs and adding existing answers
       this.quiz = allBlockIds.map(id => buildQuizBLock(id, this.getAnswer(id)))
 
-      // // Move to next question
-      // location.hash = this.currentBlock() && this.currentBlock().id
+      
     }
+  },
+  updated(){
+    this.$nextTick(function () {
+      // Move to next question
+      location.hash = this.currentBlock() && this.currentBlock().id
+    })
   },
   computed: {},
   props: [],
