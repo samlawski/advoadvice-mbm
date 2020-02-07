@@ -1,10 +1,12 @@
 <template>
 <div>
   <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id">
+    <!-- TODO: Highlight current question -->
     <p>{{getText(quizBlock.id)}}</p>
 
     <ul id="antworten">
       <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
+        <!-- TODO: Hightlight already selected answer -->
         <button @click="handleChoice(quizBlock.id, option)">{{ option }}</button>
       </li>
     </ul>
