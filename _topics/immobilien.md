@@ -36,7 +36,7 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Zweckentfremdungsverbot von Wohnraum
     text_markdown: >-
-      Rechtsanwalt Martin Mrozek berat und vertritt Mandanten bei Fragen zum Zweckentfremdungsverbot von Wohnraum. Die Tätigkeit von Rechtsanwalt Mrozek umfasst dabei den Bereich der Vermietung von Wohnraum als Ferienwohnung, die Umwandlung von Wohnraum in gewerblich oder freiberuflich genutzte Flächen sowie umgekehrt die Umwandlung von gewerblichen Flächen in Wohnraum. Besondern in Berlin sind in den letzten Monaten zahlreiche Bußgelder wegen eines Verstoßes gegen das Zweckentfremdungsverbot verhängt worden. Hier legt die Kanzlei AdvoAdvice für Betroffene Einspruch gegen den Bußgeldbescheid ein und vertritt Ihre Interessen gegenüber Behörden und vor Gericht.
+      Rechtsanwalt Martin Sommerfeld berat und vertritt Mandanten bei Fragen zum Zweckentfremdungsverbot von Wohnraum. Die Tätigkeit von Rechtsanwalt Sommerfeld umfasst dabei den Bereich der Vermietung von Wohnraum als Ferienwohnung, die Umwandlung von Wohnraum in gewerblich oder freiberuflich genutzte Flächen sowie umgekehrt die Umwandlung von gewerblichen Flächen in Wohnraum. Besondern in Berlin sind in den letzten Monaten zahlreiche Bußgelder wegen eines Verstoßes gegen das Zweckentfremdungsverbot verhängt worden. Hier legt die Kanzlei AdvoAdvice für Betroffene Einspruch gegen den Bußgeldbescheid ein und vertritt Ihre Interessen gegenüber Behörden und vor Gericht.
     image: 
     cta: false
 redirect_from: 
