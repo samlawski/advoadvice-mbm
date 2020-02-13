@@ -1,17 +1,32 @@
 <template>
 <section>
   <h1>Schufa Vorab-Test</h1>
-  <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ active: isCurrentBlock(quizBlock.id) }">
+  <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ block: true, active: isCurrentBlock(quizBlock.id) }">
     <p>{{getText(quizBlock.id)}}</p>
 
-    <input v-if="getBlockType(quizBlock.id) == 'frage_mit_text'" type="text">
-    <input v-if="getBlockType(quizBlock.id) == 'frage_mit_datum'" type="date">
-    <ul id="antworten" v-if="getBlockType(quizBlock.id) == 'frage_mit_auswahl'">
-      <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
-        <button @click="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
-      </li>
-    </ul>
-
+    <template v-if="getBlockType(quizBlock.id) == 'frage_mit_text'">
+      <input type="text" 
+        @focus="focusBlock(quizBlock.id)"
+        @blur="handleChoice(quizBlock.id, $event.target.value)" 
+        @keyup.enter="$event.target.blur()"
+      >
+      <small :class="{ active: shouldShowHint(quizBlock.id)}"><i>Enter</i> drücken für die nächste Frage.</small>
+    </template>
+    <template v-else-if="getBlockType(quizBlock.id) == 'frage_mit_datum'">
+      <input type="date" 
+        @focus="focusBlock(quizBlock.id)"
+        @blur="handleChoice(quizBlock.id, $event.target.value)" 
+        @keyup.enter="$event.target.blur()"
+      >
+      <small :class="{ active: shouldShowHint(quizBlock.id)}"><i>Enter</i> drücken für die nächste Frage.</small>
+    </template>
+    <template v-else-if="getBlockType(quizBlock.id) == 'frage_mit_auswahl'">
+      <ul id="antworten">
+        <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
+          <button @click="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
+        </li>
+      </ul>
+    </template>
   </div>
 </section>
 </template>
@@ -47,7 +62,8 @@ export default {
   name: 'AppSchufa',
   data(){
     return {
-      quiz: initQuiz()
+      quiz: initQuiz(),
+      focusedBlock: null
     }
   },
   methods: {
@@ -67,14 +83,21 @@ export default {
     isSelectedOption(id, option){
       return this.getAnswer(id) == option
     },
+    shouldShowHint(id){
+      return ['frage_mit_datum', 'frage_mit_text'].includes(this.getBlockType(id)) && (this.focusedBlock == id)
+    },
     handleChoice(block_id, choiceText){
       console.log('click', block_id, choiceText)
+      this.focusedBlock = null // for input fields only
 
       this._addAnswerToQuiz(
         buildQuizBlock(block_id, choiceText)
       )
 
       this._rebuildQuiz()
+    },
+    focusBlock(id){
+      this.focusedBlock = id
     },
     _addAnswerToQuiz(newQuizBlock){
       let blockIndex = this.quiz.findIndex(block => block.id == newQuizBlock.id)
@@ -105,8 +128,16 @@ export default {
   },
   updated(){
     this.$nextTick(function () {
-      // Move to next question
-      location.hash = this.currentBlock() && this.currentBlock().id
+      // Check if there is a next question
+      if(this.currentBlock()){
+        // Focus input fields if they exist
+        let $input = document.querySelector(`#${this.currentBlock().id} input`)
+        if($input) $input.focus()
+        // Move to next question
+        location.hash = this.currentBlock().id
+      }else{
+        location.hash = ''
+      }
     })
   },
   computed: {},
@@ -122,8 +153,21 @@ section {
 }
 
 // Fragen
-.active {
+.block {
+  margin-bottom: 80px;
+}
+.active p {
   font-weight: 700;
+}
+input,
+small {
+  width: 100%;
+}
+small {
+  color: rgba(0,0,0,0.7);
+  opacity: 0;
+  transition: .3s all;
+  &.active { opacity: 1; }
 }
 
 // Antworten
