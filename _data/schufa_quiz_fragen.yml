@@ -1,9 +1,9 @@
 # `antwort_ist`: entweder oder
-# block_typ: frage_mit_auswahl, text, frage_mit_auswahl, frage_mit_text, frage_mit_datum, frage_mit_zahl
+# block_typ: frage_mit_auswahl, frage_mit_text, frage_mit_datum
 
 - block_id: intro
   block_typ: frage_mit_auswahl
-  text: Um welches Problem handelt es sich?
+  text: Welches Anliegen trifft auf Sie zu?
   optionen: 
     - Schufa-Score verbessern
     - Einen (negativen) Eintrag löschen
@@ -17,9 +17,9 @@
     - antwort_ist: ["Einen (negativen) Eintrag löschen"]
       block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
     - antwort_ist: ["Veraltete Daten löschen"]
-      block_ids: ["basis_score_1"]
+      block_ids: ["veraltete_daten_text", "basis_score_1"]
     - antwort_ist: ["Daten zur Restschuldbefreiung löschen"]
-      block_ids: []
+      block_ids: ["restschuldbefreiung_text"]
     - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
       block_ids: ["oeffentliche_verzeichnisse_1"]
     - antwort_ist: ["Eintrag im FraudPool löschen"]
@@ -150,6 +150,22 @@
   block_typ: frage_mit_text
   text: Wann und in welcher Form haben Sie eine Ratenzahlungsvereinbarung getroffen?
   optionen: []
+  folge_bloecke: []
+
+# Veraltete Daten
+
+- block_id: veraltete_daten_text
+  block_typ: frage_mit_auswahl
+  text: In Ihrer Schufa-Auskunft finden sich offenbar veraltete Daten wieder. Es ist Ihnen zu empfehlen, die Schufa Holding AG selbst zu kontaktieren und diese zur Löschung dieser Daten aufzufordern. Falls sich die SCHUFA weigern sollte, die Daten zu löschen und diese Daten sich negativ auf den Scorewert auswirken (anzunehmen bei einem Basis-Scorewert unterhalb 90 %), empfehlen wir Ihnen dringend, sich mit uns in Verbindung zu setzen. Dafür nutzen Sie bitte das Formular auf der nächsten Seite.
+  optionen: ["Weiter"]
+  folge_bloecke: []
+
+# Restschuldbefreiung
+
+- block_id: restschuldbefreiung_text
+  block_typ: frage_mit_auswahl
+  text: Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung speichern darf. An dieser Rechtsprechung bestanden bislang schon vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen Person in Frage steht. Somit können trotz der bislang erfolgten Urteile wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung eines solchen Merkmals geführt werden.
+  optionen: ["Weiter"]
   folge_bloecke: []
 
 # Öffentliche Verzeichnisse

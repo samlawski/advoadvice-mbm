@@ -1,19 +1,19 @@
 <template>
-<div>
-  <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id">
-    <!-- TODO: Highlight current question -->
+<section>
+  <h1>Schufa Vorab-Test</h1>
+  <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ active: isCurrentBlock(quizBlock.id) }">
     <p>{{getText(quizBlock.id)}}</p>
 
-    <!-- TODO: Add v-if and conditionally an input type for each block_typ -->
-    <ul id="antworten">
+    <input v-if="getBlockType(quizBlock.id) == 'frage_mit_text'" type="text">
+    <input v-if="getBlockType(quizBlock.id) == 'frage_mit_datum'" type="date">
+    <ul id="antworten" v-if="getBlockType(quizBlock.id) == 'frage_mit_auswahl'">
       <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
-        <!-- TODO: Hightlight already selected answer -->
-        <button @click="handleChoice(quizBlock.id, option)">{{ option }}</button>
+        <button @click="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
       </li>
     </ul>
 
   </div>
-</div>
+</section>
 </template>
 
 <script>
@@ -53,12 +53,19 @@ export default {
   methods: {
     getText: id => getBlockById(id) ? getBlockById(id).text : '',
     getOptions: id => getBlockById(id) ? (getBlockById(id).optionen || []) : [],
+    getBlockType: id => getBlockById(id) ? getBlockById(id).block_typ : null,
     getAnswer(id){
       let quizBlock = this.quiz.find(block => block.id == id)
       return quizBlock ? quizBlock.answer : null
     },
     currentBlock(){
       return this.quiz.find(block => !block.answer)
+    },
+    isCurrentBlock(id){
+      return this.currentBlock() && id == this.currentBlock().id
+    },
+    isSelectedOption(id, option){
+      return this.getAnswer(id) == option
     },
     handleChoice(block_id, choiceText){
       console.log('click', block_id, choiceText)
@@ -109,10 +116,30 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+// Layout
+section {
+  min-height: calc(100vh - 80px);
+}
+
+// Fragen
+.active {
+  font-weight: 700;
+}
+
+// Antworten
 ul {
   padding-left: 0;
 }
 li {
   list-style: none;
+}
+button {
+  margin-top: 10px;
+  width: 100%;
+
+  &.active {
+    background-color: #081114;
+    color: white;
+  }
 }
 </style>
