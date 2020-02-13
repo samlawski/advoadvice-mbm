@@ -1,8 +1,23 @@
 section[data-v-cc4b83] {
   min-height: calc(100vh - 80px);
 }
-.active[data-v-cc4b83] {
+.block[data-v-cc4b83] {
+  margin-bottom: 80px;
+}
+.active p[data-v-cc4b83] {
   font-weight: 700;
+}
+input[data-v-cc4b83],
+small[data-v-cc4b83] {
+  width: 100%;
+}
+small[data-v-cc4b83] {
+  color: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  transition: 0.3s all;
+}
+small.active[data-v-cc4b83] {
+  opacity: 1;
 }
 ul[data-v-cc4b83] {
   padding-left: 0;

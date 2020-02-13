@@ -12452,6 +12452,21 @@ exports.default = void 0;
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 var repo = repoSchufa,
     firstBlockId = repo[0].block_id;
 
@@ -12504,7 +12519,8 @@ var _default = {
   name: 'AppSchufa',
   data: function data() {
     return {
-      quiz: initQuiz()
+      quiz: initQuiz(),
+      focusedBlock: null
     };
   },
   methods: {
@@ -12534,12 +12550,19 @@ var _default = {
     isSelectedOption: function isSelectedOption(id, option) {
       return this.getAnswer(id) == option;
     },
+    shouldShowHint: function shouldShowHint(id) {
+      return ['frage_mit_datum', 'frage_mit_text'].includes(this.getBlockType(id)) && this.focusedBlock == id;
+    },
     handleChoice: function handleChoice(block_id, choiceText) {
       console.log('click', block_id, choiceText);
+      this.focusedBlock = null; // for input fields only
 
       this._addAnswerToQuiz(buildQuizBlock(block_id, choiceText));
 
       this._rebuildQuiz();
+    },
+    focusBlock: function focusBlock(id) {
+      this.focusedBlock = id;
     },
     _addAnswerToQuiz: function _addAnswerToQuiz(newQuizBlock) {
       var blockIndex = this.quiz.findIndex(function (block) {
@@ -12577,8 +12600,16 @@ var _default = {
   },
   updated: function updated() {
     this.$nextTick(function () {
-      // Move to next question
-      location.hash = this.currentBlock() && this.currentBlock().id;
+      // Check if there is a next question
+      if (this.currentBlock()) {
+        // Focus input fields if they exist
+        var $input = document.querySelector("#".concat(this.currentBlock().id, " input"));
+        if ($input) $input.focus(); // Move to next question
+
+        location.hash = this.currentBlock().id;
+      } else {
+        location.hash = '';
+      }
     });
   },
   computed: {},
@@ -12608,46 +12639,126 @@ exports.default = _default;
           "div",
           {
             key: quizBlock.id,
-            class: { active: _vm.isCurrentBlock(quizBlock.id) },
+            class: { block: true, active: _vm.isCurrentBlock(quizBlock.id) },
             attrs: { id: quizBlock.id }
           },
           [
             _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
             _vm._v(" "),
             _vm.getBlockType(quizBlock.id) == "frage_mit_text"
-              ? _c("input", { attrs: { type: "text" } })
-              : _vm._e(),
-            _vm._v(" "),
-            _vm.getBlockType(quizBlock.id) == "frage_mit_datum"
-              ? _c("input", { attrs: { type: "date" } })
-              : _vm._e(),
-            _vm._v(" "),
-            _vm.getBlockType(quizBlock.id) == "frage_mit_auswahl"
-              ? _c(
-                  "ul",
-                  { attrs: { id: "antworten" } },
-                  _vm._l(_vm.getOptions(quizBlock.id), function(option, index) {
-                    return _c("li", { key: index }, [
-                      _c(
-                        "button",
-                        {
-                          class: {
-                            active: _vm.isSelectedOption(quizBlock.id, option)
-                          },
-                          on: {
-                            click: function($event) {
-                              return _vm.handleChoice(quizBlock.id, option)
-                            }
-                          }
-                        },
-                        [_vm._v(_vm._s(option))]
-                      )
-                    ])
+              ? [
+                  _c("input", {
+                    attrs: { type: "text" },
+                    on: {
+                      focus: function($event) {
+                        return _vm.focusBlock(quizBlock.id)
+                      },
+                      blur: function($event) {
+                        return _vm.handleChoice(
+                          quizBlock.id,
+                          $event.target.value
+                        )
+                      },
+                      keyup: function($event) {
+                        if (
+                          !$event.type.indexOf("key") &&
+                          _vm._k(
+                            $event.keyCode,
+                            "enter",
+                            13,
+                            $event.key,
+                            "Enter"
+                          )
+                        ) {
+                          return null
+                        }
+                        return $event.target.blur()
+                      }
+                    }
                   }),
-                  0
-                )
+                  _vm._v(" "),
+                  _c(
+                    "small",
+                    { class: { active: _vm.shouldShowHint(quizBlock.id) } },
+                    [
+                      _c("i", [_vm._v("Enter")]),
+                      _vm._v(" drücken für die nächste Frage.")
+                    ]
+                  )
+                ]
+              : _vm.getBlockType(quizBlock.id) == "frage_mit_datum"
+              ? [
+                  _c("input", {
+                    attrs: { type: "date" },
+                    on: {
+                      focus: function($event) {
+                        return _vm.focusBlock(quizBlock.id)
+                      },
+                      blur: function($event) {
+                        return _vm.handleChoice(
+                          quizBlock.id,
+                          $event.target.value
+                        )
+                      },
+                      keyup: function($event) {
+                        if (
+                          !$event.type.indexOf("key") &&
+                          _vm._k(
+                            $event.keyCode,
+                            "enter",
+                            13,
+                            $event.key,
+                            "Enter"
+                          )
+                        ) {
+                          return null
+                        }
+                        return $event.target.blur()
+                      }
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c(
+                    "small",
+                    { class: { active: _vm.shouldShowHint(quizBlock.id) } },
+                    [
+                      _c("i", [_vm._v("Enter")]),
+                      _vm._v(" drücken für die nächste Frage.")
+                    ]
+                  )
+                ]
+              : _vm.getBlockType(quizBlock.id) == "frage_mit_auswahl"
+              ? [
+                  _c(
+                    "ul",
+                    { attrs: { id: "antworten" } },
+                    _vm._l(_vm.getOptions(quizBlock.id), function(
+                      option,
+                      index
+                    ) {
+                      return _c("li", { key: index }, [
+                        _c(
+                          "button",
+                          {
+                            class: {
+                              active: _vm.isSelectedOption(quizBlock.id, option)
+                            },
+                            on: {
+                              click: function($event) {
+                                return _vm.handleChoice(quizBlock.id, option)
+                              }
+                            }
+                          },
+                          [_vm._v(_vm._s(option))]
+                        )
+                      ])
+                    }),
+                    0
+                  )
+                ]
               : _vm._e()
-          ]
+          ],
+          2
         )
       })
     ],
