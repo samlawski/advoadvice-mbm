@@ -12514,6 +12514,9 @@ var _default = {
     getOptions: function getOptions(id) {
       return getBlockById(id) ? getBlockById(id).optionen || [] : [];
     },
+    getBlockType: function getBlockType(id) {
+      return getBlockById(id) ? getBlockById(id).block_typ : null;
+    },
     getAnswer: function getAnswer(id) {
       var quizBlock = this.quiz.find(function (block) {
         return block.id == id;
@@ -12524,6 +12527,12 @@ var _default = {
       return this.quiz.find(function (block) {
         return !block.answer;
       });
+    },
+    isCurrentBlock: function isCurrentBlock(id) {
+      return this.currentBlock() && id == this.currentBlock().id;
+    },
+    isSelectedOption: function isSelectedOption(id, option) {
+      return this.getAnswer(id) == option;
     },
     handleChoice: function handleChoice(block_id, choiceText) {
       console.log('click', block_id, choiceText);
@@ -12590,34 +12599,59 @@ exports.default = _default;
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "div",
-    _vm._l(_vm.quiz, function(quizBlock) {
-      return _c("div", { key: quizBlock.id, attrs: { id: quizBlock.id } }, [
-        _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
-        _vm._v(" "),
-        _c(
-          "ul",
-          { attrs: { id: "antworten" } },
-          _vm._l(_vm.getOptions(quizBlock.id), function(option, index) {
-            return _c("li", { key: index }, [
-              _c(
-                "button",
-                {
-                  on: {
-                    click: function($event) {
-                      return _vm.handleChoice(quizBlock.id, option)
-                    }
-                  }
-                },
-                [_vm._v(_vm._s(option))]
-              )
-            ])
-          }),
-          0
+    "section",
+    [
+      _c("h1", [_vm._v("Schufa Vorab-Test")]),
+      _vm._v(" "),
+      _vm._l(_vm.quiz, function(quizBlock) {
+        return _c(
+          "div",
+          {
+            key: quizBlock.id,
+            class: { active: _vm.isCurrentBlock(quizBlock.id) },
+            attrs: { id: quizBlock.id }
+          },
+          [
+            _c("p", [_vm._v(_vm._s(_vm.getText(quizBlock.id)))]),
+            _vm._v(" "),
+            _vm.getBlockType(quizBlock.id) == "frage_mit_text"
+              ? _c("input", { attrs: { type: "text" } })
+              : _vm._e(),
+            _vm._v(" "),
+            _vm.getBlockType(quizBlock.id) == "frage_mit_datum"
+              ? _c("input", { attrs: { type: "date" } })
+              : _vm._e(),
+            _vm._v(" "),
+            _vm.getBlockType(quizBlock.id) == "frage_mit_auswahl"
+              ? _c(
+                  "ul",
+                  { attrs: { id: "antworten" } },
+                  _vm._l(_vm.getOptions(quizBlock.id), function(option, index) {
+                    return _c("li", { key: index }, [
+                      _c(
+                        "button",
+                        {
+                          class: {
+                            active: _vm.isSelectedOption(quizBlock.id, option)
+                          },
+                          on: {
+                            click: function($event) {
+                              return _vm.handleChoice(quizBlock.id, option)
+                            }
+                          }
+                        },
+                        [_vm._v(_vm._s(option))]
+                      )
+                    ])
+                  }),
+                  0
+                )
+              : _vm._e()
+          ]
         )
-      ])
-    }),
-    0
+      })
+    ],
+    2
   )
 }
 var staticRenderFns = []
