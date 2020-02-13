@@ -1,6 +1,20 @@
+section[data-v-cc4b83] {
+  min-height: calc(100vh - 80px);
+}
+.active[data-v-cc4b83] {
+  font-weight: 700;
+}
 ul[data-v-cc4b83] {
   padding-left: 0;
 }
 li[data-v-cc4b83] {
   list-style: none;
+}
+button[data-v-cc4b83] {
+  margin-top: 10px;
+  width: 100%;
+}
+button.active[data-v-cc4b83] {
+  background-color: #081114;
+  color: white;
 }
