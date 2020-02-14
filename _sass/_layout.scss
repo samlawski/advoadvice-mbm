@@ -163,7 +163,10 @@
 }
 
 .page__nav__spacer {
-  height: 80px;
+  height: 74px;
+  @media(min-width: $media-md){
+    height: 80px;
+  }
 }
 
 

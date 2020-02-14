@@ -13,7 +13,9 @@ layout: default
     <nav>
       <ul>
         {% for abschnitt in page.abschnitte %}
-          <li><a href="#{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</a></li>
+          {% if abschnitt.titel %}
+            <li><a href="#{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</a></li>
+          {% endif %}
         {% endfor %}
       </ul>
     </nav>
@@ -52,19 +54,31 @@ layout: default
 
   <section class="abschnitte">
     {% for abschnitt in page.abschnitte %}
-      <div class="abschnitt {{abschnitt.abschnitt_template}} {% if abschnitt.image %}{% else %}abschnitt--noimage{% endif %}">
+      <div class="abschnitt {{abschnitt.abschnitt_template}} {% unless abschnitt.image %}abschnitt--noimage{% endunless %}">
         <article>
-          <h2 class="abschnitt__header" id="{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</h2>
-          {% if abschnitt.image %}
+
+          {% if abschnitt.titel %}
+            <h2 class="abschnitt__header" id="{{abschnitt.titel | slugify}}">{{abschnitt.titel}}</h2>
+          {% endif %}
+
+          {% if abschnitt.abschnitt_template == "grafik_volle_breite" %}
+            <div class="abschnitt__img--tag">
+              <img src="{{abschnitt.image}}" alt="{{abschnitt.titel}} Grafik">
+            </div>
+          {% elsif abschnitt.image %}
             <div class="abschnitt__img" style="background-image: url('{{abschnitt.image}}')"></div>
           {% endif %}
-          <div class="abschnitt__text">
-            <div>{{abschnitt.text_markdown | markdownify}}</div>
 
-            {% if abschnitt.cta %}
-              <a class="abschnitt__cta button" href="#kontakt">Kostenlos Gespräch vereinbaren</a>
-            {% endif %}
-          </div>
+          {% if abschnitt.text_markdown %}
+            <div class="abschnitt__text">
+              <div>{{abschnitt.text_markdown | markdownify}}</div>
+
+              {% if abschnitt.cta %}
+                <a class="abschnitt__cta button" href="#kontakt">Kostenlos Gespräch vereinbaren</a>
+              {% endif %}
+            </div>
+          {% endif %}
+
         </article>
       </div>
     {% endfor %}
