@@ -43,6 +43,7 @@ defaults:
         redirect_from: Für SEO. Hier können URLs eingegeben werden, von (!) denen zu dieser Seite weitergeleitet werden sollen.
         redirect_to: Wenn diese Seite nicht erreichbar sein soll und woanders hin weiterleiten sollte, kann die Weiterleitungs-URL hier eingefügt werden.
         feature_bild_path: Dieses Bild ist optional. Es wird beim Artikel ganz oben groß dargestellt. Also sollte es als großes Bild idealerweise funktionieren.
+        sitemap: Wenn dieses Häkchen nicht gesetzt ist, wird die Seite bei Google nicht indexiert.
       
 # CloudCannon
 abschnitt_templates:
@@ -63,9 +64,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - siteicon.png
-  # Temporary excludions
-  - _topics/lettland-insolvenz.md
-
 
 # Plugin Settings
 plugins:
