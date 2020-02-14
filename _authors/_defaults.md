@@ -12,6 +12,6 @@ name:
 titel: 
 portrait_path:
 email:
-themes:
+themes: []
 reihenfolge: 99
 ---
