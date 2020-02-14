@@ -62,35 +62,27 @@ Darüber hinaus setzen wir beim Besuch unserer Website Cookies sowie Analysedien
 
 #### b) Bei Nutzung unseres Kontaktformulars
 
-Bei Fragen jeglicher Art bieten wir Ihnen die Möglichkeit, mit uns über ein auf der Website bereitgestelltes Formular Kontakt aufzunehmen. Dabei ist die Angabe einer gültigen E-Mail-Adresse sowie Ihres Namens erforderlich, damit wir wissen, von wem die Anfrage stammt und um diese beantworten zu können. Weitere Angaben können freiwillig getätigt werden.
+Wenn Sie das auf der Webseite angebotenen Kontaktformular benutzen möchten, um mit uns in Kontakt zu treten, benötigen wir die im Formular abgefragten Daten zur Beantwortung Ihrer Anfrage. Einige Daten werden dabei nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für die Bearbeitung Ihrer Anfrage und geben diese nicht an Dritte weiter. Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten können Sie jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden von uns solange gespeichert, bis Sie uns zur Löschung auffordern oder gesetzliche Fristen die Löschung von uns erlauben oder verlangen. 
 
-Die Datenverarbeitung zum Zwecke der Kontaktaufnahme mit uns erfolgt nach Art. 6 Abs. 1 S. 1 lit. a DSGVO auf Grundlage Ihrer freiwillig erteilten Einwilligung.
+**CentralStationCRM** 
 
-Die für die Benutzung des Kontaktformulars von uns erhobenen personenbezogenen Daten werden nach Erledigung der von Ihnen gestellten Anfrage gelöscht.
+Diese Website nutzt die CRM-Software CentralStationCRM für die Speicherung und Verarbeitung Ihrer Kontaktaufnahme. Anbieter ist die 42he GmbH, Marktstraße 10 - Gebäude E8, 50968 Köln, Deutschland. CentralStationCRM ist ein Dienst, mit dem u.a. Kunden organisiert und betreut werden können. Die von Ihnen zum Zwecke der Kontaktaufnahme eingegeben Daten werden auf den Servern von CentralStationCRM in Deutschland gespeichert. Wenn Sie keine weitere Verarbeitung durch CentralStationCRM wollen, müssen Sie den Betreiber dieser Webseite nach Ihrer Kontaktaufnahme darüber informieren. 
 
-c) Nutzung von Netlify
+**Datenanalyse durch CentralStationCRM** 
 
-Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
+Mit Hilfe von CentralStationCRM ist es uns möglich die Anfragen über unsere Webseite besser zu organisieren und schneller beantworten zu können. CentralStationCRM ermöglicht es uns auch, unsere Kunden und Kontakte besser gruppieren zu können. Dadurch können wir zielgerichteter in Vertrieb und Marketing arbeiten.
 
-Ihre persönlichen Daten werden von Netlify verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
-
-Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
-
-Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” findest du unter[ ](https://www.netlify.com/privacy/)[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/).
-
-d) Verwendung von Google ReCaptcha
-
-Zum Schutz Ihrer Anfragen über unser Kontaktformular auf unserer Webseite www.advoadvice.de verwenden wir den Dienst ReCapcha des Unternehmens Google Inc. (Google). Die Abfrage soll sicherstellen, dass diese durch einen Menschen und nicht missbräuchlich durch eine automatisierte oder maschinelle Verarbeitung erfolgt.
-
-Die Abfrage schließt hierbei den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst ReCaptcha benötigter Daten an Google ein. Ihre Eingabe wird an Google übermittelt und dort weiter verwendet.
-
-Durch die Benutzung der ReCaptcha Funktion erklären Sie sich damit einverstanden, dass die von Ihnen durchgeführte Erkennungsabfrage an Google übermittelt und dort gespeichert bzw. weiterverarbeitet wird.
-
-Durch die IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse innerhalb von Mitgliedsstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt übertragen. 
-
-Google wird diese Informationen benutzen, um Ihre Nutzung dieses Dienstes auszuwerten. Die im Rahmen von reCaptcha von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Für diese Daten gelten die abweichenden Datenschutzbestimmungen des Unternehmens Google.
-
-Weitere Informationen zu den Datenschutzrichtlinien von Google finden Sie unter: https://www.google.com/intl/de/policies/privacy/
+ **Rechtsgrundlage** 
+ 
+ Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. 
+ 
+ **Speicherdauer** 
+ 
+ Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden von uns so lange gespeichert, bis diese von uns gelöscht werden. Näheres entnehmen Sie den Datenschutzbestimmungen von CentralStationCRM unter: https://centralstationcrm.net/www/privacy 
+ 
+ **Abschluss eines Vertrags über Auftragsdatenverarbeitung** 
+ 
+ Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
 
 ### 3\. Weitergabe von Daten
 
