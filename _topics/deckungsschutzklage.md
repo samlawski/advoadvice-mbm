@@ -70,4 +70,5 @@ abschnitte:
     cta: false
 redirect_from: 
 redirect_to: 
+sitemap: true
 ---
