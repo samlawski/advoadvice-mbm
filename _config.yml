@@ -50,6 +50,7 @@ abschnitt_templates:
   - banner_bild_rechts
   - box_hell
   - box_dunkel
+  - grafik_volle_breite
 
 # Build settings
 markdown: kramdown
@@ -62,6 +63,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - siteicon.png
+  # Temporary excludions
+  - _topics/lettland-insolvenz.md
 
 
 # Plugin Settings
