@@ -42,4 +42,5 @@ abschnitte:
 redirect_from: 
   - '/themen/immobilienrecht'
 redirect_to: 
+sitemap: true
 ---
