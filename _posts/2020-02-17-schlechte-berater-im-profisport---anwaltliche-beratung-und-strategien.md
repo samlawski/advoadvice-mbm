@@ -1,6 +1,6 @@
 ---
 title: Schlechte Berater im Profisport - Anwaltliche Beratung und Strategien
-date: 2020-02-18 00:00:00
+date: 2020-02-17 00:00:00
 description: >-
   Die Beratung von Sportlern im Leistungssport ist geprägt von professionellen
   Beratern. Sie kümmern sich um sportliche und finanzielle Belange. Fehler
