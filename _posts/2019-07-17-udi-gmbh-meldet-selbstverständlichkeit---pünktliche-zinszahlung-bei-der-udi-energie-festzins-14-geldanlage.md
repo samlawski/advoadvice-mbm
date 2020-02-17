@@ -6,7 +6,7 @@ date: 2019-07-17 00:00:00
 description: UDI Energie FESTZINS 14
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-1.jpg
 tags:
   - UDI Energie Festzins 14
   - Festzinsanlage UDI
@@ -22,10 +22,6 @@ topics:
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
-
-&nbsp;
-
-![](/uploads/money-1005464-640-10.jpg){: width="640" height="369"}
 
 Mit Pressemitteilung vom 4.7.2019 hat die UDI GmbH mitgeteilt, dass die Vermögensanlage UDI Energie Festzins 14 „p&uuml;nktlich und vollst&auml;ndig" zum 30.6.2019 die "vereinbarte Verzinsung von 4,0 % p.a." an die Anleger ausgezahlt habe. So weit, so gut. Aber die Tatsache, dass UDI GmbH nun Selbstverst&auml;ndlichkeiten als Pressemitteilung herausgibt, ist bemerkenswert.
 
