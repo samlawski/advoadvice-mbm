@@ -4,7 +4,7 @@ date: 2020-01-20 00:00:00
 description: Dissertation von Raphael Rohrmoser in Kürze im Handel erhältlich.
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/rohrmoser-diss-1.jpg
 tags:
   - Rohrmoser
   - Dissertation
