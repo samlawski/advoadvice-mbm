@@ -4,7 +4,7 @@ date: 2020-01-15 00:00:00
 description: Collectia GmbH zum Widerruf eines Negativeintrages verurteilt.
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/man-2037255-1280-1.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
@@ -29,8 +29,6 @@ Im November 2019 meldete sich ein junger Mann aus Berlin bei den AdvoAdvice Rech
 ### Einstweilige Verf&uuml;gung noch möglich
 
 Obwohl der Negativeintrag bereits aus dem Jahr 2017 stammte und die Forderung zum Ablauf des Jahres 2017 auch ausgeglichen, der SCHUFA-Eintrag damit als "erledigt" vermerkt wurde, war eine einstweilige Verf&uuml;gung noch möglich. Hintergrund ist zun&auml;chst, dass Negativeintr&auml;ge auch nach ihrer Erledigung f&uuml;r weitere drei Jahre gespeichert bleiben.&nbsp;
-
-![Fitness - Foto Pixabay](/uploads/sport-1235019-1280-1.jpg "Zahlungsverzug bei Fitnessstudio führte zu Schufa Eintrag"){: width="1280" height="853"}
 
 Antr&auml;ge auf Erlass einer einstweiligen Verf&uuml;gung sind im Grundsatz an eine Eilbed&uuml;rftigkeit gebunden, sodass man die Zul&auml;ssigkeit bei einem Eintrag aus dem Jahr 2017 hinterfragen könnte. Ma&szlig;geblich ist aber nicht der Eintragungszeitpunkt, sondern der Zeitpunkt der tats&auml;chlich gesicherten Kenntnisnahme des Negativeintrages. Die Kenntnisnahme folgte hier erst daraus, dass sich der Betroffene nach einer abgelehnten Kreditvergabe eine SCHUFA-Auskunft organisierte und dort den entsprechenden Eintrag vorfand. Aufgrund des abgelehnten Kredites und weiterer Anhaltspunkte war auch ein z&uuml;giges Vorgehen gegen den Eintrag notwendig.
 
