@@ -1,5 +1,7 @@
 ---
-title: "TerraMetal Invest GmbH - Investitionen in strategische Metalle und seltene\_Erden"
+title: >-
+  TerraMetal Invest GmbH - TerraMetal Swiss GmbH - Mandanten monieren
+  Verzögerungen bei Verkauf von Metallen
 date: 2020-02-07 00:00:00
 description: >-
   Die TerraMetal Invest GmbH aus dem schleswig-holsteinischen Quickborn bietet
@@ -8,7 +10,7 @@ description: >-
   in Zollfreilagern, beispielsweise in der Schweiz, deponieren.
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/erz.jpg
 tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
   - AdvoAdvice
@@ -27,9 +29,11 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-![](/uploads/erz.jpg){: width="1280" height="853"}
+&nbsp;
 
 Angesichts der Niedrigzinspolitik der EZB und dem damit verbundenen Ausbleiben von Renditechancen haben sich neben den klassischen Investitionsformen in Immobilien und Edelmetallen in den letzten Jahren auch Anbietermodelle entwickelt, welche Investitionen in sogenannte strategische Metalle und seltenen Erden anbieten.
+
+### Was sind strategische Metalle und seltene Erden?
 
 Seltene Erden sind kostbare Metalle, die haupts&auml;chlich in der Industrieproduktion zum Einsatz kommen und sich auch in vielen Produkten der Computer-Hochtechnologie befinden. Dazu z&auml;hlt z.B. Cerium, Neodym, Samarium oder Scandium. Strategische Metalle werden oft auch als Technologiemetalle mit besonderen Eigenschaften bezeichnet. Dazu gehören beispielsweise Indium, Gallium und Tellur.
 
@@ -39,7 +43,9 @@ Allerdings ist zu beachten, dass diese Metalle mitunter starken Wertschwankungen
 
 Seitdem die chinesische Regierung seit dem 15. Juli 2019 verbindliche Standards im Umgang mit seltenen Erden eingef&uuml;hrt hat um den illegalen Abbau und die Lagerung und damit das Angebot an seltenen Erden zumindest kurz bis mittelfristig zu verknappen, ist auch eine fortlaufende Entwicklung in diesem Rohstoffmarkt ersichtlich.
 
-Ein Anbieter solcher Metalle ist die TerraMetal Invest GmbH aus dem schleswig-holsteinischen Quickborn.
+### TerraMetal&nbsp; Invest GmbH - TerraMetal Swiss GmbH
+
+Ein Anbieter solcher Metalle ist die TerraMetal Invest GmbH aus dem schleswig-holsteinischen Quickborn. Mit der TerraMetal Swiss GmbH schlie&szlig;en Anleger einen Lagervertrag ab, wenn diese sich entschlie&szlig;en, die von Ihnen erworbenen Metalle nicht selbst ausgeh&auml;ndigt zu bekommen, sondern in einem Zollfreilager in der Schweiz zu deoponieren.
 
 Unter anderem werden dort Metalle angeboten, die sich in Verbindung mit einem Kauf-und Lagervertrag erwerben und in Zollfreilagern, beispielsweise in der Schweiz, deponiert werden können.
 
