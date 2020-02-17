@@ -4,7 +4,7 @@ date: 2020-01-02 00:00:00
 description: UDI Energie Festzins IX - Rückzahlungen - Anleger in Sorge
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-1.jpg
 tags:
   - UDI GmbH
   - UDI Energie Festzins IX
@@ -24,7 +24,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-![](/uploads/money-1005464-640-10.jpg){: width="640" height="369"}
+&nbsp;
 
 Die UDI GmbH (bis zum 17.05.2019 "UDI Beratungsgesellschaft mbH"), ist ein gro&szlig;er, bankenunabh&auml;ngiger Direktvertrieb von ökologischen Geldanlagen und hat nach Erkenntnissen der Zeitschrift Finanztest (Ausgabe 2/2019) mittlerweile rund 17.500 Anleger angeworben und seit 1998 eine rund halbe Milliarde Euro vor allem f&uuml;r 383 Windkraftanlagen, 46 Biogasanlagen und 90 Solarprojekte eingeworben.&nbsp; Dies unter anderem mit Hilfe von Nachrangdarlehen und unter Verwendung des Namensteils “Festzins” bei bestimmten Anlageformen.&nbsp;
 
