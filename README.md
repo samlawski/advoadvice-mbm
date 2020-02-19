@@ -5,30 +5,23 @@ This website is built with Jekyll and optimized to be hosted on CloudCannon.
 ## Installation
 
 ```
-bundle install
-npm install
+npm run setup
 ```
 
 ## Run Dev server
 
-When editing all HTML and CSS:
+The website uses Jekyll for static site generation and Parcel for assets (currently only for the interactive Schufa tool).
 
-```
-jekyll serve
-```
-
-When working with the "Schufa-Tool" and the JavaScript involving it als run:
-
-```
-npm run dev
-```
+To listen to changes to all files just run `npm run dev` and both the Jekyll process and the Parcel process will start.
 
 ## Build & Deploy
 
 Builds the site in `_site`, although not necessary for platforms like Netlify/CloudCannon: 
 
 ```
-jekyll build
+npm run build
 ```
 
-**Important!** Whenever you make any changes to things in `assets/_js`, you need to run `npm run build` before deployment.
+That will execute both `jekyll build` as well as the Parcel build step. 
+
+Check the package.json for details. 
