@@ -4,7 +4,7 @@ date: 2020-01-23 00:00:00
 description: LogisFonds I reicht Zahlungsklagen gegen Anleger ein
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/academia-1293362-640-3.png
 tags:
   - LogisFonds I GmbH
   - Klage
