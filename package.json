@@ -4,8 +4,11 @@
   "description": "AdvoADvice",
   "main": "/assets/_app.js",
   "scripts": {
-    "dev": "parcel assets/_js/main.js --out-dir assets/dist --public-url .",
-    "build": "parcel build assets/_js/main.js --out-dir assets/dist --public-url ."
+    "setup": "npm install; bundle install",
+    "dev": "(parcel assets/_js/main.js --out-dir assets/dist --public-url .) & jekyll serve",
+    "build": "npm run build-assets; jekyll build",
+    "dev-assets": "parcel assets/_js/main.js --out-dir assets/dist --public-url .",
+    "build-assets": "parcel build assets/_js/main.js --out-dir assets/dist --public-url ."
   },
   "repository": {
     "type": "git",
