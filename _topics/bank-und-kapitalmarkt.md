@@ -195,4 +195,5 @@ abschnitte:
 redirect_from: 
   - '/themen/bank-und-kapitalmarktrecht'
 redirect_to: 
+sitemap: true
 ---

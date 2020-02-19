@@ -6,7 +6,7 @@ description: >-
   Vermögenswerte sicher
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/gold-bars-2467833-1920-1.jpg
 tags:
   - PIM Gold
   - Pim Gold und Scheideanstalt GmbH
@@ -22,8 +22,6 @@ topics:
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
-
-![](/uploads/gold-bars-2467833-1920.jpg){: width="1920" height="1280"}
 
 Nach &uuml;bereinstimmenden Medienberichten im Handelsblatt, Frankfurter Rundschau, der BILD-Zeitung und weiteren Online-Publikationen lie&szlig; die Staatsanwaltschaft&nbsp; Darmstadt am 04.09.2019 die Gesch&auml;ftsr&auml;ume der PIM Gold GmbH durchsuchen und Vermögenswerte im Rahmen eines Ermittlungsverfahrens unter anderem wegen schweren gewerbsm&auml;&szlig;igen Betruges sichern. Auch soll der Gesch&auml;ftsf&uuml;hrer des Unternehmens in Untersuchungshaft genommen worden sein.
 
