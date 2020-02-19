@@ -253,88 +253,7 @@ clearAllCookies()
   })
 })()
 
-
-// /* *** reCaptcha Cookies / Contact Form *** */
-
-
-// var captchas = []
-
-// ;(function(){
-//   var $captchaScriptContainer = document.getElementById('captcha_script_container'),
-//       $cookieCheckInputs      = document.querySelectorAll('.cookie_check--js'),
-//       $cookieCheckContainers  = document.querySelectorAll('.cookie_check_container--js'),
-//       $captchaContainers      = document.querySelectorAll('.captcha_container--js'),
-//       $sendBtns               = document.querySelectorAll('.kontakt__send')
-
-//   // Don't run unless necessary elements are present
-//   if($cookieCheckInputs.length == 0) return 
-
-//   // Methods
-
-//   function _enableSendBtn(){
-//     $sendBtns.forEach(function($btn){
-//       $btn.disabled = false
-//     })
-//   }
-//   function _disableSendBtn(){
-//     $sendBtns.forEach(function($btn){
-//       $btn.disabled = true
-//     })
-//   }
-
-//   function _activateRecaptcha(){
-//     var recaptchaAgreed = arrayFrom($cookieCheckInputs).some(function($check){
-//       return $check.checked
-//     })
-    
-//     if(recaptchaAgreed){
-//       // After the recaptcha script has been inserted and loaded
-//       window.recaptchaLoaded = function(){
-//         // Activate reCaptcha for all forms
-//         $captchaContainers.forEach(function($container){
-//           // Add loaded captcha to array.
-//           captchas.push(
-//             grecaptcha.render($container.id, {
-//               'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
-//               'callback' : _enableSendBtn,
-//               'expired-callback' : _disableSendBtn
-//             })
-//           )
-//         })
-         
-//         // Hide all Cookie request checks
-//         $cookieCheckContainers.forEach(function($check){
-//           $check.style.display = 'none'
-//         })
-//       }
-      
-//       // Insert reCaptcha script
-//       var tempScript  = document.createElement('script')
-
-//       tempScript.src = "https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded&render=explicit"
-//       tempScript.async = true
-//       tempScript.defer = true
-
-//       $captchaScriptContainer.appendChild(tempScript)
-
-//       // Show loading spinner until all is loaded
-//       $cookieCheckContainers.forEach(function($check){
-//         $check.innerHTML = '<div class="loader"></div>'
-//       })
-//     }else{
-//       clearAllCookies()
-//     }
-//   }
-
-//   // Execution
-//   $cookieCheckInputs.forEach(function($check){
-//     $check.addEventListener('change', _activateRecaptcha)
-//   })
-// })()
-
-
 /* *** Contact Form / CRM script *** */
-
 
 ;(function(){
   var $crmScriptContainer     = document.getElementById('crm_script_container'),
@@ -402,29 +321,31 @@ clearAllCookies()
   }
 
   // Execution
+  // Listen to Cookie agreement and activate CRM form when clicking "agree"
   $cookieCheckInputs.forEach(function($check){
     $check.addEventListener('change', _activateCRMform)
   })
-})()
 
-arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
-  $sendBtn.addEventListener('click', function(event){
-    event.preventDefault()
-
-    var $contactForm      = $sendBtn.closest('.kontakt'),
-        $crmForm          = document.querySelector('#cscrm_wf_inner_d35c6634-4e50-11ea-8efe-0cc47a45bfdd')
-
-    if($contactForm.reportValidity()){
-      var nameAsArr = $contactForm.querySelector('[name="name"]').value.split(' ')
-
-      $crmForm.querySelector('#person_first_name').value = nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0]
-      $crmForm.querySelector('#person_name').value = nameAsArr.slice(-1)[0]
-      $crmForm.querySelector('#person_emails_attributes_0_name').value = $contactForm.querySelector('[name="email"]').value
-      $crmForm.querySelector('#person_tels_attributes_0_name').value = $contactForm.querySelector('[name="tel"]').value
-      $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = $contactForm.querySelector('[name="anliegen"]').value
-
-      $crmForm.querySelector('form').submit()
-    }
-
+  // Listen to Kontakt form send clicks and fill the CRM form when clicking "send"
+  arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
+    $sendBtn.addEventListener('click', function(event){
+      event.preventDefault()
+  
+      var $contactForm      = $sendBtn.closest('.kontakt'),
+          $crmForm          = document.querySelector('#cscrm_wf_inner_d35c6634-4e50-11ea-8efe-0cc47a45bfdd')
+  
+      if($contactForm.reportValidity()){
+        var nameAsArr = $contactForm.querySelector('[name="name"]').value.split(' ')
+  
+        $crmForm.querySelector('#person_first_name').value = nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0]
+        $crmForm.querySelector('#person_name').value = nameAsArr.slice(-1)[0]
+        $crmForm.querySelector('#person_emails_attributes_0_name').value = $contactForm.querySelector('[name="email"]').value
+        $crmForm.querySelector('#person_tels_attributes_0_name').value = $contactForm.querySelector('[name="tel"]').value
+        $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = $contactForm.querySelector('[name="anliegen"]').value
+  
+        $crmForm.querySelector('[type="submit"]').click()
+      }
+  
+    })
   })
-})
+})()
