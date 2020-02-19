@@ -1,11 +1,11 @@
-<form class="kontakt_{{ include.id }}" name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
+<form class="kontakt_{{ include.id }} kontakt" name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
   <div class="kontakt__inputs">
     <input type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required>
     <input type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required>
     <input type="tel" name="tel" placeholder="Ihre Telefonnummer ..." aria-label="Ihre Telefonnummer">
   </div>
   
-  <textarea name="anliegen" placeholder="Ihr Anliegen ..." aria-label="Ihr Anliegen als Text" rows="3"></textarea>
+  <textarea name="anliegen" placeholder="Ihr Anliegen ..." aria-label="Ihr Anliegen als Text" rows="3" required></textarea>
 
   <label for="gdpr_check_{{ include.id }}">
     <input type="checkbox" name="gdpr_check" id="gdpr_check_{{ include.id }}" aria-label="Nutzung meiner Daten zustimmen" required>
@@ -18,5 +18,11 @@
 
   <div class="captcha_container--js" id="captcha_container_{{ include.id }}"></div>
 
-  <input class="kontakt__send" type="submit" value="Anfrage senden" aria-label="Formular absenden" disabled>
+  <button class="kontakt__send" type="submit" aria-label="Formular absenden" disabled>Anfrage senden</button>
 </form>
+<noscript>
+  <style>
+    .kontakt_{{ include.id }} { display: none; }
+  </style>
+  <p>Schreiben Sie uns einfach eine Email an <a href="mailto:info@advoadvice.de">info@advoadvice.de</a> oder rufen Sie uns an unter <a href="tel:00493092100040">030 - 921 000 40</a>.</p>
+</noscript>
