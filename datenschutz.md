@@ -72,17 +72,17 @@ Diese Website nutzt die CRM-Software CentralStationCRM für die Speicherung und 
 
 Mit Hilfe von CentralStationCRM ist es uns möglich die Anfragen über unsere Webseite besser zu organisieren und schneller beantworten zu können. CentralStationCRM ermöglicht es uns auch, unsere Kunden und Kontakte besser gruppieren zu können. Dadurch können wir zielgerichteter in Vertrieb und Marketing arbeiten.
 
- **Rechtsgrundlage** 
- 
- Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. 
- 
- **Speicherdauer** 
- 
- Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden von uns so lange gespeichert, bis diese von uns gelöscht werden. Näheres entnehmen Sie den Datenschutzbestimmungen von CentralStationCRM unter: https://centralstationcrm.net/www/privacy 
- 
- **Abschluss eines Vertrags über Auftragsdatenverarbeitung** 
- 
- Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
+**Rechtsgrundlage** 
+
+Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. 
+
+**Speicherdauer** 
+
+Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden von uns so lange gespeichert, bis diese von uns gelöscht werden. Näheres entnehmen Sie den Datenschutzbestimmungen von CentralStationCRM unter: https://centralstationcrm.net/www/privacy 
+
+**Abschluss eines Vertrags über Auftragsdatenverarbeitung** 
+
+Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
 
 ### 3\. Weitergabe von Daten
 
