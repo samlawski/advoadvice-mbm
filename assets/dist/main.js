@@ -12467,8 +12467,11 @@ exports.default = void 0;
 //
 //
 //
-var repo = repoSchufa,
-    firstBlockId = repo[0].block_id;
+var repo = {
+  fragen: repoFragen,
+  auswertungen: repoAuswertungen
+};
+var firstBlockId = repo.fragen[0].block_id;
 
 var flattenArr = function flattenArr(arr) {
   return [].concat.apply([], arr);
@@ -12479,13 +12482,13 @@ var flattenAndMerge = function flattenAndMerge(arr1, arr2) {
 };
 
 var getBlockById = function getBlockById(id) {
-  return repo.find(function (block) {
+  return repo.fragen.find(function (block) {
     return block.block_id == id;
   });
 };
 
 var getBlocksByIds = function getBlocksByIds(ids) {
-  return repo.filter(function (block) {
+  return repo.fragen.filter(function (block) {
     return ids.includes(block.block_id);
   });
 };
@@ -12840,7 +12843,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54565" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60919" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
