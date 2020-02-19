@@ -6,7 +6,7 @@ date: 2020-01-27 00:00:00
 description: Auxilia erteilt Deckungsschutz für Klage nach Ombudsmannverfahren
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/shaking-hands-3091906-1280.jpg
 tags:
   - Erfolg
   - Deckungsschutz

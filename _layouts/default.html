@@ -43,6 +43,21 @@
         navigator.serviceWorker.register("{{ site.baseurl }}/serviceworker.js", { scope: "./" })
       }
     </script>
+    <!-- Matomo -->
+    <script type="text/javascript">
+      var _paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//analytics.tintemann.de/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Matomo Code -->
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -127,8 +142,12 @@
     </footer>
     
     <!-- JavaScript -->
-    <div id="captcha_script_container"></div> <!-- Dynamically added by form (see main.js) -->
-
+    <!-- Dynamically add contact form -->
+    <div id="cscrm_wf_d35c6634-4e50-11ea-8efe-0cc47a45bfdd" class="cscrm_webform_container"></div>
+    <div id="crm_script_container"></div>
+    <!-- Dynamically Add recaptcha: (see main.js) -->
+    <div id="captcha_script_container"></div> 
+    <!-- Scripts -->
     <script src="/assets/js/plugins/elasticlunr.js"></script> 
     <script src="/assets/js/main.js"></script>
   </body>
