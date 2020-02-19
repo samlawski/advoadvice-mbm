@@ -281,11 +281,11 @@ clearAllCookies()
     var cookiesAgreed = arrayFrom($cookieCheckInputs).some(function($check){
       return $check.checked
     })
-
-    // Analytics:
-    _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Cookies erlauben', cookiesAgreed])
     
     if(cookiesAgreed){
+      // Analytics:
+      _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Cookies erlauben', 'erlaubt'])
+
       // Insert CRM script
       var tempScript  = document.createElement('script')
       tempScript.src = "https://external.centralstationcrm.net/external/web_forms/d35c6634-4e50-11ea-8efe-0cc47a45bfdd.js"
@@ -320,6 +320,9 @@ clearAllCookies()
       checkPresenceOfCrmForm()
 
     }else{
+      // Analytics:
+      _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Cookies erlauben', 'nicht erlaubt'])
+
       _disableSendBtn()
       clearAllCookies()
     }
