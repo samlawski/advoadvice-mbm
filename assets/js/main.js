@@ -281,6 +281,9 @@ clearAllCookies()
     var cookiesAgreed = arrayFrom($cookieCheckInputs).some(function($check){
       return $check.checked
     })
+
+    // Analytics:
+    _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Cookies erlauben', cookiesAgreed])
     
     if(cookiesAgreed){
       // Insert CRM script
@@ -297,7 +300,6 @@ clearAllCookies()
       // Recursively check if form is loaded yet
       var presenceCheckTime = 0
       var checkPresenceOfCrmForm = function(){ 
-        console.log('run again', presenceCheckTime)
         var $crmForm = document.querySelector('.cscrm_webform_container')
 
         if($crmForm.innerHTML.length > 0){
@@ -306,6 +308,9 @@ clearAllCookies()
           })
           _enableSendBtn()
         }else if(presenceCheckTime >= 50){ // Stop and show Error
+          // Analytics:
+          _paq.push(['trackEvent', 'Kontaktformular', 'CRM Formular laden fehlgeschlagen'])
+
           alert('Leider reagiert das Formular leider nicht. Das kann unter anderem an einer schlechten Internetverbindung liegen. Bitte senden Sie uns einfach eine email an info@advoadvice.de oder rufen Sie uns an unter 030 - 921 000 40.')
         }else{ // Run again in 100 ms
           presenceCheckTime = presenceCheckTime + 1
@@ -335,6 +340,9 @@ clearAllCookies()
           $crmForm          = document.querySelector('#cscrm_wf_inner_d35c6634-4e50-11ea-8efe-0cc47a45bfdd')
   
       if($contactForm.reportValidity()){
+        // Analytics:
+        _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Senden', 'vollständig'])
+
         var nameAsArr = $contactForm.querySelector('[name="name"]').value.split(' ')
   
         $crmForm.querySelector('#person_first_name').value = nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0]
@@ -344,6 +352,9 @@ clearAllCookies()
         $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = $contactForm.querySelector('[name="anliegen"]').value
   
         $crmForm.querySelector('[type="submit"]').click()
+      }else{
+        // Analytics:
+        _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Senden', 'unvollständig'])
       }
   
     })
