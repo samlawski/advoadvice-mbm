@@ -4,7 +4,7 @@ date: 2020-01-13 00:00:00
 description: 8. Informationstag zur Insolvenz in Lettland in Berlin
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/european-union-1328256-640-3.png
 tags:
   - Insolvenz
   - Lettland

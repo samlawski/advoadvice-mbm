@@ -25,7 +25,7 @@ $font-family--text:       'Source Sans Pro', "Helvetica Neue", Helvetica, Arial,
 $font-family--title:      'Playfair Display', "Georgia", serif;
 $font-size:               16px;
  
-$media-sm:                600px;
+$media-sm:                567px;
 $media-md:                850px;
 $media-lg:                1024px;
 
@@ -47,6 +47,7 @@ $shadow:                  0 5px 10px $clr-transparent-bl-3;
   "global",
   "layout",
   "components/article",
+  "components/crm_kontakt_formular",
   "pages/home",
   "pages/topic",
   "pages/blog",

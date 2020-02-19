@@ -256,5 +256,39 @@
         "text";
     }
 
+    .grafik_volle_breite {
+      article {
+        max-width: $max-width;
+      }
+
+      article,
+      .abschnitt__header,
+      .abschnitt__text {
+        display: block;
+        margin: auto;
+        text-align: center;
+      }
+
+      .abschnitt__img--tag {
+        overflow: scroll;
+
+        margin-top: 40px;
+        margin-bottom: 20px;
+      }
+      .abschnitt__img--tag img {
+        height: 300px;
+      }
+      @media(min-width: $media-sm){
+        .abschnitt__img--tag {
+          overflow: unset;
+        }
+        .abschnitt__img--tag img {
+          max-width: 100%;
+          height: auto;
+          margin: auto;
+        }
+      }
+    }
+
   }
 }

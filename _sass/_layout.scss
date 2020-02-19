@@ -153,7 +153,10 @@
 }
 
 .page__nav__spacer {
-  height: 80px;
+  height: 74px;
+  @media(min-width: $media-md){
+    height: 80px;
+  }
 }
 
 
@@ -163,13 +166,17 @@
   background-color: $clr-primary;
   color: $clr-bg;
 
-  input, textarea {
+  input, textarea, button {
     border-color: $clr-bg;
     color: $clr-bg; 
 
     &::placeholder {
       color: $clr-transparent-wh-7;
     }
+  }
+  button:hover {
+    background-color: $clr-bg;
+    color: $clr-text; 
   }
   label, input, textarea {
     display: block;

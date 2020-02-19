@@ -1,5 +1,6 @@
 /*
 
+  - Polyfill
   - General Functions
   - On Page Load
   - Navigation
@@ -10,6 +11,66 @@
 
 /* *** template *** */
 ;(function(){})()
+
+/* *** Polyfill *** */
+
+if (!Element.prototype.matches) {
+  Element.prototype.matches = Element.prototype.msMatchesSelector || 
+                              Element.prototype.webkitMatchesSelector;
+}
+
+if (!Element.prototype.closest) {
+  Element.prototype.closest = function(s) {
+    var el = this;
+
+    do {
+      if (el.matches(s)) return el;
+      el = el.parentElement || el.parentNode;
+    } while (el !== null && el.nodeType === 1);
+    return null;
+  };
+}
+
+if (!HTMLFormElement.prototype.reportValidity) {
+  HTMLFormElement.prototype.reportValidity = function() {
+      if (this.checkValidity()) return true;
+      var btn = document.createElement('button');
+      this.appendChild(btn);
+      btn.click();
+      this.removeChild(btn);
+      return false;
+  };
+}
+
+if (!HTMLInputElement.prototype.reportValidity) {
+  HTMLInputElement.prototype.reportValidity = function(){
+      if (this.checkValidity()) return true
+      var tmpForm;
+      if (!this.form) {
+          tmpForm = document.createElement('form');
+          tmpForm.style.display = 'inline';
+          this.before(tmpForm);
+          tmpForm.append(this);
+      }
+      var siblings = Array.from(this.form.elements).filter(function(input){
+          return input !== this && !!input.checkValidity && !input.disabled;
+      },this);
+      siblings.forEach(function(input){
+          input.disabled = true;
+      });
+      this.form.reportValidity();
+      siblings.forEach(function(input){
+          input.disabled = false;
+      });
+      if (tmpForm) {
+          tmpForm.before(this);
+          tmpForm.remove();
+      }
+      this.focus();
+      this.selectionStart = 0;
+      return false;
+  };
+}
 
 /* *** General Functions *** */
 
@@ -192,15 +253,12 @@ clearAllCookies()
   })
 })()
 
-
-/* *** reCaptcha Cookies / Contact Form *** */
-var captchas = []
+/* *** Contact Form / CRM script *** */
 
 ;(function(){
-  var $captchaScriptContainer = document.getElementById('captcha_script_container'),
+  var $crmScriptContainer     = document.getElementById('crm_script_container'),
       $cookieCheckInputs      = document.querySelectorAll('.cookie_check--js'),
       $cookieCheckContainers  = document.querySelectorAll('.cookie_check_container--js'),
-      $captchaContainers      = document.querySelectorAll('.captcha_container--js'),
       $sendBtns               = document.querySelectorAll('.kontakt__send')
 
   // Don't run unless necessary elements are present
@@ -219,52 +277,75 @@ var captchas = []
     })
   }
 
-  function _activateRecaptcha(){
-    var recaptchaAgreed = arrayFrom($cookieCheckInputs).some(function($check){
+  function _activateCRMform(){
+    var cookiesAgreed = arrayFrom($cookieCheckInputs).some(function($check){
       return $check.checked
     })
     
-    if(recaptchaAgreed){
-      // After the recaptcha script has been inserted and loaded
-      window.recaptchaLoaded = function(){
-        // Activate reCaptcha for all forms
-        $captchaContainers.forEach(function($container){
-          // Add loaded captcha to array.
-          captchas.push(
-            grecaptcha.render($container.id, {
-              'sitekey' : '6Ldi5ikTAAAAABHxVmt2EX-spF7lDD1ZEi_qU7tn',
-              'callback' : _enableSendBtn,
-              'expired-callback' : _disableSendBtn
-            })
-          )
-        })
-         
-        // Hide all Cookie request checks
-        $cookieCheckContainers.forEach(function($check){
-          $check.style.display = 'none'
-        })
-      }
-      
-      // Insert reCaptcha script
+    if(cookiesAgreed){
+      // Insert CRM script
       var tempScript  = document.createElement('script')
+      tempScript.src = "https://external.centralstationcrm.net/external/web_forms/d35c6634-4e50-11ea-8efe-0cc47a45bfdd.js"
+      $crmScriptContainer.appendChild(tempScript)
 
-      tempScript.src = "https://www.google.com/recaptcha/api.js?onload=recaptchaLoaded&render=explicit"
-      tempScript.async = true
-      tempScript.defer = true
-
-      $captchaScriptContainer.appendChild(tempScript)
-
-      // Show loading spinner until all is loaded
-      $cookieCheckContainers.forEach(function($check){
-        $check.innerHTML = '<div class="loader"></div>'
+      // Enable Send buttons only once CRM form is loaded
+      // Set loading spinner
+      arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
+        $sendBtn.innerHTML = '<div class="loader"></div>'
       })
+
+      // Recursively check if form is loaded yet
+      var presenceCheckTime = 0
+      var checkPresenceOfCrmForm = function(){ 
+        console.log('run again', presenceCheckTime)
+        var $crmForm = document.querySelector('.cscrm_webform_container')
+
+        if($crmForm.innerHTML.length > 0){
+          arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
+            $sendBtn.innerHTML = 'Anfrage senden'
+          })
+          _enableSendBtn()
+        }else if(presenceCheckTime >= 50){ // Stop and show Error
+          alert('Leider reagiert das Formular leider nicht. Das kann unter anderem an einer schlechten Internetverbindung liegen. Bitte senden Sie uns einfach eine email an info@advoadvice.de oder rufen Sie uns an unter 030 - 921 000 40.')
+        }else{ // Run again in 100 ms
+          presenceCheckTime = presenceCheckTime + 1
+          setTimeout(checkPresenceOfCrmForm, 100)
+        }
+      }
+      checkPresenceOfCrmForm()
+
     }else{
+      _disableSendBtn()
       clearAllCookies()
     }
   }
 
   // Execution
+  // Listen to Cookie agreement and activate CRM form when clicking "agree"
   $cookieCheckInputs.forEach(function($check){
-    $check.addEventListener('change', _activateRecaptcha)
+    $check.addEventListener('change', _activateCRMform)
+  })
+
+  // Listen to Kontakt form send clicks and fill the CRM form when clicking "send"
+  arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
+    $sendBtn.addEventListener('click', function(event){
+      event.preventDefault()
+  
+      var $contactForm      = $sendBtn.closest('.kontakt'),
+          $crmForm          = document.querySelector('#cscrm_wf_inner_d35c6634-4e50-11ea-8efe-0cc47a45bfdd')
+  
+      if($contactForm.reportValidity()){
+        var nameAsArr = $contactForm.querySelector('[name="name"]').value.split(' ')
+  
+        $crmForm.querySelector('#person_first_name').value = nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0]
+        $crmForm.querySelector('#person_name').value = nameAsArr.slice(-1)[0]
+        $crmForm.querySelector('#person_emails_attributes_0_name').value = $contactForm.querySelector('[name="email"]').value
+        $crmForm.querySelector('#person_tels_attributes_0_name').value = $contactForm.querySelector('[name="tel"]').value
+        $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = $contactForm.querySelector('[name="anliegen"]').value
+  
+        $crmForm.querySelector('[type="submit"]').click()
+      }
+  
+    })
   })
 })()

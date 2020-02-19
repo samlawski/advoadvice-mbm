@@ -8,7 +8,7 @@ description: >-
   gescheitert
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-1.jpg
 tags:
   - ClinicAll Germany
   - ClinicAll Germany GmbH
@@ -23,8 +23,6 @@ topics:
   - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
-
-![](/uploads/money-1005464-640-1.jpg){: width="640" height="369"}
 
 Noch Mitte September 2019 versuchte die Gesch&auml;ftsf&uuml;hrung der ClinicAll Germany GmbH angesichts der dramatischen wirtschaftlichen Lage der Gesellschaft, im Rahmen eines sogenannten „Schutzschirmverfahrens" (Freiwillige Eröffnung eines Insolvenzverfahrens in Eigenverwaltung, &sect;270b InsO) die Z&uuml;gel selber in der Hand zu behalten und unter Aufsicht eines vom Insolvenzgericht bestellten Sachwalters weiter die Geschicke des Unternehmens zu lenken. [Den Bericht der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB&nbsp; finden Sie hier](https://advoadvice.de/blog/clinicall-germany-antrag-auf-insolvenz-in-eigenverwaltung/).
 

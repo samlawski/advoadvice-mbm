@@ -4,7 +4,7 @@ date: 2020-01-17 00:00:00
 description: Tesch Inkasso muss Negativeintrag nach einstweiliger Verfügung widerrufen
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/stromkosten-533818-640-2.jpg
 tags:
   - Schufa Eintrag
   - Schufarecht
