@@ -154,7 +154,7 @@
       margin-bottom: 0;
     }
 
-    input, textarea {
+    input, button, textarea {
       border-color: $clr-bg;
       color: $clr-bg; 
 
@@ -176,8 +176,12 @@
     label {
       display: block;
     }
-    [type="submit"] {
+    button {
       margin-top: 30px;
+    }
+    button:hover {
+      background-color: $clr-bg;
+      color: $clr-text; 
     }
 
     .kontakt__text--2,
