@@ -11,5 +11,8 @@ description: Testen Sie jetzt kostenlos und direkt online Ihre nächsten Schritt
   <div id="appSchufa"></div>
 </main>
 
-<script>var repoSchufa = JSON.parse('{{ site.data.schufa_quiz_fragen | jsonify }}')</script>
+<script>
+  var repoFragen        = JSON.parse('{{ site.data.schufa_quiz_fragen | jsonify }}')
+  var repoAuswertungen  = JSON.parse('{{ site.data.schufa_quiz_auswertungen | jsonify }}')
+</script>
 <script src="/assets/dist/main.js"></script>
