@@ -1,3 +1,11 @@
+.cscrm_webform_container,
+#crm_script_container {
+	display: none;
+}
+
+
+// Default Form styles (should be removed unless the form is made visible)
+
 .cscrm_webform_container:before,
 .cscrm_webform_container:after {
 	content: " ";
