@@ -4,7 +4,7 @@ date: 2019-12-02 00:00:00
 description: ClinicAll Insolvenz – Anleger erhalten Brief aus New York?
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-12.jpg
 tags:
   - ClinicAll Germany
   - ClinicAll Germany GmbH
@@ -21,8 +21,6 @@ topics:
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
-
-![](/uploads/money-1005464-640-6.jpg){: width="640" height="369"}
 
 Nachdem die ClinicAll Germany GmbH Mitte September 2019 f&uuml;r viele Anleger völlig &uuml;berraschend ein Insolvenzverfahren in Eigenverwaltung nach &sect; 270b InsO (das sogenannte „Schutzschirmverfahren“) beim zust&auml;ndigen Insolvenzgericht beantragt hatte herrschte zun&auml;chst vielerorts Ratlosigkeit, wie es dazu kommen konnte. **[Wir berichteten](https://advoadvice.de/blog/clinicall-germany-antrag-auf-insolvenz-in-eigenverwaltung/).** Schlie&szlig;lich war von Seiten der ClinicAll Germany GmbH im Vorfeld dieser Ma&szlig;nahme nichts verlautet worden, was auf eine negative Entwicklung der Unternehmens-Bilanz hingedeutet h&auml;tte. Aus der Unternehmens-Webseite sowie im Rahmen der Unternehmenskommunikation ergab sich f&uuml;r eine kritische finanzielle Lage der ClinicAll Germany GmbH oder eine notwendige Anlegerinformation nichts.&nbsp;
 
