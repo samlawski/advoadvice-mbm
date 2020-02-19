@@ -32,13 +32,16 @@
 </template>
 
 <script>
-const repo          = repoSchufa,
-      firstBlockId  = repo[0].block_id
+const repo = {
+  fragen: repoFragen,
+  auswertungen: repoAuswertungen
+}
+const firstBlockId = repo.fragen[0].block_id
 
 const flattenArr = arr => [].concat.apply([], arr)
 const flattenAndMerge = (arr1, arr2) => [].concat.apply(arr1, arr2)
-const getBlockById = id => repo.find(block => block.block_id == id)
-const getBlocksByIds = ids => repo.filter(block => ids.includes(block.block_id))
+const getBlockById = id => repo.fragen.find(block => block.block_id == id)
+const getBlocksByIds = ids => repo.fragen.filter(block => ids.includes(block.block_id))
 const getFolgeBlockIds = (id, answer) => {
   let block = getBlockById(id)
   if(!block || !block.folge_bloecke) return []
