@@ -12650,6 +12650,8 @@ var _default = {
         if ($input) $input.focus(); // Move to next question
 
         location.hash = this.currentBlock().id;
+      } else if (this.enableAuswertung) {
+        location.hash = 'auswertung';
       } else {
         location.hash = '';
       }
@@ -12817,7 +12819,7 @@ exports.default = _default;
       _vm._v(" "),
       _c(
         "div",
-        { staticClass: "auswertung__wrapper" },
+        { staticClass: "auswertung__wrapper", attrs: { id: "auswertung" } },
         [
           _vm.showAuswertung
             ? _vm._l(_vm.auswertungen, function(auswertung, index) {
