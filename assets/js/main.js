@@ -3,6 +3,7 @@
   - Polyfill
   - General Functions
   - On Page Load
+  - Catch and track all console errors
   - Navigation
   - Search (only on blog)
   - reCaptcha Cookies - Contact Form
@@ -112,6 +113,19 @@ function readCookie(n) {
 /* *** On Page Load *** */
 
 clearAllCookies()
+
+// Track all console errors
+
+console.defaultError = console.error.bind(console)
+console.errors = []
+console.error = function(){
+    console.defaultError.apply(console, arguments)
+    console.errors.push(Array.from(arguments))
+    // analytics:
+    var arg1 = Array.from(arguments)[0]
+    var args = Array.from(arguments).slice(1).join('; ')
+    _paq.push(['trackEvent', 'Console', 'Error', arg1, args])
+}
 
 /* *** Navigation *** */
 
