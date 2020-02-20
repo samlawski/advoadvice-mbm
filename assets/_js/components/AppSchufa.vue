@@ -33,7 +33,43 @@
     <template v-if="showAuswertung">
       <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
 
-      <!-- TODO: if none of the auswertungen has "erlaube_kontakt == false": show also contakt -->
+      <form v-if="auswertungen.every(a => a.erlaube_kontakt)">
+        <input type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required>
+        <input type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required>
+        <input type="tel" name="tel" placeholder="Ihre Telefonnummer ..." aria-label="Ihre Telefonnummer">
+
+        <input type="text" name="strasse_hausnummer" placeholder="Straße und Hausnummer" aria-label="Straße und Hausnummer">
+        <input type="text" name="plz" placeholder="Postleitzahl" aria-label="Postleitzahl">
+        <input type="text" name="ort" placeholder="Ort" aria-label="Ort">
+
+        <label for="rechtschutzversicherung">
+          <input type="checkbox" name="rechtschutzversicherung" aria-label="Rechtschutzversicherung" v-model="insurancePresent">
+          <span>&nbsp;&nbsp;Haben Sie eine Rechtschutzversicherung?</span>
+        </label>
+
+        <template v-if="insurancePresent">
+          <input type="text" name="versicherung_name" placeholder="Name der Rechtschutzversicherung" aria-label="Name der Rechtschutzversicherung">
+          <input type="text" name="versicherten_name" placeholder="Name des Versicherten" aria-label="Name des Versicherten">
+          <input type="text" name="versicherten_nummer" placeholder="Versicherungsnummer" aria-label="Versicherungsnummer">
+          <input type="date" name="versichert_seit" placeholder="Versichert seit ..." aria-label="Versichert seit ...">
+        </template>
+
+        <textarea name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="3"></textarea>
+
+        <!-- Add all Quiz answers -->
+        <input v-for="block in quiz" :key="'form__' + block.id" type="hidden" :name="block.id" :value="block.answer" />
+
+        <label for="gdpr_check_schufa">
+          <input type="checkbox" name="gdpr_check" id="gdpr_check_schufa" aria-label="Nutzung meiner Daten zustimmen" required>
+          <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
+        </label>
+        <label class="cookie_check_container--js" id="cookie_check_container_schufa" for="cookie_check_schufa">
+          <input class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_schufa" aria-label="Nutzung von Cookies zustimmen" required>
+          <small class="editable">&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
+        </label>
+
+        <button class="kontakt__send" type="submit" aria-label="Formular absenden" disabled>Anfrage senden</button>
+      </form>
     </template>
     <template v-else-if="enableAuswertung">
       <button @click="handleShowAuswertung">Auswertung zeigen</button>
@@ -83,7 +119,8 @@ export default {
       quiz: initQuiz(),
       auswertungen: [],
       showAuswertung: false,
-      focusedBlock: null
+      focusedBlock: null,
+      insurancePresent: false
     }
   },
   methods: {
@@ -159,8 +196,7 @@ export default {
           bedAll.every(a => this.getAnswer(a.block_id) == a.antwort_ist) : true
         let someTrue = bedSome && bedSome.length > 0 ?
           bedSome.some(a => this.getAnswer(a.block_id) == a.antwort_ist) : true
-          
-        console.log(allTrue, someTrue)
+
         return allTrue && someTrue
       })
     }
