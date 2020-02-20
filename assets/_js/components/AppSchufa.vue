@@ -29,11 +29,11 @@
     </template>
   </div>
 
-  <div class="auswertung__wrapper">
+  <div id="auswertung" class="auswertung__wrapper">
     <template v-if="showAuswertung">
       <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
 
-      <!-- if none of the auswertungen has "erlaube_kontakt == false": show also contakt -->
+      <!-- TODO: if none of the auswertungen has "erlaube_kontakt == false": show also contakt -->
     </template>
     <template v-else-if="enableAuswertung">
       <button @click="handleShowAuswertung">Auswertung zeigen</button>
@@ -174,6 +174,8 @@ export default {
         if($input) $input.focus()
         // Move to next question
         location.hash = this.currentBlock().id
+      }else if(this.enableAuswertung){
+        location.hash = 'auswertung'
       }else{
         location.hash = ''
       }
