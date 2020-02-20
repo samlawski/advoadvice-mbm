@@ -189,6 +189,11 @@
       clear: both;
     }
 
+    .kontakt__error {
+      color: tomato;
+      margin-top: 20px;
+    }
+
     @media(min-width: $media-sm){
       .kontakt__text--2 {
         clear: initial;
