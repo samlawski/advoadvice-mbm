@@ -12625,7 +12625,20 @@ var _default = {
       this.quiz = newQuiz;
     },
     _rebuildAuswertung: function _rebuildAuswertung() {
-      this.auswertungen = repo.auswertungen;
+      var _this2 = this;
+
+      this.auswertungen = repo.auswertungen.filter(function (auswertung) {
+        var bedAll = auswertung.bedingungen_alle_erfuellt;
+        var bedSome = auswertung.bedingungen_eins_erfuellt;
+        var allTrue = bedAll && bedAll.length > 0 ? bedAll.every(function (a) {
+          return _this2.getAnswer(a.block_id) == a.antwort_ist;
+        }) : true;
+        var someTrue = bedSome && bedSome.length > 0 ? bedSome.some(function (a) {
+          return _this2.getAnswer(a.block_id) == a.antwort_ist;
+        }) : true;
+        console.log(allTrue, someTrue);
+        return allTrue && someTrue;
+      });
     }
   },
   updated: function updated() {
@@ -12644,12 +12657,12 @@ var _default = {
   },
   computed: {
     enableAuswertung: function enableAuswertung() {
-      var _this2 = this;
+      var _this3 = this;
 
       // are there NOT some required blocks with no answer?
       return !this.quiz.some(function (block) {
         var blockRequired = getBlockById(block.id) && getBlockById(block.id).erforderlich;
-        return blockRequired && !_this2.getAnswer(block.id);
+        return blockRequired && !_this3.getAnswer(block.id);
       });
     }
   },

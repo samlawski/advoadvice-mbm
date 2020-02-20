@@ -151,7 +151,18 @@ export default {
       this.quiz = newQuiz
     },
     _rebuildAuswertung(){
-      this.auswertungen = repo.auswertungen
+      this.auswertungen = repo.auswertungen.filter(auswertung => {
+        let bedAll = auswertung.bedingungen_alle_erfuellt
+        let bedSome = auswertung.bedingungen_eins_erfuellt
+
+        let allTrue = bedAll && bedAll.length > 0 ?
+          bedAll.every(a => this.getAnswer(a.block_id) == a.antwort_ist) : true
+        let someTrue = bedSome && bedSome.length > 0 ?
+          bedSome.some(a => this.getAnswer(a.block_id) == a.antwort_ist) : true
+          
+        console.log(allTrue, someTrue)
+        return allTrue && someTrue
+      })
     }
   },
   updated(){
