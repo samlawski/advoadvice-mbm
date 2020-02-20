@@ -12467,6 +12467,21 @@ exports.default = void 0;
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 var repo = {
   fragen: repoFragen,
   auswertungen: repoAuswertungen
@@ -12523,6 +12538,8 @@ var _default = {
   data: function data() {
     return {
       quiz: initQuiz(),
+      auswertungen: [],
+      showAuswertung: false,
       focusedBlock: null
     };
   },
@@ -12557,12 +12574,19 @@ var _default = {
       return ['frage_mit_datum', 'frage_mit_text'].includes(this.getBlockType(id)) && this.focusedBlock == id;
     },
     handleChoice: function handleChoice(block_id, choiceText) {
-      console.log('click', block_id, choiceText);
+      console.log('click', block_id, choiceText); // Analytics:
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+
       this.focusedBlock = null; // for input fields only
 
       this._addAnswerToQuiz(buildQuizBlock(block_id, choiceText));
 
       this._rebuildQuiz();
+
+      this._rebuildAuswertung();
+    },
+    handleShowAuswertung: function handleShowAuswertung() {
+      this.showAuswertung = true;
     },
     focusBlock: function focusBlock(id) {
       this.focusedBlock = id;
@@ -12599,6 +12623,9 @@ var _default = {
 
       rebuildBlock(firstBlockId);
       this.quiz = newQuiz;
+    },
+    _rebuildAuswertung: function _rebuildAuswertung() {
+      this.auswertungen = repo.auswertungen;
     }
   },
   updated: function updated() {
@@ -12615,7 +12642,17 @@ var _default = {
       }
     });
   },
-  computed: {},
+  computed: {
+    enableAuswertung: function enableAuswertung() {
+      var _this2 = this;
+
+      // are there NOT some required blocks with no answer?
+      return !this.quiz.some(function (block) {
+        var blockRequired = getBlockById(block.id) && getBlockById(block.id).erforderlich;
+        return blockRequired && !_this2.getAnswer(block.id);
+      });
+    }
+  },
   props: [],
   components: {}
 };
@@ -12763,7 +12800,37 @@ exports.default = _default;
           ],
           2
         )
-      })
+      }),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "auswertung__wrapper" },
+        [
+          _vm.showAuswertung
+            ? _vm._l(_vm.auswertungen, function(auswertung, index) {
+                return _c("div", {
+                  key: "auswertung__" + index,
+                  domProps: { innerHTML: _vm._s(auswertung.text_html) }
+                })
+              })
+            : _vm.enableAuswertung
+            ? [
+                _c("button", { on: { click: _vm.handleShowAuswertung } }, [
+                  _vm._v("Auswertung zeigen")
+                ])
+              ]
+            : [
+                _c("p", [_vm._v("Haben Sie alle Fragen beantwortet?")]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben."
+                  )
+                ])
+              ]
+        ],
+        2
+      )
     ],
     2
   )
@@ -12843,7 +12910,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60919" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51751" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
