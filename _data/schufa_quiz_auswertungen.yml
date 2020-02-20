@@ -1,8 +1,151 @@
+# Beispiel
+# - bedingungen_alle_erfuellt:
+#     - block_id: intro
+#       antwort_ist: text
+#   bedingungen_eins_erfuellt: []
+#   text_html: text
+#   erlaube_kontakt: true
+
+# Schufa-Score verbessern && Veraltete Daten
+
+- bedingungen_alle_erfuellt:
+    - block_id: basis_score_1
+      antwort_ist: "Über 95%"
+  bedingungen_eins_erfuellt:
+    - block_id: intro
+      antwort_ist: Schufa-Score verbessern
+    - block_id: intro
+      antwort_ist: Veraltete Daten löschen
+  text_html: <p>Ihr Basis-Scorewert ist trotz womöglich minimaler Veränderungen in einem sehr guten Bereich angesiedelt. Sofern Sie keine konkreten Vertragsanfragen verwehrt bekommen, ist für Sie nichts weiteres zu veranlassen. Der Basis-Scorewert wird durch die Schufa Holding AG alle drei Monate neu berechnet. Sollte sich der Scorewert bei Ihnen über mindestens zwei aufeinanderfolgende Berechnungstermine verschlechtern, können Sie uns gerne für eine Erstberatung kontaktieren.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: basis_score_1
+      antwort_ist: "90% - 95%"
+  bedingungen_eins_erfuellt:
+    - block_id: intro
+      antwort_ist: Schufa-Score verbessern
+    - block_id: intro
+      antwort_ist: Veraltete Daten löschen
+  text_html: <p>Ihr von der Schufa Holding AG berechnete Basis-Scorewert ist in einem guten Bereich angesiedelt. In vereinzelten Geschäftsfeldern kann der Scorewert dennoch dazu führen, dass Ihnen Verträge zu schlechteren Konditionen angeboten oder gar verwehrt werden können. Falls eine größere Finanzierung ansteht, sollte Sie die Auskunft genauer überprüfen lassen, um negative Konsequenzen abzuwehren. Anderenfalls weisen wir darauf hin, dass der Basis-Scorewert alle drei Monate neu berechnet wird, sodass sich Ihr Basis-Scorewert womöglich in Kürze von alleine wieder erholt.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: basis_score_1
+      antwort_ist: "80% - 90%"
+  bedingungen_eins_erfuellt:
+    - block_id: intro
+      antwort_ist: Schufa-Score verbessern
+    - block_id: intro
+      antwort_ist: Veraltete Daten löschen
+  text_html: <p>Der von der Schufa Holding AG berechnete Basis-Scorewert befindet sich in einem kritischen Bereich. Es kann verstärkt dazu kommen, dass Vertragsanfragen beim Rechnungskauf oder der Abschluss anderer Verträge abgelehnt werden. Insbesondere Finanzierungen dürften nur schwer realisierbar sein. Obwohl der Basis-Scorewert alle drei Monate neu berechnet wird, ist nicht davon auszugehen, dass sich der Scorewert von alleine vollumfänglich erholt. Es ist anzuraten, Ihre Auskunft durch einen Experten überprüfen zu lassen.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: basis_score_1
+      antwort_ist: "Unter 80%"
+  bedingungen_eins_erfuellt:
+    - block_id: intro
+      antwort_ist: Schufa-Score verbessern
+    - block_id: intro
+      antwort_ist: Veraltete Daten löschen
+  text_html: <p>Leider ist Ihr Basis-Scorewert in einem sehr schlechten Bereich. Es ist wahrscheinlich, dass Sie einen negativen Schufa Eintrag haben, welchen Sie bislang nicht entdecken oder identifiziert haben. Anderenfalls können auch mittlerweile ausgeglichene aber noch gespeicherte Merkmale zu einer solchen Verschlechterung des Scorewertes führen. Es ist Ihnen daher dringend zu empfehlen, eine umfassende Prüfung der Schufaauskunft vornehmen zu lassen.</p>
+  erlaube_kontakt: true
+
+# Negativeintrag
+
 - bedingungen_alle_erfuellt:
     - block_id: intro
-      antwort_ist: schufa
-  text: hier ist die auswertung
+      antwort_ist: Einen (negativen) Eintrag löschen
+    - block_id: negativ_eintrag_titulierung
+      antwort_ist: "Ja"
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Die Löschung von titulierten Forderungen ist nur in Ausnahmefällen möglich. Dies liegt daran, dass die Titulierung, also das Urteil, der Vollstreckungsbescheid o.ä. amtlich zugestellt wird. Daraus folgt, dass der Betroffene in den meisten Fällen auch Kenntnis von dieser Forderung hat.<br />In Ausnahmefällen ist eine Löschung eines solchen Eintrages dennoch möglich. Dies kann insbesondere der Fall sein, wenn die Forderung vor der Titulierung bezahlt, die Titulierung schon viele Jahre zurückliegt oder vor der Eintragung des negativen Merkmals bei der SCHUFA eine Ratenzahlungsvereinbarung mit dem Forderungsinhaber abgeschlossen wurde.  <br />Falls Sie einen soeben aufgeführten oder einen ähnlichen Einwand gegen den Eintrag haben, können wir für Sie gerne prüfen, ob es trotz der Titulierung Erfolgsaussichten für die Löschung des Eintrages gibt. Bitte geben Sie Ihre weiteren Daten dann im nächsten Schritt an.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Einen (negativen) Eintrag löschen
+    - block_id: negativ_eintrag_titulierung
+      antwort_ist: "Nein"
+    - block_id: negativ_eintrag_mahnschreiben
+      antwort_ist: "Nein"
+    - block_id: negativ_eintrag_vertragskuendigung
+      antwort_ist: "Nein"
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Wenn Sie keine Mahnungen zu der Forderung und/oder keine Kündigung zu dem Vertragsverhältnis erhalten haben, bestehen zunächst gute Chancen, dass der Eintrag gelöscht werden kann. Genauere Erfolgsaussichten sind aber immer im konkreten Einzelfall zu ermitteln. Bitte geben Sie Ihre weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert sind.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Einen (negativen) Eintrag löschen
+    - block_id: negativ_eintrag_titulierung
+      antwort_ist: "Nein"
+  bedingungen_eins_erfuellt:
+    - block_id: negativ_eintrag_mahnschreiben
+      antwort_ist: "Ja"
+    - block_id: negativ_eintrag_vertragskuendigung
+      antwort_ist: "Ja"
+  text_html: <p>Wenn Sie Mahnungen zu der Forderung und/oder eine Kündigung zu dem Vertragsverhältnis erhalten haben, sind die Grundvoraussetzungen für einen negativen Schufa-Eintrag geschaffen. Jedoch werden bei der Einmeldung häufig weitere Fehler begangen, sodass es oft möglich ist, eine Löschung dennoch durchzusetzen. Genauere Erfolgsaussichten sind aber immer im konkreten Einzelfall zu ermitteln. Diese hängen insbesondere an der Ausgestaltung der einzelnen Mahnungen. Bitte geben Sie Ihre weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert sind.</p>
+  erlaube_kontakt: true
 
-# Erst Fragen
-# Dann auswertungen nach Bedingungen
-# Dann Kontakt nach Bedingungen
+# Öffentliche Verzeichnisse
+
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Einträge aus öffentlichen Verzeichnissen löschen
+    - block_id: oeffentliche_verzeichnisse_1
+      antwort_ist: Ja
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Gerne können wir Ihnen in Ihrer Angelegenheit behilflich sein. Dazu benötigen wir eine aktuelle Schufa-Selbstauskunft und eine Erledigungserklärung des Gläubigers. Im Anschluss daran kann häufig eine Löschung des Merkmals bei der Schufa Holding AG erreicht werden. Bitte führen Sie die nächsten Schritte aus.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Einträge aus öffentlichen Verzeichnissen löschen
+    - block_id: oeffentliche_verzeichnisse_1
+      antwort_ist: Nein
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Bevor die dazugehörige Forderung nicht ausgeglichen wurde, können wir leider wenig für Sie tun.</p><p>Gegen einen Ausgleich der Forderung, die wahrscheinlich tituliert und somit auch gegen Sie vollstreckbar ist, werden Sie höchstwahrscheinlich nicht mehr mit Erfolg zur Wehr setzen können. Sobald die Forderung jedoch ausgeglichen wurde, können Sie uns gerne kontaktieren.</p><p>Sollten Sie keine Kenntnis davon haben, um was für eine Forderung es sich handelt, können Sie beim für Sie zuständigen Gerichtsvollzieher oder dem Vollstreckungsgericht mehr zum Hintergrund der zu Ihrer Person im Schuldnerverzeichnis eingetragenen Forderung erhalten. Auskünfte über die eigene Person können auch unter Link www.vollstreckungsportal.de angefordert werden.</p><p>Sollten Sie hier selbst zu keine Ergebnis gelangen, um was für einen Vorgang es sich handelt, können wir für Sie eine kostenpflichtige Anfrage beim Vollstreckungsportal durchführen. Schreiben sie uns bei Interesse an dieser Dienstleistung gerne eine Email an vollstreckung@advoadvice.de</p>
+  erlaube_kontakt: false
+
+# Fraud-Pool & Identitätsdiebstahl
+
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Eintrag im FraudPool löschen
+    - block_id: identitaetsdiebstahl_schufa
+      antwort_ist: Ja
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Es bestehen gute Möglichkeiten, dass wir Ihnen bei Ihrem Anliegen helfen können. Negative Schufa Einträge können nach einem Identitätsdiebstahl häufig aufgeklärt werden, solange Sie den Identitätsdiebstahl auch nachweisen können und Strafanzeige gestellt wurde. Bitte laden Sie dazu im nachfolgenden Schritt Ihre Unterlagen hoch.</p><p>Wir weisen bereits jetzt darauf hin, dass wir eine Mandatierung nur in Bezug auf die Schufa-Merkmale annehmen werden. Weitere zivil- und/oder strafrechtliche Ansprüche werden durch uns nicht bearbeitet.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Eintrag im FraudPool löschen
+    - block_id: identitaetsdiebstahl_schufa
+      antwort_ist: Nein
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Leider können wir Ihnen bei Ihrem Anliegen nicht behilflich sein. Wir empfehlen Ihnen jedoch, sich dringend an einen Kollegen zu wenden, um die zivil- und strafrechtlichen Ansprüche gegen den Täter durchzusetzen. Dabei wünschen wir Ihnen viel Erfolg!</p>
+  erlaube_kontakt: false
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Eintrag im FraudPool löschen
+    - block_id: fraudpool_1
+      antwort_ist: Ja
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Da Ihre Daten im Schufa-FraudPool eingemeldet sind, empfehlen wir Ihnen dringend, die Angelegenheit weiter zu verfolgen. Gerne helfen wir Ihnen dabei. Die Folgen eines Eintrages im FraudPool sind schwer einzuschätzen. Es kann jedoch dazu führen, dass sich künftige Vertragspartner trotz guter Bonität und eines guten Scorewertes gegen einen Vertragsschluss mit Ihnen entscheiden. Bitte geben Sie ihre weiteren Daten im nächsten Schritt an.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt: # selber hinzugefügt anhand des letzten tools
+    - block_id: intro
+      antwort_ist: Eintrag im FraudPool löschen
+  bedingungen_eins_erfuellt:
+    - block_id: fraudpool_3
+      antwort_ist: Nein
+    - block_id: fraudpool_3
+      antwort_ist: Weiß ich nicht
+  text_html: <p>Bitte versuchen Sie den Sachverhalt zu der Angelegenheit soweit wie möglich in Erfahrung zu bringen. Je mehr Informationen Sie uns zur Verfügung stellen können, desto eher können wir Ihnen helfen.</p>
+  erlaube_kontakt: true
+- bedingungen_alle_erfuellt:
+    - block_id: intro
+      antwort_ist: Eintrag im FraudPool löschen
+    - block_id: fraudpool_1
+      antwort_ist: Nein
+    - block_id: fraudpool_identitaetsdiebstahl
+      antwort_ist: Nein
+  bedingungen_eins_erfuellt: []
+  text_html: <p>Da ist wohl etwas schief gelaufen. Offenbar handelt es sich bei Ihnen weder um einen Identitätsdiebstahl noch um ein FraudPool-Problem. Sollten Sie dennoch Fragen wegen einer Schufa-Thematik haben, bitten wir um Kontaktaufnahme über info@advoadvice.de oder unter 030 / 921 000 40. Bei anderen zivil- und strafrechtlichen Problemen können wir Ihnen diesbezüglich leider nicht weiterhelfen.</p>
+  erlaube_kontakt: true
