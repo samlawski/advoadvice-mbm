@@ -3,13 +3,13 @@
   <h1>Schufa Vorab-Test</h1>
   <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ block: true, active: isCurrentBlock(quizBlock.id) }">
     <p>{{getText(quizBlock.id)}}</p>
-
+    
     <template v-if="getBlockType(quizBlock.id) == 'frage_mit_text'">
       <input type="text" 
         @focus="focusBlock(quizBlock.id)"
         @blur="handleChoice(quizBlock.id, $event.target.value)" 
         @keyup.enter="$event.target.blur()"
-      >
+      ><!-- :required="isBlockRequired(quizBlock.id)" -->
       <small :class="{ active: shouldShowHint(quizBlock.id)}"><i>Enter</i> drücken für die nächste Frage.</small>
     </template>
     <template v-else-if="getBlockType(quizBlock.id) == 'frage_mit_datum'">
@@ -26,6 +26,21 @@
           <button @click="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
         </li>
       </ul>
+    </template>
+  </div>
+
+  <div class="auswertung__wrapper">
+    <template v-if="showAuswertung">
+      <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
+
+      <!-- if none of the auswertungen has "erlaube_kontakt == false": show also contakt -->
+    </template>
+    <template v-else-if="enableAuswertung">
+      <button @click="handleShowAuswertung">Auswertung zeigen</button>
+    </template>
+    <template v-else>
+      <p>Haben Sie alle Fragen beantwortet?</p>
+      <p>Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben.</p>
     </template>
   </div>
 </section>
@@ -66,6 +81,8 @@ export default {
   data(){
     return {
       quiz: initQuiz(),
+      auswertungen: [],
+      showAuswertung: false,
       focusedBlock: null
     }
   },
@@ -91,6 +108,9 @@ export default {
     },
     handleChoice(block_id, choiceText){
       console.log('click', block_id, choiceText)
+      // Analytics:
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+
       this.focusedBlock = null // for input fields only
 
       this._addAnswerToQuiz(
@@ -98,7 +118,9 @@ export default {
       )
 
       this._rebuildQuiz()
+      this._rebuildAuswertung()
     },
+    handleShowAuswertung(){ this.showAuswertung = true },
     focusBlock(id){
       this.focusedBlock = id
     },
@@ -127,6 +149,9 @@ export default {
       rebuildBlock(firstBlockId)
 
       this.quiz = newQuiz
+    },
+    _rebuildAuswertung(){
+      this.auswertungen = repo.auswertungen
     }
   },
   updated(){
@@ -143,7 +168,15 @@ export default {
       }
     })
   },
-  computed: {},
+  computed: {
+    enableAuswertung(){
+      // are there NOT some required blocks with no answer?
+      return !this.quiz.some(block => {
+        let blockRequired = getBlockById(block.id) && getBlockById(block.id).erforderlich
+        return blockRequired && !this.getAnswer(block.id)
+      })
+    }
+  },
   props: [],
   components: {}
 }
