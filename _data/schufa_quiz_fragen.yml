@@ -4,13 +4,14 @@
 - block_id: intro
   block_typ: frage_mit_auswahl
   text: Welches Anliegen trifft auf Sie zu?
+  erforderlich: true
   optionen: 
     - Schufa-Score verbessern
     - Einen (negativen) Eintrag löschen
     - Veraltete Daten löschen
     - Daten zur Restschuldbefreiung löschen
     - Einträge aus öffentlichen Verzeichnissen löschen # (bspw. Haftbefehle oder Zwangsvollstreckungen)
-    - Eintrag im FraudPool löschen  # (u.a. auch wegen Identitätsdiebstahl)
+    - Eintrag im FraudPool löschen # (u.a. auch wegen Identitätsdiebstahl)
   folge_bloecke: 
     - antwort_ist: ["Schufa-Score verbessern"]
       block_ids: ["score_verbessern_1", "score_verbessern_2", "basis_score_1"]
@@ -30,6 +31,7 @@
 - block_id: basis_score_1
   block_typ: frage_mit_auswahl 
   text: "Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?"
+  erforderlich: true
   optionen: 
     - Über 95%
     - 90% - 95%
@@ -42,14 +44,16 @@
 - block_id: score_verbessern_1
   block_typ: frage_mit_auswahl
   text: Haben Sie einen negativen Schufa-Eintrag?
-  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  erforderlich: true
+  optionen: ["Ja", "Nein"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
       block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
 - block_id: score_verbessern_2
   block_typ: frage_mit_auswahl 
   text: "Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)"
-  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  erforderlich: true
+  optionen: ["Ja", "Nein"]
   folge_bloecke: []
 
 # Negativeinträge löschen
@@ -57,16 +61,19 @@
 - block_id: negativ_eintrag_wer
   block_typ: frage_mit_text
   text: Wer hat den Schufa-Eintrag vorgenommen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: negativ_eintrag_wann
   block_typ: frage_mit_datum
   text: Wann wurde der Eintrag vorgenommen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: negativ_eintrag_titulierung
   block_typ: frage_mit_auswahl
   text: Gibt es eine Titulierung der Forderung durch Urteil oder Vollstreckungsbescheid?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -74,6 +81,7 @@
 - block_id: negativ_eintrag_ausgeglichen
   block_typ: frage_mit_auswahl
   text: Wurde die Forderung bereits durch Sie ausgeglichen?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -81,6 +89,7 @@
 - block_id: negativ_eintrag_inkasso
   block_typ: frage_mit_auswahl
   text: Wurde ein Inkassounternehmen beauftragt?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -88,6 +97,7 @@
 - block_id: negativ_eintrag_mahnschreiben
   block_typ: frage_mit_auswahl
   text: Haben Sie Mahnschreiben zu der Forderung erhalten?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -95,6 +105,7 @@
 - block_id: negativ_eintrag_vertragskuendigung
   block_typ: frage_mit_auswahl
   text: Wurde das Vertragsverhältnis gekündigt?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -102,6 +113,7 @@
 - block_id: negativ_eintrag_bestritten
   block_typ: frage_mit_auswahl
   text: Wurde die Forderung durch Sie bestritten?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -109,6 +121,7 @@
 - block_id: negativ_eintrag_ratenzahlungen
   block_typ: frage_mit_auswahl
   text: Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung getroffen?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -119,36 +132,43 @@
 - block_id: titulierung_wann
   block_typ: frage_mit_datum
   text: Wann wurde die Titulierung erlassen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: titulierung_wann
   block_typ: frage_mit_datum
   text: Wann wurde die Forderung von Ihnen ausgeglichen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: inkasso_wer
   block_typ: frage_mit_text
   text: Wie heißt das Inkassounternehmen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: mahnschreiben_wann
   block_typ: frage_mit_datum
   text: Zu welchem Datum wurden das oder die Mahnschreiben erstellt?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: vertragskuendigung_wann
   block_typ: frage_mit_datum
   text: Zu welchem Datum wurde das Kündigungsschreiben erstellt?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: bestritten_wie
   block_typ: frage_mit_text
   text: Wann und in welcher Form haben Sie die Forderung bestritten?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: ratenzahlungen_wie
   block_typ: frage_mit_text
   text: Wann und in welcher Form haben Sie eine Ratenzahlungsvereinbarung getroffen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 
@@ -157,6 +177,7 @@
 - block_id: veraltete_daten_text
   block_typ: frage_mit_auswahl
   text: In Ihrer Schufa-Auskunft finden sich offenbar veraltete Daten wieder. Es ist Ihnen zu empfehlen, die Schufa Holding AG selbst zu kontaktieren und diese zur Löschung dieser Daten aufzufordern. Falls sich die SCHUFA weigern sollte, die Daten zu löschen und diese Daten sich negativ auf den Scorewert auswirken (anzunehmen bei einem Basis-Scorewert unterhalb 90 %), empfehlen wir Ihnen dringend, sich mit uns in Verbindung zu setzen. Dafür nutzen Sie bitte das Formular auf der nächsten Seite.
+  erforderlich: true
   optionen: ["Weiter"]
   folge_bloecke: []
 
@@ -165,6 +186,7 @@
 - block_id: restschuldbefreiung_text
   block_typ: frage_mit_auswahl
   text: Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung speichern darf. An dieser Rechtsprechung bestanden bislang schon vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen Person in Frage steht. Somit können trotz der bislang erfolgten Urteile wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung eines solchen Merkmals geführt werden.
+  erforderlich: true
   optionen: ["Weiter"]
   folge_bloecke: []
 
@@ -173,7 +195,8 @@
 - block_id: oeffentliche_verzeichnisse_1
   block_typ: frage_mit_auswahl
   text: Haben Sie die dazugehörige Forderung bereits ausgeglichen?
-  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  erforderlich: true
+  optionen: ["Ja", "Nein"]
   folge_bloecke: []
 
 # Fraud-Pool
@@ -181,14 +204,16 @@
 - block_id: fraudpool_identitaetsdiebstahl
   block_typ: frage_mit_auswahl
   text: Handelt es sich um eine Identitätsdiebstahl?
-  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  erforderlich: true
+  optionen: ["Ja", "Nein"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
       block_ids: ["identitaetsdiebstahl_taeter", "identitaetsdiebstahl_strafanzeige", "identitaetsdiebstahl_schufa"]
 - block_id: fraudpool_1
   block_typ: frage_mit_auswahl
   text: Handelt es sich um ein Merkmal im sog. FraudPool?
-  optionen: ["Ja", "Nein", "Weiß ich nicht"]
+  erforderlich: true
+  optionen: ["Ja", "Nein"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
       block_ids: ["fraudpool_2", "fraudpool_3"]
@@ -198,6 +223,7 @@
 - block_id: identitaetsdiebstahl_taeter
   block_typ: frage_mit_auswahl
   text: Kennen Sie den Täter oder haben Sie eine Vermutung?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -205,6 +231,7 @@
 - block_id: identitaetsdiebstahl_strafanzeige
   block_typ: frage_mit_auswahl
   text: Wurde bereits Strafanzeige gestellt oder ein Strafverfahren durchgeführt?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke:
     - antwort_ist: ["Ja"]
@@ -212,28 +239,33 @@
 - block_id: identitaetsdiebstahl_schufa
   block_typ: frage_mit_auswahl
   text: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke: []
 
 - block_id: identitaetsdiebstahl_taeter_wer
   block_typ: frage_mit_text
   text: Wie lauten Name und Anschrift dieser Person?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 - block_id: identitaetsdiebstahl_strafanzeige_wo
   block_typ: frage_mit_text
   text: Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem Aktenzeichen?
+  erforderlich: false
   optionen: []
   folge_bloecke: []
 
 - block_id: fraudpool_2
   block_typ: frage_mit_auswahl
   text: Wurden Sie als potenzieller Täter im FraudPool erfasst?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke: []
 - block_id: fraudpool_3
   block_typ: frage_mit_auswahl
   text: Ist Ihnen der dazugehörige Sachverhalt bekannt?
+  erforderlich: true
   optionen: ["Ja", "Nein", "Weiß ich nicht"]
   folge_bloecke: []
 
