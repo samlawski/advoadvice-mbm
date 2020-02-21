@@ -12518,6 +12518,8 @@ exports.default = void 0;
 //
 //
 //
+//
+//
 var repo = {
   fragen: repoFragen,
   auswertungen: repoAuswertungen
@@ -12623,6 +12625,8 @@ var _default = {
       this._rebuildAuswertung();
     },
     handleShowAuswertung: function handleShowAuswertung() {
+      // Analytics:
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
       this.showAuswertung = true;
     },
     focusBlock: function focusBlock(id) {
@@ -12857,6 +12861,8 @@ exports.default = _default;
         "div",
         { staticClass: "auswertung__wrapper", attrs: { id: "auswertung" } },
         [
+          _c("h2", [_vm._v("Auswertung")]),
+          _vm._v(" "),
           _vm.showAuswertung
             ? [
                 _vm._l(_vm.auswertungen, function(auswertung, index) {
@@ -12943,6 +12949,7 @@ exports.default = _default;
                               ],
                               attrs: {
                                 type: "checkbox",
+                                id: "rechtschutzversicherung",
                                 name: "rechtschutzversicherung",
                                 "aria-label": "Rechtschutzversicherung"
                               },
@@ -13032,7 +13039,7 @@ exports.default = _default;
                             name: "sachverhalt",
                             placeholder: "Schilderung des Sachverhalts",
                             "aria-label": "Schilderung des Sachverhalts",
-                            rows: "3"
+                            rows: "5"
                           }
                         }),
                         _vm._v(" "),
@@ -13072,13 +13079,13 @@ exports.default = _default;
                 ])
               ]
             : [
-                _c("p", [_vm._v("Haben Sie alle Fragen beantwortet?")]),
+                _c("button", { attrs: { disabled: "" } }, [
+                  _vm._v("Auswertung zeigen")
+                ]),
                 _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben."
-                  )
-                ])
+                _vm._m(2),
+                _vm._v(" "),
+                _vm._m(3)
               ]
         ],
         2
@@ -13146,6 +13153,26 @@ var staticRenderFns = [
         ])
       ]
     )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _c("small", [_vm._v("Haben Sie alle Fragen beantwortet?")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _c("small", [
+        _vm._v(
+          "Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben."
+        )
+      ])
+    ])
   }
 ]
 render._withStripped = true
