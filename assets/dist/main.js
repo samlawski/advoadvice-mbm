@@ -12520,6 +12520,7 @@ exports.default = void 0;
 //
 //
 //
+//
 var repo = {
   fragen: repoFragen,
   auswertungen: repoAuswertungen
@@ -12857,239 +12858,239 @@ exports.default = _default;
         )
       }),
       _vm._v(" "),
-      _c(
-        "div",
-        { staticClass: "auswertung__wrapper", attrs: { id: "auswertung" } },
-        [
-          _c("h2", [_vm._v("Auswertung")]),
-          _vm._v(" "),
-          _vm.showAuswertung
-            ? [
-                _vm._l(_vm.auswertungen, function(auswertung, index) {
-                  return _c("div", {
-                    key: "auswertung__" + index,
-                    domProps: { innerHTML: _vm._s(auswertung.text_html) }
+      _c("div", { attrs: { id: "auswertung" } }, [
+        _c(
+          "div",
+          { staticClass: "auswertung__wrapper" },
+          [
+            _c("h2", [_vm._v("Auswertung")]),
+            _vm._v(" "),
+            _vm.showAuswertung
+              ? [
+                  _vm._l(_vm.auswertungen, function(auswertung, index) {
+                    return _c("div", {
+                      key: "auswertung__" + index,
+                      domProps: { innerHTML: _vm._s(auswertung.text_html) }
+                    })
+                  }),
+                  _vm._v(" "),
+                  _vm.auswertungen.every(function(a) {
+                    return a.erlaube_kontakt
                   })
-                }),
-                _vm._v(" "),
-                _vm.auswertungen.every(function(a) {
-                  return a.erlaube_kontakt
-                })
-                  ? _c(
-                      "form",
-                      [
-                        _c("input", {
-                          attrs: {
-                            type: "text",
-                            name: "name",
-                            placeholder: "Ihr Name* ...",
-                            "aria-label": "Ihr Name",
-                            required: ""
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("input", {
-                          attrs: {
-                            type: "email",
-                            name: "email",
-                            placeholder: "Ihre Email* ...",
-                            "aria-label": "Ihre Email Adresse",
-                            required: ""
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("input", {
-                          attrs: {
-                            type: "tel",
-                            name: "tel",
-                            placeholder: "Ihre Telefonnummer ...",
-                            "aria-label": "Ihre Telefonnummer"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("input", {
-                          attrs: {
-                            type: "text",
-                            name: "strasse_hausnummer",
-                            placeholder: "Straße und Hausnummer",
-                            "aria-label": "Straße und Hausnummer"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("input", {
-                          attrs: {
-                            type: "text",
-                            name: "plz",
-                            placeholder: "Postleitzahl",
-                            "aria-label": "Postleitzahl"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c("input", {
-                          attrs: {
-                            type: "text",
-                            name: "ort",
-                            placeholder: "Ort",
-                            "aria-label": "Ort"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _c(
-                          "label",
-                          { attrs: { for: "rechtschutzversicherung" } },
-                          [
-                            _c("input", {
-                              directives: [
-                                {
-                                  name: "model",
-                                  rawName: "v-model",
-                                  value: _vm.insurancePresent,
-                                  expression: "insurancePresent"
-                                }
-                              ],
-                              attrs: {
-                                type: "checkbox",
-                                id: "rechtschutzversicherung",
-                                name: "rechtschutzversicherung",
-                                "aria-label": "Rechtschutzversicherung"
-                              },
-                              domProps: {
-                                checked: Array.isArray(_vm.insurancePresent)
-                                  ? _vm._i(_vm.insurancePresent, null) > -1
-                                  : _vm.insurancePresent
-                              },
-                              on: {
-                                change: function($event) {
-                                  var $$a = _vm.insurancePresent,
-                                    $$el = $event.target,
-                                    $$c = $$el.checked ? true : false
-                                  if (Array.isArray($$a)) {
-                                    var $$v = null,
-                                      $$i = _vm._i($$a, $$v)
-                                    if ($$el.checked) {
-                                      $$i < 0 &&
-                                        (_vm.insurancePresent = $$a.concat([
-                                          $$v
-                                        ]))
+                    ? _c(
+                        "form",
+                        [
+                          _c("input", {
+                            attrs: {
+                              type: "text",
+                              name: "name",
+                              placeholder: "Ihr Name* ...",
+                              "aria-label": "Ihr Name",
+                              required: ""
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("input", {
+                            attrs: {
+                              type: "email",
+                              name: "email",
+                              placeholder: "Ihre Email* ...",
+                              "aria-label": "Ihre Email Adresse",
+                              required: ""
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("input", {
+                            attrs: {
+                              type: "tel",
+                              name: "tel",
+                              placeholder: "Ihre Telefonnummer ...",
+                              "aria-label": "Ihre Telefonnummer"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("input", {
+                            attrs: {
+                              type: "text",
+                              name: "strasse_hausnummer",
+                              placeholder: "Straße und Hausnummer",
+                              "aria-label": "Straße und Hausnummer"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("input", {
+                            attrs: {
+                              type: "text",
+                              name: "plz",
+                              placeholder: "Postleitzahl",
+                              "aria-label": "Postleitzahl"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c("input", {
+                            attrs: {
+                              type: "text",
+                              name: "ort",
+                              placeholder: "Ort",
+                              "aria-label": "Ort"
+                            }
+                          }),
+                          _vm._v(" "),
+                          _c(
+                            "label",
+                            { attrs: { for: "rechtschutzversicherung" } },
+                            [
+                              _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.insurancePresent,
+                                    expression: "insurancePresent"
+                                  }
+                                ],
+                                attrs: {
+                                  type: "checkbox",
+                                  id: "rechtschutzversicherung",
+                                  name: "rechtschutzversicherung",
+                                  "aria-label": "Rechtschutzversicherung"
+                                },
+                                domProps: {
+                                  checked: Array.isArray(_vm.insurancePresent)
+                                    ? _vm._i(_vm.insurancePresent, null) > -1
+                                    : _vm.insurancePresent
+                                },
+                                on: {
+                                  change: function($event) {
+                                    var $$a = _vm.insurancePresent,
+                                      $$el = $event.target,
+                                      $$c = $$el.checked ? true : false
+                                    if (Array.isArray($$a)) {
+                                      var $$v = null,
+                                        $$i = _vm._i($$a, $$v)
+                                      if ($$el.checked) {
+                                        $$i < 0 &&
+                                          (_vm.insurancePresent = $$a.concat([
+                                            $$v
+                                          ]))
+                                      } else {
+                                        $$i > -1 &&
+                                          (_vm.insurancePresent = $$a
+                                            .slice(0, $$i)
+                                            .concat($$a.slice($$i + 1)))
+                                      }
                                     } else {
-                                      $$i > -1 &&
-                                        (_vm.insurancePresent = $$a
-                                          .slice(0, $$i)
-                                          .concat($$a.slice($$i + 1)))
+                                      _vm.insurancePresent = $$c
                                     }
-                                  } else {
-                                    _vm.insurancePresent = $$c
                                   }
                                 }
-                              }
-                            }),
-                            _vm._v(" "),
-                            _c("span", [
-                              _vm._v(
-                                "  Haben Sie eine Rechtschutzversicherung?"
-                              )
-                            ])
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _vm.insurancePresent
-                          ? [
-                              _c("input", {
-                                attrs: {
-                                  type: "text",
-                                  name: "versicherung_name",
-                                  placeholder:
-                                    "Name der Rechtschutzversicherung",
-                                  "aria-label":
-                                    "Name der Rechtschutzversicherung"
-                                }
                               }),
                               _vm._v(" "),
-                              _c("input", {
-                                attrs: {
-                                  type: "text",
-                                  name: "versicherten_name",
-                                  placeholder: "Name des Versicherten",
-                                  "aria-label": "Name des Versicherten"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("input", {
-                                attrs: {
-                                  type: "text",
-                                  name: "versicherten_nummer",
-                                  placeholder: "Versicherungsnummer",
-                                  "aria-label": "Versicherungsnummer"
-                                }
-                              }),
-                              _vm._v(" "),
-                              _c("input", {
-                                attrs: {
-                                  type: "date",
-                                  name: "versichert_seit",
-                                  placeholder: "Versichert seit ...",
-                                  "aria-label": "Versichert seit ..."
-                                }
-                              })
+                              _c("span", [
+                                _vm._v(
+                                  "  Haben Sie eine Rechtschutzversicherung?"
+                                )
+                              ])
                             ]
-                          : _vm._e(),
-                        _vm._v(" "),
-                        _c("textarea", {
-                          attrs: {
-                            name: "sachverhalt",
-                            placeholder: "Schilderung des Sachverhalts",
-                            "aria-label": "Schilderung des Sachverhalts",
-                            rows: "5"
-                          }
-                        }),
-                        _vm._v(" "),
-                        _vm._l(_vm.quiz, function(block) {
-                          return _c("input", {
-                            key: "form__" + block.id,
-                            attrs: { type: "hidden", name: block.id },
-                            domProps: { value: block.answer }
-                          })
-                        }),
-                        _vm._v(" "),
-                        _vm._m(0),
-                        _vm._v(" "),
-                        _vm._m(1),
-                        _vm._v(" "),
-                        _c(
-                          "button",
-                          {
-                            staticClass: "kontakt__send",
+                          ),
+                          _vm._v(" "),
+                          _vm.insurancePresent
+                            ? [
+                                _c("input", {
+                                  attrs: {
+                                    type: "text",
+                                    name: "versicherung_name",
+                                    placeholder:
+                                      "Name der Rechtschutzversicherung",
+                                    "aria-label":
+                                      "Name der Rechtschutzversicherung"
+                                  }
+                                }),
+                                _vm._v(" "),
+                                _c("input", {
+                                  attrs: {
+                                    type: "text",
+                                    name: "versicherten_name",
+                                    placeholder: "Name des Versicherten",
+                                    "aria-label": "Name des Versicherten"
+                                  }
+                                }),
+                                _vm._v(" "),
+                                _c("input", {
+                                  attrs: {
+                                    type: "text",
+                                    name: "versicherten_nummer",
+                                    placeholder: "Versicherungsnummer",
+                                    "aria-label": "Versicherungsnummer"
+                                  }
+                                }),
+                                _vm._v(" "),
+                                _c("input", {
+                                  attrs: {
+                                    type: "date",
+                                    name: "versichert_seit",
+                                    placeholder: "Versichert seit ...",
+                                    "aria-label": "Versichert seit ..."
+                                  }
+                                })
+                              ]
+                            : _vm._e(),
+                          _vm._v(" "),
+                          _c("textarea", {
                             attrs: {
-                              type: "submit",
-                              "aria-label": "Formular absenden",
-                              disabled: ""
+                              name: "sachverhalt",
+                              placeholder: "Schilderung des Sachverhalts",
+                              "aria-label": "Schilderung des Sachverhalts",
+                              rows: "5"
                             }
-                          },
-                          [_vm._v("Anfrage senden")]
-                        )
-                      ],
-                      2
-                    )
-                  : _vm._e()
-              ]
-            : _vm.enableAuswertung
-            ? [
-                _c("button", { on: { click: _vm.handleShowAuswertung } }, [
-                  _vm._v("Auswertung zeigen")
-                ])
-              ]
-            : [
-                _c("button", { attrs: { disabled: "" } }, [
-                  _vm._v("Auswertung zeigen")
-                ]),
-                _vm._v(" "),
-                _vm._m(2),
-                _vm._v(" "),
-                _vm._m(3)
-              ]
-        ],
-        2
-      )
+                          }),
+                          _vm._v(" "),
+                          _vm._l(_vm.quiz, function(block) {
+                            return _c("input", {
+                              key: "form__" + block.id,
+                              attrs: { type: "hidden", name: block.id },
+                              domProps: { value: block.answer }
+                            })
+                          }),
+                          _vm._v(" "),
+                          _vm._m(0),
+                          _vm._v(" "),
+                          _vm._m(1),
+                          _vm._v(" "),
+                          _c(
+                            "button",
+                            {
+                              staticClass: "kontakt__send",
+                              attrs: {
+                                type: "submit",
+                                "aria-label": "Formular absenden",
+                                disabled: ""
+                              }
+                            },
+                            [_vm._v("Anfrage senden")]
+                          )
+                        ],
+                        2
+                      )
+                    : _vm._e()
+                ]
+              : _vm.enableAuswertung
+              ? [
+                  _c("button", { on: { click: _vm.handleShowAuswertung } }, [
+                    _vm._v("Auswertung zeigen")
+                  ])
+                ]
+              : [
+                  _c("button", { attrs: { disabled: "" } }, [
+                    _vm._v("Auswertung zeigen")
+                  ]),
+                  _vm._v(" "),
+                  _vm._m(2)
+                ]
+          ],
+          2
+        )
+      ])
     ],
     2
   )
@@ -13153,14 +13154,6 @@ var staticRenderFns = [
         ])
       ]
     )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _c("small", [_vm._v("Haben Sie alle Fragen beantwortet?")])
-    ])
   },
   function() {
     var _vm = this
