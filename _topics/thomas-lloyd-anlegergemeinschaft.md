@@ -71,9 +71,9 @@ abschnitte:
       bereits zum Ablauf des 31.12.2016 gekündigt hatten.&nbsp;
 
 
-      Er konnten bereits Auszahlungen in Höhe von 15.942,29 Euro, 9.902,12 Euro
-      plus Zinsen von 436,30 Euro und 6.603,79 Euro plus Zinsen von 306,84 Euro
-      zurückerlangt werden.&nbsp;
+      Er konnten bereits vor Gründung der Anlegergemeinschaft Auszahlungen in
+      Höhe von 15.942,29 Euro, 9.902,12 Euro plus Zinsen von 436,30 Euro und
+      6.603,79 Euro plus Zinsen von 306,84 Euro zurückerlangt werden.&nbsp;
 
 
       Einem Anleger wurden durch die CT Infrastructure Holding Ltd. nach dem
