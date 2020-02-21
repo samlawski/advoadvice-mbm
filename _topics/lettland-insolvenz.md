@@ -17,11 +17,12 @@ erfolge:
     text:
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
-  Durch einen Aufenthalt in Lettland sparen Sie kosten und beschleunigen Sie die
-  Privatinsolvenz.
+  Durch einen Aufenthalt und ein Insolvenzverfahren in Lettland können Sie Ihre
+  Schulden schneller als in Deutschland loswerden und im Idealfall bereits nach
+  12 Monaten die gewünschte Restschuldbefreiung erlangen.&nbsp;
 
 
-  Klingt interessant?
+  Klingt das für Sie interessant?
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
