@@ -12,6 +12,8 @@ erfolge:
     text: Anleger
   - zahl: 50+
     text: Klagen
+  - zahl: 60.000+
+    text: Rückzahlungen erstritten
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
 intro_text_markdown: >-
   Bereits im Februar 2019 gründete die Kanzlei AdvoAdvice Rechtsanwälte in
