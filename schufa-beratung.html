@@ -22,8 +22,6 @@ fragen:
         block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
       - antwort_ist: ["Veraltete Daten löschen"]
         block_ids: ["veraltete_daten_text", "basis_score_1"]
-      - antwort_ist: ["Daten zur Restschuldbefreiung löschen"]
-        block_ids: ["restschuldbefreiung_text"]
       - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
         block_ids: ["oeffentliche_verzeichnisse_1"]
       - antwort_ist: ["Eintrag im FraudPool löschen"]
@@ -186,12 +184,7 @@ fragen:
 
   # Restschuldbefreiung
 
-  - block_id: restschuldbefreiung_text
-    block_typ: frage_mit_auswahl
-    text: Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung speichern darf. An dieser Rechtsprechung bestanden bislang schon vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen Person in Frage steht. Somit können trotz der bislang erfolgten Urteile wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung eines solchen Merkmals geführt werden.
-    erforderlich: false
-    optionen: ["Weiter"]
-    folge_bloecke: []
+  # ...
 
   # Öffentliche Verzeichnisse
 
@@ -350,6 +343,13 @@ auswertungen:
       - block_id: negativ_eintrag_vertragskuendigung
         antwort_ist: "Ja"
     text_html: <p>Wenn Sie Mahnungen zu der Forderung und/oder eine Kündigung zu dem Vertragsverhältnis erhalten haben, sind die Grundvoraussetzungen für einen negativen Schufa-Eintrag geschaffen. Jedoch werden bei der Einmeldung häufig weitere Fehler begangen, sodass es oft möglich ist, eine Löschung dennoch durchzusetzen. Genauere Erfolgsaussichten sind aber immer im konkreten Einzelfall zu ermitteln. Diese hängen insbesondere an der Ausgestaltung der einzelnen Mahnungen. Bitte geben Sie Ihre weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert sind.</p>
+    erlaube_kontakt: true
+
+  - bedingungen_alle_erfuellt:
+      - block_id: intro
+        antwort_ist: Daten zur Restschuldbefreiung löschen
+    bedingungen_eins_erfuellt: []
+    text_html: <p>Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung speichern darf. An dieser Rechtsprechung bestanden bislang schon vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen Person in Frage steht. Somit können trotz der bislang erfolgten Urteile wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung eines solchen Merkmals geführt werden.</p>
     erlaube_kontakt: true
 
   # Öffentliche Verzeichnisse

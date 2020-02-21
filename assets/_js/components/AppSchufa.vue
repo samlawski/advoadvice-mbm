@@ -29,13 +29,14 @@
     </template>
   </div>
 
-  <div id="auswertung">
+  <div id="auswertung" v-if="quizStarted">
     <div class="auswertung__wrapper">
       <h2>Auswertung</h2>
-      <template v-if="showAuswertung">
+
+      <template v-if="showAuswertung || requiredBlocks.length <= 1">
         <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
 
-        <form v-if="auswertungen.every(a => a.erlaube_kontakt)">
+        <form v-if="enableContactForm">
           <input type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required>
           <input type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required>
           <input type="tel" name="tel" placeholder="Ihre Telefonnummer ..." aria-label="Ihre Telefonnummer">
@@ -211,9 +212,6 @@ export default {
     this.$nextTick(function () {
       // Check if there is a next question
       if(this.currentBlock()){
-        // Focus input fields if they exist
-        let $input = document.querySelector(`#${this.currentBlock().id} input`)
-        if($input) $input.focus()
         // Move to next question
         location.hash = this.currentBlock().id
       }else if(this.enableAuswertung){
@@ -224,12 +222,19 @@ export default {
     })
   },
   computed: {
+    quizStarted(){
+      return this.quiz.some(block => block.answer)
+    },
+    requiredBlocks(){
+      return this.quiz.filter(block => getBlockById(block.id) && getBlockById(block.id).erforderlich)
+    },
     enableAuswertung(){
-      // are there NOT some required blocks with no answer?
-      return !this.quiz.some(block => {
-        let blockRequired = getBlockById(block.id) && getBlockById(block.id).erforderlich
-        return blockRequired && !this.getAnswer(block.id)
-      })
+      let isAnyWithoutAnswer = this.requiredBlocks.some(block => !this.getAnswer(block.id))
+
+      return this.requiredBlocks.length > 0 && !isAnyWithoutAnswer
+    },
+    enableContactForm(){
+      return this.auswertungen.every(a => a.erlaube_kontakt)
     }
   },
   props: [],
@@ -238,9 +243,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '../../../_sass/_constants.scss';
+
 // Layout
+
 section {
-  min-height: calc(100vh - 80px);
+  // min-height: calc(100vh - 80px);
+  min-height: 60vh;
 }
 
 // Fragen
@@ -255,7 +264,7 @@ section {
     width: 100%;
   }
   small {
-    color: rgba(0,0,0,0.7);
+    color: $clr-transparent-bl-7;
     opacity: 0;
     transition: .3s all;
     &.active { opacity: 1; }
@@ -273,15 +282,29 @@ section {
     width: 100%;
 
     &.active {
-      background-color: #081114;
-      color: white;
+      background-color: $clr-text;
+      color: $clr-bg;
+    }
+  }
+  @media(min-width: $media-md){
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    li {
+      flex: 0 0 30%;
+      margin: 10px;
+    }
+    button {
+      height: 100%;
     }
   }
 }
 
 .auswertung__wrapper {
   overflow: hidden;
-  background-color: #cfe9f5;
+  background-color: $clr-highlight-2;
 
   margin-bottom: 40px;
   padding: 20px 20px 40px;
@@ -289,12 +312,13 @@ section {
   text-align: center;
 
   button[disabled] {
-    border-color: rgba(0,0,0,0.4);
-    color: rgba(0,0,0,0.4);
+    border-color: $clr-transparent-bl-3;
+    color: $clr-transparent-bl-3;
   }
 
   form {
     text-align: left;
+    margin-top: 40px;
   }
 
   input[type="text"],
