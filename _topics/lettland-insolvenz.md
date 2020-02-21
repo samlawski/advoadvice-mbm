@@ -14,7 +14,7 @@ erfolge:
   - zahl: '7'
     text: Mandate seit Mai 2019
   - zahl: '2'
-    text: Insolvenzeröffnungen in Lettland seit Mai 2019
+    text: Insolvenzeröffnungen seit Mai 2019
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
   Durch einen Aufenthalt und ein Insolvenzverfahren in Lettland können Sie Ihre
