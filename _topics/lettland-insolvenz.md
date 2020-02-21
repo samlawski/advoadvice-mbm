@@ -11,8 +11,6 @@ header_image: /uploads/theme-lettland1.jpg
 erfolge:
   - zahl: '5.400'
     text: Klicks auf unser Angebot für Lettland
-  - zahl: 7 Monate
-    text: durchschnittliche Dauer bis zur Insolvenzeröffnung
   - zahl: '7'
     text: Mandate seit Mai 2019
   - zahl: '2'
