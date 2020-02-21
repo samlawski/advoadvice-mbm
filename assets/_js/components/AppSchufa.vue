@@ -30,6 +30,7 @@
   </div>
 
   <div id="auswertung" class="auswertung__wrapper">
+    <h2>Auswertung</h2>
     <template v-if="showAuswertung">
       <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
 
@@ -43,7 +44,7 @@
         <input type="text" name="ort" placeholder="Ort" aria-label="Ort">
 
         <label for="rechtschutzversicherung">
-          <input type="checkbox" name="rechtschutzversicherung" aria-label="Rechtschutzversicherung" v-model="insurancePresent">
+          <input type="checkbox" id="rechtschutzversicherung" name="rechtschutzversicherung" aria-label="Rechtschutzversicherung" v-model="insurancePresent">
           <span>&nbsp;&nbsp;Haben Sie eine Rechtschutzversicherung?</span>
         </label>
 
@@ -54,7 +55,7 @@
           <input type="date" name="versichert_seit" placeholder="Versichert seit ..." aria-label="Versichert seit ...">
         </template>
 
-        <textarea name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="3"></textarea>
+        <textarea name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="5"></textarea>
 
         <!-- Add all Quiz answers -->
         <input v-for="block in quiz" :key="'form__' + block.id" type="hidden" :name="block.id" :value="block.answer" />
@@ -75,8 +76,9 @@
       <button @click="handleShowAuswertung">Auswertung zeigen</button>
     </template>
     <template v-else>
-      <p>Haben Sie alle Fragen beantwortet?</p>
-      <p>Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben.</p>
+      <button disabled>Auswertung zeigen</button>
+      <p><small>Haben Sie alle Fragen beantwortet?</small></p>
+      <p><small>Sehen Sie hier eine Auswertung, sobald Sie alle Fragen beantwortet haben.</small></p>
     </template>
   </div>
 </section>
@@ -157,7 +159,11 @@ export default {
       this._rebuildQuiz()
       this._rebuildAuswertung()
     },
-    handleShowAuswertung(){ this.showAuswertung = true },
+    handleShowAuswertung(){ 
+      // Analytics:
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
+      this.showAuswertung = true 
+    },
     focusBlock(id){
       this.focusedBlock = id
     },
@@ -240,35 +246,70 @@ section {
 // Fragen
 .block {
   margin-bottom: 80px;
-}
-.active p {
-  font-weight: 700;
-}
-input,
-small {
-  width: 100%;
-}
-small {
-  color: rgba(0,0,0,0.7);
-  opacity: 0;
-  transition: .3s all;
-  &.active { opacity: 1; }
+
+  &.active p {
+    font-weight: 700;
+  }
+  input,
+  small {
+    width: 100%;
+  }
+  small {
+    color: rgba(0,0,0,0.7);
+    opacity: 0;
+    transition: .3s all;
+    &.active { opacity: 1; }
+  }
+
+  // Antworten
+  ul {
+    padding-left: 0;
+  }
+  li {
+    list-style: none;
+  }
+  button {
+    margin-top: 10px;
+    width: 100%;
+
+    &.active {
+      background-color: #081114;
+      color: white;
+    }
+  }
 }
 
-// Antworten
-ul {
-  padding-left: 0;
-}
-li {
-  list-style: none;
-}
-button {
-  margin-top: 10px;
-  width: 100%;
+.auswertung__wrapper {
+  overflow: hidden;
+  background-color: #cfe9f5;
 
-  &.active {
-    background-color: #081114;
-    color: white;
+  margin-bottom: 40px;
+  padding: 20px 20px 40px;
+
+  text-align: center;
+
+  button[disabled] {
+    border-color: rgba(0,0,0,0.4);
+    color: rgba(0,0,0,0.4);
+  }
+
+  form {
+    text-align: left;
+  }
+
+  input[type="text"],
+  input[type="tel"],
+  input[type="email"],
+  input[type="date"],
+  textarea,
+  label {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px
+  }
+  textarea {
+    margin-bottom: 40px;
+    margin-top: 40px;
   }
 }
 </style>
