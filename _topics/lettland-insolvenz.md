@@ -13,8 +13,10 @@ erfolge:
     text: Klicks auf unser Angebot für Lettland
   - zahl: 7 Monate
     text: durchschnittliche Dauer bis zur Insolvenzeröffnung
-  - zahl:
-    text:
+  - zahl: '7'
+    text: Mandate seit Mai 2019
+  - zahl: '2'
+    text: Insolvenzeröffnungen in Lettland seit Mai 2019
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
   Durch einen Aufenthalt und ein Insolvenzverfahren in Lettland können Sie Ihre
@@ -123,6 +125,32 @@ abschnitte:
       Gerichtsvollzieher.
     image:
     cta: false
+  - abschnitt_template: box_dunkel
+    titel: Beratung nur mit Rechtsanwalt
+    text_markdown: >-
+      Seien Sie vorsichtig bei den Angeboten von verschiedenen
+      Insolvenzagenturen.&nbsp; Hier wird auf professionell erscheinenden
+      Internetseiten oftmals angeboten, Ihnen schnell und effektiv zu
+      helfen.&nbsp;
+
+
+      Fragen Sie danach, ob es sich bei den Personen, die für Ihre Beratung in
+      Deutschland zuständig sind, um zur Rechtsberatung zugelassene
+      Rechtsanwälte handelt. Dies ist meist nicht der Fall, auch wenn sich die
+      Anbieter als Kanzlei oder Jurist bezeichnen, sagt dies nichts über eine
+      vorhandene Zulassung zur Rechtsberatung aus.&nbsp;
+
+
+      Die Agenturen haben ihren Sitz meist im Ausland und ihre Tätigkeit ist in
+      Deutschland weder zulässig noch über eine Haftpflichtversicherung
+      abgesichert.
+    image:
+    cta: true
+  - abschnitt_template: weiss_bild_links
+    titel: Angebote zu attraktiven Konditionen
+    text_markdown:
+    image:
+    cta: true
 redirect_from:
 redirect_to:
 sitemap: false
