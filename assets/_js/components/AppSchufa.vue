@@ -29,6 +29,10 @@
     </template>
   </div>
 
+  <div v-if="!quizStarted">
+    <p><small>Mit der Benutzung unseres Vorab-Checks ist noch kein Auftrag an die Kanzlei AdvoAdvice Rechtsanwälte mbB verbunden. Eine Mandatsverhältnis entsteht erst dann, wenn Sie die Mandatsunterlagen ausgefüllt und an AdvoAdvice zurückgesendet sowie eine Erklärung zur Mandatsübernahme von AdvoAdvice erhalten haben. Sollten eine Auftragserteilung Aussicht auf Erfolg haben, werden Ihnen am Ende des Vorab-Checks weitere Unterlagen zur Verfügung gestellt.</small></p>
+  </div>
+
   <div id="auswertung" v-if="quizStarted">
     <div class="auswertung__wrapper">
       <h2>Auswertung</h2>
