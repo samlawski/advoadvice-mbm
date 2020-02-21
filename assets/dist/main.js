@@ -12614,8 +12614,8 @@ var _default = {
       return ['frage_mit_datum', 'frage_mit_text'].includes(this.getBlockType(id)) && this.focusedBlock == id;
     },
     handleChoice: function handleChoice(block_id, choiceText) {
-      console.log('click', block_id, choiceText); // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+      // Analytics:
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText]);
 
       this.focusedBlock = null; // for input fields only
 
@@ -12627,7 +12627,8 @@ var _default = {
     },
     handleShowAuswertung: function handleShowAuswertung() {
       // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen']);
+
       this.showAuswertung = true;
     },
     focusBlock: function focusBlock(id) {

@@ -104,43 +104,75 @@
       {{ content }}
     </div>
 
-    <footer class="page__footer"> 
-      <div id="kontakt" class="h-container">
+    {% if page.simple_fusszeile %}
+      <footer class="page__footer"> 
+        <div id="kontakt" class="h-container">
 
-        <div class="footer__einleitung h-container--sm">
-          <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait">
-          <p class="h4 editable">
-            Nehmen Sie noch jetzt Kontakt auf! 
-          </p>
-          <p class="editable">Wir beraten Sie gerne bei Ihrem Anliegen und geben Ihnen ganz <strong>kostenlos</strong> und <strong>unverbindlich</strong> eine erste Einschätzung.</p>
-        </div>
+          <div class="footer__kontakt">
+            <div class="footer__form">
+              <h4 class="editable">Kontakt</h4>
+              <p class="editable">
+                Telefon: 030 - 921 000 40 <br />
+                Telefax: 030 - 921 000 410 <br />
+                E-Mail: info@advoadvice.de
+              </p>
+              <h4 class="editable">Sprechzeiten</h4>
+              <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
+            </div>
 
-        <div class="footer__kontakt">
-          <div class="footer__form">
-            {% include kontakt_formular.html id="2" %}
-          </div>
-
-          <div class="footer__anschrift">
-            <p class="editable">
-              Telefon: 030 - 921 000 40 <br />
-              Telefax: 030 - 921 000 410 <br />
-              E-Mail: info@advoadvice.de
-            </p>
-            <h4 class="editable">Anschrift</h4>
-            <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
-            <h4 class="editable">Sprechzeiten</h4>
-            <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
-
-            <div class="footer__legal">
-              <a href="/impressum" class="editable">Impressum</a>
-              &nbsp;&#183&nbsp;
-              <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+            <div class="footer__anschrift">
+              <h4 class="editable">Anschrift</h4>
+              <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
+              
+              <div class="footer__legal">
+                <a href="/impressum" class="editable">Impressum</a>
+                &nbsp;&#183&nbsp;
+                <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+              </div>
             </div>
           </div>
-        </div>
 
-      </div>
-    </footer>
+        </div>
+      </footer>
+    {% else %}
+      <footer class="page__footer"> 
+        <div id="kontakt" class="h-container">
+
+          <div class="footer__einleitung h-container--sm">
+            <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait">
+            <p class="h4 editable">
+              Nehmen Sie noch jetzt Kontakt auf! 
+            </p>
+            <p class="editable">Wir beraten Sie gerne bei Ihrem Anliegen und geben Ihnen ganz <strong>kostenlos</strong> und <strong>unverbindlich</strong> eine erste Einschätzung.</p>
+          </div>
+
+          <div class="footer__kontakt">
+            <div class="footer__form">
+              {% include kontakt_formular.html id="2" %}
+            </div>
+
+            <div class="footer__anschrift">
+              <p class="editable">
+                Telefon: 030 - 921 000 40 <br />
+                Telefax: 030 - 921 000 410 <br />
+                E-Mail: info@advoadvice.de
+              </p>
+              <h4 class="editable">Anschrift</h4>
+              <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
+              <h4 class="editable">Sprechzeiten</h4>
+              <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
+
+              <div class="footer__legal">
+                <a href="/impressum" class="editable">Impressum</a>
+                &nbsp;&#183&nbsp;
+                <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </footer>
+    {% endif %}
     
     <!-- JavaScript -->
     <!-- Dynamically add contact form -->
