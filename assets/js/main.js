@@ -3,6 +3,7 @@
   - Polyfill
   - General Functions
   - On Page Load
+  - Catch and track all console errors
   - Navigation
   - Search (only on blog)
   - reCaptcha Cookies - Contact Form
@@ -112,6 +113,19 @@ function readCookie(n) {
 /* *** On Page Load *** */
 
 clearAllCookies()
+
+// Track all console errors
+
+console.defaultError = console.error.bind(console)
+console.errors = []
+console.error = function(){
+    console.defaultError.apply(console, arguments)
+    console.errors.push(Array.from(arguments))
+    // analytics:
+    var arg1 = Array.from(arguments)[0]
+    var args = Array.from(arguments).slice(1).join('; ')
+    _paq.push(['trackEvent', 'Console', 'Error', arg1, args])
+}
 
 /* *** Navigation *** */
 
@@ -259,7 +273,8 @@ clearAllCookies()
   var $crmScriptContainer     = document.getElementById('crm_script_container'),
       $cookieCheckInputs      = document.querySelectorAll('.cookie_check--js'),
       $cookieCheckContainers  = document.querySelectorAll('.cookie_check_container--js'),
-      $sendBtns               = document.querySelectorAll('.kontakt__send')
+      $sendBtns               = document.querySelectorAll('.kontakt__send'),
+      $errorContainer         = document.querySelectorAll('.kontakt__error')
 
   // Don't run unless necessary elements are present
   if($cookieCheckInputs.length == 0) return 
@@ -267,13 +282,29 @@ clearAllCookies()
   // Methods
 
   function _enableSendBtn(){
-    $sendBtns.forEach(function($btn){
+    arrayFrom($sendBtns).forEach(function($btn){
+      $btn.innerHTML = 'Anfrage senden'
       $btn.disabled = false
     })
   }
   function _disableSendBtn(){
-    $sendBtns.forEach(function($btn){
+    arrayFrom($sendBtns).forEach(function($btn){
+      $btn.innerHTML = 'Anfrage senden'
       $btn.disabled = true
+    })
+  }
+  function _loadingSendBtn(){
+    arrayFrom($sendBtns).forEach(function($btn){
+      $btn.innerHTML = '<div class="loader"></div>'
+      $btn.disabled = true
+    })
+  }
+  function _showSendBtnError(formNachricht){
+    var nachricht = formNachricht || ''
+    arrayFrom($errorContainer).forEach(function($container){
+      $container.innerHTML = '<p>Leider konnte das Formular nicht abgeschickt werden.</p>' +
+        '<p>Bitte stellen Sie sicher, dass alle Felder ausgefüllt sind oder versuchen Sie die Seite neuzuladen.</p>' +
+        '<p><strong>Oder klicken Sie direkt <a href="mailto:info@advoadvice.de?subject=Kontaktanfrage&body=' + encodeURIComponent(nachricht) + '">HIER</a>, um uns eine Email zu schicken.</strong></p>'
     })
   }
 
@@ -292,10 +323,7 @@ clearAllCookies()
       $crmScriptContainer.appendChild(tempScript)
 
       // Enable Send buttons only once CRM form is loaded
-      // Set loading spinner
-      arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
-        $sendBtn.innerHTML = '<div class="loader"></div>'
-      })
+      _loadingSendBtn()
 
       // Recursively check if form is loaded yet
       var presenceCheckTime = 0
@@ -303,9 +331,6 @@ clearAllCookies()
         var $crmForm = document.querySelector('.cscrm_webform_container')
 
         if($crmForm.innerHTML.length > 0){
-          arrayFrom(document.querySelectorAll('.kontakt__send')).forEach(function($sendBtn){
-            $sendBtn.innerHTML = 'Anfrage senden'
-          })
           _enableSendBtn()
         }else if(presenceCheckTime >= 50){ // Stop and show Error
           // Analytics:
@@ -346,15 +371,44 @@ clearAllCookies()
         // Analytics:
         _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Senden', 'vollständig'])
 
-        var nameAsArr = $contactForm.querySelector('[name="name"]').value.split(' ')
+        _loadingSendBtn()
+
+        try {
+          var nameAsArr   = $contactForm.querySelector('[name="name"]').value.split(' '),
+              kontaktObj  = {
+                firstName : nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0],
+                lastName  : nameAsArr.slice(-1)[0],
+                email     : $contactForm.querySelector('[name="email"]').value,
+                tel       : $contactForm.querySelector('[name="tel"]').value,
+                anliegen  : $contactForm.querySelector('[name="anliegen"]').value
+              }
   
-        $crmForm.querySelector('#person_first_name').value = nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0]
-        $crmForm.querySelector('#person_name').value = nameAsArr.slice(-1)[0]
-        $crmForm.querySelector('#person_emails_attributes_0_name').value = $contactForm.querySelector('[name="email"]').value
-        $crmForm.querySelector('#person_tels_attributes_0_name').value = $contactForm.querySelector('[name="tel"]').value
-        $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = $contactForm.querySelector('[name="anliegen"]').value
-  
-        $crmForm.querySelector('[type="submit"]').click()
+          $crmForm.querySelector('#person_first_name').value = kontaktObj.firstName
+          $crmForm.querySelector('#person_name').value = kontaktObj.lastName
+          $crmForm.querySelector('#person_emails_attributes_0_name').value = kontaktObj.email
+          $crmForm.querySelector('#person_tels_attributes_0_name').value = kontaktObj.tel
+          $crmForm.querySelector('#person__background_d35c6634-4e50-11ea-8efe-0cc47a45bfdd').value = kontaktObj.anliegen
+    
+          $crmForm.querySelector('[type="submit"]').click()
+
+          // The form should submit and go to /danke. If it hasn't after a few seconds, show an error: 
+          setTimeout(function(){
+            // Analytics:
+            _paq.push(['trackEvent', 'Kontaktformular', 'Senden timeout', JSON.stringify(kontaktObj)])
+
+            _showSendBtnError(kontaktObj.anliegen)
+            _enableSendBtn()
+          }, 5000)
+        }
+        catch(error) {
+          console.error(error)
+          // Analytics:
+          _paq.push(['trackEvent', 'Kontaktformular', 'Senden fehlgeschlagen', error])
+          
+          var nachricht = $contactForm.querySelector('[name="anliegen"]') && $contactForm.querySelector('[name="anliegen"]').value
+          _showSendBtnError(nachricht)
+          _enableSendBtn()
+        }
       }else{
         // Analytics:
         _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Senden', 'unvollständig'])
