@@ -153,7 +153,7 @@ export default {
     },
     handleChoice(block_id, choiceText){
       // Analytics:
-      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
 
       this.focusedBlock = null // for input fields only
 
@@ -166,7 +166,7 @@ export default {
     },
     handleShowAuswertung(){ 
       // Analytics:
-      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
       this.showAuswertung = true 
     },
     focusBlock(id){
