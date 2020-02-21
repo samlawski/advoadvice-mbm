@@ -27,15 +27,29 @@ intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
   - abschnitt_template: box_dunkel
-    titel: 'Ein Preis, keine versteckten Kosten'
+    titel: Willkommen in Lettland (Riga)
     text_markdown: >-
-      Gemeinsam mit unserem Partner in Lettland bieten wir Ihnen das komplette
-      Paket. Sie machen sich um nichts Sorgen. Wir beraten Sie zu allem, was Sie
-      wissen müssen.
+      Aufgrund der Schnelligkeit und Schuldnerfreundlichkeit des
+      Insolvenzverfahrens bietet sich der Weg nach Lettland, insbesondere in die
+      lettische Hauptstadt Riga an.
 
 
-      Dabei machen Sie sich keine Sorgen über die Kosten. Der Preis bleibt
-      gleich.
+      Über die Insolvenz in Riga (Lettland) erreichen Sie als Schuldner für sich
+      einen schnellen Neustart ohne Schulden und ohne langwieriges Verfahren in
+      Deutschland.
+
+
+      Dies verlangt von Ihnen allerdings etwas mehr Flexibilität, da sie für die
+      Insolvenz in Riga ihren Lebensmittelpunkt (englisch „center of main
+      interests” – kurz COMI) für mindestens ein halbes Jahr nach Lettland
+      verlegen und dort als Steuerzahler registriert sein müssen.
+
+
+      Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice ein
+      lokaler Anbieter in Riga vor Ort, welcher direkten Kontakt zu einem
+      lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht hat. Die
+      Ansprechpartner vor Ort stehen ihnen dann für alle Anträge und
+      behördlichen Angelegenheiten zur Verfügung.
     image:
     cta: false
   - abschnitt_template: grafik_volle_breite
@@ -44,15 +58,69 @@ abschnitte:
     image: /uploads/lettland-graph1.png
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: 'Ja, es ist legal'
+    titel: Umfang unseres Angebots
     text_markdown: >-
-      Die Rechtsgrundlage ist eindeutig. Darum berichten wir auch vollkommen
-      transparent davon auf unserer Webseite. ...
+      Der Umfang des Angebotes umfasst:
+
+
+      * Komplette Betreuung in Deutsch von A bis Z
+
+      * Durchführung der Insolvenz und aller juristischer Belange durch einen
+      lettischen Rechtsanwalt und Experten im Insolvenzrecht
+
+      * Hilfe bei der Wohnungssuche vor Ort&nbsp;
+
+      * Hilfe bei der Jobsuche und der Taxpayer Registration vor Ort&nbsp;
+
+      * Permanenter Ansprechpartner in Deutsch vor Ort für Rückfragen&nbsp;
+
+      * Kundenbetreuung in Deutsch bei vorbereitenden Besuchen in Lettland vor
+      Ort&nbsp;
+
+      * Durchsetzung der Restschuldbefreiung in Deutschland&nbsp;
+
+      * Herausfordern von Titeln nach Restschuldbefreiung und Erledigung von
+      Schufa-Eintragen bzw. deren Löschung durch Kanzlei AdvoAdvice
     image:
     cta: true
   - abschnitt_template: box_hell
-    titel: Gibt es noch andere Möglichkeiten als Lettland?
-    text_markdown: Ja. Wir haben uns ausführlich damit beschäftigt ...
+    titel: Was sind die rechtlichen Grundlagen?
+    text_markdown: >-
+      Da Lettland Teil der EU ist, können alle EU-Bürger und solche mit einem
+      unbeschränkten Aufenthaltstitel in Lettland ihren Wohnsitz nehmen und
+      dort&nbsp; auch einen Insolvenzantrag stellen.
+
+
+      Die Erteilung der Restschuldbefreiung erfolgt in einem Zeitrahmen von 6 -
+      36 Monaten. Dieses richtet sich danach, in welcher Höhe Ihre Gläubiger
+      Schulden anmelden.&nbsp;
+
+
+      Für den Schuldner ist die Insolvenzantragstellung in Lettland eher
+      einfach. Es handelt sich um ein schriftliches Verfahren und es ist keine
+      aufwändige Beweisführung vor einem Gericht nötig.
+
+
+      Für ihre Gläubiger ist das Geltendmachen von Forderung innerhalb der
+      Insolvenz in Lettland eher schwierig, da teils hohe Kosten für Übersetzung
+      und Anmeldung der Forderung entstehen. Dies macht insbesondere eine
+      Verfolgung kleinerer Forderungen durch ihre Gläubiger sehr unattraktiv und
+      auch unwirtschaftlich.
+
+
+      Werden überhaupt keine Forderungen durch Gläubiger angemeldet, kann dies
+      bereits nach sehr kurzer Zeit eine sofortige Restschuldbefreiung zur Folge
+      haben.
+
+
+      Die Restschuldbefreiung muss ins Deutsche übersetzt werden und wird dann
+      auch innerhalb Deutschlands anerkannt.
+
+
+      Dies führt dann auch zur Erledigung von Negativeinträgen bei der Schufa
+      oder anderen Auskunfteien und zum Ende von
+      Zwangsvollstreckungsma&szlig;nahmen und lästigen Besuchen vom
+      Gerichtsvollzieher.
     image:
     cta: false
 redirect_from:
