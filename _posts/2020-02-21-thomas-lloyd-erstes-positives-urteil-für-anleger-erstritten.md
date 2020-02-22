@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Lloyd: Erster positives Urteil für Anleger erstritten'
+title: 'Thomas Lloyd: Erstes positives Urteil für Anleger erstritten'
 date: 2020-02-21 00:00:00
 description: >-
   Landgericht Frankenthal verurteilt CT Infrastructure Holding als
