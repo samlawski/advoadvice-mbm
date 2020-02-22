@@ -9,6 +9,8 @@ style_id: post
 feature_bild_path:
 tags:
 topics:
+  - lettland-insolvenz
+  - insolvenz
 author: dr-sven-tintemann
 ---
 
