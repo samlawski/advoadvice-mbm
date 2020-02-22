@@ -8,6 +8,19 @@ layout: post
 style_id: post
 feature_bild_path: /uploads/judgment-3667391-640-1.jpg
 tags:
+  - Erfolg
+  - Urteil
+  - Sonderkündigung
+  - Rückzahlung
+  - ThomasLloyd Investments GmbH
+  - CT Infrastructure Holding Ltd.
+  - Landgericht Frankenthal
+  - Klage
+  - Videoverhandlung
+  - § 128 a ZPO
+  - AdvoAdvice
+  - Dr. Sven Tintemann
+  - Genussrechte
 topics:
   - bank-und-kapitalmarkt
   - anlegerschutz
