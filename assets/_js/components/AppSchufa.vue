@@ -58,7 +58,7 @@
             <input type="text" name="versicherung_name" placeholder="Name der Rechtschutzversicherung" aria-label="Name der Rechtschutzversicherung">
             <input type="text" name="versicherten_name" placeholder="Name des Versicherten" aria-label="Name des Versicherten">
             <input type="text" name="versicherten_nummer" placeholder="Versicherungsnummer" aria-label="Versicherungsnummer">
-            <input type="date" name="versichert_seit" placeholder="Versichert seit ..." aria-label="Versichert seit ...">
+            <input type="text" name="versichert_seit" placeholder="Versichert seit Datum ..." aria-label="Versichert seit ...">
           </template>
 
           <textarea name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="5"></textarea>
