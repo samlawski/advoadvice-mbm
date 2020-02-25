@@ -77,4 +77,5 @@ redirect_from:
   - '/kreditwiderrufen'
   - '/themen/widerruf-verbraucherdarlehen'
 redirect_to: 
+sitemap: true
 ---
