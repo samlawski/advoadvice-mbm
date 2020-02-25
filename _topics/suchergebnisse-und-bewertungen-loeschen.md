@@ -74,4 +74,5 @@ abschnitte:
 redirect_from: 
   - '/themen/bewertung-löschen'
 redirect_to: 
+sitemap: true
 ---
