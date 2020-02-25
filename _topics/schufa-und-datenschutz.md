@@ -220,4 +220,5 @@ abschnitte:
 redirect_from: 
   - '/themen/datenschutz'
 redirect_to: 
+sitemap: true
 ---

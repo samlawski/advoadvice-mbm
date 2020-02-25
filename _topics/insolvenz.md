@@ -78,4 +78,5 @@ abschnitte:
 redirect_from: 
   - '/themen/insolvenzrecht'
 redirect_to: 
+sitemap: true
 ---
