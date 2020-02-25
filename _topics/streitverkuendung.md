@@ -81,4 +81,5 @@ abschnitte:
 redirect_from: 
   - "/streitverkuendung"
 redirect_to: 
+sitemap: true
 ---

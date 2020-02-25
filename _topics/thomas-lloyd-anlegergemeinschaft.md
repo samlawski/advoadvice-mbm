@@ -246,5 +246,5 @@ abschnitte:
     cta: true
 redirect_from:
 redirect_to:
-sitemap: false
+sitemap: true
 ---
