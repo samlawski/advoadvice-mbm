@@ -72,4 +72,5 @@ abschnitte:
 redirect_from: 
   - '/themen/versicherungsrecht'
 redirect_to: 
+sitemap: true
 ---
