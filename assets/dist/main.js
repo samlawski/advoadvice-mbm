@@ -12620,8 +12620,7 @@ var _default = {
     },
     handleChoice: function handleChoice(block_id, choiceText) {
       // Analytics:
-      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText]);
-
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
       this.focusedBlock = null; // for input fields only
 
       this._addAnswerToQuiz(buildQuizBlock(block_id, choiceText));
@@ -12632,8 +12631,7 @@ var _default = {
     },
     handleShowAuswertung: function handleShowAuswertung() {
       // Analytics:
-      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen']);
-
+      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
       this.showAuswertung = true;
     },
     focusBlock: function focusBlock(id) {
@@ -13048,9 +13046,10 @@ exports.default = _default;
                                     _vm._v(" "),
                                     _c("input", {
                                       attrs: {
-                                        type: "date",
+                                        type: "text",
                                         name: "versichert_seit",
-                                        placeholder: "Versichert seit ...",
+                                        placeholder:
+                                          "Versichert seit Datum ...",
                                         "aria-label": "Versichert seit ..."
                                       }
                                     })
@@ -13278,7 +13277,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57432" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51345" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
