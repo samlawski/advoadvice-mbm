@@ -76,3 +76,7 @@ section[data-v-cc4b83] {
   margin-bottom: 40px;
   margin-top: 40px;
 }
+.kontakt__error[data-v-cc4b83] {
+  color: tomato;
+  margin-top: 20px;
+}
