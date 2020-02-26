@@ -12900,7 +12900,7 @@ exports.default = _default;
                               active: _vm.isSelectedOption(quizBlock.id, option)
                             },
                             on: {
-                              click: function($event) {
+                              mousedown: function($event) {
                                 return _vm.handleChoice(quizBlock.id, option)
                               }
                             }
