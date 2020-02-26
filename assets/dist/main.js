@@ -12524,8 +12524,6 @@ exports.default = void 0;
 //
 //
 //
-//
-//
 var repo = {
   fragen: repoFragen,
   auswertungen: repoAuswertungen
@@ -12583,9 +12581,13 @@ var _default = {
     return {
       quiz: initQuiz(),
       auswertungen: [],
-      showAuswertung: false,
       focusedBlock: null,
-      insurancePresent: false
+      showAuswertung: false,
+      insurancePresent: false,
+      formEnabled: false,
+      contactFormObj: {
+        rechtsschutz: {}
+      }
     };
   },
   methods: {
@@ -12620,7 +12622,8 @@ var _default = {
     },
     handleChoice: function handleChoice(block_id, choiceText) {
       // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText]);
+
       this.focusedBlock = null; // for input fields only
 
       this._addAnswerToQuiz(buildQuizBlock(block_id, choiceText));
@@ -12631,8 +12634,50 @@ var _default = {
     },
     handleShowAuswertung: function handleShowAuswertung() {
       // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen']);
+
       this.showAuswertung = true;
+    },
+    handleCookiesAgreed: function handleCookiesAgreed(e) {
+      // Analytics:
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Cookies erlauben', 'erlaubt']);
+
+      this.formEnabled = true;
+      crmForm.cookiesAgreedEnableForm(e.target.closest('form'));
+    },
+    handleFormSubmit: function handleFormSubmit(e) {
+      var _this = this;
+
+      e.preventDefault();
+      var $contactForm = e.target.closest('form');
+
+      if ($contactForm.reportValidity()) {
+        // Analytics:
+        _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Senden', 'vollständig']);
+
+        var quizResultsAsArrString = this.quiz.map(function (block) {
+          return "".concat(getBlockById(block.id).text, ": ").concat(block.answer);
+        }),
+            rechtschutzAsArrString = Object.keys(this.contactFormObj.rechtsschutz).map(function (k) {
+          return "".concat(k, ": ").concat(_this.contactFormObj.rechtsschutz[k]);
+        }),
+            sachverhaltArrString = ["sachverhalt: ".concat(this.contactFormObj.sachverhalt || '/')],
+            anliegenAsString = [].concat.apply([], [quizResultsAsArrString, rechtschutzAsArrString, sachverhaltArrString]).join('\n|\n');
+        var nameAsArr = this.contactFormObj.name.split(' ');
+        crmForm.submitFormObj($contactForm, {
+          firstName: nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0],
+          lastName: nameAsArr.slice(-1)[0],
+          email: this.contactFormObj.email,
+          tel: this.contactFormObj.tel,
+          streetAddress: this.contactFormObj.strasse_hausnummer,
+          zip: this.contactFormObj.plz,
+          city: this.contactFormObj.ort,
+          anliegen: anliegenAsString
+        });
+      } else {
+        // Analytics:
+        _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Senden', 'unvollständig']);
+      }
     },
     focusBlock: function focusBlock(id) {
       this.focusedBlock = id;
@@ -12649,12 +12694,12 @@ var _default = {
       }
     },
     _rebuildQuiz: function _rebuildQuiz() {
-      var _this = this;
+      var _this2 = this;
 
       var newQuiz = []; // Recursive function to add each quiz block one by one making sure that nested followup questions are added right in the middle
 
       var rebuildBlock = function rebuildBlock(id) {
-        var answer = _this.getAnswer(id); // Add block to new quiz array (including an answer if it has been given)
+        var answer = _this2.getAnswer(id); // Add block to new quiz array (including an answer if it has been given)
 
 
         newQuiz.push(buildQuizBlock(id, answer)); // Stop here if no answer has been given
@@ -12671,16 +12716,16 @@ var _default = {
       this.quiz = newQuiz;
     },
     _rebuildAuswertung: function _rebuildAuswertung() {
-      var _this2 = this;
+      var _this3 = this;
 
       this.auswertungen = repo.auswertungen.filter(function (auswertung) {
         var bedAll = auswertung.bedingungen_alle_erfuellt;
         var bedSome = auswertung.bedingungen_eins_erfuellt;
         var allTrue = bedAll && bedAll.length > 0 ? bedAll.every(function (a) {
-          return _this2.getAnswer(a.block_id) == a.antwort_ist;
+          return _this3.getAnswer(a.block_id) == a.antwort_ist;
         }) : true;
         var someTrue = bedSome && bedSome.length > 0 ? bedSome.some(function (a) {
-          return _this2.getAnswer(a.block_id) == a.antwort_ist;
+          return _this3.getAnswer(a.block_id) == a.antwort_ist;
         }) : true;
         return allTrue && someTrue;
       });
@@ -12711,10 +12756,10 @@ var _default = {
       });
     },
     enableAuswertung: function enableAuswertung() {
-      var _this3 = this;
+      var _this4 = this;
 
       var isAnyWithoutAnswer = this.requiredBlocks.some(function (block) {
-        return !_this3.getAnswer(block.id);
+        return !_this4.getAnswer(block.id);
       });
       return this.requiredBlocks.length > 0 && !isAnyWithoutAnswer;
     },
@@ -12897,58 +12942,191 @@ exports.default = _default;
                             "form",
                             [
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["name"],
+                                    expression: "contactFormObj['name']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "text",
                                   name: "name",
                                   placeholder: "Ihr Name* ...",
                                   "aria-label": "Ihr Name",
                                   required: ""
+                                },
+                                domProps: { value: _vm.contactFormObj["name"] },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "name",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["email"],
+                                    expression: "contactFormObj['email']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "email",
                                   name: "email",
                                   placeholder: "Ihre Email* ...",
                                   "aria-label": "Ihre Email Adresse",
                                   required: ""
+                                },
+                                domProps: {
+                                  value: _vm.contactFormObj["email"]
+                                },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "email",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["tel"],
+                                    expression: "contactFormObj['tel']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "tel",
                                   name: "tel",
                                   placeholder: "Ihre Telefonnummer ...",
                                   "aria-label": "Ihre Telefonnummer"
+                                },
+                                domProps: { value: _vm.contactFormObj["tel"] },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "tel",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value:
+                                      _vm.contactFormObj["strasse_hausnummer"],
+                                    expression:
+                                      "contactFormObj['strasse_hausnummer']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "text",
                                   name: "strasse_hausnummer",
                                   placeholder: "Straße und Hausnummer",
                                   "aria-label": "Straße und Hausnummer"
+                                },
+                                domProps: {
+                                  value:
+                                    _vm.contactFormObj["strasse_hausnummer"]
+                                },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "strasse_hausnummer",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["plz"],
+                                    expression: "contactFormObj['plz']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "text",
                                   name: "plz",
                                   placeholder: "Postleitzahl",
                                   "aria-label": "Postleitzahl"
+                                },
+                                domProps: { value: _vm.contactFormObj["plz"] },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "plz",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
                               _c("input", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["ort"],
+                                    expression: "contactFormObj['ort']"
+                                  }
+                                ],
                                 attrs: {
                                   type: "text",
                                   name: "ort",
                                   placeholder: "Ort",
                                   "aria-label": "Ort"
+                                },
+                                domProps: { value: _vm.contactFormObj["ort"] },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "ort",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
@@ -13007,7 +13185,7 @@ exports.default = _default;
                                   _vm._v(" "),
                                   _c("span", [
                                     _vm._v(
-                                      "  Haben Sie eine Rechtschutzversicherung?"
+                                      "  Haben Sie eine Rechtsschutzversicherung?"
                                     )
                                   ])
                                 ]
@@ -13016,66 +13194,302 @@ exports.default = _default;
                               _vm.insurancePresent
                                 ? [
                                     _c("input", {
+                                      directives: [
+                                        {
+                                          name: "model",
+                                          rawName: "v-model",
+                                          value:
+                                            _vm.contactFormObj["rechtsschutz"][
+                                              "versicherung"
+                                            ],
+                                          expression:
+                                            "contactFormObj['rechtsschutz']['versicherung']"
+                                        }
+                                      ],
                                       attrs: {
                                         type: "text",
-                                        name: "versicherung_name",
+                                        name: "versicherung",
                                         placeholder:
-                                          "Name der Rechtschutzversicherung",
+                                          "Name der Rechtsschutzversicherung",
                                         "aria-label":
-                                          "Name der Rechtschutzversicherung"
+                                          "Name der Rechtsschutzversicherung"
+                                      },
+                                      domProps: {
+                                        value:
+                                          _vm.contactFormObj["rechtsschutz"][
+                                            "versicherung"
+                                          ]
+                                      },
+                                      on: {
+                                        input: function($event) {
+                                          if ($event.target.composing) {
+                                            return
+                                          }
+                                          _vm.$set(
+                                            _vm.contactFormObj["rechtsschutz"],
+                                            "versicherung",
+                                            $event.target.value
+                                          )
+                                        }
                                       }
                                     }),
                                     _vm._v(" "),
                                     _c("input", {
+                                      directives: [
+                                        {
+                                          name: "model",
+                                          rawName: "v-model",
+                                          value:
+                                            _vm.contactFormObj["rechtsschutz"][
+                                              "versicherten_name"
+                                            ],
+                                          expression:
+                                            "contactFormObj['rechtsschutz']['versicherten_name']"
+                                        }
+                                      ],
                                       attrs: {
                                         type: "text",
                                         name: "versicherten_name",
                                         placeholder: "Name des Versicherten",
                                         "aria-label": "Name des Versicherten"
+                                      },
+                                      domProps: {
+                                        value:
+                                          _vm.contactFormObj["rechtsschutz"][
+                                            "versicherten_name"
+                                          ]
+                                      },
+                                      on: {
+                                        input: function($event) {
+                                          if ($event.target.composing) {
+                                            return
+                                          }
+                                          _vm.$set(
+                                            _vm.contactFormObj["rechtsschutz"],
+                                            "versicherten_name",
+                                            $event.target.value
+                                          )
+                                        }
                                       }
                                     }),
                                     _vm._v(" "),
                                     _c("input", {
+                                      directives: [
+                                        {
+                                          name: "model",
+                                          rawName: "v-model",
+                                          value:
+                                            _vm.contactFormObj["rechtsschutz"][
+                                              "versicherten_nummer"
+                                            ],
+                                          expression:
+                                            "contactFormObj['rechtsschutz']['versicherten_nummer']"
+                                        }
+                                      ],
                                       attrs: {
                                         type: "text",
                                         name: "versicherten_nummer",
                                         placeholder: "Versicherungsnummer",
                                         "aria-label": "Versicherungsnummer"
+                                      },
+                                      domProps: {
+                                        value:
+                                          _vm.contactFormObj["rechtsschutz"][
+                                            "versicherten_nummer"
+                                          ]
+                                      },
+                                      on: {
+                                        input: function($event) {
+                                          if ($event.target.composing) {
+                                            return
+                                          }
+                                          _vm.$set(
+                                            _vm.contactFormObj["rechtsschutz"],
+                                            "versicherten_nummer",
+                                            $event.target.value
+                                          )
+                                        }
                                       }
                                     }),
                                     _vm._v(" "),
                                     _c("input", {
+                                      directives: [
+                                        {
+                                          name: "model",
+                                          rawName: "v-model",
+                                          value:
+                                            _vm.contactFormObj["rechtsschutz"][
+                                              "versichert_seit"
+                                            ],
+                                          expression:
+                                            "contactFormObj['rechtsschutz']['versichert_seit']"
+                                        }
+                                      ],
                                       attrs: {
                                         type: "text",
                                         name: "versichert_seit",
                                         placeholder:
                                           "Versichert seit Datum ...",
                                         "aria-label": "Versichert seit ..."
+                                      },
+                                      domProps: {
+                                        value:
+                                          _vm.contactFormObj["rechtsschutz"][
+                                            "versichert_seit"
+                                          ]
+                                      },
+                                      on: {
+                                        input: function($event) {
+                                          if ($event.target.composing) {
+                                            return
+                                          }
+                                          _vm.$set(
+                                            _vm.contactFormObj["rechtsschutz"],
+                                            "versichert_seit",
+                                            $event.target.value
+                                          )
+                                        }
                                       }
                                     })
                                   ]
                                 : _vm._e(),
                               _vm._v(" "),
                               _c("textarea", {
+                                directives: [
+                                  {
+                                    name: "model",
+                                    rawName: "v-model",
+                                    value: _vm.contactFormObj["sachverhalt"],
+                                    expression: "contactFormObj['sachverhalt']"
+                                  }
+                                ],
                                 attrs: {
                                   name: "sachverhalt",
                                   placeholder: "Schilderung des Sachverhalts",
                                   "aria-label": "Schilderung des Sachverhalts",
                                   rows: "5"
+                                },
+                                domProps: {
+                                  value: _vm.contactFormObj["sachverhalt"]
+                                },
+                                on: {
+                                  input: function($event) {
+                                    if ($event.target.composing) {
+                                      return
+                                    }
+                                    _vm.$set(
+                                      _vm.contactFormObj,
+                                      "sachverhalt",
+                                      $event.target.value
+                                    )
+                                  }
                                 }
                               }),
                               _vm._v(" "),
-                              _vm._l(_vm.quiz, function(block) {
-                                return _c("input", {
-                                  key: "form__" + block.id,
-                                  attrs: { type: "hidden", name: block.id },
-                                  domProps: { value: block.answer }
-                                })
-                              }),
+                              _c(
+                                "label",
+                                { attrs: { for: "gdpr_check_schufa" } },
+                                [
+                                  _c("input", {
+                                    directives: [
+                                      {
+                                        name: "model",
+                                        rawName: "v-model",
+                                        value: _vm.contactFormObj["gdpr_check"],
+                                        expression:
+                                          "contactFormObj['gdpr_check']"
+                                      }
+                                    ],
+                                    attrs: {
+                                      type: "checkbox",
+                                      name: "gdpr_check",
+                                      id: "gdpr_check_schufa",
+                                      "aria-label":
+                                        "Nutzung meiner Daten zustimmen",
+                                      required: ""
+                                    },
+                                    domProps: {
+                                      checked: Array.isArray(
+                                        _vm.contactFormObj["gdpr_check"]
+                                      )
+                                        ? _vm._i(
+                                            _vm.contactFormObj["gdpr_check"],
+                                            null
+                                          ) > -1
+                                        : _vm.contactFormObj["gdpr_check"]
+                                    },
+                                    on: {
+                                      change: function($event) {
+                                        var $$a =
+                                            _vm.contactFormObj["gdpr_check"],
+                                          $$el = $event.target,
+                                          $$c = $$el.checked ? true : false
+                                        if (Array.isArray($$a)) {
+                                          var $$v = null,
+                                            $$i = _vm._i($$a, $$v)
+                                          if ($$el.checked) {
+                                            $$i < 0 &&
+                                              _vm.$set(
+                                                _vm.contactFormObj,
+                                                "gdpr_check",
+                                                $$a.concat([$$v])
+                                              )
+                                          } else {
+                                            $$i > -1 &&
+                                              _vm.$set(
+                                                _vm.contactFormObj,
+                                                "gdpr_check",
+                                                $$a
+                                                  .slice(0, $$i)
+                                                  .concat($$a.slice($$i + 1))
+                                              )
+                                          }
+                                        } else {
+                                          _vm.$set(
+                                            _vm.contactFormObj,
+                                            "gdpr_check",
+                                            $$c
+                                          )
+                                        }
+                                      }
+                                    }
+                                  }),
+                                  _vm._v(" "),
+                                  _c("small", { staticClass: "editable" }, [
+                                    _vm._v(
+                                      "  Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden."
+                                    )
+                                  ])
+                                ]
+                              ),
                               _vm._v(" "),
-                              _vm._m(1),
-                              _vm._v(" "),
-                              _vm._m(2),
+                              _c(
+                                "label",
+                                {
+                                  staticClass: "cookie_check_container--js",
+                                  attrs: {
+                                    id: "cookie_check_container_schufa",
+                                    for: "cookie_check_schufa"
+                                  }
+                                },
+                                [
+                                  _c("input", {
+                                    staticClass: "cookie_check--js",
+                                    attrs: {
+                                      type: "checkbox",
+                                      name: "cookie_check",
+                                      id: "cookie_check_schufa",
+                                      "aria-label":
+                                        "Nutzung von Cookies zustimmen",
+                                      required: "",
+                                      disabled: _vm.formEnabled
+                                    },
+                                    on: { change: _vm.handleCookiesAgreed }
+                                  }),
+                                  _vm._v(" "),
+                                  _vm._m(1)
+                                ]
+                              ),
                               _vm._v(" "),
                               _c(
                                 "button",
@@ -13084,11 +13498,14 @@ exports.default = _default;
                                   attrs: {
                                     type: "submit",
                                     "aria-label": "Formular absenden",
-                                    disabled: ""
-                                  }
+                                    disabled: !_vm.formEnabled
+                                  },
+                                  on: { click: _vm.handleFormSubmit }
                                 },
                                 [_vm._v("Anfrage senden")]
-                              )
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "kontakt__error" })
                             ],
                             2
                           )
@@ -13107,7 +13524,7 @@ exports.default = _default;
                         _vm._v("Auswertung zeigen")
                       ]),
                       _vm._v(" "),
-                      _vm._m(3)
+                      _vm._m(2)
                     ]
               ],
               2
@@ -13135,60 +13552,15 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("label", { attrs: { for: "gdpr_check_schufa" } }, [
-      _c("input", {
-        attrs: {
-          type: "checkbox",
-          name: "gdpr_check",
-          id: "gdpr_check_schufa",
-          "aria-label": "Nutzung meiner Daten zustimmen",
-          required: ""
-        }
-      }),
-      _vm._v(" "),
-      _c("small", { staticClass: "editable" }, [
-        _vm._v(
-          "  Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden."
-        )
-      ])
+    return _c("small", { staticClass: "editable" }, [
+      _vm._v(
+        "  Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine "
+      ),
+      _c("a", { attrs: { href: "mailto:info@advoadvice.de" } }, [
+        _vm._v("email")
+      ]),
+      _vm._v(" schicken)")
     ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "label",
-      {
-        staticClass: "cookie_check_container--js",
-        attrs: {
-          id: "cookie_check_container_schufa",
-          for: "cookie_check_schufa"
-        }
-      },
-      [
-        _c("input", {
-          staticClass: "cookie_check--js",
-          attrs: {
-            type: "checkbox",
-            name: "cookie_check",
-            id: "cookie_check_schufa",
-            "aria-label": "Nutzung von Cookies zustimmen",
-            required: ""
-          }
-        }),
-        _vm._v(" "),
-        _c("small", { staticClass: "editable" }, [
-          _vm._v(
-            "  Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine "
-          ),
-          _c("a", { attrs: { href: "mailto:info@advoadvice.de" } }, [
-            _vm._v("email")
-          ]),
-          _vm._v(" schicken)")
-        ])
-      ]
-    )
   },
   function() {
     var _vm = this
@@ -13277,7 +13649,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51345" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64873" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

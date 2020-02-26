@@ -9,7 +9,7 @@
         @focus="focusBlock(quizBlock.id)"
         @blur="handleChoice(quizBlock.id, $event.target.value)" 
         @keyup.enter="$event.target.blur()"
-      ><!-- :required="isBlockRequired(quizBlock.id)" -->
+      >
       <small :class="{ active: shouldShowHint(quizBlock.id)}"><i>Enter</i> drücken für die nächste Frage.</small>
     </template>
     <template v-else-if="getBlockType(quizBlock.id) == 'frage_mit_datum'">
@@ -41,41 +41,39 @@
         <div v-for="(auswertung, index) in auswertungen" :key="'auswertung__' + index" v-html="auswertung.text_html"></div>
 
         <form v-if="enableContactForm">
-          <input type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required>
-          <input type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required>
-          <input type="tel" name="tel" placeholder="Ihre Telefonnummer ..." aria-label="Ihre Telefonnummer">
+          <input v-model="contactFormObj['name']" type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required>
+          <input v-model="contactFormObj['email']" type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required>
+          <input v-model="contactFormObj['tel']" type="tel" name="tel" placeholder="Ihre Telefonnummer ..." aria-label="Ihre Telefonnummer">
 
-          <input type="text" name="strasse_hausnummer" placeholder="Straße und Hausnummer" aria-label="Straße und Hausnummer">
-          <input type="text" name="plz" placeholder="Postleitzahl" aria-label="Postleitzahl">
-          <input type="text" name="ort" placeholder="Ort" aria-label="Ort">
+          <input v-model="contactFormObj['strasse_hausnummer']" type="text" name="strasse_hausnummer" placeholder="Straße und Hausnummer" aria-label="Straße und Hausnummer">
+          <input v-model="contactFormObj['plz']" type="text" name="plz" placeholder="Postleitzahl" aria-label="Postleitzahl">
+          <input v-model="contactFormObj['ort']" type="text" name="ort" placeholder="Ort" aria-label="Ort">
 
           <label for="rechtschutzversicherung">
             <input type="checkbox" id="rechtschutzversicherung" name="rechtschutzversicherung" aria-label="Rechtschutzversicherung" v-model="insurancePresent">
-            <span>&nbsp;&nbsp;Haben Sie eine Rechtschutzversicherung?</span>
+            <span>&nbsp;&nbsp;Haben Sie eine Rechtsschutzversicherung?</span>
           </label>
 
           <template v-if="insurancePresent">
-            <input type="text" name="versicherung_name" placeholder="Name der Rechtschutzversicherung" aria-label="Name der Rechtschutzversicherung">
-            <input type="text" name="versicherten_name" placeholder="Name des Versicherten" aria-label="Name des Versicherten">
-            <input type="text" name="versicherten_nummer" placeholder="Versicherungsnummer" aria-label="Versicherungsnummer">
-            <input type="text" name="versichert_seit" placeholder="Versichert seit Datum ..." aria-label="Versichert seit ...">
+            <input v-model="contactFormObj['rechtsschutz']['versicherung']" type="text" name="versicherung" placeholder="Name der Rechtsschutzversicherung" aria-label="Name der Rechtsschutzversicherung">
+            <input v-model="contactFormObj['rechtsschutz']['versicherten_name']" type="text" name="versicherten_name" placeholder="Name des Versicherten" aria-label="Name des Versicherten">
+            <input v-model="contactFormObj['rechtsschutz']['versicherten_nummer']" type="text" name="versicherten_nummer" placeholder="Versicherungsnummer" aria-label="Versicherungsnummer">
+            <input v-model="contactFormObj['rechtsschutz']['versichert_seit']" type="text" name="versichert_seit" placeholder="Versichert seit Datum ..." aria-label="Versichert seit ...">
           </template>
 
-          <textarea name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="5"></textarea>
-
-          <!-- Add all Quiz answers -->
-          <input v-for="block in quiz" :key="'form__' + block.id" type="hidden" :name="block.id" :value="block.answer" />
+          <textarea v-model="contactFormObj['sachverhalt']" name="sachverhalt" placeholder="Schilderung des Sachverhalts" aria-label="Schilderung des Sachverhalts" rows="5"></textarea>
 
           <label for="gdpr_check_schufa">
-            <input type="checkbox" name="gdpr_check" id="gdpr_check_schufa" aria-label="Nutzung meiner Daten zustimmen" required>
+            <input v-model="contactFormObj['gdpr_check']" type="checkbox" name="gdpr_check" id="gdpr_check_schufa" aria-label="Nutzung meiner Daten zustimmen" required>
             <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
           </label>
           <label class="cookie_check_container--js" id="cookie_check_container_schufa" for="cookie_check_schufa">
-            <input class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_schufa" aria-label="Nutzung von Cookies zustimmen" required>
+            <input @change="handleCookiesAgreed" class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_schufa" aria-label="Nutzung von Cookies zustimmen" required :disabled="formEnabled">
             <small class="editable">&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
           </label>
 
-          <button class="kontakt__send" type="submit" aria-label="Formular absenden" disabled>Anfrage senden</button>
+          <button @click="handleFormSubmit" class="kontakt__send" type="submit" aria-label="Formular absenden" :disabled="!formEnabled">Anfrage senden</button>
+          <div class="kontakt__error"></div>
         </form>
       </template>
       <template v-else-if="enableAuswertung">
@@ -126,9 +124,13 @@ export default {
     return {
       quiz: initQuiz(),
       auswertungen: [],
-      showAuswertung: false,
       focusedBlock: null,
-      insurancePresent: false
+      showAuswertung: false,
+      insurancePresent: false,
+      formEnabled: false,
+      contactFormObj: {
+        rechtsschutz: {}
+      }
     }
   },
   methods: {
@@ -153,7 +155,7 @@ export default {
     },
     handleChoice(block_id, choiceText){
       // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText])
 
       this.focusedBlock = null // for input fields only
 
@@ -166,8 +168,51 @@ export default {
     },
     handleShowAuswertung(){ 
       // Analytics:
-      // _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Auswertung zeigen'])
       this.showAuswertung = true 
+    },
+    handleCookiesAgreed(e){
+      // Analytics:
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Cookies erlauben', 'erlaubt'])
+
+      this.formEnabled = true
+
+      crmForm.cookiesAgreedEnableForm(
+        e.target.closest('form')
+      )
+    },
+    handleFormSubmit(e){
+      e.preventDefault()
+
+      let $contactForm = e.target.closest('form')
+
+      if($contactForm.reportValidity()){
+        // Analytics:
+        _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Senden', 'vollständig'])
+
+        let quizResultsAsArrString  = this.quiz.map(block => `${getBlockById(block.id).text}: ${block.answer}`),
+            rechtschutzAsArrString  = Object.keys(this.contactFormObj.rechtsschutz).map(k => `${k}: ${this.contactFormObj.rechtsschutz[k]}`),
+            sachverhaltArrString    = [`sachverhalt: ${this.contactFormObj.sachverhalt || '/'}`],
+            anliegenAsString        = [].concat.apply([], [quizResultsAsArrString, rechtschutzAsArrString, sachverhaltArrString]).join('\n|\n')
+
+        let nameAsArr = this.contactFormObj.name.split(' ')
+        crmForm.submitFormObj(
+          $contactForm,
+          {
+            firstName     : nameAsArr.length > 1 ? nameAsArr.slice(0, -1).join(' ') : nameAsArr[0],
+            lastName      : nameAsArr.slice(-1)[0],
+            email         : this.contactFormObj.email,
+            tel           : this.contactFormObj.tel,
+            streetAddress : this.contactFormObj.strasse_hausnummer,
+            zip           : this.contactFormObj.plz,
+            city          : this.contactFormObj.ort,
+            anliegen      : anliegenAsString
+          }
+        )
+      }else{
+        // Analytics:
+        _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Klick: Senden', 'unvollständig'])
+      }
     },
     focusBlock(id){
       this.focusedBlock = id
@@ -252,7 +297,6 @@ export default {
 // Layout
 
 section {
-  // min-height: calc(100vh - 80px);
   min-height: 60vh;
 }
 
@@ -306,6 +350,7 @@ section {
   }
 }
 
+// Auswertung
 .auswertung__wrapper {
   overflow: hidden;
   background-color: $clr-highlight-2;
@@ -339,5 +384,11 @@ section {
     margin-bottom: 40px;
     margin-top: 40px;
   }
+}
+
+// Contact Form
+.kontakt__error {
+  color: tomato;
+  margin-top: 20px;
 }
 </style>
