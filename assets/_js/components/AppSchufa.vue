@@ -23,7 +23,7 @@
     <template v-else-if="getBlockType(quizBlock.id) == 'frage_mit_auswahl'">
       <ul id="antworten">
         <li v-for="(option, index) in getOptions(quizBlock.id)" :key="index">
-          <button @click="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
+          <button @mousedown="handleChoice(quizBlock.id, option)" :class="{ active: isSelectedOption(quizBlock.id, option)}">{{ option }}</button>
         </li>
       </ul>
     </template>
