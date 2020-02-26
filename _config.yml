@@ -64,6 +64,50 @@ defaults:
                 text_markdown:
                 image:
                 cta: true
+        fragen:
+          values:
+            - label: Vorabcheck Fragen
+              description: Fragen brauchen eine einzigartige ID, um bei der Auswertung zugeordnet werden zu können.
+              value:
+                block_id: 
+                block_type: frage_mit_auswahl
+                text:
+                erforderlich: true
+                optionen:
+                  - Ja
+                  - Nein
+                  - Weiß ich nicht
+                folge_bloecke:
+        auswertungen:
+          values:
+            - label: Auswertungen 
+              description: Auswertungen der vorherigen Fragen, wenn die Bedingung für die Fragen mit der gegebenen ID zutreffen.
+              value: 
+                bedingungen_alle_erfuellt:
+                bedingungen_eins_erfuellt:
+                text_html: 
+                erlaube_kontakt: true
+        folge_bloecke:
+          values:
+            - label: Folge-Fragen/Blöcke
+              description: Hier kann definiert werden, welche Folgefragen (anhand ihrer ID) hinzugefügt werden, wenn der Nutzer hier eine bestimmte Antwort gibt
+              value: 
+                antwort_ist: ["Ja"]
+                block_ids: ["hier_id_eintragen"]
+        bedingungen_alle_erfuellt:
+          values:
+            - label: Bedingungen - alle erfüllt
+              description: Wenn diese Bedingungen aller erfüllt sind, erscheint der folgende Text
+              value: 
+                block_id: "id_des_frage_blocks"
+                antwort_ist: Ja
+        bedingungen_eins_erfuellt:
+          values:
+            - label: Bedingungen - eine erfüllt
+              description: Wenn wenigstens eine dieser Bedingungen erfüllt ist, erscheint der folgende Text
+              value: 
+                block_id: "id_des_frage_blocks"
+                antwort_ist: Ja
       
 # CloudCannon
 abschnitt_templates:
@@ -72,6 +116,10 @@ abschnitt_templates:
   - box_hell
   - box_dunkel
   - grafik_volle_breite
+block_type:
+  - frage_mit_auswahl
+  - frage_mit_text
+  - frage_mit_datum
 
 # Build settings
 markdown: kramdown
@@ -84,6 +132,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - siteicon.png
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - .cache
+  - .gitignore
+  - .ruby-version
+  - .babelrc
 
 # Plugin Settings
 plugins:
