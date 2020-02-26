@@ -1,0 +1,34 @@
+{
+  "name": "advoadvice-mbm",
+  "version": "1.0.0",
+  "description": "AdvoADvice",
+  "main": "/assets/_app.js",
+  "scripts": {
+    "setup": "npm install; bundle install",
+    "dev": "(parcel assets/_js/main.js --out-dir assets/dist --public-url .) & jekyll serve",
+    "build": "npm run build-assets; jekyll build",
+    "dev-assets": "parcel assets/_js/main.js --out-dir assets/dist --public-url .",
+    "build-assets": "parcel build assets/_js/main.js --out-dir assets/dist --public-url ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlawski/advoadvice-mbm.git"
+  },
+  "author": "AdvoAdvice",
+  "license": "ISC",
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@vue/component-compiler-utils": "^3.1.1",
+    "babel-preset-vue": "^2.0.2",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.25.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
