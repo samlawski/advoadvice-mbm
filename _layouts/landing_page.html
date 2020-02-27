@@ -39,11 +39,28 @@ layout: default
 
   {% include abschnitte.html abschnitte=page.abschnitte %}
 
-  <!-- abschnitt2 -->
+  <section id="anwaelte" class="h-container">
+    <p class="anwaelte__title h6 editable">Ihre Experten</p>
 
-  <!-- erfolge -->
-
-  <!-- Team bilder -->
+    <div class="anwaelte">
+      {% assign members = site.authors | sort: 'reihenfolge' %}
+      {% assign members_size = members | size %}
+      {% for member in members %}
+        <div class="anwalt">
+          {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
+          <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
+            <div class="anwalt__portrait__frame"></div>
+          </div>
+          <div class="anwalt__text">
+            <h4>{{ member.name }}</h4>
+            <p>
+              {{member.titel}}
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
 
   <!-- zum weiterlesen? -->
 
