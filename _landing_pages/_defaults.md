@@ -9,4 +9,6 @@ header_image:
 header_cta_titel:
 header_cta_text:
 header_portrait_image:
+abschnitte:
+sitemap: false
 ---
