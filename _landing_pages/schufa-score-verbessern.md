@@ -22,4 +22,5 @@ abschnitte:
       Hier kommt der text ...
     image:
     cta: true
+sitemap: false
 ---
