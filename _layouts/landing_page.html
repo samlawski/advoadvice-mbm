@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<style>
+  .header__title {
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)), url('{{page.header_image}}');
+  }
+
+  @media(min-width: 1024px){ /* = $media-lg */
+    .header__title { background-image: none; }
+    header {
+      background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)), url('{{page.header_image}}');
+    }
+  }
+</style>
+<header>
+  <div class="header__wrapper">
+    <div class="header__title h-container">
+      <h1>{{page.header_titel}}</h1>
+      <h2 class="h3">{{page.header_subtitle}}</h2>
+    </div>
+    
+    <div class="header__cta">
+      <div class="header__cta__top">
+        <img class="kontakt__portrait" src="{{page.header_portrait_image}}" alt="Anwalt - Kleines Portrait">
+        <p class="h4">{{page.header_cta_titel}}</p>
+        <p class="header__cta__subtitle">{{page.header_cta_text}}</p>
+      </div>
+      {% include kontakt_formular.html id="11" %}
+    </div>
+  </div>
+</header>
+
+
+<main>
+
+  {% include referenzen.html %}
+
+
+  <!-- abschnitt_1 -->
+
+  <!-- erfolge -->
+
+  <!-- abschnitt_2 -->
+
+  <!-- Team bilder -->
+
+  <!-- kontakt -->
+
+  <!-- zum weiterlesen? -->
+
+</main>
