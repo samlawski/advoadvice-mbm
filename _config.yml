@@ -22,6 +22,7 @@ collections:
     permalink: /themen/:path/
   landing_pages:
     output: true
+    _hide_content: true
     permalink: /anwalt-fuer/:path/
   posts:
     permalink: /blog/:title/
