@@ -1,0 +1,83 @@
+/*
+- Header
+- Header CTA
+*/
+
+.page__landing {
+  // Header
+
+  .header__title,
+  header {
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+  }
+
+  .header__title {   
+    color: $clr-bg;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+
+    h1 { margin-bottom: 0; }
+    h2 { margin-top: 0; }
+  }
+
+  @media(min-width: $media-lg){
+    header {
+      margin-bottom: 60px; // same as -margin of .header__cta
+    }
+    .header__wrapper {
+      max-width: $max-width;
+      margin: auto;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  // Header CTA 
+  .header__cta {
+    background-color: $clr-bg;
+    padding: 20px;
+
+    @media(min-width: $media-lg){
+      padding: 40px;
+
+      width: 460px;
+      margin-top: 60px;
+      margin-bottom: -60px;
+
+      box-shadow: $shadow;
+    }
+  }
+
+  .header__cta__top {
+    p.h4 { margin: 0; }
+    .header__cta__subtitle {
+      clear: both;
+    }
+
+    .kontakt__portrait {
+      border-radius: 50%;
+      height: 60px;
+      margin-right: 20px;
+      margin-bottom: 20px;
+
+      float: left; 
+    }
+  }
+
+  .header__cta form {
+    input[type="text"],
+    input[type="tel"],
+    input[type="email"],
+    input[type="date"],
+    textarea,
+    label {
+      display: block;
+      width: 100%;
+      margin-bottom: 20px
+    }
+  }
+}

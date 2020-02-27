@@ -29,31 +29,6 @@ nebenthemen:
     topic: suchergebnisse-und-bewertungen-loeschen
   - titel: Kredit widerrufen / Dieselskandal
     topic: kredit-widerrufen
-presse_logos:
-  - logo_path: /uploads/0-layout/presse-zeit.png
-    link: /blog/unsere-experten-in-der-presse-zeit-online-schufa-und-identitätsdiebstahl/
-    logo_seo_text: Presselogo Zeit Online
-  - logo_path: /uploads/0-layout/presse-handelsblatt.png
-    link: /blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/
-    logo_seo_text: Presselogo Handelsblatt
-  - logo_path: /uploads/0-layout/presse-capital.png
-    link: /blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/
-    logo_seo_text: Presselogo Capital
-  - logo_path: /uploads/0-layout/presse-bild.png
-    link: /blog/unsere-experten-in-der-presse-bild-zeitung-bild-telefon-aktion-immobilien/
-    logo_seo_text: Presselogo Bild Zeitung
-  - logo_path: /uploads/0-layout/presse-immozeitung.png
-    link: /blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/
-    logo_seo_text: Presselogo Immobilienzeitung
-  - logo_path: /uploads/0-layout/presse-anwaltsblatt.jpg
-    link: /blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/
-    logo_seo_text: Presselogo Berliner Anwaltsblatt
-  - logo_path: /uploads/0-layout/presse-autobild.png
-    link: /blog/unsere-experten-in-der-presse-auto-bild-kein-kredit-nach-crash/
-    logo_seo_text: Presselogo Autobild
-  - logo_path: /uploads/0-layout/presse-mopo.png
-    link: /blog/unsere-kanzlei-in-der-presse-hamburger-morgenpost-verweist-auf-unseren-blog/
-    logo_seo_text: Presselogo Hamburger Morgenpost
 ablauf: 
   - Als Erstes treten Sie mit uns [telefonisch](tel:+493092100040) oder per [email](mailto:info@advoadvice.de) in Kontakt und schildern uns Ihr Anliegen. 
   - Wir nehmen kostenlos und unverbindlich meist telefonisch Kontakt mit Ihnen auf, um Ihren Fall zu besprechen.
@@ -75,17 +50,7 @@ ablauf:
 </header>
 
 <main>
-  <section id="referenzen" class="referenzen h-container">
-    <div class="referenzen__ratings">
-      <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank" rel="noreferrer"><img src="/uploads/0-layout/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable"></a>
-      <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank" rel="noreferrer"><img src="/uploads/0-layout/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable"></a>
-    </div>
-    <div class="referenzen__news">
-      {% for logo in page.presse_logos limit: 6 %}
-        <a href="{{logo.link}}"><img src="{{logo.logo_path}}" alt="{{logo.logo_seo_text}}"></a>
-      {% endfor %}
-    </div>
-  </section>
+  {% include referenzen.html %}
 
   <section id="themen" class="themen h-container">
     <p class="themen__title h6 editable">Unsere Themen</p>
