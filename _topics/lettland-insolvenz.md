@@ -45,11 +45,12 @@ abschnitte:
       verlegen und dort als Steuerzahler registriert sein müssen.
 
 
-      Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice ein
-      lokaler Anbieter in Riga vor Ort, welcher direkten Kontakt zu einem
-      lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht hat. Die
-      Ansprechpartner vor Ort stehen ihnen dann für alle Anträge und
-      behördlichen Angelegenheiten zur Verfügung.
+      Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice als
+      lokaler Anbieter in Riga vor Ort die [Berger Consulting
+      SIA](www.bergerconsulting.lv){: target="_blank"}, welche den direkten
+      Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet
+      Insolvenzrecht für Sie herstellt. Die Ansprechpartner vor Ort stehen Ihnen
+      dann für alle Anträge und behördlichen Angelegenheiten zur Verfügung.
     image:
     cta: false
   - abschnitt_template: grafik_volle_breite
@@ -68,9 +69,14 @@ abschnitte:
       * Durchführung der Insolvenz und aller juristischer Belange durch einen
       lettischen Rechtsanwalt und Experten im Insolvenzrecht
 
-      * Hilfe bei der Wohnungssuche vor Ort&nbsp;
+      * Angebot einer extra anzumietenden moblierten Wohnung vor Ort&nbsp;
 
-      * Hilfe bei der Jobsuche und der Taxpayer Registration vor Ort&nbsp;
+      * Taxpayer Registration vor Ort&nbsp;
+
+      * Hilfe bei der Jobsuche vor Ort
+
+      * Hilfe bei der Gründung einer eigenen SIA, falls gewünscht
+      (kostenpflichtig)
 
       * Permanenter Ansprechpartner in Deutsch vor Ort für Rückfragen&nbsp;
 
@@ -142,6 +148,10 @@ abschnitte:
       Die Agenturen haben ihren Sitz meist im Ausland und ihre Tätigkeit ist in
       Deutschland weder zulässig noch über eine Haftpflichtversicherung
       abgesichert.
+
+
+      Nehmen Sie lieber Kontakt zu unserer Kanzlei auf und lassen Sie sich
+      anwaltlich und fachkundig beraten.
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
@@ -170,10 +180,10 @@ abschnitte:
 
       Nutzen Sie die Möglichkeit, vor Ort in Berlin die wichtigen Fragen zur
       Insolvenz in Lettland und Ihrem Aufenthalt in Riga persönlich mit
-      Rechtsanwalt Dr. Sven Tintemann und einem Berater der Firma Berger
-      Consulting SIA aus Riga zu besprechen und vereinbaren Sie einen
-      verbindlichen Termin, an dem wir uns nur für Sie und Ihre Fragen Zeit
-      nehmen.&nbsp;
+      Rechtsanwalt Dr. Sven Tintemann und einem Berater der Firma [Berger
+      Consulting SIA](www.bergerconsulting.lv){: target="_blank"}aus Riga zu
+      besprechen und vereinbaren Sie einen verbindlichen Termin, an dem wir uns
+      nur für Sie und Ihre Fragen Zeit nehmen.&nbsp;
     image:
     cta: true
 redirect_from:
