@@ -100,16 +100,19 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: box_hell
-    titel: Was sind die rechtlichen Grundlagen?
+    titel: Rechtlichen Grundlagen des Insolvenzverfahrens in Lettland
     text_markdown: >-
       Da Lettland Teil der EU ist, können alle EU-Bürger und solche mit einem
       unbeschränkten Aufenthaltstitel in Lettland ihren Wohnsitz nehmen und
       dort&nbsp; auch einen Insolvenzantrag stellen.
 
 
-      Die Erteilung der Restschuldbefreiung erfolgt in einem Zeitrahmen von 6 -
-      36 Monaten. Dieses richtet sich danach, in welcher Höhe Ihre Gläubiger
-      Schulden anmelden.&nbsp;
+      ### Ablauf der Privatinsolvenz in Lettland
+
+
+      Die Erteilung der Restschuldbefreiung dauert ewta&nbsp; 6 - 36 Monate.
+      Dieses richtet sich danach, in welcher Höhe Ihre Gläubiger Schulden
+      anmelden.&nbsp;
 
 
       Für den Schuldner ist die Insolvenzantragstellung in Lettland eher
@@ -117,11 +120,18 @@ abschnitte:
       aufwändige Beweisführung vor einem Gericht nötig.
 
 
+      ### Lettland für Gläubiger eher kompliziert
+
+
       Für ihre Gläubiger ist das Geltendmachen von Forderung innerhalb der
       Insolvenz in Lettland eher schwierig, da teils hohe Kosten für Übersetzung
-      und Anmeldung der Forderung entstehen. Dies macht insbesondere eine
-      Verfolgung kleinerer Forderungen durch ihre Gläubiger sehr unattraktiv und
-      auch unwirtschaftlich.
+      und Anmeldung der Forderung im Rahmen der Privatinsolvenz entstehen. Dies
+      macht insbesonders eine Verfolgung kleinerer Forderungen durch ihre
+      Gläubiger sehr unattraktiv und auch unwirtschaftlich und hilft ihnen als
+      Schuldner.
+
+
+      ### Restschuldbefreiung nach Ablauf des lettischen Verfahrens
 
 
       Werden überhaupt keine Forderungen durch Gläubiger angemeldet, kann dies
