@@ -346,22 +346,32 @@ abschnitte:
       Auskunftei passiert sind und wann Einträge regulär zu löschen sind.
     image: /uploads/batch-books-document-education-357514.jpg
     cta: true
-  - abschnitt_template: weiss_bild_links
+  - abschnitt_template: box_dunkel
     titel: Schufa Eintrag löschen lassen
     text_markdown: >-
-      Nach alledem stellt sich f&uuml;r viele Betroffene die Frage, ob man einen
-      negativen Schufa Eintrag vorzeitig l&ouml;schen lassen kann. Dabei gilt es
-      eine juristische Spitzfindigkeit zu ber&uuml;cksichtigen: Die einzelnen
-      Unternehmen k&ouml;nnen den negativen Schufa Eintrag nicht selbst
-      l&ouml;schen. Diese k&ouml;nnen den negativen Schufa Eintrag nur
-      widerrufen, also die SCHUFA zur L&ouml;schung auffordern. Die SCHUFA
-      selbst geht davon aus, dass sie nicht verpflichtet ist, die Daten im
-      Anschluss an einen Widerruf zu l&ouml;schen. Vielmehr kann die Speicherung
-      bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis &uuml;ber den
+      Nach alledem stellt sich für viele Betroffene die Frage, ob man einen
+      negativen Schufa Eintrag vorzeitig löschen lassen kann.
+
+
+      ### Widerruf und Löschung von Negativeinträgen
+
+
+      Dabei gilt es eine juristische Spitzfindigkeit zu berücksichtigen: Die
+      einzelnen Gläubiger, denen Sie als Kunde etwas schulden, können einen
+      negativen Schufa Eintrag gar nicht selbst löschen. Diese können den Schufa
+      Eintrag nur widerrufen, also die SCHUFA zur Löschung auffordern, indem sie
+      einen Widerruf der ursprünglich erfolgen Datenverarbeitung erklären.
+
+
+      Die SCHUFA selbst geht davon aus, dass sie nicht verpflichtet ist, die
+      Daten im Anschluss an einen Widerruf zu löschen. Vielmehr kann die
+      Speicherung bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis über den
       Hintergrund des negativen Schufa Eintrages erlangt hat und davon ausgeht,
-      dass kein Grund zum Widerruf besteht. Ob und inwiefern die SCHUFA eine
-      [eigene
-      Pr&uuml;fungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf)
+      dass kein Grund zum Widerruf besteht.
+
+
+      Ob und inwiefern die SCHUFA eine [eigene
+      Prüfungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf)
       (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite
       4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine
       direkte Antwortung im Bundesdatenschutzgesetz oder in der
@@ -369,57 +379,58 @@ abschnitte:
       unterschiedliche rechtliche Ansichten gibt.
 
 
-      ### a) Schufa Eintrag: L&ouml;schen durch die SCHUFA selbst
-
-      Aufgrund der soeben beschriebenen Frage der Pr&uuml;fungskompetenz, kommt
-      es aber auch immer wieder zu dem gegenteiligen Ergebnis durch die SCHUFA.
-      Es sind zahlreiche F&auml;lle bekannt, in denen negative Schufa
-      Eintr&auml;ge von der SCHUFA selbst gel&ouml;scht wurden. Dies passiert in
-      der Regel dann, wenn die einmeldende Stelle die Einmeldevoraussetzungen
-      nach Art. 6 Abs. 1 DSGVO (&sect; 28a Abs. 1 BDSG a.F. / &sect; 31 Abs. 2
-      BDSG) nicht nachweisen kann. Erfahrungsgem&auml;&szlig; betrifft dies aber
-      nur eine geringe Anzahl von F&auml;llen.
+      ### a) Schufa Eintrag: Löschen durch die SCHUFA selbst
 
 
-      #### Tipp:
+      Aufgrund der soeben beschriebenen Frage der Prüfungskompetenz, kommt es
+      aber auch immer wieder zu dem gegenteiligen Ergebnis durch die SCHUFA. Es
+      sind zahlreiche Fälle bekannt, in denen negative Schufa Einträge von der
+      SCHUFA selbst gelöscht wurden. Dies passiert in der Regel dann, wenn die
+      einmeldende Stelle die Einmeldevoraussetzungen nach Art. 6 Abs. 1 DSGVO
+      (&sect; 28a Abs. 1 BDSG a.F. / &sect; 31 Abs. 2 BDSG) nicht nachweisen
+      kann. Erfahrungsgemä&szlig; betrifft dies aber nur eine geringe Anzahl von
+      Fällen.
+
+
+      ### Tipp vom Rechtsanwalt
 
 
       Wenn Sie die SCHUFA selbst kontaktieren, dann ist nahezulegen, auf eine
-      angemessene Formulierung und einen h&ouml;flichen Grundton
-      zur&uuml;ckzugreifen. Hass-Tiraden haben quasi noch nie zum Erfolg
-      gef&uuml;hrt und lassen wom&ouml;glich die Bereitschaft beim
-      zust&auml;ndigen Sachbearbeiter zu einer vorzeitigen L&ouml;schung massiv
-      sinken. Damit festigen Sie den aktuellen schlechten Zustand und machen
-      einem m&ouml;glicherweise sp&auml;ter t&auml;tigen Rechtsanwalt das Leben
-      schwerer.
+      angemessene Formulierung und einen höflichen Grundton zurückzugreifen.
+      Hass-Tiraden haben quasi noch nie zum Erfolg geführt und lassen womöglich
+      die Bereitschaft beim zuständigen Sachbearbeiter zu einer vorzeitigen
+      Löschung massiv sinken. Damit festigen Sie den aktuellen schlechten
+      Zustand und machen einem möglicherweise später tätigen Rechtsanwalt das
+      Leben schwerer.
 
 
-      ### b) [Schufa Eintrag: L&ouml;schen durch
+      ### b) [Schufa Eintrag: Löschen durch
       Musterbrief](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)
 
 
       Im Internet sind viele Angebote vorhanden, welche einen Musterbrief zur
-      L&ouml;schung eines Schufa Eintrages anbieten. F&uuml;r einen solchen
-      Musterbrief sollten Sie grunds&auml;tzlich niemals Geld ausgeben.
+      Löschung eines Schufa Eintrages anbieten. Für einen solchen Musterbrief
+      sollten Sie grundsätzlich niemals Geld ausgeben.
 
 
       Viele dieser Briefe beinhalten zwar richtige Hinweise und zitieren
       Urteile. Sie gaukeln dem Laien jedoch auch vor, dass ein negativer Schufa
-      Eintrag immer zu l&ouml;schen ist. Dies ist allerdings leider nicht der
-      Fall!
+      Eintrag immer zu löschen ist. Dies ist allerdings leider nicht der Fall\!
 
 
       Sicherlich kann man den freundlichen aber bestimmten Kontakt zu dem
       eintragenden Unternehmen suchen. Wenn man dabei auf Granit bei&szlig;t,
-      ist es aber empfehlenswert, sich Rat von einem Experten zu holen.
+      ist es aber empfehlenswert, sich Hilfe von einem Anwalt zu holen.
 
 
-      Gerade in diesem Kontext gelten die Sprichw&ouml;rter „Man sieht nur was
-      man wei&szlig;“ und „Man sollte nicht alles glauben, was im Internet
-      steht“. Gerade bei den vielf&auml;ltigen unterschiedlichen Sachverhalten,
-      welche zu einem negativen Schufa Eintrag f&uuml;hren k&ouml;nnen, ist es
-      wichtig, eine Pr&uuml;fung des Einzelfalles vorzunehmen. Dies ist
-      &uuml;ber einen Musterbrief gerade nicht m&ouml;glich.
+      Gerade in diesem Kontext gelten die Sprichwörter „Man sieht nur was man
+      wei&szlig;“ und „Man sollte nicht alles glauben, was im Internet steht“.
+
+
+      Gerade bei den vielfältigen unterschiedlichen Sachverhalten, welche zu
+      einem&nbsp; Schufa Eintrag führen können, ist es wichtig, eine Prüfung des
+      Einzelfalles vorzunehmen. Dies ist über einen Musterbrief effektive Hilfe
+      gerade nicht möglich.
 
 
       Zudem fehlt es Anbietern von Musterbriefen meist an der notwendigen
@@ -433,65 +444,117 @@ abschnitte:
       nach Erledigung
 
 
-      Wie zuvor bereits erw&auml;hnt, muss ein negativer Schufa Eintrag nicht
-      unmittelbar nach der Erledigung gel&ouml;scht werden. Die Grundregel ist,
-      dass der negative Schufa Eintrag noch weitere drei Jahre nach der
-      Erledigung bestehen bleibt (z.B. Erledigung im M&auml;rz 2017 –
-      Automatische L&ouml;schung zum M&auml;rz 2020).
+      Wie zuvor bereits erwähnt, muss ein Schufa Eintrag nicht unmittelbar nach
+      der Erledigung gelöscht werden. Die Grundregel ist, dass der negative
+      Eintrag noch weitere drei Jahre nach der Erledigung bei der Auskunftei
+      bestehen bleibt (z.B. Erledigung im März 2017 – Automatische Löschung zum
+      März 2020).
 
 
-      Die SCHUFA hatte bist zur Einf&uuml;hrung der DSGVO eine interne
-      Richtlinien, wonach sie sich verbindlich dazu bereit erkl&auml;rte,
-      Forderungen unmittelbar nach der Erledigung zur L&ouml;schung zu bringen,
-      wenn bestimmte Voraussetzungen erf&uuml;llt sind. Diese interne Richtlinie
-      existiert in dieser Form seit dem 25.05.2018 nicht mehr. Vielmehr kann
-      jetzt nur eine Pr&uuml;fung im Einzelfall zu einer vorzeitigen
-      L&ouml;schung f&uuml;hren.
+      Die SCHUFA hatte bist zur Einführung der DSGVO eine interne Richtlinien,
+      wonach sie sich verbindlich dazu bereit erklärte, Forderungen unmittelbar
+      nach der Erledigung zur Löschung zu bringen, wenn bestimmte
+      Voraussetzungen erfüllt sind. Diese interne Richtlinie existiert in dieser
+      Form seit dem 25.05.2018 nicht mehr. Vielmehr kann jetzt nur eine Prüfung
+      im Einzelfall zu einer vorzeitigen Löschung führen.
 
 
-      #### Tipp:
+      #### Tipp aus der Praxis
 
 
       Sollten Sie Kenntnis von einem negativen Schufa Eintrag erlangen, dann
-      sollte die dazugeh&ouml;rige Forderung schnellstm&ouml;glich bezahlt
-      werden. Dies kann auch „ohne Anerkennung einer Rechtspflicht“ geschehen,
-      wenn die konkrete Forderung der H&ouml;he nach nicht stimmt oder andere
-      Rechtsfragen rund um die Forderung im Raum stehen.
+      sollte die dazugehörige Forderung schnellstmöglich bezahlt werden. Dies
+      kann auch „ohne Anerkennung einer Rechtspflicht“ geschehen, wenn die
+      konkrete Forderung der Höhe nach nicht stimmt oder andere Rechtsfragen
+      rund um die Forderung im Raum stehen.
 
 
-      ### d) [Schufa Eintrag: L&ouml;schen durch
+      ### d) [Schufa Eintrag: Löschen durch
       Rechtsanwalt](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)
 
 
-      Der einzig sichere Weg herauszufinden, ob ein negativer Schufa Eintrag
-      gel&ouml;scht oder widerrufen werden muss, ist die Beauftragung eines
-      Rechtsanwalts mit Expertise in Rechtsfragen rund um Schufa Eintr&auml;ge.
-      Gerade aufgrund der Masse an scheinbar kosteng&uuml;nstigen Angeboten und
-      Vorschl&auml;gen, welche h&auml;ufig nicht zum Erfolg f&uuml;hren, kann
-      ein Anwalt h&auml;ufig schon nach Durchsicht der wichtigsten Unterlagen
-      eine zuverl&auml;ssige Einsch&auml;tzung abgeben, ob ein negativer Schufa
-      Eintrag gel&ouml;scht werden kann und muss.
+      Der einzig sichere Weg herauszufinden, ob ein Schufa Eintrag gelöscht oder
+      widerrufen werden muss, ist die Beauftragung eines Rechtsanwalts mit
+      Expertise in Rechtsfragen im Bereich Schufa und Datenschutz.
 
 
-      Kernpunkt der Problematik ist, dass h&auml;ufig jede Information eine
-      Einzelbewertung ben&ouml;tigt, um eine L&ouml;schung eines Schufa
-      Eintrages zu erreichen. Im Folgenden stellen wir ausgesuchte Verfahren
-      vor, in welchen es zu einer L&ouml;schung des negativen Schufa Eintrages
-      gekommen ist, um aufzuzeigen, wie vielf&auml;ltig und verschachtelt die
-      Gesamtthematik ist:
+      Gerade aufgrund der Masse an scheinbar kostengünstigen Angeboten und
+      Vorschlägen, welche häufig nicht zum Erfolg führen, kann ein Anwalt häufig
+      schon nach Durchsicht der wichtigsten Unterlagen eine zuverlässige
+      Einschätzung abgeben, ob ein Eintrag gelöscht werden kann und muss.
 
 
-        * [Anerkenntnis und Ratenzahlungsvereinbarung](http://advoadvice.de/blog/schufa-recht-advanzia-bank-widerruft-negativen-schufa-eintrag/) – Advanzia Bank S.A.: In diesem Fall wurde gleichzeitig mit dem angeblich „ausdr&uuml;cklichen“ Anerkenntnis auch eine Ratenzahlungsvereinbarung getroffen. Dadurch war die entsprechende Forderung nicht mehr f&auml;llig und der negative Schufa Eintrag wurde widerrufen.
-        
-        * [Vollstreckungsbescheid mit falscher Adresse](http://advoadvice.de/blog/schufa-recht-wohnsitz-im-ausland-sch%C3%BCtzt-nicht-vor-schufa-eintrag/) – Mobilfunkanbieter: Hier hat ein Mobilfunkanbieter eine Forderung &uuml;ber 441,00 Euro titulieren lassen und als Negativeintrag bei der SCHUFA eingemeldet. Nachdem die Rechtsanw&auml;lte den st&auml;ndigen Aufenthalt des Betroffenen in Italien nachweisen konnte, war klar, dass der Betroffene keine Kenntnis vom formell rechtm&auml;&szlig;ig erlassenen Vollstreckungsbescheid haben konnte. Bei der buchst&auml;blichen Anwendung des Gesetzeswortlautes w&auml;re der Mobilfunkanbieter im Recht gewesen, aber dies war nicht mit Sinn und Zweck der Regelung vereinbar.
+      Kernpunkt der Problematik ist, dass häufig jede Information eine
+      Einzelbewertung benötigt, um eine Löschung eines Schufa Eintrages zu
+      erreichen. Hierbei geht es oft um das Aufdecken von Fehlern und eine
+      konrkete Beratung zum Einzelfall.
 
-        * [Kein Anerkenntnis, keine F&auml;lligkeit, kein richtiger Schufa-Hinweis](http://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/) – ING-DiBa: Manche Verfahren k&ouml;nnen erst gerichtlich gekl&auml;rt werden, obwohl keine der entscheidenden Voraussetzungen nach &sect; 28a BDSG vorlagen. Insbesondere im Anschluss an das [Urteil des BGH](https://www.jurion.de/urteile/bgh/2015-03-19/i-zr-157_13/) wurde nunmehr auch geurteilt, dass ein Verbraucher nicht ordnungsgem&auml;&szlig; aufgekl&auml;rt wird, wenn der SCHUFA-Hinweis nach Nr. 4 keine M&ouml;glichkeit des Bestreitens der Forderung aufweist.
 
-        * [Schufa Eintrag nach Nichtabnahmeentsch&auml;digung](http://advoadvice.de/blog/schufa-recht-schufa-l%C3%B6scht-negativeintrag-der-commerzbank-ag-aus-nichtabnahmeentsch%C3%A4digung/) – Commerzbank AG: Die Commerzbank AG hatte hier weitere Sicherheiten und Unterlagen f&uuml;r einen Immobiliar-Darlehensvertrag gefordert, obwohl die Vertragsdetails aus Sicht des Kreditnehmers eigentlich schon gekl&auml;rt waren. Deshalb wollte der Betroffene das Darlehen nicht mehr abnehmen und die Commerzbank AG berechnete daf&uuml;r eine Nichtabnahme-Entsch&auml;digung. Als diese nicht gezahlt wurde, meldete die Bank die H&ouml;he dieser Entsch&auml;digung zu der urspr&uuml;nglich eingerichteten Kontonummer als negativen Schufa Eintrag ein.
+      Im Folgenden stellt Ihnen unsere Kanzlei ausgesuchte Verfahren vor, in
+      welchen es zu einer Löschung des negativen Schufa Eintrages gekommen ist,
+      um aufzuzeigen, wie vielfältig und verschachtelt die Gesamtthematik ist:
 
-        * [Schufa Eintrag nur nach ordnungsgem&auml;&szlig;er Mahnung zul&auml;ssig](http://advoadvice.de/blog/schufa-recht-pno-inkasso-widerruft-negativeintrag/) – PNO Inkasso AG: Wenn ein negativer Schufa Eintrag nach &sect; 28a Abs. 1 Nr. 4 BDSG vorgenommen wird, dann muss der Betroffene ordnungsgem&auml;&szlig; gemahnt werden. Dies geschieht nicht immer. In diesem Fall kannte der Betroffene die PNO Inkasso AG gar nicht, bis er den negativen Schufa Eintrag entdeckte.
 
-        * [Unbekanntes Urteil f&uuml;hrt zu Schufa Eintrag](http://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/) –Inkasso: Ein &ouml;ffentlich zugestelltes Urteil aus dem Jahr 2002 stellte die Grundlage f&uuml;r einen negativen Schufa Eintrag im Jahr 2017 dar. Der Betroffene wusste aufgrund dieser &ouml;ffentlichen Zustellung lange Zeit nichts von dem Urteil und konnte die Forderung deshalb auch nicht ausgleichen. Die Schufa Holding AG entschloss sich daher selbst dazu, den Eintrag zur L&ouml;schung zu bringen.
+      * [Anerkenntnis und
+      Ratenzahlungsvereinbarung](http://advoadvice.de/blog/schufa-recht-advanzia-bank-widerruft-negativen-schufa-eintrag/)
+      – Advanzia Bank S.A.: In diesem Fall wurde gleichzeitig mit dem angeblich
+      „ausdrücklichen“ Anerkenntnis auch eine Ratenzahlungsvereinbarung
+      getroffen. Dadurch war die entsprechende Forderung nicht mehr fällig und
+      der negative Schufa Eintrag wurde widerrufen.
+
+
+      * [Vollstreckungsbescheid mit falscher
+      Adresse](http://advoadvice.de/blog/schufa-recht-wohnsitz-im-ausland-sch%C3%BCtzt-nicht-vor-schufa-eintrag/)
+      – Mobilfunkanbieter: Hier hat ein Mobilfunkanbieter eine Forderung über
+      441,00 Euro titulieren lassen und als Negativeintrag bei der SCHUFA
+      eingemeldet. Nachdem die Rechtsanwälte den ständigen Aufenthalt des
+      Betroffenen in Italien nachweisen konnte, war klar, dass der Betroffene
+      keine Kenntnis vom formell rechtmä&szlig;ig erlassenen
+      Vollstreckungsbescheid haben konnte. Bei der buchstäblichen Anwendung des
+      Gesetzeswortlautes wäre der Mobilfunkanbieter im Recht gewesen, aber dies
+      war nicht mit Sinn und Zweck der Regelung vereinbar.
+
+
+      * [Kein Anerkenntnis, keine Fälligkeit, kein richtiger
+      Schufa-Hinweis](http://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/)
+      – ING-DiBa: Manche Verfahren können erst gerichtlich geklärt werden,
+      obwohl keine der entscheidenden Voraussetzungen nach &sect; 28a BDSG
+      vorlagen. Insbesondere im Anschluss an das [Urteil des
+      BGH](https://www.jurion.de/urteile/bgh/2015-03-19/i-zr-157_13/) wurde
+      nunmehr auch geurteilt, dass ein Verbraucher nicht ordnungsgemä&szlig;
+      aufgeklärt wird, wenn der SCHUFA-Hinweis nach Nr. 4 keine Möglichkeit des
+      Bestreitens der Forderung aufweist.
+
+
+      * [Schufa Eintrag nach
+      Nichtabnahmeentschädigung](http://advoadvice.de/blog/schufa-recht-schufa-l%C3%B6scht-negativeintrag-der-commerzbank-ag-aus-nichtabnahmeentsch%C3%A4digung/)
+      – Commerzbank AG: Die Commerzbank AG hatte hier weitere Sicherheiten und
+      Unterlagen für einen Immobiliar-Darlehensvertrag gefordert, obwohl die
+      Vertragsdetails aus Sicht des Kreditnehmers eigentlich schon geklärt
+      waren. Deshalb wollte der Betroffene das Darlehen nicht mehr abnehmen und
+      die Commerzbank AG berechnete dafür eine Nichtabnahme-Entschädigung. Als
+      diese nicht gezahlt wurde, meldete die Bank die Höhe dieser Entschädigung
+      zu der ursprünglich eingerichteten Kontonummer als negativen Schufa
+      Eintrag ein.
+
+
+      * [Schufa Eintrag nur nach ordnungsgemä&szlig;er Mahnung
+      zulässig](http://advoadvice.de/blog/schufa-recht-pno-inkasso-widerruft-negativeintrag/)
+      – PNO Inkasso AG: Wenn ein negativer Schufa Eintrag nach &sect; 28a Abs. 1
+      Nr. 4 BDSG vorgenommen wird, dann muss der Betroffene ordnungsgemä&szlig;
+      gemahnt werden. Dies geschieht nicht immer. In diesem Fall kannte der
+      Betroffene die PNO Inkasso AG gar nicht, bis er den Schufa Eintrag
+      entdeckte.
+
+
+      * [Unbekanntes Urteil führt zu Schufa
+      Eintrag](http://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/)
+      –Inkasso: Ein öffentlich zugestelltes Urteil aus dem Jahr 2002 stellte die
+      Grundlage für einen negativen Schufa Eintrag im Jahr 2017 dar. Der
+      Betroffene wusste aufgrund dieser öffentlichen Zustellung lange Zeit
+      nichts von dem Urteil und konnte die Forderung deshalb auch nicht
+      ausgleichen. Die Schufa Holding AG entschloss sich daher selbst dazu, den
+      Eintrag zur Löschung zu bringen.
     image:
     cta: true
   - abschnitt_template: box_hell
