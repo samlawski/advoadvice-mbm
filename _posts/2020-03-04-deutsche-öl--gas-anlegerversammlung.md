@@ -1,9 +1,9 @@
 ---
-title: Deutsche Öl & Gas S.A. lädt zur Anlegerversammlung
+title: Deutsche Öl & Gas Anlegerversammlung
 date: 2020-03-04 00:00:00
 description: >-
   Anleger der Schuldverschreibung der Deutsche Öl und Gas I S.A. sollen
-  Zahlungefristen verlängern.
+  Zahlungefristen für Schuldverschreibung aus Anleihe verlängern.
 layout: post
 style_id: post
 feature_bild_path: /uploads/oil-industry-3289176-1280-1.jpg
