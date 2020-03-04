@@ -2,7 +2,9 @@
 layout: topic
 style_id: topic
 title: Schufa-Einträge löschen und Score verbessern
-description: Erfolgreich Schufa-Einträge löschen und Schufa-Score verbessern. AdvoAdvice Anwälte haben mehr als 5000 Schufa-Einträge erfolgreich gelöscht.
+description: >-
+  Erfolgreich Schufa-Einträge löschen und Schufa-Score verbessern. Rechtsanwalt
+  Dr. Sven Tintemann hat seit 2009 Erfahrung im Kampf gegen Negativeinträge.
 header_titel: Schufa-Einträge löschen und Score verbessern
 header_image: /uploads/theme-schufa1.jpg
 erfolge:
