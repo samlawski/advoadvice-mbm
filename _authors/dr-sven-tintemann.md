@@ -23,7 +23,7 @@ themes:
   - titel: Bankrecht
     link: '/themen/bank-und-kapitalmarktrecht/#bankrecht'
   - titel: Schufarecht
-    link: /themen/datenschutz/
+    link: /themen/schufa-und-datenschutz/
   - titel: Kapitalmarktrecht
     link: '/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
 reihenfolge: 1
