@@ -264,59 +264,86 @@ abschnitte:
     titel: Kostenlos Schufa Eintrag abfragen
     text_markdown: >-
       Nach den gesetzlichen Grundlagen (Art. 15 DSGVO) hat jeder das Recht, eine
-      kostenlose Auskunft bez&uuml;glich seiner bei der Schufa Holding AG
-      gespeicherten Daten zu bekommen. Das dazu geh&ouml;rige Bestellformular
-      f&uuml;r die kostenlose Auskunft findet man nach einigem Suchen auf der
-      Seite der Schufa Holding
+      kostenlose Auskunft bezüglich seiner bei der Schufa Holding AG
+      gespeicherten Daten zu bekommen. Das dazu gehörige Bestellformular für die
+      kostenlose Auskunft findet man nach einigem Suchen auf der Seite der
+      Schufa Holding
       AG&nbsp;[hier](https://www.meineschufa.de/site-11_3_1?dako_token=7529d9814b8310c32cf7ac3a011e8523).
 
 
-      Es gibt dar&uuml;ber hinaus auch kostenpflichtige Angebote der Schufa
-      Holding AG, mit welchen man seine Daten jederzeit online einsehen kann.
-      Auch in ausgesuchten
+      Es gibt darüber hinaus auch kostenpflichtige Angebote der Schufa Holding
+      AG, mit welchen man seine Daten jederzeit online einsehen kann. Auch in
+      ausgesuchten
       [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man
-      eine Schufa-Auskunft gegen eine Geb&uuml;hr von 29,95 Euro (Stand
-      14.02.2019) erhalten.
+      eine Schufa-Auskunft gegen eine Gebühr von 29,95 Euro (Stand 14.02.2019)
+      erhalten.
 
 
-        * Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt Datenkopie gem. Art. 15 DSGVO - bei der Schufa Holding AG beantragt. Dies sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen negativen Eintrag hat und um ggf. dokumentieren zu k&ouml;nnen, dass dieser Zustand vorhanden war.
+      * Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt
+      Datenkopie gem. Art. 15 DSGVO - bei der Schufa Holding AG beantragt. Dies
+      sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen
+      negativen Eintrag hat und um ggf. dokumentieren zu können, dass dieser
+      Zustand vorhanden war.
 
-        * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen eine Geb&uuml;hr f&uuml;r Sie zu organisieren. Es ist davon abzuraten, an andere Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale Geld f&uuml;r eine Selbstauskunft Geld zu investieren. Externe Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die f&uuml;r Sie sonst bei direkter Abfrage bei der Schufa Holding AG g&uuml;nstiger oder sogar kostenfrei erfolgt.
+
+      * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen
+      eine Gebühr für Sie zu organisieren. Es ist davon abzuraten, an andere
+      Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale
+      Geld für eine Selbstauskunft Geld zu investieren. Externe Anbieter
+      verkaufen Ihnen ggf. eine Dienstleistung, die für Sie sonst bei direkter
+      Abfrage bei der Schufa Holding AG günstiger oder sogar kostenfrei erfolgt.
     image: /uploads/data-858360-640-5.jpg
     cta: false
   - abschnitt_template: weiss_bild_links
     titel: Wie lange besteht ein Schufa Eintrag?
     text_markdown: >-
       Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit
-      dem Ausgleich, also der Bezahlung einer offenen Forderung an den
-      Gl&auml;ubiger zur L&ouml;schung gebracht wird. Dies liegt daran, dass der
-      negative Schufa Eintrag von dem einmeldenden Unternehmen gegen&uuml;ber
-      der Schufa Holding AG lediglich f&uuml;r erledigt, also bezahlt,
-      erkl&auml;rt wird. Um die anderen Vertragspartner ausreichend zu
-      sch&uuml;tzen, werden die Informationen auch nach dem Ausgleich der
-      Forderung bei der Scorewertberechnung ber&uuml;cksichtigt. Eine
-      L&ouml;schung des Schufa Eintrages erfolgt in der Regel taggenau nach
-      Ablauf von 3 Jahren nach Zahlung. Dies geschieht automatisch ohne Zutun
-      des Kunden. Detaillierte L&ouml;schungsfristen wurden f&uuml;r alle
-      Wirtschaftsauskunfteien in Deutschland anhand eines [freiwilligen
+      dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gläubiger
+      zur Löschung gebracht wird. Dies liegt daran, dass der Schufa Eintrag von
+      dem einmeldenden Unternehmen gegenüber der Schufa Holding AG lediglich für
+      erledigt, also bezahlt, erklärt wird.
+
+
+      ### Löschung drei Jahren nach Erledigung
+
+
+      Um die anderen Vertragspartner ausreichend zu schützen, werden die
+      Informationen auch nach dem Ausgleich der Forderung bei der
+      Scorewertberechnung berücksichtigt. Eine Löschung des Schufa Eintrages
+      erfolgt in der Regel taggenau nach Ablauf von 3 Jahren nach Zahlung. Dies
+      geschieht automatisch ohne Zutun des Kunden. Detaillierte Löschungsfristen
+      wurden für alle Wirtschaftsauskunfteien in Deutschland anhand eines
+      [freiwilligen
       Verhaltenskodex](http://www.handelsauskunfteien.de/index.php?id=47&amp;no_cache=1)
       vereinbart, welcher die Vorschrift des Art. 17 Abs. 1 DSGVO konkretisiert.
-      Dieses Vorgehen ist vom europ&auml;ischen Gesetzgeber explizit gewollt
-      (vgl. Art. 40 DSGVO).
+      Dieses Vorgehen ist vom europäischen Gesetzgeber explizit gewollt (vgl.
+      Art. 40 DSGVO).
 
 
-      Im konkreten Beispiel k&ouml;nnte das so aussehen: Herr A. hat einen
-      Kredit bei der B-Bank nicht zur&uuml;ckbezahlt. Deshalb hat die B-Bank im
-      Mai 2016 einen Vollstreckungsbescheid &uuml;ber 4.937,00 Euro gegen den
-      Herrn A beantragt und zu dieser Forderung einen negativen Schufa Eintrag
-      veranlasst. Als Herr A im Dezember 2016 keinen neuen Kredit bekommt, zahlt
-      er die offene Forderung &uuml;ber 4.937,00 Euro im Januar 2017
-      vollst&auml;ndig zur&uuml;ck. Daraufhin wird die B-Bank die Forderung bei
-      der SCHUFA als erledigt vermerken, sodass der negative Schufa Eintrag
-      nicht mehr „offen“ ist. Aufgrund der gesetzlichen Speicherfristen bleibt
-      der Schufa Eintrag aber bis Januar 2020 bestehen. Solange wird er auch bei
-      der Berechnung des Scorewertes ber&uuml;cksichtigt und wirkt sich somit
-      auch auf die wirtschaftliche Handlungsf&auml;higkeit aus.
+      ### Beispiel für Löschung eines Eintrags bei der Schufa
+
+
+      Im konkreten Beispiel könnte das so aussehen: Herr A. hat ein Darlehen bei
+      der B-Bank nicht zurückbezahlt. Deshalb hat die B-Bank im Mai 2016 einen
+      Vollstreckungsbescheid über 4.937,00 Euro gegen den Herrn A beantragt und
+      zu dieser Forderung einen&nbsp; Schufa Eintrag veranlasst. Als Herr A im
+      Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung
+      über 4.937,00 Euro im Januar 2017 vollständig zurück. Daraufhin wird die
+      B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der
+      negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen
+      Speicherfristen bleibt der Schufa Eintrag aber bis Januar 2020 bestehen.
+      Solange wird er auch bei der Berechnung des Scores berücksichtigt und
+      wirkt sich somit auch auf die wirtschaftliche Handlungsfähigkeit aus.
+
+
+      ### Hilfe vom Anwalt oft ratsam
+
+
+      Hilfe zum Thema Datenschutz, auch in Bezug auf die Fristen für die
+      Löschung eines Eintrags, finden Sie bei der Kanzlei AdvoAdvice
+      Rechtsanwälte mbB aus Berlin. Hier kann meist nach kurzer Prüfung Ihrer
+      Selbstauskunft beurteilt werden, ob Fehler bei der Meldung an die
+      Auskunftei passiert sind und wann Einträge regulär zu löschen sind.
     image: /uploads/batch-books-document-education-357514.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
