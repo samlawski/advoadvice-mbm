@@ -41,7 +41,7 @@ abschnitte:
       Zahlungsverpflichtung erfüllt (sog. Score, Scorewert oder auch Scoring).
       Dabei besteht die SCHUFA als Gemeinschaftseinrichtung der kreditgebenden
       Wirtschaft. Die Kunden und Mitglieder der Schufa sind vor allem
-      Unternehmen der Wirtschaft, die ihren Kunden Kredite oder Verträge mit
+      Unternehmen der Wirtschaft, die ihren Kunden Darlehen oder Verträge mit
       langen Laufzeiten gewähren und daher auf deren Bonität wesentlichen Wert
       legen.
 
@@ -50,7 +50,7 @@ abschnitte:
 
 
       Eine Abfrage dieser Daten und eines bereichsspezifischen Scores findet
-      z.B. immer dann statt, wenn man ein neues Konto eröffnen, einen Kredit
+      z.B. immer dann statt, wenn man ein neues Konto eröffnen, ein Darlehen
       aufnehmen oder eine Bestellung auf Rechnung bezahlen möchte. Auch im
       Telekommunikationssektor und in anderen Bereichen wird der Score
       berücksichtigt. Mittlerweile verlangen auch viele Vermieter eine
@@ -63,7 +63,7 @@ abschnitte:
 
       Ins Bewusstsein der meisten Verbraucher rückt die Tätigkeit der SCHUFA
       dann, wenn ein Negativeintrag oder ein schlechter Scorewert das
-      angestrebte Ergebnis verhindert und man beispielsweise keinen Kredit
+      angestrebte Ergebnis verhindert und man beispielsweise kein Darlehen
       bekommt. Im Folgenden soll ein Überblick rund um alle Fragen zu sog.
       Negativeinträgen gegeben werden.
     image:
