@@ -2,10 +2,7 @@
 layout: topic
 style_id: topic
 title: Insolvenz und Restschuldbefreiung in Lettland
-description: >-
-  Durch eine Insolvenz in Lettland kommen Sie schneller als in Deutschland zur
-  Schuldenfreiheit. Dabei nutzen Sie die Vorteile des Europarechts aus, indem
-  Sie Ihren Lebensmittelpunkt nach Lettland verlegen.
+description: Durch eine Insolvenz in Lettland sind Sie schneller als in Deutschland schuldenfrei. Nutzen Sie die Vorteile des Europarecht, indem Sie nach Lettland ziehen.
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
 header_image: /uploads/theme-lettland1.jpg
 erfolge:
