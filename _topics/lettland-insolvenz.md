@@ -2,7 +2,10 @@
 layout: topic
 style_id: topic
 title: Insolvenz und Restschuldbefreiung in Lettland
-description: Durch eine Insolvenz in Lettland sind Sie schneller als in Deutschland schuldenfrei. Nutzen Sie Vorteile des Europarechts, indem Sie nach Lettland ziehen.
+description: >-
+  Durch eine Insolvenz in Lettland kommen Sie schneller als in Deutschland zur
+  Schuldenfreiheit. Dabei nutzen Sie die Vorteile des Europarechts aus, indem
+  Sie Ihren Lebensmittelpunkt nach Lettland verlegen.
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
 header_image: /uploads/theme-lettland1.jpg
 erfolge:
@@ -151,15 +154,15 @@ abschnitte:
     text_markdown: >-
       Seien Sie vorsichtig bei den Angeboten von verschiedenen
       Insolvenzagenturen.&nbsp; Hier wird auf professionell erscheinenden
-      Internetseiten oftmals angeboten, Ihnen schnell und effektiv zu
-      helfen.&nbsp;
+      Internetseiten oftmals angeboten, Ihnen schnell und effektiv bei einem
+      Insolvenzverfahren zu helfen.&nbsp;
 
 
       Fragen Sie danach, ob es sich bei den Personen, die für Ihre Beratung in
-      Deutschland zuständig sind, um zur Rechtsberatung zugelassene
-      Rechtsanwälte handelt. Dies ist meist nicht der Fall, auch wenn sich die
-      Anbieter als Kanzlei oder Jurist bezeichnen, sagt dies nichts über eine
-      vorhandene Zulassung zur Rechtsberatung aus.&nbsp;
+      Deutschland und das Verfahren in Lettland zuständig sind, um zur
+      Rechtsberatung zugelassene Rechtsanwälte handelt. Dies ist meist nicht der
+      Fall, auch wenn sich die Anbieter als Kanzlei oder Jurist bezeichnen, sagt
+      dies nichts über eine vorhandene Zulassung zur Rechtsberatung aus.&nbsp;
 
 
       Die Agenturen haben ihren Sitz meist im Ausland und ihre Tätigkeit ist in
