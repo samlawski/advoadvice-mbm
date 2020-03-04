@@ -133,42 +133,50 @@ abschnitte:
     image: /uploads/money-2724235_640.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
-    titel: Wann bekommt man einen Schufa Eintrag
+    titel: Wann bekommt man einen Schufa Eintrag?
     text_markdown: >-
-      Ob und wann man einen negativen Schufa Eintrag bekommt h&auml;ngt von
-      verschiedenen Faktoren ab. Die Rechtsgrundlage f&uuml;r einen solchen
-      Eintrag findet sich in der Datenschutzgrundverordnung (kurz: DSGVO). Dort
-      ist in Art. 6 Abs. 1 DSGVO geregelt, wann ein solcher Eintrag erfolgen
-      darf. Zumeist muss daf&uuml;r eine sog. Interessenabw&auml;gung
-      durchgef&uuml;hrt werden (Art. 6 Abs. 1 lit. f) DSGVO). Das hei&szlig;t,
-      dass Ihre Interessen (z.B. Geschichte vor dem Eintrag,
-      R&uuml;ckzahlungsmodalit&auml;ten, Interesse an Geheimhaltung, etc.) mit
+      Ob und wann man einen negativen Schufa Eintrag bekommt hängt von
+      verschiedenen Faktoren ab.
+
+
+      ### Wo ist Datenschutz gesetzlich geregelt?
+
+
+      Die Rechtsgrundlage für einen Eintrag bei einer Auskunftei findet sich in
+      der Datenschutzgrundverordnung (kurz: DSGVO). Dort ist in Art. 6 Abs. 1
+      DSGVO geregelt, wann eine Datenverarbeitung erfolgen darf. Zumeist muss
+      dafür eine sog. Interessenabwägung durchgeführt werden (Art. 6 Abs. 1 lit.
+      f) DSGVO). Das hei&szlig;t, dass Ihre Interessen (z.B. Geschichte vor dem
+      Eintrag, Rückzahlungsmodalitäten, Interesse an Geheimhaltung, etc.) mit
       den Interessen der Kreditwirtschaft abgewogen werden.
 
 
-      Voraussetzung ist in jedem Fall, dass es zu einer Vertragsst&ouml;rung
-      gekommen sein muss. Das bedeutet im Normalfall, dass eine offene Forderung
-      trotz F&auml;lligkeit nicht bezahlt wurde.
+      Voraussetzung ist in jedem Fall, dass es zu einer Vertragsstörung gekommen
+      sein muss. Das bedeutet im Normalfall, dass eine offene Forderung trotz
+      Fälligkeit nicht bezahlt wurde.
 
 
-      Bevor man einen negativen Schufa Eintrag bekommt, m&uuml;ssen aber weitere
-      Voraussetzungen erf&uuml;llt werden. Bis zur Einf&uuml;hrung der DSGVO im
-      Jahr 2018, bestand in &sect; 28a Absatz 1 Bundesdatenschutzgesetz (kurz:
-      BDSG a.F.) ein fester Katalog an Voraussetzungen, wann eine
-      Daten&uuml;bermittlung erfolgen darf. Obgleich die Voraussetzungen
-      f&uuml;r die Daten&uuml;bermittlung in der neuen Norm im BDSG (&sect; 31
-      Abs. 2 BDSG) nicht mehr explizit geregelt werden, orientiert sich die
-      Praxis bislang auch weiterhin an dem alten „F&uuml;nferkatalog“.
+      ### Welche Voraussetzungen gibt es?
 
 
-      Nach dem „F&uuml;nferkatalog“ des Bundesdatenschutzgesetzes galten
-      folgende Voraussetzungen, von denen nur eine Voraussetzung vorliegen muss.
-      In einfachen Worten reichen folgende Merkmale aus:
+      Bevor man einen Schufa Eintrag bekommt, müssen aber weitere
+      Voraussetzungen erfüllt werden. Bis zur Einführung der DSGVO im Jahr 2018,
+      bestand in &sect; 28a Absatz 1 Bundesdatenschutzgesetz (kurz: BDSG a.F.)
+      ein fester Katalog an Voraussetzungen, wann eine Datenübermittlung
+      erfolgen darf. Obgleich die Voraussetzungen für die Datenübermittlung in
+      der neuen Norm im BDSG (&sect; 31 Abs. 2 BDSG) nicht mehr explizit
+      geregelt werden, orientiert sich die Praxis bislang auch weiterhin an dem
+      alten „Fünferkatalog“.
 
 
-      Es muss ein rechtskr&auml;ftiger Titel, wie z.B. ein
-      Vollstreckungsbescheid oder ein Gerichtsurteil vorliegen. (&sect; 28 a
-      Abs. 1 Nr. 1 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 1 BDSG)
+      Nach dem „Fünferkatalog“ des Bundesdatenschutzgesetzes galten folgende
+      Voraussetzungen, von denen nur eine Voraussetzung vorliegen muss. In
+      einfachen Worten reichen folgende Merkmale aus:
+
+
+      Es muss ein rechtskräftiger Titel, wie z.B. ein Vollstreckungsbescheid
+      oder ein Gerichtsurteil vorliegen. (&sect; 28 a Abs. 1 Nr. 1 BDSG a.F. /
+      jetzt &sect; 31 Abs. 2 Nr. 1 BDSG)
 
 
       Die Forderung ist Bestandteil eines Insolvenzverfahrens und dort zur
@@ -176,26 +184,28 @@ abschnitte:
       &sect; 31 Abs. 2 Nr. 2 BDSG)
 
 
-      Der Betroffene hat die Forderung ausdr&uuml;cklich anerkannt. (&sect; 28 a
-      Abs. 1 Nr. 3 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 3 BDSG)
+      Der Betroffene hat die Forderung ausdrücklich anerkannt. (&sect; 28 a Abs.
+      1 Nr. 3 BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 3 BDSG)
 
 
-      Wegen der Zahlungsausf&auml;lle wurde der Betroffene mindestens zwei Mal
-      gemahnt, wobei er auf die bevorstehende Daten&uuml;bermittlung hingewiesen
+      Wegen der Zahlungsausfälle wurde der Betroffene mindestens zwei Mal
+      gemahnt, wobei er auf die bevorstehende Datenübermittlung hingewiesen
       wurde und der Forderung nicht widersprochen hat. (&sect; 28 a Abs. 1 Nr. 4
       BDSG a.F. / jetzt &sect; 31 Abs. 2 Nr. 4 BDSG)
 
 
-      Das Vertragsverh&auml;ltnis kann fristlos gek&uuml;ndigt werden und der
-      Betroffene wurde auf den m&ouml;glichen Eintrag hingewiesen. (&sect; 28 a
-      Abs. 1 Nr. 5 BDSG / jetzt &sect; 31 Abs. 2 Nr. 5 BDSG)
+      Das Vertragsverhältnis kann fristlos gekündigt werden und der Betroffene
+      wurde auf den möglichen Eintrag hingewiesen. (&sect; 28 a Abs. 1 Nr. 5
+      BDSG / jetzt &sect; 31 Abs. 2 Nr. 5 BDSG)
 
 
       Es kommt jedoch immer wieder vor, dass Unternehmen diese Voraussetzungen
-      nicht beachten, bevor sie eine Forderung an die SCHUFA melden. Unter der
-      DSGVO gibt es nunmehr auch Raum f&uuml;r die Einmeldung besonderer
-      Einzelf&auml;lle. Gleichzeitig f&uuml;hrt das Erf&uuml;llen des
-      „F&uuml;nferkatalogs“ nicht automatisch zu einer berechtigten Einmeldung.
+      nicht beachten, bevor sie eine Forderung an eine Auskunftei melden. Unter
+      der DSGVO gibt es nunmehr auch Raum für die Einmeldung besonderer
+      Einzelfälle. Gleichzeitig führt das Erfüllen des „Fünferkatalogs“ nicht
+      automatisch zu einer berechtigten Einmeldung. Hier hilft oft die konkrete
+      Prüfung durch einen Rechtsanwalt mit einer Spezialisierung auf
+      Datenschutz, um die Vorraussetzungen für einen Widerruf prüfen zu lassen.
     image:
     cta: false
   - abschnitt_template: box_dunkel
