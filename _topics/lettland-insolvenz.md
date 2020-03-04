@@ -86,10 +86,12 @@ abschnitte:
       * Hilfe bei der Gründung einer eigenen SIA, falls gewünscht
       (kostenpflichtig)
 
-      * Permanenter Ansprechpartner in Deutsch vor Ort für Rückfragen&nbsp;
+      * Permanenter Ansprechpartner in Deutsch vor Ort für Rückfragen zum Ablauf
+      der Privatinsolvenz in Lettland
 
-      * Kundenbetreuung in Deutsch bei vorbereitenden Besuchen in Lettland vor
-      Ort&nbsp;
+      * Kundenbetreuung in Deutsch in Lettland vor Ort, insbesondere bei
+      Terminen mit dem lettischen Rechtsanwalt, dem Insolvenzverwalter und dem
+      lettischen Gericht
 
       * Durchsetzung der Restschuldbefreiung in Deutschland&nbsp;
 
