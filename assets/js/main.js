@@ -424,7 +424,7 @@ var crmForm = (function(){
     }else if(presenceCheckCounter >= 50){ // Stop and show Error
       // Analytics:
       _paq.push(['trackEvent', 'Kontaktformular', 'CRM Formular laden fehlgeschlagen'])
-      alert('Leider reagiert das Formular leider nicht. Das kann unter anderem an einer schlechten Internetverbindung liegen. Bitte senden Sie uns einfach eine email an info@advoadvice.de oder rufen Sie uns an unter 030 - 921 000 40.')
+      alert('Leider reagiert das Formular gerade nicht. Das kann unter anderem an einer schlechten Internetverbindung liegen. Bitte senden Sie uns eine email an info@advoadvice.de oder rufen Sie uns an unter 030 - 921 000 40.')
     }else{ // Run again in 100 ms
       setTimeout(function(){
         _recursivelyAfterScriptHasLoaded($container, presenceCheckCounter + 1, callback)
