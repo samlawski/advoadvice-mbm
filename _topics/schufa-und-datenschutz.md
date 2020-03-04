@@ -17,7 +17,7 @@ erfolge:
 intro_titel: 'Nicht sicher, was auf Sie zutrifft?'
 intro_text_markdown: >-
   Erhalten Sie eine erste Empfehlung zu Ihrer Situation jetzt sofort mit unserem
-  kostenlosen und unverbindlichen Selbst-check
+  kostenlosen und unverbindlichen Selbst-Check
 intro_link_text: Zum SCHUFA Selbst-Check
 intro_link: /schufa-beratung
 abschnitte:
