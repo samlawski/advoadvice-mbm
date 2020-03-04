@@ -27,7 +27,7 @@ intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
   - abschnitt_template: box_dunkel
-    titel: Willkommen in Lettland (Riga)
+    titel: Ihr Neustart in Lettland (Riga)
     text_markdown: >-
       Aufgrund der Schnelligkeit und Schuldnerfreundlichkeit des
       Insolvenzverfahrens bietet sich der Weg nach Lettland, insbesondere in die
