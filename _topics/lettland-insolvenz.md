@@ -3,9 +3,9 @@ layout: topic
 style_id: topic
 title: Insolvenz und Restschuldbefreiung in Lettland
 description: >-
-  Durch ein Insolvenzverfahren in Lettland kommen Sie schneller als in
-  Deutschland zur Schuldenfreiheit. Dabei nutzen Sie die Vorteile des
-  Europarechts aus, indem Sie Ihren Lebensmittelpunkt nach Lettland verlegen.
+  Durch eine Insolvenz in Lettland kommen Sie schneller als in Deutschland zur
+  Schuldenfreiheit. Dabei nutzen Sie die Vorteile des Europarechts aus, indem
+  Sie Ihren Lebensmittelpunkt nach Lettland verlegen.
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
 header_image: /uploads/theme-lettland1.jpg
 erfolge:
@@ -17,9 +17,9 @@ erfolge:
     text: Insolvenzeröffnungen seit Mai 2019
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
-  Durch einen Aufenthalt und ein Insolvenzverfahren in Lettland können Sie Ihre
-  Schulden schneller als in Deutschland loswerden und im Idealfall bereits nach
-  12 Monaten die gewünschte Restschuldbefreiung erlangen.&nbsp;
+  Durch einen Aufenthalt und eine Insolvenz in Lettland können Sie Ihre Schulden
+  schneller als in Deutschland loswerden und im Idealfall bereits nach 12
+  Monaten die gewünschte Restschuldbefreiung erlangen.&nbsp;
 
 
   Klingt das für Sie interessant?
@@ -34,23 +34,31 @@ abschnitte:
       lettische Hauptstadt Riga an.
 
 
-      Über die Insolvenz in Riga (Lettland) erreichen Sie als Schuldner für sich
-      einen schnellen Neustart ohne Schulden und ohne langwieriges Verfahren in
+      ### Schneller Neustart für Schuldner
+
+
+      Über die Insolvenz in Riga (Lettland) erreichen Sie als Schuldner einen
+      schnellen Neustart ohne Schulden und ohne langwieriges Verfahren in
       Deutschland.
 
 
       Dies verlangt von Ihnen allerdings etwas mehr Flexibilität, da sie für die
-      Insolvenz in Riga ihren Lebensmittelpunkt (englisch „center of main
+      Privatinsolvenz in Riga ihren Lebensmittelpunkt (englisch „center of main
       interests” – kurz COMI) für mindestens ein halbes Jahr nach Lettland
       verlegen und dort als Steuerzahler registriert sein müssen.
 
 
-      Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice als
-      lokaler Anbieter in Riga vor Ort die [Berger Consulting
-      SIA](www.bergerconsulting.lv){: target="_blank"}, welche den direkten
-      Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet
-      Insolvenzrecht für Sie herstellt. Die Ansprechpartner vor Ort stehen Ihnen
-      dann für alle Anträge und behördlichen Angelegenheiten zur Verfügung.
+      ### Hilfe in Lettland und Deutschland
+
+
+      Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice die Firma
+      [Berger Consulting SIA](www.bergerconsulting.lv){: target="_blank"}als
+      lokaler Anbieter in Riga vor Ort, welche den direkten Kontakt zu einem
+      lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht, dem
+      Insolvenzverwalter und dem Gericht für Sie herstellt. Die Ansprechpartner
+      vor Ort stehen Ihnen dann für alle Anträge und behördlichen
+      Angelegenheiten zur Verfügung, um den Ablauf der lettischen Insolvenz
+      bestmöglich zu unterstützen.
     image:
     cta: false
   - abschnitt_template: grafik_volle_breite
