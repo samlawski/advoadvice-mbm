@@ -39,5 +39,5 @@ F&uuml;r AdvoAdvice wird er verst&auml;rkt in den folgenden Bereichen t&auml;tig
 * [W](https://advoadvice.de/themen/insolvenzrecht/)iderruf von Kfz-Darlehen
 * Zweckentfremdung von Wohnraum
 * Falsche Berechnung von Dispozinsen
-* [P](https://advoadvice.de/themen/datenschutz/)rospekthaftung
+* [P](https://advoadvice.de/themen/schufa-und-datenschutz/)rospekthaftung
 * [Kapitalmarktrecht](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht)
