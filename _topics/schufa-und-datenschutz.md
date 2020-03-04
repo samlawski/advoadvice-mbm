@@ -71,59 +71,65 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Was ist ein Schufaeintrag? Was sind die Folgen?
     text_markdown: >-
-      Die SCHUFA erh&auml;lt von unterschiedlichen Vertragspartnern umfassende
-      Informationen &uuml;ber das Zahlungsverhalten von Kunden. Dabei werden
-      sowohl positive Merkmale (z.B. wenn ein Kredit p&uuml;nktlich
-      zur&uuml;ckgezahlt wurde) als auch neutrale Merkmale (z.B. Alters- und
-      Adressabfragen) gespeichert. Nicht ber&uuml;cksichtigt werden dabei Daten
-      wie z.B. das Gehalt einer Person oder ob diese einer Erwerbst&auml;tigkeit
+      Die SCHUFA erhält als Auskunftei von unterschiedlichen Vertragspartnern
+      umfassende Informationen über das Zahlungsverhalten von Kunden. Dabei
+      werden sowohl positive Merkmale (z.B. wenn ein Kredit pünktlich
+      zurückgezahlt wurde) als auch neutrale Merkmale (z.B. Alters- und
+      Adressabfragen) gespeichert. Nicht berücksichtigt werden dabei Daten wie
+      z.B. das Gehalt einer Person oder ob diese einer Erwerbstätigkeit
       nachgeht.
 
 
-      Die entscheidende Komponente bildet f&uuml;r viele Betroffene jedoch das
-      Stichwort „negativer Schufa Eintrag“. Dabei handelt es sich um
-      Informationen dar&uuml;ber, dass eine Person ihrer Zahlungsverpflichtung
-      nicht nachgekommen ist, also beispielsweise ein Kredit nicht
-      zur&uuml;ckbezahlt, oder eine Rechnung nicht ausgeglichen wurde. Auch
-      diese Informationen werden von der SCHUFA gespeichert.
+      ### Negativeinträge sind oft entscheidend
+
+
+      Die entscheidende Komponente bildet für viele Betroffene jedoch das
+      Stichwort „Negativeintrag“. Dabei handelt es sich um Informationen
+      darüber, dass eine Person ihrer Zahlungsverpflichtung nicht nachgekommen
+      ist, also beispielsweise ein Kredit nicht zurückbezahlt oder eine Rechnung
+      nicht ausgeglichen wurde. Auch diese Informationen über offene Forderungen
+      werden von den Gläubigern in der jeweiligen Auskunftei gespeichert.
+
+
+      ### Berechung des Score ist geheim
 
 
       Anhand aller gespeicherten Informationen berechnet SCHUFA jedes Quartal
-      einen Scorewert f&uuml;r die betroffene Person. Dieser
-      Wahrscheinlichkeitswert wird sowohl allgemein als auch&nbsp;
-      branchenspezifisch berechnet. Wie genau die einzelnen Merkmale
-      ber&uuml;cksichtigt werden, ist und bleibt aufgrund einer Entscheidung des
-      [Bundesgerichtshofes ein
+      einen Score für die betroffene Person. Dieser Wahrscheinlichkeitswert wird
+      sowohl allgemein als auch&nbsp; branchenspezifisch berechnet. Wie genau
+      die einzelnen Merkmale berücksichtigt werden, ist und bleibt aufgrund
+      einer Entscheidung des [Bundesgerichtshofes ein
       Geheimnis](https://web.de/magazine/wirtschaft/schufa-kreditformel-bleibt-geheim-18560738).
-      Fakt ist jedoch, dass die einzelnen Scorewerte &uuml;ber Vergleichsgruppen
-      ermittelt und durch einen negativen Schufa Eintrag massiv beeinflusst
-      werden.
+      Fakt ist jedoch, dass die einzelnen Scores über Vergleichsgruppen
+      ermittelt und durch einen Negativeintrag massiv beeinflusst werden.
+
+
+      ### Negativeintrag hat Folgen für Verbraucher
 
 
       Ein negativer Schufa Eintrag wird auch als sog. Negativmerkmal
       beschrieben. Dabei wird dieser Eintrag von der SCHUFA nicht nur
-      gespeichert, sondern es werden auch die zu ihr geh&ouml;renden
-      Vertragspartner dar&uuml;ber informiert, dass dieses negative Merkmal
-      besteht. Ein negativer Schufa Eintrag kann deshalb dazu f&uuml;hren, dass
-      Kreditkarten und Kredite gek&uuml;ndigt werden.
+      gespeichert, sondern es werden auch die zu ihr gehörenden Vertragspartner
+      darüber informiert, dass dieses negative Merkmal besteht. Ein negativer
+      Schufa Eintrag kann deshalb dazu führen, dass Kreditkarten und Kredite
+      gekündigt werden.
 
 
-      Auch wenn eine solche K&uuml;ndigung nicht immer der Fall ist, bestehen ab
-      der Eintragung eines negativen Schufa Eintrages wahrscheinlich f&uuml;r
-      den Betroffenen Probleme in der Zukunft. Unternehmen stellen in vielen
-      Kontexten eine Anfrage bei der SCHUFA, um sich Informationen zu
+      Auch wenn eine solche Kündigung nicht immer der Fall ist, bestehen ab der
+      Eintragung eines Negativmerkmals wahrscheinlich für den Betroffenen
+      Probleme in der Zukunft. Unternehmen stellen in vielen Kontexten eine
+      Anfrage bei der SCHUFA, um sich Informationen aus einer Auskunftei zu
       beschaffen. Dies gilt sowohl beim Kauf auf Rechnung in einem Onlinehandel,
-      als auch bei der Er&ouml;ffnung eines Kontos, der Anfrage von Krediten,
-      der Finanzierung von Autos, usw. Das bedeutet konkret, dass die
-      zuk&uuml;nftige wirtschaftliche Handlungsf&auml;higkeit massiv
-      eingeschr&auml;nkt ist.
+      als auch bei der Eröffnung eines Kontos, der Anfrage von Krediten, der
+      Finanzierung von Autos, usw. Das bedeutet konkret, dass die zukünftige
+      wirtschaftliche Handlungsfähigkeit massiv eingeschränkt ist.
 
 
-      Letztlich entscheidet die SCHUFA selbst nicht &uuml;ber die Gew&auml;hrung
-      von Krediten o.&auml;., jedoch verlassen sich viele Unternehmen auf die
+      Letztlich entscheidet die SCHUFA selbst nicht über die Gewährung von
+      Krediten o.ä., jedoch verlassen sich viele Unternehmen auf die
       Informationen der SCHUFA. Die Folge ist daher meistens, dass in den soeben
       benannten Bereichen kein Vertragsabschluss bzw. keine Zahlung auf Rechnung
-      o.&auml;. mehr m&ouml;glich sein wird.
+      o.ä. mehr möglich sein wird.
     image: /uploads/money-2724235_640.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
