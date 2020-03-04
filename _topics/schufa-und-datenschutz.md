@@ -560,56 +560,84 @@ abschnitte:
   - abschnitt_template: box_hell
     titel: Konkrete Rechtsgrundlagen
     text_markdown: >-
-      Bis zum 25.05.2018 war die &Uuml;bermittlung von sogenannten
-      Negativmerkmalen anhand von &sect; 28a Abs. 1 Nr. 1-5 BDSG a.F. zu
-      beurteilen.
+      Oftmals ist für Betroffene unklar, welches Recht überhaupt anwendbar ist.
 
 
-      Dabei war klar geregelt, dass die &Uuml;bermittlung personenbezogener
-      Daten an Auskunfteien (wie z.B. die SCHUFA, Creditreform, B&uuml;rgel oder
-      andere) &uuml;ber eine Forderung nur zul&auml;ssig ist, wenn die
-      geschuldete Leistung trotz F&auml;lligkeit nicht erbracht worden ist, die
-      &Uuml;bermittlung zur Wahrung berechtigter Interessen der verantwortlichen
-      Stelle oder eines Dritten erforderlich ist und der Betroffene nach
-      Eintritt der F&auml;lligkeit die Forderung mindestens zweimal schriftlich
-      gemahnt worden ist.
+      ### Bundesdatenschutzgesetz galt bis zum 25.05.2018
 
 
-      Ist die Forderung nicht f&auml;llig (z.B. weil sich der Schuldner noch
-      nicht im Zahlungsverzug befindet oder eine Ratenzahlung oder Stundung
-      vereinbart hat), liegt kein rechtm&auml;&szlig;iger Schufa-Eintrag vor.
+      Bis zum 25.05.2018 war die Übermittlung von sogenannten Negativmerkmalen
+      anhand von &sect; 28a Abs. 1 Nr. 1-5 BDSG a.F. zu beurteilen.
+
+
+      Dabei war klar geregelt, dass die Übermittlung personenbezogener Daten an
+      Auskunfteien (wie z.B. die SCHUFA, Creditreform, Bürgel oder andere) über
+      eine Forderung nur zulässig ist, wenn die geschuldete Leistung trotz
+      Fälligkeit nicht erbracht worden ist, die Übermittlung zur Wahrung
+      berechtigter Interessen der verantwortlichen Stelle oder eines Dritten
+      erforderlich ist und der Betroffene nach Eintritt der Fälligkeit die
+      Forderung mindestens zweimal schriftlich gemahnt worden ist.
+
+
+      Ist die Forderung nicht fällig (z.B. weil sich der Schuldner noch nicht im
+      Zahlungsverzug befindet oder eine Ratenzahlung oder Stundung vereinbart
+      hat), liegt kein rechtmä&szlig;iger Schufa-Eintrag vor.
+
+
+      ### Datenschutzgrundverordnung (DSGVO) seit dem 25.05.2018
 
 
       Seit dem 25.05.2018 gilt die Datenschutzgrundverordnung. Diese sieht
-      lediglich sehr allgemeine Rechtsgrundlagen f&uuml;r die Datenverarbeitung
-      vor. Bei negativen SCHUFA-Eintr&auml;gen ergibt sich die Rechtfertigung
-      nur aus der Interessenabw&auml;gung des Art. 6 Abs. 1 lit. f) DSGVO. Als
-      grundlegende Orientierung kann die Norm des &sect; 31 Abs. 2 BDSG (&sect;
-      28a Abs. 1 BDSG a.F.) helfen, obgleich die Voraussetzung f&uuml;r eine
-      Daten&uuml;bermittlung nicht mehr explizit festgelegt wird.
+      lediglich sehr allgemeine Rechtsgrundlagen für die Datenverarbeitung vor.
+      Bei negativen SCHUFA-Einträgen ergibt sich die Rechtfertigung nur aus der
+      Interessenabwägung des Art. 6 Abs. 1 lit. f) DSGVO.
 
 
-      Grunds&auml;tzlich ist hier die einmeldende Stelle f&uuml;r das Vorliegen
-      der Voraussetzungen nach Art. 6 Abs. 1 DSGVO beweisbelastet. Es gilt
-      n&auml;mlich die gesetzliche Vermutung, dass grunds&auml;tzlich jede
-      Datenverarbeitung rechtswidrig ist, wen kein entsprechender
-      Rechtfertigungsgrund vorliegt.
+      Als grundlegende Orientierung kann die Norm des &sect; 31 Abs. 2 BDSG
+      (&sect; 28a Abs. 1 BDSG a.F.) helfen, obgleich die Voraussetzung für eine
+      Datenübermittlung nicht mehr explizit festgelegt wird.
+
+
+      Grundsätzlich ist hier die einmeldende Stelle für das Vorliegen der
+      Voraussetzungen nach Art. 6 Abs. 1 DSGVO beweisbelastet. Es gilt nämlich
+      die gesetzliche Vermutung, dass grundsätzlich jede Datenverarbeitung
+      rechtswidrig ist, wen kein entsprechender Rechtfertigungsgrund vorliegt.
+
+
+      ### Scoring gesetzlich geregelt
 
 
       In &sect; 31 Abs. 1 BDSG und in Art. 6 und 22 DSGVO ist nun auch das sog.
-      Scoringverfahren gesetzlich eindeutig geregelt. Danach d&uuml;rfen die
+      Scoringverfahren gesetzlich eindeutig geregelt. Danach dürfen die
       Auskunfteien die gespeicherten Daten im Rahmen eines wissenschaftlich
       anerkannten mathematisch-statistischen Verfahrens verwenden, um hiermit
-      eine Prognose &uuml;ber das zuk&uuml;nftige Verhalten bestimmter
-      Personengruppen zu erstellen. Hierbei kann es vorkommen, dass trotz
-      Fehlens negativer Eintr&auml;ge der Scorewert einer betroffenen Person so
-      niedrig ist, dass er nicht bzw. nicht mehr als kreditw&uuml;rdig angesehen
-      wird.
+      eine Prognose über das zukünftige Verhalten bestimmter Personengruppen zu
+      erstellen.
 
 
-      Das Scoring muss daher auch einer rechtlichen &Uuml;berpr&uuml;fung
-      unterzogen werden k&ouml;nnen, auch wenn der Bundesgerichtshof meint, dass
-      die Schufa Holding AG ihre Datenformel nicht offen legen muss.
+      Hierbei kann es vorkommen, dass trotz Fehlens negativer Einträge der Score
+      einer betroffenen Person so niedrig ist, dass er nicht bzw. nicht mehr als
+      kreditwürdig angesehen wird.
+
+
+      Das Scoring muss daher auch einer rechtlichen Überprüfung unterzogen
+      werden können, auch wenn der Bundesgerichtshof meint, dass die Schufa
+      Holding AG ihre Datenformel nicht offen legen muss.
+
+
+      ### Beratung durch Rechtsanwälte oftmals sinnvoll
+
+
+      Um die konkreten gesetzlichen Grundlagen einschätzen zu können, macht es
+      oftmals Sinn Hilfe von einem Anwalt in Anspruch zu nehmen, der im Bereich
+      Schufa-Recht und Datenschutz hinreichende Expertise aufweist. Dieser kann
+      schnell erkennen, welche Rechtsgrundlage Anwendung findet und ob ein
+      Fehler bei der Eintragung passiert ist. So kann dann oftmals die Löschung
+      eines Eintrags durch die Auskunftei selbst oder ein Widerruf durch die
+      eintragende Stelle erreicht werden.
+
+
+      &nbsp;
     image:
     cta: false
 redirect_from:
