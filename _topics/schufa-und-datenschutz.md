@@ -211,36 +211,53 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: Wie verhindert man einen Schufa Eintrag?
     text_markdown: >-
-      Der beste Schutz gegen einen negativen Schufa Eintrag ist nat&uuml;rlich,
-      seine Rechnungen rechtzeitig und vollst&auml;ndig zu begleichen. Wenn dies
-      aus irgendwelchen Gr&uuml;nden mal nicht m&ouml;glich sein sollte, gibt es
-      dennoch einige Ma&szlig;nahmen, die dabei helfen k&ouml;nnen, sich gegen
-      einen Negativeintrag zu sch&uuml;tzen.
+      Der beste Schutz gegen einen Schufa Eintrag ist natürlich, seine
+      Rechnungen rechtzeitig und vollständig zu begleichen. Wenn dies aus
+      irgendwelchen Gründen mal nicht möglich sein sollte, gibt es dennoch
+      einige Ma&szlig;nahmen, die dabei helfen können, sich gegen einen
+      Negativeintrag zu schützen.
 
 
-      Zun&auml;chst sollten eine Forderung, wenn Sie in der konkreten Form nicht
+      ### Bestreiten einer offenen Forderung
+
+
+      Zunächst sollten eine Forderung, wenn Sie in der konkreten Form nicht
       nachvollziehbar ist, immer bei der Gegenseite bestritten werden. Sollte
-      die Gegenseite einen Mahnbescheid beantragt haben, ist dagegen unbedingt
+      die Gegenseite einen Mahnbescheid beantragt haben, ist hiergegen unbedingt
       Widerspruch einzulegen bzw. die Forderung auszugleichen um einen Eintrag
-      bei der SCHUFA zu verhindern. Schufa Eintr&auml;ge zu titulierten
-      Forderungen sind am schwierigsten zur L&ouml;schung zu bringen, da ein
+      bei der SCHUFA zu verhindern. Schufa Einträge zu titulierten Forderungen
+      sind am schwierigsten zur Löschung zu bringen, da ein
       Vollstreckungsbescheid oder ein Urteil ein enorm hohes Beweispotenzial
       haben.
 
 
-      In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung
-      abzuschlie&szlig;en. Nach der Rechtsprechung des [LG Braunschweig (Urt. v.
-      28.06.2013, Az.: 9 O
+      ### Ratenzahlungsvereinbarung sinnvoll
+
+
+      In jedem Stadium ist es sinnvoll eine Ratenzahlungsvereinbarung mit ihrem
+      Gläubiger abzuschlie&szlig;en. Nach der Rechtsprechung des [LG
+      Braunschweig (Urt. v. 28.06.2013, Az.: 9 O
       2394/12)](https://www.anwalt.de/rechtstipps/schufa-loeschung-bei-ratenzahlungsvereinbarung-notwendig_046554.html)
-      und weiterer Gerichte f&uuml;hrt eine solche Vereinbarung dazu, dass nur
-      die konkrete Rate und nicht die gesamte Forderung f&auml;llig ist. Das
-      bedeutet, dass eine Bank oder ein anderes Unternehmen ab diesem Zeitpunkt
-      keinen negativen Schufa Eintrag &uuml;ber die gesamte Forderung vornehmen
-      darf. Das kann auch dann helfen, wenn zwar vorher ein negativer Schufa
-      Eintrag vorgenommen wurde, dieser aber unter einem Fehler leidet, weil der
-      Betroffene beispielsweise nicht auf die bevorstehende
-      Daten&uuml;bermittlung (und damit in der Konsequenz &uuml;ber den
+      und weiterer Gerichte führt eine solche Vereinbarung dazu, dass nur die
+      konkrete Rate und nicht die gesamte Forderung fällig ist. Das bedeutet,
+      dass eine Bank oder ein anderer Gläubiger (wie z.B. ein
+      Inkassounternehmen, eine Telekommunikationsanbieter oder ein anderer
+      Vertragspartner) ab diesem Zeitpunkt keinen Schufa Eintrag über die
+      gesamte Forderung vornehmen darf. Das kann auch dann helfen, wenn zwar
+      vorher ein&nbsp; Schufa Eintrag vorgenommen wurde, dieser aber unter einem
+      Fehler leidet, weil der Betroffene beispielsweise nicht auf die
+      bevorstehende Datenübermittlung (und damit in der Konsequenz über den
       negativen Schufa Eintrag) informiert wurde.
+
+
+      ### Anwalt einschalten und Beratung zu Datenschutz einholen
+
+
+      Auch hier ist oftmals die Einschaltung eines Rechtsanwalts zu empfehlen,
+      der sich mit seiner Kanzlei auf das Datenschutzrecht spezialisiert hat.
+      Dieser kann meist schnell nach Durchsicht Ihrer Selbstauskunft, die jetzt
+      nach der DSGVO auch Datenkopie hei&szlig;t, Hilfe leisten und Fehler
+      aufdecken und eine fachkundige Beratung durchführen.
     image:
     cta: true
   - abschnitt_template: banner_bild_rechts
