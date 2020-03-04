@@ -24,40 +24,48 @@ abschnitte:
   - abschnitt_template: box_hell
     titel: Negativeintrag löschen
     text_markdown: >-
-      Die meisten in Deutschland lebenden Menschen registrieren fr&uuml;her oder
-      sp&auml;ter, dass es die Schufa Holding AG (auch bekannt als
-      Schutzgemeinschaft f&uuml;r die allgemeine Kreditsicherung, oder wie hier
-      fortan: SCHUFA) und andere Wirtschaftsauskunfteien wie z.B. die infoscore
-      Consumer Data GmbH oder die Creditreform Boniversum GmbH gibt. Das
-      dahinterstehende Konzept dieser Unternehmen ist so simpel wie
-      weitreichend:
+      Die meisten in Deutschland lebenden Menschen registrieren früher oder
+      später, dass es die Schufa Holding AG (auch bekannt als Schutzgemeinschaft
+      für die allgemeine Kreditsicherung, oder wie hier fortan: SCHUFA) und
+      andere Wirtschaftsauskunfteien wie z.B. die infoscore Consumer Data GmbH
+      oder die Creditreform Boniversum GmbH gibt. Das dahinterstehende Konzept
+      dieser Unternehmen ist so simpel wie weitreichend:
+
+
+      ### Was machen eigentlich Auskunfteien?
 
 
       Das entsprechende Unternehmen (auch Auskunftei genannt) sammelt
-      zahlungsrelevante Daten &uuml;ber eine Person und errechnet anhand dieser
+      zahlungsrelevante Daten über eine Person und errechnet anhand dieser
       Daten, wie wahrscheinlich es ist, dass die Person ihre
-      Zahlungsverpflichtung erf&uuml;llt (sog. Scorewert oder auch Scoring).
+      Zahlungsverpflichtung erfüllt (sog. Score, Scorewert oder auch Scoring).
       Dabei besteht die SCHUFA als Gemeinschaftseinrichtung der kreditgebenden
       Wirtschaft. Die Kunden und Mitglieder der Schufa sind vor allem
-      Unternehmen der Wirtschaft, die ihren Kunden Kredite oder Vertr&auml;ge
-      mit langen Laufzeiten gew&auml;hren und daher auf deren Bonit&auml;t
-      wesentlichen Wert legen.
+      Unternehmen der Wirtschaft, die ihren Kunden Kredite oder Verträge mit
+      langen Laufzeiten gewähren und daher auf deren Bonität wesentlichen Wert
+      legen.
 
 
-      Eine Abfrage dieser Daten und eines bereichsspezifischen Scorewertes
-      findet z.B. immer dann statt, wenn man ein neues Konto er&ouml;ffnen,
-      einen Kredit aufnehmen oder eine Bestellung auf Rechnung bezahlen
-      m&ouml;chte. Auch im Telekommunikationssektor und in anderen Bereichen
-      wird der Scorewert ber&uuml;cksichtigt. Mittlerweile verlangen auch viele
-      Vermieter eine SCHUFA-Auskunft, welche in der Vorgabe von Mietwohnungen
-      und dem Abschluss von Mietvertr&auml;gen ber&uuml;cksichtigt wird.
+      ### Was ist ein Score?
 
 
-      Ins Bewusstsein der meisten Verbraucher r&uuml;ckt die T&auml;tigkeit der
-      SCHUFA dann, wenn ein negativer Eintrag oder ein schlechter Scorewert das
+      Eine Abfrage dieser Daten und eines bereichsspezifischen Scores findet
+      z.B. immer dann statt, wenn man ein neues Konto eröffnen, einen Kredit
+      aufnehmen oder eine Bestellung auf Rechnung bezahlen möchte. Auch im
+      Telekommunikationssektor und in anderen Bereichen wird der Score
+      berücksichtigt. Mittlerweile verlangen auch viele Vermieter eine
+      SCHUFA-Auskunft, welche in der Vorgabe von Mietwohnungen und dem Abschluss
+      von Mietverträgen berücksichtigt wird.
+
+
+      ### Negativeintrag und schlechter Score
+
+
+      Ins Bewusstsein der meisten Verbraucher rückt die Tätigkeit der SCHUFA
+      dann, wenn ein Negativeintrag oder ein schlechter Scorewert das
       angestrebte Ergebnis verhindert und man beispielsweise keinen Kredit
-      bekommt. Im Folgenden soll ein &Uuml;berblick rund um alle Fragen zu sog.
-      negativen Schufa Eintr&auml;gen gegeben werden.
+      bekommt. Im Folgenden soll ein Überblick rund um alle Fragen zu sog.
+      Negativeinträgen gegeben werden.
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
