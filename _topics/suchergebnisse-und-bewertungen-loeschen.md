@@ -73,6 +73,7 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/themen/bewertung-löschen'
+  - '/themen/bewertung-löschen/'
 redirect_to: 
 sitemap: true
 ---

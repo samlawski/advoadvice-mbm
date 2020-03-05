@@ -41,6 +41,7 @@ abschnitte:
     cta: false
 redirect_from: 
   - '/themen/immobilienrecht'
+  - '/themen/immobilienrecht/'
 redirect_to: 
 sitemap: true
 ---
