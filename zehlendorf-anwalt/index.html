@@ -38,7 +38,7 @@ ablauf:
   <div class="nav__wrapper">
     <div class="nav__logo">
       <a href="{{site.url}}#">
-        <img src="/uploads/0-layout/logo-wordmark.png" alt="AdvoAdvice - Logo mit Text" />
+        <img src="{{ '/uploads/0-layout/logo-wordmark.png' | prepend: site.url }}" alt="AdvoAdvice - Logo mit Text" />
       </a>
     </div>
     <div class="nav__spacer">
@@ -74,7 +74,7 @@ ablauf:
       <a class="header__cta button button--cta editable" href="#kontakt--1">Gespräch vereinbaren</a>
     </div>
     <div class="header__image">
-      <img src="/uploads/advoadvice-02-45-von-49-1.jpg" alt="Zehlendorf Anwälte" class="editable" />
+      <img src="{{ '/uploads/advoadvice-02-45-von-49-1.jpg' | prepend: site.url }}" alt="Zehlendorf Anwälte" class="editable" />
     </div>
   </header>
 
@@ -110,7 +110,7 @@ ablauf:
   
     <section class="kontakt--1">
       <div id="kontakt--1" class="kontakt__container h-container--md">
-        <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-klevenhagen.png" alt="Kim Oliver Klevenhagen - Kleines Portrait" />
+        <img class="kontakt__portrait editable" src="{{ '/uploads/0-layout/kontakt-klevenhagen.png' | prepend: site.url }}" alt="Kim Oliver Klevenhagen - Kleines Portrait" />
         <p class="h4 editable">
           Kontaktieren Sie uns noch jetzt!
         </p>
@@ -134,7 +134,7 @@ ablauf:
         {% for member in members %}
           <div class="anwalt">
             {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
-            <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
+            <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path | prepend: site.url }})">
               <div class="anwalt__portrait__frame"></div>
             </div>
             <div class="anwalt__text">
@@ -194,7 +194,7 @@ ablauf:
           </header>
           <ul>
             {% for formular in site.data.formulare %}
-            <li><a href="{{ formular.datei_path }}" target="_blank">{{formular.title}}</a></li>
+            <li><a href="{{ formular.datei_path | prepend: site.url }}" target="_blank">{{formular.title}}</a></li>
           {% endfor %}
           </ul>
           <footer>
@@ -212,7 +212,7 @@ ablauf:
   <div id="kontakt" class="h-container">
 
     <div class="footer__einleitung h-container--sm">
-      <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait" />
+      <img class="kontakt__portrait editable" src="{{ '/uploads/0-layout/kontakt-tintemann.png' | prepend: site.url }}" alt="Dr. Tintemann - Kleines Portrait" />
       <p class="h4 editable">
         Nehmen Sie noch jetzt Kontakt auf!
       </p>
@@ -244,9 +244,9 @@ ablauf:
         </p>
 
         <div class="footer__legal">
-          <a href="/impressum" class="editable">Impressum</a>
+          <a href="{{ '/impressum' | prepend: site.url }}" class="editable">Impressum</a>
           &nbsp;&#183&nbsp;
-          <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+          <a href="{{ '/datenschutz' | prepend: site.url }}" class="editable">Datenschutzerklärung</a>
         </div>
       </div>
     </div>
