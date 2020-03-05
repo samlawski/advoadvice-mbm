@@ -76,7 +76,7 @@ ablauf:
       <div class="themen__haupt">
         {% for thema in page.hauptthemen %}
           <a href="{{site.url}}/themen/{{thema.topic}}" class="themen__block">
-            <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol">
+            <img src="{{thema.icon_path | prepend: site.url }}" alt="{{thema.titel}} Symbol">
             <h2 class="h4">{{thema.titel}}</h2 class="h4">
             <p>{{thema.beschreibung}}</p>
           </a>
