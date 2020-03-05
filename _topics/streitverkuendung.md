@@ -80,6 +80,7 @@ abschnitte:
     cta: true
 redirect_from: 
   - "/streitverkuendung"
+  - "/streitverkuendung/"
 redirect_to: 
 sitemap: true
 ---
