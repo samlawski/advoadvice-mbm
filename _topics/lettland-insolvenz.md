@@ -2,7 +2,10 @@
 layout: topic
 style_id: topic
 title: Insolvenz und Restschuldbefreiung in Lettland
-description: Durch eine Insolvenz in Lettland sind Sie schneller als in Deutschland schuldenfrei. Nutzen Sie die Vorteile des Europarecht, indem Sie nach Lettland ziehen.
+description: >-
+  Durch eine Insolvenz in Lettland sind Sie schneller als in Deutschland
+  schuldenfrei. Nutzen Sie die Vorteile des Europarecht, indem Sie nach Lettland
+  ziehen.
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
 header_image: /uploads/theme-lettland1.jpg
 erfolge:
@@ -49,13 +52,13 @@ abschnitte:
 
 
       Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice die Firma
-      [Berger Consulting SIA](www.bergerconsulting.lv){: target="_blank"}als
-      lokaler Anbieter in Riga vor Ort, welche den direkten Kontakt zu einem
-      lettischen Rechtsanwalt mit dem Spezialgebiet Insolvenzrecht, dem
-      Insolvenzverwalter und dem Gericht für Sie herstellt. Die Ansprechpartner
-      vor Ort stehen Ihnen dann für alle Anträge und behördlichen
-      Angelegenheiten zur Verfügung, um den Ablauf der lettischen Insolvenz
-      bestmöglich zu unterstützen.
+      [Berger Consulting SIA](https://www.bergerconsulting.lv){:
+      target="_blank"}als lokaler Anbieter in Riga vor Ort, welche den direkten
+      Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet
+      Insolvenzrecht, dem Insolvenzverwalter und dem Gericht für Sie herstellt.
+      Die Ansprechpartner vor Ort stehen Ihnen dann für alle Anträge und
+      behördlichen Angelegenheiten zur Verfügung, um den Ablauf der lettischen
+      Insolvenz bestmöglich zu unterstützen.
     image:
     cta: false
   - abschnitt_template: grafik_volle_breite
