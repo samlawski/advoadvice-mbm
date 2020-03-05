@@ -153,6 +153,7 @@ abschnitte:
     cta: false
 redirect_from:
   - /themen/insolvenzrecht
+  - /themen/insolvenzrecht/
 redirect_to:
 sitemap: true
 ---

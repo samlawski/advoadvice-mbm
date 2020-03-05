@@ -194,6 +194,7 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/themen/bank-und-kapitalmarktrecht'
+  - '/themen/bank-und-kapitalmarktrecht/'
 redirect_to: 
 sitemap: true
 ---
