@@ -75,7 +75,9 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/kreditwiderrufen'
+  - '/kreditwiderrufen/'
   - '/themen/widerruf-verbraucherdarlehen'
+  - '/themen/widerruf-verbraucherdarlehen/'
 redirect_to: 
 sitemap: true
 ---
