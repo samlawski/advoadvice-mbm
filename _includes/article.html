@@ -1,5 +1,5 @@
-<article style="background-image: url('{{ include.article.feature_bild_path }}')">
-  <a class="article__link" href="{{ include.article.url | prepend: site.baseurl }}">
+<article style="background-image: url('{{ include.article.feature_bild_path | prepend: site.url }}')">
+  <a class="article__link" href="{{ include.article.url | prepend: site.url }}">
     <h3 class="article__title">{{include.article.title}}</h3>
 
     <p class="article__description">
