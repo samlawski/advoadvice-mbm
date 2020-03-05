@@ -53,8 +53,8 @@ abschnitte:
 
       Hierbei hilft Ihnen in Zusammenarbeit mit der Kanzlei AdvoAdvice die Firma
       [Berger Consulting SIA](https://www.bergerconsulting.lv){:
-      target="_blank"}als lokaler Anbieter in Riga vor Ort, welche den direkten
-      Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet
+      target="_blank"}&nbsp;als lokaler Anbieter in Riga vor Ort, welche den
+      direkten Kontakt zu einem lettischen Rechtsanwalt mit dem Spezialgebiet
       Insolvenzrecht, dem Insolvenzverwalter und dem Gericht für Sie herstellt.
       Die Ansprechpartner vor Ort stehen Ihnen dann für alle Anträge und
       behördlichen Angelegenheiten zur Verfügung, um den Ablauf der lettischen
