@@ -14,9 +14,9 @@ portrait_path: /uploads/0-layout/portrait-rohrmoser-1.jpg
 email: rohrmoser@advoadvice.de
 themes:
   - titel: Schufa-Recht
-    link:
+    link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: Datenschutz
-    link:
+    link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: DSGVO
     link:
   - titel: IT-Recht
