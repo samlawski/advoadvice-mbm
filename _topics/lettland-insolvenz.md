@@ -199,9 +199,10 @@ abschnitte:
       Nutzen Sie die Möglichkeit, vor Ort in Berlin die wichtigen Fragen zum
       Insolvenzverfahren in Lettland und Ihrem Aufenthalt in Riga persönlich mit
       Rechtsanwalt Dr. Sven Tintemann und einem Berater der Firma [Berger
-      Consulting SIA](www.bergerconsulting.lv){: target="_blank"}aus Riga zu
-      besprechen und vereinbaren Sie einen verbindlichen Termin, an dem wir uns
-      nur für Sie und Ihre Fragen Zeit nehmen.&nbsp;
+      Consulting SIA](https://www.bergerconsulting.lv){:
+      target="_blank"}&nbsp;aus Riga zu besprechen und vereinbaren Sie einen
+      verbindlichen Termin, an dem wir uns nur für Sie und Ihre Fragen Zeit
+      nehmen.&nbsp;
     image:
     cta: true
 redirect_from:
