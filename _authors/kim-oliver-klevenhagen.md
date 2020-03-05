@@ -15,15 +15,15 @@ email: klevenhagen@advoadvice.de
 themes:
   - titel: Immobilienrecht
     link: >-
-      https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#schrottimmobilien--steuersparmodelle--immobilienrecht
+      https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
   - titel: Privates Baurecht
     link:
   - titel: Steuersparmodelle
     link: >-
-      https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#schrottimmobilien--steuersparmodelle--immobilienrecht
+      https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
   - titel: Darlehenswiderruf
     link: >-
-      https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
+      https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Anwalts- und Notarhaftung
     link:
 reihenfolge: 2
