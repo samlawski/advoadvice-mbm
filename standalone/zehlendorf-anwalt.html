@@ -39,7 +39,7 @@ ablauf:
   <div class="nav__wrapper">
     <div class="nav__logo">
       <a href="{{site.url}}#">
-        <img src="/uploads/0-layout/logo-wordmark.png" alt="AdvoAdvice - Logo mit Text">
+        <img src="/uploads/0-layout/logo-wordmark.png" alt="AdvoAdvice - Logo mit Text" />
       </a>
     </div>
     <div class="nav__spacer">
@@ -66,12 +66,16 @@ ablauf:
 
   <header class="h-container--md">
     <div class="header__text">
-      <h1 class="editable">Erfahrene Anwälte aus Berlin Zehlendorf</h1>
-      <h3 class="editable">Kompetente Rechtsberatung vor Ort und schnell.</h3>
+      <h1 class="editable">
+        Erfahrene Anw&auml;lte aus Berlin Zehlendorf
+      </h1>
+      <h3 class="editable">
+        Kompetente Rechtsberatung vor Ort und schnell.
+      </h3>
       <a class="header__cta button button--cta editable" href="#kontakt--1">Gespräch vereinbaren</a>
     </div>
     <div class="header__image">
-      <img src="/uploads/advoadvice-02-45-von-49-1.jpg" alt="Zehlendorf Anwälte" class="editable">
+      <img src="/uploads/advoadvice-02-45-von-49-1.jpg" alt="Zehlendorf Anwälte" class="editable" />
     </div>
   </header>
 
@@ -79,19 +83,21 @@ ablauf:
     {% include referenzen.html %}
   
     <section id="themen" class="themen h-container">
-      <p class="themen__title h6 editable">Unsere Themen</p>
+      <p class="themen__title h6 editable">
+        Unsere Themen
+      </p>
   
       <div class="themen__haupt">
         {% for thema in page.hauptthemen %}
           <a href="https://advoadvice.de/themen/{{thema.topic}}" class="themen__block">
-            <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol">
-            <h2 class="h4">{{thema.titel}}</h2 class="h4">
+            <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol" />
+            <h2 class="h4">{{thema.titel}}</h2>
             <p>{{thema.beschreibung}}</p>
           </a>
         {% endfor %}
       </div>
   
-      <hr>
+      <hr />
   
       <div class="themen__neben">
         {% for thema in page.nebenthemen %}
@@ -105,9 +111,13 @@ ablauf:
   
     <section class="kontakt--1">
       <div id="kontakt--1" class="kontakt__container h-container--md">
-        <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-klevenhagen.png" alt="Kim Oliver Klevenhagen - Kleines Portrait">
-        <p class="h4 editable">Kontaktieren Sie uns noch jetzt!</p>
-        <p class="kontakt__text--2 editable">Gerne melden wir uns bei Ihnen <strong>kostenlos und unverbindlich</strong> telefonisch oder per email für ein erstes Gespräch.</p>
+        <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-klevenhagen.png" alt="Kim Oliver Klevenhagen - Kleines Portrait" />
+        <p class="h4 editable">
+          Kontaktieren Sie uns noch jetzt!
+        </p>
+        <p class="kontakt__text--2 editable">
+          Gerne melden wir uns bei Ihnen<strong>&nbsp;unverbindlich</strong> telefonisch oder per email f&uuml;r ein erstes Gespr&auml;ch.
+        </p>
         
         
         {% include kontakt_formular.html id="1" %}
@@ -115,7 +125,9 @@ ablauf:
     </section>
   
     <section id="anwaelte" class="h-container">
-      <p class="anwaelte__title h6 editable">Ihre Experten</p>
+      <p class="anwaelte__title h6 editable">
+        Ihre Experten
+      </p>
   
       <div class="anwaelte">
         {% assign members = site.authors | sort: 'reihenfolge' %}
@@ -132,8 +144,8 @@ ablauf:
                 {{member.titel}}
               </p>
               <!-- <p>
-                <a href="mailto:{{member.email}}">{{member.email}}</a>
-              </p> -->
+                <a href="mailto:{{member.email}}">{{member.email}}
+              <p></p> -->
               <p>
                 <small>
                   <strong>Themen:</strong>
@@ -154,7 +166,9 @@ ablauf:
     </section>
   
     <section id="ablauf" class="ablauf h-container--sm">
-      <p class="ablauf__title h6 editable">Wie läuft das ganze ab?</p>
+      <p class="ablauf__title h6 editable">
+        Wie l&auml;uft das ganze ab?
+      </p>
   
       {% for item in page.ablauf %}
         <div class="ablauf__item">
@@ -175,7 +189,9 @@ ablauf:
         <a class="modal__exit" href="#downloads"></a>
         <div class="modal__box">
           <header>
-            <h4 class="editable">Download Formulare</h4>
+            <h4 class="editable">
+              Download Formulare
+            </h4>
           </header>
           <ul>
             {% for formular in site.data.formulare %}
@@ -197,11 +213,13 @@ ablauf:
   <div id="kontakt" class="h-container">
 
     <div class="footer__einleitung h-container--sm">
-      <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait">
+      <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait" />
       <p class="h4 editable">
-        Nehmen Sie noch jetzt Kontakt auf! 
+        Nehmen Sie noch jetzt Kontakt auf!
       </p>
-      <p class="editable">Wir beraten Sie gerne bei Ihrem Anliegen und geben Ihnen ganz <strong>kostenlos</strong> und <strong>unverbindlich</strong> eine erste Einschätzung.</p>
+      <p class="editable">
+        Wir beraten Sie gerne bei Ihrem Anliegen und geben Ihnen ganz <strong>kostenlos</strong> und <strong>unverbindlich</strong> eine erste Einsch&auml;tzung.
+      </p>
     </div>
 
     <div class="footer__kontakt">
@@ -211,14 +229,20 @@ ablauf:
 
       <div class="footer__anschrift">
         <p class="editable">
-          Telefon: 030 - 921 000 40 <br />
-          Telefax: 030 - 921 000 410 <br />
-          E-Mail: info@advoadvice.de
+          Telefon: 030 - 921 000 40<br />Telefax: 030 - 921 000 410<br />E-Mail: info@advoadvice.de
         </p>
-        <h4 class="editable">Anschrift</h4>
-        <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
-        <h4 class="editable">Sprechzeiten</h4>
-        <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
+        <h4 class="editable">
+          Anschrift
+        </h4>
+        <p class="editable">
+          Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin
+        </p>
+        <h4 class="editable">
+          Sprechzeiten
+        </h4>
+        <p class="editable">
+          Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung
+        </p>
 
         <div class="footer__legal">
           <a href="/impressum" class="editable">Impressum</a>
