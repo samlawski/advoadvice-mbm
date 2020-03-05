@@ -11,7 +11,7 @@ header_image: /uploads/theme-lettland1.jpg
 erfolge:
   - zahl: 5.750+
     text: Klicks auf unser Angebot für Lettland
-  - zahl: '7'
+  - zahl: '10'
     text: Mandate seit Mai 2019
   - zahl: '2'
     text: Insolvenzeröffnungen seit Mai 2019
