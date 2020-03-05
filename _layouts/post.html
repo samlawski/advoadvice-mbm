@@ -63,7 +63,7 @@ layout: default
       <div class="presse__logos">
         {% assign presse_artikel = site.posts | where_exp: "post", "post.topics contains 'medien'" | where_exp: "post", "post.feature_bild_path" %}
         {% for article in presse_artikel limit: 3 %}
-          <a href="{{ article.url | prepend: site.baseurl }}">
+          <a href="{{ article.url | prepend: site.url }}">
             <img src="{{article.feature_bild_path}}" alt="Logo {{article.title}}">
             <h3 class="h5">{{article.title}}</h3>
           </a>
