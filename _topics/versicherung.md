@@ -71,6 +71,7 @@ abschnitte:
     cta: true
 redirect_from: 
   - '/themen/versicherungsrecht'
+  - '/themen/versicherungsrecht/'
 redirect_to: 
 sitemap: true
 ---
