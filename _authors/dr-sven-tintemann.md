@@ -14,17 +14,17 @@ portrait_path: /uploads/0-layout/portrait-tintemann-1.jpg
 email: tintemann@advoadvice.de
 themes:
   - titel: Versicherungsrecht
-    link: /themen/versicherungsrecht/
+    link: https://advoadvice.de/themen/versicherungsrecht/
   - titel: Insolvenzrecht
-    link: /themen/insolvenzrecht/
+    link: https://advoadvice.de/themen/insolvenzrecht/
   - titel: Prospekterstellung
     link: >-
-      /themen/bank-und-kapitalmarktrecht/#beratung-bei-der-erstellung-von-wertpapierprospekten-und-vermoumlgens-verkaufsprospekten
+      https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#beratung-bei-der-erstellung-von-wertpapierprospekten-und-vermoumlgens-verkaufsprospekten
   - titel: Bankrecht
-    link: '/themen/bank-und-kapitalmarktrecht/#bankrecht'
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#bankrecht'
   - titel: Schufarecht
-    link: /themen/schufa-und-datenschutz/
+    link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: Kapitalmarktrecht
-    link: '/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
 reihenfolge: 1
 ---
