@@ -113,7 +113,7 @@ ablauf:
                 <strong>Themen:</strong>
                 {% for topic in member.themes %}
                   {% if topic.link %}
-                    <a href="{{topic.link | prepend: site.url }}">{{topic.titel}}</a>
+                    <a href="{{topic.link}}">{{topic.titel}}</a>
                   {% else %}
                     {{ topic.titel }}
                   {% endif %}
