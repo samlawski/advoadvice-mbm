@@ -88,8 +88,8 @@ ablauf:
   
       <div class="themen__haupt">
         {% for thema in page.hauptthemen %}
-          <a href="https://advoadvice.de/themen/{{thema.topic}}" class="themen__block">
-            <img src="{{thema.icon_path}}" alt="{{thema.titel}} Symbol" />
+          <a href="{{site.url}}/themen/{{thema.topic}}" class="themen__block">
+            <img src="{{thema.icon_path | prepend: site.url }}" alt="{{thema.titel}} Symbol" />
             <h2 class="h4">{{thema.titel}}</h2>
             <p>{{thema.beschreibung}}</p>
           </a>
@@ -100,7 +100,7 @@ ablauf:
   
       <div class="themen__neben">
         {% for thema in page.nebenthemen %}
-          <a href="https://advoadvice.de/themen/{{thema.topic}}"><h3 class="h4">{{thema.titel}}</h3></a>
+          <a href="{{site.url}}/themen/{{thema.topic}}"><h3 class="h4">{{thema.titel}}</h3></a>
           {% unless forloop.last %}
             <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
           {% endunless %}
