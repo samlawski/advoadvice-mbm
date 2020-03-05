@@ -6,7 +6,7 @@ layout: html_head_body
   <div class="nav__wrapper">
     <div class="nav__logo">
       <a href="{{site.url}}#">
-        <img src="/uploads/0-layout/logo-wordmark.png" alt="AdvoAdvice - Logo mit Text">
+        <img src="{{ '/uploads/0-layout/logo-wordmark.png' | prepend: site.url }}" alt="AdvoAdvice - Logo mit Text" />
       </a>
     </div>
     <div class="nav__spacer">
@@ -54,9 +54,9 @@ layout: html_head_body
           <p class="editable">Kaiserliches Postamt<br />Martin-Buber-Str. 24<br />14163 Berlin</p>
           
           <div class="footer__legal">
-            <a href="/impressum" class="editable">Impressum</a>
+            <a href="{{ '/impressum' | prepend: site.url }}" class="editable">Impressum</a>
             &nbsp;&#183&nbsp;
-            <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+            <a href="{{ '/datenschutz' | prepend: site.url }}" class="editable">Datenschutzerklärung</a>
           </div>
         </div>
       </div>
@@ -68,7 +68,7 @@ layout: html_head_body
     <div id="kontakt" class="h-container">
 
       <div class="footer__einleitung h-container--sm">
-        <img class="kontakt__portrait editable" src="/uploads/0-layout/kontakt-tintemann.png" alt="Dr. Tintemann - Kleines Portrait">
+        <img class="kontakt__portrait editable" src="{{ '/uploads/0-layout/kontakt-tintemann.png' | prepend: site.url }}" alt="Dr. Tintemann - Kleines Portrait" />
         <p class="h4 editable">
           Nehmen Sie noch jetzt Kontakt auf! 
         </p>
@@ -92,9 +92,9 @@ layout: html_head_body
           <p class="editable">Mo - Fr&nbsp; 09.00 Uhr - 13.00 Uhr sowie 14.00 Uhr - 17.00 Uhr<br />Termine nach Vereinbarung</p>
 
           <div class="footer__legal">
-            <a href="/impressum" class="editable">Impressum</a>
+            <a href="{{ '/impressum' | prepend: site.url }}" class="editable">Impressum</a>
             &nbsp;&#183&nbsp;
-            <a href="/datenschutz" class="editable">Datenschutzerklärung</a>
+            <a href="{{ '/datenschutz' | prepend: site.url }}" class="editable">Datenschutzerklärung</a>
           </div>
         </div>
       </div>
