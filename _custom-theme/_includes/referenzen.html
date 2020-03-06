@@ -1,0 +1,11 @@
+<section id="referenzen" class="referenzen h-container">
+  <div class="referenzen__ratings">
+    <a href="https://www.anwalt.de/advoadvice/anwaelte" target="_blank" rel="noreferrer"><img src="{{site.url}}/uploads/0-layout/bewertung-anwaltde-200116.png" alt="5.0 Durchschnittsbewertung auf anwalt.de" class="editable" /></a>
+    <a href="https://goo.gl/maps/Dxit8CGpcwjY8y3f8" target="_blank" rel="noreferrer"><img src="{{site.url}}/uploads/0-layout/bewertung-google-200116.png" alt="5.0 Durchschnittsbewertung auf Google" class="editable" /></a>
+  </div>
+  <div class="referenzen__news">
+    {% for logo in site.data.presse_logos limit: 6 %}
+      <a href="{{logo.link | prepend: site.url }}"><img src="{{logo.logo_path | prepend: site.url }}" alt="{{logo.logo_seo_text}}" /></a>
+    {% endfor %}
+  </div>
+</section>
