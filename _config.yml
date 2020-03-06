@@ -8,8 +8,8 @@ color: '#244c5a'
 
 lang: de_DE
 email: info@advoadvice.com
-url: "https://advoadvice.de" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://advoadvice.de" # the URL to the main site hosting all assets
+customurl: "https://advoadvice.de" # the URL the user sees in the browser. 
 
 # Collection Settings
 collections:
