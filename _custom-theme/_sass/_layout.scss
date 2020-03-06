@@ -1,0 +1,245 @@
+/*
+- Navigation
+- Footer
+*/
+
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  height: 80px;
+  margin-top: -80px; 
+  visibility: hidden; 
+}
+
+// Navigation
+
+.page__nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+
+  background-color: $clr-bg;
+  overflow: hidden;
+
+  border-bottom: 3px solid $clr-primary;
+}
+
+.nav__wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+
+  padding: 0 20px;
+
+  max-width: $max-width;
+  margin: auto;
+
+  @media(min-width: $media-md){
+    align-items: stretch;
+  }
+}
+
+.nav__logo {
+  flex: 1; 
+  padding: 20px 0;
+
+  a { 
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  img {
+    height: 30px;
+    @media(min-width: $media-md){ height: 40px; }
+  }
+
+  @media(min-width: $media-md){ flex: 0 1; }
+}
+.nav__spacer {
+  flex: 0;
+  padding: 20px 0;
+
+  .hamburger {
+    padding: 0;
+    padding-top: 5px;
+
+    @media(min-width: $media-md){ display: none; }
+  }
+  // Change hamburger line height
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    height: 3px;
+    // Change hamburger size 
+    width: 30px;
+  }
+  // Change hamburger size 
+  .hamburger-box {
+    width: 30px;
+    height: 20px;
+  }
+
+  @media(min-width: $media-md){ flex: 0 1; }
+}
+
+.nav__menu {
+  flex: 0 1 100%;
+  @media(min-width: $media-md){ flex: 1; }
+
+  ul {
+    display: block;
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+
+    text-align: right;
+    font-weight: 700;
+    font-size: 1.5rem;
+    background-color: $clr-bg;
+    
+    // Menu Closed on mobile: 
+    height: 0;
+    opacity: 0;
+    transition: 
+      height $transition-time-1 cubic-bezier(0.86, 0, 0.07, 1),
+      opacity $transition-time-1;
+    
+    // Desktop
+    @media(min-width: $media-md){
+      height: 100%;
+      opacity: 1;
+      font-size: inherit;
+      font-weight: 400;
+
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+  &.open ul {
+    height: 100vh;
+    opacity: 1;
+    transition: 
+      height $transition-time-1 cubic-bezier(0.86, 0, 0.07, 1),
+      opacity $transition-time-1 ease-in $transition-time-1;
+  }
+
+  li {
+    margin: 0;
+    padding: 5px 0;
+
+    // Desktop
+    @media(min-width: $media-md){
+      height: 100%;
+      display: inline-block;
+      
+      display: flex;
+      align-items: center;
+      align-items: stretch;
+
+      border-top: 4px solid transparent;
+      transition: border-color $transition-time-1, background-color $transition-time-1;
+
+      &:hover {
+        border-color: $clr-primary;
+        background-color: $clr-transparent-bl-1;
+      }
+    }
+  }  
+  a {
+    padding: 20px 15px;
+    text-decoration: none;
+  }
+}
+
+.page__nav__spacer {
+  height: 74px;
+  @media(min-width: $media-md){
+    height: 80px;
+  }
+}
+
+
+// Footer & Kontakt
+
+.page__footer {
+  background-color: $clr-primary;
+  color: $clr-bg;
+
+  input, textarea, button {
+    border-color: $clr-bg;
+    color: $clr-bg; 
+
+    &::placeholder {
+      color: $clr-transparent-wh-7;
+    }
+  }
+  button:hover {
+    background-color: $clr-bg;
+    color: $clr-text; 
+  }
+  label, input, textarea {
+    display: block;
+  }
+  [type="checkbox"] {
+    display: inline-block;
+  }
+  a { color: $clr-secondary; }
+
+  // Specific: 
+  padding: 40px 0;
+
+  [type="text"], [type="email"], [type="tel"],
+  label, textarea {
+    margin-bottom: 20px;
+      width: 100%;
+  }
+
+  [type="submit"][disabled],
+  [type="submit"][disabled]:hover {
+    border-color: $clr-transparent-wh-7;
+    color: $clr-transparent-wh-7;
+  }
+}
+
+.footer__einleitung {
+  text-align: center;
+  margin-bottom: 40px;
+
+  img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+  }
+  p {margin: 0;}
+}
+
+.footer__anschrift {
+  margin-top: 40px;
+}
+
+@media(min-width: $media-md) {
+  .footer__kontakt {
+    display: flex;
+
+    &>* { flex: 1 0 50%; }
+  }
+
+  .footer__form {
+    padding-right: 40px;
+    form { max-width: 500px; }
+  }
+  .footer__anschrift {
+    margin-top: 0;
+
+    p:first-of-type { margin-top: 0; }
+  }
+  
+}
+
+.footer__legal {
+  font-size: .7rem;
+  margin-top: 20px;
+  
+  a { text-decoration: none; }
+}
