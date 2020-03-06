@@ -126,6 +126,7 @@ block_type:
   - frage_mit_datum
 
 # Build settings
+theme: custom-theme
 markdown: kramdown
 sass:
   sass_dir: _sass
