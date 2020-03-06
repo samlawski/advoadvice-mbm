@@ -5,10 +5,10 @@
   "main": "/assets/_app.js",
   "scripts": {
     "setup": "npm install; bundle install",
-    "dev": "(parcel assets/_js/main.js --out-dir assets/dist --public-url .) & jekyll serve",
+    "dev": "(parcel _custom-theme/_js/main.js --out-dir _custom-theme/assets/dist --public-url .) & jekyll serve",
     "build": "npm run build-assets; jekyll build",
-    "dev-assets": "parcel assets/_js/main.js --out-dir assets/dist --public-url .",
-    "build-assets": "parcel build assets/_js/main.js --out-dir assets/dist --public-url ."
+    "dev-assets": "parcel _custom-theme/_js/main.js --out-dir _custom-theme/assets/dist --public-url .",
+    "build-assets": "parcel build _custom-theme/_js/main.js --out-dir _custom-theme/assets/dist --public-url ."
   },
   "repository": {
     "type": "git",
