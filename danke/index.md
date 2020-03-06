@@ -8,4 +8,5 @@ intro_markdown: Wir werden uns so bald wie möglich mit Ihnen in Verbindung setz
 intro_cta_text: Zurück zur Hauptseite
 intro_cta_link: "/"
 sitemap: false
+permalink: '/danke/'
 ---
