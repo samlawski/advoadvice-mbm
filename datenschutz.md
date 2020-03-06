@@ -7,6 +7,7 @@ intro_zeigen: true
 intro_markdown: Sie interessieren sich für Datenschutz? Gerne beraten wir Sie oder helfen Ihnen beim Schreiben Ihrer eigenen Datenschutzbestimmungen.
 intro_cta_text: Kostenloses Gespräch
 intro_cta_link: "#kontakt"
+permalink: '/datenschut/'
 ---
 
 ### 1\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie des betrieblichen Datenschutzbeauftragten
