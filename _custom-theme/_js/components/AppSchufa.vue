@@ -292,7 +292,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../../../_sass/_constants.scss';
+@import '../../_sass/_constants.scss';
 
 // Layout
 

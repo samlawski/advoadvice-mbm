@@ -6,6 +6,12 @@ GIT
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
 
+PATH
+  remote: _custom-theme
+  specs:
+    custom-theme (0.1.0)
+      jekyll (~> 4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -77,6 +83,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  custom-theme!
   jekyll (~> 4)
   jekyll-autoprefixer
   jekyll-paginate
