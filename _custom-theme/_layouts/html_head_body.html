@@ -40,7 +40,7 @@
     <!-- PWA -->
     <script>
       if (("serviceWorker" in navigator) && !navigator.serviceWorker.controller) {
-        navigator.serviceWorker.register("{{ site.url }}/serviceworker.js", { scope: "./" })
+        navigator.serviceWorker.register("{{ site.customurl }}/serviceworker.js", { scope: "./" })
       }
     </script>
     <!-- Matomo -->
