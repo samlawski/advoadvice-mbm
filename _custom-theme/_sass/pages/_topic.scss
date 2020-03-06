@@ -1,0 +1,69 @@
+/*
+- Header
+- header nav
+- erfolge
+- intro
+*/
+
+.page__topic {
+  // Header
+  header {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    color: $clr-bg;
+
+    display: flex;
+    align-items: center;
+  }
+
+  nav {
+    background-color: $clr-bg;
+
+    display: inline-block;
+    margin-top: -80px;
+
+    box-shadow: $shadow;
+    // padding: 20px 40px; 
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    a {
+      padding: 5px 40px;
+      display: block;
+      
+      transition: background-color $transition-time-1;
+      &:hover {
+        background-color: $clr-transparent-bl-1;
+      }
+    }
+  }
+
+  .erfolge {
+    text-align: center;
+    margin-top: 40px;
+  }
+  @media(min-width: $media-sm){
+    .erfolge { margin-top: 0; }
+    .erfolge__boxen {
+      display: flex;
+  
+      &>* { flex: 1; }
+    }
+  }
+
+  .intro {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+
+    a {
+      margin-top: 20px;
+      display: inline-block;
+    }
+  }
+}

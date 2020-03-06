@@ -1,0 +1,105 @@
+/*
+- 
+*/
+
+.page__post {
+  // Header
+  &>header {
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+
+    @media(min-width: $media-md){
+      height: 400px;
+    }
+  }
+
+  // Content
+  article>header h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .post__authordate {
+    margin-bottom: 40px;
+    color: $clr-transparent-bl-7;
+    text-align: center;
+    font-size: .8rem;
+  }
+  .post__content {
+    word-wrap: break-word;
+    
+    img {
+      margin: auto;
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+
+
+  // Footer
+  .post__author {
+    margin: 40px 0; 
+    padding: 20px 0;
+    border-top: 1px solid $clr-transparent-bl-3;
+    border-bottom: 1px solid $clr-transparent-bl-3;
+
+    display: flex; 
+  }
+
+  .post__author__img {
+    height: 90px; 
+    width: 60px;
+    background-position: center;
+    background-size: cover;
+
+    position: relative;
+
+    margin-right: 20px;
+    flex-shrink: 0;
+  }
+  .post__author__img__frame {
+    position: absolute;
+    z-index: -1;
+
+    background-color: $clr-primary;
+    bottom: 5px;
+    left: -5px;
+    right: 5px;
+    top: -5px;
+  }
+
+  .post__author__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+
+  // Presse
+
+  .post__presse {
+    padding-top: 40px;
+    background-color: $clr-transparent-bl-1;
+
+    .presse__logos {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+
+      a {
+        flex: 1 1 33%;
+        text-align: center;
+        text-decoration: none;
+        padding: 20px;
+      }
+
+      img {
+        max-width: 100%;
+        width: 180px;
+        margin: auto;
+      }
+    }
+  }
+}
