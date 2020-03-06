@@ -145,6 +145,7 @@ exclude:
   - .gitignore
   - .ruby-version
   - .babelrc
+  - separate-seiten
 
 # Plugin Settings
 plugins:
