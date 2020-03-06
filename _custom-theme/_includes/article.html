@@ -1,0 +1,22 @@
+<article style="background-image: url('{{ include.article.feature_bild_path | prepend: site.url }}')">
+  <a class="article__link" href="{{ include.article.url | prepend: site.url }}">
+    <h3 class="article__title">{{include.article.title}}</h3>
+
+    <p class="article__description">
+      {% if include.article.description %}
+        {{include.article.description | strip_html | truncatewords: 40}}
+      {% else %}
+        {{include.article.content | strip_html | truncatewords: 40}}
+      {% endif %}
+    </p>
+
+    <div class="article__topics">
+      {% for topic in include.article.topics %}
+        <small>{{topic}}</small>
+        {% unless forloop.last %}
+          <span>&nbsp;&#183&nbsp;</span>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </a>
+</article>

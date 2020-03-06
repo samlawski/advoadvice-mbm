@@ -1,0 +1,369 @@
+/*
+- Header
+- Themen
+- Kontakt 1
+- Anwälte
+- Referenzen & Presse
+- Ablauf
+- Formulare
+*/
+
+.page__home {
+
+  // Header
+
+  &>header {
+    @media(min-width: $media-sm){
+      display: flex;
+      align-items: center;
+
+      margin-top: 80px;
+      margin-bottom: 80px;
+    }
+    @media(min-width: $media-md){
+      margin-top: 100px;
+      margin-bottom: 100px;
+    }
+  }
+
+  .header__text {
+    background-color: $clr-transparent-wh-7;
+    margin-right: 20vw;
+
+    h1 {
+      margin-top: 60px;
+      margin-bottom: 40px;
+    }
+    h3 { 
+      padding: 20px;
+    }
+
+    @media(min-width: $media-sm){
+      margin-right: -5vw;
+
+      flex: 1;
+
+      h1 { margin-top: 30px; }
+      h3 { padding: 0; }
+    }
+  }
+
+  .header__cta {
+    display: inline-block;
+    margin: 0 0 20px 20px;
+
+    @media(min-width: $media-sm){
+      margin: 20px 0;
+    }
+  }
+
+  .header__image {
+    position: relative;
+    margin: -75px -20px 0;
+    z-index: -1;
+
+    img {
+      width: 100%;
+    }
+
+    @media(min-width: $media-sm){
+      margin: auto; 
+
+      flex: 1;
+    }
+  }
+
+
+  // Themen 
+
+
+  .themen {
+    text-align: center;
+
+    a {
+      color: $clr-text;
+      text-decoration: none;
+    }
+  }
+  .themen__title {
+    margin: 40px 0 20px;
+  }
+  .themen__haupt {
+    @media(min-width: $media-md){
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+  .themen__block {
+    text-align: center; 
+    display: block;
+    padding: 0 $spacing-1 $spacing-1;
+
+    transition: box-shadow $transition-time-1;
+    &:hover {
+      cursor: pointer;
+      box-shadow: $shadow;
+    }
+    
+    img {
+      margin-top: 20px;
+      height: 80px;
+    }
+
+    @media(min-width: $media-md){
+      flex: 1 0 50%;
+    }
+    @media(min-width: $media-lg){
+      flex-basis: 25%;
+    }
+  }
+  .themen__neben {
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+    h3 { 
+      margin-bottom: 30px;
+
+      @media(min-width: $media-md){
+        display: inline-block; 
+        padding: 0 10px;
+      }
+    }
+  }
+
+
+  // Kontakt 1
+
+
+  .kontakt--1 {
+    background-color: $clr-primary;
+    color: $clr-bg;
+
+    padding: 20px 0 40px;   
+    
+    a { color: $clr-secondary; }
+
+    .kontakt__portrait {
+      border-radius: 50%;
+      height: 80px;
+      float: left;
+      margin-right: 20px;
+      margin-bottoM: 20px;
+    }
+    p.h4 {
+      margin-bottom: 0;
+    }
+
+    input, button, textarea {
+      border-color: $clr-bg;
+      color: $clr-bg; 
+
+      &[disabled],
+      &[disabled]:hover {
+        border-color: $clr-transparent-wh-7;
+        color: $clr-transparent-wh-7;
+      }
+    }
+
+    [type="text"], [type="email"], [type="tel"],
+    textarea {
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    input::placeholder, textarea::placeholder {
+      color: $clr-transparent-wh-7;
+    }
+    label {
+      display: block;
+    }
+    button {
+      margin-top: 30px;
+    }
+    button:hover {
+      background-color: $clr-bg;
+      color: $clr-text; 
+    }
+
+    .kontakt__text--2,
+    .kontakt__inputs {
+      clear: both;
+    }
+
+    .kontakt__error {
+      color: tomato;
+      margin-top: 20px;
+    }
+
+    @media(min-width: $media-sm){
+      .kontakt__text--2 {
+        clear: initial;
+        margin-top: 0;
+      }
+      [type="email"], [type="tel"] {
+        display: inline-block;
+        width: 49%;
+      }
+
+      form {
+        margin-top: 40px;
+      }
+    }
+    @media(min-width: $media-md){
+      .kontakt__inputs {
+        display: flex;
+
+        input { flex: 1; }
+        input:first-of-type {
+          margin-right: 20px;
+        }
+        input:last-of-type {
+          margin-left: 20px;
+        }
+      }
+    }
+    
+  }
+
+
+  // Anwälte
+
+  .anwaelte__title {
+    margin: 40px 0 60px;
+    text-align: center;
+  }
+
+  @media(min-width: $media-sm){
+    .anwaelte {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+
+  .anwalt {
+    padding: 0 20px 40px;
+
+    @media(min-width: $media-sm){
+      flex: 1 0 50%;
+    }
+    
+    @media(min-width: $media-lg){
+      flex: 1 0 25%;
+
+      &:nth-of-type(even) {
+        .anwalt__spacer {
+          height: 80px;
+        }
+      }
+    }
+  }
+
+  .anwalt__portrait {
+    height: 330px; 
+    width: 205px;
+    margin: auto;
+    background-position: center;
+    background-size: cover;
+
+    position: relative;
+  }
+  .anwalt__portrait__frame {
+    position: absolute;
+    z-index: -1;
+
+    background-color: $clr-primary;
+    bottom: 15px;
+    left: -15px;
+    right: 15px;
+    top: -15px;
+
+    transition: transform $transition-time-2 ease-in;
+  }
+  .anwalt__portrait:hover .anwalt__portrait__frame {
+    transform: scale(1.05);
+  }
+  .anwalt:nth-of-type(even) .anwalt__portrait__frame{
+    background-color: $clr-secondary;
+    bottom: -10px;
+    left: 15px;
+    right: -15px;
+    top: 15px;
+  }
+  .anwalt__text {
+    max-width: 230px;
+    margin: auto;
+
+    h4 {margin-bottom: 0;}
+    p {margin-top: 0;}
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  // Ablauf
+  
+  .ablauf {
+    background-color: $clr-transparent-bl-1;
+
+    margin-top: 40px;
+    padding: 60px 60px;
+
+    footer {
+      text-align: center;
+      padding-top: 20px;
+    }
+  }
+  .ablauf__title {
+    text-align: center;
+  }
+
+  .ablauf__item {
+    margin-bottom: 10px;
+    text-align: center;
+
+    @media(min-width: $media-md){
+      text-align: left;
+      display: flex;
+      align-items: center;
+    }
+  }
+  .ablauf__number {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 2px solid $clr-text;
+    font-weight: 700;
+    text-align: center;
+
+    @media(min-width: $media-md){
+      flex-shrink: 0;
+      margin-right: 40px;
+    }
+  }
+
+
+  // Formulare
+
+
+  .formulare {
+    background-color: $clr-transparent-bl-1;
+    padding: 20px;
+    border-top: 1px solid $clr-transparent-bl-3;
+    margin-bottom: 60px;
+  }
+  .formulare__link { text-align: center; }
+
+  #formulare:not(:target) {
+    opacity: 0;
+    visibility: hidden;
+  }
+  #formulare:target {
+    opacity: 1;
+    visibility: visible;
+  }
+
+}
+

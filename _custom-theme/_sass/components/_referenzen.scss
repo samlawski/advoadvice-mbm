@@ -1,0 +1,52 @@
+// Referenzen & Presse 
+
+
+.referenzen {
+  padding: $spacing-1;
+  
+  a { padding: 10px; }
+  img {
+    margin-bottom: 40px;
+  }
+
+  @media(min-width: $media-md){
+    display: flex;
+  }
+}
+.referenzen__ratings,
+.referenzen__news {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.referenzen__ratings {
+  img {
+    width: 190px;
+  }
+
+  @media(min-width: $media-md){
+    flex-grow: 1;
+  }
+}
+.referenzen__news {
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+
+  @media(min-width: $media-md){
+    padding-left: 20px;
+
+    border-top: none;
+    border-left: 1px solid #ccc;
+  }
+
+  img {
+    width: 80px;
+    
+    filter: grayscale(100%);
+
+    &:hover {
+      filter: grayscale(60%);
+    }
+  }
+}
