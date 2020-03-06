@@ -1,0 +1,52 @@
+- name: Dr. Sven Tintemann
+  titel: Gr&uuml;ndungspartner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
+  portrait_path: /uploads/0-layout/portrait-tintemann-1.jpg
+  email: tintemann@advoadvice.de
+  themes:
+    - titel: Versicherungsrecht
+      link: https://advoadvice.de/themen/versicherung
+    - titel: Insolvenzrecht
+      link: https://advoadvice.de/themen/insolvenz
+    - titel: Prospekterstellung
+      link: >-
+        https://advoadvice.de/themen/bank-und-kapitalmarkt
+    - titel: Bankrecht
+      link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
+    - titel: Schufarecht
+      link: https://advoadvice.de/themen/schufa-und-datenschutz
+    - titel: Kapitalmarktrecht
+      link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
+  reihenfolge: 1
+- name: Kim Oliver Klevenhagen
+  titel: Gr&uuml;ndungspartner Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
+  portrait_path: /uploads/0-layout/portrait-klevenhagen-1.jpg
+  email: klevenhagen@advoadvice.de
+  themes:
+    - titel: Immobilienrecht
+      link: >-
+        https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
+    - titel: Privates Baurecht
+      link:
+    - titel: Steuersparmodelle
+      link: >-
+        https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
+    - titel: Darlehenswiderruf
+      link: >-
+        https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
+    - titel: Anwalts- und Notarhaftung
+      link:
+  reihenfolge: 2
+- name: Dr. Raphael Rohrmoser
+  titel: Rechtsreferendar
+  portrait_path: /uploads/0-layout/portrait-rohrmoser-1.jpg
+  email: rohrmoser@advoadvice.de
+  themes:
+    - titel: Schufa-Recht
+      link: https://advoadvice.de/themen/schufa-und-datenschutz/
+    - titel: Datenschutz
+      link: https://advoadvice.de/themen/schufa-und-datenschutz/
+    - titel: DSGVO
+      link:
+    - titel: IT-Recht
+      link:
+  reihenfolge: 3
