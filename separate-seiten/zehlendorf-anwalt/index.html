@@ -129,7 +129,7 @@ ablauf:
       </p>
   
       <div class="anwaelte">
-        {% assign members = site.authors | sort: 'reihenfolge' %}
+        {% assign members = site.data.anwaelte | sort: 'reihenfolge' %}
         {% assign members_size = members | size %}
         {% for member in members %}
           <div class="anwalt">
