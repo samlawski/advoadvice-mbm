@@ -1,4 +1,169 @@
+# Site & Meta Details (Fallback)
+title: Rechtsanwälte AdvoAdvice
+title_short: AdvoAdvice
+description: Rechtsanwälte mit langjähriger Erfahrung mit Immobilienrecht, Bank- und Kapitalmarktrecht, Schufa- und Datenschutzrecht.
+keywords: Berlin, Zehlendorf, Anwälte, AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
+logo: /uploads/0-layout/logo-compact.png
+color: '#244c5a'
+
+lang: de_DE
+email: info@advoadvice.com
+url: "https://advoadvice.de" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Defaults
+defaults:
+  - scope:
+      path: ''
+      # type: ''
+    values:
+      _options:
+        layout:
+          hidden: true
+        style_id:
+          hidden: true
+        # sitemap: 
+        #   hidden: true
+      _comments:
+        title: Der Titel ist wichtig für SEO, sollte für jede Seite anders und 40 - 65 Zeichen lang sein.
+        description: Die kurze Beschreibung ist wichtig für SEO und ist idealerweise 100 - 156 Zeichen lang. 
+        presse_logos: Nur die ersten 6 Logos werden tatsächlich angezeigt. Jedes Logo sollte ein Link zum Artikel und ein kurzen Text zum Bild haben.
+        redirect_from: Für SEO. Hier können URLs eingegeben werden, von (!) denen zu dieser Seite weitergeleitet werden sollen.
+        redirect_to: Wenn diese Seite nicht erreichbar sein soll und woanders hin weiterleiten sollte, kann die Weiterleitungs-URL hier eingefügt werden.
+        feature_bild_path: Dieses Bild ist optional. Es wird beim Artikel ganz oben groß dargestellt. Also sollte es als großes Bild idealerweise funktionieren.
+        sitemap: Wenn dieses Häkchen nicht gesetzt ist, wird die Seite bei Google nicht indexiert.
+      _array_structures:
+        erfolge:
+          values:
+            - label: Erfolg
+              description: Die Zahl wird groß angezeigt. Darunter ein kleiner, möglichst kurzer Text (1-3 Worte maximal)
+              icon: emoji_events
+              value:
+                zahl:
+                text:
+        abschnitte:
+          values:
+            - label: Abschnitte
+              description: Abschnitte sind größere Blöcke auf der Seite. Jeder Block hat ein template, das man auswählen kann. Titel, Text und Bild sind jeweils optional. 
+              icon: art_track
+              value:
+                abschnitt_template: weiss_bild_links
+                titel:
+                text_markdown:
+                image:
+                cta: true
+        fragen:
+          values:
+            - label: Vorabcheck Fragen
+              description: Fragen brauchen eine einzigartige ID, um bei der Auswertung zugeordnet werden zu können.
+              value:
+                block_id: 
+                block_type: frage_mit_auswahl
+                text:
+                erforderlich: true
+                optionen:
+                  - Ja
+                  - Nein
+                  - Weiß ich nicht
+                folge_bloecke:
+        auswertungen:
+          values:
+            - label: Auswertungen 
+              description: Auswertungen der vorherigen Fragen, wenn die Bedingung für die Fragen mit der gegebenen ID zutreffen.
+              value: 
+                bedingungen_alle_erfuellt:
+                bedingungen_eins_erfuellt:
+                text_html: 
+                erlaube_kontakt: true
+        folge_bloecke:
+          values:
+            - label: Folge-Fragen/Blöcke
+              description: Hier kann definiert werden, welche Folgefragen (anhand ihrer ID) hinzugefügt werden, wenn der Nutzer hier eine bestimmte Antwort gibt
+              value: 
+                antwort_ist: ["Ja"]
+                block_ids: ["hier_id_eintragen"]
+        bedingungen_alle_erfuellt:
+          values:
+            - label: Bedingungen - alle erfüllt
+              description: Wenn diese Bedingungen aller erfüllt sind, erscheint der folgende Text
+              value: 
+                block_id: "id_des_frage_blocks"
+                antwort_ist: Ja
+        bedingungen_eins_erfuellt:
+          values:
+            - label: Bedingungen - eine erfüllt
+              description: Wenn wenigstens eine dieser Bedingungen erfüllt ist, erscheint der folgende Text
+              value: 
+                block_id: "id_des_frage_blocks"
+                antwort_ist: Ja
+      
+# CloudCannon
+abschnitt_templates:
+  - weiss_bild_links
+  - banner_bild_rechts
+  - box_hell
+  - box_dunkel
+  - grafik_volle_breite
+block_type:
+  - frage_mit_auswahl
+  - frage_mit_text
+  - frage_mit_datum
+
+# Build settings
 theme: custom-theme
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+include:
+  - _redirects # Netlify Redirects
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - siteicon.png
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - .cache
+  - .gitignore
+  - .ruby-version
+  - .babelrc
+
+# Plugin Settings
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-autoprefixer
+  - jekyll-redirect-from
+
+paginate: 12
+paginate_path: "/blog/page-:num/"
+seo_paginator_message: "Blog Seite %{current} von %{total} | "
+
+autoprefixer:
+  browsers:
+    - "last 2 versions"
+    - "IE > 9"
+
+# Extra Data / Collections
+
+collections:
+  authors:
+    output: false
+    _hide_content: true
+  topics:
+    output: true
+    _hide_content: true
+    permalink: /themen/:path/
+  landing_pages:
+    output: true
+    _hide_content: true
+    permalink: /anwalt-fuer/:path/
+  posts:
+    permalink: /blog/:title/
+
 data: 
   presse_logos: 
     - logo_path: /uploads/0-layout/presse-zeit.png
@@ -19,3 +184,4 @@ data:
     - logo_path: /uploads/0-layout/presse-anwaltsblatt.jpg
       link: /blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/
       logo_seo_text: Presselogo Berliner Anwaltsblatt
+      
