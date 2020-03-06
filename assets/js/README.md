@@ -1,1 +1,0 @@
-This JavaScript code is executed on all pages of the website. All JavaScript should be supported by most browsers (even old ones).
