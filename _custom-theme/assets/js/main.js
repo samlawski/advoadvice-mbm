@@ -364,6 +364,9 @@ var crmForm = (function(){
     var $sendBtn            = $form.querySelector('.kontakt__send'),
         $crmScriptContainer = document.querySelector('#crm_script_container')
 
+    // Analytics:
+    _paq.push(['trackEvent', 'Kontaktformular', 'Klick: Cookies erlauben', 'erlaubt'])
+
     // Show loading spinner on "send" button
     _loadingSendBtn($sendBtn)
 
