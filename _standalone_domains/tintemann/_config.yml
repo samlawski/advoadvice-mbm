@@ -1,31 +1,15 @@
 # Site & Meta Details (Fallback)
-title: AdvoAdvice Anwälte
-title_short: AdvoAdvice
-description: Kompetente Rechtsberatung von erfahrenen Rechtsanwälten für Ihren Erfolg
-keywords: AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
+title: Dr. Sven Tintemann Rechtsanwalt
+title_short: Dr. Sven Tintemann
+description: Ihr Fachanwalt mit Erfahrung und hoher Erfolgsquote mit Scherpunkten in Schufarecht, Insolvenzrecht, Bank- und Kapitalmarktrecht.
+keywords: Berlin, Zehlendorf, Anwälte, AdvoAdvice, Rechtsanwälte, Berlin, Partnerschaft, Rechtsberatung, Tintemann, Klevenhagen, Bankrecht, Kapitalmarktrecht, Datenschutz, Verbraucherschutz, Schufa-Recht, Immobilienrecht, Kreditrecht
 logo: /uploads/0-layout/logo-compact.png
 color: '#244c5a'
 
 lang: de_DE
 email: info@advoadvice.com
 url: "https://advoadvice.de" # the URL to the main site hosting all assets
-customurl: "https://advoadvice.de" # the URL the user sees in the browser. 
-
-# Collection Settings
-collections:
-  authors:
-    output: false
-    _hide_content: true
-  topics:
-    output: true
-    _hide_content: true
-    permalink: /themen/:path/
-  landing_pages:
-    output: true
-    _hide_content: true
-    permalink: /anwalt-fuer/:path/
-  posts:
-    permalink: /blog/:title/
+customurl: "https://tintemann.de" # the URL the user sees in the browser. 
 
 # Defaults
 defaults:
@@ -153,14 +137,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-autoprefixer
   - jekyll-redirect-from
-  # - jekyll-compress-images # activate periodically to compress all images
-  # - jekyll/tagging
-  # - jekyll-tagging-related_posts
-
-  # Custom plugins in _plugins folder are: 
-  # - related_with_tags: filter used to display 3 posts related to the given one
-  # - related_with_topics: filter used to display 3 posts related to the given one
-  # - strip_fill_words: remove words not relevant for search from the text to reduce file size
 
 paginate: 12
 paginate_path: "/blog/page-:num/"
@@ -170,8 +146,42 @@ autoprefixer:
   browsers:
     - "last 2 versions"
     - "IE > 9"
-# compress_images:
-#   images_path: "uploads/**/*.{gif,png,jpg,jpeg,svg}"
-# imageoptim:
-#   svgo: false
-#   verbose: false
+
+# Extra Data / Collections
+
+collections:
+  authors:
+    output: false
+    _hide_content: true
+  topics:
+    output: true
+    _hide_content: true
+    permalink: /themen/:path/
+  landing_pages:
+    output: true
+    _hide_content: true
+    permalink: /anwalt-fuer/:path/
+  posts:
+    permalink: /blog/:title/
+
+data: 
+  presse_logos: 
+    - logo_path: /uploads/0-layout/presse-zeit.png
+      link: /blog/unsere-experten-in-der-presse-zeit-online-schufa-und-identitätsdiebstahl/
+      logo_seo_text: Presselogo Zeit Online
+    - logo_path: /uploads/0-layout/presse-handelsblatt.png
+      link: /blog/unsere-experten-in-der-presse-dr-tintemann-zu-thomas-lloyd-im-handelsblatt/
+      logo_seo_text: Presselogo Handelsblatt
+    - logo_path: /uploads/0-layout/presse-capital.png
+      link: /blog/experten-in-der-presse-zitat-von-dr-tintemann-in-sachen-deutsche-öl-und-gas-s-a/
+      logo_seo_text: Presselogo Capital
+    - logo_path: /uploads/0-layout/presse-bild.png
+      link: /blog/unsere-experten-in-der-presse-bild-zeitung-bild-telefon-aktion-immobilien/
+      logo_seo_text: Presselogo Bild Zeitung
+    - logo_path: /uploads/0-layout/presse-immozeitung.png
+      link: /blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/
+      logo_seo_text: Presselogo Immobilienzeitung
+    - logo_path: /uploads/0-layout/presse-anwaltsblatt.jpg
+      link: /blog/unsere-experten-in-der-presse-dr-tintemann-im-berliner-anwaltsblatt/
+      logo_seo_text: Presselogo Berliner Anwaltsblatt
+      
