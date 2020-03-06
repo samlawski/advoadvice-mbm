@@ -12,4 +12,5 @@ intro_markdown: >-
 intro_cta_text: Jetzt anrufen
 intro_cta_link: "tel:00493092100040"
 sitemap: false
+permalink: '/offline/'
 ---
