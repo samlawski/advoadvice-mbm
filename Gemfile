@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4'
 
+gem "custom-theme", path: "_custom-theme"
+
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
