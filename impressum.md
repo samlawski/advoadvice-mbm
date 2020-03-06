@@ -7,6 +7,7 @@ intro_zeigen: true
 intro_markdown: Melden Sie sich gerne bei uns kostenlos und unverbindlich.
 intro_cta_text: Kontakt Aufnehmen
 intro_cta_link: "#kontakt"
+permalink: '/impressum/'
 ---
 
 ### Dienstanbieter:

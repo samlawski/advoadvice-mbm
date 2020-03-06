@@ -15,4 +15,5 @@ intro_markdown: >-
 intro_cta_text: Zurück zur Hauptseite
 intro_cta_link: "/"
 sitemap: false
+permalink: '/danke/vorab-check/'
 ---
