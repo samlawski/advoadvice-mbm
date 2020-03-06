@@ -1,12 +1,12 @@
 ---
-title: >-
-  Spar- und Kreditbank Hardt eG zahlt 25.000 Euro Schadensersatz nach
-  fehlerhaftem SCHUFA-Eintrag
-date:
-description:
+title: Bank zahlt Schadensersatz nach fehlerhaftem SCHUFA-Eintrag
+date: 2020-03-06 00:00:00
+description: >-
+  Spar- und Kreditbank Hardt eG zahlt an Kunden 25.000 Euro als Vergleich nach
+  Problemen mit Schufa-Eintrag.
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/euro-163475-640-1.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
@@ -29,7 +29,7 @@ Die Spar- und Kreditbank Hardt eG hat sich nach einem langwierigen Klageverfahre
 
 Der Mandant der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten stellte im Jahr 2015 bei der Spar- und Kreditbank Hardt eG eine Immobiliar-Darlehensanfrage. Der Betroffene wollte ein Mehrfamilienhaus erwerben, welches zu einem Betrag von 950.000,00 Euro kreditfinanziert werden sollte. Aufgrund unterschiedlicher Ansichten über die Darlehenskonditionen kam ein Darlehensvertrag letztlich aber nicht zustande. Dennoch meldete die Spar- und Kreditbank Hardt eG einen abgeschlossenen Darlehensvertrag über 950.000,00 Euro in den SCHUFA-Datenbestand ein.&nbsp;
 
-Der Karlsruher forderte die Spar- und Kreditbank Hard eG in der Folge zur Löschung des Eintrages auf, da ihn dies bei der Kreditaufnahme behindere. Statt einer Löschung veranlasste die Bank jedoch nur eine Erledigungsmeldung an die SCHUFA Holding AG. In der Zwischenzeit stellte der Betroffene eine Darlehensanfrage bei einem anderen Kreditunternehmen. Dort wurde ihm ein Darlehen mit guten Konditionen aufgrund des bereits eingetragenen Darlehens jedoch verwehrt. Letztlich musste der Mandant der Rechtsanwälte AdvoAdvice ein Darlehen aufnehmen, welches deutlich teurer verzinst war, als das eigentlich anvisierte Darlehen.
+Der Karlsruher forderte die Spar- und Kreditbank Hardt eG in der Folge zur Löschung des Eintrages auf, da ihn dies bei der Kreditaufnahme behindere. Statt einer Löschung veranlasste die Bank jedoch nur eine Erledigungsmeldung an die SCHUFA Holding AG. In der Zwischenzeit stellte der Betroffene eine Darlehensanfrage bei einem anderen Kreditunternehmen. Dort wurde ihm ein Darlehen mit guten Konditionen aufgrund des bereits eingetragenen Darlehens jedoch verwehrt. Letztlich musste der Mandant der Rechtsanwälte AdvoAdvice ein Darlehen aufnehmen, welches deutlich teurer verzinst war, als das eigentlich anvisierte Darlehen.
 
 In der Folge beauftragte der Karlsruher Unternehmer die Rechtsanwälte AdvoAdvice in Berlin mit der Wahrnehmung seiner Interessen. Diese machten den entstandenen Zinsschaden zunächst au&szlig;ergerichtlich und mit Klage vom 28.12.2018 sodann gerichtlich geltend. Nach über einem Jahr und mehreren Gerichtsterminen einigte sich die Parteien schlie&szlig;lich auf einen Vergleich, wonach die Bank 25.000,00 Euro zahlte und die weitere Zusammenarbeit einvernehmlich beendet wurde.
 
