@@ -1,0 +1,55 @@
+/*
+- Header
+- Artikel
+*/
+
+.page__blog {
+  // Header
+  &>header {
+    text-align: center;
+  }
+  .suche {
+    margin: auto; 
+    width: 100%;
+    max-width: 300px;
+  }
+  .suche__suggestions {
+    margin-top: 10px;
+    font-size: .8rem;
+  }
+
+  // Artikel
+  main {
+    margin-top: 60px;
+  }
+
+  .blog__h {
+    text-align: center;
+
+    margin-bottom: 40px;
+  }
+
+  .pager {
+    list-style: none;
+    padding: 0;
+
+    text-align: center;
+
+    li { display: inline-block; }
+
+    a {
+      padding: 10px;
+      font-size: .8rem;
+    }
+  }
+
+  // Search
+  .wrapper--articles,
+  .wrapper--search {
+    display: none; 
+
+    &.active {
+      display: block;
+    }
+  }
+}
