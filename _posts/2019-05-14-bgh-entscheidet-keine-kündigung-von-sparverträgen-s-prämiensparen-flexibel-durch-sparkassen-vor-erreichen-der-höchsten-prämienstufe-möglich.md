@@ -54,6 +54,6 @@ Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht Kim Oliver Klev
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen. Dann k&ouml;nnen wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem f&uuml;r Sie wirtschaftlich sinnvoll w&auml;re.
 
-Weitere Informationen finden Sie auch in unserem [**Themenbereich Bank- und Kapitalmarktrecht.**](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/)
+Weitere Informationen finden Sie auch in unserem [**Themenbereich Bank- und Kapitalmarktrecht.**](https://advoadvice.de/themen/bank-und-kapitalmarkt/)
 
 Informationen und Kontaktformulare finden Sie im Bereich ”Formulare - Download”. Wenden Sie sich auch gerne per Email an uns oder rufen Sie einfach an unter der Rufnummer 030 921 000 40 erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.&nbsp;
