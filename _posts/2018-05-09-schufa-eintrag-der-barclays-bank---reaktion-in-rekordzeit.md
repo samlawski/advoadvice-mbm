@@ -44,4 +44,4 @@ Der zust&auml;ndige Schufa-Experte Dr. Sven Tintemann erl&auml;uterte dazu: "Ein
 
 ### Fazit
 
-Manchmal k&ouml;nnen unrechtm&auml;&szlig;ige Zust&auml;nde erfreulich schnell wieder beseitigt werden. Auch wenn man aus der zetilichen Komponente keine gr&ouml;&szlig;eren Schlussfolgerung ziehen kann, rentiert es sich dennoch, einen negativen Schufa Eintrag umgehend zu bearbeiten. Falls Sie Hilfe bei der Bek&auml;mpfung eines negativen Schufa Eintrages ben&ouml;tigen, k&ouml;nnen Sie uns gerne unseren [Schufa-Vorab-Check ](http://advoadvice.de/schufa-beratung)nutzen.
+Manchmal k&ouml;nnen unrechtm&auml;&szlig;ige Zust&auml;nde erfreulich schnell wieder beseitigt werden. Auch wenn man aus der zetilichen Komponente keine gr&ouml;&szlig;eren Schlussfolgerung ziehen kann, rentiert es sich dennoch, einen negativen Schufa Eintrag umgehend zu bearbeiten. Falls Sie Hilfe bei der Bek&auml;mpfung eines negativen Schufa Eintrages ben&ouml;tigen, k&ouml;nnen Sie uns gerne unseren [Schufa-Vorab-Check ](https://advoadvice.de/schufa-beratung)nutzen.

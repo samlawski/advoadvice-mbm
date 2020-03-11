@@ -22,7 +22,7 @@ author: dr-sven-tintemann
 ---
 
 
-In den letzten beiden Jahren kam es zu vielfachen Schufa Einträgen durch die Synergie Inkasso GmbH. Bereits vor einem Jahr [berichteten wir](http://advoadvice.de/blog/schufa-recht-erneuter-au%C3%9Fergerichtlicher-erfolg-gegen-synergie-inkasso-gmbh/) von einem Mann aus Hessen, zu dessen Lasten ein negativer Eintrag lanciert wurde. Selbiger Mann wandte sich kurz vor dem Jahreswechsel im Jahr 2018 erneut an die Kanzlei AdvoAdvice Rechtsanwälte mbB. Schockiert musste er feststellen, dass die Synergie Inkasso GmbH erneut einen negativen Eintrag bei der Schufa Holding AG in Wiesbaden vorgenommen hat.
+In den letzten beiden Jahren kam es zu vielfachen Schufa Einträgen durch die Synergie Inkasso GmbH. Bereits vor einem Jahr [berichteten wir](https://advoadvice.de/blog/schufa-recht-erneuter-au%C3%9Fergerichtlicher-erfolg-gegen-synergie-inkasso-gmbh/) von einem Mann aus Hessen, zu dessen Lasten ein negativer Eintrag lanciert wurde. Selbiger Mann wandte sich kurz vor dem Jahreswechsel im Jahr 2018 erneut an die Kanzlei AdvoAdvice Rechtsanwälte mbB. Schockiert musste er feststellen, dass die Synergie Inkasso GmbH erneut einen negativen Eintrag bei der Schufa Holding AG in Wiesbaden vorgenommen hat.
 
 ### Handelte es sich um die gleiche Forderung?
 

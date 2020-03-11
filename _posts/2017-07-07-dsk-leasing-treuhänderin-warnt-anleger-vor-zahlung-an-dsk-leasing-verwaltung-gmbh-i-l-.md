@@ -50,7 +50,7 @@ Zudem wird den Anlegern noch der Rat erteilt, weder eine Zahlung an die Kompleme
 
 ### AdvoAdvice hatte schon l&auml;nger vor Zahlung und Vergleich gewarnt
 
-Der Inhalt des Schreibens best&auml;tigt die Rechtsanw&auml;lte der Kanzlei AdvoAdvice in deren bisheriger Rechtsauffassung, dass es keinen Sinn macht, sich mit der Gesellschaft zu einigen, ohne konkrete Informationen zur geltend gemachten Forderungsh&ouml;he und auch zum Ursprung der Forderung zu haben. Auf die [Pressemitteilung vom 23.05.2017](http://advoadvice.de/blog/dsk-leasing-sechs-dinge-die-dsk-leasing-anleger-jetzt-wissen-sollten/) und die [Pressemitteilung vom 20.04.2017](http://advoadvice.de/blog/dsk-leasing-anleger-sollen-r%C3%BCckst%C3%A4nde-einzahlen/) wird insoweit verwiesen.
+Der Inhalt des Schreibens best&auml;tigt die Rechtsanw&auml;lte der Kanzlei AdvoAdvice in deren bisheriger Rechtsauffassung, dass es keinen Sinn macht, sich mit der Gesellschaft zu einigen, ohne konkrete Informationen zur geltend gemachten Forderungsh&ouml;he und auch zum Ursprung der Forderung zu haben. Auf die [Pressemitteilung vom 23.05.2017](https://advoadvice.de/blog/dsk-leasing-sechs-dinge-die-dsk-leasing-anleger-jetzt-wissen-sollten/) und die [Pressemitteilung vom 20.04.2017](https://advoadvice.de/blog/dsk-leasing-anleger-sollen-r%C3%BCckst%C3%A4nde-einzahlen/) wird insoweit verwiesen.
 
 ### Viel Erfahrung in Sachen Rothmann und Cie. Gruppe
 
