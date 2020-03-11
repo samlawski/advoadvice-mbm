@@ -47,7 +47,6 @@ layout: default
       {% assign members_size = members | size %}
       {% for member in members %}
         <div class="anwalt">
-          {% if members_size < 5 %}<div class="anwalt__spacer"></div>{% endif %}
           <div class="anwalt__portrait" style="background-image:url({{ member.portrait_path }})">
             <div class="anwalt__portrait__frame"></div>
           </div>
