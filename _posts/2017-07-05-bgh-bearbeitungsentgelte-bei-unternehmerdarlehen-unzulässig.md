@@ -33,7 +33,7 @@ Die Angemessenheit eines laufzeitunabhängigen Bearbeitungsentgeltes könne auch
 
 Dr. Sven Tintemann, Partner bei AdvoAdvice in Berlin und Fachanwalt für Bank- und Kapitalmarktrecht kommentiert die Entscheidung des BGH wie folgt: "Die Entscheidung war wieder einmal mit Spannung erwartet worden, auch wenn bereits abzusehen war, dass der BGH wohl seiner Rechtsprechung in Sachen Bearbeitungsgebührenrückerstattung treu bleiben würde. Wieder einmal bestätigt sich, dass es sich lohnen kann, gegen Banken und Versicherer zu kämpfen."
 
-Der Experte Dr. Tintemann hatte bereits in einem [Blog-Eintrag vom 18.05.2017](http://advoadvice.de/blog/h%C3%A4lt-die-klausel-zur-einmaligen-bearbeitungsgeb%C3%BChr-der-inhaltskontrolle-stand-wichtiger-verhandlungstag-des-bgh-f%C3%BCr-unternehmer/) folgendes prognostiziert: "Aus unserer Sicht wird der BGH daher wohl auch die Bearbeitungsentgelte bei Unternehmerdarlehen kippen. Diese können dann ebenfalls, so bei bei Verbraucherdarlehensvertragen auch, zurückverlangt werden."
+Der Experte Dr. Tintemann hatte bereits in einem [Blog-Eintrag vom 18.05.2017](https://advoadvice.de/blog/h%C3%A4lt-die-klausel-zur-einmaligen-bearbeitungsgeb%C3%BChr-der-inhaltskontrolle-stand-wichtiger-verhandlungstag-des-bgh-f%C3%BCr-unternehmer/) folgendes prognostiziert: "Aus unserer Sicht wird der BGH daher wohl auch die Bearbeitungsentgelte bei Unternehmerdarlehen kippen. Diese können dann ebenfalls, so bei bei Verbraucherdarlehensvertragen auch, zurückverlangt werden."
 
 Unternehmen, die in Darlehensverträgen Bearbeitungsgebühren an ihre finanzierende Bank gezahlt haben, können diese nun zurück verlangen.
 
