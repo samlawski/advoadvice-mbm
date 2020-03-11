@@ -6,7 +6,7 @@
   - Catch and track all console errors
   - Navigation
   - Search (only on blog)
-  - reCaptcha Cookies - Contact Form
+  - Contact Form
   
 */
 
