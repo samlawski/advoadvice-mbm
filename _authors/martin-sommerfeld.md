@@ -24,6 +24,6 @@ themes:
   - titel: Falsche Berechnung von Dispozinsen
     link:
   - titel: Kapitalmarktrecht
-    link: 'https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht'
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt/#kapitalmarktrecht'
 reihenfolge: 3
 ---
