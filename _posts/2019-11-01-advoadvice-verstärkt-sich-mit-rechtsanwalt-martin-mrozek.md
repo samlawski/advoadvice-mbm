@@ -40,4 +40,4 @@ F&uuml;r AdvoAdvice wird er verst&auml;rkt in den folgenden Bereichen t&auml;tig
 * Zweckentfremdung von Wohnraum
 * Falsche Berechnung von Dispozinsen
 * [P](https://advoadvice.de/themen/schufa-und-datenschutz/)rospekthaftung
-* [Kapitalmarktrecht](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/#kapitalmarktrecht)
+* [Kapitalmarktrecht](https://advoadvice.de/themen/bank-und-kapitalmarkt/#kapitalmarktrecht)
