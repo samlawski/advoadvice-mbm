@@ -99,20 +99,6 @@ Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Ne
 
 Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” findest du unter[ ](https://www.netlify.com/privacy/)[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/).
 
-#### d) Verwendung von Google ReCaptcha
-
-Zum Schutz Ihrer Anfragen über unser Kontaktformular auf unserer Webseite www.advoadvice.de verwenden wir den Dienst ReCapcha des Unternehmens Google Inc. (Google). Die Abfrage soll sicherstellen, dass diese durch einen Menschen und nicht missbräuchlich durch eine automatisierte oder maschinelle Verarbeitung erfolgt.
-
-Die Abfrage schließt hierbei den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst ReCaptcha benötigter Daten an Google ein. Ihre Eingabe wird an Google übermittelt und dort weiter verwendet.
-
-Durch die Benutzung der ReCaptcha Funktion erklären Sie sich damit einverstanden, dass die von Ihnen durchgeführte Erkennungsabfrage an Google übermittelt und dort gespeichert bzw. weiterverarbeitet wird.
-
-Durch die IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse innerhalb von Mitgliedsstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt übertragen. 
-
-Google wird diese Informationen benutzen, um Ihre Nutzung dieses Dienstes auszuwerten. Die im Rahmen von reCaptcha von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Für diese Daten gelten die abweichenden Datenschutzbestimmungen des Unternehmens Google.
-
-Weitere Informationen zu den Datenschutzrichtlinien von Google finden Sie unter: https://www.google.com/intl/de/policies/privacy/
-
 ### 3\. Weitergabe von Daten
 
 Eine Übermittlung Ihrer persönlichen Daten an Dritte zu anderen als den im Folgenden aufgeführten Zwecken findet nicht statt.
