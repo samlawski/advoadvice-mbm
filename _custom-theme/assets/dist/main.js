@@ -13457,7 +13457,7 @@ exports.default = _default;
                                   _vm._v(" "),
                                   _c("small", { staticClass: "editable" }, [
                                     _vm._v(
-                                      "  Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden."
+                                      "  Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister einverstanden."
                                     )
                                   ])
                                 ]
