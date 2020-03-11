@@ -16,7 +16,7 @@ To listen to changes to all files just run `npm run dev` and both the Jekyll pro
 
 ## Build & Deploy
 
-Builds the site in `_site`, although not necessary for platforms like Netlify/CloudCannon: 
+Builds the site in `_site`, although not necessary for platforms like CloudCannon: 
 
 ```
 npm run build

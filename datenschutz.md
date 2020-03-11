@@ -89,15 +89,15 @@ Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden v
 
 Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
 
-#### c) Nutzung von Netlify
+#### c) Nutzung von CloudCannon
 
-Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
+Wir verwenden die Dienste von CloudCannon Ltd ("CloudCannon"). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an CloudCannon einverstanden. CloudCannon gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
 
-Ihre persönlichen Daten werden von Netlify verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
+Ihre persönlichen Daten werden von CloudCannon verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
 
-Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
+CloudCannon verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. CloudCannon wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
 
-Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” findest du unter[ ](https://www.netlify.com/privacy/)[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/).
+Weiterführende Informationen zu der Datenschutzrichtlinie von "CloudCannon" findest du unter [https://cloudcannon.com/privacy/](https://cloudcannon.com/privacy/).
 
 ### 3\. Weitergabe von Daten
 
