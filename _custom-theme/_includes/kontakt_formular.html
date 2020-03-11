@@ -1,4 +1,4 @@
-<form class="kontakt_{{ include.id }} kontakt" name="kontakt" method="post" action="/danke" netlify-honeypot="bot-field" netlify-recaptcha netlify>
+<form class="kontakt_{{ include.id }} kontakt" name="kontakt" method="post" action="/danke">
   <div class="kontakt__inputs">
     <input type="text" name="name" placeholder="Ihr Name* ..." aria-label="Ihr Name" required />
     <input type="email" name="email" placeholder="Ihre Email* ..." aria-label="Ihre Email Adresse" required />
@@ -15,8 +15,6 @@
     <input class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_{{ include.id }}" aria-label="Nutzung von Cookies zustimmen" required />
     <small class="editable">&nbsp;&nbsp;Ich stimme der kurzfristigen Nutzung von Cookies zur Vermeidung von Spam-Nachrichten zu. (Alternativ können Sie uns direkt eine <a href="mailto:info@advoadvice.de">email</a> schicken)</small>
   </label>
-
-  <div class="captcha_container--js" id="captcha_container_{{ include.id }}"></div>
 
   <button class="kontakt__send" type="submit" aria-label="Formular absenden" disabled>Anfrage senden</button>
   <div class="kontakt__error"></div>
