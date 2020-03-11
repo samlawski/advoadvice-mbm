@@ -65,7 +65,7 @@
 
           <label for="gdpr_check_schufa">
             <input v-model="contactFormObj['gdpr_check']" type="checkbox" name="gdpr_check" id="gdpr_check_schufa" aria-label="Nutzung meiner Daten zustimmen" required>
-            <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister Netlify einverstanden.</small>
+            <small class="editable">&nbsp;&nbsp;Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an den Servicedienstleister einverstanden.</small>
           </label>
           <label class="cookie_check_container--js" id="cookie_check_container_schufa" for="cookie_check_schufa">
             <input @change="handleCookiesAgreed" class="cookie_check--js" type="checkbox" name="cookie_check" id="cookie_check_schufa" aria-label="Nutzung von Cookies zustimmen" required :disabled="formEnabled">
