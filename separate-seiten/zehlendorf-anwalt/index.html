@@ -92,7 +92,7 @@ ablauf:
   
       <div class="themen__haupt">
         {% for thema in page.hauptthemen %}
-          <a href="{{site.url}}/themen/{{thema.topic}}" class="themen__block">
+          <a href="{{site.url}}/themen/{{thema.topic}}/" class="themen__block">
             <img src="{{thema.icon_path | prepend: site.url }}" alt="{{thema.titel}} Symbol" />
             <h2 class="h4">{{thema.titel}}</h2>
             <p>{{thema.beschreibung}}</p>
@@ -104,7 +104,7 @@ ablauf:
   
       <div class="themen__neben">
         {% for thema in page.nebenthemen %}
-          <a href="{{site.url}}/themen/{{thema.topic}}"><h3 class="h4">{{thema.titel}}</h3></a>
+          <a href="{{site.url}}/themen/{{thema.topic}}/"><h3 class="h4">{{thema.titel}}</h3></a>
           {% unless forloop.last %}
             <span class="h-visible-md">&nbsp;&#183&nbsp;</span>
           {% endunless %}
@@ -248,9 +248,9 @@ ablauf:
         </p>
 
         <div class="footer__legal">
-          <a href="{{ '/impressum' | prepend: site.url }}" class="editable">Impressum</a>
+          <a href="{{ '/impressum/' | prepend: site.url }}" class="editable">Impressum</a>
           &nbsp;&#183&nbsp;
-          <a href="{{ '/datenschutz' | prepend: site.url }}" class="editable">Datenschutzerklärung</a>
+          <a href="{{ '/datenschutz/' | prepend: site.url }}" class="editable">Datenschutzerklärung</a>
         </div>
       </div>
     </div>
