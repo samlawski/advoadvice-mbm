@@ -496,7 +496,7 @@ abschnitte:
 
 
       * [Anerkenntnis und
-      Ratenzahlungsvereinbarung](http://advoadvice.de/blog/schufa-recht-advanzia-bank-widerruft-negativen-schufa-eintrag/)
+      Ratenzahlungsvereinbarung](https://advoadvice.de/blog/schufa-recht-advanzia-bank-widerruft-negativen-schufa-eintrag/)
       – Advanzia Bank S.A.: In diesem Fall wurde gleichzeitig mit dem angeblich
       „ausdrücklichen“ Anerkenntnis auch eine Ratenzahlungsvereinbarung
       getroffen. Dadurch war die entsprechende Forderung nicht mehr fällig und
@@ -504,7 +504,7 @@ abschnitte:
 
 
       * [Vollstreckungsbescheid mit falscher
-      Adresse](http://advoadvice.de/blog/schufa-recht-wohnsitz-im-ausland-sch%C3%BCtzt-nicht-vor-schufa-eintrag/)
+      Adresse](https://advoadvice.de/blog/schufa-recht-wohnsitz-im-ausland-sch%C3%BCtzt-nicht-vor-schufa-eintrag/)
       – Mobilfunkanbieter: Hier hat ein Mobilfunkanbieter eine Forderung über
       441,00 Euro titulieren lassen und als Negativeintrag bei der SCHUFA
       eingemeldet. Nachdem die Rechtsanwälte den ständigen Aufenthalt des
@@ -516,7 +516,7 @@ abschnitte:
 
 
       * [Kein Anerkenntnis, keine Fälligkeit, kein richtiger
-      Schufa-Hinweis](http://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/)
+      Schufa-Hinweis](https://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/)
       – ING-DiBa: Manche Verfahren können erst gerichtlich geklärt werden,
       obwohl keine der entscheidenden Voraussetzungen nach &sect; 28a BDSG
       vorlagen. Insbesondere im Anschluss an das [Urteil des
@@ -527,7 +527,7 @@ abschnitte:
 
 
       * [Schufa Eintrag nach
-      Nichtabnahmeentschädigung](http://advoadvice.de/blog/schufa-recht-schufa-l%C3%B6scht-negativeintrag-der-commerzbank-ag-aus-nichtabnahmeentsch%C3%A4digung/)
+      Nichtabnahmeentschädigung](https://advoadvice.de/blog/schufa-recht-schufa-l%C3%B6scht-negativeintrag-der-commerzbank-ag-aus-nichtabnahmeentsch%C3%A4digung/)
       – Commerzbank AG: Die Commerzbank AG hatte hier weitere Sicherheiten und
       Unterlagen für einen Immobiliar-Darlehensvertrag gefordert, obwohl die
       Vertragsdetails aus Sicht des Kreditnehmers eigentlich schon geklärt
@@ -539,7 +539,7 @@ abschnitte:
 
 
       * [Schufa Eintrag nur nach ordnungsgemä&szlig;er Mahnung
-      zulässig](http://advoadvice.de/blog/schufa-recht-pno-inkasso-widerruft-negativeintrag/)
+      zulässig](https://advoadvice.de/blog/schufa-recht-pno-inkasso-widerruft-negativeintrag/)
       – PNO Inkasso AG: Wenn ein negativer Schufa Eintrag nach &sect; 28a Abs. 1
       Nr. 4 BDSG vorgenommen wird, dann muss der Betroffene ordnungsgemä&szlig;
       gemahnt werden. Dies geschieht nicht immer. In diesem Fall kannte der
@@ -548,7 +548,7 @@ abschnitte:
 
 
       * [Unbekanntes Urteil führt zu Schufa
-      Eintrag](http://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/)
+      Eintrag](https://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/)
       –Inkasso: Ein öffentlich zugestelltes Urteil aus dem Jahr 2002 stellte die
       Grundlage für einen negativen Schufa Eintrag im Jahr 2017 dar. Der
       Betroffene wusste aufgrund dieser öffentlichen Zustellung lange Zeit

@@ -10,7 +10,7 @@ topics: []
 author: dr-sven-tintemann
 ---
 
-Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) hat heute über ihre regelmäßig erscheinende Infomail zahlreiche Maßnahmen zur Abwicklung von unerlaubt betriebenen Geschäften bekannt gegeben. Betroffen sind, neben der **Brest-Tauros GmbH** , zu der wir bereits gesondert berichtet hatten ([hier zum gesonderten Artikel](http://advoadvice.de/blog/brest-tauros-gmbh-bafin-untersagt-das-einlagengeschaft-bzgl-ronda-ii "Blog-Eintrag zur Brest-Tauros GmbH")), folgende Personen / Unternehmen:
+Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) hat heute über ihre regelmäßig erscheinende Infomail zahlreiche Maßnahmen zur Abwicklung von unerlaubt betriebenen Geschäften bekannt gegeben. Betroffen sind, neben der **Brest-Tauros GmbH** , zu der wir bereits gesondert berichtet hatten ([hier zum gesonderten Artikel](https://advoadvice.de/blog/brest-tauros-gmbh-bafin-untersagt-das-einlagengeschaft-bzgl-ronda-ii "Blog-Eintrag zur Brest-Tauros GmbH")), folgende Personen / Unternehmen:
 
 - &nbsp; &nbsp; &nbsp; &nbsp; **Fact Swiss AG** , Buchs, Schweiz und deren Organ **Hans Möll** ([zur konkreten Information auf der BaFin Homepage](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2016/vm_160727_moll_fact_swiss.html?nn=7844560 "Link: https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2016/vm\_160727\_moll\_fact\_swiss.html?nn=7844560"))
 
