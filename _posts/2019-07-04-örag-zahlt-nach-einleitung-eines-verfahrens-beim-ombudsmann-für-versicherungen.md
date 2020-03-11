@@ -18,7 +18,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Die ÖRAG Rechtsschutzversicherungs-AG ist einer der bekanntesten deutschen Rechtsschutzversicherer am Markt. In vielen F&auml;llen erfolgt die &Uuml;bernahme von Anwaltskosten auch innerhalb einer kurzen Zeit, sofern die vertraglich vereinbarten Bedingungen erf&uuml;llt sind. Mit einem solchen Rechtsschutzfall trat im April 2016 auch eine Familie aus der N&auml;he von Berlin an die Kanzlei AdvoAdvice heran. In der Sache ging es um den [Widerruf eines Darlehens](https://advoadvice.de/themen/bank-und-kapitalmarktrecht/)&nbsp;f&uuml;r eine Immobilie.&nbsp;
+Die ÖRAG Rechtsschutzversicherungs-AG ist einer der bekanntesten deutschen Rechtsschutzversicherer am Markt. In vielen F&auml;llen erfolgt die &Uuml;bernahme von Anwaltskosten auch innerhalb einer kurzen Zeit, sofern die vertraglich vereinbarten Bedingungen erf&uuml;llt sind. Mit einem solchen Rechtsschutzfall trat im April 2016 auch eine Familie aus der N&auml;he von Berlin an die Kanzlei AdvoAdvice heran. In der Sache ging es um den [Widerruf eines Darlehens](https://advoadvice.de/themen/bank-und-kapitalmarkt/)&nbsp;f&uuml;r eine Immobilie.&nbsp;
 
 ### Deckungszusagen und Zahlungsverweigerung
 
