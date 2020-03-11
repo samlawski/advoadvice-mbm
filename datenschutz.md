@@ -89,29 +89,15 @@ Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden v
 
 Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
 
-#### c) Nutzung von Netlify
+#### c) Nutzung von CloudCannon
 
-Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
+Wir verwenden die Dienste von CloudCannon Ltd ("CloudCannon"). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an CloudCannon einverstanden. CloudCannon gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
 
-Ihre persönlichen Daten werden von Netlify verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
+Ihre persönlichen Daten werden von CloudCannon verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen.
 
-Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
+CloudCannon verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. CloudCannon wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben.
 
-Weiterführende Informationen zu der Datenschutzrichtlinie von “Netlify” findest du unter[ ](https://www.netlify.com/privacy/)[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/).
-
-#### d) Verwendung von Google ReCaptcha
-
-Zum Schutz Ihrer Anfragen über unser Kontaktformular auf unserer Webseite www.advoadvice.de verwenden wir den Dienst ReCapcha des Unternehmens Google Inc. (Google). Die Abfrage soll sicherstellen, dass diese durch einen Menschen und nicht missbräuchlich durch eine automatisierte oder maschinelle Verarbeitung erfolgt.
-
-Die Abfrage schließt hierbei den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst ReCaptcha benötigter Daten an Google ein. Ihre Eingabe wird an Google übermittelt und dort weiter verwendet.
-
-Durch die Benutzung der ReCaptcha Funktion erklären Sie sich damit einverstanden, dass die von Ihnen durchgeführte Erkennungsabfrage an Google übermittelt und dort gespeichert bzw. weiterverarbeitet wird.
-
-Durch die IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse innerhalb von Mitgliedsstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt übertragen. 
-
-Google wird diese Informationen benutzen, um Ihre Nutzung dieses Dienstes auszuwerten. Die im Rahmen von reCaptcha von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Für diese Daten gelten die abweichenden Datenschutzbestimmungen des Unternehmens Google.
-
-Weitere Informationen zu den Datenschutzrichtlinien von Google finden Sie unter: https://www.google.com/intl/de/policies/privacy/
+Weiterführende Informationen zu der Datenschutzrichtlinie von "CloudCannon" findest du unter [https://cloudcannon.com/privacy/](https://cloudcannon.com/privacy/).
 
 ### 3\. Weitergabe von Daten
 
@@ -148,29 +134,29 @@ Die im Folgenden aufgeführten und von uns eingesetzten Tracking-Maßnahmen werd
 
 Die jeweiligen Datenverarbeitungszwecke und Datenkategorien sind aus den entsprechenden Tracking-Tools zu entnehmen.
 
-#### b) Google Analytics
+#### b) Matomo
 
-Zum Zwecke der bedarfsgerechten Gestaltung und fortlaufenden Optimierung unserer Seiten nutzen wir Google Analytics, ein Webanalysedienst der Google Inc. (https://www.google.de/intl/de/about/) (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; im Folgenden „Google“). In diesem Zusammenhang werden pseudonymisierte Nutzungsprofile erstellt und Cookies (siehe unter Ziff. 4) verwendet. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website wie
+Diese Webseite verwendet Matomo, eine Open Source, selbstgehostete Software um anonyme Nutzungsdaten für diese Webseite zu sammeln.
 
-Browser-Typ/-Version,
+Die Daten zum Verhalten der Besucher werden gesammelt um eventuelle Probleme wie nicht gefundene Seiten, Suchmaschinenprobleme oder unbeliebte Seiten herauszufinden. Sobald die Daten (Anzahl der Besucher die Fehlerseiten oder nur eine Seite sehen, usw.) verarbeitet werden, erzeugt Matomo Berichte für die Webseitenbetreiber, damit diese darauf reagieren können. (Layoutveränderungen, neue Inhalte, usw.)
 
-verwendetes Betriebssystem,
-
-Referrer-URL (die zuvor besuchte Seite),
-
-Hostname des zugreifenden Rechners (IP-Adresse),
-
-Uhrzeit der Serveranfrage,
-
-werden an einen Server von Google in den USA übertragen und dort gespeichert. Die Informationen werden verwendet, um die Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu Zwecken der Marktforschung und bedarfsgerechten Gestaltung dieser Internetseiten zu erbringen. Auch werden diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag verarbeiten. Es wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google zusammengeführt. Die IP-Adressen werden anonymisiert, so dass eine Zuordnung nicht möglich ist (IP-Masking).
-
-Sie können die Installation der Cookies durch eine entsprechende Einstellung der Browser-Software verhindern; wir weisen jedoch darauf hin, dass in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich genutzt werden können.
-
-Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie ein Browser-Add-on herunterladen und installieren (https://tools.google.com/dlpage/gaoptout?hl=de).
-
-Alternativ zum Browser-Add-on, insbesondere bei Browsern auf mobilen Endgeräten, können Sie die Erfassung durch Google Analytics zudem verhindern, indem Sie auf diesen Link klicken. Es wird ein Opt-out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert. Der Opt-out-Cookie gilt nur in diesem Browser und nur für unsere Website und wird auf Ihrem Gerät abgelegt. Löschen Sie die Cookies in diesem Browser, müssen Sie das Opt-out-Cookie erneut setzen.
-
-Weitere Informationen zum Datenschutz im Zusammenhang mit Google Analytics finden Sie etwa in der Google Analytics-Hilfe (https://support.google.com/analytics/answer/6004245?hl=de).
+- Matomo verarbeitet die folgenden Daten:
+- Cookies
+- Anonymisierte IP-Adressen indem die letzten 2 bytes entfernt werden (also 198.51.0.0 anstatt 198.51.100.54)
+- Pseudoanonymisierter Standort (basierend auf der anonymisierten IP-Adresse
+- Datum und Uhrzeit
+- Titel der aufgerufenen Seite
+- URL der aufgerufenen Seite
+- URL der vorhergehenden Seite (sofern diese das erlaubt)
+- Bildschirmauflösung
+- Lokale Zeit
+- Dateien die angeklickt und heruntergeladen wurden
+- Externe Links
+- Dauer des Seitenaufbaus
+- Land, Region, Stadt (mit niedriger Genauigkeit aufgrund von IP-Adresse)
+- Hauptsprache des Browsers
+- User Agent des Browsers
+- Interaktionen mit Formularen (aber nicht deren Inhalt)
 
 #### c) Google Adwords Conversion Tracking
 
