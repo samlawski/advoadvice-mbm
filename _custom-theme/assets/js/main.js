@@ -397,7 +397,7 @@ var crmForm = (function(){
       _fillCRMform($crmFormContainer, formObj)
       _loadingSendBtn($sendBtn)
 
-      // If there are any errors or the CRM form times out, show the error and email alternative after 5 seconds
+      // If there are any errors or the CRM form times out, show the error and email alternative after 7 seconds
       // The form should submit and go to /danke. If it hasn't after a few seconds, show an error: 
       setTimeout(function(){
         // Analytics:
@@ -405,7 +405,7 @@ var crmForm = (function(){
 
         _showSendBtnError($form, formObj.anliegen)
         _disableSendBtn($sendBtn)
-      }, 5000)
+      }, 7000)
     }catch(error){
       console.error(error)
       // Analytics:
@@ -465,8 +465,8 @@ var crmForm = (function(){
     var $errorContainer = $form.querySelector('.kontakt__error')
     
     $errorContainer.innerHTML = '<p>Leider konnte das Formular nicht abgeschickt werden.</p>' +
-      '<p>Bitte stellen Sie sicher, dass alle Felder ausgefüllt sind oder versuchen Sie die Seite neuzuladen.</p>' +
-      '<p><strong>Oder klicken Sie direkt <a href="mailto:info@advoadvice.de?subject=Kontaktanfrage&body=' + encodeURIComponent(nachricht) + '">HIER</a>, um uns eine Email zu schicken.</strong></p>'
+      '<p>Das kann an einer schlechten Internetverbindung oder fehldenden Informationen liegen.</p>' +
+      '<p><strong>Klicken Sie bitte direkt <a href="mailto:info@advoadvice.de?subject=Kontaktanfrage&body=' + encodeURIComponent(nachricht) + '">HIER</a>, um Ihre Nachricht oben als Email zu schicken.</strong></p>'
   }
 
   return {
