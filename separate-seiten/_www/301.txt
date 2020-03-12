@@ -1,0 +1,3 @@
+/ https://advoadvice.de/
+/blog/ https://advoadvice.de/blog/
+/* https://advoadvice.de/
