@@ -12622,7 +12622,7 @@ var _default = {
     },
     handleChoice: function handleChoice(block_id, choiceText) {
       // Analytics:
-      _paq.push(['trackEvent', 'Vorab-Check: Schufa', 'Eingabe', block_id, choiceText]);
+      _paq.push(['trackEvent', 'Vorab-Check: Schufa', "Eingabe: ".concat(block_id), choiceText]);
 
       this.focusedBlock = null; // for input fields only
 
@@ -13649,7 +13649,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49979" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50106" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
