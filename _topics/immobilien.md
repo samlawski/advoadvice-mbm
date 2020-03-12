@@ -2,7 +2,7 @@
 layout: topic
 style_id: topic
 title: Rechtsberatung zu Immobilien und Eigentum
-description: Expertenberatung beim Erwerb von Immobilien. Beratung und Hilfe bei Streitfragen zu Ihrem EIgentum.
+description: Expertenberatung beim Erwerb von Immobilien. Beratung und Hilfe bei Streitfragen zu Ihrem Eigentum.
 header_titel: Beratung zu Immobilien und Eigentum
 header_image: /uploads/theme-immobilien1.jpg
 erfolge: []
