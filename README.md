@@ -29,10 +29,14 @@ The main site is built with Jekyll and can be found in the root directory of the
 
 This directory contains pages hosted separately from the rest of the main website. 
 
-- **tintemann**: tintemann.de (hosted on CloudCannon as separate site)
+- **tintemann**: tintemann.de (managed on CloudCannon but built and hosted on Strato - see below why)
 - **zehlendorf-anwalt**: zehlendorf-anwalt.de (hosted on CloudCannon as separate site)
 - **_www**: This is a redirect-workaround for CloudCannon. It's hosted on CloudCannon under the `www.` subdomain to manually redirect traffic to the domain without `www`
 - **_api**: This contains PHP files hosted on Strato separately. The PHP file in there right now is an end point for the contact form to feed data into the CRM.
+
+**Note about tintemann.de**
+
+tintemann.de is hosted on Strato because it also hosts Matomo for Analytics. To make sure Matomo can run using the SSL certificate it can't be hosted using a subdomain.
 
 ## Tech Stack
 
