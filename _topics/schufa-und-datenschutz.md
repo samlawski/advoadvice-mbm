@@ -1,11 +1,11 @@
 ---
 layout: topic
 style_id: topic
-title: Schufa-Einträge löschen und Score verbessern
+title: Schufa-Einträge löschen Score anheben
 description: >-
   Erfolgreich Schufa-Einträge löschen und Schufa-Score verbessern. Rechtsanwalt
-  Dr. Sven Tintemann hat seit 2009 Erfahrung im Kampf gegen Negativeinträge.
-header_titel: Schufa-Einträge löschen und Score verbessern
+  Dr. Sven Tintemann berät  und kämpft für Sie im Schufa-Recht.
+header_titel: Schufa-Einträge löschen und Score anheben
 header_image: /uploads/theme-schufa1.jpg
 erfolge:
   - zahl: 700+
