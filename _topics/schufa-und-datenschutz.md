@@ -16,8 +16,9 @@ erfolge:
     text: Medienberichte zu Erfolgen
 intro_titel: 'Nicht sicher, was auf Sie zutrifft?'
 intro_text_markdown: >-
-  Erhalten Sie eine erste Empfehlung zu Ihrer Situation jetzt sofort mit unserem
-  kostenlosen und unverbindlichen Selbst-Check
+  Erhalten Sie eine erste Empfehlung zu Ihrer Situation sofort mit unserem
+  kostenlosen und unverbindlichen Selbst-Check. Einem von unseren Experten
+  entwickelten Online-Tool.&nbsp;
 intro_link_text: Machen Sie den SCHUFA Selbst-Check
 intro_link: /schufa-beratung
 abschnitte:
