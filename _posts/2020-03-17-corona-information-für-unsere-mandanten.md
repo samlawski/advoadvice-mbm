@@ -35,9 +35,16 @@ topics:
 author: dr-sven-tintemann
 ---
 
-## Information für unsere Mandanten in Zeiten der Corona Pandemie
+## Information zur Corona Pandemie für unsere Mandanten und neue rechtliche Anfragen
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin bietet Ihren Mandanten und auch neuen Anfragern auch während der Corona Pandemie weiterhin die Möglichkeit, sich Rechtsrat von unseren Rechtsanwälten einzuholen.&nbsp;
+
+Wir beraten unsere Mandanten in Zeiten von Corona gerne auch zu folgenden Fragestellungen:&nbsp;
+
+* Fragen von Leistungssportlern zu Corona
+* Fragen zu Schadensersatz bei Corona
+* Fragen zur Kreditgewährung bei Corona
+* Fragen zu Zahlungsunfähigkeit und Insolvenz
 
 ### Schutz für Mandanten und Mitarbeiter
 
