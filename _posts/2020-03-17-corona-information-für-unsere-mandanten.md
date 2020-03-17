@@ -3,7 +3,7 @@ title: Corona Information für unsere Mandanten
 date: 2020-03-17 00:00:00
 description: >-
   Kanzlei  AdvoAdvice Rechtsanwälte berät Mandanten auch in Zeiten von Corona
-  weiterhin online und im Homeoffice
+  weiterhin online und im Homeoffice.
 layout: post
 style_id: post
 feature_bild_path: /uploads/corona-4916954-1280.jpg
