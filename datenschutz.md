@@ -10,7 +10,7 @@ intro_cta_link: "#kontakt"
 permalink: '/datenschutz/'
 ---
 
-### 1\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie des betrieblichen Datenschutzbeauftragten
+## 1\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie des betrieblichen Datenschutzbeauftragten
 
 Diese Datenschutz-Information gilt für die Datenverarbeitung durch:
 
@@ -38,9 +38,9 @@ Weitere Informationen zur Rechtsform von AdvoAdvice und den Vorschriften für Re
 
 Der/die betriebliche Datenschutzbeauftragte von AdvoAdvice ist ab dem 01.06.2018 unter der Anschrift IITR Datenschutz GmbH, Marienplatz 2, 80331 München beziehungsweise unter email@iitr.de erreichbar.
 
-### 2\. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
+## 2\. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
 
-#### a) Beim Besuch der Website
+### a) Beim Besuch der Website
 
 Beim Aufrufen unserer Website www.advoadvice.de werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
@@ -61,7 +61,7 @@ Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSG
 
 Darüber hinaus setzen wir beim Besuch unserer Website Cookies sowie Analysedienste ein. Nähere Erläuterungen dazu erhalten Sie unter den Ziff. 4 und 5 dieser Datenschutzerklärung.
 
-#### b) Bei Nutzung unseres Kontaktformulars
+### b) Bei Nutzung unseres Kontaktformulars
 
 Bei Fragen jeglicher Art bieten wir Ihnen die Möglichkeit, mit uns über ein auf der Website bereitgestelltes Formular Kontakt aufzunehmen. Dabei ist die Angabe einer gültigen E-Mail-Adresse sowie Ihres Namens erforderlich, damit wir wissen, von wem die Anfrage stammt und um diese beantworten zu können. Weitere Angaben können freiwillig getätigt werden.
 
@@ -89,7 +89,7 @@ Die von Ihnen zum Zwecke der Kontaktaufnahme bei uns hinterlegten Daten werden v
 
 Wir haben mit CentralStationCRM einen Vertrag abgeschlossen, in dem wir CentralStationCRM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben. Dieser Vertrag kann unter folgendem Link eingesehen werden: https://centralstationcrm.de/avv
 
-#### c) Nutzung von CloudCannon
+### c) Nutzung von CloudCannon
 
 Wir verwenden die Dienste von CloudCannon Ltd ("CloudCannon"). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sich freiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an CloudCannon einverstanden. CloudCannon gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist.
 
@@ -99,7 +99,7 @@ CloudCannon verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen
 
 Weiterführende Informationen zu der Datenschutzrichtlinie von "CloudCannon" findest du unter [https://cloudcannon.com/privacy/](https://cloudcannon.com/privacy/).
 
-### 3\. Weitergabe von Daten
+## 3\. Weitergabe von Daten
 
 Eine Übermittlung Ihrer persönlichen Daten an Dritte zu anderen als den im Folgenden aufgeführten Zwecken findet nicht statt.
 
@@ -110,7 +110,7 @@ Wir geben Ihre persönlichen Daten nur an Dritte weiter, wenn:
 *   für den Fall, dass für die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. c DSGVO eine gesetzliche Verpflichtung besteht, sowie
 *   dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DSGVO für die Abwicklung von Vertragsverhältnissen mit Ihnen erforderlich ist.
 
-### 4\. Cookies
+## 4\. Cookies
 
 Wir setzen auf unserer Seite Cookies ein. Hierbei handelt es sich um kleine Dateien, die Ihr Browser automatisch erstellt und die auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert werden, wenn Sie unsere Seite besuchen. Cookies richten auf Ihrem Endgerät keinen Schaden an, enthalten keine Viren, Trojaner oder sonstige Schadsoftware.
 
@@ -126,15 +126,15 @@ Die durch Cookies verarbeiteten Daten sind für die genannten Zwecke zur Wahrung
 
 Die meisten Browser akzeptieren Cookies automatisch. Sie können Ihren Browser jedoch so konfigurieren, dass keine Cookies auf Ihrem Computer gespeichert werden oder stets ein Hinweis erscheint, bevor ein neuer Cookie angelegt wird. Die vollständige Deaktivierung von Cookies kann jedoch dazu führen, dass Sie nicht alle Funktionen unserer Website nutzen können.
 
-### 5\. Analyse-Tools
+## 5\. Analyse-Tools
 
-#### a) Tracking-Tools
+### a) Tracking-Tools
 
 Die im Folgenden aufgeführten und von uns eingesetzten Tracking-Maßnahmen werden auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f DSGVO durchgeführt. Mit den zum Einsatz kommenden Tracking-Maßnahmen wollen wir eine bedarfsgerechte Gestaltung und die fortlaufende Optimierung unserer Webseite sicherstellen. Zum anderen setzen wir die Tracking-Maßnahmen ein, um die Nutzung unserer Webseite statistisch zu erfassen und zum Zwecke der Optimierung unseres Angebotes für Sie auszuwerten. Diese Interessen sind als berechtigt im Sinne der vorgenannten Vorschrift anzusehen.
 
 Die jeweiligen Datenverarbeitungszwecke und Datenkategorien sind aus den entsprechenden Tracking-Tools zu entnehmen.
 
-#### b) Matomo
+### b) Matomo
 
 Diese Webseite verwendet Matomo, eine Open Source, selbstgehostete Software um anonyme Nutzungsdaten für diese Webseite zu sammeln.
 
@@ -158,7 +158,7 @@ Die Daten zum Verhalten der Besucher werden gesammelt um eventuelle Probleme wie
 - User Agent des Browsers
 - Interaktionen mit Formularen (aber nicht deren Inhalt)
 
-#### c) Google Adwords Conversion Tracking
+### c) Google Adwords Conversion Tracking
 
 Um die Nutzung unserer Webseite statistisch zu erfassen und zum Zwecke der Optimierung unserer Website für Sie auszuwerten, nutzen wir ferner das Google Conversion Tracking. Dabei wird von Google Adwords ein Cookie (siehe Ziffer 4) auf Ihrem Rechner gesetzt, sofern Sie über eine Google-Anzeige auf unsere Webseite gelangt sind.
 
@@ -168,7 +168,7 @@ Jeder Adwords-Kunde erhält ein anderes Cookie. Cookies können somit nicht übe
 
 Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie auch das hierfür erforderliche Setzen eines Cookies ablehnen – etwa per Browser-Einstellung, die das automatische Setzen von Cookies generell deaktiviert. Sie können Cookies für Conversion-Tracking auch deaktivieren, indem Sie Ihren Browser so einstellen, dass Cookies von der Domain „www.googleadservices.com“ blockiert werden. Googles Datenschutzbelehrung zum Conversion-Tracking finden Sie hier (https://services.google.com/sitestats/de.html).
 
-### 6\. Betroffenenrechte
+## 6\. Betroffenenrechte
 
 Sie haben das Recht:
 
@@ -180,19 +180,19 @@ Sie haben das Recht:
 *   gemäß Art. 7 Abs. 3 DSGVO Ihre einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen dürfen und
 *   gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren. In der Regel können Sie sich hierfür an die Aufsichtsbehörde Ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Kanzleisitzes wenden.
 
-### 7\. Widerspruchsrecht
+## 7\. Widerspruchsrecht
 
 Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO verarbeitet werden, haben Sie das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das ohne Angabe einer besonderen Situation von uns umgesetzt wird.
 
 Möchten Sie von Ihrem Widerrufs- oder Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an info@advoadvice.de.
 
-### 8\. Datensicherheit
+## 8\. Datensicherheit
 
 Wir verwenden innerhalb des Website-Besuchs das verbreitete SSL-Verfahren (Secure Socket Layer) in Verbindung mit der jeweils höchsten Verschlüsselungsstufe, die von Ihrem Browser unterstützt wird. In der Regel handelt es sich dabei um eine 256 Bit Verschlüsselung. Falls Ihr Browser keine 256-Bit Verschlüsselung unterstützt, greifen wir stattdessen auf 128-Bit v3 Technologie zurück. Ob eine einzelne Seite unseres Internetauftrittes verschlüsselt übertragen wird, erkennen Sie an der geschlossenen Darstellung des Schüssel- beziehungsweise Schloss-Symbols in der unteren Statusleiste Ihres Browsers.
 
 Wir bedienen uns im Übrigen geeigneter technischer und organisatorischer Sicherheitsmaßnahmen, um Ihre Daten gegen zufällige oder vorsätzliche Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen den unbefugten Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend verbessert.
 
-### 9\. Aktualität und Änderung dieser Datenschutzerklärung
+## 9\. Aktualität und Änderung dieser Datenschutzerklärung
 
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018.
 
