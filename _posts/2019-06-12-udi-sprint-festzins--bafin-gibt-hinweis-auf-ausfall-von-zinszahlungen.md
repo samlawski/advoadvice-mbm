@@ -6,7 +6,7 @@ date: 2019-06-12 00:00:00
 description: 'UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG'
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-9.jpg
 tags:
   - BaFin
   - UDI
@@ -27,9 +27,9 @@ topics:
   - anlegerschutz
   - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
+redirect_from: 
+  - /blog/udi-sprint-festzins-iv-festzins-121110-gmbh-co-kg-bafin-gibt-hinweis-auf-möglichen-ausfall-von-zinszahlungen-und-forderungen/
 ---
-
-![](/uploads/money-1005464-640-9.jpg){: width="640" height="369"}
 
 Die UDI ist ein gro&szlig;er, bankenunabh&auml;ngiger Direktvertrieb von ökologischen Geldanlagen und hat nach Erkenntnissen der Zeitschrift Finanztest (Ausgabe 2/2019) mittlerweile rund 17.500 Anleger angeworben und seit 1998 eine rund halbe Milliarde Euro vor allem f&uuml;r 383 Windkraftanlagen, 46 Biogasanlagen und 90 Solarprojekte eingeworben.&nbsp; Dies unter anderem mit Hilfe von Nachrangdarlehen und unter Verwendung des missverst&auml;ndlichen Namensteils "Festzins" bei bestimmten Anlageformen.
 
