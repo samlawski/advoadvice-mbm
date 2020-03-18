@@ -1,7 +1,7 @@
 ---
-title: 'Schufa-Recht: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch noch Erfolg gegen die Santander Consumer Bank AG'
+title: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch Erfolg gegen Santander Bank
 date: 2016-06-21 12:00:00
-description:
+description: 'Schufa-Recht: Nach Hattrick gegen Volkswagen Bank und Norisbank nun auch noch Erfolg gegen die Santander Consumer Bank AG'
 layout: post
 style_id: post
 feature_bild_path:
@@ -24,6 +24,8 @@ tags:
   - AdvoAdvice
 topics: []
 author: dr-sven-tintemann
+redirect_from:
+  - /blog/schufa-recht-nach-hattrick-gegen-volkswagen-bank-und-norisbank-nun-auch-noch-erfolg-gegen-die-santander-consumer-bank-ag/
 ---
 
 

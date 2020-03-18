@@ -25,6 +25,8 @@ tags:
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
+redirect_from:
+  - /blog/advoadvice-erfolgreich-gegen-negativen-schufa-eintrag-der-advomedic-gmbh-für-die-ärztliche-verrechnungsstelle-büdingen-gmbh/
 ---
 
 
