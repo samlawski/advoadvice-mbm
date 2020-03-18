@@ -4,7 +4,7 @@ date: 2016-03-10 23:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags:
   - Insolvenz
   - Anlegerschutz

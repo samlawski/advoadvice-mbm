@@ -4,7 +4,7 @@ date: 2016-03-17 18:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags: ["Bundesgerichtshof", "Staatsanleihen", "Griechenland", "Unzuständig", "Schadensersatz", "EuGH", "Anleger", "scheitern"]
 topics: []
 author: dr-sven-tintemann

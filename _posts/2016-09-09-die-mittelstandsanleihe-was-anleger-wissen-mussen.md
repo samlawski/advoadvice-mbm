@@ -4,7 +4,7 @@ date: 2016-09-09 02:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags: ["Mittelstandsanleihe", "Was tun", "Wertpapiere", "Finanzkrise", "Risiken der Anleihe", "Totalverlust", "Verlustrisiko", "Advoadvice", "Berlin"]
 topics: []
 author: dr-sven-tintemann

@@ -4,7 +4,7 @@ date: '2016-06-03 04:00:00 -0500'
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags:
   - IFMC-Group GmbH
   - BaFin
