@@ -177,7 +177,7 @@ abschnitte:
       Die Erstellung von Wertpapierprospekten und Vermögensverkaufsprospekten ist für Unternehmen, die Kapitalanlagen für ein breites Spektrum an Anlegern zur Verfügung stellen, weiterhin unerlässlich. Der Prospekt muss bei der Bundesanstalt für Finanzdienstleistungsaufsicht - BaFin - zur Billigung eingereicht werden. Erst wenn der Prospekt zur Verwendung freigegeben wurde, ist ein Vertriebsstart für die Emittentin gefahrlos und rechtssicher möglich.
 
 
-      Dr. Tintemann hat in den letzten Jahren mehre Unternehmen bei Fragen rund um die inhaltlichen und rechtlichen Anforderungen von Prospekten und in Bezug auf das Billigungsverfahren bei der BaFin beraten. Er gilt insbesondere als Experte für Fragen rund im Wertpapierprospekte für US-amerikanische Aktiengesellschaften (US-Corporation, Inc.), welche ihre Aktien auch auf de deutschen Markt anbieten möchten.
+      Dr. Tintemann hat in den letzten Jahren mehrere Unternehmen bei Fragen rund um die inhaltlichen und rechtlichen Anforderungen von Prospekten und in Bezug auf das Billigungsverfahren bei der BaFin beraten. Er gilt insbesondere als Experte für Fragen rund im Wertpapierprospekte für US-amerikanische Aktiengesellschaften (US-Corporation, Inc.), welche ihre Aktien auch auf de deutschen Markt anbieten möchten.
 
 
       Auch in Bezug auf Anleihen, Anleihebedingungen und entsprechende Wertpapierprospekte hat Dr. Tintemann bereits Genossenschaften und andere Anbieter rechtliche beraten und diese bei dem Billigungsprozess juristisch unterstützt.

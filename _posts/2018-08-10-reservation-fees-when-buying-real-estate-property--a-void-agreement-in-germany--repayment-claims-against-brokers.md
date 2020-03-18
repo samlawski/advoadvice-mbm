@@ -52,7 +52,7 @@ Because of the term being void it will not be applied and the law with which the
 
 ### Conclusion
 
-Agreements concerning a reservation fee in the terms and condition of the estate agent are void in most cases. The agent will then be liable to return any monies so payed to the reservee, even if no contract of sale is made. An individually made agreement as to a reservation fee may be valid, but is bound to strict requirements. The young couple T. from Berlin is in a good legal position to claim the reservation fee.
+Agreements concerning a reservation fee in the terms and condition of the estate agent are void in most cases. The agent will then be liable to return any monies so paid to the reservee, even if no contract of sale is made. An individually made agreement as to a reservation fee may be valid, but is bound to strict requirements. The young couple T. from Berlin is in a good legal position to claim the reservation fee.
 
 Banking and Finance Specialist lawyer (Fachanwalt für Bank- und Kapitalmarktrecht) Kim Oliver Klevenhagen from the Berlin based law firm AdvoAdvice Partnerschaft von Rechtsanwälten MbB is familiar with cases such as those of the spouses T.: "Due to the low interest rate on the capital market, the acquisition of real estate has become increasingly attractive. Due to high demand, brokers are increasingly often demanding reservation fees. Frequently, we are experiencing conflicts with the broker in the event of the failure of the real estate acquisition. In most cases, the legal situation is positive for ar since the principle of the BGH. "
 

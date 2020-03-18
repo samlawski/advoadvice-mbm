@@ -18,7 +18,7 @@ author: dr-sven-tintemann
 ---
 
 
-Das erste Jahr in der Kanzleigeschichte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB ist erfolgreich verlaufen. Damit kann auch ein erstes umfassendes Fazit gezogen werden. In diesem Kontext rufen wir für Sie für jeden Monat einen Erfolg oder ein besonderes Ereignis, welches wir bereits in unserem Blog veröffentlich haben, in Erinnerung.
+Das erste Jahr in der Kanzleigeschichte der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB ist erfolgreich verlaufen. Damit kann auch ein erstes umfassendes Fazit gezogen werden. In diesem Kontext rufen wir für Sie für jeden Monat einen Erfolg oder ein besonderes Ereignis, welches wir bereits in unserem Blog veröffentlicht haben, in Erinnerung.
 
 \*\* Januar:\*\*
 

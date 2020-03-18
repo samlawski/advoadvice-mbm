@@ -37,7 +37,7 @@ Was beinhalten die entsprechenden nunmehr f&uuml;r unwirksam erkl&auml;rten Klau
 
 ## F&uuml;r Verbraucher jetzt R&uuml;ckforderung m&ouml;glich
 
-Die betroffene Bank darf nach der Entscheidung des BGH die entsprechene allgemeine Gesch&auml;ftsbedingung nicht mehr nutzen und muss betroffenen Kunden auf Anfrage die zu unrecht in Rechnung gestellten und erhaltenen Zinscap-Pr&auml;mien zur&uuml;ckzahlen. Ein &auml;hnliches Prozedere ist bereits aus dem Bereich der Bearbeitungsgeb&uuml;hren bekannt.
+Die betroffene Bank darf nach der Entscheidung des BGH die entsprechende allgemeine Gesch&auml;ftsbedingung nicht mehr nutzen und muss betroffenen Kunden auf Anfrage die zu unrecht in Rechnung gestellten und erhaltenen Zinscap-Pr&auml;mien zur&uuml;ckzahlen. Ein &auml;hnliches Prozedere ist bereits aus dem Bereich der Bearbeitungsgeb&uuml;hren bekannt.
 
 ![](/uploads/money-1005464-640.jpg)
 
