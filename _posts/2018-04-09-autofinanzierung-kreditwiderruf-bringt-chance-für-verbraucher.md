@@ -44,6 +44,6 @@ Der viel zitierte Widerrufs-Joker lebt also weiter, da das Widerrufsrecht durch 
 
 ![](/uploads/playing-cards-1068147-640.jpg)
 
-Die Kanzlei AdvoAdvice hat sich auf den Widerruf von Darlehen, insbesondere bei Kfz-Finanzierungen spezialisiert und bietet interessierten Verbrauchern unter der extra hierf&uuml;r eingerichteten Webseite **[www.kreditwiderrufen.de](/kreditwiderrufen.html)** Informationen und einen kostenlose Ersteinsch&auml;tzung der rechtlichen M&ouml;glichkeiten an.
+Die Kanzlei AdvoAdvice hat sich auf den Widerruf von Darlehen, insbesondere bei Kfz-Finanzierungen spezialisiert und bietet interessierten Verbrauchern unter der extra hierf&uuml;r eingerichteten Webseite **[kreditwiderrufen.de](/themen/kredit-widerrufen/)** Informationen und einen kostenlose Ersteinsch&auml;tzung der rechtlichen M&ouml;glichkeiten an.
 
 &nbsp;

@@ -42,4 +42,4 @@ Die Kanzlei AdvoAdvice aus Berlin vertritt Anlieger in Prozessen gegen finanzier
 
 Nutzen Sie Ihre M&ouml;glichkeit zur kostenfreien Ersteinsch&auml;tzung Ihres Kfz Finanzierungsfalles.
 
-**[Weitere Informationen zum Widerruf Ihrer Kfz-Finanzierung finden Sie hier.](/kreditwiderrufen.html)**
+**[Weitere Informationen zum Widerruf Ihrer Kfz-Finanzierung finden Sie hier.](/themen/kredit-widerrufen/)**
