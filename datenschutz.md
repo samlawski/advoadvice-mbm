@@ -8,6 +8,8 @@ intro_markdown: Sie interessieren sich für Datenschutz? Gerne beraten wir Sie o
 intro_cta_text: Kostenloses Gespräch
 intro_cta_link: "#kontakt"
 permalink: '/datenschutz/'
+redirect_from:
+  - /datenschutzerklaerung/
 ---
 
 ## 1\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie des betrieblichen Datenschutzbeauftragten
@@ -34,7 +36,7 @@ Telefon: +49 (0)30 – 921 000 40
 
 Fax: +49 (0)30 – 921 000 410
 
-Weitere Informationen zur Rechtsform von AdvoAdvice und den Vorschriften für Rechtsanwälte finden Sie in unserem Impressum unter https://www.advoadvice.de/impressum/
+Weitere Informationen zur Rechtsform von AdvoAdvice und den Vorschriften für Rechtsanwälte finden Sie in unserem Impressum unter https://advoadvice.de/impressum/
 
 Der/die betriebliche Datenschutzbeauftragte von AdvoAdvice ist ab dem 01.06.2018 unter der Anschrift IITR Datenschutz GmbH, Marienplatz 2, 80331 München beziehungsweise unter email@iitr.de erreichbar.
 
@@ -42,7 +44,7 @@ Der/die betriebliche Datenschutzbeauftragte von AdvoAdvice ist ab dem 01.06.2018
 
 ### a) Beim Besuch der Website
 
-Beim Aufrufen unserer Website www.advoadvice.de werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
+Beim Aufrufen unserer Website advoadvice.de werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server unserer Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
 *   IP-Adresse des anfragenden Rechners,
 *   Datum und Uhrzeit des Zugriffs,
@@ -196,4 +198,4 @@ Wir bedienen uns im Übrigen geeigneter technischer und organisatorischer Sicher
 
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018.
 
-Durch die Weiterentwicklung unserer Website und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf der Website unter https://www.advoadvice.de/datenschutzerklaerung von Ihnen abgerufen und ausgedruckt werden.
+Durch die Weiterentwicklung unserer Website und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf der Website unter https://advoadvice.de/datenschutz von Ihnen abgerufen und ausgedruckt werden.
