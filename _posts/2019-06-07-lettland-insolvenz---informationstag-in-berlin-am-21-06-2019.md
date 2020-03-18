@@ -20,7 +20,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Die Lettland Insolvenz wird ein immer gr&ouml;&szlig;eres Thema im Internet. Mittlerweile haben bereits mehr als 700 Interessierte die Informationen von AdvoAdvice im Blog auf der Internetseite www.advoadvice.de angesehen. Die von AdvoAdvice zu diesem Thema bei Anwalt.de ver&ouml;ffentlichten Artikel wurden bereits &uuml;ber 400 mal gelesen.
+Die Lettland Insolvenz wird ein immer gr&ouml;&szlig;eres Thema im Internet. Mittlerweile haben bereits mehr als 700 Interessierte die Informationen von AdvoAdvice im Blog auf der Internetseite advoadvice.de angesehen. Die von AdvoAdvice zu diesem Thema bei Anwalt.de ver&ouml;ffentlichten Artikel wurden bereits &uuml;ber 400 mal gelesen.
 
 ### Infotag in Berlin
 

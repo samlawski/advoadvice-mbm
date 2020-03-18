@@ -6,7 +6,7 @@ date: 2018-05-23 00:00:00
 description: Erste Fahrverbote in Hamburg - Wie geht´s weiter?
 layout: post
 style_id: post
-image:
+image: /uploads/auto-2679743-640-4.jpg
 tags:
   - Verbraucherinformation
   - Fahrverbot
@@ -30,8 +30,6 @@ Seit einigen Tage ist klar, die EU will Deutschland wegen der zu hohen Luftversc
 ### Erste Verbote in Hamburg ab dem 31.05.2018
 
 Aktuell berichtet das Inforadio in seiner App, dass es in Hamburg bereits ab dem 31.05.2018, also ab Donnerstag kommender Woche, erstmals Fahrverbote f&uuml;r Diesel-Fahrzeuge geben wird.
-
-![Fahrverbote in Hamburg](/uploads/auto-2679743-640-4.jpg "Fahrverbot für Diesel")
 
 Demnach sollen nach Angaben des Inforadio zwei Stra&szlig;enabschnitte in Altona-Nord ab dem 31.05.2018 f&uuml;r bestimmte Diesel-Fahrzeuge gesperrt werden. Betroffen sollen Autos und Lastwagen sein, die nicht die Abgasnorm Euro-6 erf&uuml;llen.
 
@@ -57,4 +55,4 @@ Wie man mit den Abgas-Manipulationen von VW und anderen umgeht, ist noch offen. 
 
 Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin kommentiert die Situation wie folgt: "Betroffene K&auml;ufer von Diesel-Fahrzeugen sollten sich &uuml;berlegen, welcher Weg f&uuml;r sie und ihre Situation am erfolgsversprechendsten ist. Etliche Betroffene haben bereits eigene Klagen gegen Autoh&auml;ndler oder die Konzerne eingereicht. Die Erfolge hierbei sind von Gericht zu Gericht unterschiedlich. Ein Warten auf eine Nachr&uuml;stung, freiwillige Entsch&auml;digung oder gar die neue Musterfeststellungsklage ist mit weiteren Unsicherheiten und Risiken verbungen. Wir empfehlen daher Kunden, die ihr Fahrzeug ganz oder teilweise finanziert haben, zun&auml;chst den Widerruf des Kredites pr&uuml;fen zu lassen, da hierdurch relativ einfach und meist auch mit Deckungsschutz einer Rechtsschutzversicherung ein Weg zur R&uuml;ckgabe des Diesel-Altfahrzeugs er&ouml;ffnet wird."
 
-Weitere Informationen zu diesem Thema erhalten betroffene Diesel-K&auml;ufer ebenso wie andere Kraftfahrzeugbesitzer, die ihre Finanzierung widerrufen m&ouml;chten unter der speziell hierf&uuml;r eingerichteten Landing-Page [www.kreditwiderrufen.de](/kreditwiderrufen.html) oder direkt bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin unter www.advoadvice.de bzw. 030 / 921 000 40.
+Weitere Informationen zu diesem Thema erhalten betroffene Diesel-K&auml;ufer ebenso wie andere Kraftfahrzeugbesitzer, die ihre Finanzierung widerrufen m&ouml;chten unter der speziell hierf&uuml;r eingerichteten Landing-Page [kreditwiderrufen.de](/kreditwiderrufen/) oder direkt bei der Kanzlei AdvoAdvice Rechtsanw&auml;lte mbB aus Berlin unter advoadvice.de bzw. 030 / 921 000 40.

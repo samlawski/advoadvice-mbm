@@ -49,4 +49,4 @@ Merkwürdig, diese Häufung von Fehleinschätzung durch Philip Nerb. Ob er dabei
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB, die über umfassende Erfahrung in Fragen des Kreditwesengesetzes und bei Verstößen gegen des Verbot des Betreibens von unerlaubt betriebenen Einlagengeschäften verfügt, hat bereits eine Anlegergemeinschaft gegründet, mit dem Ziel, die Interessen der betroffenen Anleger zu bündeln, die vorhandenen Sicherheiten sowie deren Wert zu prüfen und die weiteren Haftungsträger wie Geschäftsführer, Berater und ggf. auch weitere Hintermänner mit in die Haftung zu nehmen.
 
-Ein [Fragebogen für die betroffenen Kapitalanleger](/uploads/fragebogen-brest-tauros.pdf) und ein[Beitrittsformular für den Beitritt zur Anlegergemeinschaft](/uploads/anmeldeformular-zur-geschadigtengemeinschaft---brest-tauros.pdf) sind unter www.advoadvice.de zum Download vorhanden.
+Ein [Fragebogen für die betroffenen Kapitalanleger](/uploads/fragebogen-brest-tauros.pdf) und ein[Beitrittsformular für den Beitritt zur Anlegergemeinschaft](/uploads/anmeldeformular-zur-geschadigtengemeinschaft---brest-tauros.pdf) sind unter advoadvice.de zum Download vorhanden.
