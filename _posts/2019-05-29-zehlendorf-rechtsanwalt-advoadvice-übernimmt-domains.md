@@ -27,11 +27,11 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die Rechtsanwaltskanzlei AdvoAdvice Rechtsanwälte Tintemann Klevenhagen mbB in Berlin konnte von einem Anwaltskollegen die Internet-Domains **[www.zehlendorfrechtsanwalt.de](https://www.zehlendorfrechtsanwalt.de){: target="_blank"}, [www.zehlendorf-rechtsanwalt.de](https://www.zehlendorf-rechtsanwalt.de){: target="_blank"}, [www.zehlendorfanwalt.de](https://www.zehlendorfanwalt.de){: target="_blank"}** und [**www.zehlendorf-anwalt.de**](https://www.zehlendorf-anwalt.de){: target="_blank"} übernehmen.
+Die Rechtsanwaltskanzlei AdvoAdvice Rechtsanwälte Tintemann Klevenhagen mbB in Berlin konnte von einem Anwaltskollegen die Internet-Domains **[zehlendorfrechtsanwalt.de](https://zehlendorfrechtsanwalt.de){: target="_blank"}, [zehlendorf-rechtsanwalt.de](https://zehlendorf-rechtsanwalt.de){: target="_blank"}, [zehlendorfanwalt.de](https://zehlendorfanwalt.de){: target="_blank"}** und [**zehlendorf-anwalt.de**](https://zehlendorf-anwalt.de){: target="_blank"} übernehmen.
 
 Die Domains helfen dabei, in konkretes Angebot im Internet für Ratsuchende aus dem Bereich Berlin Zehlendorf und Umgebung herzustellen.
 
-Zunächst werden die Domais auf die bestehende Internetseite www.advoadvice.de umgeleitet. Es ist aber beabsichtigt, durch eine spezielle Landing Page einen besonderen lokalen Bezug zu den Themen herzustellen, die die Firmen und Anwohner in dem Bezirk Steglitz-Zehlendorf betreffen.
+Zunächst werden die Domais auf die bestehende Internetseite advoadvice.de umgeleitet. Es ist aber beabsichtigt, durch eine spezielle Landing Page einen besonderen lokalen Bezug zu den Themen herzustellen, die die Firmen und Anwohner in dem Bezirk Steglitz-Zehlendorf betreffen.
 
 Rechtsanwalt Kim Oliver Klevenhagen, der die Domains für AdvoAdvice sichern könnte kommentiert die Entwicklung wie folgt: "Seit dem Umzug der Kanzlei AdvoAdvice vor etwa eineinhalb Jahren sind wir hier in Berlin Zehlendorf heimisch geworden und viele Anwohner und Firmen haben sich bereits bei uns gemeldet und sich erfreut über den Geschäftssitz der Kanzlei in Zehlendorf direkt am S-Bahnhof geäu&szlig;ert. Daher ist es für uns eine hervorragende Ergänzung nun auch die Domains mit dem Bezug zu Zehlendorf bei einem freundlichen Kollegen erhalten zu haben."
 

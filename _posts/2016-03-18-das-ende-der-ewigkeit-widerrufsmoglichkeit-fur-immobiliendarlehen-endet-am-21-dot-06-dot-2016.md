@@ -26,7 +26,7 @@ Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenha
 
 **Fazit: Widerrufsmöglichkeit von Immobilien**** krediten **** zwischen dem 02.11.2002 und dem 10.06.2010 **** endet am 21.06.2016 - Viel zu tun für Juristen, sowohl bis zum 21.06.2016 als auch darüber hinaus!**
 
-Bankkunden und Anleger, die ihre Darlehen noch bis zum 21.06.2016 widerrufen wollen, sollten sich an einen Experten im Bank- und Kapitalmarktrecht wenden. Die Rechtsanwälte der Kanzlei Advoadvice Rechtsanwälte mbB stehen hierfür gerne zur Verfügung. Informationen und Formulare finden Sie auf der Internetseite [www.advoadvice.de](http://www.advoadvice.de/) auch zum Download.
+Bankkunden und Anleger, die ihre Darlehen noch bis zum 21.06.2016 widerrufen wollen, sollten sich an einen Experten im Bank- und Kapitalmarktrecht wenden. Die Rechtsanwälte der Kanzlei Advoadvice Rechtsanwälte mbB stehen hierfür gerne zur Verfügung. Informationen und Formulare finden Sie auf der Internetseite [advoadvice.de](https://advoadvice.de/) auch zum Download.
 
 **Ewigkeit noch nicht vollständig zu Ende…**
 

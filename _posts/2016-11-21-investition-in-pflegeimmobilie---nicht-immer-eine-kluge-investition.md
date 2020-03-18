@@ -75,6 +75,6 @@ Die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB warnen daher davor, die t
 
 *„Wir werden an der Entwicklung der Pflegeimmobilien als Geldanlage dranbleiben und im Rahmen der Recherche die nächsten Schritte einleiten.“,* so Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, Experte für Immobilienrecht in der Kanzlei AdvoAdvice Rechtsanwälte mbB.
 
-Die Anwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB stehen für eine Ersteinschätzung Ihres Falles oder Ihrer Fragen gerne zur Verfügung. Informationen und Formulare finden Sie auf der Internetseite [www.advoadvice.de](http://www.advoadvice.de/) auch zum Download.
+Die Anwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB stehen für eine Ersteinschätzung Ihres Falles oder Ihrer Fragen gerne zur Verfügung. Informationen und Formulare finden Sie auf der Internetseite [advoadvice.de](https://advoadvice.de/) auch zum Download.
 
 Der Beitrag schildert die Sach- und Rechtslage zum Zeitpunkt der Erstellung. Internetpublikationen können nur einen ersten Hinweis geben und keine Rechtsberatung ersetzen.
