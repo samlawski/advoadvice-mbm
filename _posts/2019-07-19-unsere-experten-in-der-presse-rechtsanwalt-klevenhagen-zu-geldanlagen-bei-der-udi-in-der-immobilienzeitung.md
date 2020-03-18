@@ -8,7 +8,7 @@ description: >-
   UDI in der Immobilienzeitung
 layout: post
 style_id: post
-feature_bild_path: /uploads/immozeitung.png
+image: /uploads/immozeitung.png
 tags:
   - Festzinsanlage UDI
   - UDI Festzins 11

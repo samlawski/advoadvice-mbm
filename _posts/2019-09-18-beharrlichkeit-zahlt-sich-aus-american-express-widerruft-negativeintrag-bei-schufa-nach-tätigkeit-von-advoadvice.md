@@ -8,7 +8,7 @@ description: >-
   AdvoAdvice widerrufen
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa Recht
   - Schufa-Eintrag

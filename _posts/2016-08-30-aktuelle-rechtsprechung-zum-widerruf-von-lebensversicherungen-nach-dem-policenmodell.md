@@ -4,7 +4,7 @@ date: 2016-08-30 09:00:00 -0500
 description: "Aktuelle Rechtsprechung zum Widerruf von Lebensversicherungen nach dem Policenmodell - Das frühere sog. „Policenmodell“"
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags: ["Policenmodell", "Widerruf", "Lebensversicherung", "Ewiges Widerrufsrecht", "BGH", "BVerfG", "Karlsruhe"]
 topics: []
 author: dr-sven-tintemann

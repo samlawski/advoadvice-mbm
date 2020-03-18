@@ -6,7 +6,7 @@ date: 2018-09-19 00:00:00
 description: Die Investition in die Pflegeimmobilie - Rendite und Risiko
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Kapitalanlage
   - Immobilie

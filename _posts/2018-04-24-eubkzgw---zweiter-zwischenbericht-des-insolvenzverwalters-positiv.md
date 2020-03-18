@@ -4,7 +4,7 @@ date: 2018-04-24 00:00:00
 description: Insolvenzverwalter der EUBKZGW legt zweiten Zwischenbericht vor
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Insolvenz
   - Verbraucherinformation

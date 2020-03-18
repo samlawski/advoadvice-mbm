@@ -4,7 +4,7 @@ date: 2018-03-14 15:07:00
 description: Wie erhalte ich nach einem geplatzten Immobilienkauf mein Geld aus der Reservierungsvereinbarung zurück vom Markler?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Klevenhagen
   - Makler

@@ -6,7 +6,7 @@ date: 2018-09-28 00:00:00
 description: Rechtsschutz Union zur Übernahme von Kostenschutz verurteilt
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Versicherungsrecht
   - Rechtsschutzversicherung

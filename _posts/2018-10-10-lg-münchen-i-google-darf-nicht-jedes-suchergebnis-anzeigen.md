@@ -4,7 +4,7 @@ date: 2018-10-10 00:00:00
 description: Google muss Suchergebnis nach einstweiliger Verfügung löschen
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Google
   - Löschung

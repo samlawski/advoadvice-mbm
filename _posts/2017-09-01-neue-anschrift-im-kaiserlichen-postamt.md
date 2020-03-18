@@ -4,7 +4,7 @@ date: 2017-09-01 00:00:00
 description: AdvoAdvice Rechtsanwälte im Kaiserlichen Postamt Zehlendorf
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - neue Anschrift

@@ -4,7 +4,7 @@ date: 2019-08-19 00:00:00
 description: Deutsche ÖL und Gas S.A. - Insolvenzanträge von drei LLC in den USA
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Deutsche Öl und Gas S.A.
   - Furie Operationg Alaska LLC

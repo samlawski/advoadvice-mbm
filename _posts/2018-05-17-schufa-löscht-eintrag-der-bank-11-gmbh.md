@@ -4,7 +4,7 @@ date: 2018-05-17 00:00:00
 description: Schufa löscht Negativeintrag der Bank 11 GmbH
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa Eintrag
   - Schufa

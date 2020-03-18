@@ -8,7 +8,7 @@ description: >-
   - Unzufriedene - Immobilienkäufer melden sich bei AdvoAdvice Rechtsanwälte mbB
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Immobilienkauf
   - Rückabwicklung

@@ -4,7 +4,7 @@ date: 2019-11-25 00:00:00
 description: Mandant von AdvoAdvice stellt erfolgreich Insolvenzantrag in Riga
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Insolvenz
   - Riga

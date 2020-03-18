@@ -4,7 +4,7 @@ date: 2015-10-12 15:33:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/portfolio-international.png
+image: /uploads/portfolio-international.png
 tags:
   - Experten
   - Presse
