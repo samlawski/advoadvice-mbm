@@ -42,7 +42,7 @@ Aufgrund fehlender gesetzlicher Vorgaben und Transparenzvorschriften, warnt die 
 Die systembedingte Anfälligkeit von ICOs für Betrug, Geldwäsche und Terrorismusfinanzierung erhöhe das Risiko, dass Anleger ihr eingesetztes Kapital verlieren, auch aufgrund vermeintlich notwendiger Maßnahmen von Behörden gegen Betreiber oder sonstige Personen und Unternehmen, die in solche illegalen Geschäfte einbezogen seien, so die BaFin in ihrer Warnmeldung.
 {: .present-before-paste}
 
-Die BaFin veröffentlich auf ihrer Internetseite weitere [Informationen zu ICOs](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2017/fa_bj_1711_ICO.html?nn=9021442), der [Blockchain-Technologie](https://www.bafin.de/DE/Aufsicht/FinTech/Blockchain/blockchain_node.html), [virtuellen Währungen](https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html) und [Unternehmensgründern und Fintechs](https://www.bafin.de/DE/Aufsicht/FinTech/fintech_node.html).
+Die BaFin veröffentlicht auf ihrer Internetseite weitere [Informationen zu ICOs](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2017/fa_bj_1711_ICO.html?nn=9021442), der [Blockchain-Technologie](https://www.bafin.de/DE/Aufsicht/FinTech/Blockchain/blockchain_node.html), [virtuellen Währungen](https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html) und [Unternehmensgründern und Fintechs](https://www.bafin.de/DE/Aufsicht/FinTech/fintech_node.html).
 {: .present-before-paste}
 
 ### Hinweise vom Experten

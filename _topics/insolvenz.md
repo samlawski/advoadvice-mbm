@@ -89,7 +89,7 @@ abschnitte:
       Schuldenbereinigungsversuchs. Nach Einreichen des Insolvenzantrags steht
       die Kanzlei AdvoAdvide bei Bedarf mit Rechtsrat weiter an der Seite der
       vertretenen Mandanten, auch wenn es um die Abstimmung mit einem durch das
-      Gericht eingesetzen Treuh&auml;nder bzw. Insolvenzverwalter geht. Dies auf
+      Gericht eingesetzten Treuh&auml;nder bzw. Insolvenzverwalter geht. Dies auf
       Wunsch so lange, bis die Restschuldbefreiung erteilt worden ist.
     image:
     cta: true
