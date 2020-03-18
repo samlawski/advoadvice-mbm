@@ -35,8 +35,8 @@ Auch auf dem Gebiet der Zweckentfremdung von Wohnraum ist er absoluter Fachmann.
 F&uuml;r AdvoAdvice wird er verst&auml;rkt in den folgenden Bereichen t&auml;tig sein:&nbsp;
 
 * Anwaltshaftung
-* [W](https://advoadvice.de/themen/insolvenzrecht/)iderruf von Immobiliendarlehen
-* [W](https://advoadvice.de/themen/insolvenzrecht/)iderruf von Kfz-Darlehen
+* [W](https://advoadvice.de/themen/insolvenz/)iderruf von Immobiliendarlehen
+* [W](https://advoadvice.de/themen/insolvenz/)iderruf von Kfz-Darlehen
 * Zweckentfremdung von Wohnraum
 * Falsche Berechnung von Dispozinsen
 * [P](https://advoadvice.de/themen/schufa-und-datenschutz/)rospekthaftung

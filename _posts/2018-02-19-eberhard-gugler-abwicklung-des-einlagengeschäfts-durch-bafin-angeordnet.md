@@ -24,7 +24,7 @@ author: dr-sven-tintemann
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) ordnet von Gesetzes wegen gegenüber Unternehmen die erlaubnispflichtige Geschäfte ohne entsprechende Erlaubnis der BaFin betreiben, deren Abwicklung an. Diese Anordnungen veröffentlicht die BaFin auf ihrer Webseite unter www.bafin.de.
 
-Ende des Jahres 2017 veröffentlichte die BaFin eine Meldung in Bezug auf Eberhard Gugler. [–&gt; zur Meldung](www.bafin.de/dok/10197708www.bafin.de/dok/10197708www.bafin.de/dok/10197708)
+Ende des Jahres 2017 veröffentlichte die BaFin eine Meldung in Bezug auf Eberhard Gugler. [–&gt; zur Meldung](http://www.bafin.de/dok/10197708)
 
 Demnach hat die BaFin Herrn Eberhard Gugler, Bad Rappenau, mit Bescheid vom 24. Oktober 2017 aufgegeben, das ohne Erlaubnis betriebene Einlagengeschäft unverzüglich abzuwickeln.
 

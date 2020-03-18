@@ -48,6 +48,6 @@ Verbrauchern ist daher zu raten, gerade in unsichern Zeiten rund um Fahrverbote 
 
 Die Kanzlei AdvoAdvice bietet hierf&uuml;r eine kostenfreie Ersteinsch&auml;tzung der M&ouml;glichkeit des Widerrufs ihres Kreditvertrages an. Senden Sie gerne eine Email an widerruf@advoadvice.de oder nehmen Sie direkt telefonischen Kontakt zu uns auf unter 030 / 921 000 40.
 
-**[Weitere Informationen zum Widerruf Ihrer Kfz-Finanzierung finden Sie hier.](/kreditwiderrufen.html)**
+**[Weitere Informationen zum Widerruf Ihrer Kfz-Finanzierung finden Sie hier.](/themen/kredit-widerrufen/)**
 
 &nbsp;
