@@ -4,7 +4,7 @@ date: 2018-05-30 00:00:00
 description: Klage gegen Geschäftsführer und Treuhänder der Captura GmbH eingereicht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

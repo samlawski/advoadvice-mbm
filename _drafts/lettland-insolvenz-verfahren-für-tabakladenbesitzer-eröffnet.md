@@ -6,7 +6,7 @@ description: >-
   Lagerarbeiter in Lettland für ehemaligen Selbständigen aus Baden-Württemberg
 layout: post
 style_id: post
-feature_bild_path: /uploads/latvia-2131273-1280-6.jpg
+image: /uploads/latvia-2131273-1280-6.jpg
 tags:
   - Insolvenz
   - Lettland

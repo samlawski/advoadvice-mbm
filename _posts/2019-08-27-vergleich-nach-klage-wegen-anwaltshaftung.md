@@ -4,7 +4,7 @@ date: 2019-08-27 00:00:00
 description: Vergleich nach Klage gegen ehemaligen Anwalt wegen Anwaltshaftung
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Zivilrecht
   - Anwaltshaftung

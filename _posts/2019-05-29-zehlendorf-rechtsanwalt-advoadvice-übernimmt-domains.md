@@ -6,7 +6,7 @@ description: >-
   hierdurch auf Standort in Zehlendorf aufmerksam
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Zehlendorf
   - Rechtsanwalt

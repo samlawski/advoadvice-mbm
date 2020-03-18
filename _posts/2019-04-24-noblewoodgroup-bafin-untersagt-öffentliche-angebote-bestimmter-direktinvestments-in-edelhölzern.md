@@ -6,7 +6,7 @@ date: 2019-04-24 00:00:00
 description: 'NoblewoodGroup: BaFin untersagt öffentliche Angebote von Vermögensanlagen'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Bank- und Kapitalmarktrecht
   - Rohstoffanlagen

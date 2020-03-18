@@ -4,7 +4,7 @@ date: 2018-10-31 00:00:00
 description: Klage gegen LogisFonds I GmbH vor Amtsgericht Hamburg eingereicht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Ansprüche

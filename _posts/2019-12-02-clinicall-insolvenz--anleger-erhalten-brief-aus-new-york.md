@@ -4,7 +4,7 @@ date: 2019-12-02 00:00:00
 description: ClinicAll Insolvenz – Anleger erhalten Brief aus New York?
 layout: post
 style_id: post
-feature_bild_path: /uploads/money-1005464-640-12.jpg
+image: /uploads/money-1005464-640-12.jpg
 tags:
   - ClinicAll Germany
   - ClinicAll Germany GmbH

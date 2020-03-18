@@ -8,7 +8,7 @@ description: >-
   Holding lehnt Rückzahlung ab
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - ThomasLloyd Investments GmbH
   - Firmenbuch

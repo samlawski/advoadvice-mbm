@@ -8,7 +8,7 @@ description: >-
   gescheitert
 layout: post
 style_id: post
-feature_bild_path: /uploads/money-1005464-640-1.jpg
+image: /uploads/money-1005464-640-1.jpg
 tags:
   - ClinicAll Germany
   - ClinicAll Germany GmbH

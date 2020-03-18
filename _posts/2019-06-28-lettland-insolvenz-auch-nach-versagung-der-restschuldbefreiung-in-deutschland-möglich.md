@@ -8,7 +8,7 @@ description: >-
   Deutschland durchgeführt werden
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Lettland
   - Insolvenz

@@ -4,7 +4,7 @@ date: 2017-12-19 00:00:00
 description: Prozesserfolg gegen LeaseTrend AG
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

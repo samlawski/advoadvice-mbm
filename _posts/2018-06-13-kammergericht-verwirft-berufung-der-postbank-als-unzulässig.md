@@ -4,7 +4,7 @@ date: 2018-06-13 00:00:00
 description: Postbank scheitert mit Berufung beim Kammergericht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufarecht
   - Schufaeintrag

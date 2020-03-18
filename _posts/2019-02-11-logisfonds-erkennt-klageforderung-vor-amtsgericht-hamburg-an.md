@@ -4,7 +4,7 @@ date: 2019-02-11 00:00:00
 description: Logisfonds erkennt Klageforderung vor AG Hamburg an
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Ansprüche
   - Anleger

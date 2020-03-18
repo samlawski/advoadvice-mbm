@@ -4,7 +4,7 @@ date: 2018-04-30 00:00:00
 description: OLG Karlsruhe bestätigt Entscheidung des LG Mosbach in Sachen SAM AG
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktecht

@@ -8,7 +8,7 @@ description: >-
   haftet ein Rechtsanwalt bei Klagen auf Darlehensrückabwicklung?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Widerruf
   - Darlehen

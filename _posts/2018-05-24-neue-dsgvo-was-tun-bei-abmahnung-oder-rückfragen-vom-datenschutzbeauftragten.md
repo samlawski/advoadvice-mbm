@@ -4,7 +4,7 @@ date: 2018-05-24 00:00:00
 description: Abmahnungen unter der DSGVO
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Datenschutz
   - DSGVO

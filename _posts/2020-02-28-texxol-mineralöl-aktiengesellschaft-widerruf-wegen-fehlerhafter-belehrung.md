@@ -6,7 +6,7 @@ description: >-
   Aktiengesellschaft Prüfung des Widerrufs der Anlage als stiller Gesellschafter
 layout: post
 style_id: post
-feature_bild_path: /uploads/oil-rig-2191711-1280.jpg
+image: /uploads/oil-rig-2191711-1280.jpg
 tags:
   - Texxol
   - stille Beteiligung

@@ -6,7 +6,7 @@ description: >-
   verkaufen
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - DEF Deutsche Energie Finanz 9 GmbH & Co. KG

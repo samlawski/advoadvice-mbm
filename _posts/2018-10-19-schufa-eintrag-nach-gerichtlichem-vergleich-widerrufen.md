@@ -4,7 +4,7 @@ date: 2018-10-19 00:00:00
 description: 'Synergie Inkasso: Negativeintrag nach Vergleich vor LG Berlin widerrufen'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

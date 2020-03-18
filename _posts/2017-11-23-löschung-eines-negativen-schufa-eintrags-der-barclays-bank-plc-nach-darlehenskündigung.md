@@ -8,7 +8,7 @@ description: >-
   Kündigung
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa Recht

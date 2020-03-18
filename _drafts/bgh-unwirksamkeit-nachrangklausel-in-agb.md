@@ -4,7 +4,7 @@ date:
 description:
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
 topics:
 author: dr-sven-tintemann

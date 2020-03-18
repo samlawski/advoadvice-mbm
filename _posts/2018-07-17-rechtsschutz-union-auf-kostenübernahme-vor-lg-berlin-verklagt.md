@@ -4,7 +4,7 @@ date: 2018-07-17 00:00:00
 description: Klage gegen Rechtsschutz Union vor Landgericht Berlin eingereicht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Versicherungsrecht
   - Rechtsschutzversicherung

@@ -4,7 +4,7 @@ date: 2017-10-12 00:00:00
 description: Leasetrend AG zahlt nach Zahlungsklage Guthaben an Anlegerin aus
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

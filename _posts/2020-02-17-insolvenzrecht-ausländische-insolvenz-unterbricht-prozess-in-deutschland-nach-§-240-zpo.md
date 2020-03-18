@@ -6,7 +6,7 @@ date: 2020-02-17 00:00:00
 description: Insolvenz im Ausland unterbricht Gerichtsprozesse im Inland
 layout: post
 style_id: post
-feature_bild_path: /uploads/latvia-2131273-1280-5.jpg
+image: /uploads/latvia-2131273-1280-5.jpg
 tags:
   - Insolvenz
   - Ausland

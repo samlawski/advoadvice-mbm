@@ -6,7 +6,7 @@ date: 2017-10-02 00:00:00
 description: 'Wurstwelten GmbH: Einstellung und Abwicklung des Einlagengeschäfts angeordnet'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformationen
   - Wurstwelten
