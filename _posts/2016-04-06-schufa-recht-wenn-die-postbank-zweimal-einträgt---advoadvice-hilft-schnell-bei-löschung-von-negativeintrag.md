@@ -4,7 +4,7 @@ date: 2016-04-06 12:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

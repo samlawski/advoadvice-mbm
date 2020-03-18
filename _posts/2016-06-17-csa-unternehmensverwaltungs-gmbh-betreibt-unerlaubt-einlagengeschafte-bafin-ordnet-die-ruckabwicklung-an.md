@@ -4,7 +4,7 @@ date: 2016-06-17 09:15:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags: ["Anlegerschutz", "Bankrecht", "Kapitalmarktrecht", "BaFin", "AdvoAdvice", "KWG", "Rückabwicklung", "CSA Unternehmensverwaltungs-GmbH", "CSA", "Einlagengeschäft"]
 topics: []
 author: dr-sven-tintemann

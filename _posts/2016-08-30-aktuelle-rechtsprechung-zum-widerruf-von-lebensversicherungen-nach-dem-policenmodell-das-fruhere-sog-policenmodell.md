@@ -4,7 +4,7 @@ date: 2016-08-30 09:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags: ["Policenmodell", "Widerruf", "Lebensversicherung", "Ewiges Widerrufsrecht", "BGH", "BVerfG", "Karlsruhe"]
 topics: []
 author: dr-sven-tintemann
