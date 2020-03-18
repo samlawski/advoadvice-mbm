@@ -6,7 +6,7 @@ description: >-
   Ltd.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - ThomasLloyd
   - CT Infrastructure Holding Ltd.

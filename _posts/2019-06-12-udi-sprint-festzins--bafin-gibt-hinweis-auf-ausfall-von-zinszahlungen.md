@@ -6,7 +6,7 @@ date: 2019-06-12 00:00:00
 description: 'UDI Sprint Festzins IV, Festzins 12,11,10 GmbH & Co. KG'
 layout: post
 style_id: post
-feature_bild_path: /uploads/money-1005464-640-9.jpg
+image: /uploads/money-1005464-640-9.jpg
 tags:
   - BaFin
   - UDI

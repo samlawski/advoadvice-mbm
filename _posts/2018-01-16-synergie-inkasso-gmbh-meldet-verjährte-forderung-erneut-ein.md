@@ -4,7 +4,7 @@ date: 2018-01-16 00:00:00
 description: Synergie Inkasso GmbH hat eine verjährte Forderung bei der Schufa eingemeldet
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa Recht
   - Schufa-Eintrag

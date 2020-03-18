@@ -8,7 +8,7 @@ description: >-
   Schadenersatzansprüche verjährt sind
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - AdvoAdvice

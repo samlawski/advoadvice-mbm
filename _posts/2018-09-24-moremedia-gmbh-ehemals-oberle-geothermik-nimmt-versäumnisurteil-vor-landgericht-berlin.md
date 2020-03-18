@@ -6,7 +6,7 @@ date: 2018-09-24 00:00:00
 description: Versäumnisurteil gegen MoreMedia GmbH vor Landgericht Berlin
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anleger
   - Oberle Geothermik

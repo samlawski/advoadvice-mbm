@@ -6,7 +6,7 @@ date: 2018-06-21 00:00:00
 description: Reservierungsvereinbarung - Geld zurück vom Makler?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - AdvoAdvice
   - Immobilie

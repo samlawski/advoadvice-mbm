@@ -4,7 +4,7 @@ date: 2019-07-05 00:00:00
 description: 'Lettland Insolvenz: 2. Informationstag in Berlin'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Insolvenz
   - Riga

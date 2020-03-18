@@ -4,7 +4,7 @@ date: 2019-09-17 00:00:00
 description: Finanztest setzt drei Thomas Lloyd Fonds auf Warnliste
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - ThomasLloyd
   - CTI 5 D

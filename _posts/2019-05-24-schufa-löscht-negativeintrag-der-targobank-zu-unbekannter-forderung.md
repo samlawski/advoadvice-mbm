@@ -4,7 +4,7 @@ date: 2019-05-24 00:00:00
 description: 'Schufa-Recht: Negativeintrag der Targobank gelöscht'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

@@ -4,7 +4,7 @@ date: 2017-06-02 00:00:00
 description: WELT über Lehman Klagen mit Anwälten von AdvoAdvice
 layout: post
 style_id: post
-feature_bild_path: /uploads/welt-n24-quadrat.jpg
+image: /uploads/welt-n24-quadrat.jpg
 tags:
   - Experten
   - Presse

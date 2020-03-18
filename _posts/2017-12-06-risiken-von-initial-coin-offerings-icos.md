@@ -4,7 +4,7 @@ date: 2017-12-06 00:00:00
 description: Risiken von Initial Coin Offerings
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - Bankrecht

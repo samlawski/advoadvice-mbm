@@ -4,7 +4,7 @@ date: 2018-02-16 00:00:00
 description: Sparkasse verdient aufgrund unwirksamer Klauseln diverse Entgelte.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - Sparkasse

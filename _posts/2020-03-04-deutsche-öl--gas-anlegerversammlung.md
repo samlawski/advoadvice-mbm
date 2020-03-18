@@ -6,7 +6,7 @@ description: >-
   Zahlungefristen für Schuldverschreibung aus Anleihe verlängern.
 layout: post
 style_id: post
-feature_bild_path: /uploads/oil-industry-3289176-1280-1.jpg
+image: /uploads/oil-industry-3289176-1280-1.jpg
 tags:
   - Schuldverschreibung
   - Deutsche Öl und Gas S.A.

@@ -4,7 +4,7 @@ date: 2017-04-14 00:00:00
 description: NTV Beitrag zum Thema Schufa mit Anwälten von AdvoAdvice
 layout: post
 style_id: post
-feature_bild_path: "/uploads/versions/ntv-logo---x----200-200x---.png"
+image: "/uploads/versions/ntv-logo---x----200-200x---.png"
 tags:
   - Experten
   - Presse

@@ -8,7 +8,7 @@ description: >-
   durch Sparkassen vor Erreichen der höchsten Prämienstufe möglich
 layout: post
 style_id: post
-feature_bild_path: /uploads/bank-2907728-640-1.jpg
+image: /uploads/bank-2907728-640-1.jpg
 tags:
   - Sparverträge
   - Kündigung

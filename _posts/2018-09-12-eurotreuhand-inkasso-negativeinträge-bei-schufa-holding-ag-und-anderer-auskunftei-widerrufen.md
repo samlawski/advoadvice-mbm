@@ -6,7 +6,7 @@ date: 2018-09-12 00:00:00
 description: Eurotreuhand Inkasso widerruft Negativeintrag bei der SCHUFA
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

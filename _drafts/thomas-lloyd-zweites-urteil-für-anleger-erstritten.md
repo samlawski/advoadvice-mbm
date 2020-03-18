@@ -6,7 +6,7 @@ description: >-
   Rechtsnachfolgerin der Thomas Llyod Investments GmbH zur Zahlung an Anleger
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
 topics:
   - anlegerschutz

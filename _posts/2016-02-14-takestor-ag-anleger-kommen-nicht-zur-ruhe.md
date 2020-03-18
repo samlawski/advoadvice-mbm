@@ -4,7 +4,7 @@ date: 2016-02-14 17:00:00 -0600
 description:
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags: ["Takestor", "Insolvenz", "Insolvenzverwalter", "Tim Schneider", "Zahlungsaufforderung", "Anleger", "Schaden"]
 topics: []
 author: dr-sven-tintemann

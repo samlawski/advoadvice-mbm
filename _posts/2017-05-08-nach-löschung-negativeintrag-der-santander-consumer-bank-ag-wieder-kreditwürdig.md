@@ -4,7 +4,7 @@ date: 2017-05-08 00:00:00
 description: 'Schufa-Recht: Junger Unternehmer nach Löschung eines  Negativeintrages der Santander Consumer Bank AG wieder kreditwürdig'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

@@ -4,7 +4,7 @@ date: 2019-11-04 00:00:00
 description: SCHUFA löscht Negativeintrag der Deutschen Bank
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa Recht

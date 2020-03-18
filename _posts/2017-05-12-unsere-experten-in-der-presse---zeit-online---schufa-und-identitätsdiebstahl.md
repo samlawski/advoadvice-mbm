@@ -4,7 +4,7 @@ date: 2017-05-12 00:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/zeitonline-logo.png
+image: /uploads/zeitonline-logo.png
 tags:
   - Experten
   - Presse

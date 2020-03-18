@@ -4,7 +4,7 @@ date: 2019-11-11 00:00:00
 description: Balsa-Bauminvest nichts mehr wert? Was Anleger wissen sollten.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Balsa-Investment
   - ShareWood

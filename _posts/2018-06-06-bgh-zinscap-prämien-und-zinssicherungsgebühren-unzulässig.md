@@ -4,7 +4,7 @@ date: 2018-06-06 00:00:00
 description: Zinscap-Prämien und Zinssicherungsgebühren durch BGH für unwirksam erklärt
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerinformation
   - Rückzahlung

@@ -4,7 +4,7 @@ date: 2015-10-12 17:41:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/vur.png
+image: /uploads/vur.png
 tags:
   - Schufa Recht
   - Experten

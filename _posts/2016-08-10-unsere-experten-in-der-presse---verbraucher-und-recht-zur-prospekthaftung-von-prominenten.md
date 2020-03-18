@@ -4,7 +4,7 @@ date: 2016-08-10 00:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/vur.png
+image: /uploads/vur.png
 tags:
   - Experten
   - Presse

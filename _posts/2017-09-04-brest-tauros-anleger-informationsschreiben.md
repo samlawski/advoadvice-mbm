@@ -4,7 +4,7 @@ date: 2017-09-04 00:00:00
 description: Brest Tauros Anleger erhalten Info-Schreiben von AdvoAdvice
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Kapitalmarktrecht
   - Ansprüche

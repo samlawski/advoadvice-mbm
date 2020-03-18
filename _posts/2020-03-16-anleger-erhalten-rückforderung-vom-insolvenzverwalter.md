@@ -6,7 +6,7 @@ description: >-
   von Auszahlungen vom Insolvenzverwalter
 layout: post
 style_id: post
-feature_bild_path: /uploads/football-1406106-1280.jpg
+image: /uploads/football-1406106-1280.jpg
 tags:
   - Hanseatische Fußball Kontor GmbH
   - Insolvenz

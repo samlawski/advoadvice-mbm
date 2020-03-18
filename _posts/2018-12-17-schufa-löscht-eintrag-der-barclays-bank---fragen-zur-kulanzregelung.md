@@ -4,7 +4,7 @@ date: 2018-12-17 00:00:00
 description: Schufa-Eintrag wegen alter Kulanzregelung gelöscht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

@@ -4,7 +4,7 @@ date: 2017-05-09 00:00:00
 description: Haben unverheiratete Paare bei nicht erfülltem Kinderwunsch Recht auf Erstattung der Aufwendungen durch die private Krankenversicherung?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Versicherungsrecht
   - Kosten

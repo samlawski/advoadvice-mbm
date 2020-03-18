@@ -4,7 +4,7 @@ date: 2019-01-31 00:00:00
 description: Gefahr einer Abmahnung bei unzureichendem  Datenschutzhinweis
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Datenschutz
   - DSVGO

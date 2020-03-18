@@ -4,7 +4,7 @@ date: 2017-08-08 00:00:00
 description: Landgericht Berlin verurteilt SAM AG Beraterin zum Schadensersatz
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

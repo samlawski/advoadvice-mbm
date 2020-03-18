@@ -4,7 +4,7 @@ date: 2018-01-10 00:00:00
 description: NL Nord Lease zahlt nach Klage vor Amtsgericht Hamburg
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

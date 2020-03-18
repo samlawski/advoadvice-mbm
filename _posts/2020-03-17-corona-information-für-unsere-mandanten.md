@@ -6,7 +6,7 @@ description: >-
   weiterhin online und im Homeoffice.
 layout: post
 style_id: post
-feature_bild_path: /uploads/corona-4916954-1280.jpg
+image: /uploads/corona-4916954-1280.jpg
 tags:
   - Corona
   - Homeoffice

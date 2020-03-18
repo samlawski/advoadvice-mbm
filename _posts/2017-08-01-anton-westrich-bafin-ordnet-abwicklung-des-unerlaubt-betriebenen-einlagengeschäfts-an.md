@@ -6,7 +6,7 @@ date: 2017-08-01 00:00:00
 description: Anton Westrich wurde Einlagengeschäft durch BaFin untersagt
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Ansprüche
   - Betroffener

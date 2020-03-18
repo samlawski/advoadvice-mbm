@@ -4,7 +4,7 @@ date: 2018-07-03 00:00:00
 description: Die neue Datenkopie der SCHUFA
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Recht
   - Schufa

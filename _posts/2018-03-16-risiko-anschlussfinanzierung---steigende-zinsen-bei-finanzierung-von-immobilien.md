@@ -8,7 +8,7 @@ description: >-
   Immobilien
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Baufinanzierung
   - Anschlusfinanzierung

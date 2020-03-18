@@ -6,7 +6,7 @@ description: >-
   Problemen mit Schufa-Eintrag.
 layout: post
 style_id: post
-feature_bild_path: /uploads/euro-163475-640-1.jpg
+image: /uploads/euro-163475-640-1.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
