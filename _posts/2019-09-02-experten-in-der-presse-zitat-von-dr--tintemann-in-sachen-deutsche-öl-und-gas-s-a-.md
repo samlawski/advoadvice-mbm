@@ -40,7 +40,7 @@ Rechtsanwalt Dr. Tintemann wird zu dem Thema der Preisbildung zu Aktien der Deut
 
 Den vollst&auml;ndigen Artikel finden Sie in der aktuellen Ausgabe der Zeitschrift Capital vom September 2019 und wahrscheinlich ab Oktober online unter www.capital.de.
 
-Informationen zur Anlegergemeinschaft f&uuml;r Anleger der Deutsche Öl und Gas S.A. sowie der US Öl und Gasfonds sowie der US Öl und Gas Namensschuldverschreibungen finden Sie unter www.advoadvice.de/blog.&nbsp;
+Informationen zur Anlegergemeinschaft f&uuml;r Anleger der Deutsche Öl und Gas S.A. sowie der US Öl und Gasfonds sowie der US Öl und Gas Namensschuldverschreibungen finden Sie unter advoadvice.de/blog.&nbsp;
 
 R&uuml;ckfragen können Sie gerne unter info@advoadvice.de oder 030 921 000 40 an die Kanzlei AdvoAdvice und an Dr. Sven Tintemann richten.&nbsp;&nbsp;
 
