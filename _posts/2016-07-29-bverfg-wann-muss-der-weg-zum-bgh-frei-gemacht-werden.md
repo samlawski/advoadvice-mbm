@@ -4,7 +4,7 @@ date: 2016-07-29 07:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: ""
+feature_bild_path:
 tags: ["Bundesverfassungsgericht", "Bundesgerichtshof", "Karlsruhe", "Revision", "Versicherungsrecht", "Urteil", "Advoadvice", "Widerruf"]
 topics: []
 author: dr-sven-tintemann
