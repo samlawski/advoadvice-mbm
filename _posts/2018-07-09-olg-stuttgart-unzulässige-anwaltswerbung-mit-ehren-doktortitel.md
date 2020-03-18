@@ -4,7 +4,7 @@ date: 2018-07-09 00:00:00
 description: Anwaltswerbung mit Ehren-Doktor unzulässig
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Standesrecht
   - Rechtsanwalt

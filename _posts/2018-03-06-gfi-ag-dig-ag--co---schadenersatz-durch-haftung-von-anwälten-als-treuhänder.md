@@ -6,7 +6,7 @@ description: >-
   GFI AG, DIG AG - Haftet der Anwalt als Treuhänder?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - DIG AG
   - Rechtsanwalt

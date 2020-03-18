@@ -4,7 +4,7 @@ date: 2018-06-12 00:00:00
 description: Minister Scheuer ordnet Rückruf von 238.000 Daimer Fahrzeugen an.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - Rückruf

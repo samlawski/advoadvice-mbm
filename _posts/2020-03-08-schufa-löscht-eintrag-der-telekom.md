@@ -4,7 +4,7 @@ date: 2020-03-08 00:00:00
 description: Schufa Eintrag der Telekom nach Klage vor dem Landgericht Kiel gelöscht.
 layout: post
 style_id: post
-feature_bild_path: /uploads/architecture-2074966-1280.jpg
+image: /uploads/architecture-2074966-1280.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht

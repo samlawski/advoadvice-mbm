@@ -6,7 +6,7 @@ date: 2018-10-22 00:00:00
 description: Pflegeimmobilien – der neue Hit auf dem Kapitalmarkt?!
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Pflegeimmobilie
   - Klevenhagen

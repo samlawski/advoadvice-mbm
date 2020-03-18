@@ -4,7 +4,7 @@ date: 2016-12-05 00:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/prev-logo.jpg
+image: /uploads/prev-logo.jpg
 tags:
   - Experten
   - Presse

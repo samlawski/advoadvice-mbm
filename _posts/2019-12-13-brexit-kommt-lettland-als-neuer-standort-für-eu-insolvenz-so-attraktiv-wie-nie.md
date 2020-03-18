@@ -8,7 +8,7 @@ description: >-
   attraktiv wie nie zuvor
 layout: post
 style_id: post
-feature_bild_path: /uploads/flag-1090955-640-1.jpg
+image: /uploads/flag-1090955-640-1.jpg
 tags:
   - Insolvenz
   - Lettland

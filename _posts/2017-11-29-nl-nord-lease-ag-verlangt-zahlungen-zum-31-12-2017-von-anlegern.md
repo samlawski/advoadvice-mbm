@@ -4,7 +4,7 @@ date: 2017-11-29 00:00:00
 description: NL Nord Lease AG fordert Anleger zur Zahlung zum Jahresende auf
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - NL Nord Lease AG

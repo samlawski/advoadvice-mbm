@@ -6,7 +6,7 @@ description: >-
   zusammen
 layout: post
 style_id: post
-feature_bild_path: /uploads/berliner-anwaltsblatt-1.png
+image: /uploads/berliner-anwaltsblatt-1.png
 tags:
   - Experten in den Medien
   - Berliner Anwaltsblatt

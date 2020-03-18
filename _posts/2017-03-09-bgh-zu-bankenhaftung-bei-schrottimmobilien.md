@@ -4,7 +4,7 @@ date: 2017-03-09 00:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktecht

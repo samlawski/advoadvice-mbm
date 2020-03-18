@@ -4,7 +4,7 @@ date: 2016-08-26 07:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags: ["airbnb", "Mietrecht", "Kündigung", "Wohnraum", "Berlin", "Untervermietung", "AdvoAdvice"]
 topics: []
 author: dr-sven-tintemann

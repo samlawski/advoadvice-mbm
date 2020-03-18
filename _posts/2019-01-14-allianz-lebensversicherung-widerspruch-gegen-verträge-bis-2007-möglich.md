@@ -4,7 +4,7 @@ date: 2019-01-14 00:00:00
 description: 'OLG Stuttgart: Verbraucherinformationen der Allianz Lebensversicherungs AG'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - AdovAdvice
   - Anlegerschutz

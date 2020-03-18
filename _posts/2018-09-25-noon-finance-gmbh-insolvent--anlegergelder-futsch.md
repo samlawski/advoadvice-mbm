@@ -4,7 +4,7 @@ date: 2018-09-25 00:00:00
 description: Noon Finance Gmbh insolvent. Was Anleger jetzt wissen müssen.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Ansprüche
   - betroffener

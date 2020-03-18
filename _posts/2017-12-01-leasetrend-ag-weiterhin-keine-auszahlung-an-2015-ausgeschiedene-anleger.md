@@ -4,7 +4,7 @@ date: 2017-12-01 00:00:00
 description: LeaseTrend AG zahlt weiterhin Raten an Anleger nicht aus
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - Leasetrend AG

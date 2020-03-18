@@ -4,7 +4,7 @@ date: 2016-06-28 08:00:00 -0500
 description: "Ist die IFMC-Group GmbH ihrer Abwicklungsverfügung wirklich im Sinne der BaFin nachgekommen? Welche Rolle spielt dabei die MoneyVita Treuhand GmbH & Co. KG ?"
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags: ["IFMC-Group GmbH", "Abwicklungsverfügung", "BaFin", "MoneyVita Treuhand GmbH & Co. KG", "Anleger", "Anlegerschutz", "Rückabwicklung", "Geschäftsmodell", "AdvoAdvice", "Schadensersatz"]
 topics: []
 author: dr-sven-tintemann

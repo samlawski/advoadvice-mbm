@@ -4,7 +4,7 @@ date: 2018-10-15 00:00:00
 description: Negativeintrag aus Schuldnerverzeichnis und SCHUFA gelöscht
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

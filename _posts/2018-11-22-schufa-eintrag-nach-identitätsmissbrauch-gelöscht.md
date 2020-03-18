@@ -4,7 +4,7 @@ date: 2018-11-22 00:00:00
 description: Identitätsmissbrauch und SCHUFA-Eintrag
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Recht
   - Schufa-Eintrag

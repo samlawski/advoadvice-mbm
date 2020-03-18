@@ -4,7 +4,7 @@ date: 2016-04-16 00:00:00
 description:
 layout: post
 style_id: post
-feature_bild_path: /uploads/453px-antenne-1-logo-svg-.png
+image: /uploads/453px-antenne-1-logo-svg-.png
 tags:
   - Experten
   - Presse

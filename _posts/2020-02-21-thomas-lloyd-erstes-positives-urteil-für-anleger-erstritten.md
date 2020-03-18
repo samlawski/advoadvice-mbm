@@ -6,7 +6,7 @@ description: >-
   Rechtsnachfolgerin der Thomas Llyod Investments GmbH zur Zahlung an Anleger
 layout: post
 style_id: post
-feature_bild_path: /uploads/judgment-3667391-640-1.jpg
+image: /uploads/judgment-3667391-640-1.jpg
 tags:
   - Erfolg
   - Urteil

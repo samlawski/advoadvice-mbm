@@ -7,7 +7,7 @@ description: >-
   wirken sich spätestens nach der Karriere aus.
 layout: post
 style_id: post
-feature_bild_path: /uploads/sport-1201014_1280.jpg
+image: /uploads/sport-1201014_1280.jpg
 tags:
   - Sport
   - Leistungssport

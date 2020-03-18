@@ -4,7 +4,7 @@ date: 2017-11-22 00:00:00
 description: Takestor Insolvenzverwalter schickt Anlegern Mahnbescheide vor Weihnachten
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerinformation
   - Kapitalmarktrecht

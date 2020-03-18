@@ -4,7 +4,7 @@ date: 2019-11-01 00:00:00
 description: Rechtsanwalt Martin Sommerfeld verstärkt Kanzlei AdvoAdvice
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Martin Sommerfeld
   - AdvoAdvice

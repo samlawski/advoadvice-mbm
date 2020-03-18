@@ -4,7 +4,7 @@ date: 2019-09-12 00:00:00
 description: 'PIM Gold - Anleger in Sorge - Goldfehlbestand 1,9 Tonnen?'
 layout: post
 style_id: post
-feature_bild_path: /uploads/gold-bars-2467833-1920.jpg
+image: /uploads/gold-bars-2467833-1920.jpg
 tags:
   - PIM Gold
   - Pim Gold und Scheideanstalt GmbH

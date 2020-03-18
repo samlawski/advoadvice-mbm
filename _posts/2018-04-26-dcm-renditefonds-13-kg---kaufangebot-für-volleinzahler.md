@@ -4,7 +4,7 @@ date: 2018-04-26 00:00:00
 description: DCM 13 KG - Kaufangebot zu 22% für Volleinzahler
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

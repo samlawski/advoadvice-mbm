@@ -4,7 +4,7 @@ date: 2018-07-25 00:00:00
 description: Alphapool Insolvenzverwalter fordert Rückzahlung von Anlegern
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

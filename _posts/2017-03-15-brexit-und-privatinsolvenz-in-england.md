@@ -4,7 +4,7 @@ date: 2017-03-15 00:00:00
 description: Über die Auswirkungen des Brexit auf das Privatinsolvenzverfahren für Deutsche in England
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Insolvenz
   - Verbraucherinformation

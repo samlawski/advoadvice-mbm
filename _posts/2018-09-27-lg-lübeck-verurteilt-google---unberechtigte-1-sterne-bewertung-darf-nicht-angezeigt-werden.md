@@ -6,7 +6,7 @@ date: 2018-09-27 00:00:00
 description: Google muss Fake-Bewertung löschen
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Datenschutz
   - Google

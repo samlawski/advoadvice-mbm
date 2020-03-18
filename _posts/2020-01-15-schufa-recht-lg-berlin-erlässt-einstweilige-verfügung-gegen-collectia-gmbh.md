@@ -4,7 +4,7 @@ date: 2020-01-15 00:00:00
 description: Collectia GmbH zum Widerruf eines Negativeintrages verurteilt.
 layout: post
 style_id: post
-feature_bild_path: /uploads/man-2037255-1280-1.jpg
+image: /uploads/man-2037255-1280-1.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht

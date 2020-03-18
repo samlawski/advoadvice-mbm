@@ -4,7 +4,7 @@ date: 2019-03-28 00:00:00
 description: 'Alphapool: BGH weist Revision gegen Strafurteil zurück'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Alphapool

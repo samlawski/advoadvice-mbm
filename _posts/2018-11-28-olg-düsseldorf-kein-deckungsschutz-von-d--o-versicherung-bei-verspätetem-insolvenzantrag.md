@@ -8,7 +8,7 @@ description: >-
   gestelltem Insolvenzantrag
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - OLG Düsseldorf
   - Urteil

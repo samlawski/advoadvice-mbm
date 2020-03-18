@@ -6,7 +6,7 @@ date: 2019-05-15 00:00:00
 description: DIG Premium Select bR 2 - ArgoVent Gruppe Berlin - Wohin geht die Reise?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - DIG Premium Select bR
   - DIG Premium Select bR2

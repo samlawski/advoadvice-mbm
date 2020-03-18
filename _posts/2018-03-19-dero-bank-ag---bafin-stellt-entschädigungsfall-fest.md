@@ -4,7 +4,7 @@ date: 2018-03-19 00:00:00
 description: BaFin stellt Entschädigungsfall bei der Dero Bank AG fest
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - BaFin

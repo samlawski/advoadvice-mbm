@@ -4,7 +4,7 @@ date: 2016-05-10 12:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path: 
+image: 
 tags: ["Arbeitskreis", "Bankrecht", "Kapitalmarktrecht", "Anwaltsverein", "Kirchner", "Christiani", "Liebscher", "Tintemann"]
 topics: []
 author: dr-sven-tintemann

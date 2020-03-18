@@ -6,7 +6,7 @@ date: 2017-09-08 00:00:00
 description: Prosavus Anlager sollen Scheingewinne an Insolvenzverwalter zurückzahlen
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

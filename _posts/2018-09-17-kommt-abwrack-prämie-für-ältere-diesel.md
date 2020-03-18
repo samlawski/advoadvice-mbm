@@ -4,7 +4,7 @@ date: 2018-09-17 00:00:00
 description: Kommt jetzt Abwrack-Prämie für alte Diesel?
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Diesel
   - Widerruf

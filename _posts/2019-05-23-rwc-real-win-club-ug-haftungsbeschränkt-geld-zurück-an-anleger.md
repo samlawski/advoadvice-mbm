@@ -8,7 +8,7 @@ description: >-
   Abwicklung des Einlagengeschäfts an
 layout: post
 style_id: post
-feature_bild_path: /uploads/money-1005464-640-8.jpg
+image: /uploads/money-1005464-640-8.jpg
 tags:
   - RWC UG
   - RWC Real Win Club UG
