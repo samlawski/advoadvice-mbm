@@ -4,7 +4,7 @@ date: 2019-04-23 00:00:00
 description: 'ImmoAnlageKonzept GmbH: BaFin ordnet Abwicklung des Einlagengeschäft an'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - BaFin
   - Einlagengeschäft

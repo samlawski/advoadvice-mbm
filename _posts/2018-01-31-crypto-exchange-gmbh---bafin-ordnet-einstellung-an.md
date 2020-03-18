@@ -4,7 +4,7 @@ date: 2018-01-31 00:00:00
 description: BaFin untersagt Crypto-exchange GmbH das Finanzkommissionsgeschäft
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherinformation
   - BaFin

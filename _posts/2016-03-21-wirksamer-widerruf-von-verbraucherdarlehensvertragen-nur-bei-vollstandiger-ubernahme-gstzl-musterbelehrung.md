@@ -4,7 +4,7 @@ date: 2016-03-21 18:00:00 -0500
 description:
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags: ["Widerrufsbelehrung", "Darlehensverträge", "Darlehensvertrag", "Musterbelehrung", "Widerrufs-Joker", "Klevenhagen", "Rechtsanwalt", "AdvoAdvice"]
 topics: []
 author: kim-oliver-klevenhagen

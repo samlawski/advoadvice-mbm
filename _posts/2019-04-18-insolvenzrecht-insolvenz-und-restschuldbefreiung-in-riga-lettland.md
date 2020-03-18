@@ -4,7 +4,7 @@ date: 2019-04-18 00:00:00
 description: Insolvenz in Riga (Lettland) führt zu schneller Restschuldbefreiung
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Insolvenz
   - Riga

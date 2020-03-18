@@ -4,7 +4,7 @@ date: 2017-08-31 00:00:00
 description: DEF 11 KG informiert Anleger und droht mit Insolvenz
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - Kapitalmarktrecht

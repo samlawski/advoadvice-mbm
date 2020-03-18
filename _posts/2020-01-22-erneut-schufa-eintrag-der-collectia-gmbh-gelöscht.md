@@ -4,7 +4,7 @@ date: 2020-01-22 00:00:00
 description: SCHUFA löscht Negativeintrag der Collectia GmbH
 layout: post
 style_id: post
-feature_bild_path: /uploads/dsgvo-3446011-1920-9.jpg
+image: /uploads/dsgvo-3446011-1920-9.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht

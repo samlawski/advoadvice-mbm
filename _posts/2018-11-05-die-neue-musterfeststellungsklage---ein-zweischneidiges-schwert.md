@@ -4,7 +4,7 @@ date: 2018-11-05 00:00:00
 description: Die neue Musterfeststellungsklage - ein zweischneidiges Schwert
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Musterfeststellungsklage
   - Rechtsanwalt

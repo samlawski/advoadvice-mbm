@@ -6,7 +6,7 @@ date: 2017-08-07 00:00:00
 description: Anleger in Genussrechte von Butlers gehen bei Insolvenz leer aus
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Verbraucherschutz
   - Ansprüche

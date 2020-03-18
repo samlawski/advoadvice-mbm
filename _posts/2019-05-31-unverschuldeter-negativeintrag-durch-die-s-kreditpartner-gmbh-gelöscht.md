@@ -4,7 +4,7 @@ date: 2019-05-31 00:00:00
 description: Fehler einer anderen Bank führte zu Negativeintrag
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

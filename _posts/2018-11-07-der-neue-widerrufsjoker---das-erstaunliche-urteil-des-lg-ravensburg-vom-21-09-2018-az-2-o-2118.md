@@ -11,7 +11,7 @@ description: >-
   Widerrufsjoker bei Darlehensverträgen gewährt.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Widerrufsrecht
   - Widerrufsjoker

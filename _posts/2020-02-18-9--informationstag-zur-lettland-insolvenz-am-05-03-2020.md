@@ -6,7 +6,7 @@ description: >-
   Lettland Insolvenz statt.
 layout: post
 style_id: post
-feature_bild_path: /uploads/latvia-1758828-640-2.png
+image: /uploads/latvia-1758828-640-2.png
 tags:
   - Insolvenz
   - Informationstag

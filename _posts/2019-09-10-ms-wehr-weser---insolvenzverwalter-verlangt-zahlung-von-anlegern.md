@@ -6,7 +6,7 @@ description: >-
   von Anlegern
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - MS Wehr Weser
   - Insolvenz

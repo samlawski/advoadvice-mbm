@@ -6,7 +6,7 @@ date: 2019-02-24 00:00:00
 description: 'ThomasLloyd: Vorsicht bei der Nutzung von vorgegebenen Antworten'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anlegerschutz
   - ThomasLloyd

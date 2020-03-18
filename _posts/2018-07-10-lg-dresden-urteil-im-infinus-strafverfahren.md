@@ -4,7 +4,7 @@ date: 2018-07-10 00:00:00
 description: Infinus Skandal - Strafurteil gegen Hintermänner
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Ansprüche
   - Geschädigter

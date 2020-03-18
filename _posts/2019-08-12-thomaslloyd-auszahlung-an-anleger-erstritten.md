@@ -4,7 +4,7 @@ date: 2019-08-12 00:00:00
 description: 'ThomasLloyd: Zahlung an 2016 ausgeschiedenen Anleger'
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - CT Infrastructure Holding Ltd.
   - Zahlung

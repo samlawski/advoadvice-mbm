@@ -4,7 +4,7 @@ date: 2018-04-10 00:00:00
 description: Gerichtlicher Vergleich führt zur Löschung eines Schufa Eintrages
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa Recht

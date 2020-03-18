@@ -4,7 +4,7 @@ date: 2018-05-25 00:00:00
 description: Haftet ein Anwalt bei Abwicklung von Verträgen für Versicherungsankäufer
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - AdovAdvice
   - Treuhänder

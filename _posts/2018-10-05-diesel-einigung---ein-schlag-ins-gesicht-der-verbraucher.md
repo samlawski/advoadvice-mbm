@@ -4,7 +4,7 @@ date: 2018-10-05 00:00:00
 description: Diesel-Einigung - Was Verbraucher jetzt wissen sollten
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Diesel
   - Fahrverbot

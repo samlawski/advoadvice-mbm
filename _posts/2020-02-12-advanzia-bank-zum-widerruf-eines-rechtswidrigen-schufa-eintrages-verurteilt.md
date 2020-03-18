@@ -4,7 +4,7 @@ date: 2020-02-12 16:24:57
 description: SCHUFA-Eintrag nach vielen Fehlern der Advanzia Bank gelöscht.
 layout: post
 style_id: post
-feature_bild_path: /uploads/american-express-89024-640-7.jpg
+image: /uploads/american-express-89024-640-7.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht

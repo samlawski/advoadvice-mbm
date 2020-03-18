@@ -4,7 +4,7 @@ date: 2018-08-07 00:00:00
 description: Forderung bei der SCHUFA nach gerichtlichem Vergleich widerrufen.
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Schufa-Eintrag
   - Schufa-Recht

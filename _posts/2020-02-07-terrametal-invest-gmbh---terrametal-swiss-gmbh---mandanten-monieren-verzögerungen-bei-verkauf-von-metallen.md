@@ -10,7 +10,7 @@ description: >-
   in Zollfreilagern, beispielsweise in der Schweiz, deponieren.
 layout: post
 style_id: post
-feature_bild_path: /uploads/erz.jpg
+image: /uploads/erz.jpg
 tags:
   - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
   - AdvoAdvice

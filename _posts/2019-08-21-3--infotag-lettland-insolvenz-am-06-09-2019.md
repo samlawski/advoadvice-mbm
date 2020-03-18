@@ -4,7 +4,7 @@ date: 2019-08-21 00:00:00
 description: Informationstag zur Lettland Insolvenz bei AdvoAdvice in Berlin am 06.09.2019
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - EU-Insolvenz
   - Restschuldbefreiung

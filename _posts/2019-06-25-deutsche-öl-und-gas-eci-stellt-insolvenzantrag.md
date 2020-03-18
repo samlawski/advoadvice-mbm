@@ -6,7 +6,7 @@ description: >-
   stellt Insolvenzantrag
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Ansprüche
   - geschädigter

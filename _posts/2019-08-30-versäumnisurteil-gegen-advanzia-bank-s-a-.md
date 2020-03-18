@@ -6,7 +6,7 @@ description: >-
   Negativeintrages
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Advanzia Bank S.A.
   - Schufa

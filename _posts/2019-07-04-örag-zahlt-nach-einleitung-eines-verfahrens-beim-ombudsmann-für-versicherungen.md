@@ -4,7 +4,7 @@ date: 2019-07-04 00:00:00
 description: Ombudsmannverfahren führt zum Ausgleich außergerichtlicher Rechtsanwaltskosten
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Versicherungsrecht
   - Rechtsschutzversicherung

@@ -8,7 +8,7 @@ description: >-
   Anleger auf Zahlung
 layout: post
 style_id: post
-feature_bild_path:
+image:
 tags:
   - Anleger
   - Immobilienfonds Neue Bundesländer No. 3 GdbR
