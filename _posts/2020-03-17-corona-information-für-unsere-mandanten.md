@@ -42,9 +42,9 @@ Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin bietet Ihren Mandanten und 
 Wir beraten unsere Mandanten in Zeiten von Corona gerne auch zu folgenden Fragestellungen:&nbsp;
 
 * [Fragen von Leistungssportlern zu Corona](#spezialgebiet-leistungssport)
-* Fragen zu Schadensersatz bei Corona
-* Fragen zur Kreditgewährung bei Corona
-* Fragen zu Zahlungsunfähigkeit und Insolvenz
+* [Fragen zu Schadensersatz bei Corona](#spezialgebiet-ausgleichszahlungen)
+* [Fragen zur Kreditgewährung bei Corona](#spezialgebiet-kreditanträge)
+* [Fragen zu Zahlungsunfähigkeit und Insolvenz](#spezialgebiet-unternehmen-in-der-krise-bzw-insolvenz)
 
 ### Schutz für Mandanten und Mitarbeiter
 
