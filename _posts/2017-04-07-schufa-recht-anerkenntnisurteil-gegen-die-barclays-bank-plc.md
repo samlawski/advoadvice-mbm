@@ -42,7 +42,7 @@ Zudem wurde die Barclays Bank zur Unterlassung in der Zukunft verurteilt ebenso 
 
 Der zuständige Rechtsanwalt Dr. Sven Tintemann kommentierte wie folgt: "Bereits im Verfahren zur einstweiligen Verfügung konnte die Beklagte nicht nachweisen, dass die gesetzlichen Bestimmungen für eine Datenübermittlung vorlagen. Es hätte demnach nicht zu einem Schufa-Eintrag kommen dürfen. Durch die zwei unterschiedlichen Prozesse im Verfahren um den Erlass einer einstweilige Verfügung und den Prozess in der Hauptsache, muss die Barclays Bank nunmehr die Kosten für beide Prozesse voll zahlen. Mit dem Anerkenntnis der Forderungen in der Hauptsache sollte wohl ein Musterurteil des Landgerichts Hamburg in Sachen Schriftformerfordernis verhindert werden."
 
-Zu der Frage nach einem Schriftformerfordernis bei Mahnschreiben nach § 28 a Abs. 1 BDSG hat sich Dr. Tintemann bereits in der [Zeitschrift Verbraucher und Recht - VuR 2016, 388 ff.](http://tintemann.de/wp-content/uploads/2017/03/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf) in einer Besprechung einer Entscheidung des OLG Braunschweig wissenschaftlich geäußert.
+Zu der Frage nach einem Schriftformerfordernis bei Mahnschreiben nach § 28 a Abs. 1 BDSG hat sich Dr. Tintemann bereits in der [Zeitschrift Verbraucher und Recht - VuR 2016, 388 ff.](/uploads/tintemann-de/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf) in einer Besprechung einer Entscheidung des OLG Braunschweig wissenschaftlich geäußert.
 
 Im Falle eines Negativeintrages ist es empfehlenswert, anwaltliche Hilfe in Anspruch zu nehmen. Dabei konnte bereits vielen Betroffenen geholfen werden, ein unbelastetes Wirtschaftsleben zu führen.
 

@@ -372,7 +372,7 @@ abschnitte:
 
 
       Ob und inwiefern die SCHUFA eine [eigene
-      Prüfungskompetenz](http://tintemann.de/wp-content/uploads/2017/03/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf)
+      Prüfungskompetenz](/uploads/tintemann-de/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf)
       (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite
       4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine
       direkte Antwortung im Bundesdatenschutzgesetz oder in der
