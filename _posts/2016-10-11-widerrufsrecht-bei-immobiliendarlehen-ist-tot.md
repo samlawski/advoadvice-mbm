@@ -20,6 +20,8 @@ tags:
   - Sparkassen
 topics: []
 author: dr-sven-tintemann
+redirect_from:
+  - /blog/das-widerrufsrecht-bei-immobiliendarlehen-ist-tot-es-lebe-die-zinsreduzierung-bei-verstößen-gegen-die-kreditwürdigkeitsprüfung/
 ---
 
 

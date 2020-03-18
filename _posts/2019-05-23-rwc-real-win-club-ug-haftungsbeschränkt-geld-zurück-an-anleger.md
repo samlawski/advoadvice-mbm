@@ -8,7 +8,7 @@ description: >-
   Abwicklung des Einlagengeschäfts an
 layout: post
 style_id: post
-feature_bild_path:
+feature_bild_path: /uploads/money-1005464-640-8.jpg
 tags:
   - RWC UG
   - RWC Real Win Club UG
@@ -27,9 +27,9 @@ topics:
   - bank-und-kapitalmarkt
   - anlegerschutz
 author: kim-oliver-klevenhagen
+redirect_from:
+  - /blog/rwc-real-win-club-ug-haftungsbeschränkt-geld-zurück-an-anleger-bafin-ordnet-einstellung-und-abwicklung-des-einlagengeschäfts-an/
 ---
-
-![](/uploads/money-1005464-640-8.jpg)
 
 Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) hat der RWC Real Win Club UG (haftungsbeschr&auml;nkt), angesiedelt in D&uuml;sseldorf, mit Bescheid vom 6. M&auml;rz 2019 aufgegeben, das ohne Erlaubnis betriebene Einlagengesch&auml;ft sofort einzustellen und die unerlaubt betriebenen Gesch&auml;fte abzuwickeln.
 

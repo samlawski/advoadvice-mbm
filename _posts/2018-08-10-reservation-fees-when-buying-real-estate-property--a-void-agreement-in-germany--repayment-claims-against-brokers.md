@@ -24,6 +24,8 @@ topics:
   - anlegerschutz
   - immobilien
 author: kim-oliver-klevenhagen
+redirect_from:
+  - /blog/reservation-fees-when-buying-real-estate-property-a-usually-void-agreement-in-germany-repayment-claims-against-brokers/
 ---
 
 The realization of the dream of one's own real estate property seems to be so close to a young couple and U.S. Expats T. from Berlin, Germany. They even reserved the property through a broker for a significant fee. But because financing fails at the very last moment, the young couple cannot buy. As the dream evaporates into thin air, they desperately ask the broker to repay them the reservation fee. The real estate agent refuses. Is he right?

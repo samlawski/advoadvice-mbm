@@ -1,7 +1,7 @@
 ---
-title: Die Auswirkungen der US-amerikanischen Leitzinserhöhung auf Darlehensverträge – Bald Finanzkrise „reloaded“ für deutsche Darlehensnehmer?
+title: Die Auswirkungen der US-amerikanischen Leitzinserhöhung auf Darlehensverträge
 date: 2017-03-23 00:00:00
-description:
+description: Die Auswirkungen der US-amerikanischen Leitzinserhöhung auf Darlehensverträge – Bald Finanzkrise „reloaded“ für deutsche Darlehensnehmer?
 layout: post
 style_id: post
 feature_bild_path:
@@ -10,6 +10,8 @@ tags:
   - Leitzinserhöhung
 topics: []
 author: kim-oliver-klevenhagen
+redirect_from:
+  - /blog/die-auswirkungen-der-us-amerikanischen-leitzinserhöhung-auf-darlehensverträge-bald-finanzkrise-reloaded-für-deutsche-darlehensnehmer/
 ---
 
 
