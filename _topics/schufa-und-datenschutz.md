@@ -92,7 +92,7 @@ abschnitte:
       werden von den Gläubigern in der jeweiligen Auskunftei gespeichert.
 
 
-      ### Berechung des Score ist geheim
+      ### Berechnung des Score ist geheim
 
 
       Anhand aller gespeicherten Informationen berechnet SCHUFA jedes Quartal

@@ -56,7 +56,7 @@ Der Umfang des Angebotes umfasst:
 
 ![Lettland - Foto Pixabay](/uploads/latvia-1758828-640.png "Insolvenz in Lettland - Attraktiver Partner in der EU für schnelle Restschuldbefreiung")
 
-Da Lettland, anders als wohl bald Gro&szlig;brittanien Teil der EU ist und auch bleiben wird, können alle EU-B&uuml;rger hier ihren Wohnsitz nehmen und dort dann auch einen Insolvenzantrag stellen.
+Da Lettland, anders als wohl bald Gro&szlig;britannien Teil der EU ist und auch bleiben wird, können alle EU-B&uuml;rger hier ihren Wohnsitz nehmen und dort dann auch einen Insolvenzantrag stellen.
 
 Die Erteilung der Restschuldbefreiung erfolg bereits nach kurzer Zeit, sollte aber in der Regel sp&auml;testens nach 12 Monate erfolgen.
 

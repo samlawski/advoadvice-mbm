@@ -39,7 +39,7 @@ Das zuständige Gericht urteilte, dass der Verkäufer die Originalverpackung nut
 
 Mit andere Worten legt das Amtsgericht München fest, dass es eine Pflicht zur wahrheitsgemäßen Bewertung gibt.
 
-Dies überrascht auch nicht wirklich, denn zum einen ist das Internet auch für Online-Käufer kein rechtsfreier Raum. Zum anderen gibt es immernoch das strafrechtliche Verbot der üblen Nachrede oder Verleumdung. Auch presserechtlich sind nur die Verbreitung von Werturteilen und wahren Tatsachenbehauptungen zulässig.
+Dies überrascht auch nicht wirklich, denn zum einen ist das Internet auch für Online-Käufer kein rechtsfreier Raum. Zum anderen gibt es immer noch das strafrechtliche Verbot der üblen Nachrede oder Verleumdung. Auch presserechtlich sind nur die Verbreitung von Werturteilen und wahren Tatsachenbehauptungen zulässig.
 
 Wer also in seiner Bewertung etwas nachweislich Falsches schreibt (z.B. keine Originalverpackung verwendet, obwohl dies der Fall gewesen ist), der muss damit rechnen, dass der Verkäufer einen Anspruch auf Berichtigung dieser unwahren Tatsachenbehauptung geltend machen und diesen auch gerichtlich durchsetzen kann.
 
