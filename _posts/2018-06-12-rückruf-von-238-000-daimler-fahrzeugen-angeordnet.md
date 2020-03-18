@@ -49,4 +49,4 @@ Zudem können Verbraucher, die ihre Fahrzeuge beim Kauf beim Händler finanziert
 
 "Es bleibt also weiterhin spannend in Sachen Widerruf von Kfz-Finanzierungen und Diesel-Abschalteinrichtungen", kommentiert Dr. Sven Tintemann von der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin. "In jeden Fall wird wohl auf die Autokonzerne, egal ob Daimler, VW, BMW oder jüngst auch Audi wohl eine Klagewelle vor den deutschen Zivilgerichten zukommen. Betroffen Eigentümer von finanzierten Fahrzeugen oder Diesel-Fahrzeugen mit umstrittenen Abschalteinrichtungen sollten sich daher an spezialisierte Fachanwälte im Bank- und Kapitalmarktrecht wenden", rat der Experte. 
 
-Mehr Informationen zum Thema Widerruf von Kfz-Finanzierungen finden interessierte Verbraucher unter [www.kreditwiderrufen.de](/kreditwiderrufen.html).
+Mehr Informationen zum Thema Widerruf von Kfz-Finanzierungen finden interessierte Verbraucher unter [kreditwiderrufen.de](/themen/kredit-widerrufen/).

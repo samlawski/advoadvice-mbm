@@ -50,6 +50,6 @@ Im Laufe der letzten Monate sind wieder vermehrt F&auml;lle aufgetreten, in dene
 
 Sollten Ihnen die geschilderten Umst&auml;nde bekannt vorkommen oder Sie selbst das Gef&uuml;hl haben, bei dem Kauf Ihrer Kapitalanlage-Immobilie sei etwas nicht in Ordnung gewesen, dann freuen wir uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verst&auml;ndliche und f&uuml;r Sie nachvollziehbare Ersteinsch&auml;tzung damit Sie wissen, wo Sie rechtlich stehen.
 
-Weitere Informationen finden Sie auch in unserem **[Themenbereich Immobilien.](https://advoadvice.de/themen/immobilienrecht/)**
+Weitere Informationen finden Sie auch in unserem **[Themenbereich Immobilien.](/themen/immobilien/)**
 
 Informationen und Kontaktformulare finden Sie im Bereich ”Download Formulare”. Wenden Sie sich auch gerne per Email an uns oder rufen Sie einfach an unter der Rufnummer 030 921 000 40 erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.&nbsp;
