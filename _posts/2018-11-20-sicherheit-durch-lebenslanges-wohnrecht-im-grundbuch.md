@@ -4,7 +4,7 @@ date: 2018-11-20 00:00:00
 description: Sicherheit durch lebenslanges Wohnrecht im Grundbuch?
 layout: post
 style_id: post
-image:
+image: /uploads/balcony-plants-357702-640.jpg
 tags:
   - Wohnrecht
   - grundbuchliche Besicherung
@@ -22,8 +22,6 @@ topics:
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
-
-#### ![](/uploads/balcony-plants-357702-640.jpg)
 
 #### Was ist das Wohnrecht?
 
@@ -65,7 +63,7 @@ Doch auch wenn ein Rangrücktritt unterschrieben werden soll, gibt es Möglichke
 
 Von einer Rückfallklausel spricht man, wenn das Grundstück beispielsweise an die Kinder geschenkt wird und sich die Eltern ein lebenslanges Wohnrecht eintragen lassen. Bei der Schenkung vereinbaren die Parteien jedoch, dass der Schenkungsvertrag rückwirkend aufgelöst wird, sollte eine bestimmt Bedingung eintreten wie beispielsweise die Zwangsvollstreckung oder Insolvenz bei den Kindern. In dem Fall könnten die Eltern das Grundstück eventuell zurückbekommen.
 
-#### Weitere wichtige Aspekte wie Steuern:
+#### Weitere wichtige Aspekte wie Steuern
 
 Aber Vorsicht: Die Eintragung eines Wohnrechts wirkt sich auch steuerlich oder erbrechtlich aus! Wenn ein Wohnrecht eingeräumt wird, ist dies wie eine Schenkung zu behandeln. Für die Berechnung der Erbschafts- oder Schenkungssteuer  erfolgt wieder eine Berechnung anhand der Sterbetabelle.
 
