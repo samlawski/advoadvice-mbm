@@ -28,8 +28,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-
-[![](https://www.bafin.de/SiteGlobals/Frontend/Images/icons/newsletter/icon_webcodelink.png?__blob=normal)](https://www.bafin.de/dok/10159984 "Öffnet neues Fenster")Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) veröffentlicht regelmäßig Informationen auf ihrer Webseite www.bafin.de über Untersagungsverfügungen und Abwicklungsverfügungen, welche sie gegenüber Unternehmen getroffen hat, die nach ihrer Rechtsauffassung erlaubnispflichtige Geschäfte ohne die hierzu erforderliche Erlaubnis der BaFin betreiben.
+Die Bundesanstalt für Finanzdienstleistungsaufsicht (kurz BaFin) veröffentlicht regelmäßig Informationen auf ihrer Webseite www.bafin.de über Untersagungsverfügungen und Abwicklungsverfügungen, welche sie gegenüber Unternehmen getroffen hat, die nach ihrer Rechtsauffassung erlaubnispflichtige Geschäfte ohne die hierzu erforderliche Erlaubnis der BaFin betreiben.
 
 Diese Mitteilungen werden oftmals aktualisiert und von der BaFin angepasst. Die hier veröffentlichen Mitteilungen entsprechen dem Stand der Veröffentlichung in unserem Blog und werden nicht zwingend an den neuesten Stand der BaFin-Mitteilungen angepasst. Es macht daher Sinn, die Mitteilungen der BaFin auf deren Webseite noch einmal zu überprüfen.
 

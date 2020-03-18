@@ -39,7 +39,7 @@ Eigentümer von Diesel-Kraftfahrzeugen müssen daher weiterhin mit Einschränkun
 
 Für Verbraucher, die ihr Diesel-Fahrzeug oder auch einen Benziner beim Kauf gleich noch mit finanziert und ein Darlehen bei einer Autobank oder einer anderen deutschen Geschäftsbank direkt beim Händler aufgenommen haben, bietet sich die Chance, die Kfz-Finanzierung als sog. verbundenes Geschäft wegen zahlreicher Fehler bei Widerrufsbelehrungen und Pfichtangaben zu widerrufen.
 
-Die Kanzlei AdvoAdvice aus Berlin bietet hierzu weitere Informationen unter der Landing Page [www.kreditwiderrufen.de](/kreditwiderrufen.html) für die betroffenen Verbraucher an.
+Die Kanzlei AdvoAdvice aus Berlin bietet hierzu weitere Informationen unter der Landing Page [kreditwiderrufen.de](/themen/kredit-widerrufen/) für die betroffenen Verbraucher an.
 
 ![](/uploads/auto-financing-2157347-640-2.jpg)
 
