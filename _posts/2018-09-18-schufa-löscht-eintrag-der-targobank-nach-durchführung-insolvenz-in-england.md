@@ -52,5 +52,3 @@ Dr. Sven Tintemann ordnet die Angelegenheit wie folgt ein: "Es ist schon erstaun
 Aufgrund unserer langj&auml;hrigen Erfahrung wissen wir jedoch, dass auch die SCHUFA eine Pr&uuml;fung der Sachverhalte vornimmt, wenn es Anzeichen daf&uuml;r gibt, dass die Einmeldung rechtswidrig gewesen sein k&ouml;nnte. An dieser Stelle muss positiv vermerkt werden, dass eine solche Pr&uuml;fung und L&ouml;schung des Eintrages hier erfreulicherweise zeitnah und unkompliziert erfolgte."
 
 Sollten Sie Probleme mit einer SCHUFA-Meldung nach einer erteilten Restschuldbefreiung (egal, ob diese im Inland oder im Ausland erteilt worden ist) haben, k&ouml;nnen Sie uns gerne zu den &uuml;blichen B&uuml;rozeiten unter 030 / 921 000 40 oder unter info@advoadvice.de kontaktieren.
-
-### &nbsp;

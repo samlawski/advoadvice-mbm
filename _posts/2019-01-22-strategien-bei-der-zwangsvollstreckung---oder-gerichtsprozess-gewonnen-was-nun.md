@@ -8,7 +8,7 @@ description: >-
   nun?
 layout: post
 style_id: post
-image:
+image: /uploads/justice-2071539-640-1.jpg
 tags:
   - Anlegerschutz
   - AdvoAdvice
@@ -30,13 +30,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-#### ![](/uploads/justice-2071539-640-1.jpg)
-
-#### Über die Vollstreckung von gerichtlich erstrittenen Titeln und Strategien zur Anspruchssicherung
-
-###  
-
-### Einführung
+### Über die Vollstreckung von gerichtlich erstrittenen Titeln und Strategien zur Anspruchssicherung
 
 Wenn man ein rechtskräftiges Urteil erstreitet, dem zufolge die Gegenseite zur Zahlung eines Geldbetrages verpflichtet wird, ist die Freude meistens groß. Häufig stellt sich jedoch bald darauf die Frage, wie man nun die Gegenseite dazu bekommt das Geld tatsächlich zu zahlen, also, wie es juristisch heißt, wie man den Titel vollstreckt. „Viele Mandanten wenden sich an uns, nachdem sie von den Anwälten, die das Urteil erstritten haben, nach dem Prozess weitgehend mit dem Urteil allein gelassen wurden. Dies liegt daran, dass Vollstreckungen sich für viele Anwälte finanziell nicht lohnen“, erklärt Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, der als Partner der Berliner Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten MbB sich unter anderem mit der Vollstreckung bereits erstrittener Urteile einsetzt. „Häufig stellt sich dabei die Vollstreckung des Urteils juristisch sehr kompliziert dar für die Mandanten, sodass sie ohne anwaltliche Hilfe ihren Anspruch gar nicht durchsetzen könnten“, schildert RA Klevenhagen.
 

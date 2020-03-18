@@ -29,8 +29,6 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-&nbsp;
-
 Angesichts der Niedrigzinspolitik der EZB und dem damit verbundenen Ausbleiben von Renditechancen haben sich neben den klassischen Investitionsformen in Immobilien und Edelmetallen in den letzten Jahren auch Anbietermodelle entwickelt, welche Investitionen in sogenannte strategische Metalle und seltenen Erden anbieten.
 
 ### Was sind strategische Metalle und seltene Erden?
@@ -62,5 +60,3 @@ Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, 
 Weitere Informationen finden Sie auch in unserem&nbsp;[**Themenbereich Bank- und Kapitalmarktrecht.**](https://advoadvice.de/themen/bank-und-kapitalmarkt/)
 
 Informationen und Kontaktformulare finden Sie im Bereich ”Formulare - Download”. Wenden Sie sich auch gerne per Email an uns oder rufen Sie einfach an unter der Rufnummer 030 921 000 40 erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.&nbsp;
-
-## &nbsp;

@@ -10,7 +10,7 @@ intro_cta_link: "#kontakt"
 permalink: '/impressum/'
 ---
 
-### Dienstanbieter:
+## Dienstanbieter
 
 Diese Internetseite wird von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen angeboten. Soweit auf dieser Internetseite journalistisch-redaktionell gestaltete Angebote zu finden sind, zeichnet sich der jeweilige Rechtsanwalt oder Autor für den Inhalt verantwortlich, soweit nicht ausdrücklich eine andere Person bezeichnet wurde.
 
@@ -47,7 +47,7 @@ Die Berufsbezeichnung Rechtsanwalt wurde den Mitgliedern der Kanzlei aufgrund bu
 
 Berufsbezeichnung: Rechtsanwalt, Bundesrepublik Deutschland RA Klevenhagen und RA Dr. Tintemann sind zugleich durch die Rechtsanwaltskammer Berlin als Fachanwälte für Bank- und Kapitalmarktrecht zugelassen.
 
-### Es gelten unsere allgemeinen Mandatsbedingungen
+## Es gelten unsere allgemeinen Mandatsbedingungen
 
 Rechtsanwälte sind aufgrund der Bundesrechtsanwaltsordnung verpflichtet, eine eigene Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250.000,00 EUR zu unterhalten. Die Einzelheiten ergeben sich aus § 51 BRAO.
 
@@ -57,7 +57,7 @@ Die Haftpflichtversicherung weist eine jeweilige Mindestdeckung in Höhe von 2.5
 
 Die Haftung der sachbearbeitenden Rechtsanwälte und auch der Partnerschaftsgesellschaft richtet sich nach dem Partnerschaftsgesetz lediglich auf die Haftungssumme der o.g. Haftpflichtversicherung. Eine weitergehende Haftung der bearbeitenden Rechtsanwälte und / oder Partner der Partnerschaftsgesellschaft, die über die o.g. Haftungssumme der Haftpflichtversicherung hinausgeht, ist ausgeschlossen.
 
-### Außergerichtliche Streitschlichtung:
+## Außergerichtliche Streitschlichtung
 
 Bei Streitigkeiten zwischen Rechtsanwälten und ihren Auftraggebern besteht auf Antrag die Möglichkeit der außergerichtlichen Streitschlichtung bei der Rechtsanwaltskammer Berlin (gemäß § 73 Abs. 2 Nr. 3 i.V.m. § 73 Abs. 5 BRAO) oder bei der Schlichtungsstelle der Rechtsanwaltschaft (§ 191f BRAO) bei der Bundesrechtsanwaltskammer, im Internet zu finden über die Homepage der Bundes­rechtsanwaltskammer ([www.brak.de](https://www.brak.de "Link: https://www.brak.de")) email: schlichtungsstelle@brak.de.
 
@@ -73,15 +73,15 @@ Der räumliche Geltungsbereich des Versicherungsschutzes umfasst Tätigkeiten in
 
 Die Gebühren der Rechtsanwälte ergeben sich, soweit nicht ein anderes vereinbart ist, aus dem Rechtsanwaltsvergütungsgesetz (RVG) nebst seinen Anlagen zum jeweils bei Mandatserteilung gültigen Gesetzesinhalt.
 
-### Haftung für Inhalte:
+## Haftung für Inhalte
 
 Wir bemühen uns, die Inhalte unserer Seiten aktuell zu halten. Trotz sorgfältiger Bearbeitung bleibt eine Haftung ausgeschlossen. Insbesondere bedingt die jeweils verkürzte Darstellung, dass eine vollständige Beschreibung der relevanten Rechtslage nicht möglich ist und daher eine professionelle Beratung nicht ersetzt. Eine Rechtsberatung im Einzelfall und natürlich auch die Haftung, übernehmen wir gern im Rahmen eines ordentlichen Mandatsverhältnisses.
 
-### Hinweis auf Kooperation der Berufsträger:
+## Hinweis auf Kooperation der Berufsträger
 
 Soweit auf dieser Internetseite Kooperationspartner benannt werden, handelt es sich um Rechtsanwälte oder Steuerberater, die den Rechtsanwaltskammern oder Steuerberaterkammern ihrer jeweiligen Standorte angehören. Diese entnehmen Sie bitte dem Impressum der extern verwiesenen Internetseiten. Kooperationspartner sind keine vertretungsberechtigte Partner der Partnerschaftsgesellschaft.
 
-### Berufsrechtliche Regeln für Rechtsanwälte:
+## Berufsrechtliche Regeln für Rechtsanwälte
 
 Die Arbeit von Rechtsanwälten unterliegt folgenden berufsrechtlichen Regelungen:  
 der Bundesrechtsanwaltsordnung (BRAO),  
@@ -93,7 +93,7 @@ dem Law Implementing the Directives of the European Community pertaining to the 
 dem Rechtsanwaltsvergütungsgesetz (RVG).  
 Diese Regelungen finden Sie auf der Internetseite der Bundesrechtsanwaltskammer (unter Berufsrecht).
 
-### Berufsrechtliche Regeln für Steuerberater:
+## Berufsrechtliche Regeln für Steuerberater
 
 Soweit auf dieser Internetseite auf Kooperationspartner verwiesen wird, die den Beruf des Steuerberaters ausüben (externe Verweise), gelten für diese folgende berufsrechtlichen Regelungen:  
 das Steuerberatungsgesetz (StBerG),  
