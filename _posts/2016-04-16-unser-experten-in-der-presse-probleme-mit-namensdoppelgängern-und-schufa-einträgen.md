@@ -33,9 +33,9 @@ Der Radiosender Antenne 1 berichtete am Mittwoch, den 13.04.2016 über Probleme 
 
 Das komplette Interview von Antenne 1 können Sie hier nachhören:
 
-* [Mitschnitt](http://tintemann.de/wp-content/uploads/2016/04/Mitschnitt-Namensdoppelgaenger.mp3 "Mitschnitt\_Namensdoppelga...")
+* [Mitschnitt](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3 "Mitschnitt\_Namensdoppelga...")
 
-[![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](http://tintemann.de/wp-content/uploads/2016/04/Mitschnitt-Namensdoppelgaenger.mp3)
+[![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3)
 
 Hier unsere wichtigsten Tipps für Sie im Überblick:
 
@@ -45,4 +45,4 @@ Hier unsere wichtigsten Tipps für Sie im Überblick:
 
 3) Vergeuden Sie keine Zeit damit, die Angelegenheit erst einmal in Ruhe selbst klären zu wollen. Meist verbreiten sich die Verwechslungen schnell weiter. Es ist daher Eile geboten.
 
-4) Sollte keine Löschung der fehlerhaften Einträge erfolgen, muss innerhalb einer kurzen Frist (meist 1-2 Monate) an Antrag auf Erlass einer Einstweiligen Verfügung gestellt werden, um den Missständen zu begegnen. [![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](http://tintemann.de/wp-content/uploads/2016/04/Mitschnitt-Namensdoppelgaenger.mp3)
+4) Sollte keine Löschung der fehlerhaften Einträge erfolgen, muss innerhalb einer kurzen Frist (meist 1-2 Monate) an Antrag auf Erlass einer Einstweiligen Verfügung gestellt werden, um den Missständen zu begegnen. [![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3)

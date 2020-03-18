@@ -26,7 +26,7 @@ author: dr-sven-tintemann
 ---
 
 
-Rechtsanwalt Dr. Tintemann - [Beitrag in der Fachzeitschrift Verbraucher und Recht - Ausgabe 10/2016](http://tintemann.de/wp-content/uploads/2017/03/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf)[![VUR Logo - Fremde Marke](/uploads/versions/vur---x----200-200x---.png)](http://tintemann.de/wp-content/uploads/2017/03/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf)
+Rechtsanwalt Dr. Tintemann - [Beitrag in der Fachzeitschrift Verbraucher und Recht - Ausgabe 10/2016](/uploads/tintemann-de/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf)[![VUR Logo - Fremde Marke](/uploads/versions/vur---x----200-200x---.png)](/uploads/tintemann-de/VuR-2016-388-ff.-Mahnschreiben-und-Schriftformerfordernis.pdf)
 
 Bedarf eine Mahnung i.S.d. Datenschutzgesetzes der Schriftform, oder gen&uuml;gt die reine Schriftlichkeit der Mahnung? Wie verh&auml;lt es sich mit Mahnungen in einer online verf&uuml;gbaren PostBox?
 
