@@ -1,7 +1,7 @@
 ---
 layout: topic
 style_id: topic
-title: Streitverkündung
+title: Streitverkündung - Was man darüber wissen sollte
 description: Was versteht man unter Streitverkündung?
 header_titel: Streitverkündung
 header_image: /uploads/adult-blur-boss-business-288477.jpg
