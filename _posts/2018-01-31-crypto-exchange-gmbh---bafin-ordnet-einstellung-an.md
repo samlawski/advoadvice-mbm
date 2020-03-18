@@ -19,7 +19,7 @@ author: dr-sven-tintemann
 
 Die Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (kurz BaFin) reguliert in Deutschland den Kapitalmarkt aufgrund der bestehenden Gesetze und Vorschriften. Im Rahmen ihrer Aufsicht hat die BaFin nunmehr der Firma Crypto.exchange GmbH aus Berlin nach Angaben auf Ihrer[ Homepage](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2018/meldung_180129_Crypto_exchange.html) mit Bescheid vom 29.01.2018 aufgegeben, dass ohne Erlaubnis betriebene Finanzkommissionsgesch&auml;ft umgehend einzustellen.
 
-Nach Angaben der BaFin warb das Unternehmen im Internet unter www.btv-now.de damit, Bitcoin in Euro umzutauschen. Dabei soll das Unternehmen behauptet haben, duch die BaFin gepr&uuml;ft worden zu sein.
+Nach Angaben der BaFin warb das Unternehmen im Internet unter www.btv-now.de damit, Bitcoin in Euro umzutauschen. Dabei soll das Unternehmen behauptet haben, durch die BaFin gepr&uuml;ft worden zu sein.
 
 Anleger sollten, so die BaFin in ihrer Mitteilung, ihre Bitcoins auf das Unternehmen &uuml;bertragen, welches diese im Gegenzug an einer B&ouml;rse verkaufen wollte. Der dort erzielte Kaufpreis sollte den Anlegern binnen 30 Minuten &uuml;berwiesen werden.
 
