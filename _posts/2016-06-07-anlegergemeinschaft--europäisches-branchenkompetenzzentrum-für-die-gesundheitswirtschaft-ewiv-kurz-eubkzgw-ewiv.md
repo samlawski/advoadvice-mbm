@@ -20,6 +20,8 @@ tags:
   - Insolvenzverfahren
 topics: []
 author: dr-sven-tintemann
+redirect_from: 
+  - /blog/anlegergemeinschaft-europäisches-branchenkompetenzzentrum-für-die-gesundheitswirtschaft-ewiv-kurz-eubkzgw-ewiv-nimmt-fahrt-auf/
 ---
 
 

@@ -20,6 +20,8 @@ tags:
 topics:
   - versicherung
 author: dr-sven-tintemann
+redirect_from:
+  - /blog/deutsche-gesundheitskasse-degeka-vvag-bafin-ordnet-einstellung-und-abwicklung-des-unerlaubten-versicherungsgeschäfts-an/
 ---
 
 

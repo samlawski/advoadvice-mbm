@@ -1,7 +1,7 @@
 ---
-title: Hält die Klausel zur einmaligen Bearbeitungsgebühr der Inhaltskontrolle stand? – Wichtiger Verhandlungstag des BGH für Unternehmer
+title: Hält die Klausel zur einmaligen Bearbeitungsgebühr der Inhaltskontrolle stand?
 date: 2017-05-18 00:00:00
-description:
+description: Hält die Klausel zur einmaligen Bearbeitungsgebühr der Inhaltskontrolle stand? – Wichtiger Verhandlungstag des BGH für Unternehmer
 layout: post
 style_id: post
 feature_bild_path:
@@ -26,6 +26,8 @@ tags:
 topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
+redirect_from:
+  - /blog/hält-die-klausel-zur-einmaligen-bearbeitungsgebühr-der-inhaltskontrolle-stand-wichtiger-verhandlungstag-des-bgh-für-unternehmer/
 ---
 
 
