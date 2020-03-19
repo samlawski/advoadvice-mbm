@@ -47,6 +47,32 @@ such_tips:
             </a>
           </li>
         {% endif %}
+
+        <li class="pager__numbers">
+          {% for page in (1..paginator.total_pages) %}
+          {% assign threeBefore = paginator.page | minus: 4 %}
+          {% assign threeAfter = paginator.page | plus: 4 %}
+
+          {% if page == paginator.page %}
+            <span class="pager__placeholder">{{ page }}</span>
+          {% elsif page == 1 %}
+            <a href="{{ '/blog/' | prepend: site.url }}">{{ page }}</a>
+          {% elsif page == paginator.total_pages %}
+            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+          {% elsif page == threeAfter %}
+            <span class="pager__placeholder">...</span>
+          {% elsif page == threeBefore %}
+            <span class="pager__placeholder">...</span>
+          {% elsif page >= threeAfter %}
+            <!-- nothing -->
+          {% elsif page <= threeBefore %}
+            <!-- nothing -->
+          {% else %}
+            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+          {% endif %}
+        {% endfor %}
+        </li>
+
         {% if paginator.next_page %}
           <li class="pager__next">
             <a href="{{ paginator.next_page_path }}">
