@@ -8,7 +8,20 @@ layout: post
 style_id: post
 image: /uploads/sports-2102965-1280.jpg
 tags:
+  - Bundesliga
+  - Profisport
+  - Corona
+  - Kurzarbeit
+  - Gehaltsverzicht
+  - Kündigung
+  - Arbeitsrecht
+  - Verein
+  - Handball
+  - Fußball
+  - Basketball
+  - Volleyball
 topics:
+  - insolvenz
 author: dr-sven-tintemann
 ---
 
@@ -44,7 +57,7 @@ Für Profisportler haben die Rechtsanwälte der Kanzlei AdvoAdvice aus Berlin ei
 
 Der SV Meppen, momentan vierplatzierter in der 3. Bundesliga hat es nach Angaben der Sportschau in deren Online Auftritt schon getan, weitere Vereine werden sicherlich folgen. Spieler und Mitarbeiter werden in Kurzarbeit geschickt. Von heute auf morgen von 100 % auf 0 %.&nbsp;
 
-Laut Professor Martin Schimke, Arbeitsrechtler und Richter am internationalen Sportgerichtshof CAS sei das laut Sportschau kein Problem, da es für die Kurzarbeit auch im Sport keine Sonderregeln gebe. Die Spieler müssen also wohl einem Antrag auf Kurzarbeit nicht zustimmen. Sie können einfach nach Hause geschickt werden, müssen dann aber rein theoretisch auch nicht mehr den Trainingsplan einhalten oder für andere Termine des Vereins zur Verfügung stehen.&nbsp;
+Laut Professor Martin Schimke, Arbeitsrechtler und Richter am internationalen Sportgerichtshof CAS sei das laut Sportschau kein Problem, da es für die Kurzarbeit auch im Sport keine Sonderregeln gebe. Die Spieler müssen also wohl einem Antrag auf Kurzarbeit nicht zustimmen. Sie können einfach nach Hause geschickt werden, müssen dann aber rein theoretisch auch nicht mehr den Trainingsplan einhalten oder für andere Termine des Vereins zur Verfügung stehen. ([zum externen Artikel auf Sportschau.de](https://www.sportschau.de/fussball/kurzarbeit-corona-fussball-100.html){: target="_blank"})
 
 ### Was sind die finanziellen Konsequenzen der Kurzarbeit für Spieler und Vereine?
 
@@ -58,22 +71,36 @@ Auf dem Rest des Lohnes, der vertraglich natürlich trotz der Kurzarbeit dennoch
 
 Grundsätzlich gilt auch in der Corona Krise der Grundsatz "pacta sunt servanda" (Verträge sind einzuhalten). Der Spieler hat also trotz Kurzarbeit und Krise weiterhin einen Anspruch auf seinen vertraglich vereinbarten Lohn.&nbsp;
 
-Verzichtet ein Spieler auf Lohn, ist das durch den Verein oder andere Personen nicht einforderbar. Es geschieht immer freiwillig und auch vor dem Hintergrund, den eigenen Verein ggf. vor einer Insolvenz oder andere Mitarbeiter im Verein vor einer Kündigung zu bewahren. Hier gibt wahrscheinlich, dass bei höheren Gehältern ein Verzicht oder Teilverzicht leichter fällt. So soll Dortmunds Präsident Watzke in der Krise laut Presseberichten auf 1/3 seines Gehalts verzichten.&nbsp;
+Verzichtet ein Spieler auf Lohn, ist das durch den Verein oder andere Personen nicht einforderbar. Es geschieht immer freiwillig und auch vor dem Hintergrund, den eigenen Verein ggf. vor einer Insolvenz oder andere Mitarbeiter im Verein vor einer Kündigung zu bewahren. Hier gibt wahrscheinlich, dass bei höheren Gehältern ein Verzicht oder Teilverzicht leichter fällt. So soll Dortmunds Präsident Watzke in der Krise laut Presseberichten auf 1/3 seines Gehalts verzichten. Dies dürfte bei geschätzten 160.000 Euro (pro Monat) allerdings auch nicht so schwierig sein, setzt aber sicherlich für viele der sehr guten Verdiener ein wichtiges Signal. Hieraus kann man aber keine Ableitung auf alle Spielen in allen Ligen treffen, da Fu&szlig;baller in Deutschlands Bundesliga immer noch konkurrenzlos gut verdienen.&nbsp;
 
 ### Ist ein Gehaltsverzicht steuerschädlich?
 
-&nbsp;
+Wer einen Gehaltsverzicht als Profi in Erwägung zieht, muss sich auch bei der Umsetzung wichtige Fragen stellen.&nbsp;
+
+So ist der Gehaltsverzicht durch einen sog. Erlassvertrag schriftlich vereinbart werden. Zudem gilt es, auch die steuerlichen Folgen zu prüfen. Hierbei gilt, dass nach dem Zuflussprinzip nur das Gehalt besteuert wird, was dem Spieler auch tatsächlich zuflie&szlig;t.&nbsp;
+
+Andere Folgen kann der Verzicht aber bei der Sozialversicherung haben. Hier gilt nämlich das sog. Entstehungsprinzip. Hiernach werden Sozialversicherungsbeiträge bereits fällig, wenn der Anspruch des Arbeitnehmers auf das Gehalt entstanden ist. Auch wenn der Arbeitgeber das Gehalt nicht auszahlt, kann es vorkommen, dass dennoch Sozialversicherungsbeiträge abgeführt werden müssen. Ein Gehaltsverzicht ist nur dann sozialversicherungsfrei wenn auf künftige Zahlungen verzichtet wird, dies rechtzeitig schriftlich erfolgt und es überhaupt arbeitsrechtlich zulässig ist.&nbsp;
 
 ### Kann der Verein den Spielervertrag kündigen bzw. auflösen, wenn weder Kurzarbeit noch Gehaltsverzicht zugestimmt wird?
 
-&nbsp;
+Ob eine Kündigung möglich ist, richtet sich natürlich grundsätzlich nach dem Arbeitsvertrag. Hier müsste ein Sonderkündigungsrecht bei Insolvenzgefahr oder ähnlichem geregelt sein. Dieses wird aber meist nicht zutreffen.&nbsp;
 
-## Gibt es neben dem Lohnverzicht auch andere Lösungen?
+Finanzielle Not der Vereine führen jedenfalls nicht zu einem Recht zur au&szlig;erordentlichen Kündigung. Im Profibereich dürften die Kündigungsmöglichkeiten gerade wegen der bestehenden Zeitverträge eher gering und für den Arbeitgeber fast nicht aussichtsreich sein.&nbsp;
 
-&nbsp;
+Wer dennoch gekündigt werden sollte, woran die Vereine vermutlich auch wenig Interesse haben werden, muss sich Rechtsschutz suchen und rechtzeitig Kündigungsschutzklage einreichen.&nbsp;
+
+### Gibt es neben dem Lohnverzicht auch andere Lösungen?
+
+Aus Sicht von Dr. Sven Tintemann, Rechtsanwalt bei AdvoAdvice, ergeben sich neben dem Lohnverzicht auch andere Möglichkeiten für die Profisportler, den&nbsp; eigenen&nbsp; Verein über Wasser zu halten. So ist es z.B. denkbar, dem Verein die Auszahlung der Gehälter in einem gewissen Umfang, der für beide Seiten erträglich ist, zu stunden, bis Klarheit darüber herrscht, ob und ggf. wann der Spielbetrieb wieder aufgenommen werden kann. Hier muss natürlich über die Modalitäten und auch über die steuerlichen und sozialversicherungsrechtlichen Probleme ebenfalls gesprochen werden, die mit einer solchen Stundung verbunden sein können.&nbsp;
+
+Auch seien natürlich nur Teilverzichte oder gestaffelte Verzichte, je nach Umfang und schwere der Krise denkbar.&nbsp;
+
+Problematisch für die Spieler sei auch, dass diese natürlich keine Kenntnis von der konkreten finanziellen Situation ihrer Vereine hätten. Hier müssten die Vereine sich wohl zumindest einigen Vertrauensspielern oder auch wirtschaftlichen Fachleuten offenbaren und hier mit offenen Karten spielen, da es sicherlich nicht jedem Verein gleich gut bzw. schlecht gehen wird.&nbsp;
 
 ### Wie steht es um Verträge mit Werbepartnern und Sponsoren des Sportlers?
 
-&nbsp;
+Hat ein Sportler Werbeverträge oder Verträge mit Sponsoren, so muss auch hier geprüft werden, ob diese in voller Höhe weiter bestehen, auch wenn der Sportler nicht mehr spielt und somit auch weniger in der Öffentlichkeit in Erscheinung tritt.&nbsp;
+
+Hierzu ist in jedem Fall bei Zahlungsausfällen oder Rückfragen zum Sponsor der Rat eines kompetenten Rechtsanwalts gefragt.&nbsp;
 
 &nbsp;
