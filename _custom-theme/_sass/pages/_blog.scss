@@ -37,9 +37,17 @@
 
     li { display: inline-block; }
 
-    a {
+    a,
+    .pager__placeholder {
       padding: 10px;
       font-size: .8rem;
+    }
+  }
+  li.pager__numbers {
+    display: none;
+
+    @media(min-width: $media-md){
+      display: inline-block;
     }
   }
 
