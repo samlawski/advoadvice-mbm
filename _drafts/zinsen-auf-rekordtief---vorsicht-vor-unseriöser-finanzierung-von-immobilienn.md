@@ -1,6 +1,6 @@
 ---
 title: Zinsen auf Rekordtief - Vorsicht vor unseriöser Finanzierung von Immobilien
-date: 2020-03-20 10:00:00
+date: 2020-03-20 00:00:00
 description: >-
   In Zeiten von Corona sinken die Finanzierungszinsen im Darlehensvertrag stetig
   weiter. Doch Vorsicht ist angebracht, Es tummeln sich unseriöse Angebote. Man
