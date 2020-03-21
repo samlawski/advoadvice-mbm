@@ -24,3 +24,14 @@ topics:
 author: dr-sven-tintemann
 ---
 
+Als Folge der Corona Pandemie hat die Justizministerin angekündigt, Änderungen im Mietrecht sowie Insolvenzrecht herbeizuführen. Was Unternehmer und Mieter jetzt wissen sollen.&nbsp;
+
+## Änderung der Kündigungsfristen im Mietrecht
+
+&nbsp;
+
+## Änderung bei der Insolvenzantragsfrist
+
+&nbsp;
+
+&nbsp;
