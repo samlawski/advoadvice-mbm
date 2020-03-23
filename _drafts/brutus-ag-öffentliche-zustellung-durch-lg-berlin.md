@@ -1,6 +1,6 @@
 ---
 title: 'Brutus AG: Öffentliche Zustellung durch LG Berlin'
-date: 2020-03-20 00:00:00
+date: 2020-03-23 00:00:00
 description: >-
   Brutus AG - ehemals Deutsche Öl und Gas AG - Landgericht stellt Schriftstücke
   öffentlich zu. Anleger sorgen sich um ihr Geld.
