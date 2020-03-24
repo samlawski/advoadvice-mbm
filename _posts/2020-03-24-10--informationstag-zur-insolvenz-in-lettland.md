@@ -1,5 +1,5 @@
 ---
-title: 10. Informationstag zur Insolenz in Lettland
+title: 10. Informationstag zur Insolvenz in Lettland
 date: 2020-03-24 00:00:00
 description: >-
   10. Informationstag zur Insolvenz in Lettland findet in Zeiten von Corona
