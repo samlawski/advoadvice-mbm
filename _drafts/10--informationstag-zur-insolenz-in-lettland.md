@@ -8,7 +8,17 @@ layout: post
 style_id: post
 image: /uploads/balloons-874838-1280.jpg
 tags:
+  - Insolvenz
+  - Lettland
+  - Rechtsanwalt
+  - Videokonferenz
+  - Informationstag
+  - Berlin
+  - AdvoAdvice
+  - Riga
+  - Berger Consuting
 topics:
+  - lettland-insolvenz
 author: dr-sven-tintemann
 ---
 
