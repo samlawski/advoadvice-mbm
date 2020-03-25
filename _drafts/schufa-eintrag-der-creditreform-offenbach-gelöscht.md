@@ -6,7 +6,7 @@ description: >-
   AdvoAdvice
 layout: post
 style_id: post
-image:
+image: /uploads/dsgvo-3446011-640-2.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
