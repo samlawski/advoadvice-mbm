@@ -27,11 +27,11 @@ author: dr-sven-tintemann
 
 Viele Unternehmen nutzen die Dienste der SCHUFA Holding AG. Dabei werden grundsätzlich Daten übermittelt und Auskünfte empfangen. Bei der Frage wer die SCHUFA-Einträge vornimmt, kommt es manchmal zu scheinbaren Überraschungen, wenn diese für den durchschnittlichen Verbraucher mutma&szlig;lich auf eine andere Auskunftei zurückzuführen sind.
 
-# Unternehmensgruppe Creditreform
+## Unternehmensgruppe Creditreform
 
 Die Unternehmensgruppe der Creditreform ist in Deutschland weitläufig bekannt. Dabei sind jedoch zwei Tätigkeitsfelder zu unterscheiden: Die Boniversum Creditrefrom GmbH arbeitet als Wirtschaftsauskunftei und bewertet aufgrund ihr vorliegender Daten, ähnlich wie die SCHUFA Holding AG, die Kreditwürdigkeit von Personen und Unternehmen. Gleichzeitig verfügt die Unternehmensgruppe über viele rechtlich selbständig agierende Inkassodienstleister. Zu zweiter Gruppe gehört auch die Creditreform Offenbach Gabold & Bleul KG. Eine Besonderheit der Inkassodienstleister ist, dass diese ihre offenen Forderungen nicht nur im Datenbestand der zur Unternehmensgruppe gehörenden Boniversum&nbsp; Creditreform GmbH austauschen, sondern diese offenkundig auch anderen Wirtschaftsauskunfteien melden.
 
-# Sachverhalt
+## Sachverhalt
 
 Im Februar 2020 wandte sich ein junger Mann aus Hanau an die Rechtsanwälte der Kanzlei AdvoAdvice in Berlin und teilte mit, dass ein negativer SCHUFA-Eintrag zu seinen Lasten vorgenommen wurde. Der Eintrag stammte von der Creditreform Offenbach Gabold & Bleul KG. Die dazugehörige Forderung resultierte aus einem Handyvertrag mit der Drillisch Online GmbH und belief sich auf fast 1.000,00 Euro.&nbsp;
 
@@ -39,7 +39,7 @@ Der Betroffene befand sich in dem Zeitpunkt, in welchem angeblich Mahnungen vers
 
 Der zuständige SCHUFA-Experte Rechtsanwalt Dr. Tintemann wandte sich mit einem Schreiben Mitte Februar an die Creditreform Offenbach Gabold & Bleul KG sowie an die SCHUFA Holding AG und forderte diese zum Widerruf der Datenmeldung bzw. zur Löschung des Eintrages auf. Während sich die Creditreform Offenbach Gabold & Bleul KG auf das Schreiben bislang noch immer nicht gemeldet hat (Stand: 24.03.2020), hat die SCHUFA Holding AG bereits am 02.03.2020 angezeigt, dass die Forderung gelöscht werde.
 
-# Rechtliche Einschätzung
+## Rechtliche Einschätzung
 
 Der zuständige Rechtsanwalt Dr. Tintemann ordnete den Fall anschlie&szlig;end rechtlich ein: "Nach den allgemeinen Grundsätzen ist die Stelle, welche einen SCHUFA-Eintrag vornimmt, für die Versendung und den Zugang der Mahnschreiben beweisbelastet. Kann ein solcher Zugang nicht bewiesen werden, kann der SCHUFA-Eintrag nicht mit diesen Schreiben gerechtfertigt werden. So lag der Fall hier, wobei es überraschend war, dass sich die Creditreform Offenbach Gabold & Bleul KG auf das Schreiben überhaupt nicht gemeldet hat. Dies mag daran liegen, dass die Forderung durch unseren Mandanten in der Zwischenzeit ausgeglichen war. Die Schufa hat daher höchstwahrscheinlich den Eintrag gelöscht, weil ihre ebenfalls keine Rückmeldung zu dem Eintrag vorlag."
 
