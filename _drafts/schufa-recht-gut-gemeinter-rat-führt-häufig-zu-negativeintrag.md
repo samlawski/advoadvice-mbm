@@ -6,7 +6,7 @@ description: >-
   gelöscht.
 layout: post
 style_id: post
-image:
+image: /uploads/money-256319-1280.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
