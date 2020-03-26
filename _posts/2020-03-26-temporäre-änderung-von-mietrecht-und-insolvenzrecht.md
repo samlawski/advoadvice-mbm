@@ -21,6 +21,7 @@ tags:
 topics:
   - insolvenz
   - immobilien
+  - anlegerschutz
 author: dr-sven-tintemann
 ---
 
@@ -50,7 +51,7 @@ Auch die Antragsmöglichkeit für Fremdinsolvenzanträge wurde für Gläubiger e
 
 ## Änderungen im Darlehensrecht
 
-Auf bei Kreditverträgen, konkret ****Darlehensverträgen mit Verbrauchern****, die vor dem 15. März 2020 abgeschlossen wurden, wurden Veränderungen zu Gunsten der Verbraucher bzw. Darlehensnehmer beschlossen. Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, werden mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet, wenn der Darlehensnehmer Vortragen kann, infolge der COVID-19-Pandemie Einnahmeausfälle gehabt zu haben, mit der&nbsp; Folge, dass ihm die Erbringung der geschuldeten Leistung nicht mehr zumutbar ist.
+Auf bei Kreditverträgen, konkret **\*\*Darlehensverträgen mit Verbrauchern**\*\*, die vor dem 15. März 2020 abgeschlossen wurden, wurden Veränderungen zu Gunsten der Verbraucher bzw. Darlehensnehmer beschlossen. Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, werden mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet, wenn der Darlehensnehmer Vortragen kann, infolge der COVID-19-Pandemie Einnahmeausfälle gehabt zu haben, mit der&nbsp; Folge, dass ihm die Erbringung der geschuldeten Leistung nicht mehr zumutbar ist.
 
 In diesem Spezialfall sind Kündigungen des Darlehensgebers wegen Zahlungsverzugs oder wesentlicher Verschlechterung der Vermögensverhältnisse des Darlehensnehmers ausgeschlossen.
 
