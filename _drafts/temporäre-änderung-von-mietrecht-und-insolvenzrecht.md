@@ -1,6 +1,6 @@
 ---
 title: Temporäre Änderung von Mietrecht und Insolvenzrecht
-date: 2020-03-24 00:00:00
+date: 2020-03-26 00:00:00
 description: >-
   Gesetzgeber ändert Regelungen im Insolvenzrecht und im Mietrecht in Folge der
   Corona Pandemie.
@@ -28,11 +28,17 @@ Als Folge der Corona Pandemie hat der Bundestag nunmehr am 25.03.2020 Änderunge
 
 ## Änderung der Kündigungsfristen im Mietrecht
 
-****Miet- und Pachtverhältnisse****&nbsp;über Grundstücke oder über Räume können durch Vermieter nicht mehr gekündigt werden, soweit der Mieter im Zeitraum vom 1. April 2020 bis 30. Juni 2020 trotz Fälligkeit die Miete nicht leistet und die Nichtleistung auf den Auswirkungen der COVID-19-Pandemie beruht. Der Zusammenhang zwischen COVID-19-Pandemie und Nichtleistung ist glaubhaft zu machen. Schuldner haben also die Möglichkeit, bei Umsatzausfällen auch die durch Miete entstehenden Fixkosten faktisch anzupassen. Die Forderungen entstehen trotzdem und sollten in die zwischen dem Schuldner und seinen Stakeholdern zu führenden Sanierungsverhandlungen einbezogen werden. Klar ist, dass eine Sanierung auf Kosten der Vermieter nicht gewollt sein kann.
+Es gibt zunächst einmal wesentliche **Änderungen im Mietrecht**. Miet- und Pachtverhältnisse über Räume oder Grundstücke können nicht mehr durch den Vermieter gekündigt werden, wenn vom 01.04.2020 bis zum 30.06.2020 die fällige Miete nicht geleistet wurde und nicht Nichtleistung auf den Auswirkungen der Corona Pandemie beruht. Hier muss ggf. der Mieter bei Nichtzahlung aktiv werden und den Zusammenhang zwischen Zahlungsverzug und Auswirkungen der Corona-Krise glaubhaft machen.&nbsp;
+
+Die Mietzahlungspflicht entfällt aber nicht für den Mieter. Dieser muss seine Rückstände später ausgleichen und hierzu am besten eine Vereinbarung mit dem Vermieter treffen.&nbsp;
+
+Der Vermieter ist allerdings nicht daran gehindert, sich die Forderungen gegen den Mieter mit einem gerichtlichen Mahnverfahren oder einer Zahlungsklage zu sichern. Dies kann zu weiteren Kosten führen, die man als Mieter lieber durch schnelle und verbindliche Regelungen mit dem Vermieter vermeiden sollte. Also nicht einfach Zahlung verweigern, sondern an den Vermieter wenden und diesem die eigene Situation und weitere Planung schildern.&nbsp;&nbsp;
+
+Für&nbsp;**Wohnungseigentümergemeinschaften**&nbsp;gibt es ebenfalls Veränderungen. Hier bleibt der zuletzt bestellte Verwalter bis zu seiner Abberufung oder bis zur Bestellung eines neuen Verwalters im Amt. Auch ein bereits beschlossener Wirtschaftsplan gilt nunmehr bis zum Beschluss eines neuen Wirtschaftsplans durch die Wohnungseigentümergemeinschaft fort.
 
 ## Änderung bei der Insolvenzantragsfrist
 
-Mit dem CovInsAG (COVID-19-Insolvenzaussetzungsgesetz) hat der Bundestag am 25.03.2020 weiterreichende Veränderungen im Insolvenzrecht beschlossen.&nbsp;
+Mit dem CovInsAG (COVID-19-Insolvenzaussetzungsgesetz) hat der Bundestag am 25.03.2020 **weiterreichende Veränderungen im Insolvenzrecht** beschlossen.&nbsp;
 
 Die zentrale Vorschrift in Artikel 1 &sect; 1 COVInsAG lautet:&nbsp;
 
@@ -42,23 +48,17 @@ Bemerkenswert ist in diesem Zusammenhang, dass die Aussetzung der Insolvenzantra
 
 Auch die Antragsmöglichkeit für Fremdinsolvenzanträge wurde für Gläubiger eingeschränkt. Hier muss der Insolvenzgrund bereits am 01.03.2020 vorgelegen haben. Die gilt für drei Monate ab Inkrafttreten des Gesetzes.&nbsp;
 
-Änderungen im Darlehensrecht
+## Änderungen im Darlehensrecht
 
-Für&nbsp;****Darlehensverträge mit Verbrauchern****, die vor dem 15. März 2020 abgeschlossen wurden, gilt, dass Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet werden, wenn der Darlehensnehmer infolge der COVID-19-Pandemie Einnahmeausfälle hat, die dazu führen, dass ihm die Erbringung der geschuldeten Leistung nicht zumutbar ist. Kündigungen des Darlehensgebers wegen Zahlungsverzugs oder wesentlicher Verschlechterung der Vermögensverhältnisse des Darlehensnehmers sind solange ausgeschlossen.
+Auf bei Kreditverträgen, konkret ****Darlehensverträgen mit Verbrauchern****, die vor dem 15. März 2020 abgeschlossen wurden, wurden Veränderungen zu Gunsten der Verbraucher bzw. Darlehensnehmer beschlossen. Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, werden mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet, wenn der Darlehensnehmer Vortragen kann, infolge der COVID-19-Pandemie Einnahmeausfälle gehabt zu haben, mit der&nbsp; Folge, dass ihm die Erbringung der geschuldeten Leistung nicht mehr zumutbar ist.
 
-Änderungen im Gesellschaftsrecht
+In diesem Spezialfall sind Kündigungen des Darlehensgebers wegen Zahlungsverzugs oder wesentlicher Verschlechterung der Vermögensverhältnisse des Darlehensnehmers ausgeschlossen.
 
-Aktiengesellschaften, auch KGaA und SE erhalten&nbsp;****Erleichterungen bei der Durchführung der Hauptversammlung****. Nach der Neuregelung kann der Vorstand mit Zustimmung des Aufsichtsrats auch ohne Ermächtigung durch Satzung oder Geschäftsordnung Entscheidungen über die Teilnahme der Aktionäre an der Hauptversammlung im Wege elektronischer Kommunikation, die Stimmabgabe im Wege elektronischer Kommunikation und die Zulassung der Bild- und Tonübertragung treffen (Änderung des&nbsp;[&sect; 118 AktG](http://dejure.org/gesetze/AktG/118.html){: target="_blank"}). Der Vorstand kann auch mit Zustimmung des Aufsichtsrats entscheiden, dass eine virtuelle Hauptversammlung abgehalten wird. Ferner kann der Vorstand mit Zustimmung des Aufsichtsrats abweichend von&nbsp;[&sect; 123 AktG](http://dejure.org/gesetze/AktG/123.html){: target="_blank"}&nbsp;entscheiden, die Hauptversammlung spätestens am 21. Tag vor dem Tag der Versammlung einzuberufen. Weitere Formvorschriften werden ebenfalls gelockert.
+## Änderungen im Gesellschaftsrecht
 
-Der Vorstand kann auch mit Zustimmung des Aufsichtsrats abweichend von&nbsp;[&sect; 59 AktG](http://dejure.org/gesetze/AktG/59.html){: target="_blank"}&nbsp;selbst ohne Satzungsermächtigung entscheiden, einen Abschlag auf den Bilanzgewinn an die Aktionäre zu zahlen, oder dass die Hauptversammlung innerhalb des Geschäftsjahres stattfindet. Die Beschlussanfechtung von oben genannten Beschlüssen ist weitgehend ausgeschlossen, au&szlig;er bei Vorsatz oder grober Fahrlässigkeit.
+Veränderungen wurden zudem auch für Aktiengesellschaften, auch KGaA und SE beschossen. Dies können ihre Hauptversammlungen nun auch unter bestimmten Voraussetzungen im Wege elektronischer Kommunikation durchführen. Hierzu wurde die Vorschrift des&nbsp; &sect; 118 AktG geändert.&nbsp;
 
-**In Gesellschaften mit beschränkter Haftung (GmbH) können Gesellschafterbeschlusse in Textform oder durch schriftliche Stimmabgabe gefasst werden.**
-
-****Genossenschaften, Vereine und Stiftungen****&nbsp;erhalten ebenfalls weitere Corporate Governance Erleichterungen.
-
-Im****&nbsp;Umwandlungsrecht&nbsp;****genügt es für die Zulässigkeit der Eintragung abweichend von&nbsp;[&sect; 17 Abs. 2 UmwG](http://dejure.org/gesetze/UmwG/17.html){: target="_blank"}&nbsp;nun, wenn die Bilanz auf einen höchstens zwölf Monate (bisher: acht Monate) vor der Anmeldung liegenden Stichtag aufgestellt worden ist.
-
-Bei&nbsp;****Wohnungseigentümergemeinschaften****&nbsp;bleibt der zuletzt bestellte Verwalter bis zu seiner Abberufung oder bis zur Bestellung eines neuen Verwalters im Amt und der zuletzt beschlossene Wirtschaftsplan gilt bis zum Beschluss eines neuen Wirtschaftsplans fort.
+Auf für die Gesellschaft mit beschränkter Haftung (GmbH), Genossenschaften, Vereine und Stiftungen wurden Veränderungen beschlossen, ebenfalls im Umwandlungsrecht.&nbsp;
 
 &nbsp;
 
