@@ -69,3 +69,9 @@ Es ist in der Tat eine spannende Zeit, weil gerade durch die wirtschaftlichen Be
 Hier könnten im Falle einer Umschuldung gegebenenfalls mehrere tausend Euro wirtschaftlicher Vorteil für die Verbraucher entstehen.
 
 „Verbraucher, die bislang der Meinung waren, dass in ihren konkreten Darlehensverträgen keine Möglichkeit des Widerrufs besteht sollten dringend nochmals Ihre Darlehensverträge von Spezialisten überprüfen lassen. Der EuGH hat jetzt eine Tür aufgesto&szlig;en, die lange als verschlossen galt.", sagt Rechtsanwalt Klevenhagen, der mit seinem Team von der Kanzlei AdvoAdvice in der Vergangenheit bereits Hunderte von Kreditverträgen überprüft und Verhandlungen mit Banken geführt hat.
+
+Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
+
+#### Wir sind auch in dieser für alle schwierigen Zeit voll arbeitsfähig für Sie\!&nbsp;
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbare Ersteinschätzung, damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll wäre.
