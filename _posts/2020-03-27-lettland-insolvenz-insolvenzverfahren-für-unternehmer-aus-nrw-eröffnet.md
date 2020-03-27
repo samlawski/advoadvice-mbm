@@ -34,7 +34,7 @@ Noch bevor es zu einer Kreditkündigung oder einem Schufa Eintrag kam, entschied
 
 ## Neues Leben und neue Tätigkeit in Lettland
 
-In Riga wurde der Unternehmer schnell zum Geschäftsführer einer neu gegründeten Firma und belegte Kurse zum Erlernen der lettischen und russischen Sprache, um die Aktivitäten der lettischen Firma weiter ausweiten und deren Dienstleistungen nunmehr von Lettland aus weltweit anbieten zu können.&nbsp;
+In Riga wurde der Unternehmer schnell zum Geschäftsführer einer neu gegründeten Firma und belegte Kurse zum Erlernen der lettischen und russischen Sprache, um die Aktivitäten der lettischen Firma weiter ausweiten und deren Dienstleistungen nunmehr von Lettland aus weltweit anbieten zu können. Hierbei wurde er vor Ort in Riga unterstützt durch die [Berger Consulting SIA.](https://bergerconsulting.lv){: target="_blank"}
 
 ### Insolvenzverfahren erfolgreich eröffnet
 
