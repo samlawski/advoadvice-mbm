@@ -1,6 +1,6 @@
 ---
 title: 'Lettland Insolvenz: Insolvenzverfahren für Unternehmer aus NRW eröffnet'
-date: 2020-03-25 00:00:00
+date: 2020-03-27 00:00:00
 description: >-
   Lettisches Gericht eröffnet Insolvenzverfahren für jungen Unternehmer aus
   Nordrhein-Westfalen nach Aufenthalt in Riga
