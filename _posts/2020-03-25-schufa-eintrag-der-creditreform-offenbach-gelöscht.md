@@ -1,6 +1,6 @@
 ---
 title: SCHUFA-Eintrag der Creditreform Offenbach gelöscht
-date: 2020-03-24 00:00:00
+date: 2020-03-25 00:00:00
 description: >-
   Schufa löscht Eintrag der Creditreform Offenbach nach Schreiben der Kanzlei 
   AdvoAdvice
