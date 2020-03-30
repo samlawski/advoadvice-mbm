@@ -2,7 +2,7 @@
 title: >-
   Neues EuGH-Urteil: Millionen Kreditverträge können widerrufen werden - Ein
   neuer, gigantischer Widerrufsjoker?
-date: 2020-03-26 11:59:00
+date: 2020-03-28 11:59:00
 description: >-
   Ein neues Urteil des des EuGH könnte für einen gigantischen Widerrufsjoker
   gesorgt haben. Millionen Darlehensverträge könnten nun widerrufen oder
