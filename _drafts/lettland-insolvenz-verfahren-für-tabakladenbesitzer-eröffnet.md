@@ -1,6 +1,6 @@
 ---
 title: 'Lettland Insolvenz: Verfahren für Tabakladenbesitzer eröffnet'
-date: 2020-03-25 00:00:00
+date: 2020-04-02 00:00:00
 description: >-
   Erfolgreiche Insolvenzeröffnung nach Aufenthalt und Tätigkeit als
   Lagerarbeiter in Lettland für ehemaligen Selbständigen aus Baden-Württemberg
