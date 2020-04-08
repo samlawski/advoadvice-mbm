@@ -103,4 +103,4 @@ Informieren Sie sich auch gerne bereits jetzt über unsere erfolgreichen&nbsp; I
 
 ## Jetzt Termin sichern
 
-Vereinbaren Sie gerne noch heute Ihre Videokonferenz mit uns am 02.04.2020 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
+Vereinbaren Sie gerne noch heute Ihre Videokonferenz mit uns am 07.05.2020 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.
