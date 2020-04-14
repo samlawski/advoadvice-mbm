@@ -4,7 +4,7 @@ date:
 description: Tesch Inkasso veranlasst Löschung eines SCHUFA-Eintrages
 layout: post
 style_id: post
-image:
+image: /uploads/crossfit-534615-1280.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
@@ -29,7 +29,7 @@ Am 31. März 2020 musste eine junge Profi-Sportlerin aus Berlin mit Entsetzen fe
 
 Hintergrund des Eintrages war eine nicht ausgeglichene Arztrechnung aus dem Jahr 2016. Dies alleine rechtfertigt einen negativen SCHUFA-Eintrag jedoch noch lange nicht. Das erste Problem lag darin, dass die junge Profi-Sportlerin zu diesem Zeitpunkt bei weitem noch nicht volljährig war. Weiter ist bislang noch nicht genau geklärt, welche Behandlung Hintergrund der Forderung sein soll.
 
-![](/uploads/crossfit-534615-1280.jpg){: width="1280" height="853"}
+&nbsp;
 
 Der zuständige Arzt beantragte über den Rechtsanwalt Thomas Giesen kurz vor Ablauf der Verjährungsfrist einen Mahn- und Vollstreckungsbescheid. Schon aus den Bescheiden geht dabei nicht eindeutig hervor, ob die Forderung überhaupt gegen die junge Sportlerin oder nur gegen die Eltern geltend gemacht wurde. Darüber hinaus wurden die Bescheide unter einer alten Adresse zugestellt, weshalb die Verjährung zwischenzeitlich eingetreten sein dürfte.
 
