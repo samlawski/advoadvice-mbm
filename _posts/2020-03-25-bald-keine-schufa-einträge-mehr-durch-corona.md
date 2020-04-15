@@ -26,6 +26,7 @@ tags:
   - Rechtsanwalt
   - Datenschutz
   - Anwalt
+  - Covid-19
 topics:
   - schufa-und-datenschutz
   - insolvenz
