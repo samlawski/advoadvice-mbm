@@ -6,7 +6,7 @@ description: >-
   auch keine Schufa Einträge mehr möglich?
 layout: post
 style_id: post
-image: /uploads/no-money-2070384-1280.jpg
+image: /uploads/covid-19-4938932-1280.png
 tags:
   - Corona
   - Virus
