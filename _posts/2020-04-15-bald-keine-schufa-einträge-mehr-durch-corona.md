@@ -1,6 +1,6 @@
 ---
 title: Bald keine Schufa Einträge mehr durch Corona?
-date: 2020-03-25 00:00:00
+date: 2020-04-15 00:00:00
 description: >-
   Gesetzgeber ändert Vorschriften im Mietrecht und Insolvenzrecht. Sind jetzt
   auch keine Schufa Einträge mehr möglich?
