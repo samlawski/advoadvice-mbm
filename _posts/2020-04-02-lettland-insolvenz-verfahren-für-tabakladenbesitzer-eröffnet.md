@@ -28,11 +28,11 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Weiteres Insolvenzverfahren in Lettland für deutschen Tabakwarenhändler erfolgreich eröffnet.&nbsp;
+Ein weiteres Insolvenzverfahren in Lettland erfolgreich eröffnet.&nbsp;
 
-## Vom eigenen Tabakladen zum Lagerarbeiter
+## Vom eigenen Laden zum Lagerarbeiter
 
-Für einen weiteren Mandanten von AdvoAdvice konnte in Riga ein Insolvenzverfahren erfolgreich eröffnet werden. Der Mandant aus Süddeutschland war vor seinem Aufenthalt in Lettland als Gewerbetreibender tätig und betrieb einen Tabakladen mit Postannahmestelle und Lotto-Geschäft.&nbsp;
+Für einen weiteren Mandanten von AdvoAdvice konnte in Riga ein Insolvenzverfahren erfolgreich eröffnet werden. Der Mandant aus Süddeutschland war vor seinem Aufenthalt in Lettland als Gewerbetreibender tätig.&nbsp;
 
 Da die Geschäfte nicht ausreichend gut liefen und der Betroffene auch unter der hohen Arbeitsbelastung litt, zog er die Notbremse und entschied sich dafür seinen Laden aufzugeben und den Weg in die Insolvenz nach Lettland zu suchen.&nbsp;
 
