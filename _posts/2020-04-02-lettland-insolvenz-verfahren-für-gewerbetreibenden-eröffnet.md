@@ -1,5 +1,5 @@
 ---
-title: 'Lettland Insolvenz: Verfahren für Tabakladenbesitzer eröffnet'
+title: 'Lettland Insolvenz: Verfahren für Gewerbetreibenden eröffnet'
 date: 2020-04-02 00:00:00
 description: >-
   Erfolgreiche Insolvenzeröffnung nach Aufenthalt und Tätigkeit als
