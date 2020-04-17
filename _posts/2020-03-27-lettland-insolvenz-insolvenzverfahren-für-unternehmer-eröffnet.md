@@ -1,5 +1,5 @@
 ---
-title: 'Lettland Insolvenz: Insolvenzverfahren für Unternehmer aus NRW eröffnet'
+title: 'Lettland Insolvenz: Insolvenzverfahren für Unternehmer eröffnet'
 date: 2020-03-27 00:00:00
 description: >-
   Lettisches Gericht eröffnet Insolvenzverfahren für jungen Unternehmer aus
