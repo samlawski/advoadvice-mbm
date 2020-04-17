@@ -3,7 +3,7 @@ title: 'Lettland Insolvenz: Verfahren für Gewerbetreibenden eröffnet'
 date: 2020-04-02 00:00:00
 description: >-
   Erfolgreiche Insolvenzeröffnung nach Aufenthalt und Tätigkeit als
-  Lagerarbeiter in Lettland für ehemaligen Selbständigen aus Baden-Württemberg
+  Lagerarbeiter in Lettland für ehemaligen Selbständigen aus Baden-Württemberg.
 layout: post
 style_id: post
 image: /uploads/latvia-2131273-1280-6.jpg
