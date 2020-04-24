@@ -1,10 +1,12 @@
 ---
-title: SCHUFA-Eintrag nach Personenverwechselung gelöscht
+title: SCHUFA-Eintrag trotz Vollstreckungsbescheid gelöscht
 date: 2020-04-24 00:00:00
-description:
+description: >-
+  AdvoAdvice erreicht Löschung eines Schufa Eintrags der Mobilcom-Debitel GmbH
+  trotz Vollstreckungsbescheids
 layout: post
 style_id: post
-image:
+image: /uploads/office-620822-1280.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
@@ -12,11 +14,11 @@ tags:
   - Negativeintrag
   - Löschung
   - BDSG
-  - Infoscore Forderungsmanagement
   - Mobilcom debitel
   - DSGVO
   - Vollstreckungsbescheid
 topics:
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
