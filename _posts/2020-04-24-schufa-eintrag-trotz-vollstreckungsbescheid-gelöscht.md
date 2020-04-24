@@ -6,7 +6,7 @@ description: >-
   trotz Vollstreckungsbescheids
 layout: post
 style_id: post
-image: /uploads/office-620822-1280.jpg
+image: /uploads/office-620822-1280-1.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
