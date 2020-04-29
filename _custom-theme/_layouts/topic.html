@@ -19,6 +19,13 @@ layout: default
         {% endfor %}
       </ul>
     </nav>
+
+    {% if page.path == "_topics/schufa-und-datenschutz.md" %}
+    <!-- Special legal note only for Schufa - may not be necessary -->
+      <div class="footnote__schufa">
+        <small>* Schufa ist eine eingetragene Wortmarke (DE1030700) der Schufa Holding AG (Wiesbaden)</small>
+      </div>
+    {% endif %}
   </div>
 
   {% assign erfolge_size = page.erfolge | size %}
