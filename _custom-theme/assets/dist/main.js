@@ -12773,14 +12773,14 @@ var _default = {
   components: {}
 };
 exports.default = _default;
-        var $80a0e2 = exports.default || module.exports;
+        var $e792b1 = exports.default || module.exports;
       
-      if (typeof $80a0e2 === 'function') {
-        $80a0e2 = $80a0e2.options;
+      if (typeof $e792b1 === 'function') {
+        $e792b1 = $e792b1.options;
       }
     
         /* template */
-        Object.assign($80a0e2, (function () {
+        Object.assign($e792b1, (function () {
           var render = function() {
   var _vm = this
   var _h = _vm.$createElement
@@ -13581,7 +13581,7 @@ render._withStripped = true
             render: render,
             staticRenderFns: staticRenderFns,
             _compiled: true,
-            _scopeId: "data-v-80a0e2",
+            _scopeId: "data-v-e792b1",
             functional: undefined
           };
         })());
@@ -13594,9 +13594,9 @@ render._withStripped = true
         if (api.compatible) {
           module.hot.accept();
           if (!module.hot.data) {
-            api.createRecord('$80a0e2', $80a0e2);
+            api.createRecord('$e792b1', $e792b1);
           } else {
-            api.reload('$80a0e2', $80a0e2);
+            api.reload('$e792b1', $e792b1);
           }
         }
 
@@ -13649,7 +13649,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50106" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50931" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
