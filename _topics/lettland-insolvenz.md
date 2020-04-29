@@ -96,7 +96,7 @@ abschnitte:
       * Durchsetzung der Restschuldbefreiung in Deutschland&nbsp;
 
       * Herausfordern von Titeln nach Restschuldbefreiung und Erledigung von
-      Schufa-Eintragen bzw. deren Löschung durch Kanzlei AdvoAdvice
+      Schufa*-Eintragen bzw. deren Löschung durch Kanzlei AdvoAdvice
     image:
     cta: true
   - abschnitt_template: box_hell
