@@ -1,403 +1,595 @@
 ---
 layout: default
 style_id: schufa_tool
-title: Schufa Beratung
-description: Testen Sie jetzt kostenlos und direkt online Ihre nächsten Schritte im Umgang mit der Schufa.
+title: Selbst-Check
+description: >-
+  Testen Sie jetzt kostenlos und direkt online Ihre nächsten Schritte und
+  Möglichkeiten
 fragen:
   - block_id: intro
     block_typ: frage_mit_auswahl
     text: Welches Anliegen trifft auf Sie zu?
     erforderlich: true
-    optionen: 
+    optionen:
       - Schufa-Score verbessern
       - Einen (negativen) Eintrag löschen
       - Veraltete Daten löschen
       - Daten zur Restschuldbefreiung löschen
-      - Einträge aus öffentlichen Verzeichnissen löschen # (bspw. Haftbefehle oder Zwangsvollstreckungen)
-      - Eintrag im FraudPool löschen # (u.a. auch wegen Identitätsdiebstahl)
-    folge_bloecke: 
-      - antwort_ist: ["Schufa-Score verbessern"]
-        block_ids: ["score_verbessern_1", "score_verbessern_2", "basis_score_1"]
-      - antwort_ist: ["Einen (negativen) Eintrag löschen"]
-        block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
-      - antwort_ist: ["Veraltete Daten löschen"]
-        block_ids: ["veraltete_daten_text", "basis_score_1"]
-      - antwort_ist: ["Einträge aus öffentlichen Verzeichnissen löschen"]
-        block_ids: ["oeffentliche_verzeichnisse_1"]
-      - antwort_ist: ["Eintrag im FraudPool löschen"]
-        block_ids: ["fraudpool_identitaetsdiebstahl", "fraudpool_1"]
-
-  # Wiederverwendet
-
+      - Einträge aus öffentlichen Verzeichnissen löschen
+      - Eintrag im FraudPool löschen
+    folge_bloecke:
+      - antwort_ist:
+          - Schufa-Score verbessern
+        block_ids:
+          - score_verbessern_1
+          - score_verbessern_2
+          - basis_score_1
+      - antwort_ist:
+          - Einen (negativen) Eintrag löschen
+        block_ids:
+          - negativ_eintrag_wer
+          - negativ_eintrag_wann
+          - negativ_eintrag_titulierung
+          - negativ_eintrag_ausgeglichen
+          - negativ_eintrag_inkasso
+          - negativ_eintrag_mahnschreiben
+          - negativ_eintrag_vertragskuendigung
+          - negativ_eintrag_bestritten
+          - negativ_eintrag_ratenzahlungen
+      - antwort_ist:
+          - Veraltete Daten löschen
+        block_ids:
+          - veraltete_daten_text
+          - basis_score_1
+      - antwort_ist:
+          - Einträge aus öffentlichen Verzeichnissen löschen
+        block_ids:
+          - oeffentliche_verzeichnisse_1
+      - antwort_ist:
+          - Eintrag im FraudPool löschen
+        block_ids:
+          - fraudpool_identitaetsdiebstahl
+          - fraudpool_1
   - block_id: basis_score_1
-    block_typ: frage_mit_auswahl 
-    text: "Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person errechnet?"
+    block_typ: frage_mit_auswahl
+    text: >-
+      Welchen Basis-Scorewert hat die Schufa Holding AG zu Ihrer Person
+      errechnet?
     erforderlich: true
-    optionen: 
+    optionen:
       - Über 95%
       - 90% - 95%
       - 80% - 90%
       - Unter 80%
-    folge_bloecke: []
-
-  # Schufa-Score verbessern
-
+    folge_bloecke:
   - block_id: score_verbessern_1
     block_typ: frage_mit_auswahl
     text: Haben Sie einen negativen Schufa-Eintrag?
     erforderlich: true
-    optionen: ["Ja", "Nein"]
+    optionen:
+      - Ja
+      - Nein
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["negativ_eintrag_wer", "negativ_eintrag_wann", "negativ_eintrag_titulierung", "negativ_eintrag_ausgeglichen", "negativ_eintrag_inkasso", "negativ_eintrag_mahnschreiben", "negativ_eintrag_vertragskuendigung", "negativ_eintrag_bestritten", "negativ_eintrag_ratenzahlungen"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - negativ_eintrag_wer
+          - negativ_eintrag_wann
+          - negativ_eintrag_titulierung
+          - negativ_eintrag_ausgeglichen
+          - negativ_eintrag_inkasso
+          - negativ_eintrag_mahnschreiben
+          - negativ_eintrag_vertragskuendigung
+          - negativ_eintrag_bestritten
+          - negativ_eintrag_ratenzahlungen
   - block_id: score_verbessern_2
-    block_typ: frage_mit_auswahl 
-    text: "Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)"
+    block_typ: frage_mit_auswahl
+    text: >-
+      Sind die Daten in Ihrer Auskunft inhaltlich richtig? (z.B.: Gehören alle
+      Konten zu Ihnen? Sind beendete Verträge als solche gekennzeichnet?)
     erforderlich: true
-    optionen: ["Ja", "Nein"]
-    folge_bloecke: []
-
-  # Negativeinträge löschen
-
+    optionen:
+      - Ja
+      - Nein
+    folge_bloecke:
   - block_id: negativ_eintrag_wer
     block_typ: frage_mit_text
     text: Wer hat den Schufa-Eintrag vorgenommen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: negativ_eintrag_wann
     block_typ: frage_mit_datum
     text: Wann wurde der Eintrag vorgenommen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: negativ_eintrag_titulierung
     block_typ: frage_mit_auswahl
-    text: Gibt es eine Titulierung der Forderung durch Urteil oder Vollstreckungsbescheid?
+    text: >-
+      Gibt es eine Titulierung der Forderung durch Urteil oder
+      Vollstreckungsbescheid?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["titulierung_wann"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - titulierung_wann
   - block_id: negativ_eintrag_ausgeglichen
     block_typ: frage_mit_auswahl
     text: Wurde die Forderung bereits durch Sie ausgeglichen?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["ausgleich_wann"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - ausgleich_wann
   - block_id: negativ_eintrag_inkasso
     block_typ: frage_mit_auswahl
     text: Wurde ein Inkassounternehmen beauftragt?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["inkasso_wer"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - inkasso_wer
   - block_id: negativ_eintrag_mahnschreiben
     block_typ: frage_mit_auswahl
     text: Haben Sie Mahnschreiben zu der Forderung erhalten?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["mahnschreiben_wann"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - mahnschreiben_wann
   - block_id: negativ_eintrag_vertragskuendigung
     block_typ: frage_mit_auswahl
     text: Wurde das Vertragsverhältnis gekündigt?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["vertragskuendigung_wann"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - vertragskuendigung_wann
   - block_id: negativ_eintrag_bestritten
     block_typ: frage_mit_auswahl
     text: Wurde die Forderung durch Sie bestritten?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["bestritten_wie"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - bestritten_wie
   - block_id: negativ_eintrag_ratenzahlungen
     block_typ: frage_mit_auswahl
-    text: Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung getroffen?
+    text: >-
+      Haben Sie mit dem Forderungsinhaber eine Ratenzahlungsvereinbarung
+      getroffen?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["ratenzahlungen_wie"]
-
-  ## Negativeintrag Folgefragen
-
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - ratenzahlungen_wie
   - block_id: titulierung_wann
     block_typ: frage_mit_datum
     text: Wann wurde die Titulierung erlassen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: ausgleich_wann
     block_typ: frage_mit_datum
     text: Wann wurde die Forderung von Ihnen ausgeglichen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: inkasso_wer
     block_typ: frage_mit_text
     text: Wie heißt das Inkassounternehmen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: mahnschreiben_wann
     block_typ: frage_mit_datum
     text: Zu welchem Datum wurden das oder die Mahnschreiben erstellt?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: vertragskuendigung_wann
     block_typ: frage_mit_datum
     text: Zu welchem Datum wurde das Kündigungsschreiben erstellt?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: bestritten_wie
     block_typ: frage_mit_text
     text: Wann und in welcher Form haben Sie die Forderung bestritten?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: ratenzahlungen_wie
     block_typ: frage_mit_text
-    text: Wann und in welcher Form haben Sie eine Ratenzahlungsvereinbarung getroffen?
+    text: >-
+      Wann und in welcher Form haben Sie eine Ratenzahlungsvereinbarung
+      getroffen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
-
-  # Veraltete Daten
-
+    optionen:
+    folge_bloecke:
   - block_id: veraltete_daten_text
     block_typ: frage_mit_auswahl
-    text: In Ihrer Schufa-Auskunft finden sich offenbar veraltete Daten wieder. Es ist Ihnen zu empfehlen, die Schufa Holding AG selbst zu kontaktieren und diese zur Löschung dieser Daten aufzufordern. Falls sich die SCHUFA weigern sollte, die Daten zu löschen und diese Daten sich negativ auf den Scorewert auswirken (anzunehmen bei einem Basis-Scorewert unterhalb 90 %), empfehlen wir Ihnen dringend, sich mit uns in Verbindung zu setzen. Dafür nutzen Sie bitte das Formular auf der nächsten Seite.
+    text: >-
+      In Ihrer Schufa-Auskunft finden sich offenbar veraltete Daten wieder. Es
+      ist Ihnen zu empfehlen, die Schufa Holding AG selbst zu kontaktieren und
+      diese zur Löschung dieser Daten aufzufordern. Falls sich die SCHUFA
+      weigern sollte, die Daten zu löschen und diese Daten sich negativ auf den
+      Scorewert auswirken (anzunehmen bei einem Basis-Scorewert unterhalb 90 %),
+      empfehlen wir Ihnen dringend, sich mit uns in Verbindung zu setzen. Dafür
+      nutzen Sie bitte das Formular auf der nächsten Seite.
     erforderlich: false
-    optionen: ["Weiter"]
-    folge_bloecke: []
-
-  # Restschuldbefreiung
-
-  # ...
-
-  # Öffentliche Verzeichnisse
-
+    optionen:
+      - Weiter
+    folge_bloecke:
   - block_id: oeffentliche_verzeichnisse_1
     block_typ: frage_mit_auswahl
     text: Haben Sie die dazugehörige Forderung bereits ausgeglichen?
     erforderlich: true
-    optionen: ["Ja", "Nein"]
-    folge_bloecke: []
-
-  # Fraud-Pool
-
+    optionen:
+      - Ja
+      - Nein
+    folge_bloecke:
   - block_id: fraudpool_identitaetsdiebstahl
     block_typ: frage_mit_auswahl
     text: Handelt es sich um eine Identitätsdiebstahl?
     erforderlich: true
-    optionen: ["Ja", "Nein"]
+    optionen:
+      - Ja
+      - Nein
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["identitaetsdiebstahl_taeter", "identitaetsdiebstahl_strafanzeige", "identitaetsdiebstahl_schufa"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - identitaetsdiebstahl_taeter
+          - identitaetsdiebstahl_strafanzeige
+          - identitaetsdiebstahl_schufa
   - block_id: fraudpool_1
     block_typ: frage_mit_auswahl
     text: Handelt es sich um ein Merkmal im sog. FraudPool?
     erforderlich: true
-    optionen: ["Ja", "Nein"]
+    optionen:
+      - Ja
+      - Nein
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["fraudpool_2", "fraudpool_3"]
-
-  ## Fraud-Pool Folgefragen
-
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - fraudpool_2
+          - fraudpool_3
   - block_id: identitaetsdiebstahl_taeter
     block_typ: frage_mit_auswahl
     text: Kennen Sie den Täter oder haben Sie eine Vermutung?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["identitaetsdiebstahl_taeter_wer"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - identitaetsdiebstahl_taeter_wer
   - block_id: identitaetsdiebstahl_strafanzeige
     block_typ: frage_mit_auswahl
     text: Wurde bereits Strafanzeige gestellt oder ein Strafverfahren durchgeführt?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
     folge_bloecke:
-      - antwort_ist: ["Ja"]
-        block_ids: ["identitaetsdiebstahl_strafanzeige_wo"]
+      - antwort_ist:
+          - Ja
+        block_ids:
+          - identitaetsdiebstahl_strafanzeige_wo
   - block_id: identitaetsdiebstahl_schufa
     block_typ: frage_mit_auswahl
-    text: Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag eingemeldet?
+    text: >-
+      Wurde in Folge des Identitätsdiebstahls ein negativer Schufa Eintrag
+      eingemeldet?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
-    folge_bloecke: []
-
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
+    folge_bloecke:
   - block_id: identitaetsdiebstahl_taeter_wer
     block_typ: frage_mit_text
     text: Wie lauten Name und Anschrift dieser Person?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
+    optionen:
+    folge_bloecke:
   - block_id: identitaetsdiebstahl_strafanzeige_wo
     block_typ: frage_mit_text
-    text: Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem Aktenzeichen?
+    text: >-
+      Bei welcher Polizeidienststelle oder Staatsanwaltschaft zu welchem
+      Aktenzeichen?
     erforderlich: false
-    optionen: []
-    folge_bloecke: []
-
+    optionen:
+    folge_bloecke:
   - block_id: fraudpool_2
     block_typ: frage_mit_auswahl
     text: Wurden Sie als potenzieller Täter im FraudPool erfasst?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
-    folge_bloecke: []
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
+    folge_bloecke:
   - block_id: fraudpool_3
     block_typ: frage_mit_auswahl
     text: Ist Ihnen der dazugehörige Sachverhalt bekannt?
     erforderlich: true
-    optionen: ["Ja", "Nein", "Weiß ich nicht"]
-    folge_bloecke: []
-
+    optionen:
+      - Ja
+      - Nein
+      - Weiß ich nicht
+    folge_bloecke:
 auswertungen:
-
-  # Schufa-Score verbessern && Veraltete Daten
-
   - bedingungen_alle_erfuellt:
       - block_id: basis_score_1
-        antwort_ist: "Über 95%"
+        antwort_ist: Über 95%
     bedingungen_eins_erfuellt:
       - block_id: intro
         antwort_ist: Schufa-Score verbessern
       - block_id: intro
         antwort_ist: Veraltete Daten löschen
-    text_html: <p>Ihr Basis-Scorewert ist trotz womöglich minimaler Veränderungen in einem sehr guten Bereich angesiedelt. Sofern Sie keine konkreten Vertragsanfragen verwehrt bekommen, ist für Sie nichts weiteres zu veranlassen. Der Basis-Scorewert wird durch die Schufa Holding AG alle drei Monate neu berechnet. Sollte sich der Scorewert bei Ihnen über mindestens zwei aufeinanderfolgende Berechnungstermine verschlechtern, können Sie uns gerne für eine Erstberatung kontaktieren.</p>
+    text_html: >-
+      <p>Ihr Basis-Scorewert ist trotz womöglich minimaler Veränderungen in
+      einem sehr guten Bereich angesiedelt. Sofern Sie keine konkreten
+      Vertragsanfragen verwehrt bekommen, ist für Sie nichts weiteres zu
+      veranlassen. Der Basis-Scorewert wird durch die Schufa Holding AG alle
+      drei Monate neu berechnet. Sollte sich der Scorewert bei Ihnen über
+      mindestens zwei aufeinanderfolgende Berechnungstermine verschlechtern,
+      können Sie uns gerne für eine Erstberatung kontaktieren.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: basis_score_1
-        antwort_ist: "90% - 95%"
+        antwort_ist: 90% - 95%
     bedingungen_eins_erfuellt:
       - block_id: intro
         antwort_ist: Schufa-Score verbessern
       - block_id: intro
         antwort_ist: Veraltete Daten löschen
-    text_html: <p>Ihr von der Schufa Holding AG berechnete Basis-Scorewert ist in einem guten Bereich angesiedelt. In vereinzelten Geschäftsfeldern kann der Scorewert dennoch dazu führen, dass Ihnen Verträge zu schlechteren Konditionen angeboten oder gar verwehrt werden können. Falls eine größere Finanzierung ansteht, sollte Sie die Auskunft genauer überprüfen lassen, um negative Konsequenzen abzuwehren. Anderenfalls weisen wir darauf hin, dass der Basis-Scorewert alle drei Monate neu berechnet wird, sodass sich Ihr Basis-Scorewert womöglich in Kürze von alleine wieder erholt.</p>
+    text_html: >-
+      <p>Ihr von der Schufa Holding AG berechnete Basis-Scorewert ist in einem
+      guten Bereich angesiedelt. In vereinzelten Geschäftsfeldern kann der
+      Scorewert dennoch dazu führen, dass Ihnen Verträge zu schlechteren
+      Konditionen angeboten oder gar verwehrt werden können. Falls eine größere
+      Finanzierung ansteht, sollte Sie die Auskunft genauer überprüfen lassen,
+      um negative Konsequenzen abzuwehren. Anderenfalls weisen wir darauf hin,
+      dass der Basis-Scorewert alle drei Monate neu berechnet wird, sodass sich
+      Ihr Basis-Scorewert womöglich in Kürze von alleine wieder erholt.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: basis_score_1
-        antwort_ist: "80% - 90%"
+        antwort_ist: 80% - 90%
     bedingungen_eins_erfuellt:
       - block_id: intro
         antwort_ist: Schufa-Score verbessern
       - block_id: intro
         antwort_ist: Veraltete Daten löschen
-    text_html: <p>Der von der Schufa Holding AG berechnete Basis-Scorewert befindet sich in einem kritischen Bereich. Es kann verstärkt dazu kommen, dass Vertragsanfragen beim Rechnungskauf oder der Abschluss anderer Verträge abgelehnt werden. Insbesondere Finanzierungen dürften nur schwer realisierbar sein. Obwohl der Basis-Scorewert alle drei Monate neu berechnet wird, ist nicht davon auszugehen, dass sich der Scorewert von alleine vollumfänglich erholt. Es ist anzuraten, Ihre Auskunft durch einen Experten überprüfen zu lassen.</p>
+    text_html: >-
+      <p>Der von der Schufa Holding AG berechnete Basis-Scorewert befindet sich
+      in einem kritischen Bereich. Es kann verstärkt dazu kommen, dass
+      Vertragsanfragen beim Rechnungskauf oder der Abschluss anderer Verträge
+      abgelehnt werden. Insbesondere Finanzierungen dürften nur schwer
+      realisierbar sein. Obwohl der Basis-Scorewert alle drei Monate neu
+      berechnet wird, ist nicht davon auszugehen, dass sich der Scorewert von
+      alleine vollumfänglich erholt. Es ist anzuraten, Ihre Auskunft durch einen
+      Experten überprüfen zu lassen.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: basis_score_1
-        antwort_ist: "Unter 80%"
+        antwort_ist: Unter 80%
     bedingungen_eins_erfuellt:
       - block_id: intro
         antwort_ist: Schufa-Score verbessern
       - block_id: intro
         antwort_ist: Veraltete Daten löschen
-    text_html: <p>Leider ist Ihr Basis-Scorewert in einem sehr schlechten Bereich. Es ist wahrscheinlich, dass Sie einen negativen Schufa Eintrag haben, welchen Sie bislang nicht entdecken oder identifiziert haben. Anderenfalls können auch mittlerweile ausgeglichene aber noch gespeicherte Merkmale zu einer solchen Verschlechterung des Scorewertes führen. Es ist Ihnen daher dringend zu empfehlen, eine umfassende Prüfung der Schufaauskunft vornehmen zu lassen.</p>
+    text_html: >-
+      <p>Leider ist Ihr Basis-Scorewert in einem sehr schlechten Bereich. Es ist
+      wahrscheinlich, dass Sie einen negativen Schufa Eintrag haben, welchen Sie
+      bislang nicht entdecken oder identifiziert haben. Anderenfalls können auch
+      mittlerweile ausgeglichene aber noch gespeicherte Merkmale zu einer
+      solchen Verschlechterung des Scorewertes führen. Es ist Ihnen daher
+      dringend zu empfehlen, eine umfassende Prüfung der Schufaauskunft
+      vornehmen zu lassen.</p>
     erlaube_kontakt: true
-
-  # Negativeintrag
-
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Einen (negativen) Eintrag löschen
       - block_id: negativ_eintrag_titulierung
-        antwort_ist: "Ja"
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Die Löschung von titulierten Forderungen ist nur in Ausnahmefällen möglich. Dies liegt daran, dass die Titulierung, also das Urteil, der Vollstreckungsbescheid o.ä. amtlich zugestellt wird. Daraus folgt, dass der Betroffene in den meisten Fällen auch Kenntnis von dieser Forderung hat.<br />In Ausnahmefällen ist eine Löschung eines solchen Eintrages dennoch möglich. Dies kann insbesondere der Fall sein, wenn die Forderung vor der Titulierung bezahlt, die Titulierung schon viele Jahre zurückliegt oder vor der Eintragung des negativen Merkmals bei der SCHUFA eine Ratenzahlungsvereinbarung mit dem Forderungsinhaber abgeschlossen wurde.  <br />Falls Sie einen soeben aufgeführten oder einen ähnlichen Einwand gegen den Eintrag haben, können wir für Sie gerne prüfen, ob es trotz der Titulierung Erfolgsaussichten für die Löschung des Eintrages gibt. Bitte geben Sie Ihre weiteren Daten dann im nächsten Schritt an.</p>
+        antwort_ist: Ja
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Die Löschung von titulierten Forderungen ist nur in Ausnahmefällen
+      möglich. Dies liegt daran, dass die Titulierung, also das Urteil, der
+      Vollstreckungsbescheid o.ä. amtlich zugestellt wird. Daraus folgt, dass
+      der Betroffene in den meisten Fällen auch Kenntnis von dieser Forderung
+      hat.<br />In Ausnahmefällen ist eine Löschung eines solchen Eintrages
+      dennoch möglich. Dies kann insbesondere der Fall sein, wenn die Forderung
+      vor der Titulierung bezahlt, die Titulierung schon viele Jahre zurückliegt
+      oder vor der Eintragung des negativen Merkmals bei der SCHUFA eine
+      Ratenzahlungsvereinbarung mit dem Forderungsinhaber abgeschlossen wurde. 
+      <br />Falls Sie einen soeben aufgeführten oder einen ähnlichen Einwand
+      gegen den Eintrag haben, können wir für Sie gerne prüfen, ob es trotz der
+      Titulierung Erfolgsaussichten für die Löschung des Eintrages gibt. Bitte
+      geben Sie Ihre weiteren Daten dann im nächsten Schritt an.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Einen (negativen) Eintrag löschen
       - block_id: negativ_eintrag_titulierung
-        antwort_ist: "Nein"
+        antwort_ist: Nein
       - block_id: negativ_eintrag_mahnschreiben
-        antwort_ist: "Nein"
+        antwort_ist: Nein
       - block_id: negativ_eintrag_vertragskuendigung
-        antwort_ist: "Nein"
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Wenn Sie keine Mahnungen zu der Forderung und/oder keine Kündigung zu dem Vertragsverhältnis erhalten haben, bestehen zunächst gute Chancen, dass der Eintrag gelöscht werden kann. Genauere Erfolgsaussichten sind aber immer im konkreten Einzelfall zu ermitteln. Bitte geben Sie Ihre weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert sind.</p>
+        antwort_ist: Nein
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Wenn Sie keine Mahnungen zu der Forderung und/oder keine Kündigung zu
+      dem Vertragsverhältnis erhalten haben, bestehen zunächst gute Chancen,
+      dass der Eintrag gelöscht werden kann. Genauere Erfolgsaussichten sind
+      aber immer im konkreten Einzelfall zu ermitteln. Bitte geben Sie Ihre
+      weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung
+      interessiert sind.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Einen (negativen) Eintrag löschen
       - block_id: negativ_eintrag_titulierung
-        antwort_ist: "Nein"
+        antwort_ist: Nein
     bedingungen_eins_erfuellt:
       - block_id: negativ_eintrag_mahnschreiben
-        antwort_ist: "Ja"
+        antwort_ist: Ja
       - block_id: negativ_eintrag_vertragskuendigung
-        antwort_ist: "Ja"
-    text_html: <p>Wenn Sie Mahnungen zu der Forderung und/oder eine Kündigung zu dem Vertragsverhältnis erhalten haben, sind die Grundvoraussetzungen für einen negativen Schufa-Eintrag geschaffen. Jedoch werden bei der Einmeldung häufig weitere Fehler begangen, sodass es oft möglich ist, eine Löschung dennoch durchzusetzen. Genauere Erfolgsaussichten sind aber immer im konkreten Einzelfall zu ermitteln. Diese hängen insbesondere an der Ausgestaltung der einzelnen Mahnungen. Bitte geben Sie Ihre weiteren Daten im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert sind.</p>
+        antwort_ist: Ja
+    text_html: >-
+      <p>Wenn Sie Mahnungen zu der Forderung und/oder eine Kündigung zu dem
+      Vertragsverhältnis erhalten haben, sind die Grundvoraussetzungen für einen
+      negativen Schufa-Eintrag geschaffen. Jedoch werden bei der Einmeldung
+      häufig weitere Fehler begangen, sodass es oft möglich ist, eine Löschung
+      dennoch durchzusetzen. Genauere Erfolgsaussichten sind aber immer im
+      konkreten Einzelfall zu ermitteln. Diese hängen insbesondere an der
+      Ausgestaltung der einzelnen Mahnungen. Bitte geben Sie Ihre weiteren Daten
+      im nächsten Schritt an, wenn Sie an einer Mandatierung interessiert
+      sind.</p>
     erlaube_kontakt: true
-
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Daten zur Restschuldbefreiung löschen
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung speichern darf. An dieser Rechtsprechung bestanden bislang schon vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen Person in Frage steht. Somit können trotz der bislang erfolgten Urteile wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung eines solchen Merkmals geführt werden.</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Ab dem 25.05.2018 gilt die Datenschutzgrundverordnung auch für die
+      Übermittlung personenbezogener Daten an die Schufa Holding AG. Bislang
+      entspricht es im nationalen Kontext der einhelligen Rechtsprechung, dass
+      die Schufa Holding AG Daten über eine erteilte Restschuldbefreiung
+      speichern darf. An dieser Rechtsprechung bestanden bislang schon
+      vielfältige Zweifel. Unter dem Geltungsbereich der DSGVO könnten die
+      Karten nun neu gemischt werden, da die tatsächliche Aussagekraft der
+      erteilten Restschuldbefreiung für die Kreditwürdigkeit einer betroffenen
+      Person in Frage steht. Somit können trotz der bislang erfolgten Urteile
+      wieder Prozesse mit einer gewissen Erfolgsaussicht gegen die Speicherung
+      eines solchen Merkmals geführt werden.</p>
     erlaube_kontakt: true
-
-  # Öffentliche Verzeichnisse
-
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Einträge aus öffentlichen Verzeichnissen löschen
       - block_id: oeffentliche_verzeichnisse_1
         antwort_ist: Ja
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Gerne können wir Ihnen in Ihrer Angelegenheit behilflich sein. Dazu benötigen wir eine aktuelle Schufa-Selbstauskunft und eine Erledigungserklärung des Gläubigers. Im Anschluss daran kann häufig eine Löschung des Merkmals bei der Schufa Holding AG erreicht werden. Bitte führen Sie die nächsten Schritte aus.</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Gerne können wir Ihnen in Ihrer Angelegenheit behilflich sein. Dazu
+      benötigen wir eine aktuelle Schufa-Selbstauskunft und eine
+      Erledigungserklärung des Gläubigers. Im Anschluss daran kann häufig eine
+      Löschung des Merkmals bei der Schufa Holding AG erreicht werden. Bitte
+      führen Sie die nächsten Schritte aus.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Einträge aus öffentlichen Verzeichnissen löschen
       - block_id: oeffentliche_verzeichnisse_1
         antwort_ist: Nein
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Bevor die dazugehörige Forderung nicht ausgeglichen wurde, können wir leider wenig für Sie tun.</p><p>Gegen einen Ausgleich der Forderung, die wahrscheinlich tituliert und somit auch gegen Sie vollstreckbar ist, werden Sie höchstwahrscheinlich nicht mehr mit Erfolg zur Wehr setzen können. Sobald die Forderung jedoch ausgeglichen wurde, können Sie uns gerne kontaktieren.</p><p>Sollten Sie keine Kenntnis davon haben, um was für eine Forderung es sich handelt, können Sie beim für Sie zuständigen Gerichtsvollzieher oder dem Vollstreckungsgericht mehr zum Hintergrund der zu Ihrer Person im Schuldnerverzeichnis eingetragenen Forderung erhalten. Auskünfte über die eigene Person können auch unter Link www.vollstreckungsportal.de angefordert werden.</p><p>Sollten Sie hier selbst zu keine Ergebnis gelangen, um was für einen Vorgang es sich handelt, können wir für Sie eine kostenpflichtige Anfrage beim Vollstreckungsportal durchführen. Schreiben sie uns bei Interesse an dieser Dienstleistung gerne eine Email an vollstreckung@advoadvice.de</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Bevor die dazugehörige Forderung nicht ausgeglichen wurde, können wir
+      leider wenig für Sie tun.</p><p>Gegen einen Ausgleich der Forderung, die
+      wahrscheinlich tituliert und somit auch gegen Sie vollstreckbar ist,
+      werden Sie höchstwahrscheinlich nicht mehr mit Erfolg zur Wehr setzen
+      können. Sobald die Forderung jedoch ausgeglichen wurde, können Sie uns
+      gerne kontaktieren.</p><p>Sollten Sie keine Kenntnis davon haben, um was
+      für eine Forderung es sich handelt, können Sie beim für Sie zuständigen
+      Gerichtsvollzieher oder dem Vollstreckungsgericht mehr zum Hintergrund der
+      zu Ihrer Person im Schuldnerverzeichnis eingetragenen Forderung erhalten.
+      Auskünfte über die eigene Person können auch unter Link
+      www.vollstreckungsportal.de angefordert werden.</p><p>Sollten Sie hier
+      selbst zu keine Ergebnis gelangen, um was für einen Vorgang es sich
+      handelt, können wir für Sie eine kostenpflichtige Anfrage beim
+      Vollstreckungsportal durchführen. Schreiben sie uns bei Interesse an
+      dieser Dienstleistung gerne eine Email an vollstreckung@advoadvice.de</p>
     erlaube_kontakt: false
-
-  # Fraud-Pool & Identitätsdiebstahl
-
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Eintrag im FraudPool löschen
       - block_id: identitaetsdiebstahl_schufa
         antwort_ist: Ja
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Es bestehen gute Möglichkeiten, dass wir Ihnen bei Ihrem Anliegen helfen können. Negative Schufa Einträge können nach einem Identitätsdiebstahl häufig aufgeklärt werden, solange Sie den Identitätsdiebstahl auch nachweisen können und Strafanzeige gestellt wurde. Bitte laden Sie dazu im nachfolgenden Schritt Ihre Unterlagen hoch.</p><p>Wir weisen bereits jetzt darauf hin, dass wir eine Mandatierung nur in Bezug auf die Schufa-Merkmale annehmen werden. Weitere zivil- und/oder strafrechtliche Ansprüche werden durch uns nicht bearbeitet.</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Es bestehen gute Möglichkeiten, dass wir Ihnen bei Ihrem Anliegen
+      helfen können. Negative Schufa Einträge können nach einem
+      Identitätsdiebstahl häufig aufgeklärt werden, solange Sie den
+      Identitätsdiebstahl auch nachweisen können und Strafanzeige gestellt
+      wurde. Bitte laden Sie dazu im nachfolgenden Schritt Ihre Unterlagen
+      hoch.</p><p>Wir weisen bereits jetzt darauf hin, dass wir eine
+      Mandatierung nur in Bezug auf die Schufa-Merkmale annehmen werden. Weitere
+      zivil- und/oder strafrechtliche Ansprüche werden durch uns nicht
+      bearbeitet.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Eintrag im FraudPool löschen
       - block_id: identitaetsdiebstahl_schufa
         antwort_ist: Nein
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Leider können wir Ihnen bei Ihrem Anliegen nicht behilflich sein. Wir empfehlen Ihnen jedoch, sich dringend an einen Kollegen zu wenden, um die zivil- und strafrechtlichen Ansprüche gegen den Täter durchzusetzen. Dabei wünschen wir Ihnen viel Erfolg!</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Leider können wir Ihnen bei Ihrem Anliegen nicht behilflich sein. Wir
+      empfehlen Ihnen jedoch, sich dringend an einen Kollegen zu wenden, um die
+      zivil- und strafrechtlichen Ansprüche gegen den Täter durchzusetzen. Dabei
+      wünschen wir Ihnen viel Erfolg!</p>
     erlaube_kontakt: false
   - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Eintrag im FraudPool löschen
       - block_id: fraudpool_1
         antwort_ist: Ja
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Da Ihre Daten im Schufa-FraudPool eingemeldet sind, empfehlen wir Ihnen dringend, die Angelegenheit weiter zu verfolgen. Gerne helfen wir Ihnen dabei. Die Folgen eines Eintrages im FraudPool sind schwer einzuschätzen. Es kann jedoch dazu führen, dass sich künftige Vertragspartner trotz guter Bonität und eines guten Scorewertes gegen einen Vertragsschluss mit Ihnen entscheiden. Bitte geben Sie ihre weiteren Daten im nächsten Schritt an.</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Da Ihre Daten im Schufa-FraudPool eingemeldet sind, empfehlen wir Ihnen
+      dringend, die Angelegenheit weiter zu verfolgen. Gerne helfen wir Ihnen
+      dabei. Die Folgen eines Eintrages im FraudPool sind schwer einzuschätzen.
+      Es kann jedoch dazu führen, dass sich künftige Vertragspartner trotz guter
+      Bonität und eines guten Scorewertes gegen einen Vertragsschluss mit Ihnen
+      entscheiden. Bitte geben Sie ihre weiteren Daten im nächsten Schritt
+      an.</p>
     erlaube_kontakt: true
-  - bedingungen_alle_erfuellt: # selber hinzugefügt anhand des letzten tools
+  - bedingungen_alle_erfuellt:
       - block_id: intro
         antwort_ist: Eintrag im FraudPool löschen
     bedingungen_eins_erfuellt:
@@ -405,7 +597,10 @@ auswertungen:
         antwort_ist: Nein
       - block_id: fraudpool_3
         antwort_ist: Weiß ich nicht
-    text_html: <p>Bitte versuchen Sie den Sachverhalt zu der Angelegenheit soweit wie möglich in Erfahrung zu bringen. Je mehr Informationen Sie uns zur Verfügung stellen können, desto eher können wir Ihnen helfen.</p>
+    text_html: >-
+      <p>Bitte versuchen Sie den Sachverhalt zu der Angelegenheit soweit wie
+      möglich in Erfahrung zu bringen. Je mehr Informationen Sie uns zur
+      Verfügung stellen können, desto eher können wir Ihnen helfen.</p>
     erlaube_kontakt: true
   - bedingungen_alle_erfuellt:
       - block_id: intro
@@ -414,11 +609,17 @@ auswertungen:
         antwort_ist: Nein
       - block_id: fraudpool_identitaetsdiebstahl
         antwort_ist: Nein
-    bedingungen_eins_erfuellt: []
-    text_html: <p>Da ist wohl etwas schief gelaufen. Offenbar handelt es sich bei Ihnen weder um einen Identitätsdiebstahl noch um ein FraudPool-Problem. Sollten Sie dennoch Fragen wegen einer Schufa-Thematik haben, bitten wir um Kontaktaufnahme über info@advoadvice.de oder unter 030 / 921 000 40. Bei anderen zivil- und strafrechtlichen Problemen können wir Ihnen diesbezüglich leider nicht weiterhelfen.</p>
+    bedingungen_eins_erfuellt:
+    text_html: >-
+      <p>Da ist wohl etwas schief gelaufen. Offenbar handelt es sich bei Ihnen
+      weder um einen Identitätsdiebstahl noch um ein FraudPool-Problem. Sollten
+      Sie dennoch Fragen wegen einer Schufa-Thematik haben, bitten wir um
+      Kontaktaufnahme über info@advoadvice.de oder unter 030 / 921 000 40. Bei
+      anderen zivil- und strafrechtlichen Problemen können wir Ihnen
+      diesbezüglich leider nicht weiterhelfen.</p>
     erlaube_kontakt: false
 simple_fusszeile: true
-permalink: '/schufa-beratung/'
+permalink: /schufa-beratung/
 ---
 
 <link rel="stylesheet" href="/assets/dist/main.css">
