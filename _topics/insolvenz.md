@@ -128,7 +128,7 @@ abschnitte:
       dann los und kann von seinen Gl&auml;ubigern dort ggf. vorhandene Titel,
       die zur Zwangsvollstreckung verwendet werden k&ouml;nnen,
       herausverlangen.&nbsp; Zudem kann eine Erledigung von Eintragungen in der
-      SCHUFA* Holding AG oder bei anderen Auskunfteien verlangt werden.
+      Schufa Holding AG oder bei anderen Auskunfteien verlangt werden.
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
