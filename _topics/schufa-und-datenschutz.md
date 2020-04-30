@@ -9,7 +9,7 @@ header_titel: Schufa*-Einträge löschen und Score anheben
 header_image: /uploads/theme-schufa1.jpg
 erfolge:
   - zahl: 700+
-    text: Fälle zur SCHUFA* bearbeitet
+    text: Fälle bearbeitet
   - zahl: 200+
     text: Klagen eingereicht
   - zahl: 20+
