@@ -37,9 +37,9 @@ Der Gesetzgeber ändert wegen der Corona Pandemie Vorschriften im Mietrecht und 
 
 ## Änderung des Datenschutzrechts in Corona Zeiten nötig?
 
-Wie sieht es mit Negativeinträgen bei der SCHUFA Holding AG oder bei anderen Auskunfteien aus? Muss auch hier eine Änderung im Datenschutz in der Datenschutzgrundverordnung (DSGVO) oder dem Bundesdatenschutzgesetz (BDSG) erfolgen?
+Wie sieht es mit Negativeinträgen bei der Schufa Holding AGoder bei anderen Auskunfteien aus? Muss auch hier eine Änderung im Datenschutz in der Datenschutzgrundverordnung (DSGVO) oder dem Bundesdatenschutzgesetz (BDSG) erfolgen?
 
-Seit der Einführung der DSGVO kann eine Datenübermittlung an die SCHUFA Holding AG nur noch über Art. 6 Abs. 1 lit. f) DSGVO, also eine Interessenabwägung, gerechtfertigt werden. In Deutschland wird&nbsp;*de facto&nbsp;*jedoch die schon zuvor geltende Rechtslage des &sect; 28a Abs. 1 BDSG alter Fassung (a.F.) , welcher fünf verschiedene Übermittlungstatbestände vorsah und jetzt nach &sect; 31 Abs. 2 BDSG neue Fassung (n.F.) nur noch die Auskunfteien wie die SCHUFA unmittelbar bindet, angewandt.
+Seit der Einführung der DSGVO kann eine Datenübermittlung an dieSchufa Holding AG nur noch über Art. 6 Abs. 1 lit. f) DSGVO, also eine Interessenabwägung, gerechtfertigt werden. In Deutschland wird&nbsp;*de facto&nbsp;*jedoch die schon zuvor geltende Rechtslage des &sect; 28a Abs. 1 BDSG alter Fassung (a.F.) , welcher fünf verschiedene Übermittlungstatbestände vorsah und jetzt nach &sect; 31 Abs. 2 BDSG neue Fassung (n.F.) nur noch die Auskunfteien wie die Schufa Holding AG unmittelbar bindet, angewandt.
 
 Begründet wird dies ma&szlig;geblich damit, dass sich das alte System des &sect; 28 a Abs. 1 BDSG alter Fassung etabliert habe und alle Beteiligten ausreichend schütze. Dass dies jedoch nicht immer der Fall ist und damit europarechtliche Schwierigkeiten entstehen, wird dabei in weiten Teilen hingenommen.&nbsp;
 
