@@ -75,7 +75,7 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
-    titel: Was ist ein Schufaeintrag? Was sind die Folgen?
+    titel: Was ist ein Schufa-Eintrag? Was sind die Folgen?
     text_markdown: >-
       Die Schufa Holding AG erhält als Auskunftei von unterschiedlichen
       Vertragspartnern umfassende Informationen über das Zahlungsverhalten von
