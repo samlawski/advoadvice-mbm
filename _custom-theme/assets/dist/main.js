@@ -12524,7 +12524,6 @@ exports.default = void 0;
 //
 //
 //
-//
 var repo = {
   fragen: repoFragen,
   auswertungen: repoAuswertungen
@@ -12774,14 +12773,14 @@ var _default = {
   components: {}
 };
 exports.default = _default;
-        var $e792b1 = exports.default || module.exports;
+        var $80a0e2 = exports.default || module.exports;
       
-      if (typeof $e792b1 === 'function') {
-        $e792b1 = $e792b1.options;
+      if (typeof $80a0e2 === 'function') {
+        $80a0e2 = $80a0e2.options;
       }
     
         /* template */
-        Object.assign($e792b1, (function () {
+        Object.assign($80a0e2, (function () {
           var render = function() {
   var _vm = this
   var _h = _vm.$createElement
@@ -12789,7 +12788,7 @@ exports.default = _default;
   return _c(
     "section",
     [
-      _c("h1", [_vm._v("Schufa* Vorab-Test")]),
+      _c("h1", [_vm._v("Schufa Vorab-Test")]),
       _vm._v(" "),
       _vm._l(_vm.quiz, function(quizBlock) {
         return _c(
@@ -12919,9 +12918,7 @@ exports.default = _default;
         )
       }),
       _vm._v(" "),
-      !_vm.quizStarted
-        ? _c("div", [_vm._m(0), _vm._v(" "), _vm._m(1)])
-        : _vm._e(),
+      !_vm.quizStarted ? _c("div", [_vm._m(0)]) : _vm._e(),
       _vm._v(" "),
       _vm.quizStarted
         ? _c("div", { attrs: { id: "auswertung" } }, [
@@ -13490,7 +13487,7 @@ exports.default = _default;
                                     on: { change: _vm.handleCookiesAgreed }
                                   }),
                                   _vm._v(" "),
-                                  _vm._m(2)
+                                  _vm._m(1)
                                 ]
                               ),
                               _vm._v(" "),
@@ -13527,7 +13524,7 @@ exports.default = _default;
                         _vm._v("Auswertung zeigen")
                       ]),
                       _vm._v(" "),
-                      _vm._m(3)
+                      _vm._m(2)
                     ]
               ],
               2
@@ -13547,18 +13544,6 @@ var staticRenderFns = [
       _c("small", [
         _vm._v(
           "Mit der Benutzung unseres Vorab-Checks ist noch kein Auftrag an die Kanzlei AdvoAdvice Rechtsanwälte mbB verbunden. Eine Mandatsverhältnis entsteht erst dann, wenn Sie die Mandatsunterlagen ausgefüllt und an AdvoAdvice zurückgesendet sowie eine Erklärung zur Mandatsübernahme von AdvoAdvice erhalten haben. Sollten eine Auftragserteilung Aussicht auf Erfolg haben, werden Ihnen am Ende des Vorab-Checks weitere Unterlagen zur Verfügung gestellt."
-        )
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _c("small", [
-        _vm._v(
-          "*Schufa ist eine eingetragene Wortmarke (DE1030700) der Schufa Holding AG (Wiesbaden)"
         )
       ])
     ])
@@ -13596,7 +13581,7 @@ render._withStripped = true
             render: render,
             staticRenderFns: staticRenderFns,
             _compiled: true,
-            _scopeId: "data-v-e792b1",
+            _scopeId: "data-v-80a0e2",
             functional: undefined
           };
         })());
@@ -13609,9 +13594,9 @@ render._withStripped = true
         if (api.compatible) {
           module.hot.accept();
           if (!module.hot.data) {
-            api.createRecord('$e792b1', $e792b1);
+            api.createRecord('$80a0e2', $80a0e2);
           } else {
-            api.reload('$e792b1', $e792b1);
+            api.reload('$80a0e2', $80a0e2);
           }
         }
 
@@ -13664,7 +13649,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50931" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50106" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
