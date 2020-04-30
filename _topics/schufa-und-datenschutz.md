@@ -139,9 +139,9 @@ abschnitte:
     image: /uploads/money-2724235_640.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
-    titel: Wann bekommt man einen SCHUFA* Eintrag?
+    titel: Wann bekommt man einen Schufa-Eintrag?
     text_markdown: >-
-      Ob und wann man einen negativen SCHUFA* Eintrag bekommt hängt von
+      Ob und wann man einen negativen Schufa-Eintrag bekommt hängt von
       verschiedenen Faktoren ab.
 
 
@@ -165,7 +165,7 @@ abschnitte:
       ### Welche Voraussetzungen gibt es?
 
 
-      Bevor man einen SCHUFA* Eintrag bekommt, müssen aber weitere
+      Bevor man einen Schufa-Eintrag bekommt, müssen aber weitere
       Voraussetzungen erfüllt werden. Bis zur Einführung der DSGVO im Jahr 2018,
       bestand in &sect; 28a Absatz 1 Bundesdatenschutzgesetz (kurz: BDSG a.F.)
       ein fester Katalog an Voraussetzungen, wann eine Datenübermittlung
@@ -205,13 +205,13 @@ abschnitte:
       BDSG / jetzt &sect; 31 Abs. 2 Nr. 5 BDSG)
 
 
-      Es kommt jedoch immer wieder vor, dass Unternehmen diese Voraussetzungen
-      nicht beachten, bevor sie eine Forderung an eine Auskunftei melden. Unter
-      der DSGVO gibt es nunmehr auch Raum für die Einmeldung besonderer
-      Einzelfälle. Gleichzeitig führt das Erfüllen des „Fünferkatalogs“ nicht
-      automatisch zu einer berechtigten Einmeldung. Hier hilft oft die konkrete
-      Prüfung durch einen Rechtsanwalt mit einer Spezialisierung auf
-      Datenschutz, um die Vorraussetzungen für einen Widerruf prüfen zu lassen.
+      Es kommt jedoch vor, dass Unternehmen diese Voraussetzungen nicht
+      beachten, bevor sie eine Forderung an eine Auskunftei melden. Unter der
+      DSGVO gibt es nunmehr auch Raum für die Einmeldung besonderer Einzelfälle.
+      Gleichzeitig führt das Erfüllen des „Fünferkatalogs“ nicht automatisch zu
+      einer berechtigten Einmeldung. Hier hilft oft die konkrete Prüfung durch
+      einen Rechtsanwalt mit einer Spezialisierung auf Datenschutz, um die
+      Vorraussetzungen für einen Widerruf prüfen zu lassen.
     image:
     cta: false
   - abschnitt_template: box_dunkel
