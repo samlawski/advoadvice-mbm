@@ -77,12 +77,12 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Was ist ein Schufaeintrag? Was sind die Folgen?
     text_markdown: >-
-      Die SCHUFA* erhält als Auskunftei von unterschiedlichen Vertragspartnern
-      umfassende Informationen über das Zahlungsverhalten von Kunden. Dabei
-      werden sowohl positive Merkmale (z.B. wenn ein Kredit pünktlich
-      zurückgezahlt wurde) als auch neutrale Merkmale (z.B. Alters- und
-      Adressabfragen) gespeichert. Nicht berücksichtigt werden dabei Daten wie
-      z.B. das Gehalt einer Person oder ob diese einer Erwerbstätigkeit
+      Die Schufa Holding AG erhält als Auskunftei von unterschiedlichen
+      Vertragspartnern umfassende Informationen über das Zahlungsverhalten von
+      Kunden. Dabei werden sowohl positive Merkmale (z.B. wenn ein Kredit
+      pünktlich zurückgezahlt wurde) als auch neutrale Merkmale (z.B. Alters-
+      und Adressabfragen) gespeichert. Nicht berücksichtigt werden dabei Daten
+      wie z.B. das Gehalt einer Person oder ob diese einer Erwerbstätigkeit
       nachgeht.
 
 
@@ -100,11 +100,11 @@ abschnitte:
       ### Berechnung des Score ist geheim
 
 
-      Anhand aller gespeicherten Informationen berechnet SCHUFA* jedes Quartal
-      einen Score für die betroffene Person. Dieser Wahrscheinlichkeitswert wird
-      sowohl allgemein als auch&nbsp; branchenspezifisch berechnet. Wie genau
-      die einzelnen Merkmale berücksichtigt werden, ist und bleibt aufgrund
-      einer Entscheidung des [Bundesgerichtshofes ein
+      Anhand aller gespeicherten Informationen berechnet die Schufa Holding AG
+      jedes Quartal einen Score für die betroffene Person. Dieser
+      Wahrscheinlichkeitswert wird sowohl allgemein als auch branchenspezifisch
+      berechnet. Wie genau die einzelnen Merkmale berücksichtigt werden, ist und
+      bleibt aufgrund einer Entscheidung des [Bundesgerichtshofes ein
       Geheimnis](https://web.de/magazine/wirtschaft/schufa-kreditformel-bleibt-geheim-18560738).
       Fakt ist jedoch, dass die einzelnen Scores über Vergleichsgruppen
       ermittelt und durch einen Negativeintrag massiv beeinflusst werden.
@@ -113,29 +113,29 @@ abschnitte:
       ### Negativeintrag hat Folgen für Verbraucher
 
 
-      Ein negativer SCHUFA* Eintrag wird auch als sog. Negativmerkmal
-      beschrieben. Dabei wird dieser Eintrag von der SCHUFA* nicht nur
+      Ein negativer Schufa-Eintrag wird auch als sog. Negativmerkmal
+      beschrieben. Dabei wird dieser Eintrag von der Schufa Holding AG nicht nur
       gespeichert, sondern es werden auch die zu ihr gehörenden Vertragspartner
       darüber informiert, dass dieses negative Merkmal besteht. Ein negativer
-      SCHUFA* Eintrag kann deshalb dazu führen, dass Kreditkarten und Kredite
+      Schufa-Eintrag kann deshalb dazu führen, dass Kreditkarten und Kredite
       gekündigt werden.
 
 
       Auch wenn eine solche Kündigung nicht immer der Fall ist, bestehen ab der
       Eintragung eines Negativmerkmals wahrscheinlich für den Betroffenen
       Probleme in der Zukunft. Unternehmen stellen in vielen Kontexten eine
-      Anfrage bei der SCHUFA, um sich Informationen aus einer Auskunftei zu
-      beschaffen. Dies gilt sowohl beim Kauf auf Rechnung in einem Onlinehandel,
-      als auch bei der Eröffnung eines Kontos, der Anfrage von Krediten, der
-      Finanzierung von Autos, usw. Das bedeutet konkret, dass die zukünftige
-      wirtschaftliche Handlungsfähigkeit massiv eingeschränkt ist.
+      Anfrage bei der Schufa Holding AG, um sich Informationen aus einer
+      Auskunftei zu beschaffen. Dies gilt sowohl beim Kauf auf Rechnung in einem
+      Onlinehandel, als auch bei der Eröffnung eines Kontos, der Anfrage von
+      Krediten, der Finanzierung von Autos, usw. Das bedeutet konkret, dass die
+      zukünftige wirtschaftliche Handlungsfähigkeit massiv eingeschränkt ist.
 
 
-      Letztlich entscheidet die SCHUFA* selbst nicht über die Gewährung von
-      Krediten o.ä., jedoch verlassen sich viele Unternehmen auf die
-      Informationen der SCHUFA. Die Folge ist daher meistens, dass in den soeben
-      benannten Bereichen kein Vertragsabschluss bzw. keine Zahlung auf Rechnung
-      o.ä. mehr möglich sein wird.
+      Letztlich entscheidet die Schufa Holding AG selbst nicht über die
+      Gewährung von Krediten o.ä., jedoch verlassen sich viele Unternehmen auf
+      die Informationen der Schufa Holding AG. Die Folge ist daher meistens,
+      dass in den soeben benannten Bereichen kein Vertragsabschluss bzw. keine
+      Zahlung auf Rechnung o.ä. mehr möglich sein wird.
     image: /uploads/money-2724235_640.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
