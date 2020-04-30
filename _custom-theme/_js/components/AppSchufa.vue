@@ -1,6 +1,6 @@
 <template>
 <section>
-  <h1>Schufa Vorab-Test</h1>
+  <h1>Vorab-Test</h1>
   <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ block: true, active: isCurrentBlock(quizBlock.id) }">
     <p>{{getText(quizBlock.id)}}</p>
     
