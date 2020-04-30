@@ -579,17 +579,17 @@ abschnitte:
 
 
       Dabei war klar geregelt, dass die Übermittlung personenbezogener Daten an
-      Auskunfteien (wie z.B. die SCHUFA, Creditreform, Bürgel oder andere) über
-      eine Forderung nur zulässig ist, wenn die geschuldete Leistung trotz
-      Fälligkeit nicht erbracht worden ist, die Übermittlung zur Wahrung
-      berechtigter Interessen der verantwortlichen Stelle oder eines Dritten
-      erforderlich ist und der Betroffene nach Eintritt der Fälligkeit die
-      Forderung mindestens zweimal schriftlich gemahnt worden ist.
+      Auskunfteien (wie z.B. die Schufa Holding AG, Creditreform, CrifBürgel
+      oder andere) über eine Forderung nur zulässig ist, wenn die geschuldete
+      Leistung trotz Fälligkeit nicht erbracht worden ist, die Übermittlung zur
+      Wahrung berechtigter Interessen der verantwortlichen Stelle oder eines
+      Dritten erforderlich ist und der Betroffene nach Eintritt der Fälligkeit
+      die Forderung mindestens zweimal schriftlich gemahnt worden ist.
 
 
       Ist die Forderung nicht fällig (z.B. weil sich der Schuldner noch nicht im
       Zahlungsverzug befindet oder eine Ratenzahlung oder Stundung vereinbart
-      hat), liegt kein rechtmä&szlig;iger Schufa*-Eintrag vor.
+      hat), liegt kein rechtmä&szlig;iger Eintrag vor.
 
 
       ### Datenschutzgrundverordnung (DSGVO) seit dem 25.05.2018
@@ -597,7 +597,7 @@ abschnitte:
 
       Seit dem 25.05.2018 gilt die Datenschutzgrundverordnung. Diese sieht
       lediglich sehr allgemeine Rechtsgrundlagen für die Datenverarbeitung vor.
-      Bei negativen SCHUFA-Einträgen ergibt sich die Rechtfertigung nur aus der
+      Bei negativen Einträgen ergibt sich die Rechtfertigung nur aus der
       Interessenabwägung des Art. 6 Abs. 1 lit. f) DSGVO.
 
 
@@ -637,8 +637,8 @@ abschnitte:
 
 
       Um die konkreten gesetzlichen Grundlagen einschätzen zu können, macht es
-      oftmals Sinn Hilfe von einem Anwalt in Anspruch zu nehmen, der im Bereich
-      Schufa*-Recht und Datenschutz hinreichende Expertise aufweist. Dieser kann
+      oftmals Sinn, Hilfe von einem Anwalt in Anspruch zu nehmen, der im Bereich
+      Schufa-Recht und Datenschutz hinreichende Expertise aufweist. Dieser kann
       schnell erkennen, welche Rechtsgrundlage Anwendung findet und ob ein
       Fehler bei der Eintragung passiert ist. So kann dann oftmals die Löschung
       eines Eintrags durch die Auskunftei selbst oder ein Widerruf durch die
