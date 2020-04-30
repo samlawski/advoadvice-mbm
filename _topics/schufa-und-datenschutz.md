@@ -215,9 +215,9 @@ abschnitte:
     image:
     cta: false
   - abschnitt_template: box_dunkel
-    titel: Wie verhindert man einen SCHUFA* Eintrag?
+    titel: Wie verhindert man einen Negativeintrag?
     text_markdown: >-
-      Der beste Schutz gegen einen SCHUFA* Eintrag ist natürlich, seine
+      Der beste Schutz gegen einen Negativeintrag ist natürlich, seine
       Rechnungen rechtzeitig und vollständig zu begleichen. Wenn dies aus
       irgendwelchen Gründen mal nicht möglich sein sollte, gibt es dennoch
       einige Ma&szlig;nahmen, die dabei helfen können, sich gegen einen
@@ -231,8 +231,8 @@ abschnitte:
       nachvollziehbar ist, immer bei der Gegenseite bestritten werden. Sollte
       die Gegenseite einen Mahnbescheid beantragt haben, ist hiergegen unbedingt
       Widerspruch einzulegen bzw. die Forderung auszugleichen um einen Eintrag
-      bei der SCHUFA* zu verhindern. SCHUFA* Einträge zu titulierten Forderungen
-      sind am schwierigsten zur Löschung zu bringen, da ein
+      bei der Schufa Holding AG zu verhindern. Schufa-Einträge zu titulierten
+      Forderungen sind am schwierigsten zur Löschung zu bringen, da ein
       Vollstreckungsbescheid oder ein Urteil ein enorm hohes Beweispotenzial
       haben.
 
@@ -248,22 +248,22 @@ abschnitte:
       konkrete Rate und nicht die gesamte Forderung fällig ist. Das bedeutet,
       dass eine Bank oder ein anderer Gläubiger (wie z.B. ein
       Inkassounternehmen, eine Telekommunikationsanbieter oder ein anderer
-      Vertragspartner) ab diesem Zeitpunkt keinen SCHUFA* Eintrag über die
+      Vertragspartner) ab diesem Zeitpunkt keinen Negativeintrag über die
       gesamte Forderung vornehmen darf. Das kann auch dann helfen, wenn zwar
-      vorher ein&nbsp; SCHUFA* Eintrag vorgenommen wurde, dieser aber unter
-      einem Fehler leidet, weil der Betroffene beispielsweise nicht auf die
-      bevorstehende Datenübermittlung (und damit in der Konsequenz über den
-      negativen SCHUFA* Eintrag) informiert wurde.
+      vorher ein Eintrag vorgenommen wurde, dieser aber unter einem Fehler
+      leidet, weil der Betroffene beispielsweise nicht auf die bevorstehende
+      Datenübermittlung (und damit in der Konsequenz über den negativen Eintrag)
+      informiert wurde.
 
 
-      ### Anwalt einschalten und Beratung zu Datenschutz einholen
+      ### Anwalt einschalten und Beratung zu Datenschutz und DSGVO einholen
 
 
       Auch hier ist oftmals die Einschaltung eines Rechtsanwalts zu empfehlen,
       der sich mit seiner Kanzlei auf das Datenschutzrecht spezialisiert hat.
       Dieser kann meist schnell nach Durchsicht Ihrer Selbstauskunft, die jetzt
-      nach der DSGVO auch Datenkopie hei&szlig;t, Hilfe leisten und Fehler
-      aufdecken und eine fachkundige Beratung durchführen.
+      nach der DSGVO auch Datenkopie hei&szlig;t, Hilfe leisten, Fehler erkennen
+      und eine fachkundige Beratung durchführen.
     image:
     cta: true
   - abschnitt_template: banner_bild_rechts
