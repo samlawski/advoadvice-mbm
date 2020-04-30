@@ -1,6 +1,6 @@
 <template>
 <section>
-  <h1>Schufa* Vorab-Test</h1>
+  <h1>Schufa Vorab-Test</h1>
   <div v-for="quizBlock in quiz" :key="quizBlock.id" :id="quizBlock.id" :class="{ block: true, active: isCurrentBlock(quizBlock.id) }">
     <p>{{getText(quizBlock.id)}}</p>
     
@@ -31,7 +31,6 @@
 
   <div v-if="!quizStarted">
     <p><small>Mit der Benutzung unseres Vorab-Checks ist noch kein Auftrag an die Kanzlei AdvoAdvice Rechtsanwälte mbB verbunden. Eine Mandatsverhältnis entsteht erst dann, wenn Sie die Mandatsunterlagen ausgefüllt und an AdvoAdvice zurückgesendet sowie eine Erklärung zur Mandatsübernahme von AdvoAdvice erhalten haben. Sollten eine Auftragserteilung Aussicht auf Erfolg haben, werden Ihnen am Ende des Vorab-Checks weitere Unterlagen zur Verfügung gestellt.</small></p>
-    <p><small>*Schufa ist eine eingetragene Wortmarke (DE1030700) der Schufa Holding AG (Wiesbaden)</small></p>
   </div>
 
   <div id="auswertung" v-if="quizStarted">
