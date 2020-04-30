@@ -267,39 +267,40 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: banner_bild_rechts
-    titel: Kostenlos SCHUFA* Eintrag abfragen
+    titel: Kostenlose Selbstauskunft / Datenkopie abfragen
     text_markdown: >-
       Nach den gesetzlichen Grundlagen (Art. 15 DSGVO) hat jeder das Recht, eine
-      kostenlose Auskunft bezüglich seiner bei der SCHUFA* Holding AG
+      kostenlose Auskunft bezüglich seiner bei der Schufa Holding AG
       gespeicherten Daten zu bekommen. Das dazu gehörige Bestellformular für die
-      kostenlose Auskunft findet man nach einigem Suchen auf der Seite der
-      SCHUFA* Holding
+      kostenlose Auskunft findet man auf der Seite der Schufa Holding
       AG&nbsp;[hier](https://www.meineschufa.de/site-11_3_1?dako_token=7529d9814b8310c32cf7ac3a011e8523).
+      Auch andere Auskunfteien bieten die Möglichkeit, dort kostenfrei eine
+      Datenkopie anzufordern, so wie es das Gesetz vorsieht.&nbsp;
 
 
-      Es gibt darüber hinaus auch kostenpflichtige Angebote der SCHUFA* Holding
+      Es gibt darüber hinaus auch kostenpflichtige Angebote der Schufa Holding
       AG, mit welchen man seine Daten jederzeit online einsehen kann. Auch in
       ausgesuchten
       [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man
-      eine Schufa*-Auskunft gegen eine Gebühr von 29,95 Euro (Stand 14.02.2019)
+      eine Schufa-Auskunft gegen eine Gebühr von 29,95 Euro (Stand 14.02.2019)
       erhalten.
 
 
       * Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt
-      Datenkopie gem. Art. 15 DSGVO - bei der SCHUFA* Holding AG beantragt. Dies
+      Datenkopie gem. Art. 15 DSGVO - bei der Schufa Holding AG beantragt. Dies
       sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen
       negativen Eintrag hat und um ggf. dokumentieren zu können, dass dieser
       Zustand vorhanden war.
 
 
-      * Diverse Anbieter im Internet bieten an, eine SCHUFA* Selbstauskunft
-      gegen eine Gebühr für Sie zu organisieren. Es ist davon abzuraten, an
-      andere Stellen als bei der SCHUFA* Holding AG selbst oder in einer
-      Bankfiliale Geld für eine Selbstauskunft Geld zu investieren. Externe
-      Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die für Sie sonst bei
-      direkter Abfrage bei der SCHUFA* Holding AG günstiger oder sogar
-      kostenfrei erfolgt.
-    image: /uploads/data-858360-640-5.jpg
+      * Diverse Anbieter im Internet bieten an, eine Selbstauskunft gegen eine
+      Gebühr für Sie zu organisieren. Es ist davon abzuraten, an andere Stellen
+      als bei der Schufa Holding AG selbst oder in einer Bankfiliale oder
+      neuerdings über Immoscout24.de für eine Selbstauskunft Geld zu
+      investieren. Externe Anbieter verkaufen Ihnen ggf. eine Dienstleistung,
+      die für Sie sonst bei direkter Abfrage bei der Schufa Holding AG günstiger
+      oder sogar kostenfrei erfolgt.
+    image: /uploads/dsgvo-3446011-1920-10.jpg
     cta: false
   - abschnitt_template: weiss_bild_links
     titel: Wie lange besteht ein SCHUFA* Eintrag?
