@@ -3,13 +3,13 @@ layout: topic
 style_id: topic
 title: Schufa-Einträge löschen Score anheben
 description: >-
-  Erfolgreich Schufa-Einträge löschen und Schufa-Score verbessern. Rechtsanwalt
-  Dr. Sven Tintemann berät  und kämpft für Sie im Schufa-Recht.
-header_titel: Schufa-Einträge löschen und Score anheben
+  Erfolgreich Schufa*-Einträge löschen und Schufa*-Score verbessern.
+  Rechtsanwalt Dr. Sven Tintemann berät  und kämpft für Sie im Schufa*-Recht.
+header_titel: Schufa*-Einträge löschen und Score anheben
 header_image: /uploads/theme-schufa1.jpg
 erfolge:
   - zahl: 700+
-    text: Fälle zur Schufa bearbeitet
+    text: Fälle zur SCHUFA* bearbeitet
   - zahl: 200+
     text: Klagen eingereicht
   - zahl: 20+
@@ -19,9 +19,14 @@ intro_text_markdown: >-
   Erhalten Sie eine erste Empfehlung zu Ihrer Situation sofort mit unserem
   kostenlosen und unverbindlichen Selbst-Check. Einem von unseren Experten
   entwickelten Online-Tool.&nbsp;
-intro_link_text: Machen Sie den SCHUFA Selbst-Check
+intro_link_text: Machen Sie den Selbst-Check
 intro_link: /schufa-beratung
 abschnitte:
+  - abschnitt_template: weiss_bild_links
+    titel:
+    text_markdown:
+    image:
+    cta: true
   - abschnitt_template: box_hell
     titel: Negativeintrag löschen
     text_markdown: >-
@@ -40,11 +45,11 @@ abschnitte:
       zahlungsrelevante Daten über eine Person und errechnet anhand dieser
       Daten, wie wahrscheinlich es ist, dass die Person ihre
       Zahlungsverpflichtung erfüllt (sog. Score, Scorewert oder auch Scoring).
-      Dabei besteht die SCHUFA als Gemeinschaftseinrichtung der kreditgebenden
-      Wirtschaft. Die Kunden und Mitglieder der Schufa sind vor allem
-      Unternehmen der Wirtschaft, die ihren Kunden Darlehen oder Verträge mit
-      langen Laufzeiten gewähren und daher auf deren Bonität wesentlichen Wert
-      legen.
+      Dabei besteht die Schufa Holding AG als Gemeinschaftseinrichtung der
+      kreditgebenden Wirtschaft. Die Kunden und Mitglieder der Schufa Holding AG
+      sind vor allem Unternehmen der Wirtschaft, die ihren Kunden Darlehen oder
+      Verträge mit langen Laufzeiten gewähren und daher auf deren Bonität
+      wesentlichen Wert legen.
 
 
       ### Was ist ein Score?
@@ -55,15 +60,15 @@ abschnitte:
       aufnehmen oder eine Bestellung auf Rechnung bezahlen möchte. Auch im
       Telekommunikationssektor und in anderen Bereichen wird der Score
       berücksichtigt. Mittlerweile verlangen auch viele Vermieter eine
-      SCHUFA-Auskunft, welche in der Vorgabe von Mietwohnungen und dem Abschluss
+      Schufa-Auskunft, welche in der Vorgabe von Mietwohnungen und dem Abschluss
       von Mietverträgen berücksichtigt wird.
 
 
       ### Negativeintrag und schlechter Score
 
 
-      Ins Bewusstsein der meisten Verbraucher rückt die Tätigkeit der SCHUFA
-      dann, wenn ein Negativeintrag oder ein schlechter Scorewert das
+      Ins Bewusstsein der meisten Verbraucher rückt die Tätigkeit der Schufa
+      Holding AG dann, wenn ein Negativeintrag oder ein schlechter Scorewert das
       angestrebte Ergebnis verhindert und man beispielsweise kein Darlehen
       bekommt. Im Folgenden soll ein Überblick rund um alle Fragen zu sog.
       Negativeinträgen gegeben werden.
@@ -72,7 +77,7 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Was ist ein Schufaeintrag? Was sind die Folgen?
     text_markdown: >-
-      Die SCHUFA erhält als Auskunftei von unterschiedlichen Vertragspartnern
+      Die SCHUFA* erhält als Auskunftei von unterschiedlichen Vertragspartnern
       umfassende Informationen über das Zahlungsverhalten von Kunden. Dabei
       werden sowohl positive Merkmale (z.B. wenn ein Kredit pünktlich
       zurückgezahlt wurde) als auch neutrale Merkmale (z.B. Alters- und
@@ -95,7 +100,7 @@ abschnitte:
       ### Berechnung des Score ist geheim
 
 
-      Anhand aller gespeicherten Informationen berechnet SCHUFA jedes Quartal
+      Anhand aller gespeicherten Informationen berechnet SCHUFA* jedes Quartal
       einen Score für die betroffene Person. Dieser Wahrscheinlichkeitswert wird
       sowohl allgemein als auch&nbsp; branchenspezifisch berechnet. Wie genau
       die einzelnen Merkmale berücksichtigt werden, ist und bleibt aufgrund
@@ -108,11 +113,11 @@ abschnitte:
       ### Negativeintrag hat Folgen für Verbraucher
 
 
-      Ein negativer Schufa Eintrag wird auch als sog. Negativmerkmal
-      beschrieben. Dabei wird dieser Eintrag von der SCHUFA nicht nur
+      Ein negativer SCHUFA* Eintrag wird auch als sog. Negativmerkmal
+      beschrieben. Dabei wird dieser Eintrag von der SCHUFA* nicht nur
       gespeichert, sondern es werden auch die zu ihr gehörenden Vertragspartner
       darüber informiert, dass dieses negative Merkmal besteht. Ein negativer
-      Schufa Eintrag kann deshalb dazu führen, dass Kreditkarten und Kredite
+      SCHUFA* Eintrag kann deshalb dazu führen, dass Kreditkarten und Kredite
       gekündigt werden.
 
 
@@ -126,7 +131,7 @@ abschnitte:
       wirtschaftliche Handlungsfähigkeit massiv eingeschränkt ist.
 
 
-      Letztlich entscheidet die SCHUFA selbst nicht über die Gewährung von
+      Letztlich entscheidet die SCHUFA* selbst nicht über die Gewährung von
       Krediten o.ä., jedoch verlassen sich viele Unternehmen auf die
       Informationen der SCHUFA. Die Folge ist daher meistens, dass in den soeben
       benannten Bereichen kein Vertragsabschluss bzw. keine Zahlung auf Rechnung
@@ -134,9 +139,9 @@ abschnitte:
     image: /uploads/money-2724235_640.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
-    titel: Wann bekommt man einen Schufa Eintrag?
+    titel: Wann bekommt man einen SCHUFA* Eintrag?
     text_markdown: >-
-      Ob und wann man einen negativen Schufa Eintrag bekommt hängt von
+      Ob und wann man einen negativen SCHUFA* Eintrag bekommt hängt von
       verschiedenen Faktoren ab.
 
 
@@ -160,7 +165,7 @@ abschnitte:
       ### Welche Voraussetzungen gibt es?
 
 
-      Bevor man einen Schufa Eintrag bekommt, müssen aber weitere
+      Bevor man einen SCHUFA* Eintrag bekommt, müssen aber weitere
       Voraussetzungen erfüllt werden. Bis zur Einführung der DSGVO im Jahr 2018,
       bestand in &sect; 28a Absatz 1 Bundesdatenschutzgesetz (kurz: BDSG a.F.)
       ein fester Katalog an Voraussetzungen, wann eine Datenübermittlung
@@ -210,9 +215,9 @@ abschnitte:
     image:
     cta: false
   - abschnitt_template: box_dunkel
-    titel: Wie verhindert man einen Schufa Eintrag?
+    titel: Wie verhindert man einen SCHUFA* Eintrag?
     text_markdown: >-
-      Der beste Schutz gegen einen Schufa Eintrag ist natürlich, seine
+      Der beste Schutz gegen einen SCHUFA* Eintrag ist natürlich, seine
       Rechnungen rechtzeitig und vollständig zu begleichen. Wenn dies aus
       irgendwelchen Gründen mal nicht möglich sein sollte, gibt es dennoch
       einige Ma&szlig;nahmen, die dabei helfen können, sich gegen einen
@@ -226,7 +231,7 @@ abschnitte:
       nachvollziehbar ist, immer bei der Gegenseite bestritten werden. Sollte
       die Gegenseite einen Mahnbescheid beantragt haben, ist hiergegen unbedingt
       Widerspruch einzulegen bzw. die Forderung auszugleichen um einen Eintrag
-      bei der SCHUFA zu verhindern. Schufa Einträge zu titulierten Forderungen
+      bei der SCHUFA* zu verhindern. SCHUFA* Einträge zu titulierten Forderungen
       sind am schwierigsten zur Löschung zu bringen, da ein
       Vollstreckungsbescheid oder ein Urteil ein enorm hohes Beweispotenzial
       haben.
@@ -243,12 +248,12 @@ abschnitte:
       konkrete Rate und nicht die gesamte Forderung fällig ist. Das bedeutet,
       dass eine Bank oder ein anderer Gläubiger (wie z.B. ein
       Inkassounternehmen, eine Telekommunikationsanbieter oder ein anderer
-      Vertragspartner) ab diesem Zeitpunkt keinen Schufa Eintrag über die
+      Vertragspartner) ab diesem Zeitpunkt keinen SCHUFA* Eintrag über die
       gesamte Forderung vornehmen darf. Das kann auch dann helfen, wenn zwar
-      vorher ein&nbsp; Schufa Eintrag vorgenommen wurde, dieser aber unter einem
-      Fehler leidet, weil der Betroffene beispielsweise nicht auf die
+      vorher ein&nbsp; SCHUFA* Eintrag vorgenommen wurde, dieser aber unter
+      einem Fehler leidet, weil der Betroffene beispielsweise nicht auf die
       bevorstehende Datenübermittlung (und damit in der Konsequenz über den
-      negativen Schufa Eintrag) informiert wurde.
+      negativen SCHUFA* Eintrag) informiert wurde.
 
 
       ### Anwalt einschalten und Beratung zu Datenschutz einholen
@@ -262,47 +267,48 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: banner_bild_rechts
-    titel: Kostenlos Schufa Eintrag abfragen
+    titel: Kostenlos SCHUFA* Eintrag abfragen
     text_markdown: >-
       Nach den gesetzlichen Grundlagen (Art. 15 DSGVO) hat jeder das Recht, eine
-      kostenlose Auskunft bezüglich seiner bei der Schufa Holding AG
+      kostenlose Auskunft bezüglich seiner bei der SCHUFA* Holding AG
       gespeicherten Daten zu bekommen. Das dazu gehörige Bestellformular für die
       kostenlose Auskunft findet man nach einigem Suchen auf der Seite der
-      Schufa Holding
+      SCHUFA* Holding
       AG&nbsp;[hier](https://www.meineschufa.de/site-11_3_1?dako_token=7529d9814b8310c32cf7ac3a011e8523).
 
 
-      Es gibt darüber hinaus auch kostenpflichtige Angebote der Schufa Holding
+      Es gibt darüber hinaus auch kostenpflichtige Angebote der SCHUFA* Holding
       AG, mit welchen man seine Daten jederzeit online einsehen kann. Auch in
       ausgesuchten
       [Bankfilialen](https://www.meineschufa.de/index.php?site=14_3) kann man
-      eine Schufa-Auskunft gegen eine Gebühr von 29,95 Euro (Stand 14.02.2019)
+      eine Schufa*-Auskunft gegen eine Gebühr von 29,95 Euro (Stand 14.02.2019)
       erhalten.
 
 
       * Es reicht normalerweise aus, wenn man die kostenlose Auskunft – genannt
-      Datenkopie gem. Art. 15 DSGVO - bei der Schufa Holding AG beantragt. Dies
+      Datenkopie gem. Art. 15 DSGVO - bei der SCHUFA* Holding AG beantragt. Dies
       sollte man einmal pro Jahr tun, um sicher zu gehen, dass man keinen
       negativen Eintrag hat und um ggf. dokumentieren zu können, dass dieser
       Zustand vorhanden war.
 
 
-      * Diverse Anbieter im Internet bieten an, eine Schufa Selbstauskunft gegen
-      eine Gebühr für Sie zu organisieren. Es ist davon abzuraten, an andere
-      Stellen als bei der Schufa Holding AG selbst oder in einer Bankfiliale
-      Geld für eine Selbstauskunft Geld zu investieren. Externe Anbieter
-      verkaufen Ihnen ggf. eine Dienstleistung, die für Sie sonst bei direkter
-      Abfrage bei der Schufa Holding AG günstiger oder sogar kostenfrei erfolgt.
+      * Diverse Anbieter im Internet bieten an, eine SCHUFA* Selbstauskunft
+      gegen eine Gebühr für Sie zu organisieren. Es ist davon abzuraten, an
+      andere Stellen als bei der SCHUFA* Holding AG selbst oder in einer
+      Bankfiliale Geld für eine Selbstauskunft Geld zu investieren. Externe
+      Anbieter verkaufen Ihnen ggf. eine Dienstleistung, die für Sie sonst bei
+      direkter Abfrage bei der SCHUFA* Holding AG günstiger oder sogar
+      kostenfrei erfolgt.
     image: /uploads/data-858360-640-5.jpg
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: Wie lange besteht ein Schufa Eintrag?
+    titel: Wie lange besteht ein SCHUFA* Eintrag?
     text_markdown: >-
-      Viele Betroffene wissen nicht, dass ein Schufa Eintrag nicht sofort mit
+      Viele Betroffene wissen nicht, dass ein SCHUFA* Eintrag nicht sofort mit
       dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gläubiger
-      zur Löschung gebracht wird. Dies liegt daran, dass der Schufa Eintrag von
-      dem einmeldenden Unternehmen gegenüber der Schufa Holding AG lediglich für
-      erledigt, also bezahlt, erklärt wird.
+      zur Löschung gebracht wird. Dies liegt daran, dass der SCHUFA* Eintrag von
+      dem einmeldenden Unternehmen gegenüber der SCHUFA* Holding AG lediglich
+      für erledigt, also bezahlt, erklärt wird.
 
 
       ### Löschung drei Jahren nach Erledigung
@@ -310,7 +316,7 @@ abschnitte:
 
       Um die anderen Vertragspartner ausreichend zu schützen, werden die
       Informationen auch nach dem Ausgleich der Forderung bei der
-      Scorewertberechnung berücksichtigt. Eine Löschung des Schufa Eintrages
+      Scorewertberechnung berücksichtigt. Eine Löschung des SCHUFA* Eintrages
       erfolgt in der Regel taggenau nach Ablauf von 3 Jahren nach Zahlung. Dies
       geschieht automatisch ohne Zutun des Kunden. Detaillierte Löschungsfristen
       wurden für alle Wirtschaftsauskunfteien in Deutschland anhand eines
@@ -327,12 +333,12 @@ abschnitte:
       Im konkreten Beispiel könnte das so aussehen: Herr A. hat ein Darlehen bei
       der B-Bank nicht zurückbezahlt. Deshalb hat die B-Bank im Mai 2016 einen
       Vollstreckungsbescheid über 4.937,00 Euro gegen den Herrn A beantragt und
-      zu dieser Forderung einen&nbsp; Schufa Eintrag veranlasst. Als Herr A im
+      zu dieser Forderung einen&nbsp; SCHUFA* Eintrag veranlasst. Als Herr A im
       Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung
       über 4.937,00 Euro im Januar 2017 vollständig zurück. Daraufhin wird die
-      B-Bank die Forderung bei der SCHUFA als erledigt vermerken, sodass der
-      negative Schufa Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen
-      Speicherfristen bleibt der Schufa Eintrag aber bis Januar 2020 bestehen.
+      B-Bank die Forderung bei der SCHUFA* als erledigt vermerken, sodass der
+      negative SCHUFA* Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen
+      Speicherfristen bleibt der SCHUFA* Eintrag aber bis Januar 2020 bestehen.
       Solange wird er auch bei der Berechnung des Scores berücksichtigt und
       wirkt sich somit auch auf die wirtschaftliche Handlungsfähigkeit aus.
 
@@ -348,10 +354,10 @@ abschnitte:
     image: /uploads/batch-books-document-education-357514.jpg
     cta: true
   - abschnitt_template: box_dunkel
-    titel: Schufa Eintrag löschen lassen
+    titel: SCHUFA* Eintrag löschen lassen
     text_markdown: >-
       Nach alledem stellt sich für viele Betroffene die Frage, ob man einen
-      negativen Schufa Eintrag vorzeitig löschen lassen kann.
+      negativen SCHUFA* Eintrag vorzeitig löschen lassen kann.
 
 
       ### Widerruf und Löschung von Negativeinträgen
@@ -359,19 +365,20 @@ abschnitte:
 
       Dabei gilt es eine juristische Spitzfindigkeit zu berücksichtigen: Die
       einzelnen Gläubiger, denen Sie als Kunde etwas schulden, können einen
-      negativen Schufa Eintrag gar nicht selbst löschen. Diese können den Schufa
-      Eintrag nur widerrufen, also die SCHUFA zur Löschung auffordern, indem sie
-      einen Widerruf der ursprünglich erfolgen Datenverarbeitung erklären.
+      negativen SCHUFA* Eintrag gar nicht selbst löschen. Diese können den
+      Schufa Eintrag nur widerrufen, also die SCHUFA* zur Löschung auffordern,
+      indem sie einen Widerruf der ursprünglich erfolgen Datenverarbeitung
+      erklären.
 
 
-      Die SCHUFA selbst geht davon aus, dass sie nicht verpflichtet ist, die
+      Die SCHUFA* selbst geht davon aus, dass sie nicht verpflichtet ist, die
       Daten im Anschluss an einen Widerruf zu löschen. Vielmehr kann die
-      Speicherung bestehen bleiben, wenn die SCHUFA gesicherte Kenntnis über den
-      Hintergrund des negativen Schufa Eintrages erlangt hat und davon ausgeht,
-      dass kein Grund zum Widerruf besteht.
+      Speicherung bestehen bleiben, wenn die SCHUFA* gesicherte Kenntnis über
+      den Hintergrund des negativen SCHUFA* Eintrages erlangt hat und davon
+      ausgeht, dass kein Grund zum Widerruf besteht.
 
 
-      Ob und inwiefern die SCHUFA eine [eigene
+      Ob und inwiefern die SCHUFA* eine [eigene
       Prüfungskompetenz](/uploads/tintemann-de/PRev-2016-343-ff.-Scoring-Transparenz-Schufa-Holding-AG.pdf)
       (in dem Fachartikel unter dem Stichwort „berechtigtes Interesse“ auf Seite
       4 abgehandelt) hat, ist eine Frage, zu der sich aus unserer Sicht keine
@@ -380,13 +387,13 @@ abschnitte:
       unterschiedliche rechtliche Ansichten gibt.
 
 
-      ### a) Schufa Eintrag: Löschen durch die SCHUFA selbst
+      ### a) SCHUFA* Eintrag: Löschen durch die SCHUFA* selbst
 
 
       Aufgrund der soeben beschriebenen Frage der Prüfungskompetenz, kommt es
       aber auch immer wieder zu dem gegenteiligen Ergebnis durch die SCHUFA. Es
-      sind zahlreiche Fälle bekannt, in denen negative Schufa Einträge von der
-      SCHUFA selbst gelöscht wurden. Dies passiert in der Regel dann, wenn die
+      sind zahlreiche Fälle bekannt, in denen negative SCHUFA* Einträge von der
+      SCHUFA* selbst gelöscht wurden. Dies passiert in der Regel dann, wenn die
       einmeldende Stelle die Einmeldevoraussetzungen nach Art. 6 Abs. 1 DSGVO
       (&sect; 28a Abs. 1 BDSG a.F. / &sect; 31 Abs. 2 BDSG) nicht nachweisen
       kann. Erfahrungsgemä&szlig; betrifft dies aber nur eine geringe Anzahl von
@@ -396,7 +403,7 @@ abschnitte:
       ### Tipp vom Rechtsanwalt
 
 
-      Wenn Sie die SCHUFA selbst kontaktieren, dann ist nahezulegen, auf eine
+      Wenn Sie die SCHUFA* selbst kontaktieren, dann ist nahezulegen, auf eine
       angemessene Formulierung und einen höflichen Grundton zurückzugreifen.
       Hass-Tiraden haben quasi noch nie zum Erfolg geführt und lassen womöglich
       die Bereitschaft beim zuständigen Sachbearbeiter zu einer vorzeitigen
@@ -405,12 +412,12 @@ abschnitte:
       Leben schwerer.
 
 
-      ### b) [Schufa Eintrag: Löschen durch
+      ### b) [SCHUFA* Eintrag: Löschen durch
       Musterbrief](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)
 
 
       Im Internet sind viele Angebote vorhanden, welche einen Musterbrief zur
-      Löschung eines Schufa Eintrages anbieten. Für einen solchen Musterbrief
+      Löschung eines SCHUFA* Eintrages anbieten. Für einen solchen Musterbrief
       sollten Sie grundsätzlich niemals Geld ausgeben.
 
 
@@ -429,9 +436,9 @@ abschnitte:
 
 
       Gerade bei den vielfältigen unterschiedlichen Sachverhalten, welche zu
-      einem&nbsp; Schufa Eintrag führen können, ist es wichtig, eine Prüfung des
-      Einzelfalles vorzunehmen. Dies ist über einen Musterbrief effektive Hilfe
-      gerade nicht möglich.
+      einem&nbsp; SCHUFA* Eintrag führen können, ist es wichtig, eine Prüfung
+      des Einzelfalles vorzunehmen. Dies ist über einen Musterbrief effektive
+      Hilfe gerade nicht möglich.
 
 
       Zudem fehlt es Anbietern von Musterbriefen meist an der notwendigen
@@ -440,19 +447,19 @@ abschnitte:
       auf Ihren Fall abgespeist werden.
 
 
-      ### c) [Schufa Eintrag:
+      ### c) [SCHUFA* Eintrag:
       Löschen](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)
       nach Erledigung
 
 
-      Wie zuvor bereits erwähnt, muss ein Schufa Eintrag nicht unmittelbar nach
+      Wie zuvor bereits erwähnt, muss ein SCHUFA* Eintrag nicht unmittelbar nach
       der Erledigung gelöscht werden. Die Grundregel ist, dass der negative
       Eintrag noch weitere drei Jahre nach der Erledigung bei der Auskunftei
       bestehen bleibt (z.B. Erledigung im März 2017 – Automatische Löschung zum
       März 2020).
 
 
-      Die SCHUFA hatte bist zur Einführung der DSGVO eine interne Richtlinien,
+      Die SCHUFA* hatte bist zur Einführung der DSGVO eine interne Richtlinien,
       wonach sie sich verbindlich dazu bereit erklärte, Forderungen unmittelbar
       nach der Erledigung zur Löschung zu bringen, wenn bestimmte
       Voraussetzungen erfüllt sind. Diese interne Richtlinie existiert in dieser
@@ -463,20 +470,20 @@ abschnitte:
       #### Tipp aus der Praxis
 
 
-      Sollten Sie Kenntnis von einem negativen Schufa Eintrag erlangen, dann
+      Sollten Sie Kenntnis von einem negativen SCHUFA* Eintrag erlangen, dann
       sollte die dazugehörige Forderung schnellstmöglich bezahlt werden. Dies
       kann auch „ohne Anerkennung einer Rechtspflicht“ geschehen, wenn die
       konkrete Forderung der Höhe nach nicht stimmt oder andere Rechtsfragen
       rund um die Forderung im Raum stehen.
 
 
-      ### d) [Schufa Eintrag: Löschen durch
+      ### d) [SCHUFA* Eintrag: Löschen durch
       Rechtsanwalt](https://www.google.de/search?rlz=1C1QJDB_enDE631DE631&amp;q=schufa+eintrag+l%C3%B6schen+musterbrief&amp;sa=X&amp;ved=0ahUKEwjfqs_2k_TUAhUFC8AKHbhnAoUQ1QIIdCgF)
 
 
-      Der einzig sichere Weg herauszufinden, ob ein Schufa Eintrag gelöscht oder
-      widerrufen werden muss, ist die Beauftragung eines Rechtsanwalts mit
-      Expertise in Rechtsfragen im Bereich Schufa und Datenschutz.
+      Der einzig sichere Weg herauszufinden, ob ein SCHUFA* Eintrag gelöscht
+      oder widerrufen werden muss, ist die Beauftragung eines Rechtsanwalts mit
+      Expertise in Rechtsfragen im Bereich SCHUFA* und Datenschutz.
 
 
       Gerade aufgrund der Masse an scheinbar kostengünstigen Angeboten und
@@ -486,13 +493,13 @@ abschnitte:
 
 
       Kernpunkt der Problematik ist, dass häufig jede Information eine
-      Einzelbewertung benötigt, um eine Löschung eines Schufa Eintrages zu
+      Einzelbewertung benötigt, um eine Löschung eines SCHUFA* Eintrages zu
       erreichen. Hierbei geht es oft um das Aufdecken von Fehlern und eine
       konrkete Beratung zum Einzelfall.
 
 
       Im Folgenden stellt Ihnen unsere Kanzlei ausgesuchte Verfahren vor, in
-      welchen es zu einer Löschung des negativen Schufa Eintrages gekommen ist,
+      welchen es zu einer Löschung des negativen SCHUFA* Eintrages gekommen ist,
       um aufzuzeigen, wie vielfältig und verschachtelt die Gesamtthematik ist:
 
 
@@ -501,7 +508,7 @@ abschnitte:
       – Advanzia Bank S.A.: In diesem Fall wurde gleichzeitig mit dem angeblich
       „ausdrücklichen“ Anerkenntnis auch eine Ratenzahlungsvereinbarung
       getroffen. Dadurch war die entsprechende Forderung nicht mehr fällig und
-      der negative Schufa Eintrag wurde widerrufen.
+      der negative SCHUFA* Eintrag wurde widerrufen.
 
 
       * [Vollstreckungsbescheid mit falscher
@@ -517,7 +524,7 @@ abschnitte:
 
 
       * [Kein Anerkenntnis, keine Fälligkeit, kein richtiger
-      Schufa-Hinweis](https://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/)
+      Schufa*-Hinweis](https://advoadvice.de/blog/schufa-recht-ing-diba-erstinstanzlich-zum-schufa-widerruf-verurteilt/)
       – ING-DiBa: Manche Verfahren können erst gerichtlich geklärt werden,
       obwohl keine der entscheidenden Voraussetzungen nach &sect; 28a BDSG
       vorlagen. Insbesondere im Anschluss an das [Urteil des
@@ -527,7 +534,7 @@ abschnitte:
       Bestreitens der Forderung aufweist.
 
 
-      * [Schufa Eintrag nach
+      * [SCHUFA* Eintrag nach
       Nichtabnahmeentschädigung](https://advoadvice.de/blog/schufa-recht-schufa-l%C3%B6scht-negativeintrag-der-commerzbank-ag-aus-nichtabnahmeentsch%C3%A4digung/)
       – Commerzbank AG: Die Commerzbank AG hatte hier weitere Sicherheiten und
       Unterlagen für einen Immobiliar-Darlehensvertrag gefordert, obwohl die
@@ -539,22 +546,22 @@ abschnitte:
       Eintrag ein.
 
 
-      * [Schufa Eintrag nur nach ordnungsgemä&szlig;er Mahnung
+      * [SCHUFA* Eintrag nur nach ordnungsgemä&szlig;er Mahnung
       zulässig](https://advoadvice.de/blog/schufa-recht-pno-inkasso-widerruft-negativeintrag/)
-      – PNO Inkasso AG: Wenn ein negativer Schufa Eintrag nach &sect; 28a Abs. 1
-      Nr. 4 BDSG vorgenommen wird, dann muss der Betroffene ordnungsgemä&szlig;
-      gemahnt werden. Dies geschieht nicht immer. In diesem Fall kannte der
-      Betroffene die PNO Inkasso AG gar nicht, bis er den Schufa Eintrag
-      entdeckte.
+      – PNO Inkasso AG: Wenn ein negativer SCHUFA* Eintrag nach &sect; 28a Abs.
+      1 Nr. 4 BDSG vorgenommen wird, dann muss der Betroffene
+      ordnungsgemä&szlig; gemahnt werden. Dies geschieht nicht immer. In diesem
+      Fall kannte der Betroffene die PNO Inkasso AG gar nicht, bis er den
+      SCHUFA* Eintrag entdeckte.
 
 
       * [Unbekanntes Urteil führt zu Schufa
       Eintrag](https://advoadvice.de/blog/schufa-recht-schufa-holding-ag-l%C3%B6scht-eintrag-der-dohr-inkasso-gmbh-co-kg/)
       –Inkasso: Ein öffentlich zugestelltes Urteil aus dem Jahr 2002 stellte die
-      Grundlage für einen negativen Schufa Eintrag im Jahr 2017 dar. Der
+      Grundlage für einen negativen SCHUFA* Eintrag im Jahr 2017 dar. Der
       Betroffene wusste aufgrund dieser öffentlichen Zustellung lange Zeit
       nichts von dem Urteil und konnte die Forderung deshalb auch nicht
-      ausgleichen. Die Schufa Holding AG entschloss sich daher selbst dazu, den
+      ausgleichen. Die SCHUFA* Holding AG entschloss sich daher selbst dazu, den
       Eintrag zur Löschung zu bringen.
     image:
     cta: true
@@ -582,7 +589,7 @@ abschnitte:
 
       Ist die Forderung nicht fällig (z.B. weil sich der Schuldner noch nicht im
       Zahlungsverzug befindet oder eine Ratenzahlung oder Stundung vereinbart
-      hat), liegt kein rechtmä&szlig;iger Schufa-Eintrag vor.
+      hat), liegt kein rechtmä&szlig;iger Schufa*-Eintrag vor.
 
 
       ### Datenschutzgrundverordnung (DSGVO) seit dem 25.05.2018
@@ -631,7 +638,7 @@ abschnitte:
 
       Um die konkreten gesetzlichen Grundlagen einschätzen zu können, macht es
       oftmals Sinn Hilfe von einem Anwalt in Anspruch zu nehmen, der im Bereich
-      Schufa-Recht und Datenschutz hinreichende Expertise aufweist. Dieser kann
+      Schufa*-Recht und Datenschutz hinreichende Expertise aufweist. Dieser kann
       schnell erkennen, welche Rechtsgrundlage Anwendung findet und ob ein
       Fehler bei der Eintragung passiert ist. So kann dann oftmals die Löschung
       eines Eintrags durch die Auskunftei selbst oder ein Widerruf durch die
