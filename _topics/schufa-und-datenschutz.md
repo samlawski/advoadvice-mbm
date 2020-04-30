@@ -303,13 +303,13 @@ abschnitte:
     image: /uploads/dsgvo-3446011-1920-10.jpg
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: Wie lange besteht ein SCHUFA* Eintrag?
+    titel: Wie lange besteht ein Schufa-Eintrag?
     text_markdown: >-
-      Viele Betroffene wissen nicht, dass ein SCHUFA* Eintrag nicht sofort mit
+      Viele Betroffene wissen nicht, dass ein Schufa-Eintrag nicht sofort mit
       dem Ausgleich, also der Bezahlung einer offenen Forderung an den Gläubiger
-      zur Löschung gebracht wird. Dies liegt daran, dass der SCHUFA* Eintrag von
-      dem einmeldenden Unternehmen gegenüber der SCHUFA* Holding AG lediglich
-      für erledigt, also bezahlt, erklärt wird.
+      zur Löschung gebracht wird. Dies liegt daran, dass der Eintrag von dem
+      einmeldenden Unternehmen gegenüber der Schufa Holding AG lediglich für
+      erledigt, also bezahlt, erklärt wird.
 
 
       ### Löschung drei Jahren nach Erledigung
@@ -317,9 +317,9 @@ abschnitte:
 
       Um die anderen Vertragspartner ausreichend zu schützen, werden die
       Informationen auch nach dem Ausgleich der Forderung bei der
-      Scorewertberechnung berücksichtigt. Eine Löschung des SCHUFA* Eintrages
+      Scorewertberechnung berücksichtigt. Eine Löschung des Negativeintrages
       erfolgt in der Regel taggenau nach Ablauf von 3 Jahren nach Zahlung. Dies
-      geschieht automatisch ohne Zutun des Kunden. Detaillierte Löschungsfristen
+      geschieht automatisch ohne Zutun des Kunden. Detaillierte Löschfristen
       wurden für alle Wirtschaftsauskunfteien in Deutschland anhand eines
       [freiwilligen
       Verhaltenskodex](http://www.handelsauskunfteien.de/index.php?id=47&amp;no_cache=1)
@@ -328,20 +328,21 @@ abschnitte:
       Art. 40 DSGVO).
 
 
-      ### Beispiel für Löschung eines Eintrags bei der Schufa
+      ### Beispiel für Löschung eines Eintrags&nbsp;
 
 
       Im konkreten Beispiel könnte das so aussehen: Herr A. hat ein Darlehen bei
       der B-Bank nicht zurückbezahlt. Deshalb hat die B-Bank im Mai 2016 einen
       Vollstreckungsbescheid über 4.937,00 Euro gegen den Herrn A beantragt und
-      zu dieser Forderung einen&nbsp; SCHUFA* Eintrag veranlasst. Als Herr A im
+      zu dieser Forderung einen&nbsp; Schufa-Eintrag veranlasst. Als Herr A im
       Dezember 2016 keinen neuen Kredit bekommt, zahlt er die offene Forderung
       über 4.937,00 Euro im Januar 2017 vollständig zurück. Daraufhin wird die
-      B-Bank die Forderung bei der SCHUFA* als erledigt vermerken, sodass der
-      negative SCHUFA* Eintrag nicht mehr „offen“ ist. Aufgrund der gesetzlichen
-      Speicherfristen bleibt der SCHUFA* Eintrag aber bis Januar 2020 bestehen.
-      Solange wird er auch bei der Berechnung des Scores berücksichtigt und
-      wirkt sich somit auch auf die wirtschaftliche Handlungsfähigkeit aus.
+      B-Bank die Forderung bei der Schufa Holding AG als erledigt vermerken,
+      sodass der negative Eintrag nicht mehr „offen“ ist. Aufgrund der
+      gesetzlichen Speicherfristen bleibt der Eintrag aber bis Januar 2020
+      bestehen. Solange wird er auch bei der Berechnung des Scores
+      berücksichtigt und wirkt sich somit auch auf die wirtschaftliche
+      Handlungsfähigkeit aus.
 
 
       ### Hilfe vom Anwalt oft ratsam
