@@ -40,7 +40,7 @@ Rühmliche Ausnahmen bildeten hier bisher:
 * Landgericht Hannover (Videokonferenz von Skype for Business)
 * Landgericht Leipzig (Videokonferenz über Cisco)
 * Landgericht Frankenthal (Videokonferenz über Cisco)
-* Landgericht Magdeburg (Videokonferenz über Bravis)
+* Landgericht Magdeburg (Videokonferenz über [Bravis](www.bravis.eu){: target="_blank"})
 * Landgericht Düsseldorf (Videokonferenz über Cisco)
 * Landgericht Lübeck (Videokonferenz über Cisco)
 
