@@ -29,7 +29,7 @@ author: kim-oliver-klevenhagen
 
 Zwei Meldungen von Aufsichtsbehörden an einem Tag zum Thema Geldanlage bei der Unternehmensgruppe ADCADA aus Bentwisch bei Rostock und Ruggel in Liechtenstein.&nbsp;
 
-Aus Liechtenstein kommt nach der bereits am Vormittag des 20.05.2020 erfolgten Mitteilung der Deutschen Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), [AdvoAdvice Rechtsanwälte berichteten hier](https://advoadvice.de/blog/adcada-unternehmensgruppe-erneute-bafin-meldung-k%C3%B6nnte-anleger-beunruhigen/), nun auch noch eine ausdrücklich als "Warnung" deklarierte Meldung der Liechteinsteiner Finanzaufsicht (FMA). Diese lautet wie folgt:
+Aus Liechtenstein kommt nach der bereits am Vormittag des 20.05.2020 erfolgten Mitteilung der Deutschen Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), [AdvoAdvice Rechtsanwälte berichteten hier](https://advoadvice.de/blog/adcada-unternehmensgruppe-erneute-bafin-meldung-k%C3%B6nnte-anleger-beunruhigen/), nun auch noch eine ausdrücklich als "Warnung" deklarierte Meldung der Liechteinsteiner Finanzmarktaufsicht (FMA). Diese lautet wie folgt:
 
 "Warnung: ADCADA Investments AG PCC und ADCADA Immobilien AG PCC
 
