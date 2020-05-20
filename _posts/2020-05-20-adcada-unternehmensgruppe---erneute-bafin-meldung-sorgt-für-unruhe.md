@@ -24,7 +24,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Bei der ADCADA Unternehmensgruppe aus Bentwisch bei Rostock ist gerade Einiges los. Die offiziell von dem 24-jährigen Jung-Unternehmer Benjamin Franklin Kühn medial repräsentierte und geleitete Firmengruppe hat sich in den letzten Jahren stetig vergrö&szlig;ert. Nach eigener Aussage auf der webseite adcada.money baut ADCADA mit der Unterstützung ihrer privaten Anleger seit der Gründung im Jahr 2015 ihr Unternehmen "Stück für Stück zukunftsorientiert" auf. Zuletzt war das Unternehmen adcada.healthcare GmbH mit dem Aufbau einer Fertigungsanlage für dringend benötigte Mund-Nasen-Schutzmasken positiv aufgefallen.&nbsp; Doch nun häufen sich auch Meldungen von Aufsichtsbehörden, die Anleger aufhorchen lassen.
+Bei der ADCADA Unternehmensgruppe aus Bentwisch bei Rostock ist gerade Einiges los. Die offiziell von dem 24-jährigen Jung-Unternehmer Benjamin Franklin Kühn medial repräsentierte und geleitete Firmengruppe hat sich in den letzten Jahren stetig vergrö&szlig;ert. Nach eigener Aussage auf der webseite adcada.money baue die ADCADA Unternehmensgruppe mit der Unterstützung ihrer privaten Anleger seit der Gründung im Jahr 2015 ihr Unternehmen "Stück für Stück zukunftsorientiert" auf. Zuletzt war das Unternehmen adcada.healthcare GmbH mit dem Aufbau einer Fertigungsanlage für dringend benötigte Mund-Nasen-Schutzmasken positiv aufgefallen.&nbsp; Doch nun häufen sich auch Meldungen von Aufsichtsbehörden, die Anleger aufhorchen lassen.
 
 #### Aufsichtsbehörden beobachten ADCADA-Firmen&nbsp;
 
