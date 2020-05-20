@@ -1,5 +1,5 @@
 ---
-title: ADCADA Unternehmensgruppe - Neue BaFin Meldung sorgt für Unruhe
+title: ADCADA Unternehmensgruppe - Erneute BaFin Meldung sorgt für Unruhe
 date: 2020-05-20 00:00:00
 description: >-
   Eine neue Meldung über einen möglichen Verstoß gegen Prospektpflichten sorgt
