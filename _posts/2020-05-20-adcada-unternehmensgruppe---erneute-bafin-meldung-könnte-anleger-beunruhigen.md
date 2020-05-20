@@ -42,7 +42,7 @@ Laut einem Artikel im Handelsblatt lie&szlig; die Staatsanwaltschaft wohl auch d
 
 Nun sorgte am 20.05.2020 eine erneute BaFin Meldung für Unruhe bei Anlegern. In der BaFin Meldung teilte die Aufsichtsbehörde mit, dass sie über einen hinreichend begründeten Verdacht verfüge, dass die Wertpapiere in Form von Inhaber-Teilschuldverschreibungen mit der Bezeichnung „ADCADA.healthcare Bond" der ADCADA.healthcare GmbH ohne den erforderlichen Prospekt öffentlich angeboten werde.
 
-Hier sieht die BaFin einen Versto&szlig; gegen Art. 3 Abs. 1 der EU-Prospekt- verordnung. Eine Ausnahme von der Prospektpflicht sei für die BaFin nicht ersichtlich.
+Hier sieht die BaFin einen Versto&szlig; gegen Art. 3 Abs. 1 der EU-Prospektverordnung. Eine Ausnahme von der Prospektpflicht sei für die BaFin nicht ersichtlich.
 
 Da bei unrichtigen oder unvollständigen Angaben in einem Prospekt eine Haftung der Prospektverantwortlichen gemä&szlig; &sect;&sect; 9 bzw. 10 Wertpapierprospektgesetz (WpPG) besteht und dies auch nach &sect; 14 WpPG für Anbieter und Emittenten von Wertpapieren gilt, wenn diese pflichtwidrig gar keinen Prospekt im Rechtssinne veröffentlichen, ist diese Meldung für Anleger bei der ADCADA Unternehmensgruppe sicherlich doppelt interessant.
 
