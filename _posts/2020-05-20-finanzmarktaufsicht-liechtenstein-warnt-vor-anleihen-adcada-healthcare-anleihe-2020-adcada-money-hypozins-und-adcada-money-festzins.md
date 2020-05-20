@@ -5,7 +5,7 @@ title: >-
 date: 2020-05-20 00:00:00
 description: >-
   Angeblich die betreffenden Wertpapierprospekte nicht durch zuständige
-  Aufsichtsbehörde gebilligt,
+  Aufsichtsbehörde gebilligt.
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-8.jpg
