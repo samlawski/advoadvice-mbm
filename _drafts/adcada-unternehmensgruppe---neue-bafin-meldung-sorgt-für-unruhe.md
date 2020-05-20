@@ -34,18 +34,32 @@ Es folgte dann am 22.04.2020 eine Warnmeldung der Finanzmarktaufsicht in Lichten
 
 #### Berichte über Hausdurchsuchungen im Handelsblatt
 
-Nach Berichten im Handelsblatt erfolgten wohl auch Hausdurchsuchungen des Firmengeländes und in Liechtenstein:&nbsp;
+Nach Berichten im Handelsblatt lie&szlig; die Staatsanwaltschaft wohl auch die "Büros des Maskenherstellers ADCADA" &nbsp;polizeilich durchsuchen. Laut der Meldung des Handelsblatts ermittele angeblich die Staatsanwaltschaft Rostock gegen zwei Manager wegen des Verdachts des Kapitalanlagebetrugs. Diese sollen nach Angabe des Handelsblatts nach Auffassung der Ermittlungsbehörden in den Jahren 2018 und 2019 gegen das Kreditwesengesetz versto&szlig;en haben. So habe die Rostocker Strafverfolgungsbehörde dem Handelsblatt mitgeteilt, dass ein Finanzprodukt im Mittelpunkt der Ermittlungen stehe, dessen Rückabwicklung die Finanzaufsicht Bafin bereits im März angeordnet hatte:&nbsp;
 
-https://www.handelsblatt.com/finanzen/anlagestrategie/trends/kuriose-anleihen-staatsanwaltschaft-laesst-bueros-des-maskenherstellers-adcada-durchsuchen/25819804.html?ticket=ST-1090268-07w3HA2K4XEn4wQj7rIZ-ap1
+[https://www.handelsblatt.com/finanzen/anlagestrategie/trends/kuriose-anleihen-staatsanwaltschaft-laesst-bueros-des-maskenherstellers-adcada-durchsuchen/25819804.html](https://www.handelsblatt.com/finanzen/anlagestrategie/trends/kuriose-anleihen-staatsanwaltschaft-laesst-bueros-des-maskenherstellers-adcada-durchsuchen/25819804.html)
 
-Nun folgt am zulasten fünften 2020 ene erneute Barfin Meldung für Unruhe bei Anlegern. In der Bar finden-Meldung teilte diese mit, dass sie über einen hinreichend begründeten Verdacht verfüge, dass die Wertpapiere in Form von Inhaber-Teilschuldverschreibungen mit der Bezeichnung „@Kader. Herr Verkehr. „Derart Kader. Teske GmbH ohne den erforderlichen Prospekt öffentlich angeboten wird.
+#### Weitere BaFin Meldung über Prospektpflichtversto&szlig;
 
-Hier sieht die Barfin einen Versto&szlig; gegen Art. 3 Abs. 1 der EU-Prospektverordnung. Eine Ausnahme von der Prospektpflicht sei für die Parfüm nicht ersichtlich.
+Nun sorgte am 20.05.2020 eine erneute BaFin Meldung für Unruhe bei Anlegern. In der BaFin Meldung teilte die Aufsichtsbehörde mit, dass sie über einen hinreichend begründeten Verdacht verfüge, dass die Wertpapiere in Form von Inhaber-Teilschuldverschreibungen mit der Bezeichnung „ADCADA.healthcare Bond" der ADCADA.healthcare GmbH ohne den erforderlichen Prospekt öffentlich angeboten werde.
 
-Dabei unrichtigen oder unvollständigen Angaben in einem Prospekt eine Haftung der Prospektverantwortlichen gemä&szlig; &sect;&sect; 9 bzw. 10 Wertpapierprospekt (WP PG) besteht und dies auch nach &sect; 14 WPPG für Anbieter und Emittenten von Wertpapieren gilt, wenn diese pflichtwidrig keinen Prospekt veröffentlichen, ist diese Meldung für Anleger bei der Art Kader Unternehmensgruppe sicherlich doppelt interessant.
+Hier sieht die BaFin einen Versto&szlig; gegen Art. 3 Abs. 1 der EU-Prospekt- verordnung. Eine Ausnahme von der Prospektpflicht sei für die BaFin nicht ersichtlich.
 
-Die Bar Finn teilt nämlich ebenfalls mit, dass ein Versto&szlig; gegen die Prospektpflicht nach &sect; 44 Abs. 3 Nr. 1 WP PG eine Ordnungswidrigkeit darstelle die gemä&szlig; &sect; 44 Abs. 6 WP PG mit einer Geldbu&szlig;e von bis zu 5 Millionen € bzw. 3 % des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden kann und auch Geldbu&szlig;en bis zum zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden können.
+Da bei unrichtigen oder unvollständigen Angaben in einem Prospekt eine Haftung der Prospektverantwortlichen gemä&szlig; &sect;&sect; 9 bzw. 10 Wertpapierprospektgesetz (WpPG) besteht und dies auch nach &sect; 14 WpPG für Anbieter und Emittenten von Wertpapieren gilt, wenn diese pflichtwidrig gar keinen Prospekt im Rechtssinne veröffentlichen, ist diese Meldung für Anleger bei der ADCADA Unternehmensgruppe sicherlich doppelt interessant.
 
-Dies bedeutet also, dass durch den jetzt von der Barfin nach deren Ansicht vorliegenden Versto&szlig; gegen die Prospektpflicht hier auch Schadensersatzansprüche gegen die handelnden Personen als auch gegen die Unternehmensgruppe selbst im Raume stehen.
+Die BaFin teilt nämlich ebenfalls mit, dass ein Versto&szlig; gegen die Prospektpflicht nach &sect; 24 Abs. 3 Nr. 1 WpPG eine Ordnungswidrigkeit darstelle, die gemä&szlig; &sect; 24 Abs. 6 WP PG mit einer Geldbu&szlig;e von bis zu 5 Millionen EURO bzw. 3 % des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden kann und auch Geldbu&szlig;en bis zum zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden können.
 
-Anleger, die nun verunsichert sind sollten in Bezug auf mögliche Ansprüche und Handlungsoptionen dringend Rechtsrat einholen, rät Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver klevenhagen von der Kanzlei advoadvice Rechtsanwälte MBB aus Berlin. „Derzeit melden sich bei uns Anleger, die bei derart Kader Unternehmensgruppe investiert haben und fragen, ob und wie getätigte Investitionen gefährdet sein können. Die Bar Finn bringt es dabei in ihren Meldungen auf den Punkt. Im Falle eines unerlaubten Betreibens von Einlagengehgeschäften aber auch bei Verstö&szlig;en gegen Prospektpflichten gibt es für Anleger diverse Möglichkeiten hier Rechtsmittel nach einer Einzelfallprüfung einzulegen. Denn nach Deutsche Rechtsprechung können sowohl Gesellschaften als auch verantwortliche Personen der Gesellschaften auf Schadensersatz haften. Einfluss solchen oben, sagt Rechtsanwalt klevenhagen, der mit seinem Team seit Jahren Rechtsrat für Anlegerschutz erteilt hat und au&szlig;ergerichtlich und gerichtlich tätig ist.<br>&nbsp;
+Dies dürfte bedeuteten, dass durch den jetzt von der BaFin nach deren Ansicht vorliegenden Versto&szlig; gegen die Prospektpflicht hier auch Schadensersatzansprüche gegen die handelnden natürlichen Personen als auch gegen die Unternehmensgruppe selbst im Raume stehen könnten.
+
+#### Verunsicherte Anleger
+
+Anleger, die nun verunsichert sind, sollten in Bezug auf mögliche Ansprüche und Handlungsoptionen dringend Rechtsrat einholen, rät Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen von der auf Anlegerschutz spezialisierten Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin. „Derzeit melden sich bei uns Anleger, die bei der ADCADA Unternehmensgruppe investiert haben und sich fragen, ob und wie getätigte Investitionen gefährdet sein könnten. Die BaFin bringt es dabei in ihren Meldungen auf den Punkt. Im Falle eines unerlaubten Betreibens von Einlagengeschäften aber auch bei Verstö&szlig;en gegen Prospektpflichten gibt es für Anleger diverse Möglichkeiten, hier etwaige Ansprüche anzuzeigen und nach einer Einzelfallprüfung auch Rechtsmittel einzulegen."
+
+"Denn nach der Deutschen Rechtsprechung können sowohl Gesellschaften als auch verantwortliche Personen der Gesellschaften auf Schadensersatz haften.", sagt Rechtsanwalt Klevenhagen, der mit seinem Team seit Jahren im Anlegerschutz au&szlig;ergerichtlich und gerichtlich tätig ist.
+
+Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbare Ersteinschätzung, damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll wäre.
+
+&nbsp;
+
+&nbsp;
