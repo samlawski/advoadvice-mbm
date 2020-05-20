@@ -1,7 +1,7 @@
 ---
 title: >-
-  Finanzmarktaufsicht Liechtenstein warnt vor Anleihen ADCADA.healthcare Anleihe
-  2020“, „adcada.money Hypozins“ und „adcada.money Festzins“
+  Finanzmarktaufsicht Liechtenstein warnt vor Anleihen "ADCADA.healthcare
+  Anleihe 2020“, „adcada.money Hypozins“ und „adcada.money Festzins“
 date: 2020-05-20 00:00:00
 description: >-
   Angeblich die betreffenden Wertpapierprospekte nicht durch zuständige
