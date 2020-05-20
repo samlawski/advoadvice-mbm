@@ -1,16 +1,11 @@
 ---
 title: >-
-  Finanzaufsicht Liechtenstein warnt vor Anleihen ADCADA.healthcare Anleihe
+  Finanzmarktaufsicht Liechtenstein warnt vor Anleihen ADCADA.healthcare Anleihe
   2020“, „adcada.money Hypozins“ und „adcada.money Festzins“
 date: 2020-05-20 00:00:00
 description: >-
-  Die FMA weist darauf hin, dass zu den von der ADCADA Investments AG PCC,
-  Ruggell, Registernummer FL-0002.600.340-0, und der ADCADA Immobilien AG PCC,
-  Ruggell, Registernummer FL-0002.605.851-4, begebenen Anleihen mit den Namen
-  „ADCADA.healthcare Anleihe 2020“, „adcada.money Hypozins“ und „adcada.money
-  Festzins“ keine Wertpapierprospekte gebilligt wurden. Angebote erfolgen ohne
-  einen gebilligten Wertpapierprospekt durch die Aufsichtsbehörde und damit ohne
-  behördliche Prüfung.
+  Angeblich die betreffenden Wertpapierprospekte nicht durch zuständige
+  Aufsichtsbehörde gebilligt,
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-8.jpg
@@ -42,7 +37,7 @@ Aus Liechtenstein kommt nach der bereits am Vormittag des 20.05.2020 erfolgten M
 
 Die FMA weist darauf hin, dass zu den von der ADCADA Investments AG PCC, Ruggell, Registernummer FL-0002.600.340-0, und der ADCADA Immobilien AG PCC, Ruggell, Registernummer FL-0002.605.851-4, begebenen Anleihen mit den Namen „ADCADA.healthcare Anleihe 2020“, „adcada.money Hypozins“ und „adcada.money Festzins“ keine Wertpapierprospekte gebilligt wurden. Angebote erfolgen ohne einen gebilligten Wertpapierprospekt durch die Aufsichtsbehörde und damit ohne behördliche Prüfung.
 
-Weitere Informationen zur Billigung von Wertpapierprospekten sind auf der&nbsp;[Website der FMA](https://www.fma-li.li/de/aufsicht/bereich-wertpapiere-und-markte/wertpapierprospekte/billigung.html){: target="_self"}&nbsp;&nbsp;verfügbar. Die FMA weist darauf hin, dass jede Anlage in Wertpapieren mit Risiken verbunden ist. Anleger sollten sich mit den Risiken eingehend auseinandersetzen und sich beraten lassen."
+Weitere Informationen zur Billigung von Wertpapierprospekten sind auf der&nbsp;[Website der FMA](https://www.fma-li.li/de/aufsicht/bereich-wertpapiere-und-markte/wertpapierprospekte/billigung.html){: target="_self"}&nbsp; verfügbar. Die FMA weist darauf hin, dass jede Anlage in Wertpapieren mit Risiken verbunden ist. Anleger sollten sich mit den Risiken eingehend auseinandersetzen und sich beraten lassen."
 
 #### Anleger der dieser Anleihen dürften sich jetzt Sorgen machen
 
