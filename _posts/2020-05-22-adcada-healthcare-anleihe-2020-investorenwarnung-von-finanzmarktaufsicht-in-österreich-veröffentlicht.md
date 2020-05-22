@@ -1,7 +1,7 @@
 ---
 title: >-
-  ADCADA.healthcare Anleihe 2020: "Investorenwarnung" der Finanzmarktaufsicht
-  Österreich
+  ADCADA.healthcare Anleihe 2020: "Investorenwarnung" von Finanzmarktaufsicht in
+  Österreich veröffentlicht
 date: 2020-05-22 00:00:00
 description: >-
   Die ADCADA Investments AG PCC soll einer Meldepflicht gemäß § 24 KMG 2019 iZm
