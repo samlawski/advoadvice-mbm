@@ -1,12 +1,27 @@
 ---
 title: BGH verurteilt VW
-date:
-description:
+date: 2020-05-25 00:00:00
+description: >-
+  Bundesgerichtshof verurteilt Volkswagen zu Schadenersatz bei Diesel
+  Abgasskandal
 layout: post
 style_id: post
-image:
+image: /uploads/exhaust-3538412-1280.jpg
 tags:
+  - Urteil
+  - BGH
+  - Bundesgerichtshof
+  - Diesel
+  - Volkswagen
+  - VW
+  - Schadensersatz
+  - Klage
+  - Rückgabe
+  - Nutzungsersatz
+  - AdvoAdvice
 topics:
+  - anlegerschutz
+  - kredit-widerrufen
 author: dr-sven-tintemann
 ---
 
