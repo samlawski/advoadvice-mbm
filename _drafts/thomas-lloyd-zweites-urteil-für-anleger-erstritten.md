@@ -15,6 +15,10 @@ topics:
 author: dr-sven-tintemann
 ---
 
-LG Stendal verurteilt CT Infrastructure Holding GmbH zur Zahlung an Anlegerin in Höhe von 12.000 Euro.&nbsp;
+LG Stendal verurteilt CT Infrastructure Holding GmbH zur Zahlung an Anlegerin in Höhe von 7.000 Euro.&nbsp;
+
+Das Landgericht Stendal hat einer Klage von Anlegern auf Zahlung von 7.000 Euro stattgegeben. Die Anleger hatten nach Kündigung Ihrer Anlage zum Ablauf des Jahres 2017 vergeblich auf eine Rückzahlung des Anlagebetrages gewartet.&nbsp;
+
+&nbsp;
 
 &nbsp;
