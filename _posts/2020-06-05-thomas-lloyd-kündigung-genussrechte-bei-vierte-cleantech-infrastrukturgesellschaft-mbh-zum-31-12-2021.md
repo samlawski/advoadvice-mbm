@@ -6,7 +6,7 @@ date: 2020-06-05 00:00:00
 description: >-
   Bei AdvoAdvice melden sich Anleger der Vierte Cleantech
   Infrastrukturgesellschaft mbH und erkündigen sich nach Kündigungsmöglichkeit
-  zum 31.12.2021
+  zum 31.12.2021.
 layout: post
 style_id: post
 image: /uploads/board-2084774-1280-1.jpg
