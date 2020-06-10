@@ -3,7 +3,7 @@ title: UNDRY Asset Management GmbH aus Linz - Anleger melden sich
 date: 2020-06-10 00:00:00
 description: >-
   Bei uns melden sich besorgte Anleger, die über die UNDRY Asset Management GmbH
-  Zahlungen nicht zurückerhalten,
+  Zahlungen nicht zurückerhalten.
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-1.jpg
