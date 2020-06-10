@@ -3,7 +3,7 @@ title: Betrug bei Darlehensangeboten und Kredit aus dem Internet
 date: 2020-06-10 00:00:00
 description: >-
   Unseriöse Kreditangebote aus dem Internet sind häufig nichts anderes als
-  Vorkostenbetrug und Gebührenfalle
+  Vorkostenbetrug und Gebührenfalle.
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-1.jpg
