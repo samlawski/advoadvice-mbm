@@ -28,6 +28,6 @@ Die Kanzlei AdvoAdvice aus Berlin konnte für eine Mandantin schnell die Löschu
 
 &nbsp;
 
-## Fazit der Kanzlei AdvoAdvice
+## Fazit von AdvoAdvice
 
 &nbsp;
