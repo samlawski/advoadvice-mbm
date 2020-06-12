@@ -12,8 +12,22 @@ tags:
   - Eintrag
   - Schufa Holding AG
   - Löschung
+  - Consors Finanz
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
+Die Kanzlei AdvoAdvice aus Berlin konnte für eine Mandantin schnell die Löschung eines Negativeintrags der BNP Paribas S.A. erreichen.&nbsp;
+
+## Konto bei Consors Finanz
+
+&nbsp;
+
+## Schnelle Löschung durch Auskunftei
+
+&nbsp;
+
+## Fazit der Kanzlei AdvoAdvice
+
+&nbsp;
