@@ -1,6 +1,6 @@
 ---
 title: Eintrag der Santander Consumer Bank aus dem Jahr 2013 aus Fraud Pool gelöscht
-date: 2020-06-15 00:00:00
+date: 2020-06-22 00:00:00
 description: >-
   Schufa Holding AG löscht Eintrag im Fraud Pool der Santander Consumer Bank AG
   aus dem Jahr 2013 nach Tätigkeit von AdvoAdvice
