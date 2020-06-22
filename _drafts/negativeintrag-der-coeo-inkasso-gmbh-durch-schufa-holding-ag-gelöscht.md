@@ -3,7 +3,7 @@ title: Negativeintrag der Coeo Inkasso GmbH durch Schufa Holding AG gelöscht
 date: 2020-06-23 00:00:00
 description: >-
   Identitätsdiebstahl durch Onkel führte zu Negativeintrag nach Erlass eines
-  Vollstreckungsbescheids
+  Vollstreckungsbescheids.
 layout: post
 style_id: post
 image: /uploads/football-1331843-640.jpg
