@@ -9,9 +9,12 @@ style_id: post
 image: /uploads/fraud-prevention-3188092-1280.jpg
 tags:
   - Schufa Holding AG
-  - Schufaeintrag
   - FraudPool
   - Speicherfrist
+  - Datenschutz
+  - Verdacht
+  - Eintrag
+  - Löschung
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
