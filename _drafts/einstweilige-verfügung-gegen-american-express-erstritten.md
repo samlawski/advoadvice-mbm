@@ -35,6 +35,8 @@ Der Betroffene erhielt als Karteninhaber lediglich eine Zahlungserinnerung an se
 
 Mitte März erfuhr der Kläger sodann jedoch von einem negativen Eintrag der AMEX bei der SCHUFA Holding AG. Dieser wurde jedoch nur für eine von zwei Karten dort vorgenommen. Dies ohne erkennbaren Grund.
 
+## Einstweilige Verfügung durch Landgericht Regensburg erlassen
+
 Wegen der drohenden wirtschaftlichen Konsequenzen beauftragte er umgehend die Kanzlei AdvoAdvice Rechtsanwälte. Auf au&szlig;ergerichtliche Einigungsversuche wurde nicht mehr schnell genug reagiert, sodass Rechtsanwalt Dr. Sven Tintemann einen Antrag auf Erlass einer einstweiligen Verfügung stellte. Diese wurde bereits am Folgetag durch das angerufene Landgericht Regensburg erlassen und die American Express hierin zum Widerruf der Meldung verpflichtet.
 
 Gegen diese Entscheidung hat die American Express sodann Widerspruch eingelegt und hierin auch ausführlich begründet, wieso der Negativeintrag über den betroffenen Karteninhaber berechtigt gewesen sein soll. Die AMEX geht hierbei davon aus, dass die Mahn- und Kündigungsschreiben ausreichend gewesen seien und darüber hinaus beim Antragsteller zugegangen wären.&nbsp;
