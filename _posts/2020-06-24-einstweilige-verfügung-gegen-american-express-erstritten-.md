@@ -1,5 +1,5 @@
 ---
-title: Einstweilige Verfügung gegen American Express erstritten
+title: Einstweilige Verfügung gegen American Express erstritten.
 date: 2020-06-24 00:00:00
 description: >-
   Negativer Eintrag bei der SCHUFA Holding AG nach Nutzung einer
