@@ -1,7 +1,7 @@
 ---
 title: Schufa Holding AG löscht Eintrag der Comdirect Bank AG
-date:
-description: Wenn Altlasten zu SCHUFA-Einträgen führen
+date: 2020-06-29 00:00:00
+description: Eintrag der Comdirect als ehemalige Altlast bei Auskunftei gelöscht.
 layout: post
 style_id: post
 image: /uploads/piggy-bank-2889046-640.jpg
@@ -14,6 +14,9 @@ tags:
   - Comdirect
   - Zugang
   - Schreiben
+  - Altlast
+  - Altforderung
+  - Konto
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
