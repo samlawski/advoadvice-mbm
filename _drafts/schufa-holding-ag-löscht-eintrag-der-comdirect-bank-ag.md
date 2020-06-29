@@ -10,3 +10,6 @@ topics:
 author: dr-sven-tintemann
 ---
 
+#### Oder: Wenn Alt-Lasten zu SCHUFA-Einträgen führen
+
+&nbsp;
