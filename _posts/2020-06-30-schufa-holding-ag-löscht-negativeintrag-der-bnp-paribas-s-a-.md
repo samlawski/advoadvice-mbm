@@ -2,8 +2,8 @@
 title: Schufa Holding AG löscht Negativeintrag der BNP Paribas S.A.
 date: 2020-06-30 00:00:00
 description: >-
-  Negativeintrag der BNP Paribas nach Tätigkeit von AdvoAdvice durch Auskunftei
-  gelöscht.
+  Negativeintrag der BNP Paribas S.A. nach Tätigkeit von AdvoAdvice durch
+  Auskunftei gelöscht.
 layout: post
 style_id: post
 image: /uploads/dsgvo-3446011-640-2.jpg
