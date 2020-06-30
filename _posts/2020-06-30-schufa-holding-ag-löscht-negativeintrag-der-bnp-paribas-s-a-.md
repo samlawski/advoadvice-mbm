@@ -13,6 +13,8 @@ tags:
   - Schufa Holding AG
   - Löschung
   - Consors Finanz
+  - Auskunftei
+  - Negativeintrag
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
