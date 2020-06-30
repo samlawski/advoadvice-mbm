@@ -8,7 +8,7 @@ gem "custom-theme", path: "_custom-theme"
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag', git: 'https://github.com/jekyll/jekyll-seo-tag.git', ref: '2d05858'
+  gem 'jekyll-seo-tag', path: '_custom-gems/jekyll-seo-tag-2d058584e48e34e68ddcf8b478e486b3bb7beae7'
   gem 'jekyll-redirect-from'
 
   gem 'jekyll-autoprefixer'
