@@ -1,7 +1,5 @@
-GIT
-  remote: https://github.com/jekyll/jekyll-seo-tag.git
-  revision: 2d058584e48e34e68ddcf8b478e486b3bb7beae7
-  ref: 2d05858
+PATH
+  remote: _custom-gems/jekyll-seo-tag-2d058584e48e34e68ddcf8b478e486b3bb7beae7
   specs:
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
