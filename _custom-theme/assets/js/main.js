@@ -316,6 +316,7 @@ var pageSearch = (function(){
       '<a class="article__link" href="' + article.url + '">' +
         '<h3 class="article__title">' + article.title + '</h3>' + 
         '<p class="article__description">' + article.description + '</p>' +
+        '<p class="article__date"><small>' + article.date + '</small></p>' +
         '<div class="article__topics">' + topics + '</div>' +
       '</a>' +
     '</article>'
