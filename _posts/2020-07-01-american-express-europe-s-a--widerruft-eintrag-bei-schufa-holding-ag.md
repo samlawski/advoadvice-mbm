@@ -20,6 +20,8 @@ tags:
   - Mahnung
   - Mahnprozess
   - Anwaltskosten
+  - PayPal
+  - AGB Bank
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
