@@ -3,7 +3,7 @@ title: 'Unsere Experten in der Presse: Auskunfteien in Deutschland'
 date: 2020-07-06 00:00:00
 description: >-
   Interview mit unserem Experten Dr. Sven Tintemann im Deutschlandradio zum
-  Thema Datenschutz und Einträgen bei der Schufa Holding AG
+  Thema Datenschutz und Einträgen bei der Schufa Holding AG.
 layout: post
 style_id: post
 image: /uploads/microphone-3381837-640.jpg
