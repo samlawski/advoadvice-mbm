@@ -1,5 +1,5 @@
 ---
-title: 'Unsere Experten in der Presse: Auskunfteien in Deutschland'
+title: 'Unsere Experten in den Medien: Auskunfteien in Deutschland'
 date: 2020-07-06 00:00:00
 description: >-
   Interview mit unserem Experten Dr. Sven Tintemann im Deutschlandradio zum
