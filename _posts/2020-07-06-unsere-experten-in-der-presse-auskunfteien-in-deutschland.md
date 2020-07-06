@@ -17,6 +17,7 @@ tags:
   - Deutschlandradio
 topics:
   - medien
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
