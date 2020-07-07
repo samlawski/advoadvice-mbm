@@ -27,7 +27,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Landgericht Stendal verurteilt CT Infrastructure Holding GmbH zur Zahlung an Anleger in Höhe von 7.000 Euro.&nbsp;
+Landgericht Stendal verurteilt CT Infrastructure Holding Ldt. zur Zahlung an Anleger in Höhe von 7.000 Euro.&nbsp;
 
 ## Erfolgreiche erstinstanzliche Zahlungsklage&nbsp;
 
@@ -53,7 +53,7 @@ Aus der Sicht von Rechtsanwalt Dr. Sven Tintemann, der hier den Anleger vor dem 
 
 ## Anlegergemeinschaft erwartet weitere Erfolge vor den Landgerichten
 
-Die Kanzlei AdvoAdvice&nbsp;
+Die Kanzlei AdvoAdvice hat eine Anlegergemeinschaft gegründet, welche sich Anfang 2019 mit der Durchsetzung der Rechte von mehr als 150 Anlegern befasst. In diesem Rahmen wurden mehr als 50 Klagen gegen die CT Infrastructure Holding Ltd. eingereicht. Das Urteil des LG Stendal ist die bisher zweite Entscheidung eines Landgerichts, welches die CT Infrastructure Holding Ltd. zur Zahlung verurteilt hat. Weitere positive Entscheidungen der Landgerichts aus Rostock, Frankenthal und Görlitz erwartet die Kanzlei AdvoAdvice noch im Laufe des Monats Juli 2020.&nbsp;
 
 &nbsp;
 
