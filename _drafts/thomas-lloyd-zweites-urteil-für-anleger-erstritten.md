@@ -27,7 +27,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Landgericht Stendal verurteilt CT Infrastructure Holding Ldt. zur Zahlung an Anleger in Höhe von 7.000 Euro.&nbsp;
+Landgericht Stendal verurteilt CT Infrastructure Holding Ldt. (ehemals Thomas Lloyd Investments GmbH) zur Zahlung an Anleger in Höhe von 7.000 Euro nebst Zinsen und Anwaltskosten.&nbsp;
 
 ## Erfolgreiche erstinstanzliche Zahlungsklage&nbsp;
 
