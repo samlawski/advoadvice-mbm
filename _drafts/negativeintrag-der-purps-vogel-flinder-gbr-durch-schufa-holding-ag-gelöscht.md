@@ -8,7 +8,6 @@ layout: post
 style_id: post
 image: /uploads/stamp-3406367-640.jpg
 tags:
-  - Schufa Recht
   - Schufa Eintrag
   - Schufa Holding AG
   - Purps Vogel Flinder
@@ -17,6 +16,9 @@ tags:
   - Löschung
   - Widerruf
   - titulierte Forderung
+  - Krankenversicherung
+  - Vollstreckungsbescheid
+  - Titel
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
