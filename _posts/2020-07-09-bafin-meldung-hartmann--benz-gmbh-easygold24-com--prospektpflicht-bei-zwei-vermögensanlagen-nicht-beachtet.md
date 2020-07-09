@@ -1,7 +1,7 @@
 ---
 title: "BaFin Meldung: Hartmann & Benz\_GmbH („easygold24.com“) : Prospektpflicht bei zwei Vermögensanlagen nicht beachtet"
 date: 2020-07-09 00:00:00
-description: "Die Hartmann & Benz\_GmbH bietet mit Ihrer Webseite „easygold24.com“ zwei Vermögensanlagen ohne Verkaufsprospekt an. Hier wurde die Prospektpflicht nach Ansicht der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) nicht beachtet. Hier könnten sich Ansprüche für Investoren und Anleger ergeben."
+description: "Die Hartmann & Benz\_GmbH bietet mit Ihrer Webseite „easygold24.com“ nach Rechtsansicht der BaFin zwei Vermögensanlagen ohne einen dafür notwendigen Verkaufsprospekt an. Hier wurde die Prospektpflicht nach Ansicht der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) für zwei Vermögensanlagen nicht beachtet. Hier könnten sich Ansprüche für Investoren und Anleger ergeben."
 layout: post
 style_id: post
 image: /uploads/gold-bars-2467833-1920-1.jpg
@@ -18,7 +18,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die Hartmann & Benz GmbH bietet in Deutschland für interessierte Anleger und Investoren Goldanlagen in Form von Verträgen an, die sog. „Goldkonten“ laufzeitbezogen mit Optionen wie „Bonus Gold“ beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+Die Hartmann & Benz GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „easygold24.com“ Goldanlagen in Form von Verträgen an, die sog. „Goldkonten“ laufzeitbezogen mit Optionen wie „Bonus Gold“ beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
 
