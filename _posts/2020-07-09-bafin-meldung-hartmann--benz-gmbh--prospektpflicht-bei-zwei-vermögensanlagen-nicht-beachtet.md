@@ -4,7 +4,7 @@ date: 2020-07-09 00:00:00
 description: "Die Hartmann & Benz\_GmbH bietet zwei Vermögensanlagen ohne Verkaufsprospekt an. Hier wurde die Prospektpflicht nach Ansicht der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) nicht beachtet. Hier könnten sich Ansprüche für Investoren und Anleger ergeben."
 layout: post
 style_id: post
-image: /uploads/advoadvice-01-45-von-80.jpg
+image: /uploads/gold-bars-2467833-1920-1.jpg
 tags:
   - Herrman&Benz GmbH
   - Goldanlage
@@ -18,7 +18,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die Hartmann & Benz GmbH bietet in Deutschland Für interessierte Anleger und Investoren Goldanlagen in Form von Verträgen an, die sog. „Goldkonten“ laufzeitbezogen mit Optionen wie „Bonus Gold“ beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland formale Voraussetzungen.
+Die Hartmann & Benz GmbH bietet in Deutschland für interessierte Anleger und Investoren Goldanlagen in Form von Verträgen an, die sog. „Goldkonten“ laufzeitbezogen mit Optionen wie „Bonus Gold“ beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
 
