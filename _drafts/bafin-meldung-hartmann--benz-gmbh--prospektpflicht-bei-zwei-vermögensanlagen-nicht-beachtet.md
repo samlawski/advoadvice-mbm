@@ -32,7 +32,9 @@ In Deutschland dürfen Vermögensanlagen im Grundsatz nicht ohne die Veröffentl
 
 #### Folgen der BaFin Meldung für Anleger
 
-<br>&nbsp;
+#### &nbsp;
+
+Im Vertrauen auf rechtssicher angebotene Gold-Anlageprodukte dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Soe wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Anlage in Edelmetallen und insbesondere Gold üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann.
 
 Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
 
