@@ -8,7 +8,7 @@ description: >-
   Görlitz verurteilt CT Insfrastructure Holding Ltd. zur Zahlung.
 layout: post
 style_id: post
-image:
+image: /uploads/justice-2060093-1280.jpg
 tags:
   - Erfolg
   - ThomasLloyd Investments GmbH
