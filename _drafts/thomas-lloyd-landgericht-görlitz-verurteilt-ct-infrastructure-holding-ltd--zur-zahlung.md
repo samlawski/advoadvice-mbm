@@ -29,10 +29,24 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Erneuter Erfolg für einen Anleger der Thomas Lloyd Investments GmbH (nunmehr CT Infrastructure Holding Ltd.). Das Landgericht Görlitz verurteilte die Anlagegesellschaft zur Zahlung nach Kündigung zum 31.12.2017 in Höhe von ... Euro.&nbsp;
+Erneuter Erfolg für einen Anleger der Thomas Lloyd Investments GmbH (nunmehr CT Infrastructure Holding Ltd.). Das Landgericht Görlitz verurteilte die Anlagegesellschaft zur Zahlung nach Kündigung zum 31.12.2017 in Höhe von … Euro.&nbsp;
 
-## Die Entscheidung
+## Erfolg vor dem Landgericht Görlitz
 
 Das Landgericht Görlitz sah sich für international zuständig an, wie dies mittlerweile die meisten Amts- und Landgerichte tun.&nbsp;
 
-Zudem verurteilte das Landgericht Görlitz die Anlagegesellschaft zur Zahlung der gekündigten Genussrechtsbeteiligung.
+Zudem verurteilte das Landgericht Görlitz die Anlagegesellschaft aufgrund der gekündigten Genussrechtsbeteiligungen zur Zahlung an den Anleger.
+
+Begründet wurde dies damit, dass dem Anleger ...
+
+Die Entscheidung ist noch nicht rechtskräftig und kann von der Anlagegesellschaft mit dem Rechtsmittel der Berufung angegriffen werden. Diese wäre hier vor dem Oberlandesgericht Dresden zu verhandeln.&nbsp;
+
+## Dritter Erfolg für Anlegergemeinschaft
+
+Für die Anlegergemeinschaft Thomas Lloyd war dies bereits der dritte Erfolg vor einem Landgericht. Der Entscheidung des Landgerichts Görlitz gingen bereits zwei Erfolge vor dem Landgericht Frankenthal und dem Landgericht Stendal voraus.&nbsp;
+
+Dr. Sven Tintemann, Rechtsanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice kommentiert dies wie folgt: "Es freut uns, dass die Gerichte mittlerweile mehrfach unserer Argumentation in den Zahlungsklagen der hier vertretenen Anleger gefolgt sind. Dies zeigt, dass wir hiermit wohl die richtige Strategie verfolgt haben. Andere Kanzlei scheinen hier nicht so viel Erfolg vor den Gerichten zu haben."
+
+Weitere positive Entscheidungen werden bei den Landgerichten Frankenthal und Görlitz erwartet. Wir werden weiter über die Verfahren gegen die CT Infrastructure Holding Ltd. berichten.&nbsp;
+
+&nbsp;
