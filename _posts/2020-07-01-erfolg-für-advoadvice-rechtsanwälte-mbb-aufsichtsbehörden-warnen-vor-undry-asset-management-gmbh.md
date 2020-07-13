@@ -6,7 +6,7 @@ date: 2020-07-01 00:00:00
 description: >-
   Nachdem AdvoAdvice Rechtsanwälte mbB bereits seit längerem berichtet haben,
   sind nun auch die Aufsichtsbehörden aufgewacht und warnen vor UNDRY Asset
-  Management
+  Management.
 layout: post
 style_id: post
 image: /uploads/advoadvice-01-74-von-80.jpg
@@ -33,7 +33,7 @@ author: kim-oliver-klevenhagen
 
 Zahlreiche Anleger, die sich an die Kanzlei AdvoAdvice gewandt haben, berichten übereinstimmend, dass im Mai/Juni 2020 dann der Kontakt abbrach und versprochene Auszahlungen nicht erfolgten. Ermittlungen bei dem zuständigen Landeskriminalamt in Oberösterreich laufen, nachdem zwischenzeitlich viele Strafanzeigen Geschädigter gestellt wurden. Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen macht im Auftrag seiner Mandanten die zivilrechtlichen Ansprüche nicht nur gegen die Straftäter, sondern auch gegen die Banken geltend, die für die UNDRY Asset Management GmbH Konten zur Verfügung gestellt und somit das System der UNDRY erst ermöglicht haben.
 
-#### Warnung der FMA in Österreich
+## Warnung der FMA in Österreich
 
 Nun endlich ist auch die österreichische Finanzmarktaufsicht (FMA) dazu übergegangen, vor der Geschäftstätigkeit der UNDRY Asset Management GmbH in Österreich im Rahmen einer Investorenwarnung zu informieren und mitzuteilen, dass diese Tätigkeit in Österrich gar nicht erlaubt war. Ob dies noch rechtzeitig geschah, um weitere Anlegern von der Investition abzuhalten, ist fraglich.
 
@@ -43,7 +43,7 @@ Nun endlich ist auch die österreichische Finanzmarktaufsicht (FMA) dazu überge
 
 # Undry Asset Management GmbH
 
-Veröffentlichungsdatum:1. Juli 2020 \|&nbsp;Kategorien:
+Veröffentlichungsdatum:1. Juli 2020 \| Kategorien:
 
 * [Investorenwarnung](https://www.fma.gv.at/category/news/investorenwarnung/)
 
@@ -63,7 +63,7 @@ E-Mail: service@undry.at;
 
 nicht berechtigt ist, konzessionspflichtige Wertpapierdienstleistungen in Österreich zu erbringen. Es ist dem Anbieter daher die gewerbliche Annahme und Übermittlung von Aufträgen in Bezug auf Finanzinstrumente (&sect; 3 Abs. 2 Z 3 WAG 2018) nicht gestattet.
 
-#### Wir vertreten Ihre Interessen
+## Wir vertreten Ihre Interessen
 
 „Das Anleger nun Vertrauen verloren haben und Ihr Geld sichern wollen ist in der derzeitigen Situation mehr als verständlich. Hier wird es aber darauf ankommen, bezogen auf den Einzelfall sinnvoll und vertraulich vorzugehen. Finanzdienstleistungen und digitales Investment sind in unserer global vernetzten Welt mittlerweile Alltag. Eine rechtssichere und durchsetzungsstarke internationale Kapitalrückführung kann mit anwaltlicher Hilfe gelingen, wenn ausgetretene Pfade verlassen werden. Wir erarbeiten hier gemeinsam mit unseren Mandanten und unseren Partnern individuelle Lösungen.”, sagt Rechtsanwalt Klevenhagen, der mit seinem Team in diesem Bereich seit vielen Jahren tätig ist.
 
