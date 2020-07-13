@@ -37,7 +37,7 @@ Das Landgericht Görlitz sah sich für international zuständig an, wie dies mit
 
 Zudem verurteilte das Landgericht Görlitz die Anlagegesellschaft aufgrund der gekündigten Genussrechtsbeteiligungen zur Zahlung an den Anleger.
 
-Begründet wurde dies damit, dass dem Anleger ...
+Begründet wurde dies damit, dass dem Anleger …
 
 Die Entscheidung ist noch nicht rechtskräftig und kann von der Anlagegesellschaft mit dem Rechtsmittel der Berufung angegriffen werden. Diese wäre hier vor dem Oberlandesgericht Dresden zu verhandeln.&nbsp;
 
@@ -47,6 +47,8 @@ Für die Anlegergemeinschaft Thomas Lloyd war dies bereits der dritte Erfolg vor
 
 Dr. Sven Tintemann, Rechtsanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice kommentiert dies wie folgt: "Es freut uns, dass die Gerichte mittlerweile mehrfach unserer Argumentation in den Zahlungsklagen der hier vertretenen Anleger gefolgt sind. Dies zeigt, dass wir hiermit wohl die richtige Strategie verfolgt haben. Andere Kanzlei scheinen hier nicht so viel Erfolg vor den Gerichten zu haben."
 
-Weitere positive Entscheidungen werden bei den Landgerichten Frankenthal und Görlitz erwartet. Wir werden weiter über die Verfahren gegen die CT Infrastructure Holding Ltd. berichten.&nbsp;
+Eine weitere positive Entscheidungen erging einen Tag später beim&nbsp; Landgericht Frankenthal. Auf eine Entscheidung des LG Rostock wird ebenfalls noch gewartet.
+
+Über die mehr als 50 laufenden Verfahren gegen die CT Infrastructure Holding Ltd. wird die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin weiter&nbsp; berichten.&nbsp;
 
 &nbsp;
