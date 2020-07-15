@@ -2,8 +2,8 @@
 title: DKB AG widerruft Negativeintrag bei Schufa Holding AG
 date: 2020-07-15 00:00:00
 description: >-
-  Schufa Holding AG löscht einen negativen Eintrag nach Intervention durch
-  AdvoAdvice.
+  Schufa Holding AG löscht einen negativen Eintrag der DKB AG nach Intervention
+  durch AdvoAdvice.
 layout: post
 style_id: post
 image: /uploads/conference-room-768441-640.jpg
