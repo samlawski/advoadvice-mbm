@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: Landgericht Görlitz verurteilt CT Infrastructure Holding Ltd.
   zur Zahlung
-date: 2020-07-16 00:00:00
+date: 2020-07-15 00:00:00
 description: >-
   Weiterer Erfolg für AdvoAdvice Anlegergemeinschaft in Sachen Thomas Lloyd - LG
   Görlitz verurteilt CT Insfrastructure Holding Ltd. zur Zahlung.
