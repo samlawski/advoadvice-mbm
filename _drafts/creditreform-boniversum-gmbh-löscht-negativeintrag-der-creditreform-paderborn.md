@@ -1,7 +1,9 @@
 ---
 title: Creditreform Boniversum GmbH löscht Negativeintrag der Creditreform Paderborn
 date: 2020-07-23 00:00:00
-description:
+description: >-
+  Creditreform Boniversum GmbH löscht Eintrag der Creditreform Paderborn nach
+  Einschreiten der Kanzlei AdvoAdvice.
 layout: post
 style_id: post
 image: /uploads/dsgvo-3446011-1920-10.jpg
