@@ -9,7 +9,7 @@ description: >-
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
 header_image: /uploads/theme-lettland1.jpg
 erfolge:
-  - zahl: 7000+
+  - zahl: 9350+
     text: Klicks auf unser Angebot für Lettland
   - zahl: '16'
     text: Mandate seit Mai 2019
