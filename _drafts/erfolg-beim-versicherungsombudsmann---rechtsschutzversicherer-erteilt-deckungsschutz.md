@@ -1,9 +1,9 @@
 ---
 title: >-
-  Erfolg beim Versicherungsombudsmann - Rechtsschutzversicherer erteilt
+  Erfolge beim Versicherungsombudsmann - Rechtsschutzversicherer erteilt
   Deckungsschutz
 date:
-description: Az. 1056/20
+description: Az. 1056/20 + 1168/20
 layout: post
 style_id: post
 image:
