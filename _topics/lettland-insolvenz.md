@@ -11,9 +11,9 @@ header_image: /uploads/theme-lettland1.jpg
 erfolge:
   - zahl: 7000+
     text: Klicks auf unser Angebot für Lettland
-  - zahl: '10'
+  - zahl: '16'
     text: Mandate seit Mai 2019
-  - zahl: '3'
+  - zahl: '4'
     text: Insolvenzeröffnungen seit Mai 2019
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
