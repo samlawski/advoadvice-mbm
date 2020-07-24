@@ -32,6 +32,8 @@ author: dr-sven-tintemann
 
 Langsam wird es spannend. Was passiert nach dem 30.09.2020 mit dem Wiedereinsetzen der Insolvenzantragspflicht in Deutschland?
 
+## Handelsblatt rechnet mit grö&szlig;ter Pleite-Welle seit Kriegsende
+
 Schlagzeilen über Pleiten von Promi-Lokalen als Folge der Corona Pandemie machen die Runde. Experten rechnen mit einer Pleite-Welle im Mittelstand. Das Handelsblatt orakelt, im Herbst drohe die grö&szlig;te Pleite-Welle seit Kriegsende. Was passiert, wenn die Insolvenzantragspflicht wieder einsetzt und die Sonderregeln, die hierzu in Zeiten der Corona Pandemie eingeführt wurden, nun auslaufen?
 
 Wir bieten Interessierten an unserem 14. Informationstag zur Lettland Insolvenz, welcher am 13.08.2020 in Berlin stattfindet, die Möglichkeit, sich noch vor einer drohenden Insolvenzantragswelle über die Möglichkeiten eines Insolvenzverfahrens mit Restschuldbefreiung in Lettland (Riga) zu informieren.&nbsp;
