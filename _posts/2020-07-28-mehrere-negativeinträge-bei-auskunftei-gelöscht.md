@@ -1,6 +1,6 @@
 ---
 title: Mehrere Negativeinträge bei Auskunftei gelöscht
-date: 2020-07-20 00:00:00
+date: 2020-07-28 00:00:00
 description: Drei negative Einträge aus Datenbestand einer Auskunftei gelöscht.
 layout: post
 style_id: post
