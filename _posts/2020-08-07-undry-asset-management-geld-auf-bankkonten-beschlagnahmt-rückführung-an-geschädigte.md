@@ -34,11 +34,11 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die UNDRY Asset Management GmbH, angeblich geschäftsansässig in Linz, Österreich, brachte viele Anleger unter dem Vorspiegeln einer angeblichen Fondsbeteiligung bzw. Übertragungen von Aktien dazu, erhebliche Geldbeträge auf österreichische Bankkonten zu überweisen. So überwiesen Anleger beispielsweise auf Konten der Volksbank Oberösterreich AG, der Ersten Bank der österreichischen Sparkassen AG oder der BAWAG P.S.K. AG.
+Die "UNDRY Asset Management GmbH", angeblich aber tatsächlich nicht geschäftsansässig in Linz, Österreich, brachte viele Anleger unter dem Vorspiegeln einer angeblichen Fondsbeteiligung bzw. Übertragungen von Aktien dazu, erhebliche Geldbeträge auf österreichische Bankkonten zu überweisen. So überwiesen Anleger beispielsweise auf Konten der Volksbank Oberösterreich AG, der Ersten Bank der österreichischen Sparkassen AG oder der BAWAG P.S.K. AG.
 
 Nachdem versprochene Auszahlungen an die Anleger nicht erfolgten und der Kontakt zu UNDRY Asset Management GmbH nicht mehr möglich war, wandten sich zahlreiche Anleger an die Berliner Kanzlei AdvoAdvice Rechtsanwälte um ihre Ansprüche auf Rückforderung und Schadenersatz geltend zu machen. AdvoAdvice Rechtsanwälte [berichteten darüber](https://advoadvice.de/blog/undry-asset-management-gmbh-aus-linz-anleger-melden-sich/).
 
-Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen macht im Auftrag seiner Mandanten die zivilrechtlichen Ansprüche nicht nur gegen die Straftäter, sondern auch gegen die Banken gelten, die für die UNDRY Asset Management GmbH Konten zur Verfügung gestellt und somit das System der Straftäter erst ermöglicht haben.
+Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen macht im Auftrag seiner Mandanten die zivilrechtlichen Ansprüche nicht nur gegen die Straftäter, sondern auch gegen die Banken geltend, die für die UNDRY Asset Management GmbH Konten zur Verfügung gestellt und somit das System der Straftäter erst ermöglicht haben.
 
 #### Aufsichtsbehörden warnten erst spät
 
@@ -54,6 +54,6 @@ So haben von AdvoAdvice Rechtsanwälten aus Berlin vertretene Anleger kürzlich 
 
 Diese Umstände sorgen dafür, dass neben der Verfolgung der Straftäter auch eine Rückführung von bereits verloren geglaubten Anlegergeldern möglich erscheint.
 
-„Man kann es tatsächlich als "Glück im Unglück" bezeichnen, dass sich das bisher von uns recherchierte und durch die Strafverfolgungsbehörden ermittelte Tatgeschehen in Österreich und Deutschland ereignet hat. Zu fragen bleibt allerdings, inwieweit die kontoführenden Banken ihren Warn- und Hinweispflichten und den notwendigen Plausibilitätsprüfungen rechtzeitig und umfassend nachgekommen sind. Zwar konnten bereits Anlegergelder gesichert und durch Bemühungen der Banken zurückgeholt werden. Allerdings muss es das Ziel sein, eine umfassende Schadenskompensation für unsere Mandanten zu erreichen. Hier sind wir derzeit auf vielen Ebenen tätig." sagt Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, der mit seinem Team bei AdvoAdvice diesen Komplex federführend bearbeitet.
+„Man kann es tatsächlich als "Glück im Unglück" bezeichnen, dass sich das bisher von uns recherchierte und durch die Strafverfolgungsbehörden ermittelte Tatgeschehen wohl in Österreich und Deutschland ereignet hat. Zu fragen bleibt allerdings, inwieweit die kontoführenden Banken ihren Warn- und Hinweispflichten und den notwendigen Plausibilitätsprüfungen rechtzeitig und umfassend nachgekommen sind. Zwar konnten bereits Anlegergelder gesichert und durch Bemühungen der Banken zurückgeholt werden. Allerdings muss es das Ziel sein, eine umfassende Schadenskompensation für unsere Mandanten zu erreichen. Hier sind wir derzeit auf vielen Ebenen tätig." sagt Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, der mit seinem Team bei AdvoAdvice diesen Komplex federführend bearbeitet.
 
 &nbsp;
