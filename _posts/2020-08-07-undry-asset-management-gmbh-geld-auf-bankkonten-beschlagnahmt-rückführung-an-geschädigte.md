@@ -1,5 +1,5 @@
 ---
-title: "UNDRY\_Asset Management-Geld\_auf Bankkonten beschlagnahmt-Rückführung an Geschädigte"
+title: "\"UNDRY\_Asset Management GmbH\"-Geld\_auf Bankkonten beschlagnahmt-Rückführung an Geschädigte"
 date: 2020-08-07 00:00:00
 description: >-
   Für Betroffene Anleger der UNDRY Asset Management GmbH gibt es hoffnungsvolle
