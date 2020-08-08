@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Verzögerte Ausschüttungen für Juni und Juli angekündigt'
-date:
+date: 2020-08-12 00:00:00
 description: >-
   Thomas Lloyd: Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG
   verzögert die Ausschüttungen!
