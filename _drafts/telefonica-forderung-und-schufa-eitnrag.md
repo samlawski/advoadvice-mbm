@@ -1,7 +1,9 @@
 ---
 title: Telefonica Forderung und Schufa-Eitnrag
-date: 2020-08-12 00:00:00
-description:
+date: 2020-08-14 00:00:00
+description: >-
+  GFKL Collections GmbH widerruft Negativeintrag der Telefonica Germany GmbH &
+  Co KG bei der Schufa Holding AG
 layout: post
 style_id: post
 image: /uploads/post-letter-2828146-1280.jpg
@@ -22,7 +24,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Die Gefahr von Schufa-Einträgen besteht in vielen Lebensbereichen. Ein solcher Eintrag kann aus ganz unterschiedlichen Gründen entstehen und dabei scheinbar berechtigt sein. Mit einer solch verzwickten Lage wandte sich im Juni ein Politiker aus Bremen an die Kanzlei AdvoAdvice. Dieser stellte zuvor fest, dass die GFKL Collections GmbH für Telefonica Germany GmbH & Co. OHG einen negativen Eintrag über 352,00 Euro veranlasst hat.&nbsp;
+Die Gefahr von Schufa-Einträgen besteht in vielen Lebensbereichen. Ein solcher Eintrag kann aus ganz unterschiedlichen Gründen entstehen und dabei scheinbar berechtigt sein. Mit einer solch verzwickten Lage wandte sich im Juni ein junger Politiker aus Bremen an die Kanzlei AdvoAdvice. Dieser stellte zuvor fest, dass die GFKL Collections GmbH für Telefonica Germany GmbH & Co. OHG einen negativen Eintrag über 352,00 Euro ihn betreffend veranlasst hat.&nbsp;
 
 ## Adressänderungen und Mahnungen
 
@@ -38,9 +40,9 @@ In dieser Konstellation stellt sich die gleiche Schwierigkeit, wie bei der zuers
 
 ## Zwei Varianten, gleiches Ergebnis
 
-Im Fall des Bremer Politikers ist letztlich nicht aufzuklären gewesen, ob dieser schlicht vergessen hatte, die Adressänderung mitzuteilen (so die Ansicht der verantwortlichen Stelle), oder ob sich jemand der alten Adresse des Betroffenen bedient hat, um einen Vertrag in seinem Namen abzuschlie&szlig;en (so die Ansicht des Betroffenen). Dieser kannte den Vertrag jedenfalls nicht, weshalb er von dem Vorgang auch so überrascht wurde.
+Im Fall des Bremer Politikers ist letztlich nicht aufzuklären gewesen, ob dieser schlicht vergessen hatte, die Adressänderung mitzuteilen (so die Ansicht der verantwortlichen Stelle), oder ob sich jemand sich der alten Adresse des Betroffenen bedient hat, um einen Vertrag in seinem Namen abzuschlie&szlig;en (so die Ansicht des Betroffenen). Dieser kannte den Vertrag jedenfalls nicht, weshalb er von dem Vorgang auch so überrascht wurde.
 
-In beiden Fällen erhielt der Betroffene im Ergebnis jedoch keine Mahnungen. Die Rechtsprechung erkennt an, dass der Betroffene mit Blick auf &sect; 31 Abs. 2 Nr. 4 und 5 Bundesdatenschutzgesetz die entsprechenden Mahnschreiben erhalten haben muss, damit eine Meldung an den Schufa-Datenbestand ordnungsgemä&szlig; ist. Beweisbelastet dafür ist regelmä&szlig;ig die verantwortliche Stelle, in hiesigem Falle also die GFKL Collections GmbH bzw. die Telefonica Germany GmbH & Co. OHG. Da diese den Zugang der Mahnungen beim Betroffenen nicht beweisen konnte, widerrief diese den Negativeintrag, woraufhin die Schufa Holding AG diesen glücklicherweise umgehend löschte.
+In beiden Fällen erhielt der Betroffene im Ergebnis jedenfalls keine Mahnungen. Die Rechtsprechung erkennt an, dass der Betroffene mit Blick auf &sect; 31 Abs. 2 Nr. 4 Bundesdatenschutzgesetz die entsprechenden Mahnschreiben erhalten haben muss, damit eine Meldung an den Schufa-Datenbestand ordnungsgemä&szlig; ist. Beweisbelastet dafür ist regelmä&szlig;ig die verantwortliche Stelle, in hiesigem Falle also die GFKL Collections GmbH bzw. die Telefonica Germany GmbH & Co. OHG. Da diese den Zugang der Mahnungen beim Betroffenen nicht beweisen konnte, widerrief diese den Negativeintrag, woraufhin die Schufa Holding AG diesen umgehend löschte.
 
 &nbsp;
 
