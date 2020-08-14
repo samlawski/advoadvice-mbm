@@ -1,5 +1,5 @@
 ---
-title: Telefonica Forderung und Schufa-Eitnrag
+title: Telefonica Forderung und Schufa-Eintrag
 date: 2020-08-14 00:00:00
 description: >-
   GFKL Collections GmbH widerruft Negativeintrag der Telefonica Germany GmbH &
