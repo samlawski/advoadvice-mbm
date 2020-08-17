@@ -37,16 +37,16 @@ Es soll sich hierbei um einen Zukauf von drei bereits in Betrieb befindlichen So
 
 Im Jahr 2015 hatte die Thomas Lloyd Gruppe nach eigenen Angaben allerdings drei Solarkraftwerke auf den Philippinen verkauft. Konkret wurde im Juni 2015 das Solarkraftwerk (45 MW) in San Carlos City auf der Insel Negros Occidental veräu&szlig;ert. In einer zweiten Transaktion wurden zudem die Rechte des im Bau befindlichen Solarkraftwerk in La Carlota (32 MW) und das Solarkraftwerk in Manapla (48 MW), ebenfalls auf Negros Occidential an die Philippine Investment Alliance for Infrastructure (PINAI) veräu&szlig;ert.
 
-Diese damals noch in Bau befindlichen Solaranlagen, die März 2016 in Betrieb genommen worden sind, wurden nun wieder zugekauft.
+Wurde diese damals noch in Bau befindlichen Solaranlagen, die März 2016 in Betrieb genommen worden sind, wurden nun wieder zugekauft? Darüber kann weiterhin gerästelt werden. Ebenso darüber, wieso die Gesellschaft erst Anlagen verkauft und nun wieder zurückkauft und ggf. zu welchem Preis.&nbsp;
 
-Die Dritte Cleantech verspricht, dass man eine ausführliche Darstellung der positiven wirtschaftlichen Auswirkungen auf das Gesamtbeteiligungsportfolio dem in Kürze erscheinenden Portfolioreport Q2 2020 entnehmen könne. Dieser wird im Laufe des Monats August turnusmä&szlig;ig veröffentlicht.
+Die Dritte Cleantech verspricht, dass man eine ausführliche Darstellung der positiven wirtschaftlichen Auswirkungen auf das Gesamtbeteiligungsportfolio dem in Kürze erscheinenden Portfolioreport Q2 2020 entnehmen könne. Dieser wird wohl im Laufe des Monats August turnusmä&szlig;ig veröffentlicht.
 
-Die Auszahlungen für die Monate Juni, Juli und August sollen Ende September plangemä&szlig; erfolgen. Dieses sei aufgrund des &sect; 30 Absatz 3 des Gesellschaftsvertrages möglich. Nach diesen sei die Geschäftsführung nach pflichtgemä&szlig;en Ermessen berechtigt aber nicht verpflichtet, auf den von voraussichtlichen Entnahme- und Ausschüttungsanspruch monatliche Vorabzahlungen vorzunehmen.
+Die bisher regelmä&szlig;ig erfolgten Auszahlungen an die Anleger würden allerdings zunächst einmal für die Monate Juni, Juli ausgesetzt und sollen erst im September mit der Ausschüttung für August erfolgen. Dieses sei aufgrund des &sect; 30 Absatz 3 des Gesellschaftsvertrages möglich, teilt die Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG in ihrem Schreiben vom 30.06.2020 mit. Nach dieser Regelung sei die Geschäftsführung nach pflichtgemä&szlig;en Ermessen berechtigt, aber nicht verpflichtet, auf den voraussichtlichen Entnahme- und Ausschüttungsanspruch monatliche Vorabzahlungen vorzunehmen.
 
-Es bleibt hier also abzuwarten, ob wirklich weitere Ausschüttungen erfolgen.
+Es bleibt hier also abzuwarten, ob und wann weitere Ausschüttungen an die Anleger erfolgen werden und wann der Portfolioreport Q2 2020 Klarheit über die vorgenommenen Investitionen gibt.&nbsp;
 
 ## **Unsere Empfehlung**
 
 Anleger, die eine Kapitalanlage der Thomas Lloyd Gruppe abgeschlossen haben und sich nun über deren Funktionsweise oder die seinerzeit erfolgte Beratungsleistung informieren wollen, sollten sich hierzu an einen Experten bzw. Fachanwalt im Bereich des Bank- und Kapitalmarktrechts wenden.
 
-Die Kanzlei AdvoAdvice ist auf die Vertretung von Anlegerinteressen interessiert und hat bereits für Anleger der Thomas Lloyd Investments in Wien und der DKM Global Opportunities Fonds 01 GmbH eine Anlegergemeinschaft ins Leben gerufen, um Interessen der Anleger zu bündeln und gegenseitige Informationen auszutauschen. Wenden Sie sich bei Interesse an info@advoadvice.de oder rufen Sie unter 030 921 000 40 an, um weitere Unterlagen zu erhalten oder einen Beratungstermin zu vereinbaren.&nbsp;
+Die Kanzlei AdvoAdvice ist auf die Vertretung von Anlegerinteressen spezialisiert und hat bereits für Anleger der Thomas Lloyd Investments in Wien und der DKM Global Opportunities Fonds 01 GmbH eine Anlegergemeinschaft ins Leben gerufen, um Interessen der Anleger zu bündeln und gegenseitige Informationen auszutauschen. Wenden Sie sich bei Interesse an info@advoadvice.de oder rufen Sie unter 030 921 000 40 an, um weitere Unterlagen zu erhalten oder einen Beratungstermin zu vereinbaren.&nbsp;
