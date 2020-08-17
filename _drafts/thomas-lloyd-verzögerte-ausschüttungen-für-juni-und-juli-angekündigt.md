@@ -43,7 +43,7 @@ Die Dritte Cleantech verspricht, dass man eine ausführliche Darstellung der pos
 
 Die bisher regelmä&szlig;ig erfolgten Auszahlungen an die Anleger würden allerdings zunächst einmal für die Monate Juni, Juli ausgesetzt und sollen erst im September mit der Ausschüttung für August erfolgen. Dieses sei aufgrund des &sect; 30 Absatz 3 des Gesellschaftsvertrages möglich, teilt die Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG in ihrem Schreiben vom 30.06.2020 mit. Nach dieser Regelung sei die Geschäftsführung nach pflichtgemä&szlig;en Ermessen berechtigt, aber nicht verpflichtet, auf den voraussichtlichen Entnahme- und Ausschüttungsanspruch monatliche Vorabzahlungen vorzunehmen.
 
-Es bleibt hier also abzuwarten, ob und wann weitere Ausschüttungen an die Anleger erfolgen werden und wann der Portfolioreport Q2 2020 Klarheit über die vorgenommenen Investitionen gibt.&nbsp;
+Es bleibt hier also abzuwarten, ob und wann weitere Ausschüttungen an die Anleger erfolgen werden und ob der Portfolioreport Q2 2020 Klarheit über die vorgenommenen Investitionen gibt. Der liegt AdvoAdvice bisher nicht vor.&nbsp;
 
 ## **Unsere Empfehlung**
 
