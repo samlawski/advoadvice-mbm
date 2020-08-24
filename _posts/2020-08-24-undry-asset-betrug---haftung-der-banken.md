@@ -1,10 +1,10 @@
 ---
-title: UNDRY Asset Betrug - Haftung der Banken?
+title: UNDRY Asset Betrug - Haftung der Banken
 date: 2020-08-24 00:00:00
 description: >-
-  Die "Spur des Geldes" verläuft nach Deutschland. Es wurde auf österreichische
-  Konten überwiesen. Was haben die beteiligten Banken zur Geldwäscheprävention
-  beigetragen?
+  Die "Spur des Geldes" verläuft nach Deutschland. Die geschädigten Anleger
+  haben auf österreichische Konten überwiesen. Was haben die beteiligten Banken
+  zur Geldwäscheprävention beigetragen?
 layout: post
 style_id: post
 image: /uploads/bank-2907728-640-1.jpg
