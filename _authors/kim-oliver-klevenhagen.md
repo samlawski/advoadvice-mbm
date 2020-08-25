@@ -16,7 +16,9 @@ themes:
   - titel: Immobilienrecht
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
-  - titel: Privates Baurecht
+  - titel: Kapitalmarktrecht
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
+  - titel: Anwalts- und Notarhaftung
     link:
   - titel: Steuersparmodelle
     link: >-
@@ -24,9 +26,9 @@ themes:
   - titel: Darlehenswiderruf
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
-  - titel: Anwalts- und Notarhaftung
+  - titel: Privates Baurecht
     link:
-  - titel: Kapitalmarktrecht
+  - titel: Anlagebetrug
     link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
 reihenfolge: 2
 ---
