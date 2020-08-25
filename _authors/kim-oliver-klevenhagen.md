@@ -3,7 +3,7 @@ _array_structures:
   themes:
     values:
       - label: Themen
-        description: Themen, die auf der Hauptseite verlinkt sind.
+        description: 'Themen, die auf der Hauptseite verlinkt sind.'
         icon: list
         value:
           titel:
@@ -26,5 +26,7 @@ themes:
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Anwalts- und Notarhaftung
     link:
+  - titel: Kapitalmarktrecht
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
 reihenfolge: 2
 ---
