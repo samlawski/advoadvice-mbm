@@ -9,8 +9,8 @@ description: >-
 header_titel: Beratung zu Immobilien und Eigentum
 header_image: /uploads/theme-immobilien1.jpg
 erfolge:
-  - zahl:
-    text:
+  - zahl: 500+
+    text: Geführte Verfahren vor Gerichten in ganz Deutschland
 intro_titel:
 intro_text_markdown: >-
   Unser Gründungspartner Rechtsanwalt Klevenhagen leitet das Dezernat für dieses
