@@ -46,7 +46,7 @@ Nicht mehr verboten wurden allerdings folgende Aussagen, die die Kanzlei auf ihr
 
 ## **Verfahren von Jameda wegen Markennennung auf Dein-Ruf.de**
 
-In eine andere Richtung entschied die 1. Kammer für Handelssachen des Landgerichts München I über einen Antrag auf Erlass einer einstweiligen Verfügung, den die Jameda GmbH gegen Rechtsanwalt Imanuel Schulz beantragt hatte. Auf seiner Internetseite [www.dein-ruf.de](http://www.dein-ruf.de) hatte dieser das Logo von Jameda und auch das Wort Jameda verwendet. Dieses wollte die Jameda GmbH, Inhaberin des entsprechenden Ärztebewertungsportals, dem Rechtsanwalt als unzulässige markenmä&szlig;ige Nutzung verbieten lassen.
+In eine andere Richtung entschied die 1. Kammer für Handelssachen des Landgerichts München I über einen Antrag auf Erlass einer einstweiligen Verfügung, den die Jameda GmbH gegen [Rechtsanwalt Imanuel Schulz](https://www.rechtsanwalt-imanuel-schulz.de/) beantragt hatte. Auf seiner Internetseite [www.dein-ruf.de](https://www.dein-ruf.de) hatte dieser das Logo von Jameda und auch das Wort Jameda verwendet. Dieses wollte die Jameda GmbH, Inhaberin des entsprechenden Ärztebewertungsportals, dem Rechtsanwalt als unzulässige markenmä&szlig;ige Nutzung verbieten lassen.
 
 Einem Antrag auf Erlass einer einstweiligen Verfügung erteilte das angerufene Landgericht München I allerdings eine sehr deutliche Absage und wies diesen mit Beschluss vom 06.08.2020 zurück.
 
