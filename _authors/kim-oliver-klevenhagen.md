@@ -18,6 +18,8 @@ themes:
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
   - titel: Kapitalmarktrecht
     link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
+  - titel: Anlagebetrug
+    link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
   - titel: Anwalts- und Notarhaftung
     link:
   - titel: Steuersparmodelle
@@ -28,7 +30,5 @@ themes:
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Privates Baurecht
     link:
-  - titel: Anlagebetrug
-    link: 'https://advoadvice.de/themen/bank-und-kapitalmarkt'
 reihenfolge: 2
 ---
