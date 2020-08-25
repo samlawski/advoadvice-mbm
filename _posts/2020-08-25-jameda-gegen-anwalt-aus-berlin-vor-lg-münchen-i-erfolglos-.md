@@ -54,7 +54,7 @@ Das Gericht macht in seiner Entscheidung deutlich, dass es bei dem Berliner Rech
 
 Auch ein Ausnutzen oder Beeinträchtigen der Unterscheidungskraft der Marke Jameda konnte das Landgericht München I nicht erkennen. Der Antragsgegner lehne sich weder im Sinne eines positiven Imagetransfers von dem Ärztebewertungsportal aus seine eigene Rechtsdienstleistung an, noch wolle er die Marke der Antragstellerin verwässern, so das Gericht weiter. Die Marke oder das Unternehmenskennzeichen des Bewertungsportals werde durch die blo&szlig;e Nennung und Abbildung nicht beeinträchtigt, da nicht das Bewertungsportal angegriffen werde, sondern nur eventuell dort hinterlegter Inhalt anderer Nutzer.
 
-## **Verfahren der Schufa Holding AG wegen Markennennung auf Advoadvice.de **
+## Verfahren der Schufa Holding AG wegen Markennennung auf Advoadvice.de
 
 Ein ähnliches Verfahren führte die Schufa Holding AG vor dem Landgericht München I gegen die Kanzlei AdvoAdvice Rechtsanwälte Tintemann Klevenhagen mbB aus Berlin. Hier hatte die Schufa Holding AG beantragt, es der Antragsgegnerin unter Anordnung eines vom Gericht festzusetzenden Ordnungsgeldes zu verbieten, im geschäftlichen Verkehr den Begriff „Schufa“ zu verwenden, wenn dies geschieht, wie es auf einer Landingpage der Antragsgegnerin erfolgt war.
 
@@ -62,7 +62,7 @@ Die 4. Kammer für Handelssachen beim Landgericht München I erlie&szlig; hier d
 
 Die Parteien des Rechtsstreits konnten sich dann im Vergleichswege zur Vermeidung weiterer Rechtstreitigkeiten auf einen Vergleich verständigen und zwar dahingehenden, dass die Kanzlei AdvoAdvice sich dazu verpflichtete, die bisherige Nutzung der Landingpage zu unterlassen. Ausgenommen hiervon wurde allerdings die Landingpage der Kanzlei AdvoAdvice in einer nunmehr überarbeiteten Version, in der die Marke der Antragstellerin weniger häufig genannt wird.
 
-## **Bewertung der Verfahren durch AdvoAdvice&nbsp; **
+## Bewertung der Verfahren durch AdvoAdvice
 
 Die vorgenannten Verfahren zeigen, dass sich gro&szlig;e und bekannte Unternehmen vor den Gerichten mit dem Mittel des Markenrechts gegen Rechtsanwälte wehren, um die Verwendung bestimmter Begriffe, die geschützte Marken darstellen, auf deren Internetseiten zu verbieten.
 
