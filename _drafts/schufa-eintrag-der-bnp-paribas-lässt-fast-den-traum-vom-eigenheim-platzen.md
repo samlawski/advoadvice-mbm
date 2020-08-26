@@ -6,7 +6,7 @@ description: >-
   der BNP Paribas durch die Schufa Holding AG.
 layout: post
 style_id: post
-image: /uploads/bank-2907728-640-3.jpg
+image: /uploads/wood-1448600-1280.jpg
 tags:
   - Schufa Recht
   - Schufa Eintrag
