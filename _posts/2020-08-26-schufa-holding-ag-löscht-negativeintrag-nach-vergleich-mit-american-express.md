@@ -1,6 +1,6 @@
 ---
 title: SCHUFA Holding AG löscht Negativeintrag nach Vergleich mit American Express
-date: 2020-08-24 00:00:00
+date: 2020-08-26 00:00:00
 description: >-
   Schufa Holding AG löscht Negativeintrag nach Vergleich vor dem Landgericht
   Siegen mit American Express.
