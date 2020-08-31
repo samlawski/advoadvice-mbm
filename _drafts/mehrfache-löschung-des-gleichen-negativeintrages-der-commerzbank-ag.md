@@ -1,9 +1,9 @@
 ---
 title: Mehrfache Löschung des gleichen Negativeintrages der Commerzbank AG
-date:
+date: 2020-08-31 00:00:00
 description: >-
   Commerzbank meldet seit 2012 mehrfach die gleiche, unberechtigte Forderung an
-  die Schufa.
+  die Schufa Holding AG.
 layout: post
 style_id: post
 image: /uploads/bank-2274072-1280.jpg
