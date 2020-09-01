@@ -37,7 +37,7 @@ Rund zwei Wochen später mussten beide Betroffene aber entsetzt feststellen, das
 
 Da sie sich keiner Schuld bewusst waren und den Negativeintrag nicht hinnehmen wollten, wandten sich die Betroffenen innerhalb von wenigen Tagen, nachdem klar war, dass dieses Problem sich nicht von alleine löst, an die Spezialisten für Negativeinträge bei der Kanzlei AdvoAdvice Rechtsanwälte mbB. Diese kontaktierten sodann umgehend die Barclays Bank Ireland PLC Hamburg Branch und konfrontierten diese mit dem Sachverhalt und übermittelte entsprechende Belege, zum Nachweis, dass die Zahlungen rechtzeitig getätigt und auch bei der Gegenseite verbucht worden waren.&nbsp;
 
-Nach einigen Tagen meldete sich die Barclays Bank Ireland PLC Hamburg Branch bei dem zuständigen Rechtsanwalt Dr. Sven Tintemann und erklärte, dass die Kündigungen zurückgenommen und die Schufa Holding AG mit der Löschung der Einträge beauftragt wurden. Zudem wurden die au&szlig;ergerichtlich entstandenen Kosten der Betroffenen übernommen.&nbsp;
+Nach einigen Tagen meldete sich die Barclays Bank Ireland PLC Hamburg Branch bei dem zuständigen Rechtsanwalt Dr. Sven Tintemann und erklärte, dass die Kündigungen zurückgenommen und die Schufa Holding AG mit der Löschung der Einträge beauftragt wurden. Zudem wurden in einem Fall die au&szlig;ergerichtlich entstandenen Kosten der Betroffenen übernommen.&nbsp;
 
 ## Rechtliche Einschätzung
 
