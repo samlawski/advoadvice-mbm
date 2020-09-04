@@ -1,11 +1,11 @@
 ---
 title: >-
-  Barclays Bank widerruft negative Einträge bei Schufa Holding AG und nimmt
-  Kündigungen zurück
-date: 2020-06-11 00:00:00
+  Barclays Bank widerruft negative Einträge von zwei Kunden bei Schufa Holding
+  AG und nimmt Kündigungen zurück
+date: 2020-09-08 00:00:00
 description: >-
-  Offenkundiger Systemfehler bei der Barclays Bank führt zu negativen
-  Schufa-Einträgen
+  Vermeintlicher Systemfehler bei der Barclays Bank führte zu falschen
+  Kontokündigungen und negativen Einträgen bei der Schufa Holding AG.
 layout: post
 style_id: post
 image: /uploads/barclays-bild-von-st-1.jpg
