@@ -1,6 +1,6 @@
 ---
 title: Kauf des Eigenheims gerettet - Negativeintrag der BNP Paribas gelöscht
-date: 2020-09-02 00:00:00
+date: 2020-09-04 00:00:00
 description: >-
   Kauf einer Immobilien in Berlin möglich nach Löschung eines Negativeintrags
   der BNP Paribas durch die Schufa Holding AG.
