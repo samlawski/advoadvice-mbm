@@ -4,8 +4,8 @@ title: >-
   AG und nimmt Kündigungen zurück
 date: 2020-09-08 00:00:00
 description: >-
-  Vermeintlicher Systemfehler bei der Barclays Bank führte zu falschen
-  Kontokündigungen und negativen Einträgen bei der Schufa Holding AG.
+  Vermeintlicher Systemfehler bei der Barclays Bank  Ireland PLC führte zu
+  falschen Kontokündigungen und negativen Einträgen bei der Schufa Holding AG.
 layout: post
 style_id: post
 image: /uploads/barclays-bild-von-st-1.jpg
