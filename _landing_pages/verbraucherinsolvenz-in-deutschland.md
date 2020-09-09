@@ -51,7 +51,7 @@ abschnitte:
       einem nach drei Jahren die Restschuldbefreiung erteilt wurde, so gilt für
       denjenigen nun eine 11-jährige Sperrfrist für ein neues Verfahren und
       dieses neue Verfahren hat dann eine Abtretungsfrist von 5 Jahren.
-    image: /uploads/bankruptcy-2774830-6401-1.jpg
+    image:
     cta: true
   - abschnitt_template: box_hell
     titel: Ablauf der Verbraucherinsolvenz
