@@ -92,7 +92,7 @@ abschnitte:
     titel: Erfahrung seit mehr als 14 Jahren
     text_markdown: >-
       Unser Experte Rechtsanwalt Dr. Sven Tintemann hat viel Erfahrung im
-      Bereich des Insolvenzrechts. Bereits seit 2006 berät er Mandanten mit
+      Bereich des Insolvenzrechts. Bereits seit 2006 berät er Mandanten bei
       Fragen zu&nbsp;
 
 
