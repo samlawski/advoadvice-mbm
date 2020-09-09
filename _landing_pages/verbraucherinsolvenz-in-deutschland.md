@@ -7,7 +7,7 @@ description: >-
   und Selbständigen die Möglichkeit innerhalb von 3 Jahren zu einer
   Restschuldbefreiung und somit zur Schuldenfreiheit zu gelangen.
 header_titel: Schnelle Restschuldbefreiung nach 3 Jahren möglich.
-header_subtitle: Neue Möglichkeiten der Insolvenzordnung nutzen.
+header_subtitle: Neue Möglichkeiten der Insolvenzordnung in Deutschland nutzen.
 header_image: /uploads/judgment-3667391-640.jpg
 header_cta_titel: Schulden loswerden. Beratung sichern.
 header_cta_text: Vereinbaren Sie jetzt ein kostenloses telefonisches Erstgespräch.
