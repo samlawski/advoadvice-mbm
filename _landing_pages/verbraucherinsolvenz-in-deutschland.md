@@ -9,7 +9,7 @@ description: >-
 header_titel: Schnelle Restschuldbefreiung nach 3 Jahren möglich.
 header_subtitle: Neue Möglichkeiten der Insolvenzordnung nutzen.
 header_image: /uploads/judgment-3667391-640.jpg
-header_cta_titel: Jetzt Schulden loswerden und qualifizierte Beratung sichern.
+header_cta_titel: Schulden loswerden. Beratung sichern.
 header_cta_text: Vereinbaren Sie jetzt ein kostenloses telefonisches Erstgespräch.
 header_portrait_image: /uploads/sven-portrait-04.jpg
 abschnitte:
