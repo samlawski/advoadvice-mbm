@@ -88,5 +88,35 @@ abschnitte:
     text_markdown:
     image: /uploads/ablauf-inso.png
     cta: true
+  - abschnitt_template: weiss_bild_links
+    titel: Erfahrung seit mehr als 14 Jahren
+    text_markdown: >-
+      Unser Experte Rechtsanwalt Dr. Sven Tintemann hat viel Erfahrung im
+      Bereich des Insolvenzrechts. Bereits seit 2006 berät er Mandanten mit
+      Fragen zu&nbsp;
+
+
+      * Überschuldung
+
+      * Zahlungsunfähigkeit
+
+      * Verbraucherinsolvenz
+
+      * Regelinsolvenz
+
+      * Restschuldbefreiung
+
+
+      Hierbei hat er schon vielen Mandanten durch schnelles Handeln und klaren
+      Rechtsrat zu einem erfolgreichen Abschluss ihres Insolvenzverfahrens
+      verholfen und mit ihnen so die angestrebte Restschuldbefreiung
+      erreicht.&nbsp;
+
+
+      Die Kanzlei AdvoAdvice Rechtsanwälte mbB vertritt hierbei deutschlandweit
+      vor den Insolvenzgerichten. Oftmals ist eine Abwicklung der Insolvenz per
+      Telefon und Korrespondenz per Email und auf dem Postweg möglich.&nbsp;
+    image: /uploads/insolvency-96596-1280.jpg
+    cta: true
 sitemap: false
 ---
