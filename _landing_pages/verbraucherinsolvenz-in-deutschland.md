@@ -9,9 +9,9 @@ description: >-
 header_titel: Schnelle Restschuldbefreiung nach 3 Jahren.
 header_subtitle: Neue Möglichkeiten der Insolvenzordnung in Deutschland nutzen.
 header_image: /uploads/judgment-3667391-640.jpg
-header_cta_titel:
-header_cta_text:
-header_portrait_image:
+header_cta_titel: Schulden loswerden. Beratung sichern.
+header_cta_text: Vereinbaren Sie einen Termin für eine kostenfrei telefonische Erstberatung.
+header_portrait_image: /uploads/sven-portrait-04.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Verkürzung des Verbraucherinsolvenzverfahrens
