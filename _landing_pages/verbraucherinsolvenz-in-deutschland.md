@@ -33,23 +33,23 @@ abschnitte:
       des Restschuldbefreiungsverfahrens:
 
 
-      * Für alle Insolvenzanträge die ab dem 01.10.2020 eingereicht werden, wird
-      das Restschuldbefreiungsverfahren auf dreiJahre verkürzt.
+      * Für alle **Insolvenzanträge die ab dem 01.10.2020** eingereicht werden,
+      wird das **Restschuldbefreiungsverfahren auf drei Jahre verkürzt**.
 
       * Die Verkürzung ist an keine Bedingungen gebunden.
 
       * Für Insolvenzanträge die zwischen dem 17.12.2019 und&nbsp; 30.09.2020
       eingereicht wurden, verkürzt sich ebenfalls die Abtretungsfrist
       (Beispiel.: Insolvenzantrag wurde zwischen den 17.01.2020 und 16.02.2020
-      eingereicht, dann beträgt sie Abtretungsfrist fünf Jahre und sechs
-      Monate(Artikel 103 k Abs. 2 Einführungsgesetz zur Insolvenzordnung)).
+      eingereicht, dann beträgt sie Abtretungsfrist fünf Jahre und sechs Monate
+      (Artikel 103 k Abs. 2 Einführungsgesetz zur Insolvenzordnung)).
 
       * Gewinne aus einer Lotterie oder aus Gewinnspielen sind auch in der
       Wohlverhaltensphase an den Treuhänder herauszugeben.
 
       * Sofern man einen Insolvenzantrag nach dem 1.10.2020 eingereicht hat und
       einem nach drei Jahren die Restschuldbefreiung erteilt wurde, so gilt für
-      denjenigen nun eine 11-jährige Sperrfrist für ein neues Verfahren und
+      denjenigen nun eine **11-jährige Sperrfrist für ein neues Verfahren** und
       dieses neue Verfahren hat dann eine Abtretungsfrist von 5 Jahren.
     image:
     cta: true
