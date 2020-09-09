@@ -13,5 +13,75 @@ header_cta_titel: Jetzt Schulden loswerden und qualifizierte Beratung sichern.
 header_cta_text: Vereinbaren Sie jetzt ein kostenloses telefonisches Erstgespräch.
 header_portrait_image: /uploads/sven-portrait-klein.jpg
 abschnitte:
+  - abschnitt_template: weiss_bild_links
+    titel: Verkürzung des Verbraucherinsolvenzverfahrens
+    text_markdown: >-
+      Die Verbraucherinsolvenz ist in der Insolvenzordnung (InsO) geregelt.
+      Erfreulich ist, dass diese nun reformiert werden soll, so dass sich schon
+      zum 01.10.2020 das Restschuldbefreiungsverfahren von sechs Jahre auf drei
+      Jahre verkürzt. Der Gesetzesentwurf steht am 09.09.2020 auf der
+      Tagesordnung des Bundestages. Auf die Erfüllung besonderer
+      Voraussetzungen, wie zum Beispiel die Erfüllung von
+      Mindestbefriedigungsanforderungen wird zunächst verzichtet. Hier ist eine
+      erneute Änderung zum 01.07.2025 angedacht.
+    image: /uploads/no-money-2070384-1280.jpg
+    cta: true
+  - abschnitt_template: box_dunkel
+    titel: Änderungen zum 01.10.2020
+    text_markdown: >-
+      Die **wichtigsten vorgesehenen Änderungen** des Gesetzes zur Verkürzung
+      des Restschuldbefreiungsverfahrens:
+
+
+      * Für alle Insolvenzanträge die ab dem 01.10.2020 eingereicht werden, wird
+      das Restschuldbefreiungsverfahren auf dreiJahre verkürzt.
+
+      * Die Verkürzung ist an keine Bedingungen gebunden.
+
+      * Für Insolvenzanträge die zwischen dem 17.12.2019 und&nbsp; 30.09.2020
+      eingereicht wurden, verkürzt sich ebenfalls die Abtretungsfrist
+      (Beispiel.: Insolvenzantrag wurde zwischen den 17.01.2020 und 16.02.2020
+      eingereicht, dann beträgt sie Abtretungsfrist fünf Jahre und sechs
+      Monate(Artikel 103 k Abs. 2 Einführungsgesetz zur Insolvenzordnung)).
+
+      * Gewinne aus einer Lotterie oder aus Gewinnspielen sind auch in der
+      Wohlverhaltensphase an den Treuhänder herauszugeben.
+
+      * Sofern man einen Insolvenzantrag nach dem 1.10.2020 eingereicht hat und
+      einem nach drei Jahren die Restschuldbefreiung erteilt wurde, so gilt für
+      denjenigen nun eine 11-jährige Sperrfrist für ein neues Verfahren und
+      dieses neue Verfahren hat dann eine Abtretungsfrist von 5 Jahren.
+    image: /uploads/bankruptcy-2774830-6401-1.jpg
+    cta: true
+  - abschnitt_template: box_hell
+    titel: Ablauf der Verbraucherinsolvenz
+    text_markdown: >-
+      Sie befinden sich in einer Überschuldungssituation und möchten gern eine
+      Verbraucherinsolvenz durchführen, um wieder schuldenfrei zu sein, dann
+      helfen Ihnen die AdvoAdvice Rechtsanwälte gerne.
+
+
+      Vor dem Verbraucherinsolvenzverfahren muss der Schuldner versuchen, eine
+      au&szlig;ergerichtliche Einigung zum Schuldenabbau mit seinen Gläubigern
+      zu erzielen. Dieses ist Voraussetzung für das Einreichen des Antrages auf
+      Eröffnung der Verbraucherinsolvenz und die Bescheinigung können
+      Rechtsanwälte oder Schuldenberatungsstellen ausstellen.
+
+
+      Zunächst einmal ist daher zu klären, wie hoch die gesamten Forderungen der
+      Gläubiger sind und die Kanzlei AdvoAdvice Rechtsanwälte erarbeitet dann
+      mit Ihnen zusammen den au&szlig;ergerichtlichen Schuldenbereinigungsplan.
+
+
+      Sofern die Gläubiger bzw. nicht alle Gläubiger dem
+      au&szlig;ergerichtlichen Schuldenbereinigungsplan zustimmen, wird dann der
+      Antrag auf Eröffnung des Verbraucherinsolvenzverfahrens gestellt. Das
+      Gericht kann dann erneut einen gerichtlichen Schuldenbereinigungsversuch
+      starten. Sollte dieser wiederum scheitern, wird das
+      Verbraucherinsolvenzverfahren eröffnet und durch die neue Gesetzgebung zum
+      01.10.2020 erlangen Sie dann die Restschuldbefreiung bereits nach drei
+      Jahren.
+    image: /uploads/ablauf-inso.png
+    cta: true
 sitemap: false
 ---
