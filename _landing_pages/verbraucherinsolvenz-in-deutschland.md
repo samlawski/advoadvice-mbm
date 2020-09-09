@@ -8,10 +8,10 @@ description: >-
   Restschuldbefreiung und somit zur Schuldenfreiheit zu gelangen.
 header_titel: Schnelle Restschuldbefreiung nach 3 Jahren möglich.
 header_subtitle: Neue Möglichkeiten der Insolvenzordnung nutzen.
-header_image: /uploads/insolvency-593750-640-1.jpg
+header_image: /uploads/judgment-3667391-640.jpg
 header_cta_titel: Jetzt Schulden loswerden und qualifizierte Beratung sichern.
 header_cta_text: Vereinbaren Sie jetzt ein kostenloses telefonisches Erstgespräch.
-header_portrait_image: /uploads/sven-portrait-klein.jpg
+header_portrait_image: /uploads/sven-portrait-04.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Verkürzung des Verbraucherinsolvenzverfahrens
@@ -81,6 +81,11 @@ abschnitte:
       Verbraucherinsolvenzverfahren eröffnet und durch die neue Gesetzgebung zum
       01.10.2020 erlangen Sie dann die Restschuldbefreiung bereits nach drei
       Jahren.
+    image:
+    cta: true
+  - abschnitt_template: grafik_volle_breite
+    titel:
+    text_markdown:
     image: /uploads/ablauf-inso.png
     cta: true
 sitemap: false
