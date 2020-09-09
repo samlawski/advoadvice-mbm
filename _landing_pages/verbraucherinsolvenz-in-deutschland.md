@@ -6,7 +6,7 @@ description: >-
   Das Insolvenzverfahren in Deutschland eröffnet ab dem 01.10.2020 Verbrauchern
   und Selbständigen die Möglichkeit innerhalb von 3 Jahren zu einer
   Restschuldbefreiung und somit zur Schuldenfreiheit zu gelangen.
-header_titel: Schnelle Restschuldbefreiung nach 3 Jahren.
+header_titel: Restschuldbefreiung jetzt schon nach 3 Jahren.
 header_subtitle: Neue Möglichkeiten der Insolvenzordnung in Deutschland nutzen.
 header_image: /uploads/judgment-3667391-640.jpg
 header_cta_titel: Schulden loswerden. Beratung sichern.
