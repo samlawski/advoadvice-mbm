@@ -19,8 +19,8 @@ abschnitte:
       Die Verbraucherinsolvenz ist in der Insolvenzordnung (InsO) geregelt.
       Erfreulich ist, dass diese nun reformiert werden soll, so dass sich schon
       zum 01.10.2020 das Restschuldbefreiungsverfahren von sechs Jahre auf drei
-      Jahre verkürzt. Der Gesetzesentwurf steht am 09.09.2020 auf der
-      Tagesordnung des Bundestages. Auf die Erfüllung besonderer
+      Jahre verkürzt. Die erste Lesung des Gesetzesentwurfs erfolgte am
+      09.09.2020 im Deutschen Bundestag. Auf die Erfüllung besonderer
       Voraussetzungen, wie zum Beispiel die Erfüllung von
       Mindestbefriedigungsanforderungen wird zunächst verzichtet. Hier ist eine
       erneute Änderung zum 01.07.2025 angedacht.
@@ -51,6 +51,11 @@ abschnitte:
       einem nach drei Jahren die Restschuldbefreiung erteilt wurde, so gilt für
       denjenigen nun eine **11-jährige Sperrfrist für ein neues Verfahren** und
       dieses neue Verfahren hat dann eine Abtretungsfrist von 5 Jahren.
+
+      * Insolvenzbedingte Verbote beruflicher Tätigkeiten sollen künftig mit
+      Ablauf der Entschuldungsfrist au&szlig;er Kraft treten. Bei erlaubnis- und
+      zulassungspflichtigen Tätigkeiten ist jedoch erneut eine Genehmigung dafür
+      einzuholen.&nbsp;
     image:
     cta: true
   - abschnitt_template: box_hell
@@ -91,9 +96,9 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Erfahrung seit mehr als 14 Jahren
     text_markdown: >-
-      Unser Experte Rechtsanwalt Dr. Sven Tintemann hat viel Erfahrung im
-      Bereich des Insolvenzrechts. Bereits seit 2006 berät er Mandanten bei
-      Fragen zu&nbsp;
+      Rechtsanwalt Dr. Sven Tintemann ist unser Experte im Insolvenzrecht und
+      für Insolvenzverfahren. Bereits seit 2006 berät er Mandanten bei Fragen
+      zu&nbsp;
 
 
       * Überschuldung
@@ -109,13 +114,14 @@ abschnitte:
 
       Hierbei hat er schon vielen Mandanten durch schnelles Handeln und klaren
       Rechtsrat zu einem erfolgreichen Abschluss ihres Insolvenzverfahrens
-      verholfen und mit ihnen so die angestrebte Restschuldbefreiung
+      verholfen und mit ihnen gemeinsam die angestrebte Restschuldbefreiung
       erreicht.&nbsp;
 
 
       Die Kanzlei AdvoAdvice Rechtsanwälte mbB vertritt hierbei deutschlandweit
-      vor den Insolvenzgerichten. Oftmals ist eine Abwicklung der Insolvenz per
-      Telefon und Korrespondenz per Email und auf dem Postweg möglich.&nbsp;
+      vor allen Insolvenzgerichten. Oftmals ist eine Abwicklung der Insolvenz
+      per Telefon sowie Korrespondenz per Email und auf dem Postweg
+      möglich.&nbsp;
     image: /uploads/insolvency-96596-1280.jpg
     cta: true
 sitemap: false
