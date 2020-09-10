@@ -86,7 +86,7 @@ abschnitte:
   - abschnitt_template: grafik_volle_breite
     titel:
     text_markdown:
-    image: /uploads/ablauf-inso.png
+    image: /uploads/ablauf-inso-1.png
     cta: true
   - abschnitt_template: weiss_bild_links
     titel: Erfahrung seit mehr als 14 Jahren
