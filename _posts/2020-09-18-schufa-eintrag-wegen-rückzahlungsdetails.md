@@ -1,6 +1,6 @@
 ---
 title: Schufa-Eintrag wegen Rückzahlungsdetails
-date: 2020-09-15 00:00:00
+date: 2020-09-18 00:00:00
 description: Forderung nach vollständigem Ausgleich doch noch zur Löschung gebracht.
 layout: post
 style_id: post
