@@ -1,5 +1,5 @@
 ---
-title: Adcada Anleger - Rat vom Anwalt - Was tun wenn Auszahlungen ausbleiben?
+title: 'Adcada Anleger - Rat vom Anwalt - Was tun, wenn Auszahlungen ausbleiben?'
 date: 2020-09-17 00:00:00
 description: >-
   Anleger berichten uns und bitten um Rat, weil vereinbarte Auszahlungen bzw.
@@ -42,7 +42,7 @@ Anleger, die im Vertrauen auf eine renditeträchtige und rechtssichere Geldanlag
 
 So berichten beispielsweise Anleger der Anleihe "adcada.money Festzins 06-2019", dass die zum 01.09.2020 fällige Auszahlung bislang nicht vorgenommen wurde. Anleger der Anleihe "adcada.money Festzins 09-2019",&nbsp; berichten ebenfalls von ausstehenden Zahlungen.
 
-Allerdings hat die ADCADA Unternehmensgruppe manchen Anlegern mitgeteilt, dass zwar Zinszahlungen ausgesetzt würden, diese ausstehenden Zahlung jedoch plus Verzinsung zu einem späteren Zeitpunkt nachgeholt werden sollen. Viele Anleger, die sich an AdvoAdvice Rechtsanwälte gewandt haben, fühlen sich nach eigener Angabe nicht ausreichend informiert und fragen sich, wann die angekündigten und dann verzinsten Nachzahlungen erfolgen und ob man das so überhaupt akzeptieren müsse.
+Allerdings hat die ADCADA Unternehmensgruppe manchen Anlegern mitgeteilt, dass zwar Zinszahlungen ausgesetzt würden, diese ausstehenden Zahlungen jedoch plus Verzinsung zu einem späteren Zeitpunkt nachgeholt werden sollen. Viele Anleger, die sich an AdvoAdvice Rechtsanwälte gewandt haben, fühlen sich nach eigener Angabe nicht ausreichend informiert und fragen sich, wann die angekündigten und dann verzinsten Nachzahlungen erfolgen und ob man das so überhaupt akzeptieren müsse.
 
 Gefragt wird auch, welche tatsächlichen und rechtlichen Möglichkeiten Anlegern zur Verfügung stehen und was diese wirtschaftlich sinnvoll machen könnten und sollten, wenn es um das investierte Kapital und das Vertragsverhältnis mit der jeweiligen Anlagegesellschaft geht. Gibt es einen Anspruch auf (vorzeitige) Rückzahlung? Kann man das Vertragsverhältnis fristlos kündigen und eine sofortige vollständige Rückzahlung verlangen? &nbsp;Gilt der Vertrag überhaupt, aufgrund dessen man Geld investiert hat?
 
@@ -50,7 +50,7 @@ Gefragt wird auch, welche tatsächlichen und rechtlichen Möglichkeiten Anlegern
 
 Die Anleihebedingungen der Anleihen "adcada.money Festzins 06-2019" und "adcada.money Festzins 09-2019" enthalten beispielsweise diverse Regelungen, nach denen aus einem wichtigen Grund ggf. au&szlig;erordentlich gekündigt werden kann. Daneben gibt es es auch gesetzliche Kündigungsmöglichkeiten, die Dauerschuldverhältnisse betreffen. &nbsp;&nbsp;
 
-Auch werden sich manche Anleger möglicherweise die Frage stellen, ob es neben Ansprüchen auf sofortige Auszahlung der ausstehenden Zahlungen möglicherweise auch Haftungsansprüche gegen die jeweils emittierenden Gesellschaften oder persönliche Ansprüche gegen natürliche Personen als Verantwortliche gibt, falls den betroffenen Anlegen ersatzfähige Schäden entstehen. Denkbar wären bei Vorliegen der rechtlichen Voraussetzungen ggf. auch Ansprüche aus der sog. Prospekthaftung, also insbesondere, wenn sich herausstellen sollte, dass gesetzliche Pflichten zur Veröffentlichung eines Verkaufsprospektes nicht beachtet worden sein sollten. &nbsp; &nbsp;
+Auch werden sich manche Anleger möglicherweise die Frage stellen, ob es neben Ansprüchen auf sofortige Auszahlung der ausstehenden Zahlungen möglicherweise auch Haftungsansprüche gegen die jeweils emittierenden Gesellschaften oder persönliche Ansprüche gegen natürliche Personen als Verantwortliche gibt, falls den betroffenen Anlegern ersatzfähige Schäden entstehen. Denkbar wären bei Vorliegen der rechtlichen Voraussetzungen ggf. auch Ansprüche aus der sog. Prospekthaftung, also insbesondere, wenn sich herausstellen sollte, dass gesetzliche Pflichten zur Veröffentlichung eines Verkaufsprospektes nicht beachtet worden sein sollten. &nbsp; &nbsp;
 
 Die Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin vertreten bereits die Interessen von Anlegern, die bei der adcada GmbH, der adcada.capital GmbH, der ADCADA Investments AG PCC oder der adcada.healthcare GmbH investiert haben und nun ihre Ansprüche geltend machen.
 
