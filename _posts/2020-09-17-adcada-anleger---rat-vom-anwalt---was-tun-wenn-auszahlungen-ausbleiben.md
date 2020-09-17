@@ -2,10 +2,11 @@
 title: Adcada Anleger - Rat vom Anwalt - Was tun wenn Auszahlungen ausbleiben?
 date: 2020-09-17 00:00:00
 description: >-
-  Anleger berichten uns und bitten um Rat, weil sie immer noch auf versprochene
-  Rückzahlungen bzw. Zinsen bezüglich der von ihnen gezeichneten Anleihen
-  (Inhaber-Teilschuldverschreibungen) warten. Die Rückzahlungstermine seien
-  längst verstrichen und Auszahlungen überfällig. Anleger sind besorgt.
+  Anleger berichten uns und bitten um Rat, weil vereinbarte Auszahlungen bzw.
+  Zinsen bezüglich der von ihnen gezeichneten Anleihen
+  (Inhaber-Teilschuldverschreibungen) wohl nicht durchgängig erfolgten. Die
+  Rückzahlungstermine seien längst verstrichen und Auszahlungen überfällig.
+  Anleger sind besorgt.
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-5.jpg
