@@ -49,7 +49,7 @@ Es wäre nicht das erste Mal, dass Kopien von Unternehmen das gleiche Schicksal 
 
 #### Wir helfen Ihnen als betroffenem Anleger mit klarem, verständlichem und ehrlichem Rat - Nutzen Sie unsere langjährigen Erfahrungen und Erfolge\!
 
-Derzeit stellen sich auch juristisch viele Fragen, beispielsweise ob bei den verschiedenen von der Bonus.Gold GmbH angebotenen Anlageoptionen auch ein sachenrechtlicher Eigentumserwerb an „bezahltem” Gold stattgefunden hat und ob in entsprechenden Anlagemodellen bei der Einlagerung des Goldes, wenn dies so überhaupt geschehen sein sollte, eine Zuordnung an den jeweiligen Anleger erfolgen kann oder ob beispielsweise in bestimmten Fällen “insolvenzsicheres” Sondervermögen gebildet wurde welches im Rahmen eines etwaigen Insolvenzverfahrens nicht automatisch in die Insolvenzmasse fallen könnte.&nbsp;
+Derzeit stellen sich auch juristisch viele Fragen, beispielsweise ob bei den verschiedenen von der Bonus.Gold GmbH angebotenen Anlageoptionen auch ein typisierter sachenrechtlicher Erwerb von "Sicherungseigentum" an Gold stattgefunden hat und ob in dem Anlagemodell bei der Einlagerung des ("Recycling-") Goldes, wenn dies so überhaupt geschehen sein sollte, eine Zuordnung von "Sicherungseigentum" an den jeweiligen Anleger erfolgen kann oder ob beispielsweise in bestimmten Fällen “insolvenzsicheres” Sondervermögen gebildet wurde welches im Rahmen eines etwaigen Insolvenzverfahrens nicht automatisch in die Insolvenzmasse fallen könnte.&nbsp;
 
 Hier stellen sich abgesehen von einer anzuwendenden Vorgehensweise auch zum Teil juristisch sehr komplexe schuld- und sachenrechtliche Fragestellungen. Diese Dingen Ihnen als Anleger verständlich zu erklären, muss auch Aufgabe einer rechtsanwaltlichen Beratung sein.
 
