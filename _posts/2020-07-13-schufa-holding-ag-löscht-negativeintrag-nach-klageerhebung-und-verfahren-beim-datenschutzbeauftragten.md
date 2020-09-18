@@ -59,4 +59,4 @@ Der Rechtsstreit vor dem Landgericht München II ist allerdings noch nicht mit d
 
 ## *Update (18.09.2020):*
 
-Ein Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch war nicht erforderlich, da sich die Parteien unterdessen vergleichsweise darauf verständigt<br>haben, dass ein solcher nicht zu leisten ist.
+Ein Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch war nicht erforderlich, da sich die Parteien unterdessen vergleichsweise darauf verständigt haben, dass ein solcher nicht zu leisten ist.
