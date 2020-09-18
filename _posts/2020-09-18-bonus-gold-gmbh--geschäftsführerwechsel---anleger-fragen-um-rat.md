@@ -1,6 +1,6 @@
 ---
 title: 'Bonus.Gold GmbH : Geschäftsführerwechsel - Anleger fragen um Rat'
-date: 2020-09-18 00:00:00
+date: 2020-09-18 00:01:00
 description: >-
   Was ist los bei der Bonus.Gold GmbH aus Köln? Nachdem die Gesellschaft nach
   Auskunft von Anlegern nicht mehr erreichbar war, gab es nun auch noch einen
