@@ -57,4 +57,6 @@ Das gesamte Verfahren vor zwei Gerichten überraschte selbst Dr. Sven Tintemann 
 
 Der Rechtsstreit vor dem Landgericht München II ist allerdings noch nicht mit der Löschung des Negativeintrages erledigt. Die Klage wurde durch AdvoAdvice erweitert, mit dem Klageantrag, die Beklagte zu verurteilen, an die Klägerin einen angemessenen Schadensersatz zu zahlen, dessen Höhe in das pflichtgemä&szlig;e Ermessen des Gerichts gestellt wird, mindestens jedoch 3.000 Euro zzgl. Zinsen betragen soll. Es wird sich zeigen, wie das Verfahren hier weitergeht. Jedenfalls ist es erfreulich, dass der Negativeintrag in der Zwischenzeit zur Löschung gebracht wurde. Das Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch ist aber noch nicht gesprochen. Wir werden weiter berichten.&nbsp;
 
-&nbsp;
+## *Update (18.09.2020):*
+
+Ein Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch war nicht erforderlich, da sich die Parteien unterdessen vergleichsweise darauf verständigt<br>haben, dass ein solcher nicht zu leisten ist.
