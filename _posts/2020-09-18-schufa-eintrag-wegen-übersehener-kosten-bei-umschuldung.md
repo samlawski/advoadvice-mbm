@@ -1,7 +1,9 @@
 ---
-title: Schufa-Eintrag wegen Rückzahlungsdetails
+title: Schufa-Eintrag wegen übersehener Kosten bei Umschuldung
 date: 2020-09-18 00:00:00
-description: Forderung nach vollständigem Ausgleich doch noch zur Löschung gebracht.
+description: >-
+  Forderung nach vollständigem Ausgleich von Kosten bei Umschuldung zur Löschung
+  gebracht.
 layout: post
 style_id: post
 image: /uploads/shaking-hands-3091906-1280.jpg
