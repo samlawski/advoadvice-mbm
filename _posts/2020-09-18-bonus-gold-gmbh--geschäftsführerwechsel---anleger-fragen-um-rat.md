@@ -1,10 +1,10 @@
 ---
 title: 'Bonus.Gold GmbH : Geschäftsführerwechsel - Anleger fragen um Rat'
-date: 2020-09-18 00:01:00
+date: 2020-09-18 14:00:00
 description: >-
   Was ist los bei der Bonus.Gold GmbH aus Köln? Nachdem die Gesellschaft nach
-  Auskunft von Anlegern nicht mehr erreichbar war, gab es nun  einen Wechsel des
-  Geschäftsführers.
+  Auskunft von Anlegern nicht mehr erreichbar war, gab es nun auch noch einen
+  Wechsel des Geschäftsführers.
 layout: post
 style_id: post
 image: /uploads/gold-bars-2467833-1920-1.jpg
@@ -35,7 +35,7 @@ Die Jahresbilanz 2018 wurde seitens des Unternehmens auch nicht rechtzeitig vorg
 
 #### Wechsel der Geschäftsführung
 
-Nunmehr gibt es hinsichtlich der Zukunftsaussichten seitens der betroffenen Anleger weiteren Grund zur Besorgnis. Mit Bekanntmachung des Handelsregisters des Amtsgerichts Köln vom 17.9.2020 wurde ein Geschäftsführerwechsel mitgeteilt. Der bisherige Geschäftsführer Taha Atakan Kaynar wurde durch einen neuen Geschäftsführer ersetzt.
+Nunmehr gibt es hinsichtlich der Zukunftsaussichten seitens der betroffenen Anleger weiteren Grund zur Besorgnis. Mit Bekanntmachung des Handelsregisters des Amtsgerichts Köln vom 17.9.2020 wurde ein Geschäftsführerwechsel mitgeteilt. Der bisherige Geschäftsführer Atakan Kaynar wurde durch einen neuen Geschäftsführer ersetzt.
 
 Jetzt drängen sich auch wieder bei den Anlegern die Sorgen in den Vordergrund, dass die ganze Sache den gleichen Verlauf nehmen könnte wie schon bei dem Skandal um die PIM Gold GmbH oder weiteren Insolvenzen von Anbietern von Gold-Vermögensanlagen der Vergangenheit.
 
