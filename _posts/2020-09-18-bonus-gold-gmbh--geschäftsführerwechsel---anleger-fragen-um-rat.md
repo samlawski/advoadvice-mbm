@@ -37,7 +37,7 @@ Die Jahresbilanz 2018 wurde seitens des Unternehmens auch nicht rechtzeitig vorg
 
 Nunmehr gibt es hinsichtlich der Zukunftsaussichten seitens der betroffenen Anleger weiteren Grund zur Besorgnis. Mit Bekanntmachung des Handelsregisters des Amtsgerichts Köln vom 17.9.2020 wurde ein Geschäftsführerwechsel mitgeteilt. Der bisherige Geschäftsführer Taha Atakan Kaynar wurde durch einen neuen Geschäftsführer ersetzt.
 
-Nunmehr drängen sich auch wieder bei den Anlegern die Sorgen in den Vordergrund, dass die ganze Sache den gleichen Verlauf nehmen könnte wie schon bei dem Skandal um die PIM Gold GmbH oder weiteren Insolvenzen von Anbietern von Gold-Vermögensanlagen der Vergangenheit.
+Jetzt drängen sich auch wieder bei den Anlegern die Sorgen in den Vordergrund, dass die ganze Sache den gleichen Verlauf nehmen könnte wie schon bei dem Skandal um die PIM Gold GmbH oder weiteren Insolvenzen von Anbietern von Gold-Vermögensanlagen der Vergangenheit.
 
 Gemeinsam haben diese Geschäftsmodelle, dass durch die Anleger zwar vermeintlich Gold erworben wird, jedoch Renditen und Chancen angeboten werden, wenn die Kunden das erworbene Edelmetall sogleich wieder dem Unternehmen überlassen.
 
@@ -45,7 +45,7 @@ Dies funktioniert natürlich nur, wenn auch so viel Gold vorhanden ist um Kunden
 
 Zwar ist der Goldpreis in der Vergangenheit auch stark gestiegen, gegengerechnet müssen jedoch immer auch Vertriebskosten, Lagerkosten und Allgemeinkosten die das Unternehmen naturgemä&szlig; haben muss.
 
-Es wäre nicht das 1. Mal, dass Kopien von Unternehmen das gleiche Schicksal erleiden wie ihre untergegangenen Vorbilder.
+Es wäre nicht das erste Mal, dass Kopien von Unternehmen das gleiche Schicksal erleiden wie ihre untergegangenen Vorbilder.
 
 #### Wir helfen Ihnen als betroffenem Anleger mit klarem, verständlichem und ehrlichem Rat - Nutzen Sie unsere langjährigen Erfahrungen und Erfolge\!
 
