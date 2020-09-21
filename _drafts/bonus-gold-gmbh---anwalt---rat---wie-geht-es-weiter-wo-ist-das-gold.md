@@ -14,17 +14,23 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Bonus. Gold GmbH-wie geht es weiter-wo ist das Gold?
+Die Nachrichten und Gerüchte rund um die Bonus.Gold GmbH verdichten sich und werden immer bedrohlicher für die Anleger und Investoren. Nachdem bereits bekannt geworden worden ist, dass sich der bisherige Geschäftsführer sich wohl in die Türkei abgesetzt hat und derzeit die Bonus.Gold GmbH weder mit einem persönlichen Ansprechpartner auf telefonischem Weg erreichbar ist, rücken nun die Fragen rund um das Gold in den Mittelpunkt.
 
-Die neuen kalten und werden immer bedrohlicher. Nach den bereits bekannt worden ist, dass der Geschäftsführer sich wohl in die Türkei abgesetzt hat nach dem GmbH wieder noch telefonischen Weg erreichbar war, rückt nun das Gold in den Mittelpunkt der besorgten Anlieger.
+Das Geschäftsmodell der Bonus.Gold GmbH war es ja, das Geld der Anleger zu verwenden, um durch Kunden „erworbenes“ Gold unter der Bestellung von „Sicherungseigentum“ &nbsp;in einem „Recycling“ mit Altgold wieder in den Markt einzuführen und dann an die Anleger die Rendite in Form von „Bouns-Gold“ weiterzugeben. Dieses Geschäftsmodell kann jedoch natürlich nur dann funktionieren, wenn die Renditen auch tatsächlich erzielt werden und wenn einerseits das den Kunden versprochene tägliche „Bonusgold“ auch wirklich persönlich zugeordnet wird. Letztendlich muss es natürlich auch als reeller Wert den Kunden im Falle einer gewünschten Aushändigung zur Verfügung stehen.
 
-Das Geschäftsmodell der Gold GmbH war es, ihr das Geld der Kunden zu verwenden, um durch Kunden erworbenes Gold bei sich einlagern zu lassen um dann im Anführtzeichen Metall-Gold „die die Kunden versprochene Rente zu sichern. Dieses Modell jedoch nur dann, wenn einerseits das den Kunden versprochene tägliche Bonus und auch nicht entsteht, sondern auch als reeller Wert den Kunden im Falle einer Aufforderung zur Aus Endigung des Gebäudes zur Verfügung steht.
+Rechtlich gesehen ist es aber in Wirklichkeit gar kein regulärer Verkauf im eigentlichen Sinne, sondern es ist für den Anleger eine verkappte Darlehensgabe mit einer „Verzinsung“ in Form des „Bonusgoldes“. Hier spielt dann natürlich eine entscheidende Rolle, welchen tatsächlichen Marktwert das „Bonusgold“ hat, wenn es dem Anleger „gutgeschrieben“ wird. Irgendwo muss ja die vermeintliche Rendite auch herkommen, wenn die Bonus.Gold GmbH diese dauerhaft an die Anleger weitergeben will. Da die Bonus.Gold GmbH ja physisches Gold an die Anleger herausgeben muss, da sie es ja nicht „zurückkaufen“ darf, muss bei einer seriösen Geschäftstätigkeit auch Gold vorhanden sein, um es seinen Kunden auch herausgeben zu können. Also ist es ganz entscheidend, das genug Gold überhaupt vorhanden ist.
+
+**Zweifel gab es schon 2017**
+
+Schon 2017 hab es daran erhebliche Zweifel. So wurde durch den zuständigen Wirtschaftsprüfer der Bonus.Gold GmbH eben diese essentielle Tatsache ausdrücklich nicht bestätigt sondern nur festgestellt, dass eine vollständige Prüfung nicht möglich gewesen sei. Folgendes schrieb der Wirtschaftsprüfer 2017 in seinem Bericht:
+
+„Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist”
 
 Die Normbonus. Gold BGH hat nach eigenen Angaben ein transparentes Sicherungssystem gehabt welches es Kunden erlaubte, täglich auch in die entsprechenden Finanzierungen und Verkaufsvorgänge Zuschauer.
 
 Herausgestellt hat, handelt es sich bei dem neuen Geschäfts über einen sogenannten Anführtzeichen „" welcher nicht die Absicht haben dürfte, dass Geschäftsmodell der Gold GmbH weiterzuführen
 
-Vereinfacht ausgedrückt verkaufen Unternehmen wie "Bonus.Gold GmbH " Gold, das es im eigentliche Sinne gar nicht gibt. Eigentlich ist es eher ein Kreditgeschäft und die Verzinsung richtet sich nach dem Goldkurs. Schon die 2017-er Bilanz nährte Zweifel am angeblichen Goldbestand von Bonus.Gold: „**Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist**” (aus dem Bericht des Wirtschaftsprüfers für das Jahr 2017).
+Vereinfacht ausgedrückt verkaufen Unternehmen wie "Bonus.Gold GmbH " Gold, das es im eigentliche Sinne gar nicht gibt. Eigentlich ist es eher ein Kreditgeschäft und die Verzinsung richtet sich nach dem Goldkurs. Schon die 2017-er Bilanz nährte Zweifel am angeblichen Goldbestand von Bonus.Gold:
 
 Anonyme Nachrichten, die den Rechtsanwälten der Kanzlei und Reisrechtsanwälte „oben zugespielt worden sind besagen, dass bereits seit Ende August 2020 keinen Geschäftsbetrieb mehr in den deutschen Geschäftsräumen stattfindet. Auch habe es bereits einem zweiaktig gegeben und sämtliches noch verfügbare Gold sei nicht mehr vorhanden.
 
