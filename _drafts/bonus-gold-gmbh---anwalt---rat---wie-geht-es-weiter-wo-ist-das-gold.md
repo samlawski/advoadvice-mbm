@@ -24,6 +24,8 @@ Die Normbonus. Gold BGH hat nach eigenen Angaben ein transparentes Sicherungssys
 
 Herausgestellt hat, handelt es sich bei dem neuen Geschäfts über einen sogenannten Anführtzeichen „" welcher nicht die Absicht haben dürfte, dass Geschäftsmodell der Gold GmbH weiterzuführen
 
+Vereinfacht ausgedrückt verkaufen Unternehmen wie "Bonus.Gold GmbH " Gold, das es im eigentliche Sinne gar nicht gibt. Eigentlich ist es eher ein Kreditgeschäft und die Verzinsung richtet sich nach dem Goldkurs. Schon die 2017-er Bilanz nährte Zweifel am angeblichen Goldbestand von Bonus.Gold: „**Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist**” (aus dem Bericht des Wirtschaftsprüfers für das Jahr 2017).
+
 Anonyme Nachrichten, die den Rechtsanwälten der Kanzlei und Reisrechtsanwälte „oben zugespielt worden sind besagen, dass bereits seit Ende August 2020 keinen Geschäftsbetrieb mehr in den deutschen Geschäftsräumen stattfindet. Auch habe es bereits einem zweiaktig gegeben und sämtliches noch verfügbare Gold sei nicht mehr vorhanden.
 
 Dies wäre eine alarmierenden Nachricht die Anleger dann wohl mit einem zu ihrer Anlage zu rechnen hätten.
