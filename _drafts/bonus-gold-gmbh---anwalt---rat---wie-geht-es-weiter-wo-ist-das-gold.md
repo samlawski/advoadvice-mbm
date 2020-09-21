@@ -26,7 +26,7 @@ Schon 2017 hab es daran erhebliche Zweifel. So wurde durch den zuständigen Wirt
 
 „Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist”
 
-Die Normbonus. Gold BGH hat nach eigenen Angaben ein transparentes Sicherungssystem gehabt welches es Kunden erlaubte, täglich auch in die entsprechenden Finanzierungen und Verkaufsvorgänge Zuschauer.
+Die Bonus.Gold GmbH hat nach eigenen Angaben ein transparentes Sicherungssystem gehabt welches es Kunden erlaubte, täglich auch in die entsprechenden Finanzierungen und Verkaufsvorgänge Zuschauer.
 
 Herausgestellt hat, handelt es sich bei dem neuen Geschäfts über einen sogenannten Anführtzeichen „" welcher nicht die Absicht haben dürfte, dass Geschäftsmodell der Gold GmbH weiterzuführen
 
