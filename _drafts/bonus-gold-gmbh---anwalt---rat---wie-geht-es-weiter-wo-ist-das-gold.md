@@ -14,39 +14,37 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die Nachrichten und Gerüchte rund um die Bonus.Gold GmbH verdichten sich und werden immer bedrohlicher für die Anleger und Investoren. Nachdem bereits bekannt geworden worden ist, dass sich der bisherige Geschäftsführer sich wohl in die Türkei abgesetzt hat und derzeit die Bonus.Gold GmbH weder mit einem persönlichen Ansprechpartner auf telefonischem Weg erreichbar ist, rücken nun die Fragen rund um das Gold in den Mittelpunkt.
+Die Nachrichten und Gerüchte rund um die Bonus.Gold GmbH verdichten sich und werden immer bedrohlicher für die Anleger und Investoren. Da derzeit die Bonus.Gold GmbH weder mit einem persönlichen Ansprechpartner auf telefonischem Weg erreichbar ist, rücken nun die Fragen rund um das Gold in den Mittelpunkt.
 
 Das Geschäftsmodell der Bonus.Gold GmbH war es ja, das Geld der Anleger zu verwenden, um durch Kunden „erworbenes“ Gold unter der Bestellung von „Sicherungseigentum“ &nbsp;in einem „Recycling“ mit Altgold wieder in den Markt einzuführen und dann an die Anleger die Rendite in Form von „Bouns-Gold“ weiterzugeben. Dieses Geschäftsmodell kann jedoch natürlich nur dann funktionieren, wenn die Renditen auch tatsächlich erzielt werden und wenn einerseits das den Kunden versprochene tägliche „Bonusgold“ auch wirklich persönlich zugeordnet wird. Letztendlich muss es natürlich auch als reeller Wert den Kunden im Falle einer gewünschten Aushändigung zur Verfügung stehen.
 
 Rechtlich gesehen ist es aber in Wirklichkeit gar kein regulärer Verkauf im eigentlichen Sinne, sondern es ist für den Anleger eine verkappte Darlehensgabe mit einer „Verzinsung“ in Form des „Bonusgoldes“. Hier spielt dann natürlich eine entscheidende Rolle, welchen tatsächlichen Marktwert das „Bonusgold“ hat, wenn es dem Anleger „gutgeschrieben“ wird. Irgendwo muss ja die vermeintliche Rendite auch herkommen, wenn die Bonus.Gold GmbH diese dauerhaft an die Anleger weitergeben will. Da die Bonus.Gold GmbH ja physisches Gold an die Anleger herausgeben muss, da sie es ja nicht „zurückkaufen“ darf, muss bei einer seriösen Geschäftstätigkeit auch Gold vorhanden sein, um es seinen Kunden auch herausgeben zu können. Also ist es ganz entscheidend, das genug Gold überhaupt vorhanden ist.
 
-**Zweifel gab es schon 2017**
+#### Zweifel gab es schon 2017
 
 Schon 2017 hab es daran erhebliche Zweifel. So wurde durch den zuständigen Wirtschaftsprüfer der Bonus.Gold GmbH eben diese essentielle Tatsache ausdrücklich nicht bestätigt sondern nur festgestellt, dass eine vollständige Prüfung nicht möglich gewesen sei. Folgendes schrieb der Wirtschaftsprüfer 2017 in seinem Bericht:
 
-„Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist”
+„Das Vorhandensein der ausgewiesenen Vorräte in Höhe von EUR 13.746.196,29 ist nicht hinreichend nachgewiesen, weil ich nicht an der Inventur im Ausland teilnehmen konnte und durch alternative Prüfungshandlungen keine hinreichende Sicherheit über den Bestand der Vorräte gewinnen konnte. Es kann daher nicht ausgeschlossen werden, dass der Jahresabschluss insoweit fehlerhaft ist.“
 
-Die Bonus.Gold GmbH hat nach eigenen Angaben ein transparentes Sicherungssystem gehabt welches es Kunden erlaubte, täglich auch in die entsprechenden Finanzierungen und Verkaufsvorgänge Zuschauer.
+#### Gerüchte und anonyme Emails
 
-Herausgestellt hat, handelt es sich bei dem neuen Geschäfts über einen sogenannten Anführtzeichen „" welcher nicht die Absicht haben dürfte, dass Geschäftsmodell der Gold GmbH weiterzuführen
+Anonyme Nachrichten, die der Kanzlei AdvoAdvice Rechtsanwälte zugegangen sind, berichten, dass angeblich bereits seit Ende August 2020 kein Geschäftsbetrieb mehr in den deutschen Geschäftsräumen stattfindet. Auch habe es bereits einen Polizeizugriff gegeben, man habe aber nur verwaiste Räume vorgefunden. Es sei kein Gold mehr vorhanden.
 
-Vereinfacht ausgedrückt verkaufen Unternehmen wie "Bonus.Gold GmbH " Gold, das es im eigentliche Sinne gar nicht gibt. Eigentlich ist es eher ein Kreditgeschäft und die Verzinsung richtet sich nach dem Goldkurs. Schon die 2017-er Bilanz nährte Zweifel am angeblichen Goldbestand von Bonus.Gold:
+Hartnäckige Gerüchte besagen, dass sich der bisherige Geschäftsführer sich wohl in die Türkei abgesetzt haben soll. Kein Gerücht und eine durch die entsprechende Eintragung im Handelsregister bestätigte Tatsache ist es, dass sich entgegen dem Impressum der derzeit (noch) funktionierenden Homepage ein neuer Geschäftsführer bestellt hat, der eine britische Verwurzelung hat. Soll da die Einflussnahme der hauptsächlich deutschen Anleger verhindert werden?
 
-Anonyme Nachrichten, die den Rechtsanwälten der Kanzlei und Reisrechtsanwälte „oben zugespielt worden sind besagen, dass bereits seit Ende August 2020 keinen Geschäftsbetrieb mehr in den deutschen Geschäftsräumen stattfindet. Auch habe es bereits einem zweiaktig gegeben und sämtliches noch verfügbare Gold sei nicht mehr vorhanden.
+Dies wäre eine alarmierende Nachricht. &nbsp;Die Anleger hätten dann wohl zunächst mit einem Totalverlust ihrer Anlagen zu rechnen.&nbsp;
 
-Dies wäre eine alarmierenden Nachricht die Anleger dann wohl mit einem zu ihrer Anlage zu rechnen hätten.
+Seien wir ehrlich: Der in die Türkei abgewanderte Geschäftsführer wird wohl kaum für zivilrechtliche Schadensersatzansprüche und weitere Ma&szlig;nahmen aus deutscher Sicht für die absehbare Zukunft greifbar sein. Wenn, was sich leider abzeichnet, hier mit einer Insolvenz der Bonus.Gold GmbH oder einem Verlust der eigenen Investition zu rechnen ist, werden sich Anleger völlig berechtigt fragen, wer denn für diesen Verlust haftbar gemacht werden kann.
 
-Es ist jedoch davon auszugehen, dass hier die Nachrichten wohl nicht besser werden, da auch hier im Zuge der Kommune, kann die mi Wege gefunden werden, die Geschäfte nicht wieder treiben zu können.
+#### Ist der Beitritt zu einer „Interessengemeinschaft“ wirklich sinnvoll?
 
-Schon jetzt rüstet sich die verschiedenen Fraktionen für die kommen Auseinandersetzungen.
+Der Vertrieb und die Beratung der Investoren in Vorfeld der Anlageentscheidung erfolgte bei der Bonus.Gold GmbH nahezu ausschlie&szlig;lich über speziell geschulte Vertriebsangehörige. &nbsp;Die werden wohl ihren Kunden erklären müssen, warum eine Investition in die Bonus.Gold GmbH mit ihrem Geschäftsmodell jeweils ein sinnvoller Rat war.
 
-Vertriebsangehörigen, über alleine eine Gold GmbH für Anleger zueinander war, werden müsse, ob das, was Kunden angeboten haben, überhaupt ein tragfähiges Geschäftsmodell war. Der in der Türkengewanne als Geschäftsführer wird wohl kaum für zivilrechtliche Schadensersatz, Ma&szlig;nahmen aus deutscher Sicht in alle Zukunft greifbar sein. Wenn, was sich leider abzeichnet, hier mit einer Insolvenz oder eine ein Verlust zu rechnen ist, werde sich Anliegerfragen, wer denn für diesen Verlust haftbar gemacht werden kann.
+Es macht aus Sicht von Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen von der Berliner Kanzlei AdvoAdvice keinen Sinn, jetzt Interessengemeinschaften beizutreten, deren Interessen nicht unbedingt mit denen übereinstimmen, welche die Anleger haben.&nbsp;
 
-Es macht aus Sicht von Rechtsanwalt und Fachanwalt Kapitalmarktrecht klevenhagen aus der keinen Sinn, jetzt mit unnötigen Aktionen sogenannter Interessengemeinschaften zu lieben Orgel, welche tatsächlich von Vertriebsangehörigen Betriebe werde ihre eigenen Essen waren wollen. Schaut sich die Berichterstattung im Internet an, so zeigt sich, dass es wieder einmal so laufen wird, dass die Anleger im Endeffekt diejenigen sind, welche doppelt begriffen sind. Die einzige Möglichkeit ist, sich eineiigen Haftung nach durch prüfen zu lassen gegen den Erfolgsaussichten auch bestehen.
+„Anleger haben in der derzeitigen Situation klare Fragen und Interessen, nämlich wie es für sie selbst sinnvoll weitergehen kann, ob und wieviel Gold noch für eine Verwertung vorhanden ist und wer ggf. realistisch haftbar gemacht werden könnte und mit mit Erfolgsaussichten haftbar gemacht werden sollte. Diese Fragen kann nur eine individuelle anwaltliche Beratung des Anlegers beantworten.“, gibt Rechtsanwalt Klevenhagen zu bedenken.
 
-Sicherlich werden jetzt vielfach würden versuchen, ihre Kunden auf eine bestimmte Seite zu ziehen, gegebenenfalls sogenannte Interessengemeinschaft damit man gemeinsam stark ist". Startup sind Falle aber, die Anleger in den Weg gestellt bekommen um realistische Ansprüche durchzusetzen.
-
-Seien wir ehrlich: Selbstverständlich müssen Anwälte auch Geld dienen. Aber im vorliegenden Fall ist es ratsam, hier nicht auf eine kostenpflichtige interessengemeinschaftszusetzen welche gegebenenfalls nicht wirklich eine Durchsetzung von Ansprüchen betreiben wird.
+Natürlich kostet eine anwaltliche Beratung und Betreuung Geld. &nbsp; Aber im vorliegenden Fall ist es ratsam, hier nicht auf eine kostenpflichtige interessengemeinschaftszusetzen welche gegebenenfalls nicht wirklich eine Durchsetzung von Ansprüchen betreiben wird.
 
 Sollte es sein Insolvenzverfahren kommen, eine Insolvenzanmeldung machen die Frage, ob überhaupt eine realistische Quote zu erzielen sein würde ist jedoch viel zufriedengestellt.
 
