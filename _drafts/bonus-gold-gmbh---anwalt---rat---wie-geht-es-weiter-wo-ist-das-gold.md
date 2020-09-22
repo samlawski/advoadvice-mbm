@@ -1,7 +1,9 @@
 ---
 title: Bonus.Gold GmbH - Anwalt - Rat - Wie geht es weiter? Wo ist das Gold?
 date: 2020-09-22 00:00:00
-description: Was ist los bei der Bonus.Gold GmbH? Gibt es noch das Gold der Anleger?
+description: >-
+  Was ist los bei der Bonus.Gold GmbH? Gibt es noch das Gold der Anleger? Was
+  sind die Fragen, die Anleger sich stellen sollten?
 layout: post
 style_id: post
 image: /uploads/gold-bars-2467833-1920-2.jpg
@@ -34,32 +36,14 @@ Hartnäckige Gerüchte besagen, dass sich der bisherige Geschäftsführer sich w
 
 Dies wäre eine alarmierende Nachricht. &nbsp;Die Anleger hätten dann wohl zunächst mit einem Totalverlust ihrer Anlagen zu rechnen.&nbsp;
 
-Seien wir ehrlich: Der in die Türkei abgewanderte Geschäftsführer wird wohl kaum für zivilrechtliche Schadensersatzansprüche und weitere Ma&szlig;nahmen aus deutscher Sicht für die absehbare Zukunft greifbar sein. Wenn, was sich leider abzeichnet, hier mit einer Insolvenz der Bonus.Gold GmbH oder einem Verlust der eigenen Investition zu rechnen ist, werden sich Anleger völlig berechtigt fragen, wer denn für diesen Verlust haftbar gemacht werden kann.
+Seien wir ehrlich: Der in die Türkei abgewanderte Geschäftsführer wird wohl kaum für zivilrechtliche Schadensersatzansprüche und weitere Ma&szlig;nahmen aus deutscher Sicht für die absehbare Zukunft greifbar sein. Wenn, was sich leider wohl abzeichnet, hier mit einer Insolvenz der Bonus.Gold GmbH oder einem Verlust der eigenen Investition zu rechnen ist, werden sich Anleger völlig berechtigt fragen, wer denn für diesen Verlust haftbar gemacht werden kann. Und vor allem ist die Frage, was man jetzt zu diesem Zeitpunkt der Unsicherheit bereits sinnvoll veranlassen kann.
 
 #### Ist der Beitritt zu einer „Interessengemeinschaft“ wirklich sinnvoll?
 
-Der Vertrieb und die Beratung der Investoren in Vorfeld der Anlageentscheidung erfolgte bei der Bonus.Gold GmbH nahezu ausschlie&szlig;lich über speziell geschulte Vertriebsangehörige. &nbsp;Die werden wohl ihren Kunden erklären müssen, warum eine Investition in die Bonus.Gold GmbH mit ihrem Geschäftsmodell jeweils ein sinnvoller Rat war.
+Der Vertrieb und die Beratung der Investoren in Vorfeld der Anlageentscheidung erfolgte bei der Bonus.Gold GmbH nahezu ausschlie&szlig;lich über speziell geschulte Vertriebsangehörige. Diese werden jetzt wohl ihren Kunden erklären müssen, warum eine Investition in die Bonus.Gold GmbH mit ihrem Geschäftsmodell jeweils ein sinnvoller Rat war. Sicherlich werden jetzt viele Berater auf ihre Kunden von damals zugehen, sich erklären und vor Anwälten warnen, die „nur Geld verdienen wollen“ und statt dessen ggf. Handlungsempfehlungen aussprechen.&nbsp;
 
-Es macht aus Sicht von Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen von der Berliner Kanzlei AdvoAdvice keinen Sinn, jetzt Interessengemeinschaften beizutreten, deren Interessen nicht unbedingt mit denen übereinstimmen, welche die Anleger haben.&nbsp;
+Es macht aus Sicht von Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Klevenhagen von der Berliner Kanzlei AdvoAdvice keinen Sinn, jetzt Interessengemeinschaften beizutreten, deren Sto&szlig;richtung nicht unbedingt mit derer übereinstimmt, welche die Anleger haben.&nbsp;
 
-„Anleger haben in der derzeitigen Situation klare Fragen und Interessen, nämlich wie es für sie selbst sinnvoll weitergehen kann, ob und wieviel Gold noch für eine Verwertung vorhanden ist und wer ggf. realistisch haftbar gemacht werden könnte und mit mit Erfolgsaussichten haftbar gemacht werden sollte. Diese Fragen kann nur eine individuelle anwaltliche Beratung des Anlegers beantworten.“, gibt Rechtsanwalt Klevenhagen zu bedenken.
+„Anleger haben in der derzeitigen Situation klare Fragen und Interessen, nämlich wie es jetzt für sie selbst sinnvoll weitergehen kann, ob und wieviel Gold noch für eine Verwertung vorhanden ist und wer ggf. realistisch mit hinreichenden Erfolgsaussichten haftbar gemacht werden könnte falls sich für Anleger Schäden oder Verluste ergeben. Diese Fragen kann nur eine individuelle anwaltliche Beratung des Anlegers beantworten, die auch wirklich in alle Richtungen geht und einzig den Interessen der Anlegers dient.“, gibt Rechtsanwalt Klevenhagen zu bedenken.
 
-Natürlich kostet eine anwaltliche Beratung und Betreuung Geld. &nbsp; Aber im vorliegenden Fall ist es ratsam, hier nicht auf eine kostenpflichtige interessengemeinschaftszusetzen welche gegebenenfalls nicht wirklich eine Durchsetzung von Ansprüchen betreiben wird.
-
-Sollte es sein Insolvenzverfahren kommen, eine Insolvenzanmeldung machen die Frage, ob überhaupt eine realistische Quote zu erzielen sein würde ist jedoch viel zufriedengestellt.
-
-Richtig ist, dass, sollten wirklich Fehlbestände zu einem Schaden führen, derivative Wege gefunden werden müsse, um Schadensersatzansprüche seriös und sinnvoll zu prüfen. Natürlich Kosten gearbeitet auch Geld viele Rechtschutzversicherung übernimmt allerdings Kosten für eine 1. Beratung und auch sonst sollte man jedenfalls im Zeitpunkt nicht voreilige Schlüsse ziehen.
-
-Wer einmal auf einer Seite eine Vollmacht unterschrieben hat, wird wohl kaum das Pferd während des laufenden wechseln und damit neue Kosten verursachen.
-
-Wer eine realistische Einschätzung der Lage benötigt, sollte sich, trotz realer Anwaltskosten, dass schlie&szlig;en, sich gleich zu einem Rechtsanwalts wegen der ganzen Sache auch objektiv. Nicht im Vorteil ist es, sich zum jetzt Zeitpunkt schon einmal in die Hände seines Übrigen zugegeben.
-
-Deshalb ist es sinnvoll hier gegebenenfalls erst mal zu schauen, ob es Möglichkeiten gibt.
-
-Wenn eine sehr religiöse Rechtsprüfung umfasst auch eine blo&szlig;e undicht Analyse, ob überhaupt Chancen einer Rechtsdurchsetzung geben sein würde. Es kommt auch darauf an, was im Zuge einer etwaigen Beratung vor Zeichnung der Anlage einen dazu Bogen hat, die Anlage zu tätigen. Falsche, um realistische Versprechungen oder provisionsgesteuerte Radtouren sind sicherlich nicht von einer seriösen Beratung umfasst. Wenn allerdings auch aufgeklärt wurde wird man auch Ansprüche durchsetzen können.
-
-Allerdings ob es auch dem Vertriebler, hier eine Plausibilitätsprüfung durchzuführen um eine Anlage-Anliegen berechtigt die Beratung seine Kunden anbieten zu können. Sollte hier sein oder sollte das Geschäftsmodell zum Zeitpunkt der Beratungsleistung auch für die geschulten Betriebsangehörigen erkennbar gewesen sei, ist ein Schadensanspruch des Geschädigten Anlegers möglich. Allerdings ist es auch so, dass der Anlieger der Beweislast ist, soll Verfahren kommen.
-
-Hier geht es schon abzuwägen und im Zweifelsfall auch dann eine Entscheidung treffen.
-
-Die Zeit zeigen, wie es mit der Buch. Gold GmbH weitergeht. Die Aussichten sind allerdings erschreckend.
+Die Zeit wird zeigen, wie es mit der Bonus.Gold GmbH weitergeht. Die Aussichten sind allerdings nicht ermutigend.&nbsp;
