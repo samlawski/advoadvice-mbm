@@ -38,7 +38,7 @@ Daher darf die RED CAVE AG keine Miteigentumsanteile an einer zur Vermietung vor
 
 Diese Ma&szlig;nahme ist noch nicht bestandskräftig. Sie ist aber sofort vollziehbar. Insoweit ist zu erwarten, dass die RED CAVE AG gegen diese Ma&szlig;nahme Rechtsmittel einlegt.
 
-Dies bedeutet, dass durch den jetzt von der BaFin nach deren Ansicht vorliegenden Versto&szlig; gegen die Prospektpflicht und die Untersagungsverfügung hier auch Schadensersatzansprüche gegen die handelnden natürlichen Personen als auch gegen die Unternehmensgruppe selbst im Raume stehen könnten.
+Dies bedeutet, dass durch den jetzt von der BaFin nach deren Ansicht vorliegenden Versto&szlig; gegen die Prospektpflicht und die Untersagungsverfügung hier auch Schadensersatzansprüche gegen die handelnden natürlichen Personen, Berater als auch gegen die Unternehmensgruppe selbst im Raume stehen könnten.
 
 #### Anleger sollten Rechtslage und Optionen prüfen
 
