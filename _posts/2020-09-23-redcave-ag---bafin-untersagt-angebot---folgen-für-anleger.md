@@ -2,7 +2,7 @@
 title: REDCAVE AG -  BaFin untersagt Angebot - Folgen für Anleger
 date: 2020-09-23 00:00:00
 description: >-
-  Die Bafin untersagt der REDCAVE AG das öffentliche Angebot von
+  Die BaFin untersagt der REDCAVE AG das öffentliche Angebot von
   Miteigentumsanteilen an Ölförderequipment in Deutschlandet. Was bedeutet das
   und wie soll der Anleger damit umgehen?
 layout: post
