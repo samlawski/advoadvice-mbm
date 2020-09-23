@@ -19,7 +19,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Eine [BaFin Meldung vom 27.08.2020](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2020/meldung_200827_Red_Cave_AG.html)&nbsp;über einen Prospektpflichtversto&szlig; der REDCAVE AG sorgt für Unruhe bei Anlegern. In der BaFin Meldung teilte die Aufsichtsbehörde mit, dass sie Anhaltspunkte dafür habe, dass die Red Cave AG in Deutschland eine Vermögensanlage in Form von Miteigentumsanteilen an mobilen Ölförderanlagen öffentlich anbietet. und entgegen &sect; 6 Vermögensanlagengesetz hierfür kein Verkaufsprospekt veröffentlicht worden sei.
+Eine [BaFin Meldung vom 27.08.2020](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2020/meldung_200827_Red_Cave_AG.html)&nbsp;über einen Prospektpflichtversto&szlig; der REDCAVE AG sorgt für Unruhe bei Anlegern. In der BaFin Meldung teilte die Aufsichtsbehörde mit, dass sie Anhaltspunkte dafür habe, dass die Red Cave AG in Deutschland eine Vermögensanlage in Form von Miteigentumsanteilen an mobilen Ölförderanlagen öffentlich anbietet und entgegen &sect; 6 Vermögensanlagengesetz hierfür von der REDCAVE AG in Deutschland kein Verkaufsprospekt veröffentlicht worden sei.
 
 Die REDCAVE AG hat nach eigenen Angaben das Geschäftsmodell,&nbsp; Investitionen in die Förderung von Gas und Öl anzubieten. Die Anleger sollen zusammen mit anderen Miteigentümern, Equipment zur mobilen Förderung von Öl und Gas kaufen und diese über den Zeitraum von 10 Jahren an eine Ölgesellschaft zu verpachten. Nach Ansicht der BaFin ist diese Vermögensanlage wohl ohne Beachtung einer gesetzlichen Prospektpflicht in Deutschland angeboten worden.&nbsp;
 
