@@ -28,7 +28,7 @@ Die REDCAVE AG hat nach eigenen Angaben das Geschäftsmodell,&nbsp; Investitione
 
 In Deutschland dürfen Vermögensanlagen im Grundsatz nicht ohne die Veröffentlichung eines von der BaFin zuvor gebilligten Verkaufsprospekts öffentlich angeboten werden. Im Rahmen einer solchen Billigung prüft die BaFin, ob der Verkaufsprospekt die gesetzlich geforderten Mindestangaben enthält und ob der Prospektinhalt verständlich und kohärent (widerspruchsfrei) ist. Sie prüft die Prospektangaben jedoch nicht auf inhaltliche Richtigkeit. Ebenso erfolgt weder eine Überprüfung der Seriosität des Emittenten noch eine Kontrolle des Produkts. Hierauf müssen Emittenten von Vermögensanlagen in ihren Verkaufsprospekten ausdrücklich hinweisen. Die Emittenten haften für die Richtigkeit der im Verkaufsprospekt getätigten Angaben.
 
-Gemä&szlig; &sect;18 Vermögensanlagegesetz könnte sogar eine Untersagung des öffentlichen Angebots der betreffenden von der REDCAVE AG angebotenen Vermögensanlage durch die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) erfolgen.
+Gemä&szlig; &sect;18 Vermögensanlagegesetz konnte sogar eine Untersagung des öffentlichen Angebots der betreffenden von der REDCAVE AG angebotenen Vermögensanlage durch die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) erfolgen.
 
 #### Untersagungsverfügung der BaFin
 
