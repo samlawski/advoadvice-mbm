@@ -36,9 +36,9 @@ Diese Ma&szlig;nahme der BaFin ist dann auch mit MItteilung der Bafin vom 23.09.
 
 Daher darf die RED CAVE AG keine Miteigentumsanteile an einer zur Vermietung vorgesehenen mobilen Erdölförderanlage, so genanntes Red Cave Projekt, zum Erwerb in Deutschland anbieten.&nbsp;
 
-Diese Ma&szlig;nahme ist noch nicht bestandskräftig. Sie ist aber sofort vollziehbar. Insoweit ist zu erwarten, dass die RED CAVE AG gegen diese Ma&szlig;nahme Rechtsmittel einlegt.
+Diese Ma&szlig;nahme ist noch nicht bestandskräftig. Sie ist aber sofort vollziehbar. Insoweit ist mit Sicherheit zu erwarten, dass die RED CAVE AG gegen diese Ma&szlig;nahme der BaFin ein ihr selbstverständlich zustehendes Rechtsmittel einlegt.
 
-Dies bedeutet, dass durch den jetzt von der BaFin nach deren Ansicht vorliegenden Versto&szlig; gegen die Prospektpflicht und die Untersagungsverfügung hier auch Schadensersatzansprüche gegen die handelnden natürlichen Personen, Berater als auch gegen die Unternehmensgruppe selbst im Raume stehen könnten.
+Dies bedeutet, dass durch die jetzt von der BaFin erlassene Untersagungsverfügung (wenn diese denn nach einer rechtskräftigen gerichtlichen Prüfungsentscheidung bestehen bleibt) hier auch Schadensersatzansprüche gegen die handelnden natürlichen Personen, Berater als auch gegen die Unternehmensgruppe selbst im Raume stehen könnten.
 
 #### Anleger sollten Rechtslage und Optionen prüfen
 
