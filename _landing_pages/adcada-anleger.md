@@ -1,0 +1,24 @@
+---
+layout: landing_page
+style_id: landing
+title: Adcada Anleger
+description: Blablabla
+header_titel: Kompetente Hilfe für Adcada Anleger
+header_subtitle: Jetzt schnell Hilfe vom Fachanwalt sichern!
+header_image: /uploads/no-money-2070384-1280.jpg
+header_cta_titel: AdvoAdvice hilft Anlegern!
+header_cta_text: Vereinbaren Sie einen Termin für eine kostenfrei telefonische Erstberatung.
+header_portrait_image: /uploads/klevenhagen-klein.jpg
+abschnitte:
+  - abschnitt_template: weiss_bild_links
+    titel: Adcada stellt Insolvenzantrag
+    text_markdown: .....
+    image: /uploads/insolvency-593750-640-1.jpg
+    cta: true
+  - abschnitt_template: box_dunkel
+    titel: Adcada - Die Hintergründe
+    text_markdown: ...
+    image:
+    cta: true
+sitemap: false
+---
