@@ -10,7 +10,7 @@ description: >-
 header_titel: Kompetenter Beistand für Adcada Anleger
 header_subtitle: Jetzt schnell Hilfe vom spezialisierten Fachanwalt sichern!
 header_image: /uploads/no-money-2070384-1280.jpg
-header_cta_titel: Das Anwaltsteam AdvoAdvice prüft Ihre Ansprüche
+header_cta_titel: Das Spezialistenteam von AdvoAdvice prüft Ihre Ansprüche
 header_cta_text: >-
   Unsere spezialisierten Fachanwälte für Bank- und Kapitalmarktrecht prüfen
   unter der Leitung von Rechtsanwalt Klevenhagen individuell und absolut
