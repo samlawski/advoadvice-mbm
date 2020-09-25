@@ -43,20 +43,20 @@ abschnitte:
       5\. Was kostet mich das alles und wer könnte Kosten übernehmen?&nbsp;
 
 
-      lich wie es jetzt für sie selbst sinnvoll weitergehen kann, ob und wieviel
-      Geld noch vorhanden ist und ob eine Fortführung des Geschäftsmodells der
-      adcada GmbH möglich ist. Wer gegebenenfalls realistisch mit hinreichenden
-      Erfolgsaussichten haftbar gemacht werden könnte, falls sich für
-      Anlegerschäden oder Verluste ergeben, ist ebenfalls von entscheidender
-      Bedeutung. Diese Frage kann nur eine individuelle anwaltliche Beratung des
-      Anlegers beantworten, die auch wirklich in alle Richtungen geht und einzig
-      und allein dem Interesse des jeweiligen Anlegers dient.
+      Diese Fragen kann nur eine individuelle anwaltliche Beratung für Sie
+      beantworten. Diese Beratung muss auch wirklich in alle Richtungen gehen
+      und muss sich einzig und allein auf Ihre persönlichen Bedürfnisse und
+      Interessen konzentrieren.
 
 
       Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund
-      langjähriger Praxis über eine umfassende Expertise im Bank-und
-      Kapitalmarktrecht und beraten Anleger bei der Prüfung von Beratungsfehlern
-      und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
+      langjähriger rechtsanwaltlicher Praxi über eine umfassende Expertise im
+      Bank-und Kapitalmarktrecht und beraten bereits seit langem Anleger bei der
+      Prüfung von Beratungsfehlern und weiteren Pflichtverletzungen der ADCADA
+      Unternehmensgruppe. Wir kennen die jeweiligen Geschäftsmodelle und haben
+      im Laufe der Zeit eine Fülle von Hintergrundinformationen und Material
+      erlangt. Diesen Informationsvorsprung dient einer realistischen
+      Rechtsberatung und der Durchsetzung von Ihren Interessen und Ansprüchen.
     image: /uploads/insolvency-593750-640-1.jpg
     cta: true
   - abschnitt_template: box_dunkel
