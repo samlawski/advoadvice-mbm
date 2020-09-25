@@ -37,7 +37,7 @@ Die Entscheidung erging durch das Gericht im schriftlichen Verfahren, weil sich 
 
 Geklagt hatte ein Kapitalanleger aus Schwabach, bei der im Jahr 2012 gegr&uuml;ndeten CSA GmbH am 27.04.2012 Geld in Form eines Darlehens mit Nachrangklausel zur Verf&uuml;gung gestellt hatte.
 
-![AdvoAdvice Rechtsanwälte](/uploads/sven-portrait-04.jpg "Dr. Tintemann erstreitet Prozesserfolg in Sachen CSA GmbH")
+![AdvoAdvice Rechtsanwälte](/uploads/sven-portrait-04-square-min.jpg "Dr. Tintemann erstreitet Prozesserfolg in Sachen CSA GmbH")
 
 Hierzu wurde eine Lebensversicherung bei der WWK an die CSA GmbH verkauft und durch diese gek&uuml;ndigt. Der eingenommene R&uuml;ckkaufswert in H&ouml;he von 11.372,93 Euro wurde dann in den Darlehensvertrag investiert, mit dem Versprechen der CSA GmbH, dass nach einer Laufzeit von 14 Jahren ein Betrag in H&ouml;he von 26.157,74 Euro erzielt werden k&ouml;nnte.
 

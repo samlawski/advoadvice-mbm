@@ -11,7 +11,7 @@ header_subtitle: Neue Möglichkeiten der Insolvenzordnung in Deutschland nutzen.
 header_image: /uploads/judgment-3667391-640.jpg
 header_cta_titel: Schulden loswerden. Jetzt erstes Beratungsgespräch sichern.
 header_cta_text: Vereinbaren Sie einen Termin für eine kostenfrei telefonische Erstberatung.
-header_portrait_image: /uploads/sven-portrait-04.jpg
+header_portrait_image: /uploads/sven-portrait-04-square-sm-min.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Verkürzung des Verbraucherinsolvenzverfahrens
