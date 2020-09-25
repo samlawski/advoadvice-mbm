@@ -50,7 +50,7 @@ abschnitte:
 
 
       Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund
-      langjähriger rechtsanwaltlicher Praxi über eine umfassende Expertise im
+      langjähriger rechtsanwaltlicher Praxis über eine umfassende Expertise im
       Bank-und Kapitalmarktrecht und beraten bereits seit langem Anleger bei der
       Prüfung von Beratungsfehlern und weiteren Pflichtverletzungen der ADCADA
       Unternehmensgruppe. Wir kennen die jeweiligen Geschäftsmodelle und haben
