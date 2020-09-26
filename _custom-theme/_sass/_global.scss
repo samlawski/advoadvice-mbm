@@ -22,6 +22,10 @@ body {
   font-size: $font-size;
   color: $clr-text;
   line-height: 1.5;
+
+  @media(max-width: $media-sm) {
+    hyphens: auto;
+  }
 }
 
 a {

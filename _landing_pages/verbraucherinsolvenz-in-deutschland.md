@@ -22,7 +22,7 @@ abschnitte:
     image: 
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: Verkürzung des Verbraucherinsolvenzverfahrens
+    titel: Verkürzung des Verbraucher&shy;insolvenzverfahrens
     text_markdown: >-
       Die Verbraucherinsolvenz ist in der Insolvenzordnung (InsO) geregelt.
       Erfreulich ist, dass diese nun reformiert werden soll, so dass sich schon

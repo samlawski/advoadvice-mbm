@@ -72,7 +72,7 @@ abschnitte:
     image: /uploads/insolvency-593750-640.jpg
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: Überschuldung und Schuldenbereinigungsverfahren
+    titel: Überschuldung und Schulden&shy;bereinigungsverfahren
     text_markdown: >-
       Wenn Sie sich in einer &Uuml;berschuldungssituation befinden, kommt es
       zun&auml;chst einmal darauf an, zu kl&auml;ren, wie hoch die gesamten
