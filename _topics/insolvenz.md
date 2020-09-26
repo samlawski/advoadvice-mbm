@@ -29,6 +29,14 @@ intro_text_markdown: >-
 intro_link_text:
 intro_link:
 abschnitte:
+  - abschnitt_template: weiss_bild_links
+    titel: 
+    text_markdown: >-
+      <video class="video_embed" controls="controls" preload="none" poster="/uploads/2-video/ra-tintemann-thumbnail.jpg">
+        <source src="/uploads/2-video/ra-tintemann-1080p-3.mp4" type="video/mp4" />
+      </video>
+    image: 
+    cta: false
   - abschnitt_template: banner_bild_rechts
     titel: Insolvenz in Lettland
     text_markdown: >-

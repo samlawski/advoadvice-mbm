@@ -14,6 +14,14 @@ header_cta_text: Vereinbaren Sie einen Termin für eine kostenfrei telefonische 
 header_portrait_image: /uploads/sven-portrait-04-square-sm-min.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
+    titel: 
+    text_markdown: >-
+      <video class="video_embed" controls="controls" preload="none" poster="/uploads/2-video/ra-tintemann-thumbnail.jpg">
+        <source src="/uploads/2-video/ra-tintemann-1080p-3.mp4" type="video/mp4" />
+      </video>
+    image: 
+    cta: false
+  - abschnitt_template: weiss_bild_links
     titel: Verkürzung des Verbraucherinsolvenzverfahrens
     text_markdown: >-
       Die Verbraucherinsolvenz ist in der Insolvenzordnung (InsO) geregelt.
