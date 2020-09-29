@@ -45,112 +45,132 @@ abschnitte:
     titel:
     text_markdown: >-
       <video class="video_embed" controls="controls" preload="none"
-      poster="/uploads/2-video/ra-tintemann-thumbnail.jpg">
-        <source src="/uploads/2-video/ra-tintemann-1080p-3.mp4" type="video/mp4" />
-      </video>
+      poster="/uploads/2-video/ra-tintemann-thumbnail.jpg"><source
+      type="video/mp4" src="/uploads/2-video/ra-tintemann-1080p-3.mp4"
+      /></video>
     image:
     cta: false
+  - abschnitt_template: box_hell
+    titel: Verbraucherinsolvenz
+    text_markdown: >-
+      Für Verbraucher gibt es die Möglichkeit des vereinfachten
+      **Verbraucherinsolvenzverfahrens.**
+
+
+      Dieses können auch ehemalige Selbständige durchlaufen, sofern ihre
+      Vermögensverhältnisse überschaubar sind. Dieses wird bei bis zu 20
+      Gläubigern angenommen.
+
+
+      Für alle natürlichen Personen gibt es ab dem 01.10.2020 die Möglichkeit
+      nach Ablauf von bereits 3 Jahren eine Restschuldbefreiung zu
+      erreichen.&nbsp;
+
+
+      Dies wird durch die neuen Vorschriften in der Insolvenzordnung möglich,
+      welche für Verbraucher erst einmal eingeschränkt bis zum 30.06.2025 gelten
+      sollen.&nbsp;
+    image: /uploads/insolvency-593750-640.jpg
+    cta: false
+  - abschnitt_template: weiss_bild_links
+    titel: Überschuldung und Schulden&shy;bereinigungsverfahren
+    text_markdown: >-
+      Wenn Sie sich in einer Überschuldungssituation befinden, kommt es zunächst
+      einmal darauf an, zu klären, wie hoch die gesamten Forderungen der
+      Gläubiger an Sie sind.
+
+
+      Meist ist es dann sinnvoll, in Verhandlungen mit den Gläubigern
+      einzutreten, um Ratenzahlungen, Stundungen oder Verzichte auf Forderungen
+      zu erreichen. Dieses kann im Rahmen eines **au&szlig;ergerichtlichen
+      Schuldbereinigungsversuchs** geschehen, der durch die Kanzlei AdvoAdvice
+      Rechtsanwälte erarbeitet und den Gläubigern vorgeschlagen wird.
+
+
+      Der au&szlig;ergerichtliche Schuldenbereinigungsversuch, bestätigt durch
+      eine hierzu berechtigte Stelle (z.B. einen Rechtsanwalt), ist auch
+      Voraussetzung für das Einreichen eines **Antrag auf Eröffnung der
+      Verbraucherinsolvenz**.
+
+
+      Sollte der au&szlig;ergerichtliche Schuldenbereinigungsversuch nicht zum
+      Erfolg führen, bleibt als nächster und folgerichtiger Schritt für
+      Verbraucher das Verbraucherinsolvenzverfahren.
+
+
+      Hier erhalten die Betroffenen durch die Kanzlei AdvoAdvice Hilfe beim
+      Ausfüllen und dem Stellen des Insolvenzantrags. Zudem erstellt die
+      Kanzlei, namentlich Dr. Sven Tintemann, für das
+      Verbraucherinsolvenzverfahren eine Bescheinigung über das Scheitern des
+      au&szlig;ergerichtlichen Schuldenbereinigungsversuchs.
+
+
+      Nach Einreichen des Insolvenzantrags steht die Kanzlei AdvoAdvide bei
+      Bedarf mit Rechtsrat weiter an der Seite der vertretenen Mandanten, auch
+      wenn es um die Abstimmung mit einem durch das Gericht eingesetzten
+      Treuhänder bzw. Insolvenzverwalter geht. Dies bis zur gewünschten
+      Erteilung der Restschuldbefreiung.
+    image:
+    cta: true
+  - abschnitt_template: box_hell
+    titel: Regelinsolvenz
+    text_markdown: >-
+      Für selbständig tätige Personen oder solche deren Vermögensverhältnisse /
+      Schulden nicht mehr überschaubar sind, führt der Weg in die
+      Regelinsolvenz.
+
+
+      Das Regelinsolvenzverfahren ist anders gegliedert und man benötigt hierzu
+      andere Antragsformulare.
+
+
+      Zudem ist das au&szlig;ergerichtliche Schuldenbereinigungsverfahren nicht
+      vorgesehen. Der Antrag kann also schneller bei dem zuständigen Amtsgericht
+      eingereicht werden.
+
+
+      Zuständig wird im Regelinsolvenzverfahren ein Insolvenzverwalter (nicht
+      ein Treuhänder wie im Verbraucherinsolvenzverfahren). Zudem ist eine
+      Gläubigerversammlung beim zuständigen Insolvenzgericht möglich.
+    image:
+    cta: false
+  - abschnitt_template: weiss_bild_links
+    titel: Restschuldbefreiung
+    text_markdown: >-
+      Ziel der Insolvenz bei natürlichen Personen, egal ob Verbraucher oder
+      nicht, ist die Restschuldbefreiung. Diese ist nach der neuen Gesetzeslage
+      bei Antragstellung ab dem 01.10.2020 bereits nach 3 Jahre möglich.&nbsp;
+
+
+      Mit der Erteilung der Restschuldbefreiung ist der Schuldner seine Schulden
+      dann los und kann von seinen Gläubigern dort ggf. vorhandene Titel, die
+      zur Zwangsvollstreckung verwendet werden können, herausverlangen.&nbsp;
+
+
+      Zudem kann eine Erledigung von Eintragungen bei Auskunfteien wie z.B.
+      Schufa Holding AG, Creditreform oder anderen Auskunfteien verlangt werden.
+    image:
+    cta: true
   - abschnitt_template: banner_bild_rechts
     titel: Insolvenz in Lettland
     text_markdown: >-
-      Nutzen Sie die Möglichkeiten der EU-Insolvenz in Lettland. Hierdurch
-      gelangen Sie zu einer schnelleren Restschuldbefreiung und entgehen der
-      Zwangsvollstreckung in Deutschland. Wir beraten Sie zu den rechtlichen
-      Begebenheiten, unterstützen Sie bei Ihrem Wohnsitzwechsel und der
-      Ansiedlung sowie Jobsuche in Lettland durch unsere lokalen Partner in Riga
-      (Lettland) und bringen Sie sicher bis zur Insolvenzeröffnung und zur
-      Restschuldbefreiung sowie deren Anerkennung und Umsetzung in Deutschland.
+      Informieren Sie sich auch gerne über die Möglichkeiten der EU-Insolvenz in
+      Lettland. Hierdurch gelangen Sie unter bestimmten Umständen zu einer
+      schnelleren Restschuldbefreiung und entgehen der Zwangsvollstreckung in
+      Deutschland.
+
+
+      Wir beraten Sie zu den rechtlichen Begebenheiten, unterstützen Sie bei
+      Ihrem Wohnsitzwechsel und der Ansiedlung sowie Jobsuche in Lettland durch
+      unsere lokalen Partner in Riga (Lettland) und bringen Sie sicher bis zur
+      Insolvenzeröffnung und zur Restschuldbefreiung sowie deren Anerkennung und
+      Umsetzung in Deutschland.
 
 
       [Weitere Informationen zur Insolvenz und Restschuldbefreiung in Lettland
       haben wir für Sie auf einer gesonderten Informationsseite
       zusammengestellt.](/themen/lettland-insolvenz/)
     image: /uploads/latvia-1758828-640.png
-    cta: true
-  - abschnitt_template: box_hell
-    titel: Verbraucherinsolvenz
-    text_markdown: >-
-      F&uuml;r Verbraucher gibt es die M&ouml;glichkeit des vereinfachten
-      **Verbraucherinsolvenzverfahrens.** Dieses k&ouml;nnen auch ehemalige
-      Selbst&auml;ndige durchlaufen, sofern ihre Verm&ouml;gensverh&auml;ltnisse
-      &uuml;berschauber sind. Dieses wird bei bis zu 20 Gl&auml;ubigern
-      angenommen. F&uuml;r Privatpersonen gibt es die M&ouml;glichkeit nach
-      Ablauf von 6 Jahren eine Restschuldbefreiung zu erreichen.
-
-
-      Kann man die Kosten des Insolvenzverfahrens beim zust&auml;ndigen Gericht
-      bezahlen, tritt die Restschuldbefreiung bereits ein Jahr zuvor ein. Wer in
-      der Lage ist, binnen drei Jahren ein Drittel seiner Schulden zu bezahlen,
-      der erh&auml;lt schon nach drei Jahren die Restschuldbefreiung.
-    image: /uploads/insolvency-593750-640.jpg
-    cta: false
-  - abschnitt_template: weiss_bild_links
-    titel: Überschuldung und Schulden&shy;bereinigungsverfahren
-    text_markdown: >-
-      Wenn Sie sich in einer &Uuml;berschuldungssituation befinden, kommt es
-      zun&auml;chst einmal darauf an, zu kl&auml;ren, wie hoch die gesamten
-      Forderungen der Gl&auml;ubiger an Sie sind. Meist ist es dann sinnvoll, in
-      Verhandlungen mit den Gl&auml;ubigern einzutreten, um Ratenzahlungen,
-      Stundungen oder Verzichte auf Forderungen zu erreichen. Dieses kann im
-      Rahmen eines **au&szlig;ergerichtlichen Schuldbereinigungsversuchs**
-      geschehen, der durch die Kanzlei AdvoAdvice Rechtsanw&auml;lte erarbeitet
-      und den Gl&auml;ubigern vorgeschlagen wird. Der au&szlig;ergerichtliche
-      Schuldenbereinigungsversuch, best&auml;tigt durch eine hierzu berechtigte
-      Stelle (z.B. einen Rechtsanwalt) ist auch Voraussetzung f&uuml;r das
-      Einreichen eines **Antrag auf Er&ouml;ffnung der Verbraucherinsolvenz**.
-
-
-      Sollte der au&szlig;ergerichtliche Schuldenbereinigungsversuch nicht zum
-      Erfolg f&uuml;hren, bleibt als n&auml;chster und folgerichtiger Schritt
-      f&uuml;r Verbraucher das Verbraucherinsolvenzverfahren. Hier erhalten die
-      Betroffenen durch die Kanzlei AdvoAdvice Hilfe beim Ausf&uuml;llen und dem
-      Stellen des Insolvenzantrags. Zudem erstellt die Kanzlei, namentlich Dr.
-      Sven Tintemann, f&uuml;r das Verbraucherinsolvenzverfahren eine
-      Bescheinigung &uuml;ber das Scheitern des au&szlig;ergerichtlichen
-      Schuldenbereinigungsversuchs. Nach Einreichen des Insolvenzantrags steht
-      die Kanzlei AdvoAdvide bei Bedarf mit Rechtsrat weiter an der Seite der
-      vertretenen Mandanten, auch wenn es um die Abstimmung mit einem durch das
-      Gericht eingesetzten Treuh&auml;nder bzw. Insolvenzverwalter geht. Dies
-      auf Wunsch so lange, bis die Restschuldbefreiung erteilt worden ist.
-    image:
-    cta: true
-  - abschnitt_template: box_hell
-    titel: Regelinsolvenz
-    text_markdown: >-
-      F&uuml;r selbst&auml;ndig t&auml;tige Personen oder solche deren
-      Verm&ouml;gensverh&auml;ltnisse / Schulden nicht mehr &uuml;berschaubar
-      sind, f&uuml;hrt der Weg in die Regelinsolvenz.
-
-
-      Das Regelinsolvenzverfahren ist anders gegliedert und man ben&ouml;tigt
-      hierzu andere Antragsformulare. Zudem ist das au&szlig;ergerichtliche
-      Schuldenbereinigungsverfahren nicht vorgesehen. Der Antrag kann also
-      schneller eingereicht werden.
-
-
-      Zust&auml;ndig wird im Regelinsolvenzverfahren ein Insolvenzverwalter
-      (nicht ein Treuh&auml;nder wie im Verbraucherinsolvenzverfahren). Zudem
-      ist eine Gl&auml;ubigerversammlung beim zust&auml;ndigen Insolvenzgericht
-      m&ouml;glich.
-    image:
-    cta: false
-  - abschnitt_template: weiss_bild_links
-    titel: Restschuldbefreiung
-    text_markdown: >-
-      Ziel der Insolvenz bei nat&uuml;rlichen Personen, egal ob Verbraucher oder
-      nicht, ist die Restschuldbefreiung. Diese wird in der Regel nach dem
-      Ablauf von sechs Jahren erteilt. Eine Verk&uuml;rzung der Fristen auf
-      f&uuml;nf Jahre bzw. drei Jahre ist m&ouml;glich, wenn z.B. die
-      Verfahrenkosten durch den Schuldner bezahlt werden k&ouml;nnen bzw. ein
-      Drittel der Schulden innerhalb von drei Jahren beglichen werden kann.
-
-
-      Mit der Erteilung der Restschuldbefreiung ist der Schuldner seine Schulden
-      dann los und kann von seinen Gl&auml;ubigern dort ggf. vorhandene Titel,
-      die zur Zwangsvollstreckung verwendet werden k&ouml;nnen,
-      herausverlangen.&nbsp; Zudem kann eine Erledigung von Eintragungen in der
-      Schufa Holding AG oder bei anderen Auskunfteien verlangt werden.
-    image:
     cta: true
   - abschnitt_template: weiss_bild_links
     titel: Unternehmensinsolvenz
