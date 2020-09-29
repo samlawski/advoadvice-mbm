@@ -50,7 +50,7 @@ abschnitte:
       /></video>
     image:
     cta: false
-  - abschnitt_template: box_hell
+  - abschnitt_template: weiss_bild_links
     titel: Verbraucherinsolvenz
     text_markdown: >-
       Für Verbraucher gibt es die Möglichkeit des vereinfachten
@@ -72,7 +72,7 @@ abschnitte:
       sollen.&nbsp;
     image: /uploads/insolvency-593750-640.jpg
     cta: false
-  - abschnitt_template: weiss_bild_links
+  - abschnitt_template: box_dunkel
     titel: Überschuldung und Schulden&shy;bereinigungsverfahren
     text_markdown: >-
       Wenn Sie sich in einer Überschuldungssituation befinden, kommt es zunächst
