@@ -8,7 +8,7 @@ description: >-
 header_titel: Sicher durch die Insolvenz
 header_image: /uploads/theme-insolvenz1.jpg
 erfolge:
-intro_titel: Mit AdvoAdvice schnell und zielsicher zur Restschuldbefreiung
+intro_titel: Mit AdvoAdvice schnell und zielsicher zur Restschuldbefreiung.
 intro_text_markdown: >-
   Durch hohe Schulden und Firmenpleiten werden Selbständige und Verbraucher
   gleichermassen betroffen. Lagen kurz nach Einführung der neuen
