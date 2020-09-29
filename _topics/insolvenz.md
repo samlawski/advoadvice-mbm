@@ -19,23 +19,36 @@ intro_text_markdown: >-
   in Zeiten guter Konjuktur feststellbar.
 
 
+  Als Folge der Corona-Pandemie ist davon auszugehen, dass in den nächsten
+  Monaten und vielleicht auch Jahren verstärkter Bedarf an Beratung im Bereich
+  des Insolvenzrechts besteht.&nbsp;
+
+
   Um der erdrückenden Schuldenlast zu entkommen, bleibt oftmals nur der Weg in
-  die Insolvenz, um Zwangsvollstreckungen und dem dauerhaften Anwachsen des
-  Schuldenbergs ein Ende zu setzen.
+  die Insolvenz, um Zwangsvollstreckungen und Besuchen des Gerichtsvollziehers
+  zu entkommen.&nbsp;
 
 
-  Kapitalgesellschaften, Personengesellschaften und Gewerbetreibende müssen das
+  Verbraucher haben hierbei die Möglichkeit das vereinfachte
+  Verbraucherinsolvenzverfahren (oft auch als Privatinsolvenz bezeichnet) zu
+  durchlaufen. Selbständige und Gewerbetreibende müssen das
   Regelinsolvenzverfahren durchlaufen.
+
+
+  Am Ende von beiden Verfahren steht für natürliche Personen die
+  Restschuldbefreiung. Diese ist ab dem 01.10.2020 bereits nach 3 Jahren
+  möglich.&nbsp;
 intro_link_text:
 intro_link:
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: 
+    titel:
     text_markdown: >-
-      <video class="video_embed" controls="controls" preload="none" poster="/uploads/2-video/ra-tintemann-thumbnail.jpg">
+      <video class="video_embed" controls="controls" preload="none"
+      poster="/uploads/2-video/ra-tintemann-thumbnail.jpg">
         <source src="/uploads/2-video/ra-tintemann-1080p-3.mp4" type="video/mp4" />
       </video>
-    image: 
+    image:
     cta: false
   - abschnitt_template: banner_bild_rechts
     titel: Insolvenz in Lettland
@@ -97,8 +110,8 @@ abschnitte:
       Schuldenbereinigungsversuchs. Nach Einreichen des Insolvenzantrags steht
       die Kanzlei AdvoAdvide bei Bedarf mit Rechtsrat weiter an der Seite der
       vertretenen Mandanten, auch wenn es um die Abstimmung mit einem durch das
-      Gericht eingesetzten Treuh&auml;nder bzw. Insolvenzverwalter geht. Dies auf
-      Wunsch so lange, bis die Restschuldbefreiung erteilt worden ist.
+      Gericht eingesetzten Treuh&auml;nder bzw. Insolvenzverwalter geht. Dies
+      auf Wunsch so lange, bis die Restschuldbefreiung erteilt worden ist.
     image:
     cta: true
   - abschnitt_template: box_hell
