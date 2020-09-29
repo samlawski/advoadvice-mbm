@@ -175,21 +175,32 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Unternehmensinsolvenz
     text_markdown: >-
-      AdvoAdvice ber&auml;t auch bei der Frage, ob eine Unternehmensinsolvenz
-      angezeigt ist. Hier gilt f&uuml;r verantwortliche
-      Gesch&auml;ftsf&uuml;hrer oder Vorst&auml;nde vor allem zu beachten, dass
-      eine Insolvenzverschleppung ausgeschlossen wird.
+      AdvoAdvice berät auch bei der Frage, ob eine Unternehmensinsolvenz
+      angezeigt ist. Hier gilt für verantwortliche Geschäftsführer oder
+      Vorstände vor allem zu beachten, dass eine Insolvenzverschleppung
+      ausgeschlossen wird.
 
 
-      Es muss hier innerhalb von drei Wochen, nachdem eine
-      Zahlungsunf&auml;higkeit des Unternehmens oder dessen &Uuml;berschuldung
-      bekannt ist, Insolvenzantrag gestellt werden.
+      Bisher galt, dass innerhalb von drei Wochen, nachdem eine
+      Zahlungsunfähigkeit des Unternehmens oder dessen Überschuldung bekannt
+      ist, Insolvenzantrag gestellt werden musste.&nbsp;
 
 
-      Hier ist somit zum einen Vorsicht und zum anderen Eile geboten,
-      insbesondere um eine eigene Haftung des Gesch&auml;ftsf&uuml;hrers /
-      Vorstandes sowie eine strafrechtliche Verfolgung durch die Justiz zu
-      vermeiden.
+      Diese Regelungen sind durch die Gesetzgebung im Rahmen der Corona-Pandemie
+      aufgeweicht und teilweise au&szlig;er Kraft gesetzt worden.&nbsp;
+
+
+      Vorsicht ist hier dennoch geboten, um sich als Geschäftsführer nicht den
+      Vorwurf ein Straftat (z.B. des Eingehungsbetruges) auszusetzen.&nbsp;
+
+
+      Zudem muss geprüft werden, ob nicht schon vor der Corona-Pandemie eine
+      Überschuldung bzw. Zahlungsunfähigkeit vorlag.&nbsp;
+
+
+      Hier hilft oft eine Beratung vom Rechtsanwalt, um die Rechtslage abklären
+      zu lassen und eine eigene persönliche Haftung oder eine Strafverfolgung
+      ausschlie&szlig;en zu können.&nbsp;
     image:
     cta: false
 redirect_from:
