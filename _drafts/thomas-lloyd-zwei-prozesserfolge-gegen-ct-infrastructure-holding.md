@@ -15,6 +15,8 @@ tags:
   - Landgericht Bochum
   - Zahlung
   - DKM Global Opportunities Fonds
+  - Erfolg
+  - Kündigung
 topics:
   - anlegerschutz
   - bank-und-kapitalmarkt
