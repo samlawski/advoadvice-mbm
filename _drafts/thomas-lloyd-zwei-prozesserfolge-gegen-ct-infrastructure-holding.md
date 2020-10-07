@@ -27,4 +27,6 @@ Das Landgericht Neubrandenburg und das Landgericht Bochum haben Klagen von ehema
 
 ## Unterschiedliche Ausgangslage bei klagenden Anlegern
 
-Ein klagender Anleger hatte seine Kapitalanlage&nbsp;
+Eine klagende Anlegerin hatte ihre Kapitalanlage au&szlig;erordentlich und fristlos gekündigt und danach Auszahlung bzw. Schadensersatz verlangt.&nbsp;
+
+Diesem Anspruch gab das Landgericht Neubrandenburg statt und begründete dies damit, dass die Anlegerin sich von dem Vertrag lösen konnte, weil es bei einer Fusion auf die Beklagte der Zustimmung der Anlegerin als stille Gesellschafterin bedurft hätte. Da diese nicht eingeholt worden sei,&nbsp;
