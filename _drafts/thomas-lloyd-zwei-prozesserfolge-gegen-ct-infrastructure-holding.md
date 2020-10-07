@@ -21,3 +21,10 @@ topics:
 author: dr-sven-tintemann
 ---
 
+## Zwei Erfolge für Anleger der DKM Global Opportunities Fonds vor Gericht
+
+Das Landgericht Neubrandenburg und das Landgericht Bochum haben Klagen von ehemaligen Anlegern der DKM Opportunities Fonds GmbH stattgegeben und deren Rechtsnachfolgerin CT Infrastructure Holding Ltd. jeweils erstinstanzlich zu Zahlungen an diese verurteilt.&nbsp;
+
+## Unterschiedliche Ausgangslage bei klagenden Anlegern
+
+Ein klagender Anleger hatte seine Kapitalanlage&nbsp;
