@@ -33,11 +33,15 @@ Das Landgericht Regensburg hat auf die Klage einer Anlegerin die CT Infrastrutur
 
 Geklagt hatte die Anlegerin, nachdem sie die Anlage au&szlig;erordentlich und fristlos nach einem Informationsschreiben über die Umwandlung gekündigt, von der Gesellschaft aber keine Rückzahlung erhalten hatte.&nbsp;
 
+## Au&szlig;erordentliche Kündigung für Anleger möglich
+
 Das Gericht bewertete die Kündigung als wirksam, da hierzu ein wichtiger Grund vorliege. Dieser sei gegeben, da entgegen der Vorgaben in den Genussrechtsbedingungen die ehemaligen Genussrechte der Klägerin und die durch Umwandlung erhaltenen Aktien der englischen Limited nicht gleichwertig seien.&nbsp;
 
 Das Gericht folgte damit der Argumentation der Kanzlei AdvoAdvice Rechtsanwälte und zudem seine internationale Zuständigkeit für die Entscheidung über die Klage ebenfalls an, so wie von AdvoAdvice durch Rechtsanwalt Dr. Sven Tintemann ebenfalls vorgetragen worden war.&nbsp;
 
 Die Entscheidung ist noch nicht rechtskräftig, da die Beklagte das Rechtsmittel der Berufung einlegen kann.&nbsp;
+
+## Weitere Erfolg für AdvoAdvice Anlegergemeinschaft
 
 Rechtsanwalt Dr. Sven Tintemann zeigt sich erfreut über die Entscheidung aus Regensburg und kommentiert diese wie folgt: "Das Gericht hat sich hier unserer Argumentation in den wesentlichen Punkten angeschlossen und die Beklagte zur Zahlung verurteilt. Diese Sicht wurde auch bereits durch andere Urteile verschiedener Landgerichte bestätigt. Zudem wurde auch erst kürzlich durch das Landgericht Leipzig und das Amtsgericht Schöneberg in mündlichen Verhandlungen eine hohe Tendenz erkennbar, den Klagen der dort vertretenen Anleger stattzugeben."
 
