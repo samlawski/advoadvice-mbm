@@ -6,9 +6,18 @@ description: >-
   Infrastructure Holding zur Zahlung nach Anlage bei DKM
 layout: post
 style_id: post
-image:
+image: /uploads/judgment-3667391-640.jpg
 tags:
+  - ThomasLloyd
+  - CT Infrastructure Holding Ltd.
+  - Urteil
+  - Landgericht Neubrandenburg
+  - Landgericht Bochum
+  - Zahlung
+  - DKM Global Opportunities Fonds
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
 
