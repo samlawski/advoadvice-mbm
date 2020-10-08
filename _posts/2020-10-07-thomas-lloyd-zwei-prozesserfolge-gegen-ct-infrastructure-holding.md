@@ -3,7 +3,8 @@ title: 'Thomas Lloyd: Zwei Prozesserfolge gegen CT Infrastructure Holding'
 date: 2020-10-07 00:00:00
 description: >-
   Landgericht Neubrandenburg und Landgericht Bochum verurteilen CT
-  Infrastructure Holding zur Zahlung nach Anlage bei DKM
+  Infrastructure Holding zur Zahlung nach Anlage bei DKM Global Opportunities
+  Fonds 01 GmbH.
 layout: post
 style_id: post
 image: /uploads/judgment-3667391-640.jpg
