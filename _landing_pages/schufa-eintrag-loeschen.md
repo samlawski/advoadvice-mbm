@@ -12,7 +12,9 @@ header_subtitle: >-
   bekämpfen.
 header_image: /uploads/advoadvice-01-45-von-80.jpg
 header_cta_titel: Erst mal ein Telefonat mit dem Experten buchen.
-header_cta_text: Vereinbaren Sie gleich ein kostenfreies Erstgespräch mit unseren Experten.
+header_cta_text: >-
+  Vereinbaren Sie gleich ein kostenfreies Erstgespräch mit unseren erfahrenen
+  Rechtsanwälten.
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
 abschnitte:
   - abschnitt_template: weiss_bild_links
