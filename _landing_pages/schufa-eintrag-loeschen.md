@@ -4,7 +4,7 @@ style_id: landing
 title: Schufa-Eintrag durch Kanzlei AdvoAdvice löschen
 description: >-
   Jetzt mit anwaltlicher Hilfe Ihre Einträge bei Auskunfteien wie der Schufa
-  Holding AG, Crif Bürger, Arvato Infoscore oder Creditreform Boniversum löschen
+  Holding AG, CRIF Bürgel, Arvato Infoscore oder Creditreform Boniversum löschen
   lassen.
 header_titel: Schufa-Eintrag löschen
 header_subtitle: Negative Einträge mit Hilfe vom Anwalt bekämpfen.
