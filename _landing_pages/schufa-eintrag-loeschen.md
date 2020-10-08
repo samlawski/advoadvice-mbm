@@ -7,7 +7,9 @@ description: >-
   Holding AG, CRIF Bürgel, Arvato Infoscore oder Creditreform Boniversum löschen
   lassen.
 header_titel: Schufa-Eintrag löschen
-header_subtitle: Negative Einträge mit Hilfe vom Anwalt bekämpfen.
+header_subtitle: >-
+  Negative Einträge bei Auskunfteien mit Hilfe von erfahrenen Anwälten
+  bekämpfen.
 header_image: /uploads/advoadvice-01-45-von-80.jpg
 header_cta_titel: Erst mal ein Telefonat mit dem Experten buchen.
 header_cta_text: Vereinbaren Sie gleich ein kostenfreies Erstgespräch mit unseren Experten.
