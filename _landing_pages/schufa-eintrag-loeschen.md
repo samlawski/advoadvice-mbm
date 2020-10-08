@@ -47,7 +47,7 @@ abschnitte:
       Legen Sie daher Ihre Zukunft lieber in die Hand von Experten und vertrauen
       Sie auf die langjährige Erfahrung von Rechtsanwalt Dr. Sven Tintemann und
       seinem Team der Kanzlei AdvoAdvice Rechtsanwälte mbB.&nbsp;
-    image: /uploads/dsgvo-3446011-1920-1.jpg
+    image:
     cta: true
   - abschnitt_template: box_dunkel
     titel: Schnelle Hilfe vom Anfang bis zum erfolgreichen Ende.
