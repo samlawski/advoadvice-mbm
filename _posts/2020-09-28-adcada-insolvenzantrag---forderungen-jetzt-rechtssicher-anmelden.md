@@ -4,7 +4,7 @@ date: 2020-09-28 00:00:00
 description: >-
   Anleger bei der ADCADA Unternehmensgruppe sollten jetzt Ihre Rechte geltend
   machen und Forderungen rechtssicher anmelden. Dabei gibt es aber einiges zu
-  beachten
+  beachten.
 layout: post
 style_id: post
 image: /uploads/money-1005464-640-2.jpg
