@@ -1,7 +1,9 @@
 ---
 title: Negativeintrag der Hanseatic Bank gelöscht
 date: 2020-10-08 00:00:00
-description: Eintrag der Hanseatic Bank bei der Schufa Holding AG gelöscht
+description: >-
+  Eintrag der Hanseatic Bank bei der Schufa Holding AG nach Eingreifen von
+  AdvoAdvice gelöscht.
 layout: post
 style_id: post
 image: /uploads/bank-2907728-640-1.jpg
