@@ -44,10 +44,7 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel:
     text_markdown: >-
-      <video class="video_embed" controls="controls" preload="none"
-      poster="/uploads/2-video/ra-tintemann-thumbnail.jpg"><source
-      type="video/mp4" src="/uploads/2-video/ra-tintemann-1080p-3.mp4"
-      /></video>
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JIt0pfNuzt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     image:
     cta: false
   - abschnitt_template: weiss_bild_links

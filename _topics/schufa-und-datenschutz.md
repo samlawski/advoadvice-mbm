@@ -24,9 +24,10 @@ intro_link: /schufa-beratung
 abschnitte:
   - abschnitt_template: weiss_bild_links
     titel:
-    text_markdown:
+    text_markdown: >-
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GlsadtDpPAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     image:
-    cta: true
+    cta: false
   - abschnitt_template: box_hell
     titel: Negativeintrag löschen
     text_markdown: >-

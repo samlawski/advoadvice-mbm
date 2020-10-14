@@ -18,6 +18,12 @@ header_cta_text: >-
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
 abschnitte:
   - abschnitt_template: weiss_bild_links
+    titel:
+    text_markdown: >-
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GlsadtDpPAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    image:
+    cta: false
+  - abschnitt_template: weiss_bild_links
     titel: Haben Sie Probleme mit einem Negativeintrag?
     text_markdown: >-
       Negativeinträge bei einer Auskunftei stellen Betroffene immer wieder vor
