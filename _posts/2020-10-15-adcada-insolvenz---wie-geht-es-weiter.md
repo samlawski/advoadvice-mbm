@@ -1,6 +1,6 @@
 ---
 title: ADCADA Insolvenz - Wie geht es weiter?
-date: 2020-10-16 00:00:00
+date: 2020-10-15 00:00:00
 description: >-
   Die Gesellschaften der Adcada Unternehmensgruppe sind zahlungsunfähig. Viele
   Anleger haben im Vertrauen auf ein junges, dynamisches und legal arbeitendes
@@ -74,4 +74,4 @@ Wir geben verständlichen, freundlichen Rechtsrat und beraten Sie konkret zu Ihr
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für sie nachvollziehbare realistische erst Einschätzung, damit Sie wissen, wo sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll ist.
 
-Wenden Sie sich auch gerne jederzeit per Email an uns oder rufen Sie einfach an. Unter der Rufnummer 030 921 000 40 erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.
+Wenden Sie sich auch gerne jederzeit per Email an uns oder rufen Sie einfach an. Unter der Rufnummer [030 921 000 40](tel:030 921 000 40) erreichen Sie unsere Kanzlei montags bis freitags von 9.00 bis 13.00 Uhr und von 14.00 bis 17.00 Uhr.
