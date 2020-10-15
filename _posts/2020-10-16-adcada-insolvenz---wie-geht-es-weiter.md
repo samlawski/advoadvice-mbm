@@ -10,8 +10,24 @@ layout: post
 style_id: post
 image: /uploads/insolvency-593750-640.jpg
 tags:
+  - ADCADA
+  - insolvenz
+  - ADCADA GmbH
+  - adcada.capital GmbH
+  - adcada.money Hypozins
+  - ADCADA Unternehmensgruppe
+  - ADCADA Investments AG PCC
+  - ADCADA.healthcare Bond
+  - adcada.money Festzins 09-2019
+  - adcada.money Festzins 06-2019
+  - AdvoAdvice Partnerschaft von Rechtsanwälten mbB
+  - Kim Oliver Klevenhagen
+  - Rechtsanwalt
+  - Fachanwalt für Bank- und Kapitalmarktrecht
 topics:
-author: dr-sven-tintemann
+  - anlegerschutz
+  - bank-und-kapitalmarkt
+author: kim-oliver-klevenhagen
 ---
 
 Die Gesellschaften der Adcada Unternehmensgruppe sind zahlungsunfähig. Viele Anleger haben im Vertrauen auf ein junges, dynamisches und legal arbeitendes Unternehmen gro&szlig;e Investitionen getätigt und Kapitalanlageprodukte der Adcada gezeichnet. Bereits seit längerem warnte die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) vor verschiedenen Kapitalanlageprodukten der ADCADA Gruppe. Auch andere europäische Aufsichtsbehörden veröffentlichten Warnmeldungen. AdvoAdvice Rechtsanwälte berichteten bereits ausführlich.
