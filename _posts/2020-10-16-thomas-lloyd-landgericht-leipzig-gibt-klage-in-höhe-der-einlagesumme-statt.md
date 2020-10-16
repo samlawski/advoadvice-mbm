@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Landgericht Leipzig gibt Klage in Höhe der Einlagesumme statt'
-date: 2020-10-15 00:00:00
+date: 2020-10-16 00:00:00
 description: >-
   Landgericht Leipzig bestätigt Kündigungsrecht eines Anlegers der Thomas Lloyd
   Investments GmbH und gibt Klage auf Zahlung statt.
