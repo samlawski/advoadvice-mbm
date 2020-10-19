@@ -1,7 +1,7 @@
 ---
 title: 'TargoBank: Abbuchung, Umzug, Schufa-Eintrag'
 date: 2020-10-19 00:00:00
-description: Schufa löscht Negativeintrag der TargoBank
+description: Schufa löscht Negativeintrag der TargoBank nach Eingreifen von AdvoAdvice.
 layout: post
 style_id: post
 image: /uploads/post-letter-2828146-1280-1.jpg
