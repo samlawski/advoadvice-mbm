@@ -1,5 +1,5 @@
 ---
-title: "BaFin Meldung: R & R Consulting\_GmbH („Aurimentum“) : Prospektpflicht bei zwei Vermögensanlagen nicht beachtet"
+title: "BaFin Meldung: R & R Consulting\_GmbH („Aurimentum“) : Prospektpflicht bei Gold-Vermögensanlage nicht beachtet"
 date: 2020-10-28 00:00:00
 description: "Die R\_& R Consulting\_GmbH bietet Goldanlagen in Form von Verträgen an, die \"Goldkäufe mit Treuebonus\" beinhalten. Nun gibt es eine BaFin-Meldung einen Verstoß gegen die Prospektpflicht"
 layout: post
