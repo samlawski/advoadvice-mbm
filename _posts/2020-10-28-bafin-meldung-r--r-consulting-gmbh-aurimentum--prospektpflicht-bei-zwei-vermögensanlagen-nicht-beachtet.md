@@ -27,10 +27,6 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-# BaFin Meldung: R & R Consulting GmbH („Aurimentum“) : Prospektpflicht bei zwei Vermögensanlagen nicht beachtet
-
-&nbsp;
-
 Die R & R Consulting GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „Aurimentum.de“ Goldanlagen in Form von Verträgen an, die "Goldkäufe mit Treuebonus" beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
@@ -54,6 +50,8 @@ Um die unter dem Namen Aurimentum angebotenen Investitionen in Goldanlagen gab e
 So wurden zuletzt von der R & R Consulting GmbH Bilanzen nicht entsprechend den gesetzlichen Vorschriften veröffentlicht, was für Unsicherheit und Fragen auf Anlegerseite geführt hatte.
 
 Ebenfalls gab es eine gerichtliche Entscheidung des LG Hamburg, in der das Gericht sich auch in Bezug auf die Frage, ob das Geschäftsmodell "Aurimentum" der R & R Consulting GmbH wegen eines möglichen Versto&szlig;es gegen das Gesetz über das Kreditwesen (Kreditwesengesetz - KWG) nicht gesetzeskonform ist, äu&szlig;erte. Nach dem Gericht sei es zu unterstellen, "*dass ein Versto&szlig; gegen &sect; 1 Abs. 1 Nr. 1 KWG" vorliege und auch Untersuchungen der BaFin stattgefunden hätten.*
+
+&nbsp;
 
 Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
 
