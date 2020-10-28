@@ -27,7 +27,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die R & R Consulting GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „Aurimentum.de“ Goldkäufe in Form von Verträgen an, die als "Goldkäufe mit Treuebonus" bezeichnet werden. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+Die R & R Consulting GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „Aurimentum.de“ unter anderem Verträge an, die als "Goldkäufe mit Treuebonus" bezeichnet werden. Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
 
@@ -39,15 +39,17 @@ Entgegen &sect; 6 VermAnlG wurde hierfür nach Einschätzung der BaFin kein den 
 
 #### Folgen der BaFin Meldung für Anleger
 
-Im Vertrauen auf rechtssicher angebotene Gold-Anlageprodukte dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Anlage in Edelmetallen und insbesondere Gold üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann.
+Im Vertrauen auf rechtssicher angebotene Gold-Anlageprodukte dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Anlage in Edelmetallen und insbesondere Gold üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von einer rechtlichen Bewertung des Aurimentum Vertragsmodells "Goldkaufs mit Treuebonus" als Vermögensanlage auszugehen.
 
 Um die unter dem Namen Aurimentum angebotenen Investitionen in Goldanlagen gab es bereits in der Vergangenheit Diskussionen.
 
-So wurden zuletzt von der R & R Consulting GmbH Bilanzen nicht entsprechend den gesetzlichen Vorschriften veröffentlicht, was für Unsicherheit und Fragen auf Anlegerseite geführt hatte.
+So wurden wohl zuletzt von der R & R Consulting GmbH Bilanzen nicht entsprechend den gesetzlichen Vorschriften veröffentlicht, was für Unsicherheit und Fragen auf Anlegerseite geführt hatte.
 
-Ebenfalls gab es eine gerichtliche Entscheidung des LG Hamburg, in der das Gericht sich auch in Bezug auf die Frage, ob das Geschäftsmodell "Aurimentum" der R & R Consulting GmbH wegen eines möglichen Versto&szlig;es gegen das Gesetz über das Kreditwesen (Kreditwesengesetz - KWG) nicht gesetzeskonform ist, äu&szlig;erte. Nach dem Gericht sei es zu unterstellen, "*dass ein Versto&szlig; gegen &sect; 1 Abs. 1 Nr. 1 KWG" vorliege und auch Untersuchungen der BaFin stattgefunden hätten.*
+Ebenfalls gab es nach einem Pressebericht angeblich wohl eine noch nicht rechtskräftige gerichtliche Entscheidung des LG Hamburg, in der das Gericht sich auch in Bezug auf die Frage, ob das Geschäftsmodell "Aurimentum" der R & R Consulting GmbH wegen eines möglichen Versto&szlig;es gegen das Gesetz über das Kreditwesen (Kreditwesengesetz - KWG) nicht gesetzeskonform ist, geäu&szlig;ert haben soll. Nach dem Bericht sei es laut den Äu&szlig;erungen des Gerichts zu unterstellen, "*dass ein Versto&szlig; gegen &sect; 1 Abs. 1 Nr. 1 KWG" vorliege und auch Untersuchungen der BaFin stattgefunden hätten.*
 
-Folge ist nun, dass hier die Anleger viele Fragen haben dürften, zumal die BaFin mit Ihrer Meldung jetzt eine Maschinerie in Gang gesetzt hat. Sollte sich nach etwaig durch den Anbieter der betreffenden Goldanlage eingelegten Rechtsmitteln bewahrheiten, dass Verstö&szlig;e gegen die Prospektpflicht vorliegen, dann ergeben sich viele Folgefragen, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risken behandelt hat und ob oder welche Personen für etwaig eingetretene Schäden haften könnten.
+Folge ist nun, dass hier die Anleger viele Fragen haben dürften, zumal die BaFin mit Ihrer Meldung jetzt eine Maschinerie in Gang gesetzt hat. Sollte sich nach etwaig durch den Anbieter der betreffenden Goldanlage eingelegten Rechtsmitteln bewahrheiten, dass Verstö&szlig;e gegen die Prospektpflicht vorliegen, dann ergäben sich viele Folgefragen, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risken behandelt hat und ob oder welche Personen für etwaig eingetretene Schäden haften könnten.
+
+Es sollte aber beachtet werden, dass nach der Meldung der BaFin vom 28.10.2020 nicht automatisch geklärt ist, ob es sich bei dem Angebot "Goldkauf mit Treuebonus" um eine Vermögens- bzw. Kapitalanlage handelt oder um einen reinen Kauf einer Sache.&nbsp;
 
 Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
 
