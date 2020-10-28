@@ -27,7 +27,7 @@ topics:
 author: kim-oliver-klevenhagen
 ---
 
-Die R & R Consulting GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „Aurimentum.de“ Goldanlagen in Form von Verträgen an, die "Goldkäufe mit Treuebonus" beinhalten. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+Die R & R Consulting GmbH bietet in Deutschland für interessierte Anleger und Investoren unter der Webseite „Aurimentum.de“ Goldkäufe in Form von Verträgen an, die als "Goldkäufe mit Treuebonus" bezeichnet werden. Für diese Vermögensanlagen gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
 
