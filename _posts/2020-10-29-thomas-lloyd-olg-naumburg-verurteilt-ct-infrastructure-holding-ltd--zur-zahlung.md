@@ -8,7 +8,7 @@ description: >-
   Anleger.
 layout: post
 style_id: post
-image:
+image: /uploads/olg-naumburg-i.jpg
 tags:
   - Thomas Lloyd Investments GmbH
   - CT Infrastructure Holding Ltd.
