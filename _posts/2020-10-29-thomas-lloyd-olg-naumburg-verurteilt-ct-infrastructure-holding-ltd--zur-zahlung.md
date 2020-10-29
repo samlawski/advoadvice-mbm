@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: OLG Naumburg verurteilt CT Infrastructure Holding Ltd. zur
   Zahlung
-date: 2020-10-29 10:00:00
+date: 2020-10-29 00:00:00
 description: >-
   Berufungsgericht verurteilt CT Infrastructure Holding Ltd. zur Zahlung an
   Anleger.
