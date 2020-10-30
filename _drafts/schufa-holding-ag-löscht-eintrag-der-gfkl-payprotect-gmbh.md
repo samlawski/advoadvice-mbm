@@ -18,6 +18,7 @@ tags:
   - Ratenzahlungsvereinbarung
   - Ratenzahlung
 topics:
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 
