@@ -1,7 +1,9 @@
 ---
-title: Schufa-Eintrag vor Gerichtsentscheidung beseitigt
-date: 2020-10-30 00:00:00
-description: Schufa-Eintrag vor Erlass einer einstweiligen Verfügung gegen Telekom gelöscht
+title: Schufa-Eintrag durch Telekom gelöscht nach Antrag vor LG Schwerin
+date: 2020-11-04 00:00:00
+description: >-
+  Schufa-Eintrag nach Antrag auf Erlass einer einstweiligen Verfügung gegen
+  Telekom gelöscht.
 layout: post
 style_id: post
 image: /uploads/phone-1767113-1280.jpg
