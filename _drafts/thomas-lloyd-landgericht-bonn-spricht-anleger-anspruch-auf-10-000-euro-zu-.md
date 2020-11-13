@@ -7,9 +7,24 @@ description: >-
   (Wien).
 layout: post
 style_id: post
-image:
+image: /uploads/clause-192558-1280.jpg
 tags:
+  - ThomasLloyd Investments GmbH
+  - CT Infrastructure Holding Ltd.
+  - Urteil
+  - Landgericht Bonn
+  - Erfolg
+  - Klage
+  - Anlegerin
+  - Zahlung
+  - Genussrechtsbeteiligung
+  - Kündigung
+  - gekündigt
+  - AdvoAdvice
 topics:
+  - thomas-lloyd-anlegergemeinschaft
+  - bank-und-kapitalmarkt
+  - anlegerschutz
 author: dr-sven-tintemann
 ---
 
