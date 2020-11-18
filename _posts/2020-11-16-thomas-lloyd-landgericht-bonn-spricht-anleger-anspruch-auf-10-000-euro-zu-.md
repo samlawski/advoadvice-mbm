@@ -28,7 +28,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Das Landgericht Bochum hat nach einer mündlichen Verhandlung vom 13. Oktober 2020 einer Anlegerin der Thomas Lloyd Investments GmbH einen Auszahlungsanspruch gegen deren Rechtsnachfolgerin CT Infrastructure Holding Limited zugesprochen.
+Das Landgericht Bonn hat nach einer mündlichen Verhandlung vom 13. Oktober 2020 einer Anlegerin der Thomas Lloyd Investments GmbH einen Auszahlungsanspruch gegen deren Rechtsnachfolgerin CT Infrastructure Holding Limited zugesprochen.
 
 ## Hintergrund der Klage
 
