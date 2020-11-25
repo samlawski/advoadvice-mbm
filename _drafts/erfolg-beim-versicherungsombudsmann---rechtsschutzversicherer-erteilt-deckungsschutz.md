@@ -12,4 +12,4 @@ topics:
 author: dr-sven-tintemann
 ---
 
-AL sollte sich kümmern.&nbsp;
+AL sollte sich kümmern.
