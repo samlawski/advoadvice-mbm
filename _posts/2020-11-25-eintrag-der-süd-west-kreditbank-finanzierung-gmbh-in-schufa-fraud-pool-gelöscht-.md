@@ -2,7 +2,7 @@
 title: >-
   Eintrag der Süd-West-Kreditbank Finanzierung GmbH in Schufa Fraud-Pool
   gelöscht.
-date: 2020-11-23 00:00:00
+date: 2020-11-25 00:00:00
 description: >-
   Eintrag der Süd-West-Kreditbank Finanzierung GmbH (SWK Bank) im Schufa
   Fraud-Pool nach Tätigkeit von AdvoAdvice gelöscht.
