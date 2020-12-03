@@ -1,5 +1,5 @@
 ---
-title: SCHUFA Holding AG löscht gegenüber Negativeintrag der American Express
+title: SCHUFA Holding AG löscht Negativeintrag der American Express
 date: 2020-11-13 00:00:00
 description: >-
   Negativer Eintrag der American Express durch Schufa Holding AG nach Tätigkeit
