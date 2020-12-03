@@ -1,5 +1,7 @@
 ---
-title: Landgericht Berlin verurteilt zu 1.000 Euro Schmerzensgeld nach Schufa-Eintrag
+title: >-
+  Landgericht Berlin verurteilt Inkassofirma zu 1.000 Euro Schmerzensgeld nach
+  Schufa-Eintrag
 date: 2020-12-03 00:00:00
 description: >-
   Collectia GmbH nach Eintrag bei der Schufa Holding AG zu Schmerzensgeld
@@ -40,6 +42,8 @@ Bei der Höhe des Schmerzensgeldes wird zunächst auf den Schutzzweck des BDSG a
 *"Die Nachlässigkeit, mit der die Beklagte diese Regelungen — hier des BDSG — handhabt, zeigt, dass ihr die tatsächlichen und rechtlichen Wirkungen ihrer ungeprüften Einmeldungen bei der Schufa Holding AG für den Einzelnen entweder gleichgültig sind oder von ihr vollkommen unterschätzt werden. Sie bauscht den Verzug mit dem Ausgleich von zwei Forderungen in Höhe von jeweils 15 € im Sommer 2017 in einer Weise auf, der in keinem Verhältnis zur Tragweite ihrer<br>unter Versto&szlig; gegen &sect; 28a BDSG vorgenommenen Weitergabe personenbezogener Daten für den Einzelnen steht.*
 
 *Sie zeigt sich bezüglich des Gewichtes ihres Versto&szlig;es gegen geltendes Recht und des rechtswidrigen Eingriffs in die Rechte des Klägers auch nicht einsichtig, was im Rahmen der Bemessung der Höhe des Schmerzensgeldes unter den Gesichtspunkten der Genugtuungs- und Präventionsfunktion zu berücksichtigen ist."*
+
+Die Entscheidung ist noch nicht rechtskräftig, da die Beklagte hiergegen das Rechtsmittel der Berufung einlegen kann.
 
 ## Einschätzung des Urteils von AdvoAdvice
 
