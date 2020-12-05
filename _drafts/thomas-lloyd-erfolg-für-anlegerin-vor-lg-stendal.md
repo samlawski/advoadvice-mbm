@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Erfolg für Anlegerin vor LG Stendal'
-date: 2020-11-30 00:00:00
+date: 2020-12-05 00:00:00
 description: >-
   Landgericht Stendal verurteilt CT Infrastructure Holding Ltd. ein weiteres Mal
   zur Zahlung.
