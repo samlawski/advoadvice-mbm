@@ -43,7 +43,7 @@ Für die Angabe der Beklagten, aus dem Jahresabschluss der Gesellschaft des Jahr
 
 Ein klarer Hinweis darauf, dass das Gericht dem Zahlenwerk der Beklagten in der vorgelegten Form keinen Glauben schenkt.
 
-Das Gericht sprach der Anlegerin neben der eingezahlten Anlagesumme auch einen Anspruch auf einen Gewinnanteil zu, da dieser in einer Abrechnung zum 31.12.2016 von der Thomas Lloyd Investement GmbH an die Anlegerin mitgeteilt worden sei. Dass sich dieser Anspruch im Laufe des Jahres 2017 verringert habe, habe die Beklagte nicht zur Überzeugung des Gerichts belegt.&nbsp;
+Das Gericht sprach der Anlegerin neben der eingezahlten Anlagesumme auch einen Anspruch auf einen Gewinnanteil zu, da dieser in einer Abrechnung zum 31.12.2016 von der Thomas Lloyd Investments GmbH an die Anlegerin mitgeteilt worden sei. Dass sich dieser Anspruch im Laufe des Jahres 2017 verringert habe, habe die Beklagte nicht zur Überzeugung des Gerichts belegt.&nbsp;
 
 Die Entscheidung ist noch nicht rechtskräftig. Sie kann mit dem Rechtsmittel der Berufung angegriffen werden.&nbsp;
 
