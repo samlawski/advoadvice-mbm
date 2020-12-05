@@ -20,7 +20,7 @@ tags:
   - Schuldenbereinigung
   - Insolvenzantrag
 topics:
-  - lettland-insolvenz
+  - insolvenz
 author: dr-sven-tintemann
 ---
 
