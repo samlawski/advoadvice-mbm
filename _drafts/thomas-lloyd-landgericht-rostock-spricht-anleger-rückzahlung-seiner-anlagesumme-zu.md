@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: Landgericht Rostock spricht Anleger Rückzahlung seiner
   Anlagesumme zu.
-date: 2020-12-09 13:29:31
+date: 2020-12-09 13:30:59
 description: >-
   Landgericht Rostock spricht Anleger Anlagebetrag in Höhe von 9.600 Euro gegen
   CT Infrastructure Holding zu.
@@ -32,9 +32,13 @@ author: dr-sven-tintemann
 
 Das Landgericht Rostock hat die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH zur Zahlung von 9.600 Euro verurteilt.&nbsp;
 
+## Klage nach Kündigung zum 31.12.2018 eingereicht
+
 Geklagt hatte ein Anleger, der seine Genussrechtsbeteiligung zum 31.12.2018 gekündigt, aber keine Rückzahlung seitens der Anlagegesellschaft bzw. nach deren Umwandlung von deren Rechtsnachfolgerin erhalten hatte.&nbsp;
 
 Eine Rückzahlung hatte die Beklagte zuvor abgelehnt, mit den Argumenten, dass zwischenzeitig eine Umwandlung der Gesellschaft erfolgt sei und dass zudem eine Abwertung der Anteile zu einem Wert von 0,00 Euro geführt habe.&nbsp;
+
+## Landgericht Rostock gibt Rückzahlungsanspruch statt
 
 Das Landgericht Rostock gab dem klagenden Anleger zum Gro&szlig;teil Recht und verurteilte die Beklagte zur Zahlung des Anlagebetrages in Höhe von 9.600 Euro.
 
@@ -47,6 +51,8 @@ Das Gericht führte hierzu aus:&nbsp;
 Einen Anspruch des Anlegers auf den Wert, welchen die Anlagegesellschaft für die Anlage selbst zum 31.12.2018 mitgeteilt hatte, sah das Landgericht Rostock nicht als begründet an. Dieses hatte z.B. das Landgericht Dortmund vor kurzem anders bewertet und einer Anlegerin den mitgeteilten Wert der Anlage zugesprochen.&nbsp;
 
 Die Entscheidung ist noch nicht rechtkräftig, da gegen sie das Rechtsmittel der Berufung zum OLG Rostock (oben im Bild zu sehen) eingelegt werden kann.&nbsp;
+
+## Rechtsprechung festigt sich zu Gunsten der klagenden Anleger
 
 Die Kanzlei AdvoAdvice wird über den weiteren Prozessverlauf weiterhin berichten.&nbsp;
 
