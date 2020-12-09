@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: Landgericht Rostock spricht Anleger Rückzahlung seiner
   Anlagesumme zu.
-date: 2020-12-09 13:30:59
+date: 2020-12-09 10:58:00
 description: >-
   Landgericht Rostock spricht Anleger Anlagebetrag in Höhe von 9.600 Euro gegen
   CT Infrastructure Holding zu.
