@@ -1,7 +1,9 @@
 ---
 title: Collectia widerruf Schufa-Eintrag
-date: 2020-12-11 11:00:23
-description: Schufa-Eintrag wegen fehlender Warnhinweise gelöscht
+date: 2020-12-11 12:00:00
+description: >-
+  Schufa-Eintrag wegen fehlender Warnhinweise in Mahnungen durch Collectia GmbH
+  gelöscht.
 layout: post
 style_id: post
 image: /uploads/sport-2253634-1280.jpg
