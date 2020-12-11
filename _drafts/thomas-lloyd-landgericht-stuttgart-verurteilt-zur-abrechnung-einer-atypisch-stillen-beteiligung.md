@@ -1,9 +1,7 @@
 ---
-title: >-
-  Thomas Lloyd: Landgericht Stuttgart verurteilt zur Abrechnung einer atypisch
-  stillen Beteiligung
-date: 2020-12-11 11:26:31
-description: Az. 1254/19
+title: 'Thomas Lloyd: Zwei Klagen vor Landgericht Stuttgart erfolgreich'
+date: 2020-12-11 11:27:43
+description: Az. 1254/19 und Az. 1017/20
 layout: post
 style_id: post
 image:
