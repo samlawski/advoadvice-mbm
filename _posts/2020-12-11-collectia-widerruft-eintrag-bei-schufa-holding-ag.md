@@ -1,12 +1,12 @@
 ---
-title: Collectia widerruf Schufa-Eintrag
+title: Collectia widerruft Eintrag bei Schufa Holding AG
 date: 2020-12-11 12:00:00
 description: >-
   Schufa-Eintrag wegen fehlender Warnhinweise in Mahnungen durch Collectia GmbH
   gelöscht.
 layout: post
 style_id: post
-image: /uploads/sport-2253634-1280.jpg
+image: /uploads/christmas-1884597-1280.jpg
 tags:
   - Schufa Eintrag
   - Schufa Recht
@@ -48,7 +48,7 @@ In der Folgezeit konnte die Löschung des Eintrages zeitnah bestätigt werden. U
 
 ## Fazit
 
-Rechtsanwalt Dr. Tintemann, Experte für die Prüfung von Datenübermittlungen an Auskunfteien, zeigte sich nach Löschung des Eintrages zufrieden. Sein Kommentar\:
+Rechtsanwalt Dr. Tintemann, Experte für die Prüfung von Datenübermittlungen an Auskunfteien, zeigte sich nach Löschung des Eintrages zufrieden. Sein Kommentar:
 
 "Bei nahezu jedem Negativeintrag muss überprüft werden, ob die Meldevoraussetzungen vorliegen. Bei der Meldung passieren mehr Fehler, als man annehmen würde. Gleichzeitig kann nicht jede Forderung frühzeitig gelöscht werden. Wer unter einem Eintrag bei der Schufa oder anderen Auskunfteien leidet, kann versuchen, selbst eine Löschung herbeizuführen. Gelingt dies nicht, bietet sich Hilfe von einer spezialisierten Anwaltskanzlei an."
 
