@@ -1,6 +1,6 @@
 ---
 title: Collectia widerruft Eintrag bei Schufa Holding AG
-date: 2020-12-11 12:00:00
+date: 2020-12-11 00:00:00
 description: >-
   Schufa-Eintrag wegen fehlender Warnhinweise in Mahnungen durch Collectia GmbH
   gelöscht.
