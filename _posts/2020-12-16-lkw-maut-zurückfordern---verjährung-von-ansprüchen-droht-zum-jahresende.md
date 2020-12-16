@@ -1,6 +1,6 @@
 ---
 title: LKW-Maut zurückfordern - Verjährung von Ansprüchen droht zum Jahresende
-date: 2020-12-16 21:32:16
+date: 2020-12-16 20:17:00
 description: >-
   Bundesrepublik Deutschland berechnet die LKW-Maut seit Jahren fehlerhaft.
   Erhebliche Rückforderung durch EuGH Urteil jetzt möglich.
