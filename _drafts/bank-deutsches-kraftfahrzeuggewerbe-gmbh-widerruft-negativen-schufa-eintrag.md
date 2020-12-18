@@ -1,6 +1,6 @@
 ---
 title: Bank Deutsches Kraftfahrzeuggewerbe GmbH widerruft negativen Schufa-Eintrag
-date: 2020-12-16 15:59:43
+date: 2020-12-18 11:20:55
 description: Negativeintrag bei der Schufa nach Fahrzeugfinanzierung
 layout: post
 style_id: post
