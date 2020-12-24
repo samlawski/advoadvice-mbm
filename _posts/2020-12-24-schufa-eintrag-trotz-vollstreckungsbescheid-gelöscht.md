@@ -1,6 +1,6 @@
 ---
 title: Schufa-Eintrag trotz Vollstreckungsbescheid gelöscht
-date: 2020-12-24 19:36:00
+date: 2020-12-24 00:00:00
 description: Forderung von EnBW AG nach Titulierung der Tesch Inkasso gelöscht
 layout: post
 style_id: post
