@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: OLG Celle will zwei Berufungen zurückweisen'
-date: 2020-12-29 20:29:32
+date: 2020-12-29 10:51:00
 description: >-
   Oberlandesgericht Celle will zwei Berufungen der CT Infrastructure Holding
   Ltd. zurückweisen.
@@ -18,6 +18,7 @@ tags:
   - Erfolg
   - Anleger
   - AdvoAdvice
+  - DKM Global Opportunities Fonds
 topics:
   - anlegerschutz
   - thomas-lloyd-anlegergemeinschaft
