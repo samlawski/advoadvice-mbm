@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Lloyd: Zwei Klagen vor Landgericht Stuttgart erfolgreich'
+title: 'Thomas Lloyd: Zwei Klagen vor Landgericht Stuttgart erfolgreich.'
 date: 2020-12-31 00:00:00
 description: >-
   Landgericht Stuttgart gibt zwei Klagen von AdvoAdvice gegen CT Infrastructure
