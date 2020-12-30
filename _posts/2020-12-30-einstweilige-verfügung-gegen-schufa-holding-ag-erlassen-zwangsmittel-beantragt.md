@@ -2,7 +2,7 @@
 title: >-
   Einstweilige Verfügung gegen Schufa Holding AG erlassen; Zwangsmittel
   beantragt
-date: 2020-12-30 22:56:29
+date: 2020-12-30 15:58:00
 description: >-
   Negativeintrag der Purps Vogel Flinder GbR wegen Forderung der Allianz Private
   Krankenversicherung AG gelöscht.
