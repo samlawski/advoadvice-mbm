@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Zwei Klagen vor Landgericht Stuttgart erfolgreich'
-date: 2020-12-29 21:06:36
+date: 2020-12-30 23:01:39
 description: >-
   Landgericht Stuttgart gibt zwei Klagen von AdvoAdvice gegen CT Infrastructure
   Holding Ltd. statt.
@@ -32,7 +32,7 @@ In einer Entscheidung der Kammer für Handelssachen, der eine atypisch stille Be
 
 Das Gericht führte in seiner Entscheidung wie folgt aus:&nbsp;
 
-*1\.) Die Verschmelzung der ursprünglichen Beteiligungsgesellschaft, der DKM 01, auf die Beklagte hätte nach &sect; 5 Abs. 2 und Abs. 3 asGV der Zustimmung der Klägerin als atypisch stiller Gesellschafterin bedurft. Die vorliegend unstreitig fehlende Zustimmung der Klägerin führt dazu, dass sie die Beteiligung au&szlig;erordentlich kündigen durfte. \[...\]*
+*1\.) Die Verschmelzung der ursprünglichen Beteiligungsgesellschaft, der DKM 01, auf die Beklagte hätte nach &sect; 5 Abs. 2 und Abs. 3 asGV der Zustimmung der Klägerin als atypisch stiller Gesellschafterin bedurft. Die vorliegend unstreitig fehlende Zustimmung der Klägerin führt dazu, dass sie die Beteiligung au&szlig;erordentlich kündigen durfte. \[…\]*
 
 *2\.) Die Klägerin hat nach wirksamer Kündigung daher nach &sect; 5 Abs. 4 S. 4 i.V.m. &sect; 15 asGV einen Anspruch auf Auszahlung ihres Abfindungsguthabens. Dieses ist nach &sect; 5 Abs. 4 S. 4 asGV ohne Berücksichtigung der zustimmungspflichtigen Ma&szlig;nahme zu ermitteln, also mit Stichtag 31.12.2018. Die DKM 01 ist zwar zu diesem Stichtag verschmolzen worden und existiert als solche ab 31.12.2018 24:00 Uhr nicht mehr; dies ist aber für die Ermittlung des Werts Abfindungsguthabens unerheblich.*
 
