@@ -38,7 +38,7 @@ abschnitte:
       verschiedenen Umständen ab, welche im Einzelfall zu ermitteln sind.
     image: MAXIMUM_DEPTH
     cta: MAXIMUM_DEPTH
-sitemap: true
+sitemap: false
 ---
 
 
