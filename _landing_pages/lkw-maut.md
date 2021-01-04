@@ -13,7 +13,7 @@ header_cta_text: >-
 header_portrait_image: /uploads/sven-portrait-04-square-sm-min.jpg
 abschnitte:
   - abschnitt_template: grafik_volle_breite
-    titel: LKW_Maut_Header
+    titel:
     text_markdown:
     image: /uploads/lkw-maut.jpg
     cta: MAXIMUM_DEPTH
@@ -40,4 +40,5 @@ abschnitte:
     cta: MAXIMUM_DEPTH
 sitemap: true
 ---
+
 
