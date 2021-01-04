@@ -19,8 +19,8 @@ abschnitte:
     cta: MAXIMUM_DEPTH
   - abschnitt_template: box_hell
     titel: >-
-      Bundesrepublik Deutschland berechnet Lkw Maut falsch – Machen Sie Ihre
-      Ansprüche geltend!
+      Bundesrepublik Deutschland berechnet Lkw Maut falsch – Jetzt aktiv
+      werden!!
     text_markdown: >-
       In seinem Urteil vom 28. Oktober 2020 hat der Europäische Gerichtshof
       klargestellt, dass die Bundesrepublik Deutschland die Höhe der LKW-Maut
@@ -38,6 +38,20 @@ abschnitte:
       verschiedenen Umständen ab, welche im Einzelfall zu ermitteln sind.
     image: MAXIMUM_DEPTH
     cta: MAXIMUM_DEPTH
+  - abschnitt_template: box_dunkel
+    titel: 'Was zu tun ist und wie wir Ihnen helfen:'
+    text_markdown: >-
+      Wichtig ist zunächst, dass sie ihre Toll Collect Abrechnungen
+      zusammenstellen. Anhand dieser Abrechnungen kann ermittelt werden, welche
+      Beträge zurückgefordert werden können.
+
+
+      Wenn Sie uns die Abrechnungen zur Verfügung stellen, prüfen wir gerne, ob
+      und welche Mautgebühren zurückverlangt werden können. In manchen Fällen
+      ist denkbar, dass die Maut der letzten Jahre zurückverlangt werden kann.
+      Dies hängt jedoch vom Einzelfall ab.
+    image:
+    cta: true
 sitemap: false
 ---
 
