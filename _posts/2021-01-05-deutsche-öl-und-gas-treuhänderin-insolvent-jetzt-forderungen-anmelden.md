@@ -1,12 +1,12 @@
 ---
 title: 'Deutsche Öl und Gas: Treuhänderin insolvent, jetzt Forderungen anmelden'
-date: 2021-01-05 10:19:15
+date: 2021-01-05 10:19:00
 description: >-
   Amtsgericht Hamburg eröffnet Insolvenz über Vermögen der TB Treuhand
   Wirtschaftsprüfungsgesellschaft.
 layout: post
 style_id: post
-image: /uploads/insolvency-593750-640-1.jpg
+image: /uploads/dogsa-prospekt-nsv-4.jpg
 tags:
   - Deutsche Öl und Gas AG
   - TB Treuhand GmbH Wirtschaftsprüfungsgesellschaft
@@ -31,7 +31,7 @@ Bestehende Forderungen müssen bis zum 18. Februar 2021 zur Insolvenztabelle ang
 
 ## Zum Hintergrund der Insolvenz
 
-Die TB Treuhand GmbH Wirtschaftsprüfungsgesellschaft war Treuhänderin mehrerer Fonds-Gesellschaften.&nbsp;Zu benennen sind hier folgende Firmen:
+Die TB Treuhand GmbH Wirtschaftsprüfungsgesellschaft war Treuhänderin mehrerer Fonds-Gesellschaften. Zu benennen sind hier folgende Firmen:
 
 ### KG-Beteiligungen:
 
