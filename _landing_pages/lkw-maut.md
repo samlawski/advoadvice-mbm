@@ -52,7 +52,7 @@ abschnitte:
       Dies hängt jedoch vom Einzelfall ab.
     image:
     cta: true
-  - abschnitt_template: weiss_bild_links
+  - abschnitt_template: banner_bild_rechts
     titel:
     text_markdown:
     image: /uploads/lkw-maut---infografik.jpg
