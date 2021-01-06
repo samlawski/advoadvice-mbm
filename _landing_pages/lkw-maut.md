@@ -50,13 +50,7 @@ abschnitte:
       und welche Mautgebühren zurückverlangt werden können. In manchen Fällen
       ist denkbar, dass die Maut der letzten Jahre zurückverlangt werden kann.
       Dies hängt jedoch vom Einzelfall ab.
-    image:
-    cta: true
-  - abschnitt_template: banner_bild_rechts
-    titel:
-    text_markdown:
     image: /uploads/lkw-maut---infografik.jpg
     cta: true
 sitemap: false
 ---
-
