@@ -15,7 +15,7 @@ abschnitte:
   - abschnitt_template: grafik_volle_breite
     titel:
     text_markdown:
-    image: /uploads/lkw-maut.jpg
+    image: /uploads/lkw-maut-1.jpg
     cta: MAXIMUM_DEPTH
   - abschnitt_template: box_hell
     titel: >-
@@ -54,5 +54,4 @@ abschnitte:
     cta: true
 sitemap: false
 ---
-
 
