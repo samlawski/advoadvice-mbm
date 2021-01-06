@@ -41,15 +41,27 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: 'Was zu tun ist und wie wir Ihnen helfen:'
     text_markdown: >-
-      Wichtig ist zunächst, dass sie ihre Toll Collect Abrechnungen
+      Zuerst muss geprüft werden, bei wem Sie die Ihnen zustehenden Ansprüche
+      geltend machen können. Dafür kommen unterschiedliche Konstellationen in
+      Betracht, da nicht jedes Unternehmen nur über eigene Lastwagen verfügt.
+      Über die dazugehörigen Informationen kann beim ersten Telefonat gesprochen
+      werden.
+
+
+      Wichtig ist sodann, dass sie ihre Toll Collect Abrechnungen
       zusammenstellen. Anhand dieser Abrechnungen kann ermittelt werden, welche
-      Beträge zurückgefordert werden können.
+      Beträge zurückgefordert werden können. Je detaillierter die Aufstellungen
+      sind, desto besser.
 
 
       Wenn Sie uns die Abrechnungen zur Verfügung stellen, prüfen wir gerne, ob
       und welche Mautgebühren zurückverlangt werden können. In manchen Fällen
       ist denkbar, dass die Maut der letzten Jahre zurückverlangt werden kann.
-      Dies hängt jedoch vom Einzelfall ab.
+      Wie weit die Ansprüche in die Vergangenheit geltend gemacht werden können,
+      hängt jedoch vom Einzelfall ab.
+
+
+      Haben Sie weitere Fragen? Zögern Sie nicht uns anzurufen.
     image: /uploads/lkw-maut---infografik.jpg
     cta: true
 sitemap: false
