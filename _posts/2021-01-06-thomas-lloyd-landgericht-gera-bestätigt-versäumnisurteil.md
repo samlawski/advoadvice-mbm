@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Landgericht Gera bestätigt Versäumnisurteil'
-date: 2021-01-06 15:06:22
+date: 2021-01-06 14:33:00
 description: >-
   Landgericht Gera bestätigt Versäumnisurteil gegen die CT Infrastructure
   Holding Ltd. nach mündlicher Verhandlung über Einspruch.
