@@ -62,7 +62,7 @@ abschnitte:
 
 
       Haben Sie weitere Fragen? Zögern Sie nicht uns anzurufen.
-    image: /uploads/lkw-maut---infografik.jpg
+    image:
     cta: true
   - abschnitt_template: grafik_volle_breite
     titel:
