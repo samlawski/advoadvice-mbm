@@ -76,7 +76,7 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: Holen Sie sich jetzt Ihr Geld zurück!
     text_markdown: >-
-      ## Wie kommen Sie an Ihr Geld?
+      ### Wie kommen Sie an Ihr Geld?
 
 
       Zuerst muss geprüft werden, bei wem Sie die Ihnen zustehenden Ansprüche
