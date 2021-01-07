@@ -6,7 +6,7 @@ description: >-
   Holding Ltd. nach mündlicher Verhandlung über Einspruch.
 layout: post
 style_id: post
-image: /uploads/lg-gera.jpg
+image: /uploads/lg-gera-neu-min.jpg
 tags:
   - ThomasLloyd
   - Anleger
