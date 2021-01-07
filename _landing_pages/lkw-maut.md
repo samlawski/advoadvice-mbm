@@ -39,29 +39,54 @@ abschnitte:
     image: MAXIMUM_DEPTH
     cta: MAXIMUM_DEPTH
   - abschnitt_template: box_dunkel
-    titel: 'Was zu tun ist und wie wir Ihnen helfen:'
+    titel: Holen Sie sich jetzt Ihr Geld zurück!
     text_markdown: >-
+      Was müssen Sie unternehmen, um an Ihr Geld zu kommen und eine
+      Rückforderung geltend zu machen?
+
+
       Zuerst muss geprüft werden, bei wem Sie die Ihnen zustehenden Ansprüche
-      geltend machen können. Dafür kommen unterschiedliche Konstellationen in
-      Betracht, da nicht jedes Unternehmen nur über eigene Lastwagen verfügt.
-      Über die dazugehörigen Informationen kann beim ersten Telefonat gesprochen
-      werden.
+      geltend machen können.
 
 
-      Wichtig ist sodann, dass sie ihre Toll Collect Abrechnungen
-      zusammenstellen. Anhand dieser Abrechnungen kann ermittelt werden, welche
-      Beträge zurückgefordert werden können. Je detaillierter die Aufstellungen
-      sind, desto besser.
+      Dafür kommen unterschiedliche Konstellationen in Betracht, da nicht jedes
+      Unternehmen nur über eigene Lastwagen verfügt. Die Einzelheiten können wir
+      schnell mit Ihnen in einem ersten und für Sie kostenfreien Telefonat
+      besprechen.&nbsp;
+
+
+      Nach unserem ersten Telefonat übersenden Sie uns Ihre Abrechnungen von
+      Toll Collect&nbsp; oder von der Firma, von der Sie Ihren LKW angemietet
+      haben. &nbsp;
+
+
+      Anhand dieser Abrechnungen kann dann schnell ermittelt werden, welche
+      Beträge zurückgefordert werden können.&nbsp;
 
 
       Wenn Sie uns die Abrechnungen zur Verfügung stellen, prüfen wir gerne, ob
-      und welche Mautgebühren zurückverlangt werden können. In manchen Fällen
-      ist denkbar, dass die Maut der letzten Jahre zurückverlangt werden kann.
-      Wie weit die Ansprüche in die Vergangenheit geltend gemacht werden können,
-      hängt jedoch vom Einzelfall ab.
+      und in welche Höhe Sie vom Staat oder z.B. einer Vermietungsfirma
+      Mautgebühren zurückverlangen können.
 
 
-      Haben Sie weitere Fragen? Zögern Sie nicht uns anzurufen.
+      Rückzahlungen für die Jahre 2018, 2019 und 2020 können Sie vom Staat in
+      jedem Fall fordern, da die Maut falsch berechnet worden ist und die
+      Mautgebühren noch nicht dem Einwand der Verjährung unterliegen.&nbsp;
+
+
+      Zudem prüfen wir für Sie, ob darüber hinaus auch noch Ansprüche für die
+      Vergangenheit, also einen Zeitraum vor dem Jahr 2018&nbsp; geltend gemacht
+      werden können. Dies hängt jedoch oft vom konkreten Einzelfall ab.
+
+
+      Wenn für Ihr Unternehmen eine betriebliche Rechtsschutzversicherung
+      vorliegt, stellen wir dort für Sie gerne kostenfrei eine
+      Deckungsanfrage.&nbsp;
+
+
+      In jedem Fall erhalten Sie von uns, bevor wir mit der Tätigkeit für Sie
+      beginnen, eine umfangreiche Aufklärung über die Erfolgschancen, die
+      Rückzahlungserwartung und die Kosten für unsere Tätigkeit.&nbsp;
     image:
     cta: true
   - abschnitt_template: grafik_volle_breite
