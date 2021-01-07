@@ -5,7 +5,7 @@ title: LKW-Maut
 description: LKW-Maut der letzten Jahre mit anwaltlicher Hilfe zurückfordern
 header_titel: LKW-Maut zurückfordern - Ansprüche geltend machen!
 header_subtitle: Anwaltliche Hilfe bei der Rückforderung zu viel gezahlter LKW-Maut
-header_image: /uploads/lkw-maut-header-comp.png
+header_image: /uploads/lkw-maut-header2.jpg
 header_cta_titel: Kostenfreie Erstberatung durch Experten
 header_cta_text: >-
   Vereinbaren Sie gleich eine telefonische Erstberatung mit unseren erfahrenen
@@ -26,7 +26,7 @@ abschnitte:
       klargestellt, dass die Bundesrepublik Deutschland die Höhe der LKW-Maut
       seit vielen Jahren falsch berechnet. Hintergrund ist, dass entgegen der
       europäischen Vorgaben auch die Kosten für die Polizei auf die LKW-Maut
-      umgelegt werden. Dabei wird jährlich mit einem Betrag von circa 730
+      umgelegt wurden. Dabei wird jährlich mit einem Betrag von circa 730
       Millionen Euro kalkuliert.
 
 
