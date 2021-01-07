@@ -4,7 +4,7 @@ style_id: landing
 title: LKW-Maut
 description: Jetzt LKW-Maut der letzten Jahre mit anwaltlicher Hilfe zurückfordern!
 header_titel: LKW-Maut zurückfordern - Ansprüche geltend machen!
-header_subtitle: Anwaltliche Hilfe bei der Rückforderung zu viel gezahlter LKW-Maut
+header_subtitle: Hilfe vom Anwalt bei der Rückforderung zu viel gezahlter LKW-Maut.
 header_image: /uploads/lkw-maut-header2.jpg
 header_cta_titel: Kostenfreie Erstberatung durch Experten
 header_cta_text: >-
