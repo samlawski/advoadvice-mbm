@@ -76,8 +76,7 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: Holen Sie sich jetzt Ihr Geld zurück!
     text_markdown: >-
-      Was müssen Sie unternehmen, um an Ihr Geld zu kommen und eine
-      Rückforderung geltend zu machen?
+      ## Wie kommen Sie an Ihr Geld?
 
 
       Zuerst muss geprüft werden, bei wem Sie die Ihnen zustehenden Ansprüche
@@ -90,9 +89,13 @@ abschnitte:
       besprechen.&nbsp;
 
 
+      ### Abrechnungen übersenden
+
+
       Nach unserem ersten Telefonat übersenden Sie uns Ihre Abrechnungen von
       Toll Collect&nbsp; oder von der Firma, von der Sie Ihren LKW angemietet
-      haben. &nbsp;
+      haben.&nbsp; Bei Toll Collect sollten Sie online noch auf alle
+      Abrechnungen bis Anfang 2018 zugreifen können.&nbsp;
 
 
       Anhand dieser Abrechnungen kann dann schnell ermittelt werden, welche
@@ -104,6 +107,9 @@ abschnitte:
       Mautgebühren zurückverlangen können.
 
 
+      ### Rückzahlungen für die Jahre 2018, 2019 und 2020 vom Staat
+
+
       Rückzahlungen für die Jahre 2018, 2019 und 2020 können Sie vom Staat in
       jedem Fall fordern, da die Maut falsch berechnet worden ist und die
       Mautgebühren noch nicht dem Einwand der Verjährung unterliegen.&nbsp;
@@ -112,6 +118,9 @@ abschnitte:
       Zudem prüfen wir für Sie, ob darüber hinaus auch noch Ansprüche für die
       Vergangenheit, also einen Zeitraum vor dem Jahr 2018&nbsp; geltend gemacht
       werden können. Dies hängt jedoch oft vom konkreten Einzelfall ab.
+
+
+      ### Hilfe bei Deckungsanfrage und transparente Aufklärung
 
 
       Wenn für Ihr Unternehmen eine betriebliche Rechtsschutzversicherung
