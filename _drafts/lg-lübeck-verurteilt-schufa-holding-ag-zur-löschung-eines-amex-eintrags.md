@@ -1,6 +1,6 @@
 ---
 title: LG Lübeck verurteilt Schufa Holding AG zur Löschung eines AMEX Eintrags
-date: 2021-01-08 15:30:17
+date: 2021-01-08 15:34:31
 description: >-
   Landgericht Lübeck verurteilt die Schufa Holding AG zur Löschung eines
   Negativeintrages der American Express.
@@ -45,5 +45,9 @@ Das Gericht sah die Klage auf Löschung des Eintrags als zulässig und auch begr
 Das Gericht hat die Berufung auf Antrag der Schufa Holding AG nicht zugelassen. Es bleibt somit abzuwarten, ob diese dennoch Rechtsmittel gegen die Entscheidung einlegen wird.&nbsp;
 
 ## Kommentar von AdvoAdvice
+
+Das Landgericht Lübeck macht in seiner Entscheidung erneut deutlich, dass es bei einer Rechtfertigung eines Schufa-Negativeintrags sowohl durch die eintragende Stelle als auch durch die Schufa Holding AG selbst auf die Frage ankommen kann, ob eine Zustellung von Mahnschreiben bewiesen werden kann. hier wird oftmals dahingehend argumentiert, dass auf Mahnschreiben keine Postrückläufer erfolgt seien.&nbsp;
+
+Mit der Entscheidung des Landgerichts Lübeck sowie bereits anderer Landgerichte (wie z.B. LG Hamburg und LG Berlin) kann mittlerweile von einer gefestigten Rechtsprechung dahingehend gesprochen werden, dass die eintragende Stelle oder ggf. auch die Schufa Holding AG dafür darlegungs- und beweisbelastet sind, dass Schreiben zugegangen sind, um einen Eintrag nach &sect; 31 Abs. 2 Nr. 4 BDSG rechtfertigen zu können.
 
 &nbsp;
