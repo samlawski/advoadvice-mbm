@@ -1,12 +1,12 @@
 ---
 title: LG Lübeck verurteilt Schufa Holding AG zur Löschung eines AMEX Eintrags
-date: 2021-01-08 15:34:31
+date: 2021-01-08 15:47:20
 description: >-
   Landgericht Lübeck verurteilt die Schufa Holding AG zur Löschung eines
   Negativeintrages der American Express.
 layout: post
 style_id: post
-image:
+image: /uploads/schufa-löschung-amex.png
 tags:
   - Schufa Holding AG
   - American Express
@@ -40,7 +40,7 @@ Das Gericht sah die Klage auf Löschung des Eintrags als zulässig und auch begr
 
 *Die Befugnis, Daten von Schuldnern an Auskunfteien zu übermitteln, richtet sich grundsätzlich nach Art. 6 Abs. 1 Satz 1 lit f und Abs. 4 DSGVO. Erforderlich für die Übermittlung ist danach die Wahrnehmung eines berechtigten Interesses. Zusätzlich ist eine Abwägung vorzunehmen, ob die schutzwürdigen Interessen der betroffenen Personen die Interessen des Datenverwenders im Einzelfall überwiegen. Die Voraussetzungen des berechtigten Interesses und der Abwägungskriterien<br>für die widerstreitenden Interessen des Betroffenen werden durch &sect; 31 Abs. 2 BDSG (&sect; 28 a BDSG a.F.) in gesetzlicher und praktisch handhaberer Weise konkretisiert.*
 
-*Die Beklagte hat nicht bewiesen, dass die Datenübermittlung durch die American Express rechtmä&szlig;ig gewesen ist, so dass schon deshalb kein berechtigtes Interesse an der Verarbeitung der Daten zu Grunde gelegt werden kann. \[...\]*
+*Die Beklagte hat nicht bewiesen, dass die Datenübermittlung durch die American Express rechtmä&szlig;ig gewesen ist, so dass schon deshalb kein berechtigtes Interesse an der Verarbeitung der Daten zu Grunde gelegt werden kann. \[…\]*
 
 Das Gericht hat die Berufung auf Antrag der Schufa Holding AG nicht zugelassen. Es bleibt somit abzuwarten, ob diese dennoch Rechtsmittel gegen die Entscheidung einlegen wird.&nbsp;
 
