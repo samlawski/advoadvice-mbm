@@ -1,6 +1,6 @@
 ---
 title: LG Lübeck verurteilt Schufa Holding AG zur Löschung eines AMEX Eintrags
-date: 2021-01-08 15:47:20
+date: 2021-01-08 15:47:00
 description: >-
   Landgericht Lübeck verurteilt die Schufa Holding AG zur Löschung eines
   Negativeintrages der American Express.
