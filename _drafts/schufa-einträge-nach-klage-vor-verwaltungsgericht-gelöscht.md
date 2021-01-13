@@ -1,6 +1,6 @@
 ---
-title: Schufa-Einträge nach Klage vor Verwaltungsgericht gelöscht
-date: 2021-01-13 19:30:53
+title: Schufa-Einträge nach Klage vor Verwaltungsgericht gelöscht.
+date: 2021-01-13 19:38:10
 description: >-
   Hessische Datenschutzbehörde bekommt Denkzettel von Verwaltungsgericht wegen
   schlechter Prüfung von Schufa-Eintrag.
@@ -23,15 +23,13 @@ topics:
 author: dr-sven-tintemann
 ---
 
-# **Schufa-Einträge nach Klagen vor Verwaltungsgericht gelöscht**
-
-## Hessischer Beauftragter für Datenschutz und Informationsfreiheit bekommt Denkzettel vom Verwaltungsgericht Wiesbaden verpasst
+# Hessischer Beauftragter für Datenschutz und Informationsfreiheit bekommt Denkzettel vom Verwaltungsgericht Wiesbaden verpasst
 
 Zwei Klagen, die die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin beim Verwaltungsgericht Wiesbaden eingereicht hatten, um negative Schufa-Einträge zur Löschung zu bringen, führen zu einer schnellen Löschung.
 
 Sowohl die Schufa Holding AG als auch der Hessische Beauftragte für Datenschutz und Informationsfreiheit hatten eine Löschung der Einträge zuvor abgelehnt.
 
-### \*\*Einträge der Rechtsanwaltskanzlei Ralf Heyl und Deutschen Bank Privat- und Firmenkunden AG \*\*
+### Einträge der Rechtsanwaltskanzlei Ralf Heyl und Deutschen Bank Privat- und Firmenkunden AG
 
 Den beiden Schufa-Einträgen der Mandanten lag jeweils eine Verbindung zu einer gro&szlig;en Bank zugrunde.
 
