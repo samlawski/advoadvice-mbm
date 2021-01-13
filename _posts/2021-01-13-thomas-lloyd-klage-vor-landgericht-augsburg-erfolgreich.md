@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Klage vor Landgericht Augsburg erfolgreich'
-date: 2021-01-13 09:55:04
+date: 2021-01-13 08:43:00
 description: >-
   Landgericht Augsburg verurteilt CT Infrastructure Holding Ltd. zur Zahlung an
   Anleger.
