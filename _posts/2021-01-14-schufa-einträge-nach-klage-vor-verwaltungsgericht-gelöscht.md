@@ -1,6 +1,6 @@
 ---
 title: Schufa-Einträge nach Klage vor Verwaltungsgericht gelöscht.
-date: 2021-01-13 19:38:10
+date: 2021-01-14 00:00:00
 description: >-
   Hessische Datenschutzbehörde bekommt Denkzettel von Verwaltungsgericht wegen
   schlechter Prüfung von Schufa-Eintrag.
