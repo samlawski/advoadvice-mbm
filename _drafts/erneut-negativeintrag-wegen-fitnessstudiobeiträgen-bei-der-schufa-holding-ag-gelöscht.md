@@ -2,13 +2,13 @@
 title: >-
   Erneut Negativeintrag wegen Fitnessstudiobeiträgen bei der SCHUFA Holding AG
   gelöscht.
-date: 2021-01-14 09:24:45
+date: 2021-01-14 09:26:36
 description: >-
   Schufa Holding AG löscht Eintrag der Collectia GmbH aus Forderung der FitX 
   Deutschland GmbH.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-collectia-1.jpg
 tags:
   - Schufa Recht
   - Schufa Eintrag
@@ -18,6 +18,8 @@ tags:
   - Collectia GmbH
   - Negativeintrag
   - Löschung
+  - Datenschutz
+  - Inkasso
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
