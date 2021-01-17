@@ -34,7 +34,7 @@ Plausible Erklärungen wurde hierfür aus Sicht von Anwalt Dr. Tintemann nicht g
 
 ### 2\.) Fondsplitting - Terminsache vom 15. Januar bis 24. Januar
 
-Seit einigen Wochen kommt es zu einem hohen Aufkommen an weiteren Anrufen bei AdvoAdvice. Es melden sich Anleger, denen die Anlagegesellschaften Cleantech Infrastrukturgesellschaft mbH & Co. KG, Zweite Cleantech Infrastrukturgesellschaft mbH & Co. KG und Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG Schreiben zugeschickt haben, aus denen sich ergibt, dass ein sog. Fondsplitting geplant sei.&nbsp;
+Seit einigen Wochen kommt es zu einem hohen Aufkommen an weiteren Anrufen bei AdvoAdvice. Es melden sich Anleger, denen die Anlagegesellschaften Cleantech Infrastrukturgesellschaft mbH & Co. KG, Zweite Cleantech Infrastrukturgesellschaft mbH & Co. KG, Drittec &nbsp;Cleantech Infrastrukturgesellschaft mbH & Co. KG und Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG Schreiben zugeschickt haben, aus denen sich ergibt, dass ein sog. Fondsplitting geplant sei.&nbsp;
 
 Dies wird u.a. damit begründet, dass die noch bis Ende 2019 angebotene Kapitalanlagevarianten nicht mehr zeitgemä&szlig; seien. Die sog. "Hybridstellung" führe zu einem Interessenkonflikt zwischen laufenden Ausschüttungen auf der einen Seite und dem Ausbau des Portfolios auf der anderen Seite. Die Anleger sollen nun durch das angebotene Fondsplitting ihre persönlichen Anlageziele optimieren.&nbsp;
 
