@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Wie sollen Anleger auf Fondsplitting reagieren?'
-date: 2021-01-17 21:58:25
+date: 2021-01-17 00:00:00
 description: >-
   Thomas Lloyd: Erst Auszahlungsverzögerungen, jetzt Fondsplitting. Was besorgte
   Anleger jetzt wissen sollten.
