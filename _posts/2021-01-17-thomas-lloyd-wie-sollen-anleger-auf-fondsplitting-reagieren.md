@@ -13,6 +13,11 @@ tags:
   - Fondsplitting
   - Auszahlungsverzögerung
   - Nachzahlung
+  - Dritte Cleantech Infrastrukturgesellschaft
+  - Zweite Cleantech Infrastrukturgesellschaft mbH & Co. KG
+  - Frist
+  - Wachstum
+  - Ertrag
 topics:
   - thomas-lloyd-anlegergemeinschaft
   - anlegerschutz
@@ -44,7 +49,9 @@ Die Entscheidung soll rückwirkend zum 1. Oktober 2020 gelten. Zudem wird eine G
 
 ## Rechtsrat von AdvoAdvice
 
-Die angebotenen Varianten "Ertrag" und "Wachstum" werfen aus der Sicht von AdvoAdvice etliche Fragen auf. Die Anleger soll ohne rechtliche Beratung, ohne Diskussion und Abstimmung auf einer Gesellschafterversammlung und auch ohne klar erkennbaren Anlass einer Änderung ihrer Vertragsgrundlagen zustimmen.&nbsp;
+Die angebotenen Varianten "Ertrag" und "Wachstum" werfen aus der Sicht von AdvoAdvice etliche Fragen auf.
+
+Die Anleger sollen ohne rechtliche Beratung, ohne Diskussion und Abstimmung auf einer Gesellschafterversammlung und auch ohne klar erkennbaren Anlass einer Änderung ihrer Vertragsgrundlagen zustimmen. Daher ist hier Vorsicht mehr als geboten.&nbsp;
 
 AdvoAdvice rät daher, sich keinesfalls auf eine der beiden vorgeschlagenen Anlagestrategien einzulassen, ohne vorher kompetenten Rechtsrat einzuholen.&nbsp;
 
