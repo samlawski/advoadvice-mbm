@@ -1,12 +1,12 @@
 ---
 title: 'Thomas Lloyd: Wie sollen Anleger auf Fondsplitting reagieren?'
-date: 2021-01-17 21:31:01
+date: 2021-01-17 21:58:25
 description: >-
   Thomas Lloyd: Erst Auszahlungsverzögerungen, jetzt Fondsplitting. Was besorgte
   Anleger jetzt wissen sollten.
 layout: post
 style_id: post
-image:
+image: /uploads/board-2084774-1280-1.jpg
 tags:
   - Thomas Lloyd Gruppe
   - Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG
@@ -34,10 +34,28 @@ Plausible Erklärungen wurde hierfür aus Sicht von Anwalt Dr. Tintemann nicht g
 
 ### 2\.) Fondsplitting - Terminsache vom 15. Januar bis 24. Januar
 
-&nbsp;
+Seit einigen Wochen kommt es zu einem hohen Aufkommen an weiteren Anrufen bei AdvoAdvice. Es melden sich Anleger, denen die Anlagegesellschaften Schreiben geschickt haben, aus denen sich ergibt, dass ein sog. Fondsplitting geplant sei.&nbsp;
+
+Dies wird u.a. damit begründet, dass die noch bis Ende 2019 angebotene Kapitalanlagevarianten nicht mehr zeitgemä&szlig; seien. Die sog. "Hybridstellung" führe zu einem Interessenkonflikt zwischen laufenden Ausschüttungen auf der einen Seite und dem Ausbau des Portfolios auf der anderen Seite. Die Anleger sollen nun durch das angebotene Fondsplitting ihre persönlichen Anlageziele optimieren.&nbsp;
+
+Den Anlegern wird nun ein Zeitfenster für eine Entscheidung eröffnet, welchem Portfolio oder ggf. auch mit welchem Prozentanteil in welchem Portfolio man sich in Zukunft zuordnen lassen möchte. Wer sich nicht entscheidet soll automatisch der neuen, nicht ausschüttenden und angeblich ertragreicheren Strategie mit dem schönen Namen "Wachstum" zugeordnet" werden.&nbsp;
+
+Die Entscheidung soll rückwirkend zum 1. Oktober 2020 gelten. Zudem wird eine Gesellschafterversammlung angekündigt.&nbsp;
 
 ## Rechtsrat von AdvoAdvice
 
-&nbsp;
+Die angebotenen Varianten "Ertrag" und "Wachstum" werfen aus der Sicht von AdvoAdvice etliche Fragen auf. Die Anleger soll ohne rechtliche Beratung, ohne Diskussion und Abstimmung auf einer Gesellschafterversammlung und auch ohne klar erkennbaren Anlass einer Änderung ihrer Vertragsgrundlagen zustimmen.&nbsp;
+
+AdvoAdvice rät daher, sich keinesfalls auf eine der beiden vorgeschlagenen Anlagestrategien einzulassen, ohne vorher kompetenten Rechtsrat einzuholen.&nbsp;
+
+Das Portal Investmentcheck rät zum Widerspruch gegen die nunmehr angekündigte Ma&szlig;nahme gegenüber der Anlagegesellschaft. Dies kann auch Sicht von Rechtsanwalt Dr. Sven Tintemann sinnvoll sein, ist aber keinesfalls zwingend notwendig.
+
+Der Fachanwalt für Bank- und Kapitalmarktrecht Dr. Tintemann hierzu "Wenn ein Anleger einen Widerspruch gegen die Pläne der Gesellschaft einreicht, kann das sicherlich nicht schaden. Aus meiner Sicht ist es aber auch ausreichend, keine Erklärung abzugeben, da dies nicht als Zustimmung zur Teilnahme an der Variante Wachstum gewertet werden kann, wenn der Anleger sich gar nicht äu&szlig;ert. Wenn der Anleger allerdings seine Zustimmung zu Einordnung in eine der Varianten erklärt, dann sieht die Lage aus unserer Sicht deutlich ungünstiger aus, weshalb wir in jedem Fall von einer Zustimmung zur Eingruppierung in eine gewisse Anlagevariante abraten."&nbsp;
+
+Die Kanzlei AdvoAdvice berät und vertritt bereits zahlreiche Anleger der Thomas Lloyd Gruppe.&nbsp;
+
+Auch für nunmehr betroffene Anleger macht es Sinn, ihre rechtlichen Möglichkeiten auf Rückabwicklung der Kapitalanlage aufgrund einer Falschberatung, auf Widerruf aufgrund einer womöglich fehlerhaften Aufklärung über bestehende Widerrufsrechte oder auf Kündigung bzw. Sonderkündigung der Beteiligung durch einen qualifizierten Fachanwalt für Bank- und Kapitalmarktrecht überprüfen zu lassen.&nbsp;
+
+Vereinbaren Sie hierzu gerne einen Telefontermin zu einer kostenfreien Ersteinschätzung durch Rechtsanwalt Dr. Sven Tintemann unter info@advoadvice.de oder rufen Sie direkt an unter 030 921 000 40.&nbsp;
 
 &nbsp;
