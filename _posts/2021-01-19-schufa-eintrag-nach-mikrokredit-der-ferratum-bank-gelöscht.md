@@ -1,6 +1,6 @@
 ---
 title: Schufa-Eintrag nach Mikrokredit der Ferratum Bank gelöscht.
-date: 2021-01-19 21:28:30
+date: 2021-01-19 00:00:00
 description: >-
   Negative Einträge bei der Schufa Holding AG nach Mikrokrediten bei Ferratum
   Bank.
