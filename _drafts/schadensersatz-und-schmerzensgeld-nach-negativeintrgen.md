@@ -1,7 +1,7 @@
 ---
-title: Schadensersatz und Schmerzensgeld nach Negativeinträgen bei Auskunfteien.
-date: 2021-01-25 09:55:50
-description: Schadensersatzansprüche nach Negativeinträgen bei Auskunfteien geltend machen.
+title: Schadensersatz und Schmerzensgeld nach Negativeinträgen
+date: 2021-01-25 09:58:10
+description: Schadensersatzansprüche nach Negativeinträgen bei Auskunfteien geltend machen
 layout: post
 style_id: post
 image: /uploads/blog-banner-schade-und-negativeintrag.jpg
@@ -52,4 +52,4 @@ Zunächst muss geprüft werde, ob die Datenübermittlung an eine Auskunftei bere
 
 Mit den vorliegenden Informationen stellen wir gerne eine Anfrage bei Ihrem Rechtsschutzversicherer, damit dieser die Kosten der anwaltlichen Tätigkeit übernimmt. Wenn Sie keine Rechtsschutzversicherung haben, werden die Kosten mit Ihnen vor Beginn der Tätigkeit besprochen.
 
-Gerne können Sie uns kontaktieren, wenn Sie Schadensersatzansprüche nach Datenschutzverstö&szlig;en geltend machen wollen (030 / 921 000 40 oder info@advoadvice.de).![](/uploads/dsgvo-schade.jpg){: width="1920" height="1080"}
+Gerne können Sie uns kontaktieren, wenn Sie Schadensersatzansprüche nach Datenschutzverstö&szlig;en geltend machen wollen (030 / 921 000 40 oder info@advoadvice.de).![](/uploads/dsgvo-schade-1.jpg){: width="1920" height="1080"}
