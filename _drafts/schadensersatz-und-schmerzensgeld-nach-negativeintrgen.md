@@ -1,7 +1,7 @@
 ---
-title: Schadensersatz und Schmerzensgeld nach Negativeinträgen
-date: 2021-01-25 09:58:10
-description: Schadensersatzansprüche nach Negativeinträgen bei Auskunfteien geltend machen
+title: Schadensersatz und Schmerzensgeld nach Negativeinträgen in Auskunfteien.
+date: 2021-01-25 10:01:09
+description: Schadensersatzansprüche nach Negativeinträgen bei Auskunfteien geltend machen.
 layout: post
 style_id: post
 image: /uploads/blog-banner-schade-und-negativeintrag.jpg
