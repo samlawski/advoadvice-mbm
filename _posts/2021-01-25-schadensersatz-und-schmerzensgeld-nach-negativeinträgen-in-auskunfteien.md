@@ -58,4 +58,4 @@ Mit den vorliegenden Informationen stellen wir gerne eine Anfrage bei Ihrem Rech
 
 Gerne können Sie uns kontaktieren, wenn Sie Schadensersatzansprüche nach Datenschutzverstö&szlig;en geltend machen wollen (030 / 921 000 40 oder info@advoadvice.de).
 
-![](/uploads/dsgvo-schade-1.jpg){: width="1920" height="1080"}
+![](/uploads/dsgvo-schade-2.jpg){: width="1920" height="1080"}
