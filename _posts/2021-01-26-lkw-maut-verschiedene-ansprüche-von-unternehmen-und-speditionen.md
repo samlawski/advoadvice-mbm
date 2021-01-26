@@ -1,6 +1,6 @@
 ---
 title: 'LKW-Maut: Verschiedene Ansprüche von Unternehmen und Speditionen.'
-date: 2021-01-26 16:20:32
+date: 2021-01-26 00:00:00
 description: Mautforderungen von Speditionen und Unternehmen.
 layout: post
 style_id: post
