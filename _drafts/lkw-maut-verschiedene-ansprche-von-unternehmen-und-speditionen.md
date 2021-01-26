@@ -1,7 +1,7 @@
 ---
-title: 'LKW-Maut: Verschiedene Ansprüche von Unternehmen und Speditionen'
-date: 2021-01-26 14:34:40
-description: Mautforderungen von Speditionen und Unternehmen
+title: 'LKW-Maut: Verschiedene Ansprüche von Unternehmen und Speditionen.'
+date: 2021-01-26 16:20:32
+description: Mautforderungen von Speditionen und Unternehmen.
 layout: post
 style_id: post
 image: /uploads/lkw-maut.jpg
@@ -28,7 +28,7 @@ Viele Anwaltskanzleien haben zurecht darauf hingewiesen, dass Spediteure die Mau
 
 Das Problem dürfte vor allem dann auftauchen, wenn grö&szlig;ere Unternehmen erst jetzt auf die neue Rechtsprechung aufmerksam geworden sind und nun versuchen die entsprechenden Gebühren zurückzuverlangen. Das gleiche Phänomen kann auch in den kommenden Jahren erneut auftreten, weshalb jedenfalls die Ansprüche für die Jahre 2018 bis 2020 beim Bundesamt für Güterverkehr geltend gemacht werden sollen.
 
-## **Rückforderung mit Anwalt durchsetzen **
+## \*\*Rückforderung mit Anwalt durchsetzen \*\*
 
 Die Rückforderung der LKW-Maut muss grundsätzlich gegenüber dem Bundesamt für Güterverkehr geltend gemacht werden. Dabei muss beachtet werden, dass nicht mit einer freiwilligen und schnellen Erstattung zu rechnen ist. Vielmehr müssen die Ansprüche auch durchgesetzt werden. Entscheidend dürfte dabei die Entscheidung des Oberverwaltungsgerichts Münster sein. Dort wird der Fall, welcher vor dem europäischen Gerichtshof verhandelt wurde, abgeschlossen werden.
 
