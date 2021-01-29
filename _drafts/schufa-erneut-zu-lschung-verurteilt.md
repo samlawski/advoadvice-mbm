@@ -1,6 +1,6 @@
 ---
 title: Schufa erneut zu Löschung verurteilt
-date: 2021-01-29 15:03:58
+date: 2021-01-29 16:05:26
 description: Negativeintrag der Telekom Deutschland GmbH muss gelöscht werden
 layout: post
 style_id: post
@@ -23,7 +23,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-## **Gerichtsverhandlung aus dem Home Office - Anerkenntnisurteil erstritten **
+## Gerichtsverhandlung aus dem Home Office - Anerkenntnisurteil erstritten&nbsp;
 
 Kaum eine andere Phase in den letzten Jahren hat gezeigt, wie wichtig mobiles Arbeiten und die Chancen der Digitalisierung sind, wie die aktuelle Pandemie. Diese Entwicklung hat auch vor den Gerichten und den dort stattfindenden Verhandlungen nicht Halt gemacht. Nach &sect; 128a ZPO kann es den Verfahrensbeteiligten schon länger gestattet werden, sich während einer Gerichtsverhandlung per Video zuzuschalten und sich dabei an einem anderen Ort aufzuhalten. Im Zuge der aktuellen Corona-Pandemie wird von dieser Möglichkeit immer mehr Gebrauch gemacht, so dass viele Verhandlungen nicht mehr vor Ort geführt werden müssen. Diese Entwicklung sollte die Pandemiezeit dringend überstehen.
 
@@ -33,13 +33,13 @@ Die Rechtsanwälte der Kanzlei AdvoAdvice haben im Mai 2020 eine Klage gegen die
 
 Das Landgericht Hannover stellte bereits im Oktober 2020 in einer Verfügung klar (LG Hannover, Verfügung v. 16.10.2020 – 13 O 133/20):
 
-*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte**beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich**hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem au&szlig;ergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]* *nicht zweifelsfrei schlie&szlig;en, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
+*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem au&szlig;ergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]* *nicht zweifelsfrei schlie&szlig;en, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
 
 *lnsofern wird die Beklagte gebeten zu prüfen, ob im Kosteninteresse ein Anerkenntnis in Betracht kommt.“*
 
 Die Schufa Holding AG als beklagte Partei wollte es hierbei jedoch nicht belassen. Statt eines Anerkenntnisses wollte man eine abschlie&szlig;ende Stellungnahme im Rahmen einer mündlichen Verhandlung. Man bestand also auf die Durchführung einer mündlichen Verhandlung. In der Zeit bis zu dieser Verhandlung hat man sodann versucht, das Gericht von einer anderen Beweislast zu überzeugen.
 
-### **LG Hannover lässt Videoverhandlung zu **
+### LG Hannover lässt Videoverhandlung zu
 
 Besonders erfreulich war für das Verfahren, dass das Landgericht Hannover frühzeitig signalisierte, dass die Gerichtsverhandlung Im Wege der Bild- und Ton Übertragung gem. &sect; 128a ZPO erfolgen könne. Damit konnte trotz der aktuellen Pandemielage ermöglicht werden, dass Rechtsanwalt Dr. Tintemann an der Gerichtsverhandlung selbst teilnehmen konnte.
 
