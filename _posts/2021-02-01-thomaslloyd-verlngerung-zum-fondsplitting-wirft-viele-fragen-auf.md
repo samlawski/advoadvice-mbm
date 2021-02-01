@@ -1,4 +1,6 @@
-Die meisten Anleger der Cleantech Infrastrukturgesellschaft erhielten in den letzten Tage einmal mehr Post von ihrer Anlagegesellschaft. Diese wirft leider mehr Fragen auf, als sie an Antworten gibt. AdvoAdvice bemüht sich, für die Anleger etwas mehr Klarheit in Bezug auf rechtliche und tatsächliche Fragestellungen zu bringen.
+---
+---
+meisten Anleger der Cleantech Infrastrukturgesellschaft erhielten in den letzten Tage einmal mehr Post von ihrer Anlagegesellschaft. Diese wirft leider mehr Fragen auf, als sie an Antworten gibt. AdvoAdvice bemüht sich, für die Anleger etwas mehr Klarheit in Bezug auf rechtliche und tatsächliche Fragestellungen zu bringen.
 
 ## Was kann die Fondsgeschaftsführung entscheiden?
 
@@ -71,4 +73,4 @@ Es ist daher unerlässlich für die Anleger der einzelnen Gesellschaftern der Cl
 
 Rechtsanwalt Dr. Sven Tintemann ist bereits seit Jahren mit dem Thema Thomas Lloyd befasst und als Fachanwalt für Bank- und Kapitalmarktrecht qualifiziert, Anleger über ihre Handlungsmöglichkeiten fair und kompetent zu informieren.&nbsp;
 
-Melden Sie sich bei Bedarf gleich für ein verbindlichen Telefonat im Rahmen einer kostenfreien Ersteinschätzung unter 030 921 000 40 oder info@advoadvice.de.&nbsp;
+Melden Sie sich bei Bedarf gleich für ein verbindlichen Telefonat im Rahmen einer kostenfreien Ersteinschätzung unter 030 921 000 40 oder info@advoadvice.de.&nbsp;&nbsp;
