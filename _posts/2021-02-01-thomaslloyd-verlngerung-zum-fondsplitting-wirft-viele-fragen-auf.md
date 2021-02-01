@@ -1,29 +1,3 @@
----
-title: 'ThomasLloyd: Verlängerung zum Fondsplitting wirft viele Fragen auf.'
-date: 2021-02-01 00:00:00
-description: >-
-  Thomas Lloyd Global Asset Management (Schweiz) AG meldet sich zu
-  Fondsplitting.  AdvoAdvice klärt Anleger auf.
-layout: post
-style_id: post
-image: /uploads/person-897408-1280.jpg
-tags:
-  - ThomasLloyd
-  - Thomas Lloyd Global Asset Management (Schweiz) AG
-  - Fondsplitting
-  - Anlegerinformation
-  - Abstimmung
-  - Verlängerung
-  - keine rechtliche Bindungswirkung
-  - Cleantech Infrastrukturgesellschaft
-  - Beteiligung
-topics:
-  - thomas-lloyd-anlegergemeinschaft
-  - anlegerschutz
-  - bank-und-kapitalmarkt
-author: dr-sven-tintemann
----
-
 Die meisten Anleger der Cleantech Infrastrukturgesellschaft erhielten in den letzten Tage einmal mehr Post von ihrer Anlagegesellschaft. Diese wirft leider mehr Fragen auf, als sie an Antworten gibt. AdvoAdvice bemüht sich, für die Anleger etwas mehr Klarheit in Bezug auf rechtliche und tatsächliche Fragestellungen zu bringen.
 
 ## Was kann die Fondsgeschaftsführung entscheiden?
