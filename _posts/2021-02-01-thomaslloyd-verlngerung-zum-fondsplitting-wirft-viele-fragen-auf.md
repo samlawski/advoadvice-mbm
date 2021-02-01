@@ -1,3 +1,29 @@
+---
+title: 'ThomasLloyd: Verlängerung zum Fondsplitting wirft viele Fragen auf.'
+date: 2021-02-01 00:00:00
+description: >-
+  Thomas Lloyd Global Asset Management (Schweiz) AG meldet sich zu
+  Fondsplitting.  AdvoAdvice klärt Anleger auf.
+layout: post
+style_id: post
+image: /uploads/person-897408-1280.jpg
+tags:
+  - ThomasLloyd
+  - Thomas Lloyd Global Asset Management (Schweiz) AG
+  - Fondsplitting
+  - Anlegerinformation
+  - Abstimmung
+  - Verlängerung
+  - keine rechtliche Bindungswirkung
+  - Cleantech Infrastrukturgesellschaft
+  - Beteiligung
+topics:
+  - thomas-lloyd-anlegergemeinschaft
+  - anlegerschutz
+  - bank-und-kapitalmarkt
+author: dr-sven-tintemann
+---
+
 Die meisten Anleger der Cleantech Infrastrukturgesellschaft erhielten in den letzten Tage einmal mehr Post von ihrer Anlagegesellschaft. Diese wirft leider mehr Fragen auf, als sie an Antworten gibt. AdvoAdvice bemüht sich, für die Anleger etwas mehr Klarheit in Bezug auf rechtliche und tatsächliche Fragestellungen zu bringen.
 
 ## Was kann die Fondsgeschaftsführung entscheiden?
@@ -53,11 +79,11 @@ Dort wird mitgeteilt, es gäbe nach Aussage von ThomasLloyd bei den Anlagegesell
 
 Dem Handelsblatt gegenüber soll Europachef Klein bestätigt haben, dass es sich bei der Abfrage zum Fondsplitting um eine Art Meinungsumfrage handeln würde. Das Splitting sei also weder beschlossen noch vollzogen. Für einen Anleger sei die Abfrage mit einem Nachteil verbunden. Klein wird dahingehend zitiert, dass auch ein "Nichtreagieren" keine Konsequenzen habe.&nbsp;
 
-Dies bestätigt die Auffassung der Kanzlei AdvoAdvice in einem&nbsp;[Beitrag zum Fondsplitting vom 17.01.2021](https://www.anwalt.de/rechtstipps/thomas-lloyd-frist-fuer-angebot-auf-fondsplitting-laeuft-bald-aus_184272.html){: target="_blank" rel="noopener"}.&nbsp;
+Dies bestätigt die Auffassung der Kanzlei AdvoAdvice in einem&nbsp;[Beitrag zum Fondsplitting vom 17.01.2021](https://www.anwalt.de/rechtstipps/thomas-lloyd-frist-fuer-angebot-auf-fondsplitting-laeuft-bald-aus_184272.html).&nbsp;
 
 Zudem zitiert das Handelsblatt Anlegeranwalt Dr. Sven Tintemann und führt konkret aus:&nbsp;
 
-*"Anlegeranwalt Sven Tintemann von der Berliner Kanzlei Advoadvice rät Investoren, die Begründung für den Zahlungstopp zu hinterfragen. Jetzt komme es darauf an, was in den Gesellschaftsverträgen zu den Ausschüttungen genau vermerkt ist."*
+"Anlegeranwalt Sven Tintemann von der Berliner Kanzlei Advoadvice rät Investoren, die Begründung für den Zahlungstopp zu hinterfragen. Jetzt komme es darauf an, was in den Gesellschaftsverträgen zu den Ausschüttungen genau vermerkt ist."
 
 ## Beratung für Anleger zu Risiken der Anlage&nbsp;
 
