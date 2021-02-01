@@ -1,6 +1,6 @@
 ---
 title: 'ThomasLloyd: Verlängerung zum Fondsplitting wirft viele Fragen auf.'
-date: 2021-02-01 08:41:51
+date: 2021-02-01 00:00:00
 description: >-
   Thomas Lloyd Global Asset Management (Schweiz) AG meldet sich zu
   Fondsplitting.  AdvoAdvice klärt Anleger auf.
