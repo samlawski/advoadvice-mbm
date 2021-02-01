@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Verlängerung zum Fondsplitting wirft viele Fragen auf.'
-date: 2021-02-01 10:53:32
+date: 2021-02-01 00:00:00
 description: >-
   Thomas Lloyd Anleger erhalten eine Information zur Verlängerung der
   Entscheidung zum Fondsplitting. AdvoAdvice beantwortet Fragen hierzu.
