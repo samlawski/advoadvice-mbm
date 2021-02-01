@@ -1,6 +1,6 @@
 ---
 title: 'ThomasLloyd: Verlängerung zum Fondsplitting wirft viele Fragen auf.'
-date: 2021-02-01 08:26:52
+date: 2021-02-01 08:40:13
 description: >-
   Thomas Lloyd Global Asset Management (Schweiz) AG meldet sich zu
   Fondsplitting. Das Anschreiben hierzu wirft viele Fragen auf.
@@ -71,7 +71,15 @@ Klar dürfte jetzt zumindest sein, dass die Entscheidungen der Anleger zum Fonds
 
 Es ist daher aus der Sicht der Kanzlei AdvoAdvice Rechtsanwälte auch nicht nötig, bis zum Freitag, den 05.02.2021 eine Mitteilung an die Gesellschaft zur Präferenz bei der künftigen Anlagestrategie abzugeben.&nbsp;
 
+## Beratung für Anleger zu Risiken der Anlage&nbsp;
+
 Anleger sollten sich vielmehr eine seriöse anwaltliche Erstberatung suchen, um sich über ihre Handlungsmöglichkeiten bei der Abstimmung in einer Gesellschafterversammlung, aber auch ihre Rechte zu Kündigung, Sonderkündigung, Widerruf und ggf. aufgrund einer Falschberatung aufklären zu lassen.&nbsp;
+
+Aus dem Gesellschaftsvertrag ergibt sich aus Sicht von AdvoAdvice klar ein Risiko der Haftung für erhaltene Ausschüttungen der Anleger auf Rückzahlung gegenüber dem Treuhänder der Gesellschaft. Dies ergibt sich aus &sect; 30 Abs. 8 Gesellschaftsvertrag.
+
+Auch nach Angaben im Prospekt kann die persönliche Haftung des Kommanditisten bis zur Höhe seiner übernommenen Hafteinlage dann wieder aufleben, wenn durch Entnahmen des Kapital des Anlegers unter den Wert der im Handelsregister eingetragenen Hafteinlage sinkt. Für Treugeber gilt entsprechendes im Verhältnis zum Treuhänder. (Prospekt CTI 9 D - Seite 15 - Stand &nbsp;25.01.2016)
+
+Es ist daher unerlässlich für die Anleger der einzelnen Gesellschaftern der Cleantech Gruppe, von diesen eine Abrechnung ihrer Beteiligung nach dem sog. Drei-Konten-Modelle (Gewinne, Verluste, Auszahlungen) zu fordern, um den wirklichen Stand und das wirkliche Risiko eines Verlustes oder einer Rückforderungsmöglichkeit durch den jeweiligen Treuhänder abschätzen zu können.&nbsp;
 
 Rechtsanwalt Dr. Sven Tintemann ist bereits seit Jahren mit dem Thema Thomas Lloyd befasst und als Fachanwalt für Bank- und Kapitalmarktrecht qualifiziert, Anleger über ihre Handlungsmöglichkeiten fair und kompetent zu informieren.&nbsp;
 
