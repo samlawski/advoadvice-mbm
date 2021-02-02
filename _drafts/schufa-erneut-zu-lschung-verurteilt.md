@@ -1,6 +1,6 @@
 ---
 title: Schufa Holding AG erneut zu Löschung verurteilt.
-date: 2021-02-01 19:21:12
+date: 2021-02-02 15:01:01
 description: >-
   Negativeintrag der Telekom Deutschland GmbH muss durch die Schufa Holding AG
   nach Anerkenntnis vor dem Landgericht Hannover gelöscht werden.
