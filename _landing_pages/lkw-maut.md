@@ -17,6 +17,12 @@ abschnitte:
     text_markdown:
     image: /uploads/lkw-maut-1.jpg
     cta: MAXIMUM_DEPTH
+  - abschnitt_template: weiss_bild_links
+    titel:
+    text_markdown: >-
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IFVhbYCGy4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    image:
+    cta: false
   - abschnitt_template: box_hell
     titel: >-
       Bundesrepublik Deutschland berechnet Lkw Maut falsch – Jetzt aktiv
