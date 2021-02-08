@@ -2,7 +2,7 @@
 title: >-
   ThomasLLoyd: OLG Celle weist zwei Berufungen gegen erstinstanzliche
   Entscheidungen zurück
-date: 2021-02-08 10:58:11
+date: 2021-02-08 11:06:51
 description: >-
   Das Oberlandesgericht Celle hat in zwei Verfahren Berufungen der CT
   Infrastructure Holding Ltd. zurückgewiesen.
