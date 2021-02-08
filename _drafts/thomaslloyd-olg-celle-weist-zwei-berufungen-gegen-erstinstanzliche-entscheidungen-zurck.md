@@ -2,7 +2,7 @@
 title: >-
   ThomasLLoyd: OLG Celle weist zwei Berufungen gegen erstinstanzliche
   Entscheidungen zurück
-date: 2021-02-08 11:06:51
+date: 2021-02-08 11:44:38
 description: >-
   Das Oberlandesgericht Celle hat in zwei Verfahren Berufungen der CT
   Infrastructure Holding Ltd. zurückgewiesen.
@@ -22,6 +22,8 @@ tags:
   - LG Verden
   - LG Lüneburg
   - OLG Celle
+  - DKM Global Opportunities Fonds
+  - atypisch stille Beteiligung
 topics:
   - thomas-lloyd-anlegergemeinschaft
   - anlegerschutz
@@ -33,11 +35,21 @@ Das Oberlandesgericht Celle hat in zwei Berufungsverfahren die eingelegten Recht
 
 ## Zwischenurteil des Landgerichts Lüneburg bestätigt
 
-&nbsp;
+Mit Beschluss vom 20.01.2021 bestätigte das OLG Celle eine Entscheidung des LG Lüneburg, in welchem sich dieses im Wege eines Zwischenurteils für international zuständig erklärt hatte. Geklagte hatte hier ein Anleger der DKM Global Opportunities Fonds 01 GmbH, der sich an dieser als atypisch stiller Gesellschafter im Rahmen einer atypisch stillen Beteiligung beteiligt hatte.&nbsp;
+
+Das Gericht führte hierzu u.a. aus:&nbsp;
+
+*1\. Insbesondere hat es dabei zu verbleiben, dass der Kläger mit seinem Beitritt als atypisch stiller Gesellschafter an der in Deutschland ansässigen GmbH, die Rechtsvorgängerin der Beklagten gewesen ist, keine einem Aktionär vergleichbare Rechtsstellung erlangt hat und er sich deshalb zur Begründung der internationalen Zuständigkeit des Landgerichts auf seine Eigenschaft als Verbraucher berufen kann.*
+
+*\[...\]*
+
+*2\. Der auf Rückzahlung des Wertes der atypisch stillen Beteiligung des Klägers an der Rechtsvorgängerin der Beklagten gerichteten Klage fehlt es entgegen der Auffassung der Beklagten auch nicht mit Blick auf vermeintlich eröffnete Rechtsbehelfe des Klägers aus dem Spruchverfahrensgesetz an der Statthaftigkeit. Das Begehren des Klägers unterfällt nicht der Anwendbarkeit des Spruchverfahrensgesetzes. Der Kläger begehrt den Ersatz des Wertes einer von ihm gekündigten stillen Beteiligung an einer deutschen GmbH und nicht etwa eine Zuzahlung oder Barabfindung als Inhaber eines Anteils der Gesellschaft (der er nicht gewesen ist).*
+
+Es dürfte daher in dieser Angelegenheit nun beim Landgericht Lüneburg im nächsten Verfahrensschritt weitergehen mit der Frage danach, ob dem klagenden Anleger ein Zahlungsanspruch gegen die Beklagte zusteht. Wir werden hier weiter über den Ausgang der Angelegenheit berichten.&nbsp;
 
 ## Urteil des Landgerichts Verden bestätigt
 
-Ebenfalls bestätigt hat das OLG Celle ein Urteil des LG Verden, in welchem dieses die Beklagte zur Zahlung von 20.520 Euro zzgl. Zinsen sei dem 01.04.2019 verurteilt hatte.&nbsp;
+Ebenfalls bestätigt hat das OLG Celle durch Beschluss vom 29.01.2021 ein Urteil des LG Verden, in welchem dieses die Beklagte zur Zahlung von 20.520 Euro zzgl. Zinsen sei dem 01.04.2019 verurteilt hatte.&nbsp;
 
 Das Gericht fand in seiner Entscheidung noch einmal deutliche Worte an die Beklagte und führte in seiner Entscheidung u.a. wie folgt aus:&nbsp;
 
@@ -53,4 +65,14 @@ Das Gericht fand in seiner Entscheidung noch einmal deutliche Worte an die Bekla
 
 Es ist aufgrund des Streitwertes, welcher oberhalb von 20.000 Euro liegt, davon auszugehen, dass die Beklagte die Entscheidung des OLG Celle mit dem noch möglichen Rechtsmittel der Nichtzulassungsbeschwerde angreifen wird. Diese ist beim Bundesgerichtshof innerhalb einer Frist von einem Monat nach Zustellung des in vollständiger Form abgefassten Urteils einzulegen.&nbsp;
 
-&nbsp;
+## Kommentar von AdvoAdvice
+
+Durch die Beschluss des OLG Celle festigt sich die Rechtsprechung, nach welcher die deutschen Gerichte für Klagen gegen die CT Infrastructure Holding Ltd. örtlich zuständig sind.&nbsp;
+
+Ähnlich hatten schon das OLG Naumburg in seinem Urteil vom Oktober 2020 und in einem richterlichen Hinweis das OLG Rostock entschieden.&nbsp;
+
+Zudem wird durch den Beschluss deutlich, dass Anleger, die ihre Genussrechtsbeteiligung bei der ThomasLloyd Investments GmbH bereits vor der Umwandlung gekündigt hatten, weiterhin gute Aussichten auf eine Rückzahlung haben. Auch hier hatte bereits des OLG Naumburg einem Anleger einen Zahlungsanspruch zugesprochen.&nbsp;
+
+In eine ähnliche Richtung hatte sich auch zuletzt das Pfälzische Oberlandesgericht Zweibrücken geäu&szlig;ert und angekündigt, einer Berufung ggf. im Beschlusswege zurückzuweisen, ähnlich, wie es nunmehr das OLG Celle bereits vorgenommen hat.&nbsp;
+
+Rechtsanwalt Dr. Sven Tintemann ist daher weiterhin optimistisch, was die Ansprüche der Anleger angeht, die von der Kanzlei AdvoAdvice vertreten werden: "Die Entscheidungen der Oberlandesgerichts liegen momentan auf der Linie, die wir auch schon in der ersten Instanz vertreten haben. Wir sind daher weiterhin guter Dinge und werden die Anlegerinteressen weiterhin konsequent vor den Gerichten vertreten."
