@@ -1,6 +1,6 @@
 ---
 title: >-
-  ThomasLLoyd: OLG Celle weist zwei Berufungen gegen erstinstanzliche
+  ThomasLloyd: OLG Celle weist zwei Berufungen gegen erstinstanzliche
   Entscheidungen zurück
 date: 2021-02-08 00:00:00
 description: >-
