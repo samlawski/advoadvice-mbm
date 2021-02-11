@@ -9,7 +9,7 @@ _array_structures:
           titel:
           link:
 name: Dr. Raphael Rohrmoser
-titel: Assessor
+titel: Partner - Rechtsanwalt
 portrait_path: /uploads/0-layout/portrait-rohrmoser-1.jpg
 email: rohrmoser@advoadvice.de
 themes:
@@ -21,5 +21,5 @@ themes:
     link:
   - titel: IT-Recht
     link:
-reihenfolge: 4
+reihenfolge: 3
 ---
