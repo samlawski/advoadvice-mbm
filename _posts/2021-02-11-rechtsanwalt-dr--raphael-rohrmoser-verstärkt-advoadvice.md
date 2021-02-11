@@ -1,6 +1,6 @@
 ---
 title: Rechtsanwalt Dr. Raphael Rohrmoser verstärkt AdvoAdvice
-date: 2021-02-11 15:43:00
+date: 2021-02-11 00:00:00
 description: >-
   AdvoAdvice verstärkt sich mit Datenschutzexperten Rechtsanwalt Dr. Raphael
   Rohrmoser.

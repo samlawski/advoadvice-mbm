@@ -1,27 +1,3 @@
----
-title: Rechtsanwalt Dr. Raphael Rohrmoser verstärkt AdvoAdvice
-date: 2021-02-11 00:00:00
-description: >-
-  AdvoAdvice verstärkt sich mit Datenschutzexperten Rechtsanwalt Dr. Raphael
-  Rohrmoser.
-layout: post
-style_id: post
-image: /uploads/advoadvice-01-59-von-80-1.jpg
-tags:
-  - Rechtsanwalt Raphael Rohrmoser
-  - AdvoAdvice
-  - Zugang
-  - Zulassung
-  - Datenschutz
-  - DSGVO
-  - Berlin
-  - Zehlendorf
-  - Schufa-Recht
-topics:
-  - schufa-und-datenschutz
-author: dr-sven-tintemann
----
-
 ## AdvoAdvice verstärkt sich mit Rechtsanwalt Dr. Raphael Rohrmoser
 
 Dr. Raphael Rohrmoser verstärkt ab Februar 2021 das Team von AdvoAdvice als Rechtsanwalt mit Tätigkeitsschwerpunkt im Datenschutz- und IT-Recht.&nbsp;
