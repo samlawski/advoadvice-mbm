@@ -1,5 +1,5 @@
 ---
-title: AdvoAdvice setzt mit erstem Elektroauto Zeichen in Berlin
+title: AdvoAdvice setzt mit Elektroauto Zeichen in Berlin
 date: 2021-02-12 22:06:00
 description: >-
   Kanzlei AdvoAdvice präsentiert sich zukunftsorientiert mit Elektroauto Renault
