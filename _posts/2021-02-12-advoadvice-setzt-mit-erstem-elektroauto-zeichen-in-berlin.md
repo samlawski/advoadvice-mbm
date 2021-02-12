@@ -1,6 +1,6 @@
 ---
-title: AdvoAdvice setzt erstem Elektroauto Zeichen in Berlin
-date: 2021-02-12 22:06:45
+title: AdvoAdvice setzt mit erstem Elektroauto Zeichen in Berlin
+date: 2021-02-12 22:06:00
 description: >-
   Kanzlei AdvoAdvice präsentiert sich zukunftsorientiert mit Elektroauto Renault
   Zoe in Berlin.
