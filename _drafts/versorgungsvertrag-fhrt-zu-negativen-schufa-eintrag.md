@@ -1,6 +1,6 @@
 ---
 title: Versorgungsvertrag führt zu negativen Schufa-Eintrag
-date: 2021-02-17 09:38:20
+date: 2021-02-17 09:47:27
 description: Tesch Inkasso meldete Forderung der EnBW an die SCHUFA
 layout: post
 style_id: post
@@ -20,7 +20,7 @@ topics:
 author: dr-sven-tintemann
 ---
 
-Ein Unternehmer aus Baden-Württemberg wandte sich im Oktober 2020 an die Rechtsanwaltskanzlei AdvoAdvice, da er feststellen musste, dass die Tesch Inkasso Forderungsmanagement GmbH einen negativen Schufa Eintrag für die EnBW Energie Baden-Württemberg AG zu seiner Person veranlasst hat. Solche negativeinträge wirken sich unmittelbar auf den von der Schufa Holding AG berechneten Score Wert aus und führt dazu, dass die betroffene Person als kreditunwürdig eingestuft wird bzw. zur Einschätzung, dass *„Zahlungsverpflichtungen nicht erfüllt werden können“*. Dies kann zu einer Vielzahl verschiedener Probleme führen.
+Ein Unternehmer aus Baden-Württemberg wandte sich im Oktober 2020 an die Rechtsanwaltskanzlei AdvoAdvice, da er feststellen musste, dass die Tesch Inkasso Forderungsmanagement GmbH einen negativen Schufa Eintrag für die EnBW Energie Baden-Württemberg AG zu seiner Person veranlasst hat. Solche Negativeinträge wirken sich unmittelbar auf den von der Schufa Holding AG berechneten Score Wert aus und führt dazu, dass die betroffene Person als kreditunwürdig eingestuft wird bzw. zur Einschätzung, dass *„Zahlungsverpflichtungen nicht erfüllt werden können“*. Dies kann zu einer Vielzahl verschiedener Probleme führen.
 
 ## **Hausverkauf und Titulierung**
 
