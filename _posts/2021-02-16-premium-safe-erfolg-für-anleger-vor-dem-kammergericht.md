@@ -1,6 +1,6 @@
 ---
 title: 'Premium Safe: Erfolg für Anleger vor dem Kammergericht'
-date: 2021-02-18 12:22:20
+date: 2021-02-16 00:00:00
 description: >-
   Kammergericht hebt erstinstanzliche Entscheidung auf und weist Klage des
   Insolvenzverwalters gegen Anleger ab.
