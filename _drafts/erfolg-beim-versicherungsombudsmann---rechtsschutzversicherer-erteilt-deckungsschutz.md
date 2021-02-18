@@ -2,29 +2,31 @@
 title: >-
   Erfolge beim Versicherungsombudsmann - Rechtsschutzversicherer erteilt
   Deckungsschutz
-date: 2021-02-18 12:28:08
-description: Az. 1056/20 + 1168/20
+date: 2021-02-18 21:54:18
+description: >-
+  Versicherer erteilen Deckungsschutz nach Verfahren vor dem Ombudsmann für
+  Versicherungen.
 layout: post
 style_id: post
 image:
 tags:
 topics:
+  - deckungsschutzklage
+  - stichentscheid
 author: dr-sven-tintemann
 ---
 
 Ein unerwarteter Schufa-Eintrag kann finanziell hoch riskant sein. Umso ärgerlicher ist er, wenn er rechtswidrig ist und sich auf eine vor Jahren erledigte Sache bezieht.
 
-Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat seit Jahren mit solchen Angelegenheiten zu tun.
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat seit Jahren mit solchen Angelegenheiten zu tun und erhält hier immer wieder Anfragen von Betroffenen. Viele fragen danach, ob ihre Rechtsschutzversicherung solche Fälle abdeckt.&nbsp;
 
-&nbsp;
+## **Vorvertraglichkeit**
 
-**Vorvertraglichkeit**
+In zwei von diesen Anfragen ergab sich ein Problem mit der Rechtschutzversicherung der betroffenen Mandanten.
 
-&nbsp;
+Die ursprüngliche Rechnung fiel vor den Abschluss der Rechtschutzversicherung, der rechtswidrige Eintrag hingegen erfolgte danach.
 
-In zwei von diesen ergab sich ein Problem mit der Rechtschutzversicherung ihrer Mandanten. Die ursprüngliche Rechnung fiel vor Abschluss der Rechtschutzversicherung an, der rechtswidrige Eintrag hingegen danach.
-
-Rechtschutzversicherungen argumentieren in solchen Fällen gerne, dass, weil der Eintrag auf einer Forderung von vor dem Abschluss der Versicherung beruht, keine Deckungspflichten für sämtliche später darauf aufbauende Rechtsbrüche bestehen (Vorvertraglichkeit). Somit war es voraussehbar, dass in beiden Fällen die Rechtschutzversicherung den Deckungsantrag ablehnte.
+Rechtschutzversicherungen argumentieren in solchen Fällen gerne, dass, weil der Eintrag auf einer Forderung vor dem Abschluss der Versicherung beruht, keine Deckungspflichten für sämtliche später darauf aufbauende Rechtsbrüche bestehen (sog. Vorvertraglichkeit). Somit war es voraussehbar, dass in beiden Fällen die Rechtschutzversicherung den Deckungsantrag ablehnte.
 
 Die Schwäche in der Argumentation liegt auf der Hand: ein rechtswidriger Negativeintrag ist eine Rechtsverletzung gegen jede Person, die darunter zu leiden hat. Eine Rechtschutzversicherung verpflichtet sich zur Kostendeckung der Verteidigung in solchen Fällen. Die Tatsache, dass sich die Begründung für die Verletzung auf ein Ereignis vor Abschluss bezieht, kann nicht zu Lasten des Geschädigten ausfallen.
 
