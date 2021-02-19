@@ -2,7 +2,7 @@
 title: >-
   Erfolge beim Versicherungsombudsmann - Rechtsschutzversicherer erteilt
   Deckungsschutz
-date: 2021-02-18 21:54:18
+date: 2021-02-19 08:01:28
 description: >-
   Versicherer erteilen Deckungsschutz nach Verfahren vor dem Ombudsmann für
   Versicherungen.
