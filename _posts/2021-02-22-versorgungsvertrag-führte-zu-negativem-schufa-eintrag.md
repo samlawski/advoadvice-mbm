@@ -1,6 +1,6 @@
 ---
 title: Versorgungsvertrag führte zu negativem Schufa-Eintrag
-date: 2021-02-22 09:47:15
+date: 2021-02-22 00:00:00
 description: Tesch Inkasso meldete Forderung der EnBW an die Schufa Holding AG.
 layout: post
 style_id: post
