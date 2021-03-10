@@ -29,7 +29,7 @@ author: kim-oliver-klevenhagen
 
 In einer Zeit langanhaltender Niedrigzinsen an den Banken wird es für viele Menschen immer attraktiver ihr Geld auf dem Kapitalmarkt anzulegen. Doch es zeigt sich den Interessierten schnell woher die Niedrigzinsen kommen und dass hohe Rendite Mangelwahre geworden sind. Doch in dem Dschungel aus enttäuschenden Anlageoptionen scheint es die zu geben, die wie selbstverständlich hohe Gewinne und Ausschüttungen versprechen.
 
-Hier kommen Risikoanlagen in Spiel. Selbstverständlich häufig nur schwer als solche erkennbar bieten sie Rendite und finanzielle Chancen die jede Konkurrenz in den Schatten stellen. Doch es lohnt sich genauer hinzusehen. Nicht selten lauert nach einiger Zeit eine böse Überraschung für die Anleger. Plötzlich meldet das scheinbar stabile Unternehmen Insolvenz an und einem wird Mitgeteilt, dass man keinen Cent seines sauber erarbeiteten Geldes wiedersieht. Wie kann das sein?
+Hier kommen Risikoanlagen in Spiel. Selbstverständlich häufig nur schwer als solche erkennbar bieten sie Rendite und finanzielle Chancen die jede Konkurrenz in den Schatten stellen. Doch es lohnt sich genauer hinzusehen. Nicht selten lauert nach einiger Zeit eine böse Überraschung für die Anleger. Plötzlich meldet das scheinbar stabile Unternehmen Insolvenz an und einem wird mitgeteilt, dass man keinen Cent seines sauber erarbeiteten Geldes wiedersieht. Wie kann das sein?
 
 **Auftritt: Nachrangdarlehen.**
 
