@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Kein Fondsplitting und verschobene Zahlungen bei CTI Fonds.'
-date: 2021-03-10 17:14:40
+date: 2021-03-10 19:49:00
 description: >-
   Thomas Lloyd führt nach Information an die Anleger kein Fondsplitting durch,
   zahlt aber auch erst einmal keine Vorab-Ausschüttungen aus.
