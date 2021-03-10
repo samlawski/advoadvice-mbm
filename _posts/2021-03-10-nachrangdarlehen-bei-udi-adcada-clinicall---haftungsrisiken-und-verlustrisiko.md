@@ -23,6 +23,7 @@ tags:
   - Rechtsanwalt
 topics:
   - anlegerschutz
+  - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
 **Anlegen im Zeitalter des Niedrigzinses**
