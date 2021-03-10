@@ -2,7 +2,7 @@
 title: >-
   Nachrangdarlehen bei UDI, ADCADA, ClinicAll - Haftungsrisiken und
   Verlustrisiko
-date: 2020-09-01 00:00:00
+date: 2021-03-10 00:00:00
 description: >-
   Qualifizierte Nachrangdarlehen sind ein beliebtes Instrument, um bei Anlegern
   Geld einzusammeln. Doch die wenigsten Anleger wissen, worauf sie sich
