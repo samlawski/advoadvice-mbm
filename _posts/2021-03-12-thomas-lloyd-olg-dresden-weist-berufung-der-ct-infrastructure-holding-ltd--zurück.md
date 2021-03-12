@@ -5,7 +5,7 @@ title: >-
 date: 2021-03-12 00:00:00
 description: >-
   Oberlandesgericht Dresden weist die Berufung der CT Infrastructure gegen eine
-  Entscheidung des Landgericht Görlitz zurück.
+  Entscheidung des Landgericht Görlitz zum Großteil zurück.
 layout: post
 style_id: post
 image: /uploads/money-1015277-640-1.jpg
