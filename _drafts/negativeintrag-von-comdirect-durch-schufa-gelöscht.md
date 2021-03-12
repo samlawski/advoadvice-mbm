@@ -1,12 +1,21 @@
 ---
 title: Negativeintrag von comdirect durch Schufa gelöscht
-date: 2021-03-12 17:24:17
+date: 2021-03-12 17:25:35
 description: Schufa Holding AG reagiert schnell auf besonderen Sachverhalt
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa---comdirect.jpg
 tags:
+  - Schufa Eintrag
+  - Schufa Recht
+  - Schufa Holding AG
+  - Negativeintrag
+  - Comdirect
+  - DSGVO
+  - BDSG
+  - Auskunftei
 topics:
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 Negativeinträge bei Wirtschaftsauskunfteien stellen Betroffene regelmä&szlig;ig vor enorme Herausforderungen. Die Grundregeln nach dem einem von den Aufsichtsbehörden genehmigten Verhaltenskodex (code-of-conduct) ist, dass eine Forderung nach Ausgleich noch weitere drei Jahre verarbeitet und im Scorewert berücksichtigt werden darf. Diese Grundregel ist in mancher Hinsicht umstritten und nicht immer verhältnismä&szlig;ig.
