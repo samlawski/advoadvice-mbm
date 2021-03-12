@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: OLG Dresden weist Berufung der CT Infrastructure Holding Ltd.
   zurück
-date: 2021-03-12 18:43:15
+date: 2021-03-12 18:43:39
 description: >-
   Oberlandesgericht Dresden weist die Berufung der CT Infrastructure gegen eine
   Entscheidung des Landgericht Görlitz zurück.
