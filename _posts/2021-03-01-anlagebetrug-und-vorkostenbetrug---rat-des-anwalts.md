@@ -7,7 +7,7 @@ description: >-
   oft wird betrogen. Wir zeigen Beispiele auf.
 layout: post
 style_id: post
-image: /uploads/money-1005464-640-4.jpg
+image: /uploads/handcuffs-2102488-640-1.jpg
 tags:
   - Kapitalanlagebetrug
   - Anlagebetrug
@@ -22,7 +22,6 @@ topics:
   - immobilien
 author: kim-oliver-klevenhagen
 ---
-
 Wer in finanziellen Schwierigkeiten steckt, braucht dringend ein Darlehen mit Top-Konditionen. Insbesondere, wenn die normalen Banken einem das Geld nicht mehr geben wollen. Im Internet und durch Empfehlungen sind eine Vielzahl von Firmen am Markt präsent, deren Geschäftsgebaren nur als „zweifelhaft“ bis „betrügerisch“ beschrieben werden kann. Mit Tricks wird versucht, die notleidenden zukünftigen Darlehensnehmer auch noch zusätzlich abzuzocken und natürlich wird kein Geld herausgegeben. Wie kann das sein und welche Methoden werden angewendet?
 
 #### Versicherungsgebühren und Vorkostenbetrug
