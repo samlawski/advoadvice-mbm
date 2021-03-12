@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: Brandenburgisches OLG will Berufung gegen Zwischenurteil
   zurückweisen.
-date: 2021-03-12 20:44:29
+date: 2021-03-12 20:45:54
 description: >-
   Das Brandenburgische Oberlandesgericht hat angekündigt, eine Berufung gegen
   ein Zwischenurteil des Landgerichts XXXXXX zurückzuweisen.
