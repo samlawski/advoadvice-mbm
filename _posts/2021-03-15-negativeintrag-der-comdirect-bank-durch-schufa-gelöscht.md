@@ -1,6 +1,6 @@
 ---
 title: Negativeintrag der comdirect Bank durch Schufa gelöscht.
-date: 2021-03-16 08:33:04
+date: 2021-03-15 00:00:00
 description: Schufa Holding AG löscht schnell bei Negativeintrag der comdirect Bank AG.
 layout: post
 style_id: post
