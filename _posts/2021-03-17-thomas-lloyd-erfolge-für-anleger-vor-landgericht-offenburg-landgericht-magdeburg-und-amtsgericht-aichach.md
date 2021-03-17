@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd: Erfolge für Anleger vor Landgericht Offenburg, Landgericht
   Magdeburg und Amtsgericht Aichach
-date: 2021-03-17 18:30:25
+date: 2021-03-17 00:00:00
 description: >-
   Serie von Prozesserfolgen für Anleger gegen CT Infrastruture Holding Ldt. vor
   mehreren Landgerichten und einem Amtsgericht.
