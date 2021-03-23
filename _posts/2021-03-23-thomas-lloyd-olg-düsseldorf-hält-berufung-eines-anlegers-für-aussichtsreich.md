@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: OLG Düsseldorf hält Berufung eines Anlegers für aussichtsreich.'
-date: 2021-03-23 17:01:23
+date: 2021-03-23 00:00:00
 description: >-
   Das Oberlandesgericht Düsseldorf weist darauf hin, dass es die Berufung eines
   Anlegers für aussichtsreich erachtet.
