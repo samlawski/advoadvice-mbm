@@ -1,9 +1,11 @@
 ---
 title: >-
   Eintrag der Advovox Rechtsanwalts GmbH nach Beauftragung von AdvoAdvice
-  gelöscht
-date: 2021-03-25 15:25:16
-description: Negativeintrag der Advovox Rechtsanwälte zur Löschung gebracht
+  gelöscht.
+date: 2021-03-25 15:28:04
+description: >-
+  Negativeintrag der Advovox Rechtsanwalts GmbH bei  Creditreform Boniversum
+  GmbH zur Löschung gebracht.
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa-einträge.jpg
