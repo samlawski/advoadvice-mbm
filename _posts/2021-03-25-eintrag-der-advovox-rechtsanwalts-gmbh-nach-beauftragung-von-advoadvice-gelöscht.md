@@ -59,6 +59,8 @@ Bis heute wurden keine Mahnschreiben oder ähnliches vorgelegt, die den Negative
 
 Dr. Sven Tintemann fasste zusammen: „Bei Negativeinträgen ist es oftmals wichtig, mit anwaltlicher Hilfe nachzufassen, um eine Löschung durchzusetzen. Lassen Sie sich nicht von Schreiben durch Anwaltskanzleien, die das Anwaltsinkasso betreiben, oder von Auskunftei wie z.B. der Creditreform Boniversum verunsichern, sondern suchen Sie sich kompetente Hilfe im Bereich des Datenschutzrechts."
 
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB erreichen Sie unter 030 921 000 40 oder unter info@advoadvice.de.&nbsp;
+
 &nbsp;
 
 &nbsp;
