@@ -1,9 +1,11 @@
 ---
 title: >-
-  Thomas Lloyd: Anleger vor Landgericht Magdeburg in erster Instanz mit Klage
+  Thomas Lloyd: Anlegerin vor Landgericht Magdeburg in erster Instanz mit Klage
   erfolgreich.
-date: 2021-04-08 08:57:52
-description:
+date: 2021-04-08 08:59:58
+description: >-
+  Landgericht Magdeburg verurteilt CT Infrastructure Holding Ltd. zur Zahlung
+  von 7.500 Euro an Anlegerin.
 layout: post
 style_id: post
 image:
