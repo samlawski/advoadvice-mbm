@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Anlegerin mit Berufung vor OLG Stuttgart erfolgreich.'
-date: 2021-04-09 20:10:00
+date: 2021-04-09 00:00:00
 description: >-
   Thomas Lloyd Anlegerin mit Berufung vor dem OLG Stuttgart in zweiter Instanz
   erfolgreich.
