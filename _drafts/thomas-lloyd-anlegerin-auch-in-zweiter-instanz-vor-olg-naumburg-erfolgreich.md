@@ -9,5 +9,8 @@ style_id: post
 image:
 tags:
 topics:
+  - anlegerschutz
+  - bank-und-kapitalmarkt
+  - thomas-lloyd-anlegergemeinschaft
 author: dr-sven-tintemann
 ---
