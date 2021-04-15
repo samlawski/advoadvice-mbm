@@ -55,6 +55,12 @@ Viele Mieter werden sich jetzt weigern,&nbsp; einem Rückforderungsanspruch ihre
 
 Mit anwaltlicher Hilfe wird es möglich sein, seine Rechte als Vermieter gegenüber dem Mieter durchzusetzen, selbst wenn dieser versuchen wird, berechtigten Nachforderungsansprüchen der Vermieter durch eigene Zurückbehaltungsrechte entgegenzuwirken. Hier sollten Sie mit einem darauf spezialisierten Rechtsanwalt die konkrete Situation analysieren um dann gemeinsam im Rahmen einer möglichen Rückforderung vorzugehen.
 
+Sinn macht es in diesem Zusammenhang, genau die Höhe und die Zusammensetzung nachzuverfolgen und diese dann schriftlich gegenüber dem Mieter nachzufordern.&nbsp;
+
+Es stellen sich die Fragen, ob nunmehr durch die bislang nicht gezahlten Mieten auch ggf. sogar fristlose Kündigungsmöglichkeiten gegeben sind, weil aufgrund der Nichtigkeit der "Mietpreisbremse" jetzt die gesetzlichen Voraussetzungen erreicht sind aufgrund des faktischen Mietrückstandes. Hier sollten Sie die Voraussetzungen und ggf. auch aufgelaufene Zinsansprüche unbedingt anwaltlich prüfen lassen.&nbsp;&nbsp;
+
+Auch stellt sich die Frage, wie denn laufende behördliche oder gerichtliche Vorgänge gegen das vom BVerfG gekippte Berliner Gesetz beendet oder zu Gunsten des Vermieters beeinflusst oder geführt werden können.
+
 #### Staatshaftungsansprüche bei Uneinbringlichkeit der Miete?
 
 Insbesondere wird sich für nachforderungsberechtigte Vermieter die Frage stellen, ob es einen sogenannten Staatshaftungsanspruch gegen die gegen das Land Berlin gibt, wenn der zahlungspflichtige Mieter nicht mehr zahlungsfähig ist oder die ausstehende Nachforderung der Differenzmiete auf andere Weise uneinbringlich ist. Durch die Tatsache, dass es sich hier um eine gesetzliche Regelung gehandelt hat, dürfte in einer Prüfung entscheidend sein, ob möglicherweise ein nachrangiger Anspruch von Vermietern gegen das Land Berlin besteht weil Mieter im Vertrauen auf die gesetzliche Regelung auf das Bestehen des Mietendeckels vertraut haben.
