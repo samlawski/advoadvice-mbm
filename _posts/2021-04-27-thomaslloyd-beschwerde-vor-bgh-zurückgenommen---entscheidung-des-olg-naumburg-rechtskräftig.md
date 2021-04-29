@@ -61,7 +61,7 @@ Rechtsanwalt Dr. Sven Tintemann, der das Verfahren von Beginn an begleitet hat, 
 
 Betroffene Anlegerinnen und Anleger können sich weiterhin gerne an die Kanzlei AdvoAdvice Rechtsanwälte mbB wenden.&nbsp;
 
-**Bildnachweis: Foto von Stephan Baumann**
+**Bildnachweis:**<br>[Bundesgerichtshof - Hof des Nordgebäudes](https://www.bundesgerichtshof.de/DE/Presse/Pressefotos/pressefotos_node.html;jsessionid=8884067C2A3400BD5BA516293FD49595.1_cid294){: target="_blank" rel="noopener"}<br>(Foto von Stephan Baumann)
 
 &nbsp;
 
