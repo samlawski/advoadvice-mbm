@@ -39,9 +39,9 @@ Geklagte hatte ein Anleger für sich und seine Ehefrau, die beide jeweils 3.500 
 
 Nach Vertragskündigung hatte sich deren Rechtsnachfolgerin CT Infrastructure Holding Ltd. allerdings geweigert, eine Rückzahlung der Anlagesumme an die Anleger zu leisten.
 
-Es wurde daher durch die Kanzlei AdvoAdvice Klage zu LG Stendal eingereicht. Diese hatte auch erstinstanzlich Erfolg (wir berichteten).&nbsp;
+Es wurde daher durch die Kanzlei AdvoAdvice Klage zu LG Stendal eingereicht. Diese hatte auch erstinstanzlich Erfolg ([wir berichteten](/blog/thomas-lloyd-zweites-urteil-f%C3%BCr-anleger-erstritten/)).&nbsp;
 
-Die Berufung der Beklagten gegen die Entscheidung hatte nur geringen Erfolg. Die erstinstanzliche Entscheidung wurde durch das OLG leicht abgeändert, im Gro&szlig;teil aber bestätigt (auch hierüber haben wir berichtet).&nbsp;
+Die Berufung der Beklagten gegen die Entscheidung hatte nur geringen Erfolg. Die erstinstanzliche Entscheidung wurde durch das OLG leicht abgeändert, im Gro&szlig;teil aber bestätigt ([auch hierüber haben wir berichtet](/blog/thomas-lloyd-olg-naumburg-verurteilt-ct-infrastructure-holding-ltd-zur-zahlung/)).&nbsp;
 
 Die Revision zum Bundesgerichtshof wurde durch das OLG Naumburg nicht zugelassen.&nbsp;
 
