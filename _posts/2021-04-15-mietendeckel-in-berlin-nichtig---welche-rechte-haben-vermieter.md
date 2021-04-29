@@ -7,7 +7,7 @@ description: >-
   rückwirkend die Differenz zur vertraglich vereinbarten Miete zurückfordern.
 layout: post
 style_id: post
-image: /uploads/money-1005464-640-12.jpg
+image: /uploads/real-estate-3297625-1280.jpg
 tags:
   - Mietendeckel
   - Mietpreisbremse
