@@ -6,7 +6,7 @@ description: >-
   Opportunities Fonds 01 GmbH vor dem LG Frankfurt / Main.
 layout: post
 style_id: post
-image:
+image: /uploads/theme-thomaslloyd1.jpg
 tags:
   - Urteil
   - Landgericht Frankfurt
