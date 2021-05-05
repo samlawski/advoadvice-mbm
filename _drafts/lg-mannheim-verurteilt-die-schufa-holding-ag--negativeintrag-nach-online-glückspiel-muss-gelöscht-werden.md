@@ -2,7 +2,7 @@
 title: >-
   LG Mannheim: Schufa Holding AG muss Negativeintrag nach Online-Glückspiel
   löschen.
-date: 2021-05-04 12:59:00
+date: 2021-05-05 00:00:00
 description: >-
   Schufa Holding AG durch Landgericht Mannheim in zweiter Instanz zur Löschung
   eines Negativeintrags der Axactor Germany GmbH verurteilt.
