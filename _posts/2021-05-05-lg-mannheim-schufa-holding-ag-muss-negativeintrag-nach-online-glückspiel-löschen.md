@@ -35,7 +35,7 @@ In diesem Rahmen ist er auf Internet Angebote von Rechtsanwaltskollegen gesto&sz
 
 In der Folge ging der Betroffene deshalb davon aus, dass er zum Ausgleich der Beträge nicht verpflichtet sei. Die Forderung wurde gegenüber der Barclays Bank mehrfach bestritten.
 
-Gleichwohl kündigte die Barclays Bank das Kreditkartenkonto Ende 2018 relativ schnell und veranlasste einen negativen Schufa Eintrag. Im April 2019 wurde die Forderung dann von der Axactor Germany GmbH übernommen, welche einen ergänzenden Eintrag bei der Schufa Holding AG vornahm. Im Juli 2019 vereinbarte der Kläger mit der Axactor Germany GmbH eine Ratenzahlungsvereinbarung und einen Teilerlass der Schulden, sofern er die Vereinbarung einhalten würde.
+Gleichwohl kündigte die Barclays Bank das Kreditkartenkonto im Herbst 2018 relativ schnell und veranlasste einen negativen Schufa Eintrag. Im April 2019 wurde die Forderung dann von der Axactor Germany GmbH übernommen, welche einen ergänzenden Eintrag bei der Schufa Holding AG vornahm. Im Juli 2019 vereinbarte der Kläger mit der Axactor Germany GmbH eine Ratenzahlungsvereinbarung und einen Teilerlass der Schulden, sofern er die Vereinbarung einhalten würde.
 
 **Keine Löschung des Negativeintrages** &nbsp;&nbsp;&nbsp;
 
@@ -43,7 +43,7 @@ Bereits au&szlig;ergerichtlich wurden sowohl die Barclays Bank als ursprünglich
 
 Weder die Schufa Holding AG noch die Barclays Bank Ireland PLC Hamburg Branch folgten dieser Auffassung, sodass im August 2019 eine Klage gegen die Schufa Holding AG auf Löschung des Eintrages eingereicht wurde. Nach Streitigkeiten über die Zuständigkeit wurde die Sache dann vor dem Amtsgericht Mannheim verhandelt. Zwischenzeitlich wurde der Teil-Eintrag der Barclays Bank Ireland PLC Hamburg Branch entfernt, sodass es im Verfahren vor dem Amtsgericht Mannheim nur noch um den Eintrag der Axactor Germany GmbH ging.
 
-Das Amtsgericht Mannheim kam im September 2020 zu seinem Urteil und entschied, dass der Eintrag aufrechterhalten werden dürfe, da der Betroffene die Forderung jedenfalls ausdrücklich anerkannt habe.
+Das Amtsgericht Mannheim kam im September 2020 zu seinem Urteil und entschied, dass der Eintrag aufrechterhalten werden dürfe, da der Betroffene die Forderung jedenfalls ausdrücklich anerkannt habe. Die anderen Meldevoraussetzungen sah bereits das Amtsgericht Mannheim nicht.
 
 ## **Berufungsurteil und Löschverpflichtung**
 
@@ -73,9 +73,9 @@ Im weiteren Verfahren ging es sodann ma&szlig;geblich um die Frage, ob der Betro
 
 Die Schufa Holding AG ging genau davon aus und wandte ferner ein, dass es sich um eine nachträglich abgeschlossene Ratenzahlungsvereinbarung handle und diese damit der Rechtmä&szlig;igkeit der Datenverarbeitung nicht im Wege stehe.
 
-Die Schufa Holding AG hat dabei offensichtlich übersehen, dass der Kläger die Ratenzahlungsvereinbarung *„ohne Anerkennung einer Rechtsschuld“* abgeschlossen hatte und ergänzend darauf hinwies, dass er nicht davon ausgehe, dass „*die Förderung überhaupt wirksam“* gewesen sei.
+Die Schufa Holding AG hat dabei wohl übersehen oder fehlerhaft eingeschätzt, dass einerseits zuvor kein rechtmä&szlig;iger Eintrag bestand, sodass eine "nachträgliche" Ratenzahlungsvereinbarung (nach rechtmä&szlig;iger Einmeldung) bereits nicht in Betracht kam. Darüber hinaus hat der Kläger die Ratenzahlungsvereinbarung *„ohne Anerkennung einer Rechtsschuld“* abgeschlossen und ergänzend darauf hinwies, dass er nicht davon ausgehe, dass „*die Förderung überhaupt wirksam“* gewesen sei.
 
-Das Landgericht Mannheim urteilte daher vollkommen richtig, dass somit schon kein ausdrückliches Anerkenntnis erkennbar sei.
+Das Landgericht Mannheim urteilte daher vollkommen richtig, dass zwar eine Ratenzahlungsvereinbarung aber kein ausdrückliches Anerkenntnis (Nr. 3) erkennbar sei.
 
 ## **Fazit**
 
@@ -85,7 +85,7 @@ Es wurde besonders darauf hingewiesen, dass die Entscheidung auf den Besonderhei
 
 Rechtsanwalt Dr. Raphael Rohrmoser, der die mündliche Verhandlung vor dem Landgericht Mannheim in Videokonferenz durchgeführt hat,&nbsp; zeigt sich erleichtert und erfreut über die Entscheidung. Er resümiert die Sache wie folgt:
 
-*„Aus unserer Sicht hätte bereits das Amtsgericht Mannheim erkennen müssen, dass ein ausdrückliches Anerkenntnis gerade nicht gegeben war. Unter den gegebenen Umständen des Einzelfalles war dies sogar fernliegend. Die Entscheidung des Landgerichts Mannheim berücksichtigt den konkreten Sachverhalt dagegen in all seinen Facetten und zeigt auf, dass es sich rentiert, sich auch mit aller Geduld gegen unberechtigte Datenverarbeitungen zu wehren. Das Landgericht Mannheim hat richtig erkannt, dass es am Ende schlicht und ergreifend darum geht, ob die Voraussetzungen für eine Datenverarbeitung gegeben sind oder nicht. Insofern handelt es sich um eine sehr konsequente und richtige Entscheidung.“ &nbsp;*
+*„Aus unserer Sicht hätte bereits das Amtsgericht Mannheim erkennen müssen, dass ein ausdrückliches Anerkenntnis gerade nicht gegeben war. Unter den gegebenen Umständen des Einzelfalles war dies&nbsp; aus hiesiger Sicht sogar fernliegend. Die Entscheidung des Landgerichts Mannheim berücksichtigt den konkreten Sachverhalt dagegen in all seinen Facetten und zeigt auf, dass es sich rentiert, sich auch mit aller Geduld gegen unberechtigte Datenverarbeitungen zu wehren. Das Landgericht Mannheim hat richtig erkannt, dass es am Ende schlicht und ergreifend darum geht, ob die Voraussetzungen für eine Datenverarbeitung gegeben sind oder nicht. Insofern handelt es sich um eine sehr konsequente und richtige Entscheidung die viele Rechtsfragen nochmals genau unter die Lupe nimmt.“ &nbsp;*
 
 &nbsp;
 
