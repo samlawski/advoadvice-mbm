@@ -1,9 +1,9 @@
 ---
-title: 'Thomas Lloyd: Landgericht Leipzig'
-date: 2021-04-14 09:05:42
+title: 'Thomas Lloyd: Vier weitere erstinstanzliche Erfolge für Anleger erstritten.'
+date: 2021-05-13 09:05:00
 description: >-
-  Landgericht Leipzig verurteilt CT Infrastructure Holding Ltd. erstinstanzlich
-  zu Zahlung an Anleger.
+  Landgerichte Magdeburg, Leipzig, Itzehoe und Duisburg verurteilen CT
+  Infrastructure Holding Ltd. zur Zahlung an klagende Anleger(innen).
 layout: post
 style_id: post
 image:
