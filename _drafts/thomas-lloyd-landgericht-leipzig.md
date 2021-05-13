@@ -42,15 +42,23 @@ Da das OLG Naumburg aber bereits in zwei Berufungen gegen Urteile des Landgerich
 
 Am 26.03.2021 verurteilte das Landgericht Leipzig die CT Infrastruture Holding Ltd. zu einer Zahlung an einen ehemaligen Anleger der DKM Global Oppertunities Fonds 01 GmbH in Höhe von 14.000,00 Euro.
 
-Geklagte hatte ein Anleger, der insgesamt 20.000 Euro bei der zunächst in Deutschland ansässigen Anlagegesellschaft angelegt hatte.&nbsp;
+Geklagte hatte ein Anleger, der insgesamt 20.000 Euro bei der zunächst in Deutschland ansässigen Anlagegesellschaft angelegt hatte. Die atypisch stille Beteiligung hatte er im Jahr 2016 zum Ablauf des 31.12.2017 gekündigt. Eine Rückzahlung erfolgte jedoch nicht.&nbsp;
+
+Da die Beklagten in einem Schreiben vom Februar 2019 den Wert der Anlage mit 14.000 Euro angegeben hatte, entschloss sich der Anleger zur Klage und bekam nun in der ersten Instanz Recht. Hierzu führte das Gericht in seinem Urteil aus:&nbsp;
+
+"Der Kläger hat gegen die Beklagte aufgrund seines zum 31.12.2017 wirksam gewordenen Austritts aus der Gesellschaft einen Anspruch auf Zahlung des um den Wert der steuerlich nutzbaren Verlustzuweisung von 6.000,- € verminderten Einlagebetrages. Der Anspruch ergibt sich aus &sect; 15 des Vertrags über die Errichtung einer atypischen Gesellschaft. Demnach steht dem Kläger bei Beendigung der atypisch stillen Gesellschaft ein Abfindungsguthaben zu, bestehend aus dem Auseinandersetzungswert und dem Stand des Kapitalkontos, das sich nach den nachfolgenden Absätzen und &sect; 7 des Vertrages errechnen soll."
+
+Die Beklagte hat gegen die Entscheidung bereits Berufung zum Oberlandesgericht Dresden eingelegt. Die Entscheidung ist daher noch nicht rechtskräftig.&nbsp;
 
 ### **3) Landgericht Itzehoe**
 
-Auch das LG Magdeburg urteilte am 03.03.2021 zugunsten des von der Kanzlei AdvoAdvice vertretenen Klägers und verpflichtete die Beklagte, an diesen 17.813,75 Euro zuzüglich Zinsen und die Kosten des Rechtsstreits zu zahlen.
+Auch das Landgericht Itzehoe urteilte am 27.04.2021 zugunsten eines von der Kanzlei AdvoAdvice vertretenen Klägers und urteilte die Beklagte, an diesen 70.000,00 Euro zuzüglich Zinsen sowie die Kosten des Rechtsstreits zu zahlen.
 
-Diesmal erfolgte die Kündigung der Genussrechte als Reaktion auf die Umwandlung selbiger zu Aktien. Dies wurde vom Gericht anerkannt, da diese Aktien entgegen der Behauptungen der Beklagten vom Landgericht Magdeburg nicht als gleichwertige Rechte angesehen wurden. Es führte hierzu in seiner Entscheidung wie folgt aus:
+Der hier klagende Anleger hatte seine zwei Genussrechtsbeteiligungen bei der Rechtsvorgängerin der beklagten CT Infrastructure Holding Ltd. im Jahr 2017 zum Ablauf des 31.12.2019 gekündigt.&nbsp;
 
-*„Insoweit überzeugt das Argument des Klägers, dass er bei Kündigung der Genussrechtsbeteiligung gem. &sect; 6 Abs. 4 einen Rückzahlungsanspruch gegen die Rechtsvorgängerin der Beklagten in Höhe von 100 % des Nennbetrages abzüglich eines etwaigen Verlustanteils hatte, während er bei den Aktien diesen Anspruch gerade nicht hat, sondern darauf angewiesen ist, dass die Aktien zu einem guten Betrag handelbar sind.“*
+Die Beklagte vertrat die These, dass die Genussrechte in Aktien umgewandelt worden seien und zudem kein Rückzahlungsanspruch des klagenden Anlegers bestehe. Dies bewertete das Landgericht Itzehoe jedoch deutlich anders und führte hierzu in seiner Entscheidung aus:&nbsp;
+
+&nbsp;
 
 ### **4) Landgericht Duisburg**
 
