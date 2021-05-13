@@ -1,13 +1,25 @@
 ---
 title: 'Thomas Lloyd: Vier weitere erstinstanzliche Erfolge für Anleger erstritten.'
-date: 2021-05-13 09:05:00
+date: 2021-05-13 00:00:00
 description: >-
   Landgerichte Magdeburg, Leipzig, Itzehoe und Duisburg verurteilen CT
   Infrastructure Holding Ltd. zur Zahlung an klagende Anleger(innen).
 layout: post
 style_id: post
-image:
+image: /uploads/thumbs-up-2056022-640-1.jpg
 tags:
+  - Landgericht Leipzig
+  - Landgericht Itzehoe
+  - Landgericht Magdeburg
+  - Landgericht Duisburg
+  - Klage
+  - Anleger
+  - Erfolg
+  - Urteil
+  - ThomasLloyd Investments GmbH
+  - DKM Global Opportunities Fonds
+  - CT Infrastructure Holding Ltd.
+  - AdvoAdvice
 topics:
   - anlegerschutz
   - thomas-lloyd-anlegergemeinschaft
