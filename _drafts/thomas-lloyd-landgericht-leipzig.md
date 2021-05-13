@@ -58,22 +58,28 @@ Der hier klagende Anleger hatte seine zwei Genussrechtsbeteiligungen bei der Rec
 
 Die Beklagte vertrat die These, dass die Genussrechte in Aktien umgewandelt worden seien und zudem kein Rückzahlungsanspruch des klagenden Anlegers bestehe. Dies bewertete das Landgericht Itzehoe jedoch deutlich anders und führte hierzu in seiner Entscheidung aus:&nbsp;
 
-&nbsp;
+"Dem Kläger steht ein Schadenersatzanspruch dem Grunde nach aus &sect;&sect; 280, 160, 283 BGB zu. Der Anspruch besteht dem Grunde nach gemä&szlig; &sect;&sect; 280, 160, 283 BGB, da die Beklagte nach der ordentlichen Kündigung des Klägers zur Rückzahlung der Genussrechte zum Ablauf der Kündigungsfrist verpflichtet war und ihr dies infolge der Verschmelzung und der damit einhergehenden Umwandlung der Genussrechte in Aktienanteile unmöglich geworden ist.
+
+Die Beklagte hat die Unmöglichkeit ihrer Leistung nach &sect; 280 Abs. 1 S. 2 BGB auch zu vertreten. Im Verhältnis zum Kläger war das Vorgehen vertragswidrig im Hinblick auf die geltenden Vertragsbedingungen (&sect; 8, Anlage K5). Gleichwertige Rechte wurden nicht eingeräumt. Die angebotenen B-Anteile sind nicht mehr kündbare Genussrechte, sondern Aktien einer britischen Limited. Die Feststellung und die Realisierbarkeit des wirtschaftlichen Wertes unterscheidet sich und ist nicht gleichwertig. Die Beklagte hätte vor der Verschmelzung selber aus wichtigen Grund kündigen und die Rückzahlung veranlassen können."
+
+Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat bereits das Rechtsmittel der Berufung zum OLG Schleswig eingelegt.&nbsp;
 
 ### **4) Landgericht Duisburg**
 
-Zuletzt hat sich das AG Aichach den anderen Gerichten am 09.03.2021 angeschlossen.
+Das Landgericht Duisburg bestätigte mit Urteil vom 26.04.2021 ein zuvor erlassenes&nbsp; Versäumnisurteil vom 03.06.2020, in welchem es die CT Infrastructure Holding Ltd. zur Zahlung von 18.449,90 Euro verurteilt hatte.&nbsp;
 
-Es verurteilte die Beklagte zur Zahlung von 3.611,90 Euro zuzüglich Zinsen sowie zur Übernahme von 77 % der Prozesskosten.
+Geklagte hatte ein Anleger, der seine Genussrechtsbeteiligung an der Thomas Lloyd Investments GmbH zum Ablauf des 31.12.2018 ordentlich gekündigt hatte. Auf die Klage hatte das Landgericht Duisburg zunächst ein Versäumnisurteil erlassen.&nbsp;
 
-Neben dem Kerninhalt des Urteil, das denen des LG Offenburg weitestgehend gleicht, sprach das Amtsgericht die Frage eines Alternativanspruchs aus Schadensersatz gegenüber der Beklagten auf Grund der nicht abgesprochenen Umwandlung der Genussrecht in Aktien an und führte hierzu wie folgt aus:
+Gegen dieses hatte die Beklagte Einspruch eingelegt. Ohne Erfolg, wie sich nun nach Abschluss der I. Instanz herausstellte.&nbsp;
 
-*„Zum selben Ergebnis gelangt man, wenn man die unterlassene Entlassung der Klägerin aus der Gesellschaft zum 31.12.2018 als Pflichtverletzung einordnen und die Beklagte zum Schadensersatz verpflichtet ansehen wollte. \[…\]*
+Das Landgericht Duisburg bestätigte einen Auszahlungsanspruch in Höhe des Wertes des Beteiligung, den die Gesellschaft selbst mit Schreiben aus dem Februar 2019 mitgeteilt hatte. Im Urteil führte das Gericht wie folgt aus:&nbsp;
 
-*Da wie ausgeführt nur die Entlassung aus dem Gesellschaftsvertrag im Wege der Naturalrestitution den gem. &sect;&sect; 249 ff. BGB geschuldeten Zustand schaffen würde, kann dahinstehen, ob die im Wege der Verschmelzung gewährten Aktienanteile ein monetärer ausreichender Ausgleich für die bisherigen Gesellschaftsanteile der Klägerin gewesen wären.“*
+"Die Klage ist begründet. Dem Kläger steht ein Zahlungsanspruch hinsichtlich der Genussanteile zu. Der Kläger hat die Genussrechtsbeteiligung am 31.12.2018 fristgemä&szlig; gekündigt. Dazu stand gemä&szlig; &sect; 4 Nr. 5,6 Nr. 4 ein völliger Zahlungsanspruch, der drei Monate nach Endes des Geschäftsjahres fällig war. Gemä&szlig; der vorgenannten Bedingungen hatte die Rückzahlung der Genussrechte zu 100% des Nennbetrages zu erfolgten, mithin je in Höhe von 18.449,90 €. Dieser Betrag ergibt sich aus der eigenen Berechnung der Beklagten aus dem Schreiben im Februar 2019. Dieser Betrag war um einen Verlust zu reduzieren, der sich nach den vorgenannten Bedingungen aus &sect; 5 ergab. Soweit die Beklagte einen dahingehenden Verlust behauptet, war ein solcher streitig. Dahingehend Verluste hat die Beklagte weder substantiiert vorgetragen noch nachgewiesen. Für dahingehende Verluste der Anlage wäre die nach allgemeinen Beweissatzregeln beweispflichtig gewesen."
 
-Gegen alle Entscheidungen ist das Rechtsmittel der Berufung für die Beklagte möglich. Die Urteile sind daher noch nicht rechtskräftig.
+Gegen alle Entscheidungen ist das Rechtsmittel der Berufung für die Beklagte möglich. Das Urteile ist daher noch nicht rechtskräftig.
 
 ## **Unser Fazit**
 
-Die vier neuen Urteile reihen sich damit in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein. Anleger der ursprünglichen Thomas Lloyd Investments GmbH haben somit weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
+Die vier neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein.
+
+Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH haben somit weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
