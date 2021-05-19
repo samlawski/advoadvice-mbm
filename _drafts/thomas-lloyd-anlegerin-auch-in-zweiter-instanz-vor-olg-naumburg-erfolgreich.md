@@ -34,7 +34,7 @@ Die Klägerin machte daher mit Schreiben vom 04.04.2019 Ansprüche auf Rückzahl
 
 ## Klage vor dem Landgericht Stendal
 
-Daher reichte die Anlegerin Klage vor dem Landgericht Stendal ein und bekam in der ersten Instanz einen Rückzahlungsanspruch in Höhe von 12.937,50 Euro zzgl.Zinsen seit dem 01.04.2018 zugesprochen. Zudem wurde die Beklagte CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der Anlagegesellschaft zur Übernahme von vorgerichtlich entstandenen Anwaltskosten verurteilt.&nbsp;
+Daher reichte die Anlegerin Klage vor dem Landgericht Stendal ein und bekam in der ersten Instanz einen Rückzahlungsanspruch in Höhe von 12.937,50 Euro zzgl. Zinsen seit dem 01.04.2018 zugesprochen. Zudem wurde die Beklagte CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der Anlagegesellschaft zur Übernahme von vorgerichtlich entstandenen Anwaltskosten verurteilt.&nbsp;
 
 ## Berufung zum OLG Naumburg&nbsp;
 
