@@ -1,11 +1,11 @@
 ---
 title: >-
-  Thomas Lloyd: Brandenburgisches OLG will Berufung gegen Zwischenurteil
-  zurückweisen.
-date: 2021-03-12 20:45:54
+  Thomas Lloyd: Brandenburgisches OLG weist Berufung gegen Zwischenurteil
+  zurück.
+date: 2021-05-24 20:45:00
 description: >-
-  Das Brandenburgische Oberlandesgericht hat angekündigt, eine Berufung gegen
-  ein Zwischenurteil des Landgerichts XXXXXX zurückzuweisen.
+  Das Brandenburgische Oberlandesgericht hat eine Berufung gegen ein
+  Zwischenurteil des Landgerichts Frankfurt (Oder) zurückzuweisen.
 layout: post
 style_id: post
 image: /uploads/olg-brandenburg.jpg
@@ -16,7 +16,6 @@ tags:
   - Zuständigkeit
   - Berufung
   - Zurückweisung
-  - Ankündigung
   - Entscheidung
   - CT Infrastructure Holding Ltd.
   - ThomasLloyd Investments GmbH
