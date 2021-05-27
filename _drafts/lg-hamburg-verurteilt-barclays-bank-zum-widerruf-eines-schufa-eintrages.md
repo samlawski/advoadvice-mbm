@@ -1,10 +1,10 @@
 ---
 title: LG Hamburg verurteilt Barclays Bank zum Widerruf eines Schufa-Eintrages
-date: 2021-05-27 16:05:38
+date: 2021-05-27 16:05:00
 description:
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---lg-hamburg-gg-barclays.jpg
 tags:
 topics:
 author: dr-sven-tintemann
@@ -25,7 +25,9 @@ Eine Besonderheit lag aus Sicht des Klägers darin, dass dieser die Barclays Ban
 
 Im September 2020 wurde sodann eine Klage vor dem Landgericht Hamburg eingereicht. Zur mündlichen Verhandlung kam es im März 2021. Bereits in der mündlichen Verhandlung räumte das Gericht dem Antrag auf Widerruf eine gewisse Erfolgswahrscheinlichkeit ein, da Zweifel an der Verarbeitungsbefugnis bestehe. Das Gericht wies jedoch darauf hin, dass es jedoch einen Unterlassungsanspruch und einen Scorewertberichtigungsanspruch als Folgenbeseitigungsanspruch nicht erkennen könne, obgleich beides in der Rechtsprechung unterschiedlich eingeschätzt wird. Der Unterlassungsanspruch scheitere nach Ansicht des Gerichts daran, dass die Forderung bereits ausgeglichen war und somit kein Risiko mehr bestünde.
 
-Ma&szlig;geblich war aus Sicht des Gerichts allerdings die Frage, wann genau die Kündigung als empfangsbedürftige Willenserklärung beim Kläger zugegangen ist. Erst mit einer ordnungsgemä&szlig;en Zustellung wäre die eingetragene Forderung nämlich fällig i. S. d. &sect; 31 Abs. 2 BDSG. Die Fälligkeit der Forderung ist danach Grundvoraussetzung. Das Gericht ging mit vielen weiteren Gerichten davon aus, dass der Katalog des &sect; 31 Abs. 2 BDSG die Interessenabwägung konkretisiere. Sodann schreibt das Landgericht Hamburg (Urt. v. 20.05.2021 – 302 O 133/20) konkret:
+Ma&szlig;geblich war aus Sicht des Gerichts allerdings die Frage, wann genau die Kündigung als empfangsbedürftige Willenserklärung beim Kläger zugegangen ist. Erst mit einer ordnungsgemä&szlig;en Zustellung wäre die eingetragene Forderung nämlich fällig i. S. d. &sect; 31 Abs. 2 BDSG. Die Fälligkeit der eingetragenen Forderung ist danach Grundvoraussetzung, weshalb der Teilrückstand aus der Mahnung nicht ausreichend ist. Darauf verwies kürzlich bereits das [Landgericht Mannheim in einem Verfahren gegen die Schufa Holding AG](https://advoadvice.de/blog/lg-mannheim-schufa-holding-ag-muss-negativeintrag-nach-online-gl%C3%BCckspiel-l%C3%B6schen/).&nbsp;
+
+Das Gericht ging mit vielen weiteren Gerichten davon aus, dass der Katalog des &sect; 31 Abs. 2 BDSG die Interessenabwägung konkretisiere. Sodann schreibt das Landgericht Hamburg (Urt. v. 20.05.2021 – 302 O 133/20) konkret:
 
 *„Danach fehlt es hier an einer Zulässigkeit der fraglichen Datenübermittlung am 28.1.2020, weil die Übermittlung personenbezogener Daten über eine Forderung an eine Auskunftei nach &sect; 31 Abs. 2 BDSG voraussetzt, dass die geschuldete Leistung trotz Fälligkeit nicht erbracht worden ist. Hier ist am 28.1.2020 durch die Beklagte gegenüber der SCHUFA Holding AG nicht der Rückstand gemeldet worden, der sich aus der Nichtleistung der monatlich zurückzuzahlenden Teilbeträge ergeben hatte, sondern der Gesamtsaldo; dies belegt die Formulierung des Negativeintrags. Diese Forderung ist indes erst mit Zugang der Kündigungserklärung der Beklagten beim Kläger fällig geworden. Der Kläger hat vorgetragen, das auf den 27.1.2020 datierende Kündigungsschreiben erst nach der Meldung, nämlich am 30.1.2020 erhalten zu haben. Dem ist die insoweit darlegungs- und beweisbelastete Beklagte nicht hinreichend entgegengetreten.“*
 
