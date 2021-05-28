@@ -6,7 +6,7 @@ description: >-
   zurück. Anleger auch in zweiter Instanz erfolgreich.
 layout: post
 style_id: post
-image:
+image: /uploads/video.jpg
 tags:
   - OLG Zweibrücken
   - Erfolg
