@@ -1,6 +1,6 @@
 ---
 title: Negativeintrag der Collectia GmbH durch die Schufa zur Löschung gebracht
-date: 2021-05-28 15:17:21
+date: 2021-05-26 00:00:00
 description: Negativeintrag der Collectia nach Zweifeln an Inkassokosten gelöscht
 layout: post
 style_id: post
