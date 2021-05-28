@@ -6,7 +6,7 @@ description: >-
   Infrastructure Holding Ltd. zur Zahlung.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-793047-1280.jpg
 tags:
   - Erfolg
   - OLG Düsseldorf
