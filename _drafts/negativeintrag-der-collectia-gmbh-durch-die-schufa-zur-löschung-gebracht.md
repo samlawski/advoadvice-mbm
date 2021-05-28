@@ -20,7 +20,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-Bereits im Jahr 2020 berichtete wir [mehrfach](https://advoadvice.de/blog/collectia-widerruft-eintrag-bei-schufa-holding-ag/)über die [Löschung](https://advoadvice.de/blog/erneut-schufa-eintrag-der-collectia-gmbh-gel%C3%B6scht/)von negativen Einträgen bei der Schufa Holding AG, welche auf eine Eintragung der Collectia GmbH zurückzuführen ist. Auch im Frühjahr 2021 meldete sich erneut ein Betroffener eines solchen Eintrages.
+Bereits im Jahr 2020 berichtete wir [mehrfach](https://advoadvice.de/blog/collectia-widerruft-eintrag-bei-schufa-holding-ag/)&nbsp;über die [Löschung](https://advoadvice.de/blog/erneut-schufa-eintrag-der-collectia-gmbh-gel%C3%B6scht/)&nbsp;von negativen Einträgen bei der Schufa Holding AG, welche auf eine Eintragung der Collectia GmbH zurückzuführen ist. Auch im Frühjahr 2021 meldete sich erneut ein Betroffener eines solchen Eintrages.
 
 ## **Fitnessstudio, „Widerspruch“, Negativeintrag**
 
