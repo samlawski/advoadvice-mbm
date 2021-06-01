@@ -1,12 +1,28 @@
 ---
-title: Informationstag zu Firmengründung und Insolvenz in Lettland
+title: 16. Informationstag zu Firmengründung und Insolvenz in Lettland
 date: 2021-06-01 00:00:00
-description:
+description: >-
+  AdvoAdvice informiert zu Firmengründung in Lettland sowie zu
+  Insolvenzverfahren nach lettischem Recht (Lettland-Insolvenz).
 layout: post
 style_id: post
-image:
+image: /uploads/latvia-3725546-1280.jpg
 tags:
+  - Insolvenz
+  - Lettland-Insolvenz
+  - Restschuldbefreiung
+  - Riga
+  - Lettland
+  - Europarecht
+  - Insolvenzrecht
+  - Berlin
+  - AdvoAdvice
+  - Rechtsanwälte
+  - Beratung
+  - Information
+  - Anmeldung
 topics:
+  - lettland-insolvenz
 author: dr-sven-tintemann
 ---
 Es kommt, was irgendwann kommen muss. Die Insolvenzantragspflicht in Deutschland lebt seit dem 01.05.2021 wieder auf. Droht nun die Pleitewelle oder sogar der Tsunami, den viele Experten befürchten?&nbsp;
@@ -21,7 +37,7 @@ Seit dem 1. Mai 2021 sind die pandemiebedingten Sonderregeln ausgelaufen. Zahlun
 
 Die Kanzlei AdvoAdvice aus Berlin bietet&nbsp; seit zwei Jahren die Insolvenz in Lettland in Zusammenarbeit mit der Firma Berger Consulting SIA und erfahrenen Rechtsanwälten vor Ort in Riga an. Hierzu wurden schon vierzehn Informationstage in Berlin vor Ort und auch online in einem Turnus von etwa einem Monat durchgeführt. &nbsp;
 
-Auch in diesem Jahr bieten wir Interessierten an unserem 15. Informationstag zur Lettland Insolvenz, welcher am XX.XX.2021 in Berlin stattfindet, die Möglichkeit, sich noch vor einer drohenden Insolvenzantragswelle über die Möglichkeiten eines Insolvenzverfahrens mit Restschuldbefreiung in Lettland (Riga) zu informieren.&nbsp;
+Auch in diesem Jahr bieten wir Interessierten an unserem 15. Informationstag zur Lettland Insolvenz, welcher am 08.07.2021 in Berlin stattfindet, die Möglichkeit, sich noch vor einer drohenden Insolvenzantragswelle über die Möglichkeiten eines Insolvenzverfahrens mit Restschuldbefreiung in Lettland (Riga) zu informieren.&nbsp;
 
 Den Schwerpunkte der Beratung bilden insbesondere das gegenseitige Kennenlernen und die ausgiebige Möglichkeit, Fragen zum Ablauf des Verfahrens zu stellen.&nbsp;
 
@@ -46,7 +62,7 @@ In der Struktur unserer Mandatsanfragen zeigt sich bereits nach nunmehr zwei Jah
 
 ## Verbindlichen Beratungstermin vereinbaren&nbsp;
 
-Vereinbaren Sie bei Interesse an einer Beratung vor Ort in Berlin oder per Videokonferenz am XX.XX.2021 zeitnah einen Termin. &nbsp;
+Vereinbaren Sie bei Interesse an einer Beratung vor Ort in Berlin oder per Videokonferenz am 08.07.2021 zeitnah einen Termin. &nbsp;
 
 Sollten Sie ein spezielles Konferenztool verwenden wollen, hinterlassen Sie uns hierzu bitte Ihre Email-Adresse sowie ggf. Daten für Skype, Bravis, Zoom oder andere Anbieter.&nbsp;
 
@@ -87,4 +103,4 @@ Auch die Formulare für Gläubiger zur Anmeldung von Forderungen in europäische
 
 ## Jetzt Termin sichern&nbsp;
 
-Vereinbaren Sie gerne noch heute Ihren Termin in Berlin an unserem Informationstag oder Ihre Videokonferenz mit uns für den XX.XX.2021 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.&nbsp;
+Vereinbaren Sie gerne noch heute Ihren Termin in Berlin an unserem Informationstag oder Ihre Videokonferenz mit uns für den 08.07.2021 unter der Rufnummer 030 921 000 40 oder schreiben Sie uns eine Email an info@advoadvice.de.&nbsp;
