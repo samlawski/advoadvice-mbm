@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Lloyd: Anleger mit Berufung vor OLG Düsseldorf erfolgreich'
+title: 'Thomas Lloyd: Anlegerin mit Berufung vor OLG Düsseldorf erfolgreich'
 date: 2021-06-02 00:00:00
 description: >-
   OLG Düsseldorf hebt Entscheidung des LG Wuppertal auf und verurteilt CT
