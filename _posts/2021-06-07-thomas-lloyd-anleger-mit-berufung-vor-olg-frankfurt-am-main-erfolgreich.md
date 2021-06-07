@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Lloyd: Anleger mit Berufung vor OLG Frankfurt am Main erfolgreich'
-date: 2021-06-04 00:00:00
+date: 2021-06-07 00:00:00
 description: >-
   OLG Frankfurt hebt Urteil des LG Wiesbaden auf und spricht Polizist einen
   Rückzahlungsanspruch gegen CT Infrastructure Holding Ltd. zu.
