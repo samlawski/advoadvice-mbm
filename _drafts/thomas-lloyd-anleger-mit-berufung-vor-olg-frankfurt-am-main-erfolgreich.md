@@ -27,7 +27,7 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-Das Oberlandesgericht Frankfurt am Main hat mit Urteil vom 27.05.2021 ein Urteil des Landgerichts Wiesbaden abgeändert und die Beklagte CT Infrastructure Holding Limited zur Zahlung von 13.532,70 Euro zzgl. Zinsen sowie zur Übernahme von vorgerichtlich entstandenen Anwaltskosten in Höhe von 603,93 Euro verurteilt.&nbsp;
+Das Oberlandesgericht Frankfurt am Main hat mit Urteil vom 27.05.2021 ein Urteil des Landgerichts Wiesbaden abgeändert und die Beklagte CT Infrastructure Holding Limited zur Zahlung von 13.532,70 Euro zzgl. Zinsen sowie zur Übernahme von vorgerichtlich entstandenen Anwaltskosten in Höhe von 603,93 Euro verurteilt. Das Urteil ist der neunte Erfolg von Anlegern der Kanzlei AdvoAdvice Rechtsanwälte vor den Oberlandesgerichten.
 
 ## Erstinstanzliche Klage abgewiesen
 
