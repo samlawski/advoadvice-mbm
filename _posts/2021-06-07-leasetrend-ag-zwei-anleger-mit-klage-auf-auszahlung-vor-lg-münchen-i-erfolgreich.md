@@ -1,7 +1,7 @@
 ---
 title: >-
-  Leasetrend AG: Zwei Anleger mit Klage auf Aufzahlung vor LG München I
-  erfolgreich
+  Leasetrend AG: Zwei Anleger mit Klage auf Auszahlung vor LG München I
+  erfolgreich.
 date: 2021-06-07 00:00:00
 description: Landgericht München I verurteilt Leasetrend AG zur Zahlung an zwei Anleger.
 layout: post
