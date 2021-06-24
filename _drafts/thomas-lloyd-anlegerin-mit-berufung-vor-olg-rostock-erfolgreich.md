@@ -27,8 +27,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-## OLG Rostock hebt Entscheidung des LG Neubrandenburg auf und weist die Sache zur erneuten Entscheidung an das Landgericht zurück.&nbsp;&nbsp;
-
 Das Oberlandesgericht Rostock hat mit Urteil vom 09.06.2021 ein Urteil des Landgerichts Neubrandenburg aufgehoben und die Sache zur erneuten Entscheidung an dieses zurückgewiesen. Das Urteil ist ein erneuter Erfolg von Anlegern der Kanzlei AdvoAdvice Rechtsanwälte vor den Oberlandesgerichten.&nbsp;
 
 ## Erstinstanzliche Klage abgewiesen&nbsp;
