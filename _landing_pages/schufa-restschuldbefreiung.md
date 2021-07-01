@@ -13,8 +13,33 @@ header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ers
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: Wie werde ich meine Restschuld los?
-    text_markdown: Hier kommt der text ...
+    titel: Urteil des OLG Schleswig vom 02.07.2021
+    text_markdown: >-
+      Das Oberlandesgericht Schleswig hat mit einer Entscheidung vom 02.07.2021
+      die XXX zur Löschung des Eintrags "Restschuldbefreiung erteilt"
+      verurteilt.&nbsp;
+
+
+      Die Entscheidung stellt eine wesentliche Veränderung der bisher zu diesem
+      Thema ergangenen Urteile dar. Diese waren allerdings gro&szlig;teils noch
+      zur alten Rechtslage nach dem BDSG alter Fassung ergangen.&nbsp;
+
+
+      Nunmehr nach Einführung der DSGVO ergaben sich neue Argumente dafür, dass
+      ein Eintrag über das Merkmal "Restschuldbefreiung erteilt" nicht einfach
+      über einen Zeitraum von drei Jahren nach Erteilung der Restschuldbefreiung
+      gespeichert werden darf.&nbsp;
+
+
+      Die Argumente, die hier die Kanzlei AdvoAdvice vor dem OLG Schleswig
+      vertrat, scheinen nunmehr zu einer Neuausrichtung der Rechtsprechung
+      geführt zu haben.&nbsp;
+
+
+      Die Revision zum Bundesgerichtshof wurde erstmals zugelassen und zeigt die
+      Bedeutung der nunmehr aufgeworfenen Rechtsfragen im Zusammenhang mit der
+      DSGVO und den Speicherfristen in der
+      Insolvenzbekanntmachungsverordnung.&nbsp;
     image:
     cta: true
   - abschnitt_template: box_hell
