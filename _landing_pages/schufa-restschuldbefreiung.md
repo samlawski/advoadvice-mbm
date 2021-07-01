@@ -65,6 +65,31 @@ abschnitte:
       (wie z.B. der Creditreform / Boniversum) gespeichert ist.&nbsp;
     image:
     cta: true
+  - abschnitt_template: box_dunkel
+    titel: Schon seit Jahren kritische Stimmen in der Literatur.
+    text_markdown: >-
+      Das Problem, dass das Merkmal "Restschuldbefreiung erteilt" bei einer
+      Auskunftei gespeichert und erst nach Ablauf einer Frist von drei Jahren
+      gelöscht wird, ist nicht neu.&nbsp;
+
+
+      So hatte Dr. Sven Tintemann gemeinsam mit einem anderen Kollegen bereits
+      in einem Artikel vom 27.01.2012, der in der Zeitschrift Verbraucher und
+      Recht (VuR) veröffentlich worden ist, die Auffassung vertreten, dass eine
+      derartig lange Speicherung gegen europäisches Recht verstö&szlig;t.&nbsp;
+
+
+      Die lange Speicherpraxis war auch nach Einführung der DSGVO durch Prof.
+      Dr. Ulrich Krüger (Bremen) in einem Artikel in der VuR vom 14.04.2020
+      kritisiert worden.
+
+
+      Die Entscheidung des OLG Schleswig führt nunmehr dazu, dass ein jahrelang
+      zum Teil erbittet geführter Rechtsstreit um die Speicherung des Merkmals
+      der Restschuldbefreiung eine neue Wendung bekommt und dem
+      Bundesgerichtshof zur Entscheidung zugeführt werden kann.&nbsp;&nbsp;
+    image:
+    cta: true
 sitemap: false
 ---
 
