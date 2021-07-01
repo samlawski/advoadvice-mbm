@@ -18,8 +18,26 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: box_hell
-    titel: Die Chancen stehen gut!
-    text_markdown: Hier kommt der text ...
+    titel: Entscheidung des LG Frankfurt am Main
+    text_markdown: >-
+      Bereits mit Urteil des Landgerichts Frankfurt am Main vom 20.12.2018
+      konnte die Kanzlei De Backer Rechtsanwälte erreichen, dass die Schufa
+      Holding AG einen Eintrag hinsichtlich einer&nbsp; 05.01.2018
+      erteilten&nbsp; Restschuldbefreiung vor Ablauf einer Speicherfrist von 3
+      Jahren vollständig löschen musste.&nbsp;
+
+
+      Über die Entscheidung wurde in den Medien, von anderen Kanzlei und auch
+      teilweise von den Verbraucherzentralen Kenntnis genommen bzw.
+      berichtet.&nbsp;
+
+
+      Die Entscheidung wurde aber eher als Sonderfall angesehen, weil hier die
+      persönliche Situation des betroffenen Klägers bei der Entscheidung des
+      Gerichts Berücksichtigung gefunden hatte. Sie war daher nicht zwingend auf
+      weitere Falle übertragbar, bei denen das Merkmal "Restschuldbefreiung
+      erteilt" im Datenbestand der Schufa Holding AG oder anderer Auskunfteien
+      (wie z.B. der Creditreform / Boniversum) gespeichert ist.&nbsp;
     image:
     cta: true
 sitemap: false
