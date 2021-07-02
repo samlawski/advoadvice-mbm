@@ -16,8 +16,8 @@ abschnitte:
     titel: Urteil des OLG Schleswig vom 02.07.2021
     text_markdown: >-
       Das Oberlandesgericht Schleswig hat mit einer Entscheidung vom 02.07.2021
-      die XXX zur Löschung des Eintrags "Restschuldbefreiung erteilt"
-      verurteilt.&nbsp;
+      die Schufa Holding AG zur Löschung des Eintrags "Restschuldbefreiung
+      erteilt" verurteilt.&nbsp;
 
 
       Die Entscheidung stellt eine wesentliche Veränderung der bisher zu diesem
