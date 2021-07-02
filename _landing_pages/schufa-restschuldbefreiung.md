@@ -17,7 +17,7 @@ abschnitte:
     text_markdown: >-
       Das Oberlandesgericht Schleswig hat mit einer Entscheidung vom 02.07.2021
       die Schufa Holding AG zur Löschung des Eintrags "Restschuldbefreiung
-      erteilt" verurteilt.&nbsp;
+      erteilt" nach einem Speicherungszeitraum von 6 Monaten verurteilt.&nbsp;
 
 
       Die Entscheidung stellt eine wesentliche Veränderung der bisher zu diesem
