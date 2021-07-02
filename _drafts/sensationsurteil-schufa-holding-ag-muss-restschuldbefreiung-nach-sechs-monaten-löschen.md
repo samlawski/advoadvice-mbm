@@ -28,7 +28,7 @@ Das Oberlandesgericht Schleswig hat in einem brandneuen Urteil (Urteil vom 02.07
 
 Dem OLG Schleswig ist offenkundig bewusst, dass es sich um eine bahnbrechende Entscheidung handeln dürfte und hat insofern konsequent die Revision zum Bundesgerichtshof zugelassen. Die Schufa Holding AG hat daher die Möglichkeit das Urteil höchstrichterlich überprüfen zu lassen.
 
-**Wie war die Situation mit der Restschuldbefreiung bisher?**
+## **Wie war die Situation mit der Restschuldbefreiung bisher?**
 
 In Deutschland können Betroffene, die ihre Schulden nicht mehr begleichen können, ein Insolvenzverfahren durchführen. Bis vor kurzem war die Länge dieses Verfahrens insgesamt ca. 6 Jahre. Die Länge des Verfahrens wurde kürzlich auf drei Jahre reduziert.
 
@@ -36,7 +36,7 @@ Am Ende des Insolvenzverfahrens können Schuldner die sog. Restschuldbefreiung b
 
 Die Schufa Holding AG übernimmt diese Daten bislang automatisiert und speichert diese in ihrem Datenbestand. Nach Ansicht der Schufa Holding AG ist dieses Merkmal wichtig, da die Schuldner im Zeitpunkt des Beschlusses vermögenslos seien und daher eine grö&szlig;ere Gefahr einer Neuverschuldung bestehe. Davor müssten die Mitglieder der Schufa Holding AG gewarnt werden.
 
-**Dürfen Daten zur Restschuldbefreiung verarbeitet werden?**
+## **Dürfen Daten zur Restschuldbefreiung verarbeitet werden?**
 
 Bis Mai 2018 galt das alte Bundesdatenschutzgesetz. Danach war es Unternehmen grundsätzlich gestattet, Daten aus sog. „allgemein zugänglichen Quellen“ zu übernehmen. Nach den Speicherfristen des alten Bundesdatenschutzgesetzes mussten diese Daten nach drei Jahren gelöscht werden. Ob dieses Vorgehen unter dem alten Bundesdatenschutzgesetz rechtmä&szlig;ig war, ist seit jeher umstritten (vgl. Tintemann/Gärtner, VuR 2012, 54-58). Gleichzeitig war die Rechtsprechung ma&szlig;geblich der Auffassung, dass diese Vorgehen rechtmä&szlig;ig sei (insbesondere OLG Frankfurt, Urt. v. 14.12.2015 – 1 U 128/15).
 
@@ -46,7 +46,7 @@ Um eine nachvollziehbare Frist zur Löschung von Daten zu gewährleisten, haben 
 
 Diese Historie hat dazu geführt, dass die Schufa Holding AG und andere Auskunfteien die Daten über die Restschuldbefreiung gespeichert und für drei Jahre gespeichert haben. Eine Vielzahl an landgerichtlichen Urteilen und einige Entscheidungen von Oberlandesgerichten ging auch unter der DSGVO von einer rechtmä&szlig;igen Verarbeitung aus. Dabei bezog man sich argumentativ zumeist direkt oder indirekt auf die Entscheidungen, welche zum alten Bundesdatenschutzgesetz ergangen sind.
 
-**OLG Schleswig schlägt neuen Kurs ein – Löschung nach sechs Monaten**
+## **OLG Schleswig schlägt neuen Kurs ein – Löschung nach sechs Monaten**
 
 In dem aktuellen Urteil des Oberlandesgerichts Schleswig hat sich das Gericht mit einer gro&szlig;en Menge an Argumenten und Rechtsansichten auseinandergesetzt. Zunächst stellte das Gericht darauf ab, dass die Verarbeitung des Merkmals der Restschuldbefreiung durch die Beklagte nur anhand einer Interessenabwägung nach Art. 6 Abs. 1 lit. f) DSGVO erfolgen könne und eine andere Rechtsgrundlage nicht ausreichend sei.
 
@@ -54,11 +54,11 @@ Die Verarbeitung der Daten sei auch grundsätzlich von einem berechtigten Intere
 
 *„Insbesondere aber stellt sich das Interesse der Beklagten an einer Verarbeitung der streitgegenständlichen Information mit Ablauf der Löschungsfrist in &sect; 3 InsoBekV nicht mehr als berechtigt dar, da eine weitere Verarbeitung die normativen Vorgaben aus der InsoBekV unterlaufen würde \[…\] Denn es liegt auf der Hand, das das Ziel, einem Schuldner nach Wohlverhaltensperiode und Erteilung der Restschuldbefreiung einen Neustart zu ermöglichen, durch eine weitere Publizität der früheren Insolvenz erschwert wird (vgl. Heyer, ZVI 2019, 45, 46). Die Verarbeitung durch die Beklagte nach Löschung der Informationen aus dem Insolvenzbekanntmachungsportal steht damit im Widerspruch zur Rechtsordnung und ist daher nicht berechtigt im Sinne von Art. 6 Abs. 1 lit f) DSGVO.*“
 
-Das Gericht stellt sodann darauf ab, dass eine Verarbeitung der Daten nur im Einklang mit der einzig gesetzgeberischen Entscheidung, also der Löschfrist bezüglich der Insolvenzbekanntmachung, verarbeitet werden dürfen. Der Gesetzgeber habe in einem Gesetzgebungsverfahren zwar eruiert, ob die Speicherfrist für das Merkmal auf ein Jahr verlängert werden solle. Von dieser Möglichkeit wurde letztlich aber kein Gebrauch gemacht.
+Das Gericht stellt sodann darauf ab, dass eine Verarbeitung der Daten nur im Einklang mit der einzig gesetzgeberischen Entscheidung, also der Löschfrist bezüglich der Insolvenzbekanntmachung, verarbeitet werden dürfen. Der Gesetzgeber habe in einem Gesetzgebungsverfahren zwar eruiert, ob die Speicherfrist für das Merkmal auf ein Jahr verlängert werden solle. Von dieser Möglichkeit hat der Gesetzgeber aber bislang keinen Gebrauch gemacht.
 
-Letztlich begründet das Gericht ausgiebig, warum die Entscheidungen zum alten Bundesdatenschutzrecht gerade nicht auf die aktuelle Rechtslage unter der DSGVO übertragbar seien, die berechtigten Interessen eines Dritten an der Wertung nichts ändern würden und insbesondere, dass der Verhaltenskodex mit seinen Speicher- und Löschfristen keine Erlaubniswirkung für die Datenverarbeitung als solche habe. Vielmehr könne der Betroffene „*Betroffene auch bei Einhaltung der Verhaltensregeln Löschungsansprüche gegen Verantwortliche nach Art. 17 Abs. 1 lit d) DSGVO geltend machen.“*
+Letztlich begründet das Gericht ausgiebig, warum die Entscheidungen zum alten Bundesdatenschutzrecht gerade nicht auf die aktuelle Rechtslage unter der DSGVO übertragbar seien, die berechtigten Interessen eines Dritten an der Wertung nichts ändern würden und insbesondere, dass der Verhaltenskodex mit seinen Speicher- und Löschfristen keine Erlaubniswirkung für die Datenverarbeitung als solche habe. Vielmehr könne der „*Betroffene auch bei Einhaltung der Verhaltensregeln Löschungsansprüche gegen Verantwortliche nach Art. 17 Abs. 1 lit d) DSGVO geltend machen.“*
 
-**Wie kann das Merkmal der Restschuldbefreiung zur Löschung gebracht werden?**
+## **Wie kann das Merkmal der Restschuldbefreiung zur Löschung gebracht werden?**
 
 Für Betroffene ist zunächst wichtig, dass es sich zunächst um einen Löschanspruch handelt, welcher bei der Auskunftei geltend gemacht werden muss. Da das Urteil noch nicht rechtskräftig ist und keine automatische Allgemeinwirkung hat, müssen diese Ansprüche aktiv durchgesetzt werden.
 
@@ -66,7 +66,7 @@ Bei der Durchsetzung der Ansprüche kann Ihnen eine spezialisierte Anwaltskanzle
 
 In vielen Fällen dürfte auch nach der Geltendmachung eines Löschanspruchs ein weiteres Verfahren notwendig werden. Dies ist oft mit einem erheblichen Zeit- und Kostenaufwand verbunden. Es kann sich daher lohnen, den Fall über einen Rechtsschutzversicherer abzuwickeln.
 
-**Abschlie&szlig;ende Einschätzung**
+## **Abschlie&szlig;ende Einschätzung**
 
 Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser aus der Kanzlei AdvoAdvice in Berlin zeigen sich erleichtert über das Urteil. Dr. Tintemann betreut Verfahren in diesem Themenkomplex bereits seit 10 Jahren und wies schon 2012 auf die enormen Bedenken bezüglich der Speicherung der Restschuldbefreiung hin.
 
