@@ -1,7 +1,7 @@
 ---
 title: >-
-  Sensationsurteil: Schufa Holding AG muss „Restschuldbefreiung“ nach sechs
-  Monaten löschen.
+  OLG Schleswig: Schufa Holding AG muss „Restschuldbefreiung“ nach sechs Monaten
+  löschen.
 date: 2021-07-02 10:47:24
 description: OLG Schleswig verurteilt Schufa zur Löschung der Restschuldbefreiung.
 layout: post
