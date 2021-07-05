@@ -39,12 +39,18 @@ Damit sind nun die investierten Gelder der Anleger im Feuer, zumal viele Anleger
 
 Rund 90 Millionen EUR an Anlegerkapital hat die Timberland Securities PLC auf dem Kapitalmarkt eingesammelt. Nun sollen die betroffenen Wertpapiere einen Nennbetrag von&nbsp; 0,00 EUR aufweisen? Wie passt das mit dem Umstand zusammen, dass der Bilanzverlust im Jahre 2019 ausweislich des Geschäftsabschlusses zwar rund 3 Millionen EUR betragen hat, aber ca. 30 mal mehr Kapital eingesammelt worden ist? Oder anders ausgedrückt: Der Bilanzverlust von einem 30tel der Anlagesumme bei der Timberland Securities PLC soll zu einer Reduzierung des Nennbetrages bei den betroffenen Anteilen von 0,00 EUR geführt haben? Dies wird man hinterfragen müssen.
 
+Auch für die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist die Timberland Securities Investments PLC keine Unbekannte. Mit [Veröffentlichung vom 03.03.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210303_Timberland_Securities_Investment_plc.html) warnte die BaFin bereits in einer anderen Fallkonstellation im Zusammenhang mit einem Anbieten von Aktien ohne nach deutschem Recht erforderlichen Prospekt. Hier ist zwar kein direkter Zusammenhang mit der Reduzierung des Nennbetrages in der oben geschilderten Fallkonstellation zu sehen,&nbsp; aber das Vertrauen in das Geschäftsgebahren der Timberland Securities Investments PLC wird dadurch womöglich nicht erhöht.
+
+### AdvoAdvice Rechtsanwälte betreuen gleichartige Fälle
+
+Ähnliche Fallkonstellationen werden bereits von AdvoAdvice Rechtsanwälte mbB betreut. So konnten bereits viele positive Urteile&nbsp; und eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. erzielt und durchgeführt werden. Auch hier konnten einseitig durch die Emittentin durchgeführte Reduzierungen von Nennbeträgen angegriffen werden.
+
+Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH &nbsp;hatten und haben dort weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
+
 ### Verfolgung von Anlegerrechten
 
 Was können betroffene Anleger nun tun? Welch Rechte haben Sie und wo können Anleger Ihr Recht geltend machen? Muss man sein Recht auf Malta verfolgen, mit allen vorhersehbaren Unwägbarkeiten und Schwierigkeiten und Kosten?
 
-Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse, aber auch in Stuttgart und Düsseldorf. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.&nbsp;
-
-Auch für die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist die Timberland Securities Investments PLC keine Unbekannte. Mit [Veröffentlichung vom 03.03.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210303_Timberland_Securities_Investment_plc.html) warnte die BaFin bereits in einer anderen Fallkonstellation im Zusammenhang mit einem Anbieten von Aktien ohne nach deutschem Recht erforderlichen Prospekt. Hier ist zwar kein direkter Zusammenhang mit der Reduzierung des Nennbetrages in der oben geschilderten Fallkonstellation zu sehen,&nbsp; aber das Vertrauen in das Geschäftsgebahren der Timberland Securities Investments PLC wird dadurch womöglich nicht erhöht.
+Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse, aber auch in Stuttgart und Düsseldorf. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.
 
 &nbsp;
