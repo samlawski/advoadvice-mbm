@@ -23,7 +23,7 @@ topics:
   - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
-Im März 2020 erreichte die Anleger diverser Anleihen bei der Timberland Securities PLC die Mitteilung, dass&nbsp; für das Geschäftsjahr 2019 der betreffende Jahresabschluss einen Bilanzverlust von nahezu 3,0 Millionen aufweise.
+Im März 2020 erreichte die Anleger diverser Anleihen bei der auf Malta ansässigen Timberland Securities PLC die Mitteilung, dass&nbsp; für das Geschäftsjahr 2019 der betreffende Jahresabschluss einen Bilanzverlust von nahezu 3,0 Millionen aufweise.
 
 Als Gründe dafür wurden die die "wirtschaftlichen Folgen der Corona-Pandemie" angegeben. Ein beliebter Grund, der damals und heute häufig verwendet wird, wenn es um die Erklärung von wirtschaftlichen Schwierigkeiten von Investments auf dem grauen Kapitalmarkt und anderswo&nbsp; geht. Für die Timberland Securities PLC waren aber anscheinend die Folgen besonders gravierend. &nbsp;Wegen den Besonderheiten der Anleihebedingungen und den Rechtsgründen der &nbsp;Wertpapiere sei eine Verminderung bzw. Herabsetzung des Nennbetrages unvermeidlich.
 
@@ -37,6 +37,8 @@ Rund 90 Millionen EUR an Anlegerkapital hat die Timberland Securities PLC auf de
 
 ### Verfolgung von Anlegerrechten
 
-Was können betroffene Anleger nun tun? Welch Rechte haben Sie und wo können Anleger Ihr Recht geltend machen? Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.&nbsp;
+Was können betroffene Anleger nun tun? Welch Rechte haben Sie und wo können Anleger Ihr Recht geltend machen? Muss man sein Recht auf Malta verfolgen, mit allen vorhersehbaren Unwägbarkeiten und Schwierigkeiten und Kosten?
 
-&nbsp;
+Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.&nbsp;
+
+Auch für die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist die Timberland Securities Investments PLC keine Unbekannte. Mit [Veröffentlichung vom 03.03.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210303_Timberland_Securities_Investment_plc.html) warnte die BaFin bereits in einer anderen Fallkonstellation im Zusammenhang mit einem Anbieten von Aktien ohne nach deutschem Recht erforderlichen Prospekt.&nbsp;
