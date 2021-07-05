@@ -23,7 +23,7 @@ topics:
   - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
-Im März 2020 erreichte die Anleger diverser Anleihen bei der auf Malta ansässigen Timberland Securities PLC die Mitteilung, dass&nbsp; für das Geschäftsjahr 2019 der betreffende Jahresabschluss einen Bilanzverlust von nahezu 3,063 Millionen EUR aufweise. Abschreibungen in Höhe von 5.275 Millionen seien dabei im Jahresergebnis enthalten.
+Am 23. März 2021 erreichte die Anleger diverser Anleihen bei der auf Malta ansässigen Timberland Securities PLC die Ad-Hoc Pflichtmitteilung, dass&nbsp; für das Geschäftsjahr 2019 der betreffende Jahresabschluss einen Bilanzverlust von nahezu 3,063 Millionen EUR aufweise. Abschreibungen in Höhe von 5.275 Millionen seien dabei im Jahresergebnis enthalten.
 
 Als Gründe dafür wurden die die "wirtschaftlichen Folgen der Corona-Pandemie" angegeben. Ein beliebter Grund, der damals und heute häufig verwendet wird, wenn es um die Erklärung von wirtschaftlichen Schwierigkeiten von Investments auf dem grauen Kapitalmarkt und anderswo&nbsp; geht. Für die Timberland Securities PLC waren aber anscheinend die Folgen besonders gravierend. &nbsp;Wegen den Besonderheiten der Anleihebedingungen und den Rechtsgründen der &nbsp;Wertpapiere sei eine Verminderung bzw. Herabsetzung des Nennbetrages unvermeidlich.
 
