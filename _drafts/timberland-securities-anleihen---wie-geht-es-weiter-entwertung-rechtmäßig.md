@@ -53,7 +53,13 @@ Was können betroffene Anleger nun tun? Welch Rechte haben Sie und wo können An
 
 Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse, aber auch in Stuttgart und Düsseldorf. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.
 
-&nbsp;
+Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen von der Fachanwaltskanzlei AdvoAdvice Rechtsanwälte mbB meint dazu: „Es fällt auf, dass sich solche Fälle häufen. Bedingt durch den hohen Kapitalbedarf kommt es häufig zu Sollbruchstellen. Die Corona Pandemie wird dabei oft als Begründung herangezogen."
+
+“Die individuelle Situation sollte durch einen qualifizierten Rechtsanwalt geprüft werden“, warnt Rechtsanwalt Klevenhagen.
+
+Für Rückfragen, Klärung und Ersteinschätzung stehen wir&nbsp; gerne zur Verfügung.
+
+Häufig wird es darum gehen, hier bereits investiertes Kapital zurückzufordern und entsprechende Ma&szlig;nahmen zu veranlassen.
 
 &nbsp;
 
