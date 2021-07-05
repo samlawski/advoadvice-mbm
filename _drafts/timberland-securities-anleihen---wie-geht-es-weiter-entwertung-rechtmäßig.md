@@ -47,10 +47,14 @@ Auch für die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist die T
 
 Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH &nbsp;hatten und haben dort weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
 
-### Verfolgung von Anlegerrechten
+### Hilfe für betroffene Anleger
 
 Was können betroffene Anleger nun tun? Welch Rechte haben Sie und wo können Anleger Ihr Recht geltend machen? Muss man sein Recht auf Malta verfolgen, mit allen vorhersehbaren Unwägbarkeiten und Schwierigkeiten und Kosten?
 
 Tatsache ist, dass die Anleihen der Timberland Securities PLC auch an deutschen Börsenplätzen gehandelt werden, bspw. an der Frankfurter und Müchnener Börse, aber auch in Stuttgart und Düsseldorf. Damit dürfte auch die Rechtsverfolgung der Anleger vor deutschen Gerichten eröffnet worden sein, deutsches Recht also anwendbar sein.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
