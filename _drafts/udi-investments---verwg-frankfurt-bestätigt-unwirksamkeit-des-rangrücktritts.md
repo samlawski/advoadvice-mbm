@@ -43,4 +43,10 @@ Zu beachten ist allerdings, dass es sich bei dem Beschluss des VerwG Frankfurt/M
 
 Allerdings ist zu erwarten, dass die Formulierungen des VerwG Frankfurt/Main in seinem Beschluss mit Bedacht gewählt worden sind. Insbesondere der Hinweis auf den BGH und seine Rechtsprechung deutet darauf hin, dass es hier für die UDI Gesellschaften wohl nicht leicht werden. wird, gegen die Abwicklungsanordnungen der BaFin erfolgreich vorzugehen.
 
+### Was bedeutet die Entwicklung für UDI Anleger?
+
+Sollte sich die Rechtsansicht des VerwG Frankfurt/Main durchsetzen, wird es für Anleger der UDI einfacher werden, ihr investiertes Geld zurückzufordern. Bekanntlich haben etliche UDI Gesellschaften zwischenzeitlich Insolvenz angemeldet. Statt auf eine hohe Quote zur Auszahlung aus einer Insolvenzmasse nach einem möglicherweise jahrelangen Insolvenzverfahren zu hoffen stehen dann auch Möglichkeiten der persönlichen Haftung gegen die frühere und gegenwärtige Geschäftsführung im Raum
+
+&nbsp;&nbsp;
+
 &nbsp;
