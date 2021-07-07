@@ -45,7 +45,23 @@ Allerdings ist zu erwarten, dass die Formulierungen des VerwG Frankfurt/Main in 
 
 ### Was bedeutet die Entwicklung für UDI Anleger?
 
-Sollte sich die Rechtsansicht des VerwG Frankfurt/Main durchsetzen, wird es für Anleger der UDI einfacher werden, ihr investiertes Geld zurückzufordern. Bekanntlich haben etliche UDI Gesellschaften zwischenzeitlich Insolvenz angemeldet. Statt auf eine hohe Quote zur Auszahlung aus einer Insolvenzmasse nach einem möglicherweise jahrelangen Insolvenzverfahren zu hoffen stehen dann auch Möglichkeiten der persönlichen Haftung gegen die frühere und gegenwärtige Geschäftsführung im Raum
+Sollte sich die Rechtsansicht des VerwG Frankfurt/Main durchsetzen, wird es für Anleger der UDI einfacher werden, ihr investiertes Geld zurückzufordern. Bekanntlich haben etliche UDI Gesellschaften zwischenzeitlich Insolvenz angemeldet. Statt auf eine hohe Quote zur Auszahlung aus einer Insolvenzmasse nach einem möglicherweise jahrelangen Insolvenzverfahren zu hoffen stehen dann auch Möglichkeiten der persönlichen Haftung gegen die frühere und gegenwärtige Geschäftsführung im Raum.
+
+### AdvoAdvice Rechtsanwälte beraten seit Jahren UDI Anleger
+
+Was ist Anlegern betroffener UDI-Gesellschaften zu raten? Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen von der Berliner Fachanwaltskanzlei&nbsp; AdvoAdvice Rechtsanwälte mbB aus Berlin rät besorgten Anlegern, sich frühzeitig über mögliche Rechte im Falle von Forderungsausfällen zu informieren und kritisch zu hinterfragen, ob sie selbst durch ihre Berater über die konkreten Risiken solcher Geldanlagen ausreichend informiert worden sind und die schriftlichen Unterlagen korrekt erklärt und verstanden wurden. Möglicherweise bestehen Ansprüche gegen Berater und sonstige Beteiligte&nbsp;&nbsp;
+
+“Wenn in der Investition Nachrangdarlehen eine Rolle spielen, ist stehts eine ausreichende Risikoaufklärung des Anlegers geboten, die die persönliche Situation des Anlegers, aber auch die Anlageform berücksichtigt. Wichtig ist es im Fall der späteren Krise der Investition, dass der Anleger sich möglichst frühzeitig bei einem spezialisierten Rechtsanwalt Rat holt, damit durch diesen gegenüber der Anlagegesellschaft oder Dritten wirkungsvoll kommuniziert werden kann.”, sagt Rechtsanwalt Klevenhagen, der mit seinem Team bereits viele Fallkomplexe mit Beteiligung von Nachrangdarlehen bearbeitet und au&szlig;ergerichtliche Einigungen und Prozesserfolge erzielt hat.
+
+Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
+
+Wir berichten seit 2019 über die UDI Gesellschaften und betreuen Anleger der verschiedenen Gesellschaften. In der Presse wurde über die Arbeit von Rechtsanwalt Klevenhagen berichtet. Lesen Sie auch unsere Berichterstattung [hier.](https://advoadvice.de/blog/unsere-experten-in-der-presse-rechtsanwalt-klevenhagen-zu-geldanlagen-bei-der-udi-in-der-immobilienzeitung/)
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbare Ersteinschätzung damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll wäre.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;&nbsp;
 
