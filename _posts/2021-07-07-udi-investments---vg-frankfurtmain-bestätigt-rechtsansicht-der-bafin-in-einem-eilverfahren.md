@@ -1,5 +1,7 @@
 ---
-title: UDI Investments - VerwG Frankfurt bestätigt Unwirksamkeit des Rangrücktritts
+title: >-
+  UDI Investments - VG  Frankfurt/Main bestätigt Rechtsansicht der BaFin in
+  einem Eilverfahren
 date: 2021-07-07 12:00:00
 description: >-
   Das Verwaltungsgericht Frankfurt hat in einem von der UDI angestrengten
