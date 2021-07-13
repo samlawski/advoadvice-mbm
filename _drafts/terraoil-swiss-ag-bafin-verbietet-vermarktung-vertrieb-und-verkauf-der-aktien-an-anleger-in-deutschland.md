@@ -26,3 +26,30 @@ topics:
   - bank-und-kapitalmarkt
 author: kim-oliver-klevenhagen
 ---
+Die TERRAOIL Swiss AG bot für interessierte Anleger und Investoren auch in Deutschland Aktien mit der ISIN CH0116293142 an. Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+
+#### BaFin Meldung
+
+Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) hat&nbsp;[nach eigener Meldung vom](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210713_Terraoil_Produktintervention.html){: target="_blank" rel="noopener"}13\.07.2021 „die Vermarktung, den Vertrieb und den Verkauf von Aktien der TERRAOIL SWISS AG mit der ISIN CH0116293142 an Anlegerinnen und Anleger in Deutschland mit Bescheid vom 9. Juli 2021 verboten"
+
+#### Erhebliche Bedenken für den Anlegerschutz?
+
+"Das Verbot beruht auf &sect; 15 Absatz 1 Satz 2 Wertpapierhandelsgesetz (WpHG) in Verbindung mit Artikel 42 der europäischen Finanzmarktverordnung (Markets in Financial Instruments Regulation – MiFIR). Gemä&szlig; Artikel 42 Absatz 2 Satz 1 MiFIR kann die BaFin die Vermarktung, den Vertrieb und den Verkauf von bestimmten Finanzinstrumenten verbieten, wenn sie sich begründeterma&szlig;en vergewissert hat, dass das Finanzinstrument erhebliche Bedenken für den Anlegerschutz aufwirft. Die BaFin kann intervenieren, wenn bestehende regulatorische Anforderungen nach Unionsrecht, die auf das Finanzinstrument anwendbar sind, den in Artikel 42 Absatz 2 Satz 1 MiFIR genannten Risiken nicht hinreichend begegnen und das Problem nicht besser durch eine stärkere Aufsicht oder Durchsetzung der vorhandenen Anforderungen gelöst würde, sowie dass die Ma&szlig;nahme unter Berücksichtigung der Wesensart der ermittelten Risiken, des Kenntnisniveaus der betreffenden Anleger oder Marktteilnehmer und der wahrscheinlichen Auswirkungen der Ma&szlig;nahme auf Anleger oder Marktteilnehmer verhältnismä&szlig;ig ist. Diese Voraussetzungen sind vorliegend erfüllt.“, teilt die BaFin dazu noch mit.
+
+Für Anleger, die die betreffenden Aktien in Ihrem Depot haben oder den Kauf einer Aktie erwogen haben dürften nun die Alarmglocken läuten.
+
+#### Folgen der BaFin Meldung für Anleger
+
+Im Vertrauen auf rechtssicher angebotene Aktien dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Aktien-Anlage in Rohstoffen wie Erdöl üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von einer rechtlichen Bewertung als&nbsp; &nbsp;auszugehen.
+
+Um die unter dem Namen bzw. der Handelsmarke “Aurimentum” angebotenen Investitionen in Goldanlagen gab es bereits in der Vergangenheit Diskussionen.
+
+So wurden wohl zuletzt von der R & R Consulting GmbH Bilanzen nicht entsprechend den gesetzlichen Vorschriften veröffentlicht, was für Unsicherheit und Fragen auf Anlegerseite geführt hatte.
+
+Folge ist nun, dass hier die Anleger viele Fragen haben dürften, zumal die BaFin mit Ihrer Meldung jetzt eine Maschinerie in Gang gesetzt hat. Sollte sich nach etwaig durch den Anbieter der betreffenden Goldanlage eingelegten Rechtsmitteln bewahrheiten, dass Verstö&szlig;e gegen die Prospektpflicht vorliegen, dann ergäben sich viele Folgefragen, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risken behandelt hat und ob oder welche Personen für etwaig eingetretene Schäden haften könnten.
+
+Es sollte aber beachtet werden, dass nach der Meldung der BaFin vom 28.10.2020 nicht automatisch geklärt ist, ob es sich bei dem Angebot “Goldkauf mit Treuebonus” um eine Vermögens- bzw. Kapitalanlage handelt oder um einen reinen Kauf einer Sache.&nbsp;
+
+Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
+
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbare Ersteinschätzung, damit Sie wissen, wo Sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll wäre.
