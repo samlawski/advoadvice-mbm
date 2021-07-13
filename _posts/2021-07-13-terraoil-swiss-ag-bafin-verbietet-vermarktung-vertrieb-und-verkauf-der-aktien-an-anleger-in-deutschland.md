@@ -40,15 +40,15 @@ Für Anleger, die die betreffenden Aktien in Ihrem Depot haben oder den Kauf ein
 
 #### Folgen der BaFin Meldung für Anleger
 
-Im Vertrauen auf rechtssicher angebotene Aktien dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Aktien-Anlage in Rohstoffen wie Erdöl üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von einer rechtlichen Bewertung als&nbsp; &nbsp;auszugehen.
+Im Vertrauen auf rechtssicher angebotene Aktien dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Aktien-Anlage in Rohstoffen wie Erdöl üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von Bedenken für den Anlegerschutz auszugehen.
 
-Um die unter dem Namen bzw. der Handelsmarke “Aurimentum” angebotenen Investitionen in Goldanlagen gab es bereits in der Vergangenheit Diskussionen.
+Um die TERRAOIL Swiss AG und die angebliche Ölförderung in Albanien gab es bereits in der Vergangenheit Diskussionen. [Siehe](__notset__)[hier auch einen SRF Beitrag](https://www.srf.ch/news/panorama/terraoil-schwindel-debakel-fuer-aktionaere-70-millionen-loesen-sich-in-luft-auf)[.](__notset__)
 
-So wurden wohl zuletzt von der R & R Consulting GmbH Bilanzen nicht entsprechend den gesetzlichen Vorschriften veröffentlicht, was für Unsicherheit und Fragen auf Anlegerseite geführt hatte.
+So wurde der TERRAOIL Swiss AG zuletzt unterstellt, dass es angeblich gar keine reguläre Ölförderung wie von der Gesellschaft propagiert in Albanien gebe.&nbsp;
 
-Folge ist nun, dass hier die Anleger viele Fragen haben dürften, zumal die BaFin mit Ihrer Meldung jetzt eine Maschinerie in Gang gesetzt hat. Sollte sich nach etwaig durch den Anbieter der betreffenden Goldanlage eingelegten Rechtsmitteln bewahrheiten, dass Verstö&szlig;e gegen die Prospektpflicht vorliegen, dann ergäben sich viele Folgefragen, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risken behandelt hat und ob oder welche Personen für etwaig eingetretene Schäden haften könnten.
+Folge ist nun, dass hier die Anleger viele Fragen haben dürften, zumal die BaFin mit Ihrer Meldung jetzt eine Maschinerie in Gang gesetzt hat. Sollte sich nach etwaig durch die TERRAOIL Swiss AG eingelegten Rechtsmitteln bewahrheiten, dass hier der Anlegerschutz gefährdet oder Vorwürfe stimmen, dann ergäben sich viele Folgefragen, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risken behandelt hat und ob oder welche Personen für etwaig eingetretene Schäden haften könnten.
 
-Es sollte aber beachtet werden, dass nach der Meldung der BaFin vom 28.10.2020 nicht automatisch geklärt ist, ob es sich bei dem Angebot “Goldkauf mit Treuebonus” um eine Vermögens- bzw. Kapitalanlage handelt oder um einen reinen Kauf einer Sache.&nbsp;
+#### Beratung durch spezialisierte Fachanwälte
 
 Die Fachanwälte der Kanzlei AdvoAdvice mbB aus Berlin verfügen aufgrund langjähriger Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.&nbsp;
 
