@@ -42,7 +42,7 @@ Für Anleger, die die betreffenden Aktien in Ihrem Depot haben oder den Kauf ein
 
 Im Vertrauen auf rechtssicher angebotene Aktien dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Aktien-Anlage in Rohstoffen wie Erdöl üblicherweise eine sehr gute Option. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von Bedenken für den Anlegerschutz auszugehen.
 
-Um die TERRAOIL Swiss AG und die angebliche Ölförderung in Albanien gab es bereits in der Vergangenheit Diskussionen. [Siehe](__notset__)[hier auch einen SRF Beitrag](https://www.srf.ch/news/panorama/terraoil-schwindel-debakel-fuer-aktionaere-70-millionen-loesen-sich-in-luft-auf)[.](__notset__)
+Um die TERRAOIL Swiss AG und die angebliche Ölförderung in Albanien gab es bereits in der Vergangenheit Diskussionen. [Siehe&nbsp;](__notset__)[hier auch einen SRF Beitrag](https://www.srf.ch/news/panorama/terraoil-schwindel-debakel-fuer-aktionaere-70-millionen-loesen-sich-in-luft-auf)[.](__notset__)
 
 So wurde der TERRAOIL Swiss AG zuletzt unterstellt, dass es angeblich gar keine reguläre Ölförderung wie von der Gesellschaft propagiert in Albanien gebe.&nbsp;
 
