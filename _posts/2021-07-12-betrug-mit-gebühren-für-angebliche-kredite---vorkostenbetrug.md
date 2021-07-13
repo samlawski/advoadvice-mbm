@@ -1,5 +1,5 @@
 ---
-title: Betrug mit Gebühren für unzulässige  Kredite - Vorkostenbetrug
+title: Betrug mit Gebühren für angebliche Kredite - Vorkostenbetrug
 date: 2021-07-12 12:00:00
 description: >-
   AdvoAdvice Rechtsanwälte beraten Unternehmer und Privatpersonen bei Fragen
