@@ -25,7 +25,7 @@ abschnitte:
   - abschnitt_template: weiss_bild_links
     titel:
     text_markdown: >-
-      <video width="560" height="315" poster="/uploads/2-video/ra-tintemann-thumbnail-schufa.png" controls><source src="/uploads/2-video/ra-tintemann-schufa.mp4" type="video/mp4"></video>
+      <video width="560" height="315" poster="/uploads/2-video/ra-tintemann-thumbnail-schufa.png" controls><source src="/uploads/2-video/ra-tintemann-schufa-264.mp4" type="video/mp4"></video>
     image:
     cta: false
   - abschnitt_template: box_hell
