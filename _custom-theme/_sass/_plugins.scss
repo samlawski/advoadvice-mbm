@@ -6,22 +6,26 @@
 @font-face {
   font-family: 'Source Sans Pro';
   src: URL('/assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: normal, 400;
+  font-style: normal;
 }
 @font-face {
   font-family: 'Source Sans Pro';
   src: URL('/assets/fonts/SourceSansPro-Italic.ttf') format('truetype');
+  font-weight: normal, 400;
   font-style: italic, oblique;
 }
 @font-face {
   font-family: 'Source Sans Pro';
   src: URL('/assets/fonts/SourceSansPro-Bold.ttf') format('truetype');
   font-weight: bold, 700;
+  font-style: normal;
 }
 @font-face {
   font-family: 'Source Sans Pro';
   src: URL('/assets/fonts/SourceSansPro-Light.ttf') format('truetype');
   font-weight: 300;
+  font-style: normal;
 }
 
 
