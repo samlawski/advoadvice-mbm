@@ -1,5 +1,5 @@
 ---
-title: Consilium Green Energy GmbH - BaFin Meldung - Verstoß gegen Prospektpflicht
+title: Consilium Green Energy GmbH - BaFin Meldung - Verstoß gegen Prospektpflicht?
 date: 2021-07-20 12:00:00
 description: >-
   Die BaFin hat laut einer Meldung vom 20.07.2021 Anhaltspunkte dafür, dass ein
