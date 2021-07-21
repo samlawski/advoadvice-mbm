@@ -1,7 +1,7 @@
 ---
 title: >-
-  Thomas Lloyd: Vierte Cleantech Infrastrukturgesellschaft mbH ("VCI") zahlt
-  nicht aus - Anleger erhalten Hinhalteschreiben
+  Thomas Lloyd: Vierte Cleantech Infrastrukturgesellschaft mbH zahlt nicht aus -
+  Anleger erhalten Hinhalteschreiben
 date: 2021-07-21 00:00:00
 description: >-
   Anleger der Vierte Cleantech Infrastrukturgesellschaft mbH ("VCI") 
