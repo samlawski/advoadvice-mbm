@@ -4,11 +4,10 @@ title: >-
   nicht aus - Anleger erhalten Hinhalteschreiben
 date: 2021-07-21 00:00:00
 description: >-
-  Anleger die bei der ThomasLloyd Gruppe bei der Vierten Cleantech
-  Infrastrukturgesellschaft mbH ("VCI") investiert haben, erhalten nun ein
-  "Hinhalteschreiben" in welchem ihnen erklärt wird, warum Auszahlungen trotz
-  eingetretener Fälligkeit nicht erfolgen könnten. Dies wirft Fragen auf und
-  sorgt bei Anlegern für Alarmstimmung
+  Anleger der Vierte Cleantech Infrastrukturgesellschaft mbH ("VCI") 
+
+  erhalten "Hinhalteschreiben" statt Auszahlungen. Wir klären Sie über Ihre
+  Rechte auf.
 layout: post
 style_id: post
 image: /uploads/no-money-2070384-640-6.jpg
@@ -51,7 +50,7 @@ So habe die Thomas Lloyd Gruppe bzw. die Vierte Cleantech Infrastrukturgesellsch
 
 #### Anleger sollen warten und hoffen
 
-Damit wird praktisch der betroffene Anleger zu einem passiven Hoffen und Warten angehalten, weil die Thomas Lloyd-Gruppe bzw. die Vierte Cleantech Infrastrukturgesellschaft mbH nicht transparent und für den Anleger begründen, was denn noch da ist und liquidiert (also verkauft) werden muss und&nbsp;weshalb eine Auszahlung an die Anleger, die auf ihr Geld warten, nicht möglich ist.
+Damit wird praktisch der betroffene Anleger zu einem passiven Hoffen und Warten angehalten, weil die Thomas Lloyd-Gruppe bzw. die Vierte Cleantech Infrastrukturgesellschaft mbH nicht transparent und für den Anleger begründen, was denn noch da ist und liquidiert (also verkauft) werden muss und weshalb eine Auszahlung an die Anleger, die auf ihr Geld warten, nicht möglich ist.
 
 Zwar mag es richtig sein, dass gemä&szlig; den Genussscheinbedingungen ein Rückzahlungsanspruch nur unter Berücksichtigung der aktuellen Liquiditätslage zur Zahlung fällig ist. Insoweit wird hier auf eine Nachrangigkeit verwiesen, sofern die Auszahlung mittelbar zu einem Insolvenzgrund führen könnte.&nbsp;
 
