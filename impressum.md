@@ -14,8 +14,7 @@ permalink: '/impressum/'
 
 Diese Internetseite wird von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen angeboten. Soweit auf dieser Internetseite journalistisch-redaktionell gestaltete Angebote zu finden sind, zeichnet sich der jeweilige Rechtsanwalt oder Autor für den Inhalt verantwortlich, soweit nicht ausdrücklich eine andere Person bezeichnet wurde.
 
-AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen  
-Partnerschaft von Rechtsanwälten mit beschränkter Berufshaftung (mbB)
+AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen<br>Partnerschaft von Rechtsanwälten mit beschränkter Berufshaftung (mbB)
 
 Die Partnerschaft mit beschränkter Berufshaftung ist im Partnerschaftsregister des Amtsgerichtes Charlottenburg von Berlin unter der Registernummer PR 1029 eingetragen.
 
@@ -23,21 +22,13 @@ Vertretungsberechtigte Partner sind die Rechtsanwälte Dr. Sven Tintemann und Ki
 
 Angestellte Rechtsanwälte, Kooperationspartner, Rechtsanwaltsfachanstellte, Rechtsanwaltsfachwirte, Salary Partner, Counsel, Of Counsel und Associates sind keine vertretungsberechtigten Partner der Partnerschaftsgesellschaft.
 
-AdvoAdvice Partnerschaft von Rechtsanwälten mbB  
-Tintemann Klevenhagen
+AdvoAdvice Partnerschaft von Rechtsanwälten mbB<br>Tintemann Klevenhagen
 
-Kaiserliches Postamt  
-Martin-Buber-Str. 24  
-14163 Berlin
+Kaiserliches Postamt<br>Martin-Buber-Str. 24<br>14163 Berlin
 
-Telefon: 030 – 921 000 40  
-Telefax: 030 – 921 000 410  
-E-Mail: info@advoadvice.de  
-Str-Nr.: 25/201/01061  
-  
-Sitz der Partnerschaft:  
-Martin-Buber-Str. 24  
-14163 Berlin
+Telefon: 030 – 921 000 40<br>Telefax: 030 – 921 000 410<br>E-Mail: info@advoadvice.de<br>Str-Nr.: 25/201/01061
+
+Sitz der Partnerschaft:<br>Martin-Buber-Str. 24<br>14163 Berlin
 
 AdvoAdvice ist eine geschützte Wort-/Bildmarke, die beim Deutschen Patent- und Markenamt zur Nr. 30 2015 212 860 eingetragen ist. Jegliche unberechtigte Wiedergabe der Marke kann als Verletzung des bestehenden Markenrechts rechtlich verfolgt werden.
 
@@ -49,27 +40,23 @@ Berufsbezeichnung: Rechtsanwalt, Bundesrepublik Deutschland RA Klevenhagen und R
 
 ## Es gelten unsere allgemeinen Mandatsbedingungen
 
-Rechtsanwälte sind aufgrund der Bundesrechtsanwaltsordnung verpflichtet, eine eigene Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250.000,00 EUR zu unterhalten. Die Einzelheiten ergeben sich aus § 51 BRAO.
+Rechtsanwälte sind aufgrund der Bundesrechtsanwaltsordnung verpflichtet, eine eigene Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250.000,00 EUR zu unterhalten. Die Einzelheiten ergeben sich aus &sect; 51 BRAO.
 
-Zudem unterhält die AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen eine Berufshaftpflichtversicherung bei der R + V Allgemeine Versicherung AG, Niedersachsenring 13, 30163 Hannover (HaftpflichtPolice Nr.: 405 84 344221839).
+Zudem unterhält die AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen eine Berufshaftpflichtversicherung bei der R + V Allgemeine Versicherung AG, Niedersachsenring 13, 30163 Hannover.
 
 Die Haftpflichtversicherung weist eine jeweilige Mindestdeckung in Höhe von 2.500.000 Euro pro Schadensfall und eine jeweilige maximale Deckungssumme von 10.000.000 Euro pro Versicherungsjahr auf.
 
 Die Haftung der sachbearbeitenden Rechtsanwälte und auch der Partnerschaftsgesellschaft richtet sich nach dem Partnerschaftsgesetz lediglich auf die Haftungssumme der o.g. Haftpflichtversicherung. Eine weitergehende Haftung der bearbeitenden Rechtsanwälte und / oder Partner der Partnerschaftsgesellschaft, die über die o.g. Haftungssumme der Haftpflichtversicherung hinausgeht, ist ausgeschlossen.
 
-## Außergerichtliche Streitschlichtung
+## Au&szlig;ergerichtliche Streitschlichtung
 
-Bei Streitigkeiten zwischen Rechtsanwälten und ihren Auftraggebern besteht auf Antrag die Möglichkeit der außergerichtlichen Streitschlichtung bei der Rechtsanwaltskammer Berlin (gemäß § 73 Abs. 2 Nr. 3 i.V.m. § 73 Abs. 5 BRAO) oder bei der Schlichtungsstelle der Rechtsanwaltschaft (§ 191f BRAO) bei der Bundesrechtsanwaltskammer, im Internet zu finden über die Homepage der Bundes­rechtsanwaltskammer ([www.brak.de](https://www.brak.de "Link: https://www.brak.de")) email: schlichtungsstelle@brak.de.
+Bei Streitigkeiten zwischen Rechtsanwälten und ihren Auftraggebern besteht auf Antrag die Möglichkeit der au&szlig;ergerichtlichen Streitschlichtung bei der Rechtsanwaltskammer Berlin (gemä&szlig; &sect; 73 Abs. 2 Nr. 3 i.V.m. &sect; 73 Abs. 5 BRAO) oder bei der Schlichtungsstelle der Rechtsanwaltschaft (&sect; 191f BRAO) bei der Bundesrechtsanwaltskammer, im Internet zu finden über die Homepage der Bundes&shy;rechtsanwaltskammer ([www.brak.de](https://www.brak.de "Link: https://www.brak.de")) email: schlichtungsstelle@brak.de.
 
-Rechtsanwaltskammer:  
-Alle Rechtsanwälte sind Mitglieder der  
-Rechtsanwaltskammer Berlin  
-Littenstraße 9, 10179 Berlin  
-[https://www.rak-berlin.de](https://www.rak-berlin.de "Link: https://www.rak-berlin.de")
+Rechtsanwaltskammer:<br>Alle Rechtsanwälte sind Mitglieder der<br>Rechtsanwaltskammer Berlin<br>Littenstra&szlig;e 9, 10179 Berlin<br>[https://www.rak-berlin.de](https://www.rak-berlin.de "Link: https://www.rak-berlin.de")
 
-Plattform der EU zur außergerichtlichen OnlineStreitbeilegung: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/ "Link: http://ec.europa.eu/consumers/odr/")
+Plattform der EU zur au&szlig;ergerichtlichen OnlineStreitbeilegung: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/ "Link: http://ec.europa.eu/consumers/odr/")
 
-Der räumliche Geltungsbereich des Versicherungsschutzes umfasst Tätigkeiten in Europa und genügt damit mindestens den Anforderungen der Vorschriften gemäß § 51 Bundesrechtsanwaltsordnung (BRAO).
+Der räumliche Geltungsbereich des Versicherungsschutzes umfasst Tätigkeiten in Europa und genügt damit mindestens den Anforderungen der Vorschriften gemä&szlig; &sect; 51 Bundesrechtsanwaltsordnung (BRAO).
 
 Die Gebühren der Rechtsanwälte ergeben sich, soweit nicht ein anderes vereinbart ist, aus dem Rechtsanwaltsvergütungsgesetz (RVG) nebst seinen Anlagen zum jeweils bei Mandatserteilung gültigen Gesetzesinhalt.
 
@@ -83,23 +70,10 @@ Soweit auf dieser Internetseite Kooperationspartner benannt werden, handelt es s
 
 ## Berufsrechtliche Regeln für Rechtsanwälte
 
-Die Arbeit von Rechtsanwälten unterliegt folgenden berufsrechtlichen Regelungen:  
-der Bundesrechtsanwaltsordnung (BRAO),  
-der Berufsordnung für Rechtsanwälte (BORA),  
-der Fachanwaltsordnung (FAO),  
-den Berufsregeln der Rechtsanwälte in der Europäischen Union (CCBE-Berufsregeln),  
-dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG),  
-dem Law Implementing the Directives of the European Community pertaining to the professional law regulating the legal profession,  
-dem Rechtsanwaltsvergütungsgesetz (RVG).  
-Diese Regelungen finden Sie auf der Internetseite der Bundesrechtsanwaltskammer (unter Berufsrecht).
+Die Arbeit von Rechtsanwälten unterliegt folgenden berufsrechtlichen Regelungen:<br>der Bundesrechtsanwaltsordnung (BRAO),<br>der Berufsordnung für Rechtsanwälte (BORA),<br>der Fachanwaltsordnung (FAO),<br>den Berufsregeln der Rechtsanwälte in der Europäischen Union (CCBE-Berufsregeln),<br>dem Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG),<br>dem Law Implementing the Directives of the European Community pertaining to the professional law regulating the legal profession,<br>dem Rechtsanwaltsvergütungsgesetz (RVG).<br>Diese Regelungen finden Sie auf der Internetseite der Bundesrechtsanwaltskammer (unter Berufsrecht).
 
 ## Berufsrechtliche Regeln für Steuerberater
 
-Soweit auf dieser Internetseite auf Kooperationspartner verwiesen wird, die den Beruf des Steuerberaters ausüben (externe Verweise), gelten für diese folgende berufsrechtlichen Regelungen:  
-das Steuerberatungsgesetz (StBerG),  
-die Durchführungsverordnung zum Steuerberatungsgesetz (DVStB)  
-die Berufsordnung der Bundessteuerberaterkammer (BOStB)  
-Steuerberatergebührenverordnung (StBGebV)  
-Diese Regelungen finden Sie auf der Internetseite der Bundessteuerberaterkammer.
+Soweit auf dieser Internetseite auf Kooperationspartner verwiesen wird, die den Beruf des Steuerberaters ausüben (externe Verweise), gelten für diese folgende berufsrechtlichen Regelungen:<br>das Steuerberatungsgesetz (StBerG),<br>die Durchführungsverordnung zum Steuerberatungsgesetz (DVStB)<br>die Berufsordnung der Bundessteuerberaterkammer (BOStB)<br>Steuerberatergebührenverordnung (StBGebV)<br>Diese Regelungen finden Sie auf der Internetseite der Bundessteuerberaterkammer.
 
 Alle auf unserer Website gezeigten fremden Wordbildmarken sind urheberrechtlich geschützt und Eigentum der jeweiligen Rechteinhaber.
