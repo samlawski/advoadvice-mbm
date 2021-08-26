@@ -9,11 +9,11 @@ tags:
 topics:
 author: dr-sven-tintemann
 ---
-Die &nbsp;Consilium Green Energy GmbH bietet in Deutschland für interessierte Anleger und Investoren Vermögensanlagen in Form von Direktinvestments mit der Bezeichnung Photovoltaikanlagen öffentlich an. &nbsp;Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+Die &nbsp;ACTAQUA GmbH bietet in Deutschland für interessierte Anleger und Investoren Vermögensanlagen in Form von Schuldverschreibungen&nbsp; mit der Bezeichnung Photovoltaikanlagen öffentlich an. &nbsp;Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
 #### BaFin Meldung
 
-Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) hat&nbsp;[nach eigener Meldung vom 20.07.20](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210720_Consilium_Green_Energy.html){: target="_blank" rel="noopener"}21 Anhaltspunkte dafür, dass die Consilium Green Energy GmbH für diese Investmentmöglichkeit gegen die Prospektpflicht versto&szlig;en worden sein könnte.. &nbsp;
+Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) nach [eigener Meldung vom 26.08.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210826_ACTAQUA_GmbH.html;jsessionid=1BED6391AC0E2750FC226F4F10E6D76C.2_cid501) Anhaltspunkte dafür, dass die ACTAQUA GmbH für diese Investmentmöglichkeit gegen die Prospektpflicht versto&szlig;en worden sein könnte.. &nbsp;
 
 Entgegen &sect; 6 VermAnlG wurde hierfür also nach bisheriger Einschätzung der BaFin kein den gesetzlichen Voraussetzungen genügender Verkaufsprospekt veröffentlicht.
 
