@@ -33,7 +33,7 @@ Die &nbsp;ACTAQUA GmbH bietet in Deutschland für interessierte Anleger und Inve
 
 Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
 
-#### BaFin Meldung
+## BaFin Meldung
 
 Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) nach [eigener Meldung vom 26.08.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210826_ACTAQUA_GmbH.html;jsessionid=1BED6391AC0E2750FC226F4F10E6D76C.2_cid501) Anhaltspunkte dafür, dass die ACTAQUA GmbH für diese Investmentmöglichkeit gegen die Prospektpflicht versto&szlig;en worden haben könnte.&nbsp;&nbsp;
 
@@ -45,7 +45,7 @@ Bei unrichtigen oder unvollständigen Angaben im Prospekt kann eine Haftung der 
 
 Ein Versto&szlig; gegen die Prospektpflicht stellt nach &sect; 24 Absatz 3 Nr. 1 WpPG eine Ordnungswidrigkeit dar und kann gemä&szlig; &sect; 24 Absatz 6 WpPG mit einer Geldbu&szlig;e von bis zu 5 Millionen Euro bzw. 3 Prozent des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden. Auch können Geldbu&szlig;en bis zum Zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden.
 
-#### Folgen der BaFin Meldung für Anleger
+## Folgen der BaFin Meldung für Anleger
 
 Im Vertrauen auf ein rechtssicher angebotenes Anlageprodukt dürften viele Zeichner der Schuldverschreibung hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Anlage mit zukunftsträchtigen Investments sehr beliebt und gilt als nachhaltige Vermögensbildung. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann.&nbsp;
 
