@@ -1,6 +1,6 @@
 ---
 title: ACTAQUA GmbH - BaFin Meldung - Verstoß gegen Prospektpflicht?
-date: 2021-08-26 11:00:00
+date: 2021-08-28 12:00:00
 description: >-
   Die BaFin hat laut einer Meldung vom 26.08.2021 Anhaltspunkte dafür, dass ein
   Verstoß gegen die Prospektpflicht vorliegen könnte. Die ATAQUA GmbH bietet in
