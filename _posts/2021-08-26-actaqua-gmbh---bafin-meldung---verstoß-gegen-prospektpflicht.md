@@ -43,7 +43,7 @@ In Deutschland dürfen Wertpapiere im Grundsatz – das hei&szlig;t vorbehaltlic
 
 Bei unrichtigen oder unvollständigen Angaben im Prospekt kann eine Haftung der Prospektverantwortlichen gemä&szlig; &sect;&sect; 9 bzw. 10 Wertpapierprospektgesetz (WpPG) bestehen. Gleiches gilt nach &sect; 14 WpPG für Anbieter und Emittenten von Wertpapieren, wenn pflichtwidrig kein Prospekt veröffentlicht wurde.
 
-Ein Versto&szlig; gegen die Prospektpflicht stellt nach &sect; 24 Absatz 3 Nr. 1&nbsp;WpPG eine Ordnungswidrigkeit dar und kann gemä&szlig; &sect; 24 Absatz 6 WpPG mit einer Geldbu&szlig;e von bis zu 5 Millionen Euro bzw. 3 Prozent des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden. Auch können Geldbu&szlig;en bis zum Zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden.
+Ein Versto&szlig; gegen die Prospektpflicht stellt nach &sect; 24 Absatz 3 Nr. 1 WpPG eine Ordnungswidrigkeit dar und kann gemä&szlig; &sect; 24 Absatz 6 WpPG mit einer Geldbu&szlig;e von bis zu 5 Millionen Euro bzw. 3 Prozent des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden. Auch können Geldbu&szlig;en bis zum Zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden.
 
 #### Folgen der BaFin Meldung für Anleger
 
