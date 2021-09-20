@@ -1,12 +1,12 @@
 ---
-title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG gelöscht
+title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG widerrufen.
 date: 2021-09-20 00:00:00
 description: >-
   GFKL PayProtect GmbH widerruft Eintrag in Schufa Datenbestand über eine
   bereits durch Ratenzahlung erledigte Forderung.
 layout: post
 style_id: post
-image:
+image: /uploads/dsgvo-4263955-1280.jpg
 tags:
   - GFKL PayProtect GmbH
   - Schufa Holding AG
@@ -25,7 +25,7 @@ Bei der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin meldete sich ein Mandant au
 
 ## Zum Hintergrund des Eintrags
 
-Der Eintrag war erfolgt, obwohl der Betroffene auf eine offene Forderung seit mehreren Jahren eine Rate von 100,00 Euro an die Firma Domnowski Inkasso GmbH geleistet worden war. Daher konnte sich der Schönefelder Unternehmer den Negativeintrag nicht erklären.&nbsp;
+Der Eintrag war erfolgt, obwohl der Betroffene auf eine offene titulierte &nbsp;Forderung aus dem Jahr 1998 seit mehreren Jahren eine Rate von 100,00 Euro an die Firma Domnowski Inkasso GmbH geleistet hatte. Mit Domnowski Inkasso war eine Vereinbarung zur Zahlung von insgesamt 9.000 Euro abgeschlossen worden mit einem Verzicht auf die darüber hinausgehende Forderung, wenn ordnungsgemä&szlig; gezahlt wurde. Den Betrag von insgesamt 9.000 Euro hatte der betroffene abbezahlt. Daher konnte sich der Schönefelder Unternehmer den Negativeintrag nicht erklären.&nbsp;
 
 Er wandte sich daher zunächst selbst an die GFKL PayProtect mit Schreiben vom 09.12.2020 und bat um Aufklärung sowie Löschung des Eintrag bei der Schufa.&nbsp;
 
