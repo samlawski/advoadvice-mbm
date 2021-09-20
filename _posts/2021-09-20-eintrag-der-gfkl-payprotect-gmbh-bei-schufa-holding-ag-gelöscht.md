@@ -1,5 +1,5 @@
 ---
-title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG widerrufen.
+title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG gelöscht.
 date: 2021-09-20 00:00:00
 description: >-
   GFKL PayProtect GmbH widerruft Eintrag in Schufa Datenbestand über eine
@@ -36,6 +36,10 @@ Da keine Löschung erfolgte, wandte sich der betroffene Unternehmer an die Kanzl
 Auf das Schreiben der Kanzlei AdvoAdvice meldete sich die GFKL PayProtect GmbH und räumte Fehler bei der Bearbeitung der Angelegenheit ein. Leider sei der im Vergleich enthaltene Vergleichsbetrag systemseitig nicht ordnungsgemä&szlig; dargestellt worden. Dies führte bedauerlicherweise dazu, dass die Erledigung nach vollständigem Ausgleich nicht erfolgte, so die GFKL in einem Schreiben vom 13.09.2021.&nbsp;
 
 Der Schufa Holding AG sie nunmehr der korrekte Erledigungszeitpunkt mitgeteilt worden, so dass eine Löschung in Kürze erfolgen sollte, schrieb die GFKL weiter in dem Entschuldigungsschreiben.&nbsp;
+
+Die Löschung des Negativeintrags erfolgte danach schnell und unkompliziert, so dass sich der Scorewert des betroffenen Mandanten von zunächst 20,22% auf 98,55% erholte.&nbsp;
+
+Der betroffene Unternehmer bedankte sich bei Rechtsanwalt Dr. Tintemann dafür, dass er nun wieder ein "normales Leben" führen könne.&nbsp;
 
 Leider wurde eine Kostenübernahme der Anwaltskosten bisher durch die GFKL PayProtect GmbH abgelehnt mit der Ausrede, der Mandant habe selbst mitteilen können, dass der Vergleich vollständig ausgeglichen sei. Eine anwaltliche Unterstützung hätte es hierfür nicht bedurft.&nbsp;
 
