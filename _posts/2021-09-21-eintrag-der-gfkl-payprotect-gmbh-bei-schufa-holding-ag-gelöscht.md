@@ -1,6 +1,6 @@
 ---
 title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG gelöscht.
-date: 2021-09-20 00:00:00
+date: 2021-09-21 00:00:00
 description: >-
   GFKL PayProtect GmbH widerruft Eintrag in Schufa Datenbestand über eine
   bereits durch Ratenzahlung erledigte Forderung.
@@ -31,7 +31,7 @@ Er wandte sich daher zunächst selbst an die GFKL PayProtect mit Schreiben vom 0
 
 Da keine Löschung erfolgte, wandte sich der betroffene Unternehmer an die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin.&nbsp;
 
-## GFKL räumt Fehler ein
+## GFKL räumt Fehler ein und übernimmt Anwaltskosten
 
 Auf das Schreiben der Kanzlei AdvoAdvice meldete sich die GFKL PayProtect GmbH und räumte Fehler bei der Bearbeitung der Angelegenheit ein. Leider sei der im Vergleich enthaltene Vergleichsbetrag systemseitig nicht ordnungsgemä&szlig; dargestellt worden. Dies führte bedauerlicherweise dazu, dass die Erledigung nach vollständigem Ausgleich nicht erfolgte, so die GFKL in einem Schreiben vom 13.09.2021.&nbsp;
 
@@ -41,9 +41,13 @@ Die Löschung des Negativeintrags erfolgte danach schnell und unkompliziert, so 
 
 Der betroffene Unternehmer bedankte sich bei Rechtsanwalt Dr. Tintemann dafür, dass er nun wieder ein "normales Leben" führen könne.&nbsp;
 
-Leider wurde eine Kostenübernahme der Anwaltskosten bisher durch die GFKL PayProtect GmbH abgelehnt mit der Ausrede, der Mandant habe selbst mitteilen können, dass der Vergleich vollständig ausgeglichen sei. Eine anwaltliche Unterstützung hätte es hierfür nicht bedurft.&nbsp;
+Leider wurde zunächst eine Kostenübernahme der Anwaltskosten&nbsp; durch die GFKL PayProtect GmbH abgelehnt mit der Ausrede, der Mandant habe selbst mitteilen können, dass der Vergleich vollständig ausgeglichen sei. Eine anwaltliche Unterstützung hätte es hierfür nicht bedurft.&nbsp;
 
-Rechtsanwalt Dr. Sven Tintemann hat hier noch einmal gegengehalten und nunmehr erneut die Übernahme der entstandenen Anwaltskosten gefordert, da der Mandant es sehr wohl bereits ohne anwaltliche Hilfe und unter Fristsetzung versucht hatte, die Sache zu klären.&nbsp;
+Rechtsanwalt Dr. Sven Tintemann hielt hierzu noch einmal gegen und forderte erneut die Übernahme der entstandenen Anwaltskosten, da der Mandant es sehr wohl bereits ohne anwaltliche Hilfe und unter Fristsetzung versucht hatte, die Sache zu klären.&nbsp;
+
+Daraufhin erklärte sich die GFKL dazu bereit, die entstanden Anwaltskosten zu einem Gro&szlig;teil zu übernehmen.&nbsp;
+
+Mit einer Veröffentlichung des Falls war die GFKL allerdings nicht einverstanden. Die Kanzlei AdvoAdvice ist jedoch der Auffassung, dass hier wohl die Presse- und Meinungsäu&szlig;erungsfreiheit eingreifen dürfte, weshalb eine Berichterstattung auch ohne Zustimmung der GFKL zulässig ist.&nbsp;
 
 ## Fazit von AdvoAdvice
 
