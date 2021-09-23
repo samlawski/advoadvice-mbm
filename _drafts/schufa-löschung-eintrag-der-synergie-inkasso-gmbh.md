@@ -6,7 +6,7 @@ description: >-
   AG gelöscht. 
 layout: post
 style_id: post
-image:
+image: /uploads/advoadvice-01-45-von-80.jpg
 tags:
   - Schufa Holding AG
   - Synergie Inkasso
@@ -36,4 +36,14 @@ Dennoch wurde nach dessen Rückkehr nach Deutschland sein Konto gepfändet. Zude
 
 Der Betroffene versuchte es zunächst, den Eintrag ohne anwaltliche Hilfe zur Löschung zu bringen. Dies scheiterte jedoch, weshalb sich der Mandant an Rechtsanwalt Dr. Sven Tintemann wandte.&nbsp;
 
-&nbsp;
+Auch nach Einschaltung von Rechtsanwalt Dr. Tintemann und einem ersten Schreiben an die Schufa Holding AG und die Synergie Inkasso GmbH dauerte es noch fast 2 Monate, bis der Vorgang geklärt werden konnte. Die Schufa Holding AG teilte mit Schreiben vom 17.09.2021 mit, sich nach Überprüfung des Vorgangs und vor dem Hintergrund der vorliegenden Informationen&nbsp; ohne Anerkennung einer Rechtspflicht entschlossen zu haben, die in Rede stehenden Daten zu löschen.
+
+Dies konnte nur aufgrund der Hilfe und Hartnäckigkeit der Rechtsanwälte aus der Kanzlei AdvoAdvice erreicht werden.&nbsp;
+
+## Titulierte Forderungen kann man also doch löschen
+
+Die weit verbreitete Meinung, die auch oft im Internet zu finden ist, dass man eine titulierte Forderung bei der Schufa Holding AG nicht löschen lassen kann, hat sich somit einmal mehr als falsch erwiesen.&nbsp;
+
+Korrekt ist, dass es immer auf die Prüfung des Einzelfalls ankommt. Hierbei sind vor allem die Feinheiten des Sachverhalts relevant. Diese muss man durch einen Experten im Bereich des Datenschutzrechts prüfen lassen.&nbsp;
+
+Die Rechtsanwälte Dr. Raphael Rohrmoser und Dr. Sven Tintemann stehen Betroffenen hierfür in der Kanzlei AdvoAdvice Rechtsanwälte mbB gerne zur Verfügung.&nbsp;
