@@ -18,6 +18,7 @@ tags:
   - Scoring
   - Vollstreckungsbescheid
   - Ausland
+  - Meldebescheinigung
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
@@ -46,4 +47,4 @@ Die weit verbreitete Meinung, die auch oft im Internet zu finden ist, dass man e
 
 Korrekt ist, dass es immer auf die Prüfung des Einzelfalls ankommt. Hierbei sind vor allem die Feinheiten des Sachverhalts relevant. Diese muss man durch einen Experten im Bereich des Datenschutzrechts prüfen lassen.&nbsp;
 
-Die Rechtsanwälte Dr. Raphael Rohrmoser und Dr. Sven Tintemann stehen Betroffenen hierfür in der Kanzlei AdvoAdvice Rechtsanwälte mbB gerne zur Verfügung.&nbsp;
+Die Rechtsanwälte Dr. Raphael Rohrmoser und Dr. Sven Tintemann stehen Betroffenen hierfür in der Kanzlei AdvoAdvice Rechtsanwälte mbB gerne zur Verfügung. Rufen Sie gerne an unter 030 921 000 40 oder schicken Sie eine Email an info@advoadvice.de.&nbsp;
