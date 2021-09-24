@@ -58,4 +58,4 @@ Kurz danach gelang es auch, das gewünschte Objekt in Dänemark (siehe Bild) zu 
 
 Nach einigem Hin und Her gelang es Dr. Tintemann auch noch, die ING-DiBa AG zu einer teilweisen Übernahme der entstandenen Anwaltskosten zu veranlassen.
 
-Die betroffenen Eheleute teilten mit, Ihnen sei ein sehr großer Stein vom Herzen gefallen und bedankten sich für die erfolgreiche Arbeit der Kanzlei AdvoAdvice Rechtsanwälte mbB.
+Die betroffenen Eheleute teilten mit, Ihnen sei ein sehr gro&szlig;er Stein vom Herzen gefallen und bedankten sich für die erfolgreiche Arbeit der Kanzlei AdvoAdvice Rechtsanwälte mbB.
