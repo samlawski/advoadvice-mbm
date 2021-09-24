@@ -1,9 +1,9 @@
 ---
-title: Schufa Löschung Eintrag der Synergie Inkasso GmbH.
+title: Schufa Holding AG löscht Eintrag der Synergie Inkasso GmbH.
 date: 2021-09-23 00:00:00
 description: >-
-  Eintrag der Synergie Inkasso trotz Vollstreckungsbescheid durch Schufa Holding
-  AG gelöscht. 
+  Eintrag der Synergie Inkasso GmbH trotz Vollstreckungsbescheid durch Schufa
+  Holding AG gelöscht. 
 layout: post
 style_id: post
 image: /uploads/advoadvice-01-45-von-80.jpg
