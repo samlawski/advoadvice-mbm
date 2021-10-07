@@ -47,6 +47,16 @@ In den letzten Jahren wurden Anleger der Anlagevarianten Classic und Plus immer 
 
 Anleger, die in die Variante Sprint investiert hatten, wurde zwar ein positives Auseinandersetzungsguthaben mitgeteilt. Dieses wurde jedoch oftmals nicht&nbsp; oder nur verspätet ausgezahlt. Zahlreiche Sprint-Anleger dürften daher immer noch auf ihr Geld warten.&nbsp;
 
+Die Forderungen wurden zuletzt als vermeintlich Nachrangig vom anwaltlichen Vertreter der Leasetrend AG bewertet. Dieser Rechtsauffassung haben sich aber weder das Landgericht München I noch das Oberlandesgericht München angeschlossen.&nbsp;
+
+Es gibt daher gute Aussichten für die Anleger, die offene Forderung gegen die Leasetrend AG auch im Insolvenzverfahren erfolgreich anzumelden.&nbsp;
+
+Anleger, die der Gesellschaft noch Geld schulden, müssen allerdings auf der Hut sein. Hier steht zu erwarten, dass diese bald Post vom Insolvenzverwalter bekommen, der die Forderung dann durchsetzen muss, um noch Geld zur Masse zu ziehen.&nbsp;
+
+## AdvoAdvice hilft Anlegern weiter
+
+Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin beschäftigt sich mit der Leasetrend AG bereits seit dem Jahr 2009. Er berät Anleger bei der Forderungsabwehr in Bezug auf Nachzahlungen ebenso wie Anleger, die noch eine Auszahlung der Leasetrend AG erhalten würden und diese jetzt als Insolvenzforderung anmelden müssen.&nbsp;
+
 &nbsp;
 
 &nbsp;
