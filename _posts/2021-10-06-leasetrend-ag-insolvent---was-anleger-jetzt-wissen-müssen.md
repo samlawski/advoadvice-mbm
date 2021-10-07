@@ -55,9 +55,7 @@ Anleger, die der Gesellschaft noch Geld schulden, müssen allerdings auf der Hut
 
 ## AdvoAdvice hilft Anlegern weiter
 
-Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin beschäftigt sich mit der Leasetrend AG bereits seit dem Jahr 2009. Er berät Anleger bei der Forderungsabwehr in Bezug auf Nachzahlungen ebenso wie Anleger, die noch eine Auszahlung der Leasetrend AG erhalten würden und diese jetzt als Insolvenzforderung anmelden müssen.&nbsp;
-
-&nbsp;
+Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice in Berlin beschäftigt sich mit der Leasetrend AG bereits seit dem Jahr 2009. Er berät Anleger bei der Forderungsabwehr in Bezug auf Nachzahlungen ebenso wie Anleger, die noch eine Auszahlung der Leasetrend AG erhalten würden und diese jetzt als Insolvenzforderung anmelden müssen.
 
 &nbsp;
 
