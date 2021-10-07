@@ -27,7 +27,7 @@ Mit Beschluss vom 01.10.2021 hat das Amtsgericht München das Insolvenzverfahren
 
 ## Antrag auf Insolvenz in Eigenverwaltung abgelehnt
 
-Eine Insolvenz in Eigenverwaltung wurde mit mehreren Beschlüssen des Amtsgerichts und des Landsgerichts München I zurückgewiesen, da nach Angabe des Amtsgerichts immer noch ein Finanzplat und ein Konzept gemä&szlig; &sect; 270a Abs. 1 Nr. 1 und 2 InsO fehlen würden. Zudem würden auch die gegen die Eigenverwaltung sprechenden Punkte des &sect; 270a Abs. 2 Nr. 1 und 3 InsO gegeben sein, so das Amtsgericht München in seiner Entscheidung.&nbsp;
+Eine Insolvenz in Eigenverwaltung wurde mit mehreren Beschlüssen des Amtsgerichts und des Landgerichts München I zurückgewiesen, da nach Angabe des Amtsgerichts immer noch ein Finanzplat und ein Konzept gemä&szlig; &sect; 270a Abs. 1 Nr. 1 und 2 InsO fehlen würden. Zudem würden auch die gegen die Eigenverwaltung sprechenden Punkte des &sect; 270a Abs. 2 Nr. 1 und 3 InsO gegeben sein, so das Amtsgericht München in seiner Entscheidung.&nbsp;
 
 ## Anmeldung von Forderungen bis zum 09.11.2021
 
