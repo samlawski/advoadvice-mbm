@@ -1,6 +1,6 @@
 ---
 title: Leasetrend AG insolvent - Was Anleger jetzt wissen müssen!
-date: 2021-10-06 00:00:00
+date: 2021-10-08 00:00:00
 description: >-
   Amtsgericht München eröffnet Insolvenzverfahren über Vermögen der Leasetrend
   AG. Dr. Max Liebig zum Insolvenzverwalter bestellt. 
