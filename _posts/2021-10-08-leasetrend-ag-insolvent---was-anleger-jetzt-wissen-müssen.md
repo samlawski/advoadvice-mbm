@@ -23,7 +23,7 @@ topics:
   - insolvenz
 author: dr-sven-tintemann
 ---
-Mit Beschluss vom 01.10.2021 hat das Amtsgericht München das Insolvenzverfahren über das Vermögen der Leasetrend AG eröffnet. Zum Insolvenzverwalter wurde Dr. Max Liebig bestellt.&nbsp;
+Mit Beschluss vom 01.10.2021 hat das Amtsgericht München das Insolvenzverfahren über das Vermögen der Leasetrend AG eröffnet. Zum Insolvenzverwalter wurde Dr. Max Liebig bestellt.
 
 ## Antrag auf Insolvenz in Eigenverwaltung abgelehnt
 
