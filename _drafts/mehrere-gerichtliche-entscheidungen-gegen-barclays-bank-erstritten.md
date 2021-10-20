@@ -45,7 +45,9 @@ Am Landgericht Hamburg besteht zu vielen Themen rund um Negativeinträge in Ausk
 
 ## **Einschätzung durch AdvoAdvice**
 
-Die Rechtsanwaltskanzlei AdvoAdvice hat viel Erfahrung auf dem Gebiet von negativen Einträgen bei der Schufa Holding AG und anderen Auskunfteien. Gerade durch diese Erfahrung kann sichergestellt werden, dass Mandanten optimal betreut werden und etwaige Schwachpunkte im System der eintragenden Stellen genutzt werden können. Rechtsanwalt Dr. Rohrmoser wies auf folgende Aspekte hin: "Bei einigen Unternehmen gibt es konzeptionelle Schwachpunkte bei der Verarbeitung personenbezogener Daten. Diese Schwachpunkte führen immer wieder zu unberechtigten Negativeinträgen. Gegen dies Einträge lässt sich in der Folge relativ gut vorgehen."
+Die Rechtsanwaltskanzlei AdvoAdvice hat viel Erfahrung auf dem Gebiet von negativen Einträgen bei der Schufa Holding AG und anderen Auskunfteien. Gerade durch diese Erfahrung kann sichergestellt werden, dass Mandanten optimal betreut werden und etwaige Schwachpunkte im System der eintragenden Stellen genutzt werden können.
+
+Rechtsanwalt Dr. Rohrmoser wies auf folgende Aspekte hin: "Bei einigen Unternehmen gibt es konzeptionelle Schwachpunkte bei der Verarbeitung personenbezogener Daten. Diese Schwachpunkte führen immer wieder zu unberechtigten Negativeinträgen. Gegen dies Einträge lässt sich in der Folge relativ gut vorgehen."
 
 Wenn auch Sie einen negativen Eintrag bei der Schufa Holding AG haben, können Sie uns gerne kontaktieren und eine kostenfreie Ersteinschätzung erfragen ([info@advoadvice.de](mailto:info@advoadvice.de) oder 030 / 921 000 40). Mit der vorhandenen Expertise helfen wir Ihnen gerne.
 
