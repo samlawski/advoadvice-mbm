@@ -35,7 +35,7 @@ In einem anderen Verfahren erhielt der Betroffene wegen eines Umzugs ebenfalls k
 
 ## **Gefestigte Rechtsprechung am LG Hamburg**
 
-Bereits vor einigen Wochen berichteten wir von einem gerichtlichen Erfolg gegen die Barclays Bank ([https://advoadvice.de/blog/lg-hamburg-verurteilt-barclays-bank-ireland-plc-zum-widerruf-eines-schufa-eintrages/](https://advoadvice.de/blog/lg-hamburg-verurteilt-barclays-bank-ireland-plc-zum-widerruf-eines-schufa-eintrages/)). Die dortigen Argumentation hat sich in weiteren Entscheidungen gegen die Bank gefestigt.
+Bereits vor einigen Wochen berichteten wir von einem [gerichtlichen Erfolg gegen die Barclays Bank](https://advoadvice.de/blog/lg-hamburg-verurteilt-barclays-bank-ireland-plc-zum-widerruf-eines-schufa-eintrages/){: target="_blank" rel="noopener"}. Die dortigen Argumentation hat sich in weiteren Entscheidungen gegen die Bank gefestigt.
 
 In einem neuen Urteil aus September 2021 wurde vom Landgericht Hamburg nochmals ausgiebig dargelegt, wieso der Eintrag rechtswidrig war und weder über die DSGVO noch über das BDSG a.F. gerechtfertigt werden konnte. Dabei schloss man sich der Argumentation aus dem Urteil von Mai 2021 überwiegend an, führte dahingehend aber noch weiter aus.
 
