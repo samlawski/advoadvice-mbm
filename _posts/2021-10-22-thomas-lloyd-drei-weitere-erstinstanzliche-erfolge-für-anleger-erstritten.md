@@ -27,11 +27,11 @@ topics:
     - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-Geklagt hatten Anleger, die ihre Genussrechte bzw. atypisch stille Beteiligungen gekündigt hatten. Die CT Infrastructure Holding Ltd., welche als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH nach Ansicht der Anleger zur Zahlung verpflichtet war, hatte hingegen eine Verpflichtung zur Rückzahlung an die Anleger abgelehnt.[\[UA1\]](#_msocom_1)&nbsp;
+Geklagt hatten Anleger, die ihre Genussrechte bzw. atypisch stille Beteiligungen gekündigt hatten. Die CT Infrastructure Holding Ltd., welche als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH nach Ansicht der Anleger zur Zahlung verpflichtet war, hatte hingegen eine Verpflichtung zur Rückzahlung an die Anleger abgelehnt.
 
 ## **Die Urteile im Einzelnen**
 
-### **1) Landgericht Aurich **
+### 1) Landgericht Aurich&nbsp;
 
 Am 21.09.2021 verurteilte das Landgericht Aurich die CT Infrastruture Holding Ltd. zu einer Zahlung in Höhe von 16.748,26 Euro zuzüglich Zinsen sowie zur Übernahme der Kosten des Rechtstreits.
 
@@ -53,7 +53,7 @@ Das Landgericht Hannover entschied mit Urteil vom 23.09.2021, dass die CT Infras
 
 Das Landgericht Hannover bestätigte einen Auszahlungsanspruch in Höhe des Wertes der Beteiligung, den die Gesellschaft selbst mit Schreiben vom Februar 2019 mitgeteilt hatte. Im Urteil führte das Gericht wie folgt aus:&nbsp;
 
-*„**Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von 17.833,95 € aus &sect; 6 Abs.**4 der Genussrechtsbedingungen. Hiernach erfolgt die Rückzahlung der Genussrechte zu 100% des Nennbetrags abzüglich eines etwaigen Verlustanteils gem. &sect; 5 der**Genussrechtebedingungen 3 Monate nach Laufzeitende. Die Rechtsvorgängerin der**Beklagten hat die Kündigung zum 31.12.2017 bestätigt. Der Rückzahlungsanspruch besteht* *daher angesichts des Nennbetrags der Beteiligung in Höhe von 30.000,00 € jedenfalls in**begehrter Höhe.*
+*„**Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von 17.833,95 € aus &sect; 6 Abs.**4 der Genussrechtsbedingungen. Hiernach erfolgt die Rückzahlung der Genussrechte zu 100% des Nennbetrags abzüglich eines etwaigen Verlustanteils gem. &sect; 5 der**Genussrechtebedingungen 3 Monate nach Laufzeitende. Die Rechtsvorgängerin der**Beklagten hat die Kündigung zum 31.12.2017 bestätigt. Der Rückzahlungsanspruch besteht* *daher angesichts des Nennbetrags der Beteiligung in Höhe von 30.000,00 € jedenfalls in\*\*begehrter Höhe.*
 
 *Die Beklagte hat nicht hinreichend dargelegt, dass hiervon ein Verlustanteil gem. &sect; 5 der*
 
@@ -73,19 +73,19 @@ Die Anleger wandten sich daraufhin an die Kanzlei AdvoAdvice Rechtsanwälte in B
 
 Das Landgericht Krefeld führt in seinem Urteil aus:
 
-*„Die Klägerin zu Z. 1 hat gegen die Beklagte einen Anspruch auf Zahlung i.H.v.**9200,49 €, der Kläger zu Z. 2 kann Zahlung von 7000,00 € beanspruchen.*
+*„Die Klägerin zu Z. 1 hat gegen die Beklagte einen Anspruch auf Zahlung i.H.v.\*\*9200,49 €, der Kläger zu Z. 2 kann Zahlung von 7000,00 € beanspruchen.*
 
-*\[…\] *
+\*\[…\] \*
 
 *Die Kläger können hier auf Zahlung des nach ihrer Auffassung ihnen zustehenden Abfindungsguthabens klagen, denn die Beklagte hat die Erfüllung der ihr obliegenden Verpflichtung zur Abrechnung über ein objektiv angemessenen Zeitraum hinaus (hier fast vier Jahre) hinausgezögert (BGH, ZIP 2011 1358 ff.; Müko, BGB, 8. Aufl., &sect; 738, Rz. 30).*
 
 *\[…\]*
 
-*Das nicht nachvollziehbare und widersprüchliche Vorbringen der Beklagten hat die Folge, dass das Vorbringen der Beklagten zu diesem Punkt unbeachtlich und damit der von den Klägern vorgetragene Anspruch auf Zahlung des Abfindungsguthabens in Höhe**von 9200,49 € bzw. 7000,00 € als unstreitig anzusehen ist. Die Beklagte muss sich* *an dem von ihr für das Jahr 2018 mitgeteilten Wert festhalten lassen.“*
+*Das nicht nachvollziehbare und widersprüchliche Vorbringen der Beklagten hat die Folge, dass das Vorbringen der Beklagten zu diesem Punkt unbeachtlich und damit der von den Klägern vorgetragene Anspruch auf Zahlung des Abfindungsguthabens in Höhe\*\*von 9200,49 € bzw. 7000,00 € als unstreitig anzusehen ist. Die Beklagte muss sich* *an dem von ihr für das Jahr 2018 mitgeteilten Wert festhalten lassen.“*
 
 Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat die Möglichkeit, das Rechtsmittel der Berufung zum Oberlandesgericht Düsseldorf einzulegen.
 
-## ****Unser Fazit****
+## **Unser Fazit**
 
 Die drei neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein.
 
