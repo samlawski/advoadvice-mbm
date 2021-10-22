@@ -31,7 +31,7 @@ Geklagt hatten Anleger, die ihre Genussrechte bzw. atypisch stille Beteiligungen
 
 ## **Die Urteile im Einzelnen**
 
-### 1) Landgericht Aurich&nbsp;
+## 1) Landgericht Aurich&nbsp;
 
 Am 21.09.2021 verurteilte das Landgericht Aurich die CT Infrastruture Holding Ltd. zu einer Zahlung in Höhe von 16.748,26 Euro zuzüglich Zinsen sowie zur Übernahme der Kosten des Rechtstreits.
 
