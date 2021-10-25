@@ -31,7 +31,7 @@ Geklagt hatten Anleger, die ihre Genussrechte bzw. atypisch stille Beteiligungen
 
 ## **Die Urteile im Einzelnen**
 
-## 1) Landgericht Aurich&nbsp;
+### 1) Landgericht Aurich&nbsp;
 
 Am 21.09.2021 verurteilte das Landgericht Aurich die CT Infrastruture Holding Ltd. zu einer Zahlung in Höhe von 16.748,26 Euro zuzüglich Zinsen sowie zur Übernahme der Kosten des Rechtstreits.
 
@@ -90,9 +90,3 @@ Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat die Möglichkei
 Die drei neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein.
 
 Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH haben somit weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
-
-## **Nächste Schritte**
-
-1. Nehmen Sie gleich&nbsp;[Kontakt](https://advoadvice.de/blog/thomas-lloyd-anleger-mit-berufung-vor-olg-frankfurt-am-main-erfolgreich/#kontakt)&nbsp;auf, um kostenlos eine erste Einschätzung vom Anwalt zu bekommen
-
-Informieren Sie sich mehr zum Thema auf unseren&nbsp;[Seiten](https://advoadvice.de/#themen).
