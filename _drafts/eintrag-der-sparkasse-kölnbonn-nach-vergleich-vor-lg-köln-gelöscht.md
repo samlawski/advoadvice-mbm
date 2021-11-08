@@ -19,3 +19,8 @@ topics:
     - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
+Die Corona Pandemie hatte bei vielen Geschäftsleuten Zahlungsausfälle und damit verbundene Zahlungsschwierigkeiten bei der eigenen Bank zur Folge.&nbsp;
+
+Dies musste auch ein Ehepaar aus Köln erleben. Dieses wollte im Sommer 2020 eine Umfinanzierung von Verbindlichkeiten bei der Sparkasse KölnBonn vornehmen. Anstatt jedoch einer Umfinanzierung stattzugeben, kündigte die Sparkasse KölnBonn die Geschäftsverbindungen mit den Betroffenen mit Schrieben vom 26.06.2020. Mit Datum vom gleichen Tag wurden dann jeweils bei&nbsp;
+
+&nbsp;
