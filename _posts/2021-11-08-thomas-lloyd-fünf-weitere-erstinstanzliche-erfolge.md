@@ -1,6 +1,6 @@
 ---
 title: "Thomas Lloyd:\_Fünf\_weitere erstinstanzliche Erfolge!\_"
-date: 2021-11-08 00:00:00
+date: 2021-11-08 00:05:00
 description: "Landgerichte\_Aachen, Ansbach, Dessau-Roßlau\_und\_Leipzig\_verurteilen CT Infrastructure Holding Ltd. zur Zahlung\_an\_Anleger.\_"
 layout: post
 style_id: post
