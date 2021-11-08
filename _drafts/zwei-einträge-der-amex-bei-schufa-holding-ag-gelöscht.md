@@ -6,7 +6,7 @@ description: >-
     Holding AG gelöscht. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---amex.jpg
 tags:
     - Schufa Holding AG
     - AMEX
