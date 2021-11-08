@@ -4,8 +4,20 @@ date: 2021-11-08 00:00:00
 description: "Landgerichte\_Aachen, Ansbach, Dessau-Roßlau\_und\_Leipzig\_verurteilen CT Infrastructure Holding Ltd. zur Zahlung\_an\_Anleger.\_"
 layout: post
 style_id: post
-image:
+image: /uploads/colorful-g93f59092f-1280.jpg
 tags:
+    - Erfolg
+    - Urteil
+    - Thomas Lloyd
+    - Anlegergemeinschaft
+    - CT Infrastructure Holding Ltd.
+    - DKM Global Opportunities Fonds
+    - DKM Vermögensanlagen AG
+    - ThomasLloyd Investments GmbH
+    - Landgericht Aachen
+    - Landgericht Ansbach
+    - Landgericht Leipzig
+    - Landgericht Dessau-Roßlau
 topics:
     - thomas-lloyd-anlegergemeinschaft
     - anlegerschutz
@@ -16,7 +28,7 @@ Weitere Erfolge für die Anleger der ehemaligen Thomas Lloyd Investments AG (Wie
 
 ## **Die Urteile im Einzelnen**&nbsp;
 
-### **1) Mehrere Erfolge beim Landgericht Aachen&nbsp;**&nbsp;
+### **1) Zwei Erfolge beim Landgericht Aachen&nbsp;**&nbsp;
 
 Am 16.09.2021 verurteilte das Landgericht Aachen die CT Infrastruture Holding Ltd. zu einer Zahlung in Höhe von 36.532,40 EUR zuzüglich Zinsen.&nbsp;
 
@@ -74,9 +86,9 @@ Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat das Rechtsmitte
 
 ### **4) Landgericht Leipzig&nbsp;**
 
-&nbsp;Schlie&szlig;lich urteilte auch das Landgericht Leipzig am 04.10.2021 zugunsten einer von der Kanzlei AdvoAdvice Rechtsanwälte vertretenen Klägerin und verurteilte die Beklagte 20.650,00 EUR zuzüglich Zinsen an die Klägerin zu zahlen und die Kosten des Rechtsstreits zu tragen.&nbsp;&nbsp;
+Schlie&szlig;lich urteilte auch das Landgericht Leipzig am 04.10.2021 zugunsten einer von der Kanzlei AdvoAdvice Rechtsanwälte vertretenen Klägerin und verurteilte die Beklagte dazu, 20.650,00 EUR zuzüglich Zinsen an die Klägerin zu zahlen und die Kosten des Rechtsstreits zu tragen.&nbsp;&nbsp;
 
-Geklagt hatte eine Anlegerin, die ihre Genussrechtsbeteiligungen im August 2020&nbsp; au&szlig;erordentlich über die Kanzlei AdvoAdvice kündigen lassen hatte.&nbsp;&nbsp;
+Geklagt hatte eine Anlegerin, die ihre Genussrechtsbeteiligungen im August 2020&nbsp; au&szlig;erordentlich über die Kanzlei AdvoAdvice hatte kündigen lassen.
 
 Das Landgericht Leipzig bestätigte einen Auszahlungsanspruch in Höhe des bereits eingezahlten Anlagebetrages, den die Gesellschaft selbst mit Schreiben aus dem Februar 2019 mitgeteilt hatte.&nbsp;&nbsp;
 
@@ -84,8 +96,12 @@ Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat bereits das Rec
 
 ## **Unser Fazit**&nbsp;
 
-Die drei neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein.&nbsp;
+Die fünf weiteren neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein. Diese gibt aber weiterhin nicht nach, bietet keine Vergleiche an und geht immer in die Berufung.&nbsp;
 
-Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH haben somit weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.&nbsp;
+Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH haben aber weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.&nbsp;
+
+Die bisher erzielten Prozesserfolge zeigen, dass die Strategie der Anlegergemeinschaft der Thomas Lloyd Anleger bei der Kanzlei AdvoAdvice aufgeht und zu einer erfolgreichen Rechtsdurchsetzung führt.&nbsp;
+
+Insbesondere Anleger in Genussrechte der Thomas Lloyd Investments GmbH aus Wien, die ihre Anlage zum 31.12.2017 gekündigt haben und seither auf eine Rückzahlung warten, müssen jetzt handeln und eine Klage auf Zahlung einreichen, damit der am 01.04.2018 fällig Anspruch auf Rückzahlung des eingezahlten Kapitals nicht mit Ablauf des 31.12.2021 verjährt.&nbsp;
 
 &nbsp;
