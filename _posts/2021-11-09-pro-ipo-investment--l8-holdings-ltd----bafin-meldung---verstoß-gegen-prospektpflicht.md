@@ -2,7 +2,7 @@
 title: >-
     Pro-IPO Investment / L8 Holdings Ltd. - BaFin Meldung - Verstoß gegen
     Prospektpflicht?
-date: 2021-11-09 01:00:00
+date: 2021-11-09 15:00:00
 description: "Die BaFin hat laut einer Meldung vom 9.11.21 Anhaltspunkte dafür, dass ein Verstoß gegen die Prospektpflicht vorliegen könnte. Die \_Pro-IPO Investment und die L8 Holdings Ltd. bietet in Deutschland für interessierte Anleger und Investoren Vermögensanlagen in Form von Aktien der L8 Holdings Ltd. öffentlich an."
 layout: post
 style_id: post
