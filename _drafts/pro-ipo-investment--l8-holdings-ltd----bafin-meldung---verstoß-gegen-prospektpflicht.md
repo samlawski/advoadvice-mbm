@@ -15,7 +15,7 @@ Die &nbsp;Pro-IPO Investment und die L8 Holdings Ltd. bietet in Deutschland für
 
 #### BaFin Meldung
 
-Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) hat&nbsp;[nach eigener Meldung vom 09.11.20](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_210720_Consilium_Green_Energy.html){: target="_blank" rel="noopener"}[21](__notset__)&nbsp;Anhaltspunkte dafür, dass die Consilium Green Energy GmbH für diese Investmentmöglichkeit gegen die Prospektpflicht versto&szlig;en worden sein könnte.. &nbsp;
+Die deutsche Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) hat nach [einer BaFin Meldung vom 09.11.2021](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2021/meldung_211109_L8_Holdings_und_Pro-IPO_Investment.html)&nbsp;Anhaltspunkte dafür, dass die Pro-IPO Investment und die L8 Holdings Ltd. für diese Investmentmöglichkeit gegen die Prospektpflicht versto&szlig;en worden sein könnte.. &nbsp;
 
 Entgegen &sect; 6 VermAnlG wurde hierfür also nach bisheriger Einschätzung der BaFin kein den gesetzlichen Voraussetzungen genügender Verkaufsprospekt veröffentlicht.
 
@@ -23,7 +23,7 @@ In Deutschland dürfen Vermögensanlagen im Grundsatz nicht ohne die Veröffentl
 
 #### Folgen der BaFin Meldung für Anleger
 
-Im Vertrauen auf rechtssicher angebotene Anlageprodukte dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik ist eine Anlage mit "grünen Investments" sehr beliebt und gilt als nachhaltige Vermögensbildung. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von einer rechtlichen Bewertung des Vertragsmodells der Consilium Green Energy GmbH Vertragsmodells als Vermögensanlage auszugehen.
+Im Vertrauen auf rechtssicher angebotene Anlageprodukte dürften viele Anleger hier nun verunsichert sein und sich fragen, ob sich für Sie wegen der Folgen der BaFin Meldung nun Ansprüche ergeben. In Zeiten der Niedrigzinspolitik in Deutschland sind Aktieninvestitionen nen Investments" sehr beliebt und gilt als nachhaltige Vermögensbildung. Dies gilt insbesondere dann, wenn in unsicheren Zeiten die weitere Entwicklung des Kapitalmarktes nicht wie bisher prognostiziert werden kann. Hier scheint die BaFin also von einer rechtlichen Bewertung des Vertragsmodells der Consilium Green Energy GmbH Vertragsmodells als Vermögensanlage auszugehen.
 
 Es sollte aber beachtet werden, dass nach der Meldung der BaFin vom 20.07.2021 nicht automatisch geklärt ist, ob es sich bei dem Investment Angebot der Consilium Green Energy GmbH und der Art und Weise des Angebotes ohne einen von der Bafin gebilligten Verkaufsprospekt hier um einen rechtskräftig festgestellten Pflichtenversto&szlig; handelt. Gegen Entscheidungen und Meldungen der BaFin sind Rechtsmittel möglich.
 
