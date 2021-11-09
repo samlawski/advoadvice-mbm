@@ -11,7 +11,7 @@ tags:
 topics:
 author: dr-sven-tintemann
 ---
-Die &nbsp;Pro-IPO Investment und die L8 Holdings Ltd. bietet in Deutschland für interessierte Anleger und Investoren Vermögensanlagen in Form von Aktien der L8 Holdings Ltd. öffentlich an. &nbsp;Für den Fall, das diese Verträge als rechtlich als Vermögensanlagen zu werten sind, gibt es jedoch in Deutschland allerdings formale und gesetzliche Voraussetzungen.
+Die &nbsp;Pro-IPO Investment und die L8 Holdings Ltd. bietet in Deutschland für interessierte Anleger und Investoren Vermögensanlagen in Form von Aktien der L8 Holdings Ltd. öffentlich an. Das öffentliche Angebot von Wertpapieren ohne einen gebilligten Prospekt stellt – sofern keine Ausnahme eingreift – einen Versto&szlig; gegen die Prospektpflicht nach Artikel 3 Absatz 1 der EU-Prospektverordnung dar.
 
 #### BaFin Meldung
 
