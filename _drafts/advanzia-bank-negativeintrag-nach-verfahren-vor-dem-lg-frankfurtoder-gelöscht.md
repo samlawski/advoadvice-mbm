@@ -26,11 +26,11 @@ topics:
     - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Mit Aktenzeichen 19 O 118/20 wurde in den letzten eineinhalb Jahren ein Verfahren vor dem Landgericht Frankfurt/Oder geführt. Es ging um einen negativen Schufa-Eintrag der Advanzia Bank S.A. (fortan: Advanzia Bank). Diese veranlasste im April 2019 einen Schufa-Eintrag über etwas mehr als 1.000,00 Euro zu einer jungen Frau, obwohl die Eintragung nicht hätte vorgenommen werden dürfen.
+Mit Aktenzeichen 19 O 118/20 wurde in den letzten eineinhalb Jahren ein Verfahren vor dem Landgericht Frankfurt/Oder geführt. Es ging um einen negativen Schufa-Eintrag der Advanzia Bank S.A. (fortan: Advanzia Bank). Diese veranlasste im April 2019 einen Schufa-Eintrag über etwas mehr als 1.000,00 Euro zu einer jungen Frau, obwohl die Eintragung nicht hätte vorgenommen werden dürfen. Die Experten der Kanzlei AdvoAdvice konnten damit ein weiteres Verfahren erfolgreich führen.
 
 ## **Sachverhalt**
 
-Die Klägerin verfügte über eine MasterCard bei der Beklagten Advanzia Bankmit einem Verfügungsrahmen über 1.000,00 Euro. Ende 2018 kam es zu einer Rückzahlungsschwierigkeit.
+Die Klägerin verfügte über eine MasterCard bei der Beklagten Advanzia Bank mit einem Verfügungsrahmen über 1.000,00 Euro. Ende 2018 kam es zu einer Rückzahlungsschwierigkeit.
 
 Die Advanzia Bank versandte daraufhin offenbar zwei Mahnungen sowie eine Kündigung, wobei der Zugang der Kündigung bestritten war. Die Klägerin gab an, diese definitiv nicht erhalten zu haben.
 
