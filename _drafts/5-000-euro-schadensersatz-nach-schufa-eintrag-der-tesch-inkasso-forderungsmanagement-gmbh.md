@@ -19,12 +19,13 @@ tags:
     - Schadensersatz
     - titulierte Forderung
     - DSGVO
-    - ARt. 82 DSGVO
     - Immaterieller Schadensersatz
     - Schadensersatzanspruch
     - Schaden
     - Urteil
     - Landgericht Mainz
+    - Art. 82 DSGVO
+    - § 31 BDSG
 topics:
     - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
