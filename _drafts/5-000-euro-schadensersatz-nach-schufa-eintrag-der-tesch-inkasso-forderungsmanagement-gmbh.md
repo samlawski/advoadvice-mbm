@@ -1,11 +1,11 @@
 ---
 title: >-
-    5.000 Euro Schadensersatz nach Schufa-Eintrag der Tesch Inkasso
-    Forderungsmanagement GmbH
+    Landgericht Mainz: Inkassofirma muss 5.000 Euro Schadensersatz wegen
+    Schufa-Eintrag zahlen.
 date: 2021-11-12 16:57:27
 description: >-
-    Inkassounternehmen muss Schadensersatz nach fehlerhaftem Schufa-Eintrag
-    zahlen
+    Tesch Inkasso Forderungsmanagement GmbH zur Zahlung von Schadensersatz nach
+    fehlerhaftem Schufa-Eintrag verurteilt.
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa-einträge---schadensersatz.jpg
@@ -21,11 +21,15 @@ tags:
     - DSGVO
     - ARt. 82 DSGVO
     - Immaterieller Schadensersatz
+    - Schadensersatzanspruch
+    - Schaden
+    - Urteil
+    - Landgericht Mainz
 topics:
     - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Das Landgericht Mainz urteilt den bislang wohl höchsten immateriellen Schadensersatz nach einem negativen Eintrag bei der Schufa Holding AG aus. Die Experten der Kanzlei AdvoAdvice können damit einmal mehr einen richtungsweisenden Sieg in erster Instanz erringen. Einmal mehr zeigt sich dabei, dass eine Titulierung nicht gleich bedeuten muss, dass eine Forderung zurecht bei der Schufa Holding AG gespeichert wird.
+Das Landgericht Mainz urteilt den bislang wohl höchsten immateriellen Schadensersatz nach einem negativen Eintrag bei der Schufa Holding AG aus. Die Experten der Kanzlei AdvoAdvice können damit einmal mehr einen richtungsweisenden Erfolg in einem erstinstanzlichen Urteil erringen. Einmal mehr zeigt sich dabei, dass die Titulierung eines Anspruchs nicht gleich bedeuten muss, dass ein Negativeintrag zurecht bei der Schufa Holding AG gespeichert werden darf.
 
 ## **Hintergrund des Falles**
 
@@ -37,33 +41,33 @@ Nachdem ein Forderungsausgleich nicht erfolgte, erging am 16.07.2019 ein Vollstr
 
 Da der Kläger zu einem verlängerten Wochenende nicht zu Hause war, erhielt er erst nach der Rückkehr am 21.07.2019, einem Sonntag, Kenntnis des Vollstreckungsbescheides. Die Forderung wurde durch den Betroffenen sodann umgehend überwiesen.
 
-Die Tesch Inkasso nahm darauf hin eine weitere Meldung an die Schufa Holding AG vor, was überraschender Weise mit dem Merkmal „Uneinbringliche titulierte Forderung / Einzug unwirtschaftlich“ und einem gemeldeten Forderungsbetrag ohne Angabe führte.
+Die Tesch Inkasso nahm darauf hin eine weitere Meldung an die Schufa Holding AG vor. Dies war aber überraschender Weise keine Mitteilung darüber, dass die Forderung ausgeglichen und somit erledigt sei. Die Forderung wurde hingegen mit „Uneinbringliche titulierte Forderung / Einzug unwirtschaftlich“ gekennzeichnet.&nbsp;
 
-In der Zwischenzeit stellte sich heraus, dass der Eintrag seitens der Tesch Inkasso bereits im September 2019 widerrufen wurde. Dies wurde dem Kläger aber nicht mitgeteilt. Der Eintrag wurde durch die Schufa Holding AG aber noch nicht zur Löschung gebracht.
+In der Zwischenzeit stellte sich heraus, dass der Eintrag seitens der Tesch Inkasso bereits im September 2019 widerrufen wurde. Dies wurde dem Kläger aber nicht mitgeteilt. Der Eintrag wurde durch die Schufa Holding AG aber dennoch nicht zur Löschung gebracht.
 
 ### **Einstweilige Verfügung erlassen**
 
 Da der Kläger von dem Widerruf des Eintrages nichts wusste, wurde am 07.11.2019, ebenfalls durch die Kanzlei AdvoAdvice, eine einstweilige Verfügung gegen die Tesch Inkasso beantragt, wonach der Eintrag zu widerrufen sei ([wir berichteten bereits hier](https://advoadvice.de/blog/lg-mainz-erl%C3%A4sst-einstweilige-verf%C3%BCgung-gegen-tesch-inkasso/)).
 
-Gegen diesen Beschluss ging die Tesch Inkasso sodann vor, um die Verpflichtung zu beseitigen. In einer mündlichen Verhandlung wurde die einstweilige Verfügung jedoch bestätigt ([zur weiteren Berichterstattung](https://advoadvice.de/blog/fortsetzung-lg-mainz-best%C3%A4tigt-einstweilige-verf%C3%BCgung-gegen-tesch-inkasso/)).
+Gegen diesen daraufhin ergangenen Gerichtsbeschluss ging die Tesch Inkasso sodann vor, um die durch das Gericht ausgesprochene Unterlassungsverpflichtung zu beseitigen. In einer mündlichen Verhandlung wurde die einstweilige Verfügung jedoch bestätigt ([zur weiteren Berichterstattung](https://advoadvice.de/blog/fortsetzung-lg-mainz-best%C3%A4tigt-einstweilige-verf%C3%BCgung-gegen-tesch-inkasso/)).
 
 Die Schufa Holding AG löschte den Negativeintrag zwischenzeitlich am 12.11.2019. Der Eintrag bestand damit für ca. vier Monate.
 
 ### **Weitreichende Folgen des Eintrages**
 
-Obgleich der Negativeintrag „nur“ vier Monate bestand, hatte dieser weitreichende Folgen für den Betroffenen. Im Urteil hei&szlig;t es dazu zusammengefasst, dass zwischen der Eintragung und der Löschung des Eintrages das Scheitern einer Immobilienfinanzierung gedroht habe. Aufgrund des Eintrages seien ihm ferner die Kreditkarten gesperrt worden, obgleich er diese für seine berufliche Tätigkeit benötige. Dies habe beides mit dem Eintrag zu tun gehabt.
+Obgleich der Negativeintrag „nur“ vier Monate bestand, hatte dieser weitreichende Folgen für den Betroffenen. Im Urteil hei&szlig;t es dazu zusammengefasst, dass zwischen der Eintragung und der Löschung des Eintrages das Scheitern einer Immobilienfinanzierung gedroht habe. Aufgrund des Eintrages seien ihm ferner die Kreditkarten gesperrt worden, obgleich er diese für seine berufliche Tätigkeit benötigte. Dies habe beides mit dem Eintrag zu tun gehabt, so das LG Mainz in seinem Urteil.
 
 Ferner sei die Kreditkartenkündigung gegenüber dem Kläger aufrechterhalten worden, auch als der Eintrag schon gelöscht war. Dies habe daran gelegen, dass die Deutsche Bank einen internen Scorewert zur Kreditwürdigkeit erstelle und der Negativeintrag dort weiter Berücksichtigung fand. Die Deutsche Bank hat dem Kläger anschlie&szlig;end mit einer Kündigung der gesamten Geschäftsbeziehung gedroht, was zu hohen Verbindlichkeiten geführt hätte.
 
-Letztlich habe der Kläger ca. 20. Stunden für Schriftverkehr, Telefonate usw. investieren müssen, um die Folgen möglichst gering zu halten. Letztlich habe er dennoch einen massiven Ansehensverlust erlitten.
+Letztlich habe der Kläger ca. zwanzig Stunden für Schriftverkehr, Telefonate usw. investieren müssen, um die Folgen des Eintrags möglichst gering zu halten. Letztlich habe er dennoch einen massiven Ansehensverlust erlitten, führte das LG Mainz in seiner Entscheidung weiter aus.
 
 ## **Rechtswidriger Eintrag und Schadensersatz**
 
-Das Landgericht Mainz arbeitete sodann auf einem 26-seitigen Urteil heraus, dass der Negativeintrag zu Unrecht gespeichert wurde und dass Schadensersatz zu zahlen sei. Aufgrund der Komplexität der Rechtsfragen und der Entscheidung wird nachstehend lediglich zusammenfassend ausgeführt:
+Das Landgericht Mainz arbeitete sodann auf einem 26-seitigen Urteil heraus, dass der Negativeintrag zu Unrecht gespeichert wurde und dass daher Schadensersatz zu zahlen sei. Aufgrund der Komplexität der Rechtsfragen und der Entscheidung wird nachstehend lediglich zusammenfassend ausgeführt:
 
 ### **Negativeintrag erfolgte zu Unrecht**
 
-Das Landgericht Mainz kam zu der Einschätzung, dass der Negativeintrag rechtswidrig war, unabhängig davon, ob die Rechtmä&szlig;igkeit nach der Datenschutzgrundverordnung oder nach dem Bundesdatenschutzgesetz zu bewerten war.
+Das Landgericht Mainz kam zu dem Urteil, dass der Negativeintrag rechtswidrig war, unabhängig davon, ob die Rechtmä&szlig;igkeit nach der Datenschutzgrundverordnung oder nach dem Bundesdatenschutzgesetz zu bewerten war.
 
 #### **Interessenabwägung und Indizwirkung**
 
@@ -77,9 +81,9 @@ Eine Rechtfertigung kam hier nur nach Nr. 1 (titulierte Forderung) und Nr. 4 (zw
 
 Ma&szlig;geblich war für das Landgericht Mainz die Frage, wie der Umstand zu bewerten ist, dass es unstreitig einen Vollstreckungsbescheid gab. Zur Erinnerung: Die Daten zu diesem Bescheid wurde im vorliegenden Fall noch vor der Zustellung beim Betroffenen an die Schufa Holding AG übermittelt.
 
-Das Landgericht Mainz stellt zunächst richtigerweise fest, dass das Gesetz nur davon spricht, dass eine titulierte Forderung vorliegen muss. Allerdings können die verschiedenen Titel, welche gerichtlich denkbar sind, nicht über einen Kamm geschert werden. In den meisten Verfahren (z.B. normales Gerichtsverfahren mit mündlicher Verhandlung etc.) wird sichergestellt, dass der Betroffene sich zu dem Vorgang äu&szlig;ern konnte und somit gegen die Forderung Einwände erheben konnte. In diesen Fällen dürfte das Bestehen eines Titels nach Einschätzung des Gerichts ausreichend sein.
+Das Landgericht Mainz stellt zunächst richtigerweise fest, dass das Gesetz nur davon spricht, dass eine titulierte Forderung vorliegen muss. Allerdings können die verschiedenen Titel, welche gerichtlich denkbar sind, nicht über einen Kamm geschoren werden. In den meisten Verfahren (z.B. normales Gerichtsverfahren mit mündlicher Verhandlung etc.) wird sichergestellt, dass der Betroffene sich zu dem Vorgang äu&szlig;ern konnte und somit gegen die Forderung Einwände erheben konnte. In diesen Fällen dürfte das Bestehen eines Titels nach Einschätzung des Gerichts ausreichend sein.
 
-Anders ist dies bei Konstellationen wie Vollstreckungsbescheiden, Versäumnisurteilen oder ähnlichen Titeln. Hier wird die betroffene Person oftmals zuvor keine Kenntnis der konkreten Zahlungspflicht haben, da diese entweder noch gar nicht feststeht oder ein anderer früherer Fehler vorlag (z.B. keine ordnungsgemä&szlig;e Zustellung des Mahnbescheides o.ä.). In diese Fällen sei der betroffenen Person eine kurze Karenzfrist zur Zahlung zu gewähren. Einen solchen Fall sah das Gericht vorliegend als gegeben an.
+Anders sei dies bei Konstellationen wie Vollstreckungsbescheiden, Versäumnisurteilen oder ähnlichen Titeln. Hier werde die betroffene Person oftmals zuvor keine Kenntnis der konkreten Zahlungspflicht haben, da diese entweder noch gar nicht feststeht oder ein anderer früherer Fehler vorlag (z.B. keine ordnungsgemä&szlig;e Zustellung des Mahnbescheides o.ä.). In diese Fällen sei der betroffenen Person eine kurze Karenzfrist zur Zahlung zu gewähren. Einen solchen Fall sah das Gericht vorliegend als gegeben an.
 
 ### **Immaterieller Schadensersatz**
 
@@ -91,14 +95,14 @@ Sodann führte das Gericht aus, dass der Kläger keinen bezifferbaren Schaden vo
 
 *„Der Kläger hat plausibel und im Kern unbestritten dargelegt, durch den SCHUFA-Eintrag eine massive Beeinträchtigung seines sozialen Ansehens im Sinne der Einschätzung seiner Kreditwürdigkeit durch Dritte erlitten zu haben. Die Beklagte hat lediglich die weitere Behauptung des Klägers in Abrede gestellt, die konkret in Rede stehende Einmeldung der Beklagten an die SCHUFA Holding AG sei auch ursächlich dafür gewesen, dass dem Kläger Kreditkarten gesperrt worden seien und dass seine Immobilienfinanzierung gefährdet gewesen sei. Für diese damit verbundene Verletzung des allgemeinen Persönlichkeitsrechts des Klägers erachtet die Kammer einen Schadenersatzanspruch von 5.000,- € als angemessen, aber auch ausreichend.“*
 
-Damit stellt das Gericht klar, dass auch der immaterielle Schaden durchaus hoch ausfallen kann. Es sind aber immer auch die Umstände des Einzelfalles zu berücksichtigen, sodass man diesen Wert nicht ungefiltert auf alle Konstellationen und Schufa-Einträge übertragen kann. Gleichzeitig kann bei entsprechenden Nachweisen ein hoher Ersatzanspruch berechtigt sein.
+Damit stellt das Gericht klar, dass auch der immaterielle Schaden durchaus hoch ausfallen kann. Es sind aber immer auch die Umstände des Einzelfalles zu berücksichtigen, sodass man diesen Wert nicht ungefiltert auf alle Konstellationen und Schufa-Einträge übertragen kann. Gleichzeitig kann bei entsprechenden Nachweisen auch ein noch höherer Ersatzanspruch berechtigt sein z.B. dann, wenn dem Betroffenen ein wesentlich grö&szlig;erer Ansehensverlust entstanden ist.&nbsp;
 
 ## **Abschlie&szlig;ende Einschätzung durch AdvoAdvice**
 
-Die Experten der Kanzlei AdvoAdvice zeigten sich erfreut und erleichtert über diesen Erfolg vor dem Landgericht Mainz. Die zuständigen Partner Dr. Tintemann und Dr. Rohrmoser sind angesichts des langen Verfahrensverlaufes (Klageeinreichung im Februar 2020) mit dem Ergebnis zufrieden. Dr. Rohrmoser fasste zusammen:
+Die Experten der Kanzlei AdvoAdvice zeigten sich erfreut und erleichtert über diesen Erfolg vor dem Landgericht Mainz. Die zuständigen Partner Rechtsanwalt Dr. Sven Tintemann und Rechtsanwalt Dr. Raphael Rohrmoser sind angesichts des langen Verfahrensverlaufes (Klageeinreichung im Februar 2020) mit dem Ergebnis zufrieden. Dr. Rohrmoser fasste die Sache wie folgt zusammen:
 
 *„Es ist bei Verstö&szlig;en gegen die DSGVO immer wichtig, die Konsequenzen und Folgen im Blick zu haben und auch entsprechende Nachweise zu sammeln. Mit diesen Nachweisen kann, wie vorliegend bei einem unberechtigten Schufa-Eintrag, ein immaterieller Schaden geltend gemacht werden. Das Urteil des LG Mainz geht dabei mit der Höhe des Ersatzanspruches weit über die bisherigen Urteile hinaus, welche sich zumeist in einem Maximalbereich von 1.000,00 Euro bis 2.000,00 Euro bewegten. Am vorliegenden Fall kann man aber gut sehen, welche Auswirkungen ein negativer Eintrag haben kann und dass ein solcher weder vorschnell veranlasst noch in Kauf genommen werden sollte.“*
 
-Die Tesch Inkasso kann gegen dieses Urteil nunmehr in Berufung gehen. Auch der Kläger hat die Möglichkeit eine Berufung einzureichen, um den vollständig geltend gemachten Schaden zu erstreiten. Der finale Ausgang des Rechtsstreits bleibt damit offen.
+Die Tesch Inkasso kann gegen dieses Urteil nunmehr in Berufung gehen. Auch der Kläger hat die Möglichkeit eine Berufung einzureichen, um den&nbsp; vollen, geltend gemachten Schadensersatzanspruch zu erstreiten. Der finale Ausgang des Rechtsstreits bleibt damit offen.
 
-Sollten auch Sie Hilfe bei der Geltendmachung von Schadensersatzansprüchen wegen Datenschutzverletzungen benötigen oder negative Einträge bei Auskunfteien beseitigen wollen, dann zögern Sie nicht uns unter 030 / 921 000 40 oder [info@advoadvice.de](mailto:info@advoadvice.de) zu kontaktieren.
+Sollten auch Sie Hilfe bei der Geltendmachung von Schadensersatzansprüchen wegen Datenschutzverletzungen benötigen oder negative Einträge bei Auskunfteien beseitigen wollen, dann zögern Sie nicht, uns unter 030 / 921 000 40 oder [info@advoadvice.de](mailto:info@advoadvice.de) zu kontaktieren.
