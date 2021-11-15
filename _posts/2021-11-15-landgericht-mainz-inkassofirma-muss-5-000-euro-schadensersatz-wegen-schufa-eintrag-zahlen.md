@@ -2,7 +2,7 @@
 title: >-
     Landgericht Mainz: Inkassofirma muss 5.000 Euro Schadensersatz wegen
     Schufa-Eintrag zahlen
-date: 2021-11-15 17:50:00
+date: 2021-11-15 16:50:00
 description: >-
     Inkassounternehmen zur Zahlung von Schadensersatz nach fehlerhaftem
     Schufa-Eintrag verurteilt.
