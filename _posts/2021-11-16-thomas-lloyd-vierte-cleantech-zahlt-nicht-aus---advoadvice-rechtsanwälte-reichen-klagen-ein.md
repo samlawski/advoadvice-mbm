@@ -2,7 +2,7 @@
 title: >-
     Thomas Lloyd: Vierte Cleantech zahlt nicht aus - AdvoAdvice  Rechtsanwälte
     reichen Klagen ein
-date: 2021-11-16 00:00:00
+date: 2021-11-16 18:00:00
 description: >-
     Alarmierte Anleger bei der Vierte Cleantech Infrastrukturgesellschaft mbH
     wollen nun in Anbetracht der Erklärungen der Thomas Lloyd Gruppe ihre
@@ -25,19 +25,17 @@ topics:
     - thomas-lloyd-anlegergemeinschaft
 author: kim-oliver-klevenhagen
 ---
-&nbsp;
-
-Die Vierte Cleantech Infrastrukturgesellschaft mbH&nbsp; ("VCI") wurde aus der Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger Beträge in der Hoffnung investiert, hier eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
+Die Vierte Cleantech Infrastrukturgesellschaft mbH ("VCI") wurde aus der Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger Beträge in der Hoffnung investiert, hier eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
 
 ## Anleger erhalten Schreiben der Vierten Cleantech Infrastrukturgesellschaft mbH (“VCI”)
 
-Die&nbsp; Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) leistet weiterhin keine Rückzahlungen an Anleger, obwohl die Laufzeiten und Auszahlungsfälligkeiten der von den von AdvoAdvice Rechtsanwälten vertretenen Anlegern abgeschlossenen Beteiligungsverträgen und Genussrechten längst abgelaufen und eingetreten sind.&nbsp;
+Die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) leistet weiterhin keine Rückzahlungen an Anleger, obwohl die Laufzeiten und Auszahlungsfälligkeiten der von den von AdvoAdvice Rechtsanwälten vertretenen Anlegern abgeschlossenen Beteiligungsverträgen und Genussrechten längst abgelaufen und eingetreten sind.
 
 Bereits im Februar 2019 gründete die Berliner Kanzlei AdvoAdvice Rechtsanwälte mbB die Anlegergemeinschaft Thomas Lloyd, um Anlegern der Thomas Lloyd Gruppe die Möglichkeit zu geben, sich gemeinsam in Bezug auf die Verschmelzung der Anlagegesellschaften und die Umwandlung der Anlagen zu formieren.
 
-Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Au&szlig;erdem wurden eine Vielzahl von Klagen an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
+Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Außerdem wurden eine Vielzahl von Klagen an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
 
-Nachdem die Thomas LLoyd Gruppe im Namen der VCI Mitte Juli an auszahlungsberechtige &nbsp;Anleger ein langes Erklärungsschreiben richtete, [AdvoAdvice Rechtsanwälte berichteten](https://advoadvice.de/blog/thomas-lloyd-vierte-cleantech-infrastrukturgesellschaft-mbh-zahlt-nicht-aus-anleger-erhalten-hinhalteschreiben/), warum denn trotz der Fälligkeit der Auszahlungen hier diese mit Hinweis auf die Genussrechtsbedingungen nicht erfolgen könnten, haben sich eine Vielzahl von Anlegern an AdvoAdvice gewandt und um die Durchsetzung der fälligen Auszahlungsansprüche in die Wege zu leiten.
+Nachdem die Thomas LLoyd Gruppe im Namen der VCI Mitte Juli an auszahlungsberechtige Anleger ein langes Erklärungsschreiben richtete, [AdvoAdvice Rechtsanwälte berichteten](https://advoadvice.de/blog/thomas-lloyd-vierte-cleantech-infrastrukturgesellschaft-mbh-zahlt-nicht-aus-anleger-erhalten-hinhalteschreiben/), warum denn trotz der Fälligkeit der Auszahlungen hier diese mit Hinweis auf die Genussrechtsbedingungen nicht erfolgen könnten, haben sich eine Vielzahl von Anlegern an AdvoAdvice gewandt und um die Durchsetzung der fälligen Auszahlungsansprüche in die Wege zu leiten.
 
 ## Begründung der VCI zur Verhinderung von Auszahlungen - Anleger werden vertröstet
 
@@ -47,7 +45,7 @@ Vielmehr hat die Vierte Cleantech Infrastrukturgesellschaft mbH schriftlich mitt
 
 ## Nicht einfach hinhalten lassen\! Handlungsbedarf prüfen.
 
-Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermä&szlig;ig hinhalten zu lassen.
+Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermäßig hinhalten zu lassen.
 
 Oft kann hier die Einschaltung eines Spezialisten im Bereich des Bank, und Kapitalmarktrecht schnell zu einer Auszahlung des eigenen Guthabens führen.
 
@@ -55,8 +53,6 @@ Die spezialisierten Rechts- und Fachanwälte der Kanzlei AdvoAdvice in Berlin ha
 
 ## Unsere Anlegergemeinschaft bündelt die Interessen und sorgt für eine Wissenskonzentration.
 
-Schlie&szlig;en Sie sich gerne unserer Anlegergemeinschaft&nbsp; Vierte Cleantech ab. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
+Schließen Sie sich gerne unserer Anlegergemeinschaft Vierte Cleantech ab. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbar erst Einschätzung, damit sie wissen, wo sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für sie wirtschaftlich sinnvoll wäre.
-
-&nbsp;
