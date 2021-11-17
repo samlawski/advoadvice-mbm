@@ -2,7 +2,7 @@
 title: >-
     Thomas Lloyd: Vierte Cleantech zahlt nicht aus - AdvoAdvice  Rechtsanwälte
     reichen Klagen ein
-date: 2021-11-16 18:00:00
+date: 2021-11-15 18:00:00
 description: >-
     Alarmierte Anleger bei der Vierte Cleantech Infrastrukturgesellschaft mbH
     wollen nun in Anbetracht der Erklärungen der Thomas Lloyd Gruppe ihre
