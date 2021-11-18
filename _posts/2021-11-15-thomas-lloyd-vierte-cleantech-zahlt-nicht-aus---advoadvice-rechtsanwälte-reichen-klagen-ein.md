@@ -25,21 +25,17 @@ topics:
     - thomas-lloyd-anlegergemeinschaft
 author: kim-oliver-klevenhagen
 ---
-Die Vierte Cleantech Infrastrukturgesellschaft mbH ("VCI") wurde aus der Thomas Lloyd Private Wealth GmbH geschaffen. In diese Gesellschaft hatten bereits zahlreiche Anleger Beträge in der Hoffnung investiert, hier eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
+Die Thomas Lloyd Private Wealth AG wurde in die Thomas Lloyd Private Wealth GmbH umgewandelt, nur um dann letztendlich 2016 in die nun das Anlagevermögen verwaltende "Vierte Cleantech Infrastrukturgesellschaft mbH" oder "VCI" zu verschmelzen.
 
-Dies geschah damals noch bei der Thomas Lloyd Private Wealth AG. Dort wurde unter anderem das Anlageprodukt &nbsp; „Thomas Lloyd Absolute Return Managed Portfolio Growth 2009“ angeboten.
-
-Die Thomas Lloyd Private Wealth AG &nbsp;wurde dann im Nachgang in die Thomas Lloyd Private Wealth GmbH umgewandelt, nur um dann letztendlich 2016 in die nun das Anlagevermögen verwaltende "Vierte Cleantech Infrastrukturgesellschaft mbH" oder "VCI" zu verschmelzen.
+Die von den Anlegern bei der Geldanlage gezeichneten verbrieften Genussscheine wurden in diesem Vorgang auch zu Genussrechten umgewandelt. Diese bemerkenswerte Entwicklung hat nun dazu geführt, dass dass Anleger berichten, ihnen zustehende Auszahlungen aus Genussrechten würden von der VCI unter Hinweis auf die Genussrechtsbedingungen bislang nicht ausgezahlt werden
 
 Bereits im Februar 2019 gründete die Berliner Kanzlei AdvoAdvice Rechtsanwälte mbB die Anlegergemeinschaft Thomas Lloyd, um Anlegern der Thomas Lloyd Gruppe die Möglichkeit zu geben, sich gemeinsam in Bezug auf die Verschmelzung der Anlagegesellschaften und die Umwandlung der Anlagen zu formieren.
 
 Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Au&szlig;erdem wurden eine Vielzahl von Klagen an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
 
-Die von den Investoren bei Anlage gezeichneten verbrieften Genussscheine wurden in diesem Vorgang auch zu Genussrechten umgewandelt. Diese bemerkenswerte Entwicklung hat nun dazu geführt, dass dass Anleger berichten, ihnen zustehenden Genussrechte würden von der VCI unter Hinweis auf die Genussrechtsbedingungen bislang nicht ausgezahlt werden.
-
 ## Anleger erhalten Schreiben der Vierten Cleantech Infrastrukturgesellschaft mbH (“VCI”)
 
-Die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) leistet also weiterhin keine Rückzahlungen an Anleger, obwohl die betreffenden Laufzeiten und Fälligkeiten der Genussrechte nach Auskunft der betroffenen Anleger längst abgelaufen und eingetreten sind und auch Kündigungen seitens der Anleger ausgesprochen wurden.
+Die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) leistet also nach Auskunft von Anlegern wohl weiterhin keine Rückzahlungen an diese, obwohl die betreffenden Laufzeiten und Fälligkeiten der Genussrechte nach Auskunft der betroffenen Anleger längst abgelaufen und eingetreten sind und auch Kündigungen seitens der Anleger ausgesprochen wurden.
 
 Nachdem die Thomas Loyd Gruppe dann durch die VCI Mitte Juli 2021 an betroffene Anleger ein langes Erklärungsschreiben richtete, [AdvoAdvice Rechtsanwälte berichteten](https://advoadvice.de/blog/thomas-lloyd-vierte-cleantech-infrastrukturgesellschaft-mbh-zahlt-nicht-aus-anleger-erhalten-hinhalteschreiben/), warum denn trotz der Fälligkeit der Auszahlungen hier diese mit Hinweis auf die Genussrechtsbedingungen nicht erfolgen könnten, haben sich eine Vielzahl von Anlegern an AdvoAdvice gewandt und um die Durchsetzung der fälligen Auszahlungsansprüche in die Wege zu leiten.
 
