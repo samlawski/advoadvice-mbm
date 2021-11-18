@@ -1,14 +1,13 @@
 ---
-title: Eintrag der GFKL PayProtect GmbH bei Schufa Holding AG gelöscht.
+title: Eintrag von Inkassofirma bei Schufa Holding AG gelöscht.
 date: 2021-09-21 00:00:00
 description: >-
-  GFKL PayProtect GmbH widerruft Eintrag in Schufa Datenbestand über eine
-  bereits durch Ratenzahlung erledigte Forderung.
+  Inkassounternehmen widerruft Eintrag in Schufa Datenbestand über eine bereits
+  durch Ratenzahlung erledigte Forderung.
 layout: post
 style_id: post
 image: /uploads/dsgvo-4263955-1280.jpg
 tags:
-  - GFKL PayProtect GmbH
   - Schufa Holding AG
   - Eintrag
   - Ratenzahlung
@@ -17,37 +16,38 @@ tags:
   - Erledigung
   - Widerruf
   - Fehler
+  - Inkassounternehmen
+  - Inkassofirma
+  - Inkasso
 topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-Bei der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin meldete sich ein Mandant aus Schönefeld und teilte mit, die Inkassofirma GFKL PayProtect GmbH, ein Unternehmen der Lowell Gruppe) habe über ihn einen Negativeintrag bei der Schufa Holding AG lanciert.&nbsp;
+Bei der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin meldete sich ein Mandant aus Schönefeld und teilte mit, eine Inkassofirma habe über ihn einen Negativeintrag bei der Schufa Holding AG lanciert.&nbsp;
 
 ## Zum Hintergrund des Eintrags
 
-Der Eintrag war erfolgt, obwohl der Betroffene auf eine offene titulierte &nbsp;Forderung aus dem Jahr 1998 seit mehreren Jahren eine Rate von 100,00 Euro an die Firma Domnowski Inkasso GmbH geleistet hatte. Mit Domnowski Inkasso war eine Vereinbarung zur Zahlung von insgesamt 9.000 Euro abgeschlossen worden mit einem Verzicht auf die darüber hinausgehende Forderung, wenn ordnungsgemä&szlig; gezahlt wurde. Den Betrag von insgesamt 9.000 Euro hatte der betroffene abbezahlt. Daher konnte sich der Schönefelder Unternehmer den Negativeintrag nicht erklären.&nbsp;
+Der Eintrag war erfolgt, obwohl der Betroffene auf eine offene titulierte &nbsp;Forderung aus dem Jahr 1998 seit mehreren Jahren eine Rate von 100,00 Euro geleistet hatte. Mit der Inkassofirma war eine Vereinbarung zur Zahlung von insgesamt 9.000 Euro abgeschlossen worden mit einem Verzicht auf die darüber hinausgehende Forderung, wenn ordnungsgemä&szlig; gezahlt wurde. Den Betrag von insgesamt 9.000 Euro hatte der Betroffene abbezahlt. Daher konnte sich der Schönefelder Unternehmer den Negativeintrag nicht erklären.&nbsp;
 
-Er wandte sich daher zunächst selbst an die GFKL PayProtect mit Schreiben vom 09.12.2020 und bat um Aufklärung sowie Löschung des Eintrag bei der Schufa.&nbsp;
+Er wandte sich daher zunächst selbst an die Inkassofirma mit Schreiben vom 09.12.2020 und bat um Aufklärung sowie Löschung des Eintrag bei der Schufa.&nbsp;
 
 Da keine Löschung erfolgte, wandte sich der betroffene Unternehmer an die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin.&nbsp;
 
-## GFKL räumt Fehler ein und übernimmt Anwaltskosten
+## Inkassofirma räumt Fehler ein und übernimmt Anwaltskosten
 
-Auf das Schreiben der Kanzlei AdvoAdvice meldete sich die GFKL PayProtect GmbH und räumte Fehler bei der Bearbeitung der Angelegenheit ein. Leider sei der im Vergleich enthaltene Vergleichsbetrag systemseitig nicht ordnungsgemä&szlig; dargestellt worden. Dies führte bedauerlicherweise dazu, dass die Erledigung nach vollständigem Ausgleich nicht erfolgte, so die GFKL in einem Schreiben vom 13.09.2021.&nbsp;
+Auf das Schreiben der Kanzlei AdvoAdvice meldete sich die Inkassofirma und räumte Fehler bei der Bearbeitung der Angelegenheit ein. Leider sei der im Vergleich enthaltene Vergleichsbetrag systemseitig nicht ordnungsgemä&szlig; dargestellt worden. Dies führte bedauerlicherweise dazu, dass die Erledigung nach vollständigem Ausgleich nicht erfolgte, so die Inkassofirma in einem Schreiben vom 13.09.2021.&nbsp;
 
-Der Schufa Holding AG sie nunmehr der korrekte Erledigungszeitpunkt mitgeteilt worden, so dass eine Löschung in Kürze erfolgen sollte, schrieb die GFKL weiter in dem Entschuldigungsschreiben.&nbsp;
+Der Schufa Holding AG sie nunmehr der korrekte Erledigungszeitpunkt mitgeteilt worden, so dass eine Löschung in Kürze erfolgen sollte, schrieb die Inkassofirma weiter in dem Entschuldigungsschreiben.&nbsp;
 
 Die Löschung des Negativeintrags erfolgte danach schnell und unkompliziert, so dass sich der Scorewert des betroffenen Mandanten von zunächst 20,22% auf 98,55% erholte.&nbsp;
 
 Der betroffene Unternehmer bedankte sich bei Rechtsanwalt Dr. Tintemann dafür, dass er nun wieder ein "normales Leben" führen könne.&nbsp;
 
-Leider wurde zunächst eine Kostenübernahme der Anwaltskosten&nbsp; durch die GFKL PayProtect GmbH abgelehnt mit der Ausrede, der Mandant habe selbst mitteilen können, dass der Vergleich vollständig ausgeglichen sei. Eine anwaltliche Unterstützung hätte es hierfür nicht bedurft.&nbsp;
+Leider wurde zunächst eine Kostenübernahme der Anwaltskosten &nbsp;durch die Inkassofirma abgelehnt mit der Ausrede, der Mandant habe selbst mitteilen können, dass der Vergleich vollständig ausgeglichen sei. Eine anwaltliche Unterstützung hätte es hierfür nicht bedurft.&nbsp;
 
 Rechtsanwalt Dr. Sven Tintemann hielt hierzu noch einmal gegen und forderte erneut die Übernahme der entstandenen Anwaltskosten, da der Mandant es sehr wohl bereits ohne anwaltliche Hilfe und unter Fristsetzung versucht hatte, die Sache zu klären.&nbsp;
 
-Daraufhin erklärte sich die GFKL dazu bereit, die entstanden Anwaltskosten zu einem Gro&szlig;teil zu übernehmen.&nbsp;
-
-Mit einer Veröffentlichung des Falls war die GFKL allerdings nicht einverstanden. Die Kanzlei AdvoAdvice ist jedoch der Auffassung, dass hier wohl die Presse- und Meinungsäu&szlig;erungsfreiheit eingreifen dürfte, weshalb eine Berichterstattung auch ohne Zustimmung der GFKL zulässig ist.&nbsp;
+Daraufhin erklärte sich die Inkassofirma dazu bereit, die entstanden Anwaltskosten zu einem Gro&szlig;teil zu übernehmen.&nbsp;
 
 ## Fazit von AdvoAdvice
 
