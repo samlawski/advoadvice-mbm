@@ -6,7 +6,7 @@ date: 2021-11-16 00:00:00
 description: Schufa-Eintrag zur Löschung gebracht, weil Betroffener im Ausland lebte.
 layout: post
 style_id: post
-image: /uploads/blog-banner-schufa-einträge---synergie-1.jpg
+image: /uploads/blog-banner-schufa-einträge---synergie-inkasso.jpg
 tags:
     - Schufa Eintrag
     - Schufa Recht
