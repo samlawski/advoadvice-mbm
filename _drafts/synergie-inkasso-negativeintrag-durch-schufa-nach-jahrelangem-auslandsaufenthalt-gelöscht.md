@@ -2,7 +2,7 @@
 title: >-
     Synergie Inkasso: Negativeintrag durch Schufa nach jahrelangem
     Auslandsaufenthalt gelöscht
-date: 2021-11-16 08:46:22
+date: 2021-11-16 00:00:00
 description: Schufa-Eintrag zur Löschung gebracht, weil Betroffener im Ausland lebte.
 layout: post
 style_id: post
