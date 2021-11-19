@@ -6,7 +6,7 @@ date: 2021-11-19 00:00:00
 description: Schufa Holding AG löscht Eintrag, weil Betroffener im Ausland lebte.
 layout: post
 style_id: post
-image: /uploads/blog-banner-schufa-einträge-1-1.jpg
+image: /uploads/advoadvice-01-45-von-80.jpg
 tags:
     - Schufa Eintrag
     - Schufa Recht
