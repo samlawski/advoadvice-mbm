@@ -8,7 +8,7 @@ description: >-
     (Oder) gelöscht.
 layout: post
 style_id: post
-image: /uploads/blog-banner-schufa-einträge---advanzia.png
+image: /uploads/lg-frankfurt-oder-3.jpg
 tags:
     - Schufa Eintrag
     - Schufa Recht
