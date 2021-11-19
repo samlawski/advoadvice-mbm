@@ -2,7 +2,7 @@
 title: >-
     Advanzia Bank: Negativeintrag nach Verfahren vor dem LG Frankfurt/Oder
     gelöscht.
-date: 2021-11-11 14:20:14
+date: 2021-11-22 00:00:00
 description: >-
     Schufa-Eintrag der Advanzia Bank nach Verhandlung vor dem LG Frankfurt/Oder
     gelöscht.
@@ -26,7 +26,7 @@ topics:
     - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Zum Aktenzeichen 19 O 118/20 wurde in den letzten eineinhalb Jahren ein Verfahren vor dem Landgericht Frankfurt/Oder geführt. Es ging um einen negativen Schufa-Eintrag der Advanzia Bank S.A. (fortan: Advanzia Bank). Diese veranlasste im April 2019 einen Schufa-Eintrag über etwas mehr als 1.000,00 Euro zu einer jungen Frau, obwohl die Eintragung nicht hätte vorgenommen werden dürfen.&nbsp;
+Zum Aktenzeichen 19 O 118/20 wurde in den letzten eineinhalb Jahren ein Verfahren vor dem Landgericht Frankfurt/Oder geführt. Es ging um einen negativen Schufa-Eintrag der Advanzia Bank S.A. (fortan: Advanzia Bank). Diese veranlasste im April 2019 einen Schufa-Eintrag über etwas mehr als 1.000,00 Euro zu einer jungen Frau, obwohl die Eintragung nicht hätte vorgenommen werden dürfen.
 
 ## **Sachverhalt**
 
@@ -42,9 +42,9 @@ Im Oktober erhielt die Klägerin Kenntnis des Eintrages und forderte die eintrag
 
 ## **Gerichtsverfahren**
 
-Das Landgericht Frankfurt/Oder musste am Ende des Tages nur noch über die Kosten entscheiden, da die Advanzia Bank nach der mündlichen Verhandlung den Negativeintrag noch vor dem Urteil zur Löschung bringen lie&szlig;.
+Das Landgericht Frankfurt/Oder musste am Ende des Tages nur noch über die Kosten entscheiden, da die Advanzia Bank nach der mündlichen Verhandlung den Negativeintrag noch vor dem Urteil zur Löschung bringen ließ.
 
-Das Gericht verwies zunächst darauf, dass die Kündigungserklärung bei der Betroffenen nicht zugegangen war. Dies wurde au&szlig;ergerichtlich und gerichtlich von der Klägerin vorgetragen. Das Gericht schrieb, dass die insoweit darlegungs- und beweisbelastete Beklagte den Nachweis des Zugangs dieses Schreibens nicht erbracht habe.
+Das Gericht verwies zunächst darauf, dass die Kündigungserklärung bei der Betroffenen nicht zugegangen war. Dies wurde außergerichtlich und gerichtlich von der Klägerin vorgetragen. Das Gericht schrieb, dass die insoweit darlegungs- und beweisbelastete Beklagte den Nachweis des Zugangs dieses Schreibens nicht erbracht habe.
 
 In der Folge sind die Daten (Forderungssumme von über 1.000,00 Euro), welche an die Schufa Holding AG übermittelt wurden, von vornherein unrichtig, weshalb an einer solchen Datenübermittlung kein berechtigtes überwiegendes Interesse besteht.
 
@@ -54,7 +54,7 @@ Das Gericht verwies jedoch darauf, dass selbst dann, wenn dem so gewesen wäre, 
 
 *„Vor diesem Hintergrund - Einmeldung eines Abwicklungskontos mit einer am 03.04.2019 fällig gestellten Forderung in Höhe von 1.042,00 € bei fehlendem Nachweis des Zugangs der Kündigung und damit der Voraussetzung für die Fälligkeit der Forderung - und den möglichen Folgen einer falschen Negativmeldung bei der Schufa Holding AG für die Klägerin in Form von Herbstufung ihrer Kreditwürdigkeit, ggf. Kündigung bestehender Verträge und damit ggf. Schwierigkeiten beim Abschluss von Neuverträgen überwiegen die Interessen der Klägerin die Interessen der Beklagten an der Meldung des Sachverhalts bei der Schufa Holding AG als Warnsystem der Deutschen Kreditwirtschaft.“*
 
-Das Gericht urteilte letztlich einen Teil der au&szlig;ergerichtlichen Kosten zugunsten der Klägerin aus und stellte zugleich klar, dass die Beklagte 95 % der Kosten des Rechtsstreits zu tragen habe.
+Das Gericht urteilte letztlich einen Teil der außergerichtlichen Kosten zugunsten der Klägerin aus und stellte zugleich klar, dass die Beklagte 95 % der Kosten des Rechtsstreits zu tragen habe.
 
 ## **Einschätzung durch AdvoAdvice**
 
@@ -62,6 +62,6 @@ Es ist erfreulich, dass das Gericht in dieser Klarheit formuliert hat, dass der 
 
 Rechtsanwalt Dr. Rohrmoser fasst das Verfahren wie folgt zusammen:
 
-*„Es ist bei negativen Einträgen bei Auskunfteien immer wichtig, darauf zu achten, ob entsprechende Mahn- oder Kündigungsschreiben zugegangen sind oder nicht. Sollten diese nicht zugegangen sein, ist ein Eintrag in der Regel unrichtig und rechtswidrig, sofern es keinen gerichtlichen Titel gibt. Ein Widerruf der Forderung oder die Beantragung der Löschung erfolgt von den Unternehmen aber oftmals dennoch nicht, da diese die Schreiben per normaler Briefpost versenden und deshalb regelmä&szlig;ig von einem ordnungsgemä&szlig;en Zugang der Schreiben ausgehen. Gleichzeitig merken die Gerichte immer wieder an, dass der Versand eines Schreibens seinen Zugang gerade noch nicht beweist.“*
+*„Es ist bei negativen Einträgen bei Auskunfteien immer wichtig, darauf zu achten, ob entsprechende Mahn- oder Kündigungsschreiben zugegangen sind oder nicht. Sollten diese nicht zugegangen sein, ist ein Eintrag in der Regel unrichtig und rechtswidrig, sofern es keinen gerichtlichen Titel gibt. Ein Widerruf der Forderung oder die Beantragung der Löschung erfolgt von den Unternehmen aber oftmals dennoch nicht, da diese die Schreiben per normaler Briefpost versenden und deshalb regelmäßig von einem ordnungsgemäßen Zugang der Schreiben ausgehen. Gleichzeitig merken die Gerichte immer wieder an, dass der Versand eines Schreibens seinen Zugang gerade noch nicht beweist.“*
 
-Sollten Sie einen negativen Eintrag bei einer Auskunftei haben, ist es ratsam sich zeitnah die Hilfe eines Experten zu suchen, welcher die Rechtmä&szlig;igkeit einer Datenübermittlung bzw. des Eintrages aufarbeiten und in der Folge gegen den Eintrag vorgehen kann. Die Kanzlei AdvoAdvice ist auf derartige Fälle spezialisiert und steht Ihnen gerne unter 030 / 921 000 40 oder [info@advoadvice.de](mailto:info@advoadvice.de) zur Verfügung.
+Sollten Sie einen negativen Eintrag bei einer Auskunftei haben, ist es ratsam sich zeitnah die Hilfe eines Experten zu suchen, welcher die Rechtmäßigkeit einer Datenübermittlung bzw. des Eintrages aufarbeiten und in der Folge gegen den Eintrag vorgehen kann. Die Kanzlei AdvoAdvice ist auf derartige Fälle spezialisiert und steht Ihnen gerne unter 030 / 921 000 40 oder [info@advoadvice.de](mailto:info@advoadvice.de) zur Verfügung.
