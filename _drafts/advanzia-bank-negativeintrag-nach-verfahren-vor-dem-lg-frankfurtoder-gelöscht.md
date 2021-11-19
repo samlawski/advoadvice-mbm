@@ -24,7 +24,7 @@ tags:
     - Landgericht Frankfurt (Oder)
 topics:
     - schufa-und-datenschutz
-author: dr--raphael-rohrmoser
+author: dr-sven-tintemann
 ---
 Die Kanzlei AdvoAdvice konnte einen weiteren Erfolg im Kampf gegen Negativeinträge bei der Schufa Holding AG von Banken und Kreditinstituten erzielen. Hierzu war leider eine Klage vor dem Landgericht Frankfurt (Oder) notwendig.
 
