@@ -2,7 +2,7 @@
 title: >-
   Schufa Holding AG löscht Negativeintrag der Telekom Deutschland GmbH nach
   fragwürdiger Postübersendung an Lagerhalle 
-date: 2021-12-01 00:00:00
+date: 2021-11-30 00:00:00
 description: >-
   Negativeintrag der Telekom Deutschland GmbH durch Schufa Holding AG nach
   Einschreiten von AdvoAdvice gelöscht.
