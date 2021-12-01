@@ -29,6 +29,12 @@ Das klagende Speditionsunternehmen hat innerhalb von ca. 1,5 Jahren rund 12.000,
 
 Somit konnte das klagende Unternehmen zusammengerechnet mehr als 8 % der gezahlten Maut zurückfordern.
 
+## Maut-Neuberechnung und Rückforderung
+
+Die dem Urteil zugrundeliegenden Erwägungen dürften auch auf die Folgejahre anwendbar sein. Die Bundesrepublik Deutschland hat die LKW Maut bereits rückwirkend zum Oktober 2020, also dem Zeitpunkt des EuGH-Urteils, neu berechnet. Eine Rückforderung der Teilbeträge ist über ein Online-Portal möglich. Weitergehende Ansprüche müssen jedoch eventuell gesondert geltend gemacht werden.
+
+Die Ausführungen des Urteils betreffen unmittelbar offenbar nur den Zeitraum 2010 und 2011. Die grundlegenden Fehler in der Kalkulation dürften sich jedoch in den Folgejahren wiederholt haben. Insofern können auch Erstattungen für die letzten Jahre erreicht werden.
+
 ## **Schnell Handeln\! Verjährung für 2018 droht\!**
 
 Betroffene Speditionsunternehmen sollten nunmehr schnell tätig werden und ggf. die Ansprüche der vergangenen Jahre konkretisieren, um alle Ansprüche geltend zu machen. Die bisher geltend gemachten Ansprüche müssen dabei ggf. erweitert werden, da das OVG Münster hier neue Möglichkeiten eröffnet. Wichtig ist jedoch, dass die Ansprüche des Jahres 2018 mit **Ablauf des 31.12.2018** verjähren. Es muss daher schnell gehandelt werden.
