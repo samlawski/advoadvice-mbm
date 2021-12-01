@@ -1,9 +1,9 @@
 ---
-title: >-
-  OVG Münster: LKW Maut war teilweise unzulässig – jetzt Geld zurückfordern und
-  weitere Ansprüche geltend machen
+title: 'OVG Münster: LKW Maut  teilweise unzulässig – Rückzahlung bis zu 8% möglich.'
 date: 2021-12-01 09:12:43
-description: LKW-Maut für teilweise europarechtswidrig erklärt
+description: >-
+  Oberverwaltungsgericht Münster erklärt Höhe der Autobahnmaut für LKW für
+  unzulässig und ermöglicht Rückzahlungsansprüche von mehr als 8%.
 layout: post
 style_id: post
 image: /uploads/blog-banner-lkw-maut.jpg
@@ -16,6 +16,8 @@ tags:
   - Schadensersatz
   - Erstattung
   - Verjährung
+  - Oberverwaltungsgericht Münster
+  - Autobahn-Maut
 topics:
 author: dr--raphael-rohrmoser
 ---
