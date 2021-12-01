@@ -50,4 +50,12 @@ Rechtsanwalt Dr. Sven Tintemann wandte sich daher an die Telekom Deutschland Gmb
 
 Mit Schreiben vom 25.11.2021 teilte die Schufa Holding AG dann mit, die Daten nach Überprüfung des Vorgangs und vor dem Hintergrund der vorliegenden Informationen ohne Anerkennung einer Rechtspflicht zu löschen.&nbsp;
 
-&nbsp;
+## Schnelle Hilfe über kompetente Rechtsanwälte
+
+Der Fall zeigt einmal mehr, dass es sich lohnt, kompetente Rechtsanwälte mit der Hilfe gegen negative Schufa Einträge zu beauftragen.&nbsp;
+
+Der Eintrag konnte hier bereits 15 Tage nach der ersten Kontaktaufnahme des Mandanten mit Rechtsanwalt Dr. Tintemann zur Löschung gebracht werden.&nbsp;
+
+Zuvor hatte es der betroffene Mandant leider mehrere Monate selbst und ohne Erfolg versucht, den Eintrag loszuwerden.&nbsp;
+
+Die Telekom Deutschland GmbH wurde nunmehr zur Übernahme der entstandenen Rechtsanwaltskosten aufgefordert.
