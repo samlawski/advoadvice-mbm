@@ -2,27 +2,28 @@
 layout: simple_page
 style_id: simple_page
 title: Impressum
-description: AdvoAdvice ist eine Kanzlei von erfahrenen Rechtsanwälten aus Berlin. Unsere Gebiete sind Bank- und Kapitalmarktrecht, Schufarecht, Immobilienrecht und mehr.
+description: >-
+  AdvoAdvice ist eine Kanzlei von erfahrenen Rechtsanwälten aus Berlin. Unsere
+  Gebiete sind Bank- und Kapitalmarktrecht, Schufa-Recht, Immobilienrecht,
+  Datenschutzrecht und Mietrecht.
 intro_zeigen: true
 intro_markdown: Melden Sie sich gerne bei uns kostenlos und unverbindlich.
 intro_cta_text: Kontakt Aufnehmen
-intro_cta_link: "#kontakt"
-permalink: '/impressum/'
+intro_cta_link: '#kontakt'
+permalink: /impressum/
 ---
 
 ## Dienstanbieter
 
-Diese Internetseite wird von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen angeboten. Soweit auf dieser Internetseite journalistisch-redaktionell gestaltete Angebote zu finden sind, zeichnet sich der jeweilige Rechtsanwalt oder Autor für den Inhalt verantwortlich, soweit nicht ausdrücklich eine andere Person bezeichnet wurde.
-
-AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen<br>Partnerschaft von Rechtsanwälten mit beschränkter Berufshaftung (mbB)
+Diese Internetseite wird von der Rechtsanwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen Rohrmoser angeboten. Soweit auf dieser Internetseite journalistisch-redaktionell gestaltete Angebote zu finden sind, zeichnet sich der jeweilige Rechtsanwalt oder Autor für den Inhalt verantwortlich, soweit nicht ausdrücklich eine andere Person bezeichnet wurde.
 
 Die Partnerschaft mit beschränkter Berufshaftung ist im Partnerschaftsregister des Amtsgerichtes Charlottenburg von Berlin unter der Registernummer PR 1029 eingetragen.
 
-Vertretungsberechtigte Partner sind die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen.
+Vertretungsberechtigte Partner sind die Rechtsanwälte Dr. Sven Tintemann, Kim Oliver Klevenhagen und Dr. Raphael Rohrmoser.
 
 Angestellte Rechtsanwälte, Kooperationspartner, Rechtsanwaltsfachanstellte, Rechtsanwaltsfachwirte, Salary Partner, Counsel, Of Counsel und Associates sind keine vertretungsberechtigten Partner der Partnerschaftsgesellschaft.
 
-AdvoAdvice Partnerschaft von Rechtsanwälten mbB<br>Tintemann Klevenhagen
+AdvoAdvice Partnerschaft von Rechtsanwälten mbB<br>Tintemann Klevenhagen Rohrmoser
 
 Kaiserliches Postamt<br>Martin-Buber-Str. 24<br>14163 Berlin
 
@@ -42,7 +43,7 @@ Berufsbezeichnung: Rechtsanwalt, Bundesrepublik Deutschland RA Klevenhagen und R
 
 Rechtsanwälte sind aufgrund der Bundesrechtsanwaltsordnung verpflichtet, eine eigene Berufshaftpflichtversicherung mit einer Mindestversicherungssumme von 250.000,00 EUR zu unterhalten. Die Einzelheiten ergeben sich aus &sect; 51 BRAO.
 
-Zudem unterhält die AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen eine Berufshaftpflichtversicherung bei der R + V Allgemeine Versicherung AG, Niedersachsenring 13, 30163 Hannover.
+Zudem unterhält die AdvoAdvice Partnerschaft von Rechtsanwälten mbB Tintemann Klevenhagen Rohrmoser eine Berufshaftpflichtversicherung bei der R + V Allgemeine Versicherung AG, Niedersachsenring 13, 30163 Hannover.
 
 Die Haftpflichtversicherung weist eine jeweilige Mindestdeckung in Höhe von 2.500.000 Euro pro Schadensfall und eine jeweilige maximale Deckungssumme von 10.000.000 Euro pro Versicherungsjahr auf.
 
