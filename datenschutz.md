@@ -20,7 +20,7 @@ Diese Datenschutz-Information gilt für die Datenverarbeitung durch:
 
 AdvoAdvice Partnerschaft von Rechtsanwälten mbB
 
-Tintemann Klevenhagen
+Tintemann Klevenhagen Rohrmoser
 
 (im Folgenden: AdvoAdvice)
 
