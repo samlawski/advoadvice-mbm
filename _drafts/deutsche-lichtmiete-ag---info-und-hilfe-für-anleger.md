@@ -8,7 +8,7 @@ description: >-
   Methoden zur Schadensbegrenzung 
 layout: post
 style_id: post
-image:
+image: /uploads/success-1093891-1281.jpg
 tags:
   - Deutsche Lichtmiete AG
   - Hausdurchsuchungen
