@@ -46,7 +46,7 @@ Wörtlich teilte die Staatsanwaltschaft Oldenburg in ihrer Pressemitteilung mit:
 
 *"Es besteht der Anfangsverdacht, die Beschuldigten hätten zu einem bislang nicht bekannten Zeitpunkt, möglicherweise während des Laufs der Direktinvestitionsprogramme, erkannt, dass das von ihnen betriebene Investorenmodell nicht tragfähig und ungeeignet war, um die Bezahlung der fälligen und künftig fälligen Forderungen der Anleger aus den Einnahmen der vermieteten technischen Einrichtungen zu generieren. Gleichwohl sollen sie von 2018 bis 2021 weiteres Kapital von Investoren durch die Platzierung von Inhaber-Schuldverschreibungen (Unternehmensanleihen) in einer Gesamthöhe von über 100 Millionen Euro eingeworben haben."*
 
-Im wesentlichen handelt es sich um vier Anleihen, auch Inhaber-Schuldverschreibungen genannt, die EnergieEffizienzAnleihen 2022, 2023, 2025 und 2027 mit 5,75% bzw. 5,25% Zinsen pro Jahr und Endfälligkeiten von 2022 bis 2027in welche nach Angaben der Staatsanwaltschaft Oldenburg weit über 100 Millionen Euro geflossen sind.&nbsp;
+Im wesentlichen handelt es sich um vier Anleihen, auch Inhaber-Schuldverschreibungen genannt, die EnergieEffizienzAnleihen 2022, 2023, 2025 und 2027 mit 5,75% bzw. 5,25% Zinsen pro Jahr und Endfälligkeiten von 2022 bis 2027 in welche nach Angaben der Staatsanwaltschaft Oldenburg weit über 100 Millionen Euro geflossen sind.&nbsp;
 
 Wie dargestellt handelt es sich um einen Anfangsverdacht, insoweit gilt für die Beschuldigten die Unschuldsvermutung, bis eine Schuld richterlich und vor allem rechtskräftig festgestellt ist.
 
