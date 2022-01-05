@@ -2,7 +2,7 @@
 title: >-
   Leonidas Associates III GmbH & Co. KG Insolvenzverfahren - Anlegerberatung und
   -begleitung 
-date: 2022-01-05 18:00:00
+date: 2022-01-05 12:00:00
 description: >-
   Die Leonidas Associates III GmbH & Co. KG hat einen Insolvenzantrag gestellt.
   Gefährdet sind Nachrangdarlehen aus 2013. Wir beraten und begleiten Anleger. 
