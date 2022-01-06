@@ -1,5 +1,7 @@
 ---
-title: Deutsche Lichtmiete - Jetzt auch Direkt Investments gefährdet. Anlegerberatung
+title: >-
+  Deutsche Lichtmiete - Jetzt auch Direkt-Investments gefährdet.
+  Anlegerberatung.
 date: 2022-01-06 18:48:43
 description: >-
   Mit Veröffentlichung von Pflichtmitteilungen hat die BaFin nun auch für die
