@@ -10,10 +10,22 @@ description: >-
   dringend beraten lassen.
 layout: post
 style_id: post
-image:
+image: /uploads/justice-2060093-1280.jpg
 tags:
+  - Deutsche Lichtmiete AG
+  - Deutsche Lichtmiete Direkt-Investitionsellschaft
+  - Lichtmiete
+  - Insolvenz
+  - BaFin
+  - AdvoAdvice
+  - Rechtsanwalt
+  - Kim Oliver Klevenhagen
+  - Fachanwalt
+  - Fachanwalt für Bank- und Kapitalmarktrecht
 topics:
-author: dr-sven-tintemann
+  - anlegerschutz
+  - bank-und-kapitalmarkt
+author: kim-oliver-klevenhagen
 ---
 Nachdem bereits die Anleihe-Gläubiger durch das nunmehr eröffnete vorläufige Insolvenzverfahren der deutsche Lichtmiete AG und den damit zusammenhängenden Gesellschaften Deutsche Lichtmiete Vermietgesellschaft mbH und Deutsche Lichtmiete Produktionsgesellschaft mbH im Nachgang der wegen des Verdachts des Betruges von der Staatsanwaltschaft Oldenburg durchgeführten Hausdurchsuchungen und den eröffneten vorläufigen Insolvenzverfahren befürchten müssen, dass ihre Investitionen stark gefährdet sind, &nbsp;werden nun auch die Investoren, die Direktinvestments getätigt haben alarmiert.
 
