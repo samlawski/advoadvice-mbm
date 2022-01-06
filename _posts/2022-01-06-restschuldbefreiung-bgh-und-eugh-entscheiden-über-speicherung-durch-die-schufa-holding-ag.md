@@ -58,7 +58,7 @@ Beide Gerichte stellten ferner klar, dass der Verhaltenskodex der Auskunfteien, 
 
 Die Experten der Kanzlei AdvoAdvice zeigten sich nach dem erstrittenen Urteil vor dem OLG Schleswig hoffnungsvoll, dass dieser Einschätzung nun weitere Gerichte und ggf. auch der für die Schufa Holding AG zuständige Hessische Beauftragte für Datenschutz und Informationsfreiheit folgen und Löschungen nun vermehrt durchgesetzt werden können. Dabei betreuen die zuständigen Rechtsanwälte Dr. Sven Tintemann und Dr.&nbsp; Raphael Rohrmoser aktuell ca. 40 offene Verfahren bezüglich der Löschung der Restschuldbefreiung.
 
-### **OLG Schleswig lässt Revision zum Bundesgerichtshof zu**
+### OLG Schleswig lässt Revision zum Bundesgerichtshof zu
 
 Das o.g. Urteil des OLG Schleswig ist weiterhin nicht rechtskräftig. Die Schufa Holding AG hat gegen die Entscheidung Revision beim Bundesgerichtshof eingelegt.
 
@@ -70,7 +70,7 @@ Der Betroffene berichtete gegenüber der Kanzlei AdvoAdvice, dass er sich vor de
 
 Die zuständigen Auskunfteien betonen insbesondere in gerichtlichen Verfahren immer wieder, dass diese nicht über konkrete Vertragsabschlüsse entscheiden und dass Verträge auch bei vorhandenen Negativeinträgen geschlossen werden können. Auch wenn dies in gewisser Weise richtig ist, stellt die Bonitätsauskunft von Auskunfteien ein ma&szlig;geblich entscheidendes Kriterium für Vermieter, Banken und andere Vertragspartner dar. Dies zeigt sich an vorstehendem Beispiel exemplarisch.
 
-### OLG Oldenburg lässt Revision zum Bundesgerichthof zu
+### **OLG Oldenburg lässt Revision zum Bundesgerichthof zu**
 
 Entgegen der Rechtsauffassung des OLG Schleswig entschied das OLG Oldenburg mit Urteil vom 23.11.2021 (Az. 13 U 63/21), dass die dreijährige Speicherung doch zulässig sein soll. Der dortige Kläger ist mit dem Rechtsstreit ebenfalls vor den Bundesgerichtshof gezogen, um das Urteil auf seine Richtigkeit überprüfen zu lassen. Auch hier wurde vom OLG Oldenburg die Revision zum Bundesgericht zugelassen.
 
