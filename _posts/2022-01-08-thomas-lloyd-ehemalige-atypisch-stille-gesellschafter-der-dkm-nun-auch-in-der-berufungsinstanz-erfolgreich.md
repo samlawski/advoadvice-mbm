@@ -8,7 +8,7 @@ description: >-
   GmbH vor OLG Köln, OLG Celle und LG Augsburg erstritten.
 layout: post
 style_id: post
-image: /uploads/celle-93262-1280.jpg
+image: /uploads/olg-köln-außen-ii.jpg
 tags:
   - DKM Global Opportunities Fonds
   - Erfolg
