@@ -1,7 +1,7 @@
 ---
 title: Negativer Schufa-Eintrag von American Express nach Ratenzahlung gelöscht
-date: 2022-01-11 08:35:38
-description: Schufa-Eintrag der Amex gelöscht
+date: 2022-01-11 00:00:00
+description: Schufa-Eintrag von American Express gelöscht
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa-einträge---amex-2.jpg
@@ -22,17 +22,21 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Banken und andere Wirtschaftsunternehmen arbeiten regelmä&szlig;ig mit der Schufa Holding AG aus Wiesbaden zusammen, um Auskünfte über das Zahlungsverhalten ihrer Vertragspartner zu erhalten. Teil des Systems ist aber auch, dass die Unternehmen nicht nur Daten erhalten, sondern auch Daten über das Zahlungsverhalten der Kunden zur Verfügung&nbsp; stellen. Bei diesen sog. Negativeinträgen treten immer wieder Schwierigkeiten und Fragen der Betroffenen auf. Diese lassen sich anhand eines aktuellen Falles, in welchem ein negativer Schufa-Eintrag zulasten eines Mannes aus Niedersachsen durch die American Express Europa S.A. vorgenommen wurde.
+Wer hilft mir bei einem negativen Eintrag durch ein Kreditkartenunternehmen bei der Schufa Holding AG?&nbsp;
+
+Diese Frage stellte sich vor kurzem auch ein Mann aus Niedersachen, als er online seine Schufa Auskunft abfragt.&nbsp;
 
 ## **Hintergrund des Falles**
 
-Der betroffene Mann aus Niedersachsen musste durch einen Blick in seine Schufa Online-Auskunft feststellen, dass dort ein negativer Schufa-Eintrag der American Express Europa S.A. (fortan: American Express) zu finden war. Bereits im März 2012 zuvor meldete die American Express einen Betrag von ca. 1.400,00 Euro bei der Schufa Holding AG ein. Durch den Zusatz „Saldo-Fälligstellung“ wird klargestellt, dass es sich nicht nur um eine Kreditlinie o.ä., sondern um einen Negativeintrag handelt.
+Der betroffene Mann stellte fest, dass die American Express Europa S.A. (fortan: American Express) einen negativen Eintrag vorgenommen hatte, der nun in seiner Schufa Auskunft zu finden war.&nbsp;
+
+Bereits im März 2021 meldete die American Express einen Betrag von ca. 1.400,00 Euro bei der Schufa Holding AG ein. Durch den Zusatz „Saldo-Fälligstellung“ wird klargestellt, dass es sich nicht nur um eine Kreditlinie o.ä., sondern um einen Negativeintrag handelt.
 
 Bereits im Folgemonat war schon ein geringerer Betrag gemeldet. Dies setzte sich bis zum Forderungsausgleich im September 2021 fort. Der Betroffene zahlte also monatliche Raten auf die offene Forderung, um diese zeitnah auszugleichen.
 
-Der Betroffene gab gegenüber den Rechtsanwälten der Kanzlei AdvoAdvice an, dass er keine Mahnung noch eine Zahlungsaufforderung mit Hinweis auf einen drohenden Schufa-Eintrag bei Nichtzahlung erhalten habe. Erst als sich die NCO Inkasso an den Betroffenen wandte, nahm er von dem Vorgang Kenntnis.
+Der Betroffene gab gegenüber den Rechtsanwälten der Kanzlei AdvoAdvice an, dass er keine Mahnung und auch keine Zahlungsaufforderung mit Hinweis auf einen drohenden Schufa-Eintrag bei Nichtzahlung erhalten habe. Erst als sich die NCO Inkasso an den Betroffenen wandte, nahm er von dem Vorgang Kenntnis.
 
-## **Darf eine Bank oder ein Finanzdienstleister einen negativen Eintrag bei der Schufa vornehmen?**
+## **Wann darf eine Bank oder ein Finanzdienstleister einen negativen Eintrag bei der Schufa vornehmen?**
 
 Die Frage, ob eine Forderung bei der Schufa Holding AG oder einer anderen Auskunftei eingetragen werden darf, kann nicht pauschal beantwortet werden. Im Endeffekt hängt dies immer von den Umständen des Einzelfalles ab.
 
@@ -46,7 +50,7 @@ Darüber hinaus ist anerkannt, dass die Forderung nicht nur bestehen, sondern da
 4. die zweifache Mahnung der Forderung mit Hinweis auf einen möglichen Schufa-Eintrag
 5. die Möglichkeit der fristlosen Kündigung des Vertragsverhältnisses zu der Forderung, wenn auf die bevorstehende Eintragung hingewiesen wurde.
 
-Die Voraussetzungen bieten sämtlich verschiedene Vorteile und Schwachstellen, welche einem spezialisierten Rechtsanwalt bekannt sein sollten. Das bedeutet, dass ein Eintrag nicht zwingend gerechtfertigt ist, nur weil einer der verschiedenen Möglichkeiten scheinbar vorzuliegen scheinen. Liegen die Voraussetzungen tatsächlich nicht vor, dann ist der Eintrag zu entfernen.
+Die Voraussetzungen bieten sämtlich verschiedene Vorteile und Schwachstellen, welche einem spezialisierten Rechtsanwalt bekannt sein sollten. Das bedeutet, dass ein Eintrag nicht zwingend gerechtfertigt ist, nur weil eine der verschiedenen Möglichkeiten vorliegt.&nbsp; Liegen die Voraussetzungen tatsächlich nicht vor, dann ist der Eintrag zu entfernen.
 
 ## **Au&szlig;ergerichtlich und gerichtliches Verfahren: Wer muss was beweisen?**
 
