@@ -1,7 +1,9 @@
 ---
 title: Negativer Schufa-Eintrag von American Express nach Ratenzahlung gelöscht
 date: 2022-01-11 00:00:00
-description: Schufa-Eintrag von American Express gelöscht
+description: >-
+  Schufa-Eintrag nach Intervention von AdvoAdvice durch American Express
+  widerrufen und gelöscht.
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa-einträge---amex-2.jpg
