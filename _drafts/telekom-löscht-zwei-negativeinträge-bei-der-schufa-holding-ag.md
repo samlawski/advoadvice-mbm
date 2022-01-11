@@ -6,7 +6,7 @@ description: >-
   Deutschland GmbH und zwei Löscherfolge durch AdvoAdvice.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---telekom.jpg
 tags:
   - Telekom Deutschland GmbH
   - Löschung
