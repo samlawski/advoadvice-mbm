@@ -1,5 +1,7 @@
 ---
-title: Telekom löscht zwei Negativeinträge bei der Schufa Holding AG
+title: >-
+  Zwei Negativeinträge der Telekom Deutschland GmbH bei der Schufa Holding AG
+  gelöscht.
 date: 2022-01-12 00:00:00
 description: >-
   Zwei Ehemänner, zwei Negativeinträge bei der Schufa Holding AG, die Telekom
