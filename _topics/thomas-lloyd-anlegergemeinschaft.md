@@ -96,23 +96,90 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: box_hell
-    titel: Erfolge vor Gericht
+    titel: Erfolge vor Gericht und in den Berufungsinstanzen
     text_markdown: >-
-      Bisher wurde die CT Infrastructure Holding Ltd. von drei unterschiedlichen
-      Gerichten durch ein Versäumnisurteil zur Zahlung an Mandanten verurteilt,
-      die von der Kanzlei AdvoAdvice vertreten worden sind. Die Entscheidungen
-      sind noch nicht rechtskräftig. Der Beklagten steht hier das Rechtsmittel
-      des Einspruchs zu.
+      Bisher wurde die CT Infrastructure Holding Ltd. von zahlreichen Gerichten
+      in der ersten Instanz&nbsp; zur Zahlung an Anleger verurteilt, die von der
+      Kanzlei AdvoAdvice vertreten worden sind.&nbsp; Unsere Prozesserfolge
+      können Sie in unserem Blog nachlesen, wenn Sie dort nach dem Suchbegriff
+      ThomasLloyd suchen.&nbsp;
 
 
-      Das Landgericht Frankenthal hat die CT Infrastructure Holding Ltd. mit
-      Urteil vom 19.02.2020 zur Zahlung in Höhe von 12.000 Euro an einen Anleger
-      verurteilt. Das Gericht sah hier für den Anleger die Möglichkeit, die
-      Genussrechtsbeteiligung au&szlig;erordentlich und fristlos zu kündigen.
-      Nach Kündigung sei die Gesellschaft zur Rückzahlung nach den
-      Genussrechtsbedingungen verpflichtet, so die Rechtsauffassung des
-      Landgerichts Frankenthal. Die Entscheidung ist ebenfalls noch nicht
-      rechtskräftig. Der Beklagten steht das Rechtsmittel der Berufung zu.
+      Urteile des Landgerichts Wiesbaden, des Landgerichts Stuttgart, des
+      Landgerichts Erfurt, Landgericht Aachen und des Landgerichts Bremen,
+      welche Ansprüche der Anleger in erster Instanz abgewiesen haben, wurde
+      stets durch die Berufungsgerichte aufgehoben, konkret durch das
+      Oberlandesgericht Frankfurt am Main, das Oberlandesgericht Stuttgart, das
+      Thüringische Oberlandesgericht Jena, das Oberlandesgericht Köln und das
+      Oberlandesgericht Bremen.
+
+
+      Insgesamt haben folgende Berufungsgerichte für unsere Anleger
+      entschieden:&nbsp;
+
+
+      ## **Anlagen in Genussrechtsbeteiligungen:**
+
+
+      * OLG Naumburg, Urteil vom 28.10.2020
+
+      * OLG Celle, Beschluss vom 29.01.2021
+
+      * OLG Dresden, Urteil vom 03.03.2021
+
+      * OLG Stuttgart, Urteil vom 31.02.2021
+
+      * OLG Zweibrücken, Urteil vom 25.03.2021
+
+      * OLG Naumburg, Urteil vom 07.04.2021
+
+      * OLG Zweibrücken, Urteil vom 20.05.2021
+
+      * OLG Düsseldorf, Urteil vom 21.05.2021
+
+      * OLG Frankfurt am Main, Urteil vom 27.05.2021
+
+      * OLG München, Beschluss vom 17.06.2021
+
+      * OLG Dresden, Beschluss vom 24.06.2021
+
+      * OLG Bremen, Urteil vom 01.07.2021
+
+      * OLG Naumburg, Beschluss vom 06.07.2021
+
+      * OLG Naumburg, Urteil vom 01.09.2021
+
+      * OLG Stuttgart, Urteil vom 06.10.2021
+
+      * OLG Stuttgart, Urteil vom 06.10.2021
+
+      * Landgericht Berlin, Urteil vom 08.10.2021
+
+      * OLG Nürnberg, Beschluss vom 25.10.2021
+
+      * OLG Hamm, Urteil vom 27.10.2021
+
+      * OLG Naumburg, Urteil vom 10.11.2021
+
+      * OLG Celle, Beschluss vom 08.12.2021
+
+      * OLG Celle, Beschluss vom 08.12.2021
+
+      * OLG Köln, Urteil vom 16.12.2021
+
+      * OLG Jena, Urteil vom 21.12.2021
+
+      * OLG Schleswig, Urteil vom 23.12.2021
+
+
+      ## **Anlagen in atypisch stille Beteiligungen:**
+
+
+      * LG Augsburg, Beschluss vom 19.11.2021
+
+      * OLG Celle, Beschluss vom 08.12.2021
+
+      * OLG Köln, Urteil vom 07.12.2021
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
@@ -199,8 +266,8 @@ abschnitte:
       Euro je 1 Euro Anlegerinvestment an.&nbsp;
 
 
-      In diesem Bereich vertritt AdvoAdvice bereits mehr als 150 Anleger und hat
-      mehr als 50 Klagen gegen die CT Infrastructure Holding Ltd.
+      In diesem Bereich vertritt AdvoAdvice bereits mehr als 300 Anleger und hat
+      mehr als 170 Klagen gegen die CT Infrastructure Holding Ltd.
       eingereicht.&nbsp;
     image:
     cta: true
