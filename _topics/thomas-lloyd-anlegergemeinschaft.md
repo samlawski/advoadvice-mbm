@@ -323,6 +323,6 @@ abschnitte:
     image:
     cta: true
 redirect_from:
-redirect_to: www.tintemann.de
+redirect_to:
 sitemap: true
 ---
