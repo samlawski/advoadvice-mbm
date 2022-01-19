@@ -118,7 +118,7 @@ abschnitte:
       entschieden:&nbsp;
 
 
-      ### **Anlagen in Genussrechtsbeteiligungen:**
+      ### Anlagen in Genussrechtsbeteiligungen:
 
 
       * OLG Naumburg, Urteil vom 28.10.2020
