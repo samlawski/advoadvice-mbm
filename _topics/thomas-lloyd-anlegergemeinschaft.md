@@ -8,13 +8,13 @@ description: >-
 header_titel: Thomas Lloyd Anlegergemeinschaft
 header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
-  - zahl: 200+
+  - zahl: 300+
     text: Anleger
   - zahl: 175+
     text: Klagen
-  - zahl: 1,2 Millionen €+
+  - zahl: 1,2 Mio. €+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 190.000+ €
+  - zahl: 190 T€+
     text: bereits erfolgte Auszahlungen an Anleger
   - zahl: '28'
     text: Klagen in Berufungsinstanz gewonnen
