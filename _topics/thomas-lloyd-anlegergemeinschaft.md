@@ -60,9 +60,13 @@ abschnitte:
       Gerichte, zur Möglichkeit einer au&szlig;erordentlichen fristlosen
       Kündigung und zur Rückzahlung Ihres Anlagebetrages bzw. zur Zahlung von
       Schadensersatz zu Nutze. Diese ist bereits gerichtlich ausprobiert worden
-      und hat bereits zu ersten Urteilen gegen die CT Infrastructure Holding
-      Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM
-      Global Opportunities Fonds 01 GmbH geführt.&nbsp;
+      und hat zu zahlreichen erstinstanzlichen Urteilen gegen die CT
+      Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
+      Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
+      Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
+      Anleger bisher 28 erfolgreiche Urteile erstritten. In der Berufungsinstanz
+      hat unsere Kanzlei für die hier vertretenen Anleger bisher noch nie
+      verloren.&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -75,23 +79,20 @@ abschnitte:
 
 
       Er konnten bereits vor Gründung der Anlegergemeinschaft Auszahlungen in
-      Höhe von 15.942,29 Euro, 9.902,12 Euro plus Zinsen von 436,30 Euro und
-      6.603,79 Euro plus Zinsen von 306,84 Euro zurückerlangt werden.&nbsp;
+      Höhe von 43.878,90 Euro durch direkte Zahlungen an die Anleger und in Höhe
+      von 147.539,76 Euro durch Auszahlungen von Sicherheiten erstritten werden
+      (Stand: 19.01.2022).&nbsp;
 
 
-      Einem Anleger wurden durch die CT Infrastructure Holding Ltd. nach dem
-      Tätigwerden von AdvoAdvice zudem 13.937,76 Euro zzgl. Zinsen in Höhe von
-      860,55 Euro überwiesen.&nbsp;
+      Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
+      Sicherheiten zur Verhinderung von Zwangsvollstreckungsma&szlig;nahmen in
+      Höhe von 1.282.013,17 Euro (Stand: 19.01.2022) hinterlegt.
 
 
-      Für einen weiteren Anleger wurden Rückzahlungen bei der
-      Genussrechtsbeteiligung Global High Yield Fund 450 einen
-      Rückzahlungsbetrag in Höhe von 7.170,17 Euro und für die Beteiligung vom
-      Typ Thomas Lloyd Absolute Return Fund 1J. einen Rückzahlungsbetrag in Höhe
-      von 4.090,88 Euro erreicht.&nbsp;
-
-
-      &nbsp;
+      Es gibt mittlerweile 28 Urteile von Berufungsgerichten (darunter 26&nbsp;
+      Urteile von Oberlandesgerichten und 2 Urteile von Landgerichten), die den
+      von unserer Kanzlei vertretenen Anlegern Auszahlungsansprüche gegen die CT
+      Infrastructure Holding Ltd. zugesprochen haben.&nbsp;
     image:
     cta: true
   - abschnitt_template: box_hell
