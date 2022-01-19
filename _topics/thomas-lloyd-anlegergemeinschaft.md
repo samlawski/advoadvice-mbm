@@ -153,7 +153,7 @@ abschnitte:
 
       * OLG Stuttgart, Urteil vom 06.10.2021
 
-      * Landgericht Berlin, Urteil vom 08.10.2021
+      * LG Berlin, Urteil vom 08.10.2021
 
       * OLG Nürnberg, Beschluss vom 25.10.2021
 
