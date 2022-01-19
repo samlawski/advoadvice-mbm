@@ -8,12 +8,14 @@ description: >-
 header_titel: Thomas Lloyd Anlegergemeinschaft
 header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
-  - zahl: 150+
+  - zahl: 200+
     text: Anleger
-  - zahl: 50+
+  - zahl: 175+
     text: Klagen
-  - zahl: 60.000€+
-    text: Rückzahlungen erstritten
+  - zahl: 1.200.000 €+
+    text: Hinterlegte Sicherheiten nach Prozesserfolgen
+  - zahl: 190.000 Euro
+    text: bereits erfolgte Auszahlungen an Anleger
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
 intro_text_markdown: >-
   Bereits im Februar 2019 gründete die Kanzlei AdvoAdvice Rechtsanwälte in
