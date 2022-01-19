@@ -12,7 +12,7 @@ erfolge:
     text: Anleger
   - zahl: 175+
     text: Klagen
-  - zahl: 1,2 Mio. €+
+  - zahl: 1,2 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 190 T€+
     text: bereits erfolgte Auszahlungen an Anleger
@@ -28,12 +28,11 @@ intro_text_markdown: >-
   Infrastructure Ltd. (London) zur Wehr zu setzen.&nbsp;
 
 
-  Seitdem haben sich mehr als 150 Anleger unserer Anlegergemeinschaft
+  Seitdem haben sich mehr als 300 Anleger unserer Anlegergemeinschaft
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
-  au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bis zum
-  Datum des Brexit am 31.01.2020 mehr als 50 Klagen an verschiedenen
-  Amtsgerichten und Landgerichten in Deutschland gegen die CT Infrastructure
-  Holding Ltd. eingereicht.&nbsp;
+  au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
+  mehr als 170 Klagen an verschiedenen Amtsgerichten und Landgerichten in
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht.&nbsp;
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
