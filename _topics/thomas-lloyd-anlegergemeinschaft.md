@@ -118,7 +118,7 @@ abschnitte:
       entschieden:&nbsp;
 
 
-      ## **Anlagen in Genussrechtsbeteiligungen:**
+      ### **Anlagen in Genussrechtsbeteiligungen:**
 
 
       * OLG Naumburg, Urteil vom 28.10.2020
@@ -172,7 +172,7 @@ abschnitte:
       * OLG Schleswig, Urteil vom 23.12.2021
 
 
-      ## **Anlagen in atypisch stille Beteiligungen:**
+      ### **Anlagen in atypisch stille Beteiligungen:**
 
 
       * LG Augsburg, Beschluss vom 19.11.2021
