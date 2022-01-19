@@ -3,8 +3,8 @@ layout: topic
 style_id: topic
 title: Thomas Lloyd Anlegergemeinschaft
 description: >-
-  Werden Sie teil der Anlegergemeinschaft für eine geballte Kraft im
-  Rechtsstreit mit Thomas Lloyd.
+  Werden Sie Teil unserer sehr erfolgreichen ThomasLloyd-Anlegergemeinschaft und
+  profitieren Sie von unseren zahlreichen Prozesserfolgen. 
 header_titel: Thomas Lloyd Anlegergemeinschaft
 header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
@@ -15,7 +15,7 @@ erfolge:
   - zahl: 1,2 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 190 T€+
-    text: bereits erfolgte Auszahlungen an Anleger
+    text: Auszahlungen an Anleger
   - zahl: '28'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
@@ -32,7 +32,10 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
   mehr als 170 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht.&nbsp;
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 28
+  Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits einige
+  Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
+  Anlagesummen ausgezahlt bekommen.&nbsp;
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
@@ -66,11 +69,11 @@ abschnitte:
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
       Anleger bisher 28 erfolgreiche Urteile erstritten. In der Berufungsinstanz
       hat unsere Kanzlei für die hier vertretenen Anleger bisher noch nie
-      verloren.&nbsp;
+      verloren. (Stand: 19.01.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
-    titel: Außergerichtliche Erfolge
+    titel: Erfolge der von uns vertretenen Anleger
     text_markdown: >-
       Bereits vor dem Februar 2019, aber auch noch nach diesem Zeitpunkt hat die
       Kanzlei AdvoAdvice erfolgreich Anleger vertreten, die ihre
@@ -78,10 +81,9 @@ abschnitte:
       bereits zum Ablauf des 31.12.2016 gekündigt hatten.&nbsp;
 
 
-      Er konnten bereits vor Gründung der Anlegergemeinschaft Auszahlungen in
-      Höhe von 43.878,90 Euro durch direkte Zahlungen an die Anleger und in Höhe
-      von 147.539,76 Euro durch Auszahlungen von Sicherheiten erstritten werden
-      (Stand: 19.01.2022).&nbsp;
+      So konnten bereits vor Gründung der Anlegergemeinschaft Auszahlungen in
+      Höhe von 43.878,90 Euro durch direkte Zahlungen an die Anleger erreicht
+      werden.
 
 
       Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
@@ -89,10 +91,15 @@ abschnitte:
       Höhe von 1.282.013,17 Euro (Stand: 19.01.2022) hinterlegt.
 
 
+      Zudem konnten bereits in Höhe von 147.539,76 Euro durch unsere Kanzlei
+      Auszahlungen von hinterlegten Sicherheiten erstritten werden. (Stand:
+      19.01.2022)
+
+
       Es gibt mittlerweile 28 Urteile von Berufungsgerichten (darunter 26&nbsp;
       Urteile von Oberlandesgerichten und 2 Urteile von Landgerichten), die den
       von unserer Kanzlei vertretenen Anlegern Auszahlungsansprüche gegen die CT
-      Infrastructure Holding Ltd. zugesprochen haben.&nbsp;
+      Infrastructure Holding Ltd. zugesprochen haben. (Stand: 19.01.2022)
     image:
     cta: true
   - abschnitt_template: box_hell
@@ -316,6 +323,6 @@ abschnitte:
     image:
     cta: true
 redirect_from:
-redirect_to:
+redirect_to: www.advoadvice.de
 sitemap: true
 ---
