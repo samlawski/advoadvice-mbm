@@ -108,8 +108,8 @@ abschnitte:
       Bisher wurde die CT Infrastructure Holding Ltd. von zahlreichen Gerichten
       in der ersten Instanz&nbsp; zur Zahlung an Anleger verurteilt, die von der
       Kanzlei AdvoAdvice vertreten worden sind.&nbsp; Unsere Prozesserfolge
-      können Sie in unserem Blog nachlesen, wenn Sie dort nach dem Suchbegriff
-      ThomasLloyd suchen.&nbsp;
+      können Sie in unserem [Blog](/blog/) nachlesen, wenn Sie dort nach dem
+      Suchbegriff ThomasLloyd suchen.&nbsp;
 
 
       Urteile des Landgerichts Wiesbaden, des Landgerichts Stuttgart, des
@@ -179,14 +179,14 @@ abschnitte:
       * OLG Schleswig, Urteil vom 23.12.2021
 
 
-      ### **Anlagen in atypisch stille Beteiligungen:**
+      ### Anlagen in atypisch stille Beteiligungen:
 
 
       * LG Augsburg, Beschluss vom 19.11.2021
 
-      * OLG Celle, Beschluss vom 08.12.2021
-
       * OLG Köln, Urteil vom 07.12.2021
+
+      * OLG Celle, Beschluss vom 08.12.2021
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
