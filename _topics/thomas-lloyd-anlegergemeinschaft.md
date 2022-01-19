@@ -128,31 +128,31 @@ abschnitte:
       ### Anlagen in Genussrechtsbeteiligungen:
 
 
-      * OLG Naumburg, Urteil vom 28.10.2020
+      * OLG Naumburg, Urteil vom 28.10.2020 (rechtskräfig)
 
       * OLG Celle, Beschluss vom 29.01.2021
 
-      * OLG Dresden, Urteil vom 03.03.2021
+      * OLG Dresden, Urteil vom 03.03.2021 (rechtskräfig)
 
-      * OLG Stuttgart, Urteil vom 31.02.2021
+      * OLG Stuttgart, Urteil vom 31.02.2021 (rechtskräfig)
 
-      * OLG Zweibrücken, Urteil vom 25.03.2021
+      * OLG Zweibrücken, Urteil vom 25.03.2021 (rechtskräfig)
 
-      * OLG Naumburg, Urteil vom 07.04.2021
+      * OLG Naumburg, Urteil vom 07.04.2021 (rechtskräfig)
 
-      * OLG Zweibrücken, Urteil vom 20.05.2021
+      * OLG Zweibrücken, Urteil vom 20.05.2021 (rechtskräfig)
 
-      * OLG Düsseldorf, Urteil vom 21.05.2021
+      * OLG Düsseldorf, Urteil vom 21.05.2021 (rechtskräfig)
 
-      * OLG Frankfurt am Main, Urteil vom 27.05.2021
+      * OLG Frankfurt am Main, Urteil vom 27.05.2021 (rechtskräfig)
 
-      * OLG München, Beschluss vom 17.06.2021
+      * OLG München, Beschluss vom 17.06.2021 (rechtskräfig)
 
-      * OLG Dresden, Beschluss vom 24.06.2021
+      * OLG Dresden, Beschluss vom 24.06.2021 (rechtskräfig)
 
-      * OLG Bremen, Urteil vom 01.07.2021
+      * OLG Bremen, Urteil vom 01.07.2021 (rechtskräfig)
 
-      * OLG Naumburg, Beschluss vom 06.07.2021
+      * OLG Naumburg, Beschluss vom 06.07.2021 (rechtskräfig)
 
       * OLG Naumburg, Urteil vom 01.09.2021
 
