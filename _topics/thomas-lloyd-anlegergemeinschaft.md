@@ -16,6 +16,8 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 190.000 Euro
     text: bereits erfolgte Auszahlungen an Anleger
+  - zahl: '28'
+    text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
 intro_text_markdown: >-
   Bereits im Februar 2019 gründete die Kanzlei AdvoAdvice Rechtsanwälte in
