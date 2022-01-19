@@ -14,7 +14,7 @@ erfolge:
     text: Klagen
   - zahl: 1,2 Millionen €+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 190.000 €
+  - zahl: 190.000+ €
     text: bereits erfolgte Auszahlungen an Anleger
   - zahl: '28'
     text: Klagen in Berufungsinstanz gewonnen
