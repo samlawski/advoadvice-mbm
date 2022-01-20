@@ -52,7 +52,7 @@ Rechtsanwalt Dr. Raphael Rohrmoser, der den Erfolg für den Mandanten ohne Geric
 
 ## Expertise führt oft zum Erfolg
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt.
 
 Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre erfolgreiche Prozessführung und Expertise im Bereich der Löschung von Negativeinträgen bei der Schufa Holding AG und anderen bekannten Auskunfteien, die z.B. Boniversum Creditreform, CRIF Bürgel oder Arvato Infoscore bekannt und konnten schon zahlreichen Betroffenen bei der Löschung von Negativeinträgen, der Verbesserung von Scorewerten, der Löschung von Einträgen aus öffentlichen Verzeichnissen oder der Löschung von Einträgen zur Restschuldbefreiung helfen. Zudem hat die Kanzlei AdvoAdvice wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.
 
