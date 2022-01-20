@@ -6,7 +6,7 @@ description: >-
   Löschung gebracht.
 layout: post
 style_id: post
-image: /uploads/piggy-bank-2889046-640.jpg
+image: /uploads/img-20220120-wa0013.jpg
 tags:
   - Targobank AG
   - Eintrag
