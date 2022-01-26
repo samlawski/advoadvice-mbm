@@ -134,7 +134,7 @@ abschnitte:
 
       * OLG Dresden, Urteil vom 03.03.2021 (rechtskräfig)
 
-      * OLG Stuttgart, Urteil vom 31.02.2021 (rechtskräfig)
+      * OLG Stuttgart, Urteil vom 31.03.2021 (rechtskräfig)
 
       * OLG Zweibrücken, Urteil vom 25.03.2021 (rechtskräfig)
 
@@ -158,17 +158,17 @@ abschnitte:
 
       * OLG Stuttgart, Urteil vom 06.10.2021
 
-      * OLG Stuttgart, Urteil vom 06.10.2021
+      * OLG Stuttgart, Urteil vom 06.10.2021 (rechtskräftig)
 
-      * LG Berlin, Urteil vom 08.10.2021
+      * LG Berlin, Urteil vom 08.10.2021 (rechtskräftig)
 
-      * OLG Nürnberg, Beschluss vom 25.10.2021
+      * OLG Nürnberg, Beschluss vom 25.10.2021 (rechtskräftig)
 
-      * OLG Hamm, Urteil vom 27.10.2021
+      * OLG Hamm, Urteil vom 27.10.2021&nbsp;
 
-      * OLG Naumburg, Urteil vom 10.11.2021
+      * OLG Naumburg, Urteil vom 10.11.2021 (rechtskräftig)
 
-      * OLG Celle, Beschluss vom 08.12.2021
+      * OLG Celle, Beschluss vom 08.12.2021&nbsp;
 
       * OLG Celle, Beschluss vom 08.12.2021
 
