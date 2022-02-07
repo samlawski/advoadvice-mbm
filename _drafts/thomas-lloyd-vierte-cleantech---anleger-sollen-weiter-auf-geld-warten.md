@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Lloyd: Vierte Cleantech  - Anleger sollen weiter auf Geld warten'
+title: 'Thomas Lloyd: Vierte Cleantech  - Weiter auf Geld warten? Handeln!'
 date: 2022-02-06 12:00:00
 description: >-
   Anleger, die von der Vierten Infrastrukturgesellschaft mbH, einer Gesellschaft
@@ -27,51 +27,31 @@ topics:
   - anlegerschutz
 author: kim-oliver-klevenhagen
 ---
-Thomas Lloyd: Vierte Cleantech Infrastrukturgesellschaft mbH zahlt nicht aus - Anleger erhalten Hinhalteschreiben
+Die Anlegergemeinschaft Thomas Lloyd, gegründet Anfang 2019 von der Berliner Kanzlei AdvoAdvice Rechtsanwälte mbB, gibt Anlegern der Thomas Lloyd Gruppe die Möglichkeit, sich gemeinsam in Bezug auf die Verschmelzung der Anlagegesellschaften und die erfolgte Umwandlung der Anlagen zu formieren. Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen.
 
-von Kim Oliver Klevenhagen, 21. July 2021
+Eine Vielzahl von Klagen, von Amtsgerichten bis hin zum Bundesgerichtshof (BGH) in Deutschland wurden durchgestritten, für viele Anleger erfolgreiche Prozesse geführt sowie Rückzahlungen realisiert.
 
-&nbsp;
+Anleger, die von der Vierten Infrastrukturgesellschaft mbH (VCI), einer Gesellschaft der Thomas Lloyd Gruppe, seit langem Auszahlungen erwarten, werden weiter vertröstet. Nachdem Auszahlungen "frühestens für Herbst 2021" angekündigt waren, soll es nun nach einer Mitteilung der VCI von Mitte Januar 2022 das 3. Quartal 2022 sein. Es besteht Handlungsbedarf.&nbsp;
 
-&nbsp;
+## Viele Anleger wollen sich nicht mehr vertrösten lassen.
 
-Die Anlegergemeinschaft Thomas Lloyd, gegründet Anfang 2019 von der Berliner Kanzlei AdvoAdvice Rechtsanwälte mbB, gibt Anlegern der Thomas Lloyd Gruppe die Möglichkeit, sich gemeinsam in Bezug auf die Verschmelzung der Anlagegesellschaften und die Umwandlung der Anlagen zu formieren.
+Nunmehr rückt die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) durch die ständigen Verschiebungen von Auszahlungen aus abgelaufenen Beteiligungsverträgen wegen angeblich noch nicht fälliger Forderungen immer weiter in den Fokus. In die Vierte Cleantech Infrastrukturgesellschaft mbH wurde beispielsweise die Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger investiert in der Hoffnung, eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
 
-&nbsp;
+Von Anlegern gezeichnete Genussscheine wurden damalig im Rahmen der oben genannten Verschmelzung durch inhaltsgleich ausgestaltete Genussrechte ersetzt. Viele Laufzeiten dieser Genussrechte endeten am 30.12.2020. Insoweit sollten hier nach dem Verständnis der Anleger nun die Genussrechte der VCI zur Auszahlung fällig sein.
 
-Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen.
+Eine Auszahlung erfolgte jedoch durch die Vierte Cleantech Infrastrukturgesellschaft bisher nicht. Begründet wird dies seitens der Gesellschaft damit, dass zwar die Vertragslaufzeiten beendet seien, aber aufgrund der damalig bei Zeichnung der Anlagen vereinbarten Genussrechtsbedingungen hier eine Fälligkeit, also eine Pflicht zum Auszahlen nicht gegeben sei.&nbsp;
 
-Eine Vielzahl von Klagen, von Amtsgerichten bishin zum Bundesgerichtshof (BGH) in Deutschland wurden durchgestritten, für viele Anleger erfolgreiche Prozesse geführt sowie Rückzahlungen realisiert.
-
-&nbsp;
-
-Anleger erhalten Schreiben der Vierten Cleantech Infrastrukturgesellschaft mbH (“VCI”)
+Immer mehr Anleger wollen sich nicht mehr mit fragwürdigen Argumenten hinhalten lassen. Uns&nbsp;
 
 &nbsp;
 
-Nunmehr rückt auch die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) in den Fokus. In die Vierte Cleantech Infrastrukturgesellschaft mbH wurde beispielsweise die Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger investiert in der Hoffnung, eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
-
-&nbsp;
-
-Von Anlegern gezeichnete Genussscheine wurden im Rahmen der oben genannten Verschmelzung durch inhaltsgleich ausgestaltete Genussrechte ersetzt. Die Laufzeit dieser Genussrechte endete am 30.12.2020. Insoweit sollten hier nach dem Verständnis der Anleger nun die Genussrechte der VCI zur Auszahlung fällig sein.
-
-&nbsp;
-
-Eine Auszahlung erfolgt jedoch durch die Vierte Cleantech Infrastrukturgesellschaft bisher nicht.
-
-&nbsp;
-
-Die Auszahlungen seitens der VCI verzögern sich, die Begründungen erscheinen fraglich.
-
-Die Thomas Lloyd-Gruppe schreibt nun hinsichtlich der Vierte Cleantech Infrastrukturgesellschaft mbH einen erklärenden Brief an die Anleger und Investoren, den man bei klarer und nüchterner Betrachtung nur als „Hinhalte-Schreiben” bezeichnen kann.
-
-&nbsp;
+## Die Auszahlungen seitens der VCI verzögern sich, die Begründungen erscheinen fraglich.
 
 Hinsichtlich der damaligen Investitionen der Anleger konnte wohl ein Kapitalerhalt erzielt werden, so hei&szlig;t es in dem Schreiben, jedoch sei die von der Thomas Lloyd Gruppe so treffend beschriebene "Performance-Komponente" wegen äu&szlig;erer Faktoren, auf die die Beteiligungsgesellschaft selbst keinen Einfluss habe und die nichts mit der Anlagestrategie an sich zu tun hätten” nicht zum Tragen gekommen.
 
 &nbsp;
 
-Was zunächst noch wie eine teilweise frohe Botschaft klingt, wird jedoch durch die weitere Mitteilung relativiert. "Im dritten Quartal des Jahres 2022" könne eine Auszahlung der Rückzahlungsbeiträge&nbsp; erst erfolgen, obgleich diese eigentlich längst fällig wären.
+&nbsp;
 
 &nbsp;
 
