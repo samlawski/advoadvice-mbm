@@ -33,92 +33,44 @@ Eine Vielzahl von Klagen, von Amtsgerichten bis hin zum Bundesgerichtshof (BGH) 
 
 Anleger, die von der Vierten Infrastrukturgesellschaft mbH (VCI), einer Gesellschaft der Thomas Lloyd Gruppe, seit langem Auszahlungen erwarten, werden weiter vertröstet. Nachdem Auszahlungen "frühestens für Herbst 2021" angekündigt waren, soll es nun nach einer Mitteilung der VCI von Mitte Januar 2022 das 3. Quartal 2022 sein. Es besteht Handlungsbedarf.&nbsp;
 
-## Viele Anleger wollen sich nicht mehr vertrösten lassen.
+## Auszahlungen verzögern sich immer weiter
 
-Nunmehr rückt die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) durch die ständigen Verschiebungen von Auszahlungen aus abgelaufenen Beteiligungsverträgen wegen angeblich noch nicht fälliger Forderungen immer weiter in den Fokus. In die Vierte Cleantech Infrastrukturgesellschaft mbH wurde beispielsweise die Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger investiert in der Hoffnung, eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
+Nunmehr rückt die Vierte Cleantech Infrastrukturgesellschaft mbH (“VCI”) durch die ständigen Verschiebungen von Auszahlungen aus abgelaufenen Beteiligungsverträgen wegen angeblich noch nicht fälliger Forderungen immer weiter in den Fokus.
+
+In die Vierte Cleantech Infrastrukturgesellschaft mbH wurde beispielsweise die Thomas Lloyd Private Wealth GmbH verschmolzen. In diese Gesellschaft hatten bereits zahlreiche Anleger investiert in der Hoffnung, eine nachhaltige und renditeträchtige Anlagemöglichkeit zu schaffen.
 
 Von Anlegern gezeichnete Genussscheine wurden damalig im Rahmen der oben genannten Verschmelzung durch inhaltsgleich ausgestaltete Genussrechte ersetzt. Viele Laufzeiten dieser Genussrechte endeten am 30.12.2020. Insoweit sollten hier nach dem Verständnis der Anleger nun die Genussrechte der VCI zur Auszahlung fällig sein.
 
-Eine Auszahlung erfolgte jedoch durch die Vierte Cleantech Infrastrukturgesellschaft bisher nicht. Begründet wird dies seitens der Gesellschaft damit, dass zwar die Vertragslaufzeiten beendet seien, aber aufgrund der damalig bei Zeichnung der Anlagen vereinbarten Genussrechtsbedingungen hier eine Fälligkeit, also eine Pflicht zum Auszahlen nicht gegeben sei.&nbsp;
+Viele Anleger warten seit Ende 2020 auf Auszahlungen, bespielsweise aus dem Vertrag "Thomas Lloyd Absolute Return Managed Portfolio Protected 2008/2020". Diese erfolgten jedoch durch die Vierte Cleantech Infrastrukturgesellschaft bisher nicht.
 
-Immer mehr Anleger wollen sich nicht mehr mit fragwürdigen Argumenten hinhalten lassen. Uns&nbsp;
+Begründet wird dies seitens der Gesellschaft damit, dass zwar die Vertragslaufzeiten beendet seien, aber aufgrund der damalig bei Zeichnung der Anlagen vereinbarten Genussrechtsbedingungen hier eine Fälligkeit, also eine Pflicht zum Auszahlen angeblich nicht bestehe. Hintergrund sei, dass es der Vierten Cleantech Infrastrukturgesellschaft an Liquidität fehle. Schuld sei die COVID-19-Pandemie.
 
-&nbsp;
+Gemä&szlig; der Genussrechtsbedingungen sei ein Rückzahlungsanspruch "unter Berücksichtigung der aktuellen Liquiditätslage der Beteiligungsgesellschaft zur Zahlung fällig" So lange für die Bedienung der der Rückzahlungsansprüche im Portfolio der Beteiligungsgesellschaft allerdings keine ausreichende Liquidität vorhanden sei, würden jedoch Rückzahlungsansprüche nicht fällig. Und eben diese erforderliche ausreichende Liquidität sei der VCI noch nicht zugeflossen aus dem Verkauf bzw. der Refinanzierung einzelner Infrastrukturprojekte. Entsprechende Schritte zur Liquiditätsbeschaffung "seien eingeleitet".&nbsp; "Corona" sorge nun dafür, das es hier Verzögerungen gebe.
 
-## Die Auszahlungen seitens der VCI verzögern sich, die Begründungen erscheinen fraglich.
+## Corona ist an allem schuld. Kann man glauben, muss man nicht.
 
-Hinsichtlich der damaligen Investitionen der Anleger konnte wohl ein Kapitalerhalt erzielt werden, so hei&szlig;t es in dem Schreiben, jedoch sei die von der Thomas Lloyd Gruppe so treffend beschriebene "Performance-Komponente" wegen äu&szlig;erer Faktoren, auf die die Beteiligungsgesellschaft selbst keinen Einfluss habe und die nichts mit der Anlagestrategie an sich zu tun hätten” nicht zum Tragen gekommen.
+Viele Anleger wollen sich nicht mehr vertrösten lassen und glauben nicht daran, dass "Corona" jetzt der wahre Grund für Auszahlungsverzögerungen bei der VCI ist. Seit Frühjahr 2020 hält die Covid-19-Pandemie die Welt in Atem. Es ist aber nicht so, dass seitdem weltweit keine Veräu&szlig;erungen oder Refinanzierungen von einzelnen Vermögenswerten mehr stattfinden können. Glaubhafte Darstellungen bezogen auf konkrete betroffene Infrastrukturprojekte oder gar Beweise dafür, dass es "Verzögerungen" bei den "angesto&szlig;enen Transaktionen" bei der der Vierten Infrastrukturgesellschaft mbH gibt, legt die Gesellschaft in ihrem Schreiben von Mitte Januar 2022 nicht vor.
 
-&nbsp;
+## Anleger sollen warten und hoffen.
 
-&nbsp;
+Damit wird praktisch der betroffene Anleger zu einem passiven Hoffen und Warten und vor allem Glauben angehalten, weil die Thomas Lloyd-Gruppe bzw. die Vierte Cleantech Infrastrukturgesellschaft mbH nicht transparent und für den Anleger begründen, was denn noch da ist und liquidiert (also verkauft) werden muss und weshalb eine Auszahlung an die Anleger, die auf ihr Geld warten, nicht möglich ist.
 
-&nbsp;
+Der Vierten Cleantech Infrastrukturgesellschaft ist die Anzahl der gezeichneten Verträge der Anleger samt Laufzeit und jeweiliger Investition bekannt. Ein Anleger kann erwarten, dass sich sein Vertragspartner vertragstreu verhält und insbesondere Vorsorge dafür trifft, dass Auszahlungen rechtzeitig und vollständig erfolgen. Geschieht das nicht, auch in Ansehung eine globalen Pandemie, so erwachsen Anlegern Ansprüche auf Schadenersatz, sofern fällige Auszahlungen schuldhaft nicht erfolgen. Für das Vorhandensein angeblicher Liquiditätsengpässe aufgrund vermeintlich wegen der Corona-Pandemie nicht möglicher Verkäufe oder Refinanzierungen einzelner Infrastrukturprojekte trägt die VCI die Beweislast.&nbsp;
 
-So habe die Thomas Lloyd Gruppe bzw. die Vierte Cleantech Infrastrukturgesellschaft mbH zwar bereits damit begonnen, “einzelne Positionen zu liquidieren” um der VCI Liquidität zuflie&szlig;en zu lassen, jedoch seien die Auswirkungen der weltweiten CoVid-19 Pandemie dafür verantwortlich, dass der weitere Bedarf an einem für die Auszahlung der Anleger nötigen Liquiditätszufluss nicht realisiert werden könne.
+Ist nach Ansicht der Vierte Cleantech Infrastrukturgesellschaft mbH der Rückzahlungsanspruch der Anleger wirklich noch nicht fällig? Rechtlich gesehen kommt die Frage auf, ob die eigene Interpretation und etwaig selbstverschuldete Auszahlungshindernisse nicht eine unzulässige Verhinderung des Eintritts einer Fälligkeit sein könnten. Lasen Sie sich nicht hinhalten. Stellen Sie Fragen\!
 
-&nbsp;
+## Was ist Anlegern zu raten? Haben Sie Fragen?
 
-Anleger sollen warten und hoffen
+Wir erhalten derzeit viele Anfragen von besorgten Anlegern der Vierte Cleantech Infrastrukturgesellschaft mbH, die sich nicht weiter hinhalten lassen wollen. Sie sind alarmiert aufgrund der Vorkommnisse bei anderen Thomas Lloyd Gesellschaften. Auch werden wir oft gefragt, inwieweit die Erklärungen in den Schreiben der Vierte Cleantech Infrastrukturgesellschaft mbH überhaupt rechtlich haltbar und valide sind.
 
-Damit wird praktisch der betroffene Anleger zu einem passiven Hoffen und Warten angehalten, weil die Thomas Lloyd-Gruppe bzw. die Vierte Cleantech Infrastrukturgesellschaft mbH nicht transparent und für den Anleger begründen, was denn noch da ist und liquidiert (also verkauft) werden muss und weshalb eine Auszahlung an die Anleger, die auf ihr Geld warten, nicht möglich ist.
+“Insbesondere dürften viele Fragen deshalb rechtlich zu prüfen sein, weil mit der Benachrichtigung durch die Thomas Lloyd Gruppe jetzt eine Situation geschaffen worden ist, aus der sich viele Folgefragen ergeben. Beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risiken behandelt hat und ob oder welche Personen oder Gesellschaften für etwaig eingetretene Vermögensschäden bei Ausbleiben der Auszahlungen haften können. Auch wird zu prüfen sein, inwieweit den Anlegern nun Rechte und Ansprüche zukommen, um sich zur Wehr zu setzen.” meint Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, Gründungspartner der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin, der mit seinem Team zahlreiche Anleger verschiedenster Emittenten vertritt.
 
-&nbsp;
-
-&nbsp;
-
-Gemä&szlig; den Genussscheinbedingungen ist ein Rückzahlungsanspruch nur unter Berücksichtigung der aktuellen Liquiditätslage zur Zahlung fällig, ist zu beachten.
-
-Insoweit wird hier auf eine Nachrangigkeit verwiesen, sofern die Auszahlung mittelbar zu einem Insolvenzgrund führen könnte.
-
-&nbsp;
-
-Ist nach Ansicht der Vierte Cleantech Infrastrukturgesellschaft mbH der Rückzahlungsanspruch der Anleger wirklich noch nicht fällig? Rechtlich gesehen kommt die Frage auf, ob die eigene Interpretation und Schaffung eines Auszahlungshindernisses nicht eine unzulässige Verhinderung des Eintritts einer Fälligkeit ist.
-
-&nbsp;
-
-Was ist Anlegern zu raten? Haben Sie Fragen?
-
-Anleger bei der Vierte Cleantech Infrastrukturgesellschaft mbH sind alarmiert aufgrund der Vorkommnisse bei anderen Thomas Lloyd Gesellschaften, die Sorge kommt auf, inwieweit die Erklärung der Vierten Cleantech Infrastrukturgesellschaft mbH in ihrem Schreiben überhaupt rechtlich valide ist.
-
-&nbsp;
-
-“Insbesondere dürften viele Fragen deshalb rechtlich zu prüfen sein, weil mit der Benachrichtigung durch die Thomas Lloyd Gruppe jetzt eine Situation geschaffen worden ist, aus der sich viele Folgefragen ergeben, beispielsweise ob und wie eine Beratung vor Abschluss des Anlagevertrages mögliche Risiken behandelt hat und ob oder welche Personen oder Gesellschaften für etwaig eingetretene Vermögensschäden bei Ausbleiben der Auszahlungen haften könnten.
-
-&nbsp;
-
-Auch wird zu prüfen sein, inwieweit den Anlegern nun Rechte und Ansprüche zukommen, um sich zur Wehr zu setzen.” meint Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Kim Oliver Klevenhagen, Gründungspartner der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin, der mit seinem Team und gemeinsam mit seinem Kanzleipartner Rechtsanwalt Dr. Tintemann zahlreiche Anleger verschiedenster Emittenten vertritt.
-
-&nbsp;
-
-Erst kürzlich wurden vor dem LG München I gegen die Leasetrend AG, die sich mit ähnlichen Argumenten, wie nun die Vierte Cleantech gegen Auszahlungansprüche der Anleger wehren wollte, zwei obsiegende Entscheidungen erzielt in denen die Anlagegesellschaft zur Zahlung verurteilt wurde.
-
-&nbsp;
-
-Nicht einfach hinhalten lassen\! Handlungsbedarf prüfen.
-
-Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermä&szlig;ig hinhalten zu lassen.
-
-&nbsp;
-
-Oft kann hier die Einschaltung eines Spezialisten im Bereich des Bank, und Kapitalmarktrecht schnell zu einer Auszahlung des eigenen Guthabens führen.
-
-&nbsp;
+Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht hinhalten zu lassen.&nbsp; Lassen Sie sich beraten, wo Sie rechtlich stehen und welche konkreten Handlungsoptionen in Ihrer Vertragssituation wirtschaftlich sinnvoll sind. &nbsp;&nbsp;
 
 Die spezialisierten Rechts- und Fachanwälte der Kanzlei AdvoAdvice in Berlin haben in Mandaten bezüglich der Thomas Lloyd Gruppe bereits eine Vielzahl von Anlegern erfolgreich gerichtlich vertreten und stehen Ihnen als Anleger mit Rat und Tat zur Seite. Wir verfügen aufgrund unserer langjährigen Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
 
-&nbsp;
-
 Unsere Anlegergemeinschaft bündelt die Interessen und sorgt für eine Wissenskonzentration.
 
-Schlie&szlig;en Sie sich gerne unserer Anlegergemeinschaft&nbsp; Vierte Cleantech an. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
+Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmitteln. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind für uns selbstverständlich.
 
-&nbsp;
-
-Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbar erste Einschätzung, damit sie wissen, wo sie rechtlich steh
-
-en. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für sie wirtschaftlich sinnvoll wäre.
-
-&nbsp;
-
-&nbsp;
+Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbar erste Einschätzung in der wir auch besprechen können, ob eine anwaltliche Begleitung erfolgversprechend und vor allem für sie wirtschaftlich sinnvoll wäre.
