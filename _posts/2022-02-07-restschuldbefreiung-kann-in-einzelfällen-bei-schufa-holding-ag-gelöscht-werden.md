@@ -40,19 +40,25 @@ Wie an der vorstehenden Ausführung bereits erkennbar ist, handelt es sich bei e
 
 ## **Hessischer Beauftragte für Datenschutz und Informationsfreiheit wirkt auf Löschung der Restschuldbefreiung hin**
 
-Die Löschung des Merkmals der Restschuldbefreiung bei der Schufa Holding AG konnte kurz vor Weihnachten über den Hessischen Beauftragten für Datenschutz und Informationsfreiheit erreicht werden. Dieser teilte mit, dass sich die Schufa Holding AG im konkreten Einzelfall ausnahmsweise zur Löschung der Daten entschieden habe, obgleich weiter nicht von einem konkreten Löschanspruch ausgegangen werden könne.
+Die Betroffene hatte sich hierzu zunächst an die Kanzlei AdvoAdvice gewandt und die Schufa zur Löschung des Eintrags über die Restschuldbefreiung aufgefordert. Als dies ohne Erfolg blieb, wurde eine Eingabe an den Hessischen Beauftragten für Datenschutz und Informationsfreiheit durch AdvoAdvice vorgenommen.&nbsp;
 
-### **Hintergrund der Insolvenz**
+Vor dem Hintergrund der Rechtsprechung des OLG Schleswig und des Verwaltungsgerichts Wiesbaden bestand hier der Grund zur Annahme, dass die Behörde ihre bisherige Verwaltungspraxis vielleicht anpassen oder sogar komplett verändern würde.&nbsp;
 
-Hintergrund des sehr speziellen Falles war, dass im Insolvenzverfahren lediglich zwei Forderungen angemeldet wurden, welche beide schon relativ alt waren. Konkret handelte es sich um Forderungen aus einem Mietverhältnis, welche bereits 15 Jahre vor Eröffnung der Insolvenz tituliert wurden. Die seinerzeit gerade volljährige Betroffene lebte mit einer dritten Person zusammen. Diese dritte Person kümmerte sich um die vertraglichen Angelegenheiten, sodass die Betroffene von dem Vorgang zunächst nichts mitbekam. Erst nach der Rückkehr aus einem Auslandsaufenthalt viele Jahre später erfuhr sie von der Forderung im mittleren vierstelligen Bereich.
+Die Löschung des Merkmals der Restschuldbefreiung bei der Schufa Holding AG konnte tatsächlich ohne einen Gerichtsprozess kurz vor Weihnachten über den Hessischen Beauftragten für Datenschutz und Informationsfreiheit erreicht werden.&nbsp;
 
-Da die Betroffene in ihren wirtschaftlichen Möglichkeiten sehr eingeschränkt war, strebte diese trotz des verhältnismä&szlig;ig geringen Forderungsbetrages ein Insolvenzverfahren an. Dieses wurde sodann problemlos durchlaufen. Gleichwohl wurde das Merkmal der Restschuldbefreiung im Anschluss weiter verarbeitet. Nach Auffassung der Kanzlei AdvoAdvice Rechtsanwälte lag hier jedoch ein Einzelfall vor, in welchem eine Löschung des Eintrages angezeigt war.
+Dieser teilte mit, dass sich die Schufa Holding AG im konkreten Einzelfall ausnahmsweise zur Löschung der Daten entschieden habe, obgleich weiter nicht von einem konkreten Löschanspruch ausgegangen werden könne.
 
 ### **Durchsetzung der Löschung**
 
 Nach Übersendung entsprechender Unterlagen lie&szlig; der Hessische Beauftragte für Datenschutz und Informationsfreiheit zunächst verlauten, dass eine Löschung nur im Einzelfall bei Vorliegen einer uneingeschränkten Bonität in Betracht komme. Problematisch erschien hierbei, dass die verhältnismä&szlig;ig niedrige Summe selbst im Insolvenzverfahren nicht vollständig zurückgezahlt werden konnte.
 
 Nach einigen Wochen meldete sich der Hessische Datenschutzbeauftragte jedoch erneut und wies darauf hin, dass er sich für eine Löschung eingesetzt und die Schufa Holding AG eine Löschung wohl bereits vorgenommen habe. Nach Überprüfung durch die Betroffene stellte sich heraus, dass der Eintrag tatsächlich gelöscht wurde.
+
+### **Hintergrund der Insolvenz mit Restschuldbefreiung**
+
+Hintergrund des sehr speziellen Falles war, dass im Insolvenzverfahren lediglich zwei Forderungen angemeldet wurden, welche beide schon relativ alt waren. Konkret handelte es sich um Forderungen aus einem Mietverhältnis, welche bereits 15 Jahre vor Eröffnung der Insolvenz tituliert wurden. Die seinerzeit gerade volljährige Betroffene lebte mit einer dritten Person zusammen. Diese dritte Person kümmerte sich um die vertraglichen Angelegenheiten, sodass die Betroffene von dem Vorgang zunächst nichts mitbekam. Erst nach der Rückkehr aus einem Auslandsaufenthalt viele Jahre später erfuhr sie von der Forderung im mittleren vierstelligen Bereich.
+
+Da die Betroffene in ihren wirtschaftlichen Möglichkeiten sehr eingeschränkt war, strebte diese trotz des verhältnismä&szlig;ig geringen Forderungsbetrages ein Insolvenzverfahren an. Dieses wurde sodann problemlos durchlaufen. Gleichwohl wurde das Merkmal der Restschuldbefreiung im Anschluss weiter verarbeitet. Nach Auffassung der Kanzlei AdvoAdvice Rechtsanwälte lag hier jedoch ein Einzelfall vor, in welchem eine Löschung des Eintrages angezeigt war. Dies hat sich nunmehr bestätigt.
 
 ## **Fazit**
 
