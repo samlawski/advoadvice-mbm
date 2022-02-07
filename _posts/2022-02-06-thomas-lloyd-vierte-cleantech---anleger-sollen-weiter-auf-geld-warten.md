@@ -5,7 +5,8 @@ description: >-
   Anleger, die von der Vierten Infrastrukturgesellschaft mbH, einer Gesellschaft
   der Thomas Lloyd Gruppe, Auszahlungen erwarten, werden weiter vertröstet.
   Nachdem Auszahlungen "frühestens für Herbst 2021" angekündigt waren, soll es
-  nun das 3. Quartal 2022 sein. Es besteht Handlungsbedarf.
+  nun "voraussichtlich im dritten Quartal 2022" sein. Es besteht
+  Handlungsbedarf.
 layout: post
 style_id: post
 image: /uploads/magnifier-5245329-1920.jpg
