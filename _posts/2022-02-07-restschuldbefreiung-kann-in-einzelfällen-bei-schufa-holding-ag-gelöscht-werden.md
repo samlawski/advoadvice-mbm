@@ -28,7 +28,7 @@ Die Kanzlei AdvoAdvice Rechtsanwälte berichtet vorliegend über die Erfolge, di
 
 Seit dem wegweisenden Urteile des Oberlandesgericht Schleswig (Urteil vom 02.07.2021) und zwei ebenfalls durch AdvoAdvice erstrittenen Vorlagebeschlüssen des Verwaltungsgericht Wiesbaden (Az. 6 K 441/21.WI&nbsp; sowie 6 K 1052/21.WI) an den EuGH wird über die Frage, ob Auskunfteien wie die Schufa Holding AG das Merkmal der Restschuldbefreiung rechtmä&szlig;ig speichern dürfen, wieder verstärkt diskutiert ([wir berichteten ausführlich hier](https://advoadvice.de/blog/restschuldbefreiung-bgh-und-eugh-entscheiden-%C3%BCber-speicherung-durch-die-schufa-holding-ag/){: target="_blank" rel="noopener"}).
 
-Hintergrund ist, dass nach dem Verhaltenskodex der Auskunfteien und der alten Rechtslage bis 2018 eine Speicherung der Daten für insgesamt drei Jahre möglich ist. In den staatlichen Portalen (insolvenzbekanntmachung.de) darf das Merkmal hingegen nur für bis zu sechs Monate verarbeitet werden. Eine grundlegende Klärung ist erst durch den EuGH (Az. C-26/22 und C-64/22) und den BGH (Az. VI ZR 225/21) zu erwarten.
+Hintergrund ist, dass nach dem Verhaltenskodex der Auskunfteien und der alten Rechtslage bis 2018 eine Speicherung der Daten für insgesamt drei Jahre möglich ist. In den staatlichen Portalen (insolvenzbekanntmachung.de) darf das Merkmal hingegen nur für bis zu sechs Monate verarbeitet werden. Eine grundlegende Klärung ist erst durch den EuGH (Az. C-26/22 und C-64/22) und den BGH (Az. VI ZR 225/21 + VI ZR 367/21) zu erwarten.
 
 ## **Löschung in Einzelfällen möglich?**
 
