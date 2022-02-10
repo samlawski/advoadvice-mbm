@@ -8,7 +8,7 @@ description: >-
   warten und suchen anwaltlichen Rat.
 layout: post
 style_id: post
-image:
+image: /uploads/success-1093891-1280.jpg
 tags:
   - Anleger
   - Börsengang
