@@ -85,6 +85,4 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.
 
-Wir weisen darauf hin, dass unsere Pressemittelungen dem Stand der Veröffentlichung entsprechen und nicht unbedingt nachträglich korrigiert oder aktualisiert werden, auch wenn in weiteren Instanzen eine abweichende Entscheidung getroffen werden sollte. Es gilt der Tag der Veröffentlichung als Tag der inhaltlichen Berichterstattung.&nbsp;
-
 Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
