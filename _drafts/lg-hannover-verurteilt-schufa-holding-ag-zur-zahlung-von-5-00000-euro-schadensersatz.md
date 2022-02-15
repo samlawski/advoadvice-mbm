@@ -6,7 +6,7 @@ date: 2022-02-15 08:50:22
 description: Schufa muss 5.000 Euro Schadensersatz zahlen
 layout: post
 style_id: post
-image:
+image: /uploads/schufa-eintrag-und-schadensersatz.jpg
 tags:
   - Schufarecht
   - Schufa-Recht
@@ -35,43 +35,43 @@ Das Problem für den Kläger war, dass ein Negativeintrag vorgenommen wurde, obw
 
 Das Landgericht Hannover stellte bereits im Oktober 2020 in einer Verfügung klar (LG Hannover, Verfügung v. 16.10.2020 – 13 O 133/20):
 
-*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem au&szlig;ergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]*&nbsp;*nicht zweifelsfrei schlie&szlig;en, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
+*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem außergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]* *nicht zweifelsfrei schließen, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
 
 *lnsofern wird die Beklagte gebeten zu prüfen, ob im Kosteninteresse ein Anerkenntnis in Betracht kommt.“*
 
 Erst in der mündlichen Verhandlung kam es dann zu dem angeforderten Anerkenntis.
 
-Trotz der Tatsache, dass der Kläger bereits im April 2019 monierte, dass keine ausreichenden Schreiben bei ihm eingegangen seien, lie&szlig; es die Schufa zu dem Prozess kommen. Nach dem Anerkenntnis wurde die Löschung sodann erneut nicht vorgenommen. Erst gute zwei Monate nach dem Urteil und nach erneuter Aufforderung durch die Kanzlei AdvoAdvice wurde die Löschung vorgenommen.
+Trotz der Tatsache, dass der Kläger bereits im April 2019 monierte, dass keine ausreichenden Schreiben bei ihm eingegangen seien, ließ es die Schufa zu dem Prozess kommen. Nach dem Anerkenntnis wurde die Löschung sodann erneut nicht vorgenommen. Erst gute zwei Monate nach dem Urteil und nach erneuter Aufforderung durch die Kanzlei AdvoAdvice wurde die Löschung vorgenommen.
 
 ### **Schadensersatz und zweites Verfahren**
 
 Der Kläger wollte den Vorgang nicht auf sich beruhen lassen, da der Negativeintrag massive Schwierigkeiten in privater und beruflicher Sicht mit sich brachte. Aus Sicht der Kanzlei AdvoAdvice waren hier die unterschiedlichen Zeitabschnitte und insbesondere der Zeitpunkt nach dem Anerkenntnis bis zur Löschung erschwerend zu berücksichtigen.
 
-Aus dem Vortrag des Klägers folgte sodann eine Gesamtforderung in Höhe von über 17.000,00 Euro, welche sodann gegenüber der Schufa Holding AG geltend gemacht wurde. Ein entscheidender Punkt in diesem Urteil ist, dass das Gericht dazu kam, ein Verschulden der Schufa Holding AG ab dem Zeitpunkt der ersten Löschaufforderung zu erkennen. Konkret hie&szlig; es:
+Aus dem Vortrag des Klägers folgte sodann eine Gesamtforderung in Höhe von über 17.000,00 Euro, welche sodann gegenüber der Schufa Holding AG geltend gemacht wurde. Ein entscheidender Punkt in diesem Urteil ist, dass das Gericht dazu kam, ein Verschulden der Schufa Holding AG ab dem Zeitpunkt der ersten Löschaufforderung zu erkennen. Konkret hieß es:
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Zitat verschulden
+ Zitat verschulden
 
 ## **OLG Celle wird sich mit dem Fall beschäftigen**
 
 So erfreulich das Urteil des LG Hannover für betroffene Personen mit Schufa-Eintrag ist, wird dieses Verfahren voraussichtlich (Stand 15.02.2022) weitergehen. Es ist zu erwarten, dass beide Parteien in Berufung gehen, um das Urteil überprüfen zu lassen.
 
-Aus Sicht des Klägers bleibt das Gericht hinter dem geforderten Betrag deutlich zurück, sodass trotz des erfreulichen Zwischenerfolges ein weiteres Interesse an der Verfolgung der Ansprüche besteht. Die Schufa Holding AG wird wohl, dies ist zu vermuten, das Urteil nicht hinnehmen wollen , sondern eine weitere Überprüfung anstreben. So oder so wird das Verfahren dann beim Oberlandesgericht Celle landen, um eine womöglich abschlie&szlig;ende Klärung der offenen Fragen herbeizuführen.
+Aus Sicht des Klägers bleibt das Gericht hinter dem geforderten Betrag deutlich zurück, sodass trotz des erfreulichen Zwischenerfolges ein weiteres Interesse an der Verfolgung der Ansprüche besteht. Die Schufa Holding AG wird wohl, dies ist zu vermuten, das Urteil nicht hinnehmen wollen , sondern eine weitere Überprüfung anstreben. So oder so wird das Verfahren dann beim Oberlandesgericht Celle landen, um eine womöglich abschließende Klärung der offenen Fragen herbeizuführen.
 
 ## **Fazit**
 
 Rechtsanwalt Dr. Raphael Rohrmoser führte die Verhandlung vor dem LG Hannover in einer Videokonferenz von seinem Kanzleisitz aus. Er kam zu folgender Schlussfolgerung:
 
-*„Das Urteil des Landgerichts Hannover setzt ein deutliches Zeichen, wenn es darum geht, Schadensersatzansprüche nach einer Datenschutzverletzung zu erstreiten. Gerade mit Blick auf Auskunfteien hält das Gericht fest, dass es sich bei den verarbeiteten Daten um sensible Daten handelt, welche Auswirkungen auf das Leben der Betroffenen haben. Nach meiner Meinung führen die Ausführungen zum Thema „Verschulden“ als zentralem Bestandteil des Ersatzanspruches dazu, dass verarbeitende Stellen künftig noch besser prüfen sollten, ob die Daten rechtmä&szlig;ig verarbeitet werden und Nachweise dafür vorzuhalten. Erfolgt dies nicht, muss mit weiterenn Betroffenen gerechnet werden, welche Schadensersatzansprüche geltend machen.“*
+*„Das Urteil des Landgerichts Hannover setzt ein deutliches Zeichen, wenn es darum geht, Schadensersatzansprüche nach einer Datenschutzverletzung zu erstreiten. Gerade mit Blick auf Auskunfteien hält das Gericht fest, dass es sich bei den verarbeiteten Daten um sensible Daten handelt, welche Auswirkungen auf das Leben der Betroffenen haben. Nach meiner Meinung führen die Ausführungen zum Thema „Verschulden“ als zentralem Bestandteil des Ersatzanspruches dazu, dass verarbeitende Stellen künftig noch besser prüfen sollten, ob die Daten rechtmäßig verarbeitet werden und Nachweise dafür vorzuhalten. Erfolgt dies nicht, muss mit weiterenn Betroffenen gerechnet werden, welche Schadensersatzansprüche geltend machen.“*
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz.
 
-Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.&nbsp;
+Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
 Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre erfolgreiche Prozessführung und Expertise im Bereich der Löschung von Negativeinträgen bei der Schufa Holding AG und anderen bekannten Auskunfteien, die z.B. Boniversum Creditreform, CRIF Bürgel oder Arvato Infoscore bekannt und konnten schon zahlreichen Betroffenen bei der Löschung von Negativeinträgen, der Verbesserung von Scorewerten, der Löschung von Einträgen aus öffentlichen Verzeichnissen oder der Löschung von Einträgen zur Restschuldbefreiung helfen.
 
-Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.&nbsp;
+Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.&nbsp;
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
 
 **LG Hannover verurteilt Schufa Holding AG zur Zahlung von 5.000,00 Euro Schadensersatz**
 
@@ -87,42 +87,40 @@ Das Problem für den Kläger war, dass ein Negativeintrag vorgenommen wurde, obw
 
 Das Landgericht Hannover stellte bereits im Oktober 2020 in einer Verfügung klar (LG Hannover, Verfügung v. 16.10.2020 – 13 O 133/20):
 
-*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem au&szlig;ergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]*&nbsp;*nicht zweifelsfrei schlie&szlig;en, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
+*„Angesichts des klägerseitigen Bestreitens des Zugangs der Mahnungen ist die Beklagte beweisbelastet für den Zugang der Mahnungen (vgl. OLG Köln, Urteil vom 21. Oktober 2014 — 1-15 U 107/14 —, juris Rn. 59). Ein solcher Beweis ist bislang nicht angeboten und lässt sich hier auch nicht über lndizien führen. lnsbesondere lässt sich aus dem außergerichtlichen Schreiben des Klägervertreters vom 28.06.2019 \[…\]* *nicht zweifelsfrei schließen, dass dem Kläger die konkreten Mahnungen der Telekom auch zugegangen waren, zumal diese offenbar nur mit einfacher Post versandt worden waren und der Kläger vorgetragen hat, zu jener Zeit nicht unter der Anschrift, an die die Mahnungen gerichtet waren, gewohnt zu haben.*
 
 *lnsofern wird die Beklagte gebeten zu prüfen, ob im Kosteninteresse ein Anerkenntnis in Betracht kommt.“*
 
 Erst in der mündlichen Verhandlung kam es dann zu dem angeforderten Anerkenntis.
 
-Trotz der Tatsache, dass der Kläger bereits im April 2019 monierte, dass keine ausreichenden Schreiben bei ihm eingegangen seien, lie&szlig; es die Schufa zu dem Prozess kommen. Nach dem Anerkenntnis wurde die Löschung sodann erneut nicht vorgenommen. Erst gute zwei Monate nach dem Urteil und nach erneuter Aufforderung durch die Kanzlei AdvoAdvice wurde die Löschung vorgenommen.
+Trotz der Tatsache, dass der Kläger bereits im April 2019 monierte, dass keine ausreichenden Schreiben bei ihm eingegangen seien, ließ es die Schufa zu dem Prozess kommen. Nach dem Anerkenntnis wurde die Löschung sodann erneut nicht vorgenommen. Erst gute zwei Monate nach dem Urteil und nach erneuter Aufforderung durch die Kanzlei AdvoAdvice wurde die Löschung vorgenommen.
 
 **Schadensersatz und zweites Verfahren**
 
 Der Kläger wollte den Vorgang nicht auf sich beruhen lassen, da der Negativeintrag massive Schwierigkeiten in privater und beruflicher Sicht mit sich brachte. Aus Sicht der Kanzlei AdvoAdvice waren hier die unterschiedlichen Zeitabschnitte und insbesondere der Zeitpunkt nach dem Anerkenntnis bis zur Löschung erschwerend zu berücksichtigen.
 
-Aus dem Vortrag des Klägers folgte sodann eine Gesamtforderung in Höhe von über 17.000,00 Euro, welche sodann gegenüber der Schufa Holding AG geltend gemacht wurde. Ein entscheidender Punkt in diesem Urteil ist, dass das Gericht dazu kam, ein Verschulden der Schufa Holding AG ab dem Zeitpunkt der ersten Löschaufforderung zu erkennen. Konkret hie&szlig; es:
+Aus dem Vortrag des Klägers folgte sodann eine Gesamtforderung in Höhe von über 17.000,00 Euro, welche sodann gegenüber der Schufa Holding AG geltend gemacht wurde. Ein entscheidender Punkt in diesem Urteil ist, dass das Gericht dazu kam, ein Verschulden der Schufa Holding AG ab dem Zeitpunkt der ersten Löschaufforderung zu erkennen. Konkret hieß es:
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Zitat verschulden
+ Zitat verschulden
 
 **OLG Celle wird sich mit dem Fall beschäftigen**
 
 So erfreulich das Urteil des LG Hannover für betroffene Personen mit Schufa-Eintrag ist, wird dieses Verfahren voraussichtlich (Stand 15.02.2022) weitergehen. Es ist zu erwarten, dass beide Parteien in Berufung gehen, um das Urteil überprüfen zu lassen.
 
-Aus Sicht des Klägers bleibt das Gericht hinter dem geforderten Betrag deutlich zurück, sodass trotz des erfreulichen Zwischenerfolges ein weiteres Interesse an der Verfolgung der Ansprüche besteht. Die Schufa Holding AG wird wohl, dies ist zu vermuten, das Urteil nicht hinnehmen wollen , sondern eine weitere Überprüfung anstreben. So oder so wird das Verfahren dann beim Oberlandesgericht Celle landen, um eine womöglich abschlie&szlig;ende Klärung der offenen Fragen herbeizuführen.
+Aus Sicht des Klägers bleibt das Gericht hinter dem geforderten Betrag deutlich zurück, sodass trotz des erfreulichen Zwischenerfolges ein weiteres Interesse an der Verfolgung der Ansprüche besteht. Die Schufa Holding AG wird wohl, dies ist zu vermuten, das Urteil nicht hinnehmen wollen , sondern eine weitere Überprüfung anstreben. So oder so wird das Verfahren dann beim Oberlandesgericht Celle landen, um eine womöglich abschließende Klärung der offenen Fragen herbeizuführen.
 
 **Fazit**
 
 Rechtsanwalt Dr. Raphael Rohrmoser führte die Verhandlung vor dem LG Hannover in einer Videokonferenz von seinem Kanzleisitz aus. Er kam zu folgender Schlussfolgerung:
 
-*„Das Urteil des Landgerichts Hannover setzt ein deutliches Zeichen, wenn es darum geht, Schadensersatzansprüche nach einer Datenschutzverletzung zu erstreiten. Gerade mit Blick auf Auskunfteien hält das Gericht fest, dass es sich bei den verarbeiteten Daten um sensible Daten handelt, welche Auswirkungen auf das Leben der Betroffenen haben. Nach meiner Meinung führen die Ausführungen zum Thema „Verschulden“ als zentralem Bestandteil des Ersatzanspruches dazu, dass verarbeitende Stellen künftig noch besser prüfen sollten, ob die Daten rechtmä&szlig;ig verarbeitet werden und Nachweise dafür vorzuhalten. Erfolgt dies nicht, muss mit weiterenn Betroffenen gerechnet werden, welche Schadensersatzansprüche geltend machen.“*
+*„Das Urteil des Landgerichts Hannover setzt ein deutliches Zeichen, wenn es darum geht, Schadensersatzansprüche nach einer Datenschutzverletzung zu erstreiten. Gerade mit Blick auf Auskunfteien hält das Gericht fest, dass es sich bei den verarbeiteten Daten um sensible Daten handelt, welche Auswirkungen auf das Leben der Betroffenen haben. Nach meiner Meinung führen die Ausführungen zum Thema „Verschulden“ als zentralem Bestandteil des Ersatzanspruches dazu, dass verarbeitende Stellen künftig noch besser prüfen sollten, ob die Daten rechtmäßig verarbeitet werden und Nachweise dafür vorzuhalten. Erfolgt dies nicht, muss mit weiterenn Betroffenen gerechnet werden, welche Schadensersatzansprüche geltend machen.“*
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz.
 
-Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.&nbsp;
+Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
 Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre erfolgreiche Prozessführung und Expertise im Bereich der Löschung von Negativeinträgen bei der Schufa Holding AG und anderen bekannten Auskunfteien, die z.B. Boniversum Creditreform, CRIF Bürgel oder Arvato Infoscore bekannt und konnten schon zahlreichen Betroffenen bei der Löschung von Negativeinträgen, der Verbesserung von Scorewerten, der Löschung von Einträgen aus öffentlichen Verzeichnissen oder der Löschung von Einträgen zur Restschuldbefreiung helfen.
 
-Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.&nbsp;
+Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.&nbsp;
-
-&nbsp;
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
