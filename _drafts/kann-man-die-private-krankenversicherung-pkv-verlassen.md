@@ -46,7 +46,17 @@ Für den Wechsel muss auch nicht die eigene Selbständigkeit oder die ausgeübte
 
 Vielmehr ist eine Firmenneugründung im Ausland nötig. Ein Wechsel des Wohnortes ins Ausland oder gar ein Umzug sind hingegen nicht erforderlich.&nbsp;
 
-&nbsp;
+## Übergangszeit mit Versicherungskarte eines deutschen Krankenversicherers
+
+Nach der Kündigung der PKV ist man nicht schutzlos und ohne Versicherung, sondern erhält eine in Deutschland gültige Krankenversicherungskarte, mit der man ohne Probleme zum Arzt gehen und sich dort behandeln lassen kann. Es ist für niemanden zu erkennen, dass man sich gerade im Versicherungswechsel befindet. Man muss nur seinem Arzt mitteilen, dass man jetzt nicht mehr Privatpatient ist. Das lästige Bezahlen und Einreichen von Rechnungen entfällt komplett.
+
+## Beratung durch Rechtsanwälte und Netzwerkpartner
+
+Betroffene, die sich für einen Ausstieg aus der Privaten Krankenversicherung interessieren können sich bei Interesse gerne an die Kanzlei AdvoAdvice Rechtsanwälte mbB, Ansprechpartner Dr. Sven Tintemann, wenden.&nbsp;
+
+Diesen erreichen Sie unter 030 921 000 40 oder info@advoadvice.de. Wir bieten Ihnen zu Ihrer persönlichen Versicherungssituation eine kostenfrei Ersteinschätzung an und sind aufgrund unserer Berufungsordnung zu absoluter Diskretion verpflichtet.&nbsp;
+
+Wir arbeiten bei der Umsetzung Ihres Vorhabens mit erfahrenen Beratern im In- und Ausland zusammen, um Sie innerhalb von 13-15 Monaten in die gesetzliche Krankenversicherung zurückzuholen.&nbsp;
 
 &nbsp;
 
