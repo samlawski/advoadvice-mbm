@@ -27,7 +27,7 @@ author: dr--raphael-rohrmoser
 ---
 Viele Betroffene fragen ihren Anwalt, ob man nach einem negativen Eintrag bei einer Auskunftei wie der Schufa Holding AG Schadensersatz oder „Schmerzensgeld“ verlangen kann. Diese Frage lässt sich nicht pauschal beantworten. Die Möglichkeiten für einen solchen Anspruch bestehen aber.
 
-Nachdem die Experten aus der Kanzlei AdvoAdvice erst kürzlich einen Schadensersatz in Höhe von 5.000,00 Euro wegen eines Negativeintrages gegen eine Inkassofirma erstritten haben ([zum Bericht](/blog/landgericht-mainz-inkassofirma-muss-5-000-euro-schadensersatz-wegen-schufa-eintrag-zahlen/)), wurde nunmehr die Schufa Holding AG vom Landgericht Hannover zur Zahlung eines Betrages in Höhe von 5.000,00 Euro verurteilt.
+Nachdem die Experten aus der Kanzlei AdvoAdvice erst kürzlich einen Schadensersatz in Höhe von 5.000,00 Euro wegen eines Negativeintrages gegen eine Inkassofirma erstritten haben ([zum Bericht](/blog/landgericht-mainz-inkassofirma-muss-5-000-euro-schadensersatz-wegen-schufa-eintrag-zahlen/)), wurde nunmehr die Schufa Holding AG vom Landgericht Hannover ([13 O 129/21)](https://openjur.de/u/2387244.html){: target="_blank" rel="noopener"}zur Zahlung eines Betrages in Höhe von 5.000,00 Euro verurteilt.
 
 ## **Hintergrund des Falles – Eigentlich alles klar. Oder doch nicht?**
 
