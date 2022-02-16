@@ -1,12 +1,12 @@
 ---
-title: Kann man die Private Krankenversicherung (PKV) verlassen?
+title: Wie kann man die Private Krankenversicherung (PKV) verlassen?
 date: 2022-02-16 00:00:00
 description: >-
   Architekt nach mehr als 20 Jahren aus der Privaten Krankenversicherung in die
   gesetzliche Krankenversicherung geholt.
 layout: post
 style_id: post
-image:
+image: /uploads/health-card-g9a02c2c36-1280.jpg
 tags:
   - Krankenversicherung
   - Privatversicherung
