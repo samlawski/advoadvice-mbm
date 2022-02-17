@@ -21,5 +21,7 @@ themes:
     link:
   - titel: IT-Recht
     link:
+  - titel: Sportrecht
+    link:
 reihenfolge: 3
 ---
