@@ -8,7 +8,7 @@ _array_structures:
         value:
           titel:
           link:
-name: Kim Oliver Klevenhagen
+name: RA Kim Oliver Klevenhagen
 titel: Gr&uuml;ndungspartner - Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
 portrait_path: /uploads/dscf0421---homepage.jpg
 email: klevenhagen@advoadvice.de
