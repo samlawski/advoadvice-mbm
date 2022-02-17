@@ -23,5 +23,7 @@ themes:
     link:
   - titel: Sportrecht
     link:
+  - titel: Non-Fungible-Token (NFT)
+    link:
 reihenfolge: 3
 ---
