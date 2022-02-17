@@ -17,7 +17,7 @@ themes:
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Kapitalmarktrecht
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
-  - titel: Schufarecht
+  - titel: Schufa-Recht
     link: https://advoadvice.de/themen/schufa-und-datenschutz
   - titel: Insolvenzrecht
     link: https://advoadvice.de/themen/insolvenz
