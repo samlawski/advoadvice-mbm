@@ -34,7 +34,5 @@ themes:
   - titel: Darlehenswiderruf
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
-  - titel: Privates Baurecht
-    link:
 reihenfolge: 2
 ---
