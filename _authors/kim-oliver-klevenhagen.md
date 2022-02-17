@@ -22,6 +22,8 @@ themes:
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Anwalts- und Notarhaftung
     link:
+  - titel: Private Office
+    link:
   - titel: Steuersparmodelle
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
@@ -30,7 +32,7 @@ themes:
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Privates Baurecht
     link:
-  - titel: Private Office
+  - titel: Legal Investigations - Legal Intelligence
     link:
 reihenfolge: 2
 ---
