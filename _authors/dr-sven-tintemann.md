@@ -13,17 +13,15 @@ titel: Gr&uuml;ndungspartner - Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
 portrait_path: /uploads/dscf0555---homepage-2.jpg
 email: tintemann@advoadvice.de
 themes:
-  - titel: Versicherungsrecht
-    link: https://advoadvice.de/themen/versicherung
-  - titel: Insolvenzrecht
-    link: https://advoadvice.de/themen/insolvenz
-  - titel: Prospekterstellung
-    link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Bankrecht
+    link: https://advoadvice.de/themen/bank-und-kapitalmarkt
+  - titel: Kapitalmarktrecht
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Schufarecht
     link: https://advoadvice.de/themen/schufa-und-datenschutz
-  - titel: Kapitalmarktrecht
-    link: https://advoadvice.de/themen/bank-und-kapitalmarkt
+  - titel: Insolvenzrecht
+    link: https://advoadvice.de/themen/insolvenz
+  - titel: Versicherungsrecht
+    link: https://advoadvice.de/themen/versicherung
 reihenfolge: 1
 ---
