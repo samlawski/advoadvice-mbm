@@ -26,7 +26,7 @@ themes:
     link:
   - titel: Legal Investigations - Legal Intelligence
     link:
-  - titel: Krypto-Currency - NFT Legal Operations
+  - titel: Crypto-Currency - NFT Legal Operations
     link:
   - titel: Steuersparmodelle
     link: >-
