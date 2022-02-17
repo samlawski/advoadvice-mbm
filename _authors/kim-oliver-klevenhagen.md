@@ -30,5 +30,7 @@ themes:
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Privates Baurecht
     link:
+  - titel: Private Office
+    link:
 reihenfolge: 2
 ---
