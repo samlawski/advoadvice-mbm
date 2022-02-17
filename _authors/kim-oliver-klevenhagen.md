@@ -26,6 +26,8 @@ themes:
     link:
   - titel: Legal Investigations - Legal Intelligence
     link:
+  - titel: Krypto-Currency - NFT Legal Operations
+    link:
   - titel: Steuersparmodelle
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#schrottimmobilien--steuersparmodelle--immobilienrecht
@@ -33,8 +35,6 @@ themes:
     link: >-
       https://advoadvice.de/themen/bank-und-kapitalmarkt/#wideruf-von-darlehenvertraumlgen-sog-widerrufs-joker
   - titel: Privates Baurecht
-    link:
-  - titel: Krypto-Currency - NFT Legal Operations
     link:
 reihenfolge: 2
 ---
