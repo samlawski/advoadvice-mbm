@@ -25,5 +25,7 @@ themes:
     link: https://advoadvice.de/themen/versicherung
   - titel: Mietrecht (für Vermieter)
     link:
+  - titel: ThomasLloyd Anlegergemeinschaft
+    link: /themen/thomas-lloyd-anlegergemeinschaft/
 reihenfolge: 1
 ---
