@@ -29,5 +29,7 @@ themes:
     link: https://advoadvice.de/themen/versicherung
   - titel: Mietrecht (für Vermieter)
     link:
+  - titel: Private Krankenversicherung kündigen
+    link: /blog/kann-man-die-private-krankenversicherung-pkv-verlassen/
 reihenfolge: 1
 ---
