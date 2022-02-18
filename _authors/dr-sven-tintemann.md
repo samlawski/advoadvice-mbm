@@ -22,7 +22,7 @@ themes:
   - titel: Kapitalmarktrecht
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Insolvenzrecht
-    link: https://advoadvice.de/themen/insolvenz
+    link: /anwalt-fuer/verbraucherinsolvenz-in-deutschland/
   - titel: Lettland Insolvenz
     link: /themen/lettland-insolvenz/
   - titel: Versicherungsrecht
