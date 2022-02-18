@@ -33,5 +33,7 @@ themes:
     link:
   - titel: Schufa-FraudPool
     link: /anwalt-fuer/schufa-fraudpool-eintrag-loeschen/
+  - titel: Deckungsklage
+    link: /themen/deckungsschutzklage/
 reihenfolge: 1
 ---
