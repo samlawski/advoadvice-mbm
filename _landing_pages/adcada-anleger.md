@@ -18,7 +18,7 @@ header_cta_text: >-
   Unternehmensgruppe. Sie lernen uns persönlich mit einer kostenfreien
   Ersteinschätzung Ihres ADCADA Engagements im Rahmen eines für Sie
   unverbindlichen Telefonates kennen.
-header_portrait_image: /uploads/klevenhagen-klein.jpg
+header_portrait_image: /uploads/dscf0421---homepage.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
     titel: Die adcada GmbH stellt Insolvenzantrag - Sie haben Fragen dazu
