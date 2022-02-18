@@ -15,23 +15,23 @@ email: rohrmoser@advoadvice.de
 themes:
   - titel: Schufa-Recht
     link: https://advoadvice.de/themen/schufa-und-datenschutz/
+  - titel: Datenschutz
+    link: https://advoadvice.de/themen/schufa-und-datenschutz/
+  - titel: LKW Maut Rückforderung
+    link: /anwalt-fuer/lkw-maut/
   - titel: Restschuldbefreiung löschen
     link: /anwalt-fuer/schufa-restschuldbefreiung/
   - titel: Scoring verbessern
     link: /anwalt-fuer/schufa-score-verbessern/
-  - titel: Datenschutz
-    link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: DSGVO
     link: /themen/schufa-und-datenschutz/
+  - titel: Suchergebnisse und Bewertungen löschen
+    link: /themen/suchergebnisse-und-bewertungen-loeschen/
   - titel: IT-Recht
     link:
   - titel: Sportrecht
     link:
   - titel: Non-Fungible-Token (NFT)
     link:
-  - titel: LKW Maut Rückforderung
-    link: /anwalt-fuer/lkw-maut/
-  - titel: Suchergebnisse und Bewertungen löschen
-    link: /themen/suchergebnisse-und-bewertungen-loeschen/
 reihenfolge: 3
 ---
