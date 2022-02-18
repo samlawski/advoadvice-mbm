@@ -35,5 +35,7 @@ themes:
     link: /anwalt-fuer/schufa-fraudpool-eintrag-loeschen/
   - titel: Deckungsklage
     link: /themen/deckungsschutzklage/
+  - titel: Stichentscheid
+    link: /themen/stichentscheid/
 reihenfolge: 1
 ---
