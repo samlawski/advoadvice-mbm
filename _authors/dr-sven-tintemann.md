@@ -27,7 +27,7 @@ themes:
     link: /themen/lettland-insolvenz/
   - titel: Versicherungsrecht
     link: https://advoadvice.de/themen/versicherung
-  - titel: Private Krankenversicherung kündigen
+  - titel: PKV verlassen
     link: /blog/kann-man-die-private-krankenversicherung-pkv-verlassen/
   - titel: Mietrecht (für Vermieter)
     link:
