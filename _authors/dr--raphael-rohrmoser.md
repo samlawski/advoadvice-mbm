@@ -15,6 +15,10 @@ email: rohrmoser@advoadvice.de
 themes:
   - titel: Schufa-Recht
     link: https://advoadvice.de/themen/schufa-und-datenschutz/
+  - titel: Restschuldbefreiung löschen
+    link: /anwalt-fuer/schufa-restschuldbefreiung/
+  - titel: Scoring verbessern
+    link: /anwalt-fuer/schufa-score-verbessern/
   - titel: Datenschutz
     link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: DSGVO
