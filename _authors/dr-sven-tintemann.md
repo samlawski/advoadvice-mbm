@@ -13,19 +13,19 @@ titel: Gr&uuml;ndungspartner - Fachanwalt f&uuml;r Bank- und Kapitalmarktrecht
 portrait_path: /uploads/dscf0557.jpg
 email: tintemann@advoadvice.de
 themes:
+  - titel: ThomasLloyd Anlegergemeinschaft
+    link: /themen/thomas-lloyd-anlegergemeinschaft/
+  - titel: Schufa-Recht
+    link: https://advoadvice.de/themen/schufa-und-datenschutz
   - titel: Bankrecht
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Kapitalmarktrecht
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
-  - titel: Schufa-Recht
-    link: https://advoadvice.de/themen/schufa-und-datenschutz
   - titel: Insolvenzrecht
     link: https://advoadvice.de/themen/insolvenz
   - titel: Versicherungsrecht
     link: https://advoadvice.de/themen/versicherung
   - titel: Mietrecht (für Vermieter)
     link:
-  - titel: ThomasLloyd Anlegergemeinschaft
-    link: /themen/thomas-lloyd-anlegergemeinschaft/
 reihenfolge: 1
 ---
