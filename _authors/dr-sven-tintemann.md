@@ -27,9 +27,11 @@ themes:
     link: /themen/lettland-insolvenz/
   - titel: Versicherungsrecht
     link: https://advoadvice.de/themen/versicherung
-  - titel: Mietrecht (für Vermieter)
-    link:
   - titel: Private Krankenversicherung kündigen
     link: /blog/kann-man-die-private-krankenversicherung-pkv-verlassen/
+  - titel: Mietrecht (für Vermieter)
+    link:
+  - titel: Schufa-FraudPool
+    link: /anwalt-fuer/schufa-fraudpool-eintrag-loeschen/
 reihenfolge: 1
 ---
