@@ -18,7 +18,7 @@ themes:
   - titel: Datenschutz
     link: https://advoadvice.de/themen/schufa-und-datenschutz/
   - titel: DSGVO
-    link:
+    link: /themen/schufa-und-datenschutz/
   - titel: IT-Recht
     link:
   - titel: Sportrecht
