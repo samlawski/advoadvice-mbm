@@ -23,5 +23,7 @@ themes:
     link: https://advoadvice.de/themen/insolvenz
   - titel: Versicherungsrecht
     link: https://advoadvice.de/themen/versicherung
+  - titel: Mietrecht (für Vermieter)
+    link:
 reihenfolge: 1
 ---
