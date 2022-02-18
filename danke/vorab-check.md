@@ -2,7 +2,9 @@
 layout: simple_page
 style_id: simple_page
 title: Danke für Ihre Nachricht.
-description: Danke für die Kontaktaufnahme. AdvoAdvice wird sich in Kürze bei Ihnen melden.
+description: >-
+  Danke für die Kontaktaufnahme. AdvoAdvice wird sich schnellstmöglich bei Ihnen
+  melden.
 intro_zeigen: true
 intro_markdown: >-
   Nachdem wir Ihre Angelegenheit geprüft haben, kommen wir mit einer kurzen
