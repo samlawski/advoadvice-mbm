@@ -31,5 +31,7 @@ themes:
     link:
   - titel: LKW Maut Rückforderung
     link: /anwalt-fuer/lkw-maut/
+  - titel: Suchergebnisse und Bewertungen löschen
+    link: /themen/suchergebnisse-und-bewertungen-loeschen/
 reihenfolge: 3
 ---
