@@ -27,5 +27,7 @@ themes:
     link: https://advoadvice.de/themen/versicherung
   - titel: Mietrecht (für Vermieter)
     link:
+  - titel: Lettland Insolvenz
+    link: /themen/lettland-insolvenz/
 reihenfolge: 1
 ---
