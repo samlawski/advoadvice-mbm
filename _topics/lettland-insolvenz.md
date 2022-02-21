@@ -198,6 +198,117 @@ abschnitte:
       hierzu anbieten können.&nbsp;
     image:
     cta: true
+  - abschnitt_template: box_hell
+    titel: Kundenmeinungen zum Angebot der Lettland Insolvenz
+    text_markdown: >-
+      ### OLAF R., SPEDITEUR
+
+
+      Die Situation für kleine und mittelständische Transportunternehmen
+      dramatisiert sich immer mehr. Wir stehen ständig in hartem Wettbewerb.
+      Ebenso kämpfen wir bei Verladern um jeden Cent. Das hat mich an den Rand
+      des Ruins getrieben.&nbsp;
+
+
+      Mein Transportunternehmen ist nicht wegen unserer Kunden insolvent
+      gegangen. Der Grund liegt bei den Spediteuren, die die Ladung an Börsen
+      bzw. auf dem Markt verkaufen. Die Frachten gehen teilweise durch zwei bis
+      drei Hände. Jeder steckt sich etwas in die eigene Tasche und zum Schluss
+      muss man eine Fracht fahren, bei der man draufzahlt. Annehmen musste ich
+      es trotzdem, weil wir ja auch wieder zurück fahren mussten. Mein Umsatz
+      speiste sich zu 60% aus Kontrakt- und zu 40% aus dem Spotgeschäft.&nbsp;
+
+
+      Als ich dann gemerkt habe, dass es so nicht mehr weiter gehen kann, bin
+      ich im Internet auf die Firma Berger Consulting gesto&szlig;en. Ich
+      vereinbarte einen Gesprächstermin. Herr Lichte stand mir kompetent mit Rat
+      und Tat zu Seite und hat mich zusammen mit seinen lettischen und deutschen
+      Anwälten auf dem für mich sehr schwierigen Weg begleitet. Ich bin sehr
+      dankbar für die zweite Chance, die ich dadurch bekommen habe. Lettland
+      belegt im Übrigen im Bereich Logistik innerhalb Europas einen der Top
+      Plätze. So konnte ich schnell und vor allem befreit einen Neuanfang
+      starten. Vielen Dank an Herr Lichte und sein Team.&nbsp;
+
+
+      ### HANS W., APOTHEKER
+
+
+      Das Jahr 2020 war mit Abstand das schlimmste Jahr in meiner 15-jährigen
+      Laufbahn als Apotheker. Als die Corona Krise los ging, gingen auch die
+      Turbulenzen am Apothekenmarkt los. Es war sehr anstrengend für mich und
+      mein Team dieser Zeit, auch dem Lockdown zu trotzen. Wir haben eine
+      direkte Innenstadtlage, die uns dann allerdings zum Verhängnis wurde, als
+      alle die Innenstädte mieden und alle Läden geschlossen hatten. Aber das
+      Fass ist erst später übergelaufen - mit der AVP Pleite. Auch wir waren
+      hiervon betroffen. Ich hatte einen Zahlungsausfall zu kompensieren, den
+      ich nicht mehr auffangen konnte. Gespräche mit der Hausbank für einen KfW
+      Kredit waren erfolglos. Es war eine aussichtslose Situation. Über Google
+      bin ich dann auf die Online-Informationsveranstaltungen der Firma Berger
+      Consulting aufmerksam geworden. Zum besagten Termin war ich dann bei der
+      Veranstaltung. Das wichtigste für mich war, das ich nicht allein bin und
+      das es für alles eine Lösung gibt. Ich konnte mittlerweile einen Neustart
+      in Lettland machen und vertreibe online medizinische Produkte. Einen
+      besseren Neustart hätte ich mir nicht vorstellen können. Ich bin immer
+      noch begeistert und die Verkaufserlöse steigen stetig an. Ich bedanke mich
+      bei Herrn Lichte für die perfekte Zusammenarbeit.&nbsp;
+
+
+      ### CHRISTIAN K., IT-CONSULTANT
+
+
+      Der harte Lockdown im März 2020 hatte für mich immense folgen. Ich war
+      seit 2018 freiberuflicher Programmierer und hatte mich bis Oktober 2019
+      mit kleineren Projekten immer über Wasser gehalten. Im November allerdings
+      konnte ich endlich ein gro&szlig;es Projekt für eine mittelständische
+      Firma in Deutschland übernehmen. Es war in Vollzeit und mit sehr guten
+      Stundensätzen. Ich war sehr glücklich darüber und erleichtert, da ich bis
+      dato noch keinen Gewinn erwirtschaftete und zudem noch Schulden für den
+      Start der Freiberuflichkeit hatte. Im März allerdings ging dann alles sehr
+      schnell. Die mittelständische Firma hat alle Freiberufler aufgrund der
+      unsicheren Situation wegen Corona gekündigt bzw. die Verträge aufgelöst.
+      Parallel dazu hatte ich Probleme mit dem Finanzamt, da zum einen der
+      Umsatz nun deutlich höher war, ich keine vernünftige Buchhaltung hatte und
+      mein Geld war weg. Ich war pleite. Mit Schulden. Mit Ende 20. Es war
+      furchtbar. Ich konnte nicht mehr schlafen und habe mir sehr viele Gedanken
+      gemacht. Im Internet habe ich nach Möglichkeiten der Schuldenbereinigung
+      recherchiert und so bin auf Herr Lichte und Berger Consulting aufmerksam
+      geworden. Nach einem kurzen Telefonat stand ein Termin, an dem wir uns
+      trafen. Ich habe ihm meine Situation geschildert und er konnte mir eine
+      sehr gute Lösung für mein Problem aufzeigen. Ich bin wahnsinnig froh, das
+      ich diesen Weg gegangen bin. Ich konnte neu anfangen, habe mittlerweile
+      auch einen Steuerberater und konnte erste Rücklagen bilden. Vielen Dank an
+      Berger Consulting.
+
+
+      ### MAX W., ONLINE TRADER
+
+
+      Entgegen vieler anderer Schicksale lief mein Corona Jahr wirklich gut ab.
+      Ich war bis zum Lockdown in einem Angestelltenverhältnis und habe nebenher
+      mit Kryptowährungen gehandelt. Es lief wirklich gut, allerdings wurde auch
+      der deutsche Staat schon aufmerksam auf dieses Thema. Daher habe ich
+      aufgrund meiner persönlichen Vorliebe für nordische Länder schon
+      recherchiert, in welchem europäischen Land ich mir meine Homebase
+      vorstellen könnte. So bin ich auch auf Berger Consulting gesto&szlig;en.
+      Nach einem Gespräch mit Herrn Lichte war es klar, Riga wird meine
+      Homebase. Ich bin also hingeflogen und habe mich vor Ort umgeschaut und
+      habe mich sofort wohl gefühlt.&nbsp;
+
+
+      Als dann der Lockdown kam und ich unverschuldet in die Arbeitslosigkeit
+      kam, nutzte ich die Gunst der Stunde und gründete in Riga eine Firma und
+      suchte eine Wohnung.
+
+
+      Herr Lichte unterstützte mich mit seinem Team perfekt. Die Firma war
+      innerhalb weniger Tage gegründet, ein Bankkonto war ebenfalls eingerichtet
+      und eine temporäre Wohnung wartete auf mich. All das hätte ich nicht in so
+      einer kurzen Zeit hinbekommen. Im weiteren Verlauf des Jahres konnte ich
+      erhebliche Gewinne realisieren und habe mittlerweile mein Wunschleben. Ich
+      reise sehr viel und freue mich aber auch immer wieder, nach Hause nach
+      Riga zu kommen. Vielen Dank an Berger Consulting.&nbsp;
+    image:
+    cta: true
 redirect_from:
 redirect_to:
 sitemap: true
