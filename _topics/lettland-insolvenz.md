@@ -104,9 +104,9 @@ abschnitte:
       ### Ablauf der Privatinsolvenz in Lettland
 
 
-      Die Erteilung der Restschuldbefreiung dauert ewta&nbsp; 6 - 36 Monate.
+      Die Erteilung der Restschuldbefreiung dauert etwa&nbsp; 6 - 36 Monate.
       Dieses richtet sich danach, in welcher Höhe Ihre Gläubiger Schulden
-      anmelden.&nbsp;
+      anmelden.
 
 
       Für den Schuldner ist die Insolvenzantragstellung in Lettland eher
@@ -117,20 +117,22 @@ abschnitte:
       ### Lettland für Gläubiger eher kompliziert
 
 
-      Für ihre Gläubiger ist das Geltendmachen von Forderung innerhalb der
+      Für Ihre Gläubiger ist das Geltendmachen von Forderung innerhalb der
       Insolvenz in Lettland eher schwierig, da teils hohe Kosten für Übersetzung
       und Anmeldung der Forderung im Rahmen der Privatinsolvenz entstehen. Dies
-      macht insbesonders eine Verfolgung kleinerer Forderungen durch ihre
+      macht insbesondere eine Verfolgung kleinerer Forderungen durch ihre
       Gläubiger sehr unattraktiv und auch unwirtschaftlich und hilft ihnen als
-      Schuldner.
+      Schuldner. Sehr oft melden Gläubiger kleiner oder auch hoher Forderungen
+      diese nicht in Lettland an, da sie bereits nicht mehr an eine
+      Durchsetzbarkeit oder eine Quote im Insolvenzverfahren glauben.&nbsp;
 
 
       ### Restschuldbefreiung nach Ablauf des lettischen Verfahrens
 
 
-      Werden überhaupt keine Forderungen durch Gläubiger angemeldet, kann dies
-      bereits nach sehr kurzer Zeit eine sofortige Restschuldbefreiung zur Folge
-      haben.
+      Meldet überhaupt kein Gläubiger eine Forderung an oder werden
+      Forderungsanmeldungen aufgrund von Unklarheiten oder Formfehlern nicht
+      anerkannt, erfolgt die sofortige Restschuldbefreiung.&nbsp;
 
 
       Die Restschuldbefreiung muss ins Deutsche übersetzt werden und wird dann
