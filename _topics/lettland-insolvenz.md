@@ -199,7 +199,7 @@ abschnitte:
     image:
     cta: true
   - abschnitt_template: box_hell
-    titel: Kundenmeinungen zum Angebot der Lettland Insolvenz
+    titel: Kundenmeinungen zum Neustart in Lettland
     text_markdown: >-
       ### OLAF R., SPEDITEUR
 
