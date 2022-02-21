@@ -32,7 +32,7 @@ Eine Firmengründung in Lettland läuft dabei im Vergleich zu einer Firmengründ
 
 ## SIA als Alternative zu GmbH
 
-Die mit Abstand beliebteste Unternehmensform ist die SIA, die einer deutschen Gesellschaft mit beschränker Haftung sehr ähnlich ist.
+Die mit Abstand beliebteste Unternehmensform ist die SIA, die einer deutschen Gesellschaft mit beschränkter Haftung sehr ähnlich ist.
 
 Das erforderliche Stammkapital beträgt allerdings nur 2.800 EUR und sollte bei Gründung auf dem Konto einbezahlt sein.
 
@@ -44,7 +44,7 @@ Bei der Gründung einer SIA in Riga erhalten Sie durch unsere Partner vor Ort de
 
 Natürlich erhält Ihre neue Firma auch eine Kontoverbindung in Lettland, die für Sie mit Hilfe unserer Partner vor Ort beantragt und eingerichtet wird.
 
-Zudem gibt vor Ort die Möglichkeit, sich einer bestehenden Bürogemeinschaft in Riga anzuschließen und somit Teil einer wachsenden Community von Startup-Unternehmern in Riga zu werden.
+Zudem gibt vor Ort die Möglichkeit, sich einer bestehenden Bürogemeinschaft in Riga anzuschlie&szlig;en und somit Teil einer wachsenden Community von Startup-Unternehmern in Riga zu werden.
 
 ## 0% KÖRPERSCHAFTSSTEUER AUF NICHT AUSGEZAHLTE GEWINNE
 
@@ -59,7 +59,7 @@ Lettland verzichtet auf die Körperschaftssteuer, wenn die Gewinne einer SIA nic
 * Kein Wohnsitzerfordernis für den Geschäftsführer einer SIA
 * Juristische Personen sind als Geschäftsführer möglich
 * Unternehmensrecht gilt als liberal
-* Doppelbesteuerungsabkommen mit zahlreichen Ländern auch außerhalb der EU
+* Doppelbesteuerungsabkommen mit zahlreichen Ländern auch au&szlig;erhalb der EU
 * Idealer Standort für die Expansion nach Osteuropa oder Russland
 * Währungsmittel EURO und EU Zone
 * Englische Sprache ist weit verbreitet
