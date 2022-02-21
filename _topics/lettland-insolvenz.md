@@ -172,31 +172,26 @@ abschnitte:
     titel: Informationstag zur Lettland Insolvenz
     text_markdown: >-
       Damit Sie die Möglichkeit haben, unsere Kanzlei und Ihre Berater /
-      Ansprechpartner einmal persönlich kennen zu lernen, bieten wir Ihnen jeden
-      Monat unseren Informationstag zur Insolvenz in Lettland in unseren
-      Kanzleiräumen in Berlin an.&nbsp;
+      Ansprechpartner vor Ihrem Weg nach Riga bereits persönlich kennen zu
+      lernen, bieten wir Ihnen in regelmä&szlig;igen Abständen unseren
+      Informationstag zur Insolvenz in Lettland in unseren Kanzleiräumen in
+      Berlin an.&nbsp;
 
 
-      Der nächsten Informationstage zur Lettland Insolvenz finden an folgenden
-      Daten statt:&nbsp;
-
-
-      * 02\.04.2020
-
-      * 07\.05.2020
-
-      * 04\.06.2020
-
-      * 02\.07.2020
-
-
-      Nutzen Sie die Möglichkeit, vor Ort in Berlin die wichtigen Fragen zum
-      Insolvenzverfahren in Lettland und Ihrem Aufenthalt in Riga persönlich mit
-      Rechtsanwalt Dr. Sven Tintemann und einem Berater der Firma [Berger
-      Consulting SIA](https://www.bergerconsulting.lv){:
+      Nutzen Sie die Möglichkeit, um vor Ort in unserer Kanzlei in Berlin die
+      wichtigen Fragen zum Insolvenzverfahren in Lettland und Ihrem Aufenthalt
+      in Riga persönlich mit Rechtsanwalt Dr. Sven Tintemann und einem Berater
+      der Firma [Berger Consulting SIA](https://www.bergerconsulting.lv){:
       target="_blank"}&nbsp;aus Riga zu besprechen und vereinbaren Sie einen
       verbindlichen Termin, an dem wir uns nur für Sie und Ihre Fragen Zeit
       nehmen.&nbsp;
+
+
+      Sollten Sie nicht extra nach Berlin anreisen wollen, können wir Ihnen auch
+      eine Videokonferenz zum gegenseitigen Kennenlernen und Klären von Fragen
+      anbieten. Sprechen Sie uns hierzu ebenfalls gerne an, damit wir Ihnen
+      einen passenden Termin und auch die passende technische Unterstützung
+      hierzu anbieten können.&nbsp;
     image:
     cta: true
 redirect_from:
