@@ -77,6 +77,8 @@ abschnitte:
 
       * Hilfe bei der Jobsuche vor Ort
 
+      * Hilfe bei Einrichtung einer lettischen Bankverbindung&nbsp;
+
       * Hilfe bei der Gründung einer eigenen SIA, falls gewünscht
       (kostenpflichtig)
 
