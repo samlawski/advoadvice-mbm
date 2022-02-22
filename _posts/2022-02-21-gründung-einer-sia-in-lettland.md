@@ -18,7 +18,7 @@ tags:
 topics:
 author: dr-sven-tintemann
 ---
-Durch Ihre Kooperationspartner in Riga / Lettland kann die Kanzlei AdvoAdvice interessierten Mandanten die Gründung einer Firma in Lettland anbieten.
+Durch Ihre [Kooperationspartner in Riga](www.bergerconsulting.lv){: target="_blank" rel="noopener"} / Lettland kann die Kanzlei AdvoAdvice interessierten Mandanten die Gründung einer Firma in Lettland anbieten.
 
 Eine Firmengründung in Lettland läuft dabei im Vergleich zu einer Firmengründung in Deutschland deutlich schneller ab. Eine Eintragung Ihrer neuen Firma kann bereits innerhalb einer Woche erfolgen. Eine Anwesenheit des Gründers in Riga ist dabei nicht zwingend notwendig.
 
@@ -40,9 +40,9 @@ Nach der Rechtsprechung des EuGH im Fall Inspire Art sind im europäischen Ausla
 
 ## Firmengründung mit vollem Service
 
-Bei der Gründung einer SIA in Riga erhalten Sie durch unsere Partner vor Ort den vollen Service zu Ihrer neuen Gesellschaft. Hierzu gehören in jeden Fall die richtige Anmeldung vor Ort, die steuerliche Anmeldung zu Beginn der Tätigkeit sowie die Wahrnehmung der 0nötigen Termine beim Notar und ggf. bei den Behörden.
+Bei der Gründung einer SIA in Riga erhalten Sie durch unsere [Partner vor Ort](www.bergerconsulting.lv){: target="_blank" rel="noopener"}den vollen Service zu Ihrer neuen Gesellschaft. Hierzu gehören in jeden Fall die richtige Anmeldung vor Ort, die steuerliche Anmeldung zu Beginn der Tätigkeit sowie die Wahrnehmung der 0nötigen Termine beim Notar und ggf. bei den Behörden.
 
-Natürlich erhält Ihre neue Firma auch eine Kontoverbindung in Lettland, die für Sie mit Hilfe unserer Partner vor Ort beantragt und eingerichtet wird.
+Natürlich erhält Ihre neue Firma auch eine Kontoverbindung in Lettland, die für Sie mit Hilfe unserer [Partner vor Ort](www.bergerconsulting.lv){: target="_blank" rel="noopener"} beantragt und eingerichtet wird.
 
 Zudem gibt vor Ort die Möglichkeit, sich einer bestehenden Bürogemeinschaft in Riga anzuschlie&szlig;en und somit Teil einer wachsenden Community von Startup-Unternehmern in Riga zu werden.
 
