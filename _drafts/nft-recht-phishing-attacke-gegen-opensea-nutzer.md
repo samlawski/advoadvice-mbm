@@ -17,6 +17,7 @@ tags:
   - IT-Recht
   - Dr. Raphael Rohrmoser
 topics:
+  - nft-und-digitale-kunst
 author: dr--raphael-rohrmoser
 ---
 Alte Betrugsmaschen machen auch vor neuen Entwicklungen nicht halt. Dies mussten kürzlich einige Nutzer der Plattform OpenSea schmerzhaft feststellen. Nur weil das System der NFTs auf einer Blockchain basiert und eine hohe Sicherheit verspricht, hei&szlig;t das am Ende noch lange nicht, dass auch eine vollständige Garantie für Sicherheit gegeben werden kann. Im Gegenteil hört man immer wieder von Betrugsfällen und anderen Schwierigkeiten.
