@@ -30,7 +30,7 @@ Diesen Umstand nutzte der Täter offenbar kreativ aus, indem &nbsp;Nutzer der Pl
 
 Nach den bisher bekannten Zahlen scheinen 32 Nutzer dem Link in der Email gefolgt zu sein. Statt ein Update zu erhalten, ermöglichten die Nutzer damit, dass ihre Walltes geleert wurden. Auf diese 32 Nutzer entfallen wohl über 200 NFTs im Wert von ca. 1.115 Ether, also im Wert von mehr als 2,5 Millionen Euro.
 
-Unter den erbeuteten NFTs befanden sich unter anderem drei „Bored Apre Yacht Club“ und andere beliebte und rare Stücke. Der Täter sortierte die Beute im Anschluss offenbar gut aus und sandte einen Teil der NFTs wieder an die Nutzer zurück.
+Unter den erbeuteten NFTs befanden sich unter anderem drei „Bored Ape Yacht Club“ und andere beliebte und rare Stücke. Der Täter sortierte die Beute im Anschluss offenbar gut aus und sandte einen Teil der NFTs wieder an die Nutzer zurück.
 
 ## **Wie wehrt man sich gegen eine solche Attacke?**
 
@@ -44,7 +44,7 @@ Sofern man Opfer einer Phishing-Attacke geworden ist, sollte man sich umgehend H
 
 ## **Wer haftet für den Schaden?**
 
-Klar ist, dass der oder die Angreifer für einen eingetretenen Schaden haften. Gerade im Internet sind diese Personen aber nur sehr schwer zu identifizieren. Überdies können sich die TäterWeltweit aufhalten, sodass selbst bei einer Identifikation eine Anspruchsdurchsetzung äu&szlig;erst schwierig werden kann.
+Klar ist, dass der oder die Angreifer für einen eingetretenen Schaden haften. Gerade im Internet sind diese Personen aber nur sehr schwer zu identifizieren. Überdies können sich die Täter weltweit aufhalten, sodass selbst bei einer Identifikation eine Anspruchsdurchsetzung äu&szlig;erst schwierig werden kann.
 
 In Einzelfällen kann auch an eine Haftung der Plattform-Betreiber gedacht werden. Dies kommt aber nur dann in Betracht, wenn den Plattform-Betreibern auch tatsächlich ein (schwerwiegender) Vorwurf gemacht werden kann. Dies ist aber nur in Einzelfällen denkbar und muss inhaltlich gut geprüft werden.
 
