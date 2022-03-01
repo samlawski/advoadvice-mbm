@@ -19,7 +19,7 @@ tags:
   - Account
   - Rechtsstreit
 topics:
-author: dr-sven-tintemann
+author: dr--raphael-rohrmoser
 ---
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB hat für eine Mandantin den Zugang zu ihrem gehackten Facebook-Account erstritten. Dies erfolgte nach einem erfolgreichen Antrag auf Erlass einer einstweiligen Verfügung vor dem Landgericht Berlin.&nbsp;
 
