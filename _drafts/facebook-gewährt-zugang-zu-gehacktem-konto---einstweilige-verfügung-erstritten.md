@@ -63,7 +63,45 @@ Daraufhin erlie&szlig; das Landgericht Berlin am 28.01.2022 die beantragte einst
 
 Diese wurde der Gegenseite durch AdvoAdvice am 10.02.2022 in Irland zugestellt.&nbsp;
 
-## Zugang wird nach Konversation mit Facebook-Anwälten freigegeben
+## Zugang endlich freigegeben
+
+Nach der Zustellung der einstweiligen Verfügung meldete sich dann für Meta eine bekannte Gro&szlig;kanzlei und lie&szlig; mitteilen, dass ihre Mandantschaft nunmehr Kontakt zu der betroffenen Mandantin aufgenommen habe. Die Betroffene könne mithilfe dieser Email wieder Zugang zu ihrem Nutzerkonto erhalten.&nbsp;
+
+Dem war allerdings leider immer noch nicht so, da Facebook erneut einen Identitätsnachweis forderte sowie eine erneute Schilderung des Sachverhaltes.&nbsp;
+
+Dies lehnte Rechtsanwalt Dr. Rohrmoser gegenüber Facebook ab und verwies auf die bisher geführte Korrespondenz, den bereits hochgeladenen Personalausweis und die einstweilige Verfügung des Landgerichts Berlin.&nbsp;
+
+Der Firma Meta Platforms Ireland Limited wurde daher eine letzte Frist zur Gewährung des Zugangs gesetzt. Zudem wurde ein Antrag auf Festsetzung eines Ordnungsgeldes angedroht.&nbsp;
+
+Erst jetzt gelang es Facebook endlich, am letzten Tag vor Fristablauf, die alten, im Facebook-Konto hinterlegten Email-Adresse zu löschen und eine neue Emailadresse im Konto zu hinterlegen.&nbsp;
+
+Aufgrund einer erneuten Zusendung eines Freischalt-Codes, nunmehr an die neu hinterlegte Email-Adresse, konnte die Betroffene wieder Zugang zu ihrem Facebook Account erlangen, dort wieder ihre eigenen Fotos reaktivieren und die Fotos der fremden Person löschen. Zudem wurden ihr unbekannte Personen aus den Kontakten gelöscht.&nbsp;
+
+## Fazit der Kanzlei AdvoAdvice Rechtsanwälte&nbsp;
+
+Im vorliegenden Fall hat sich gezeigt, dass ein weltweit handelnder Konzern wie Facebook mit seinen Standard-Routinen, die er seinen Nutzern zum Lösen von Problemen anbietet, schnell an seine Grenzen kommt.&nbsp;
+
+So können Hacker sehr leicht durch ein einfaches Skript das Wiedererlangen der Kontrolle über einen gehackten Account verhindern und so ggf. über Monate Schaden anrichten, auch wenn das Hacking bereits bemerkt wurde.&nbsp;
+
+Der Facebook-Support zeigt hier sich ebenfalls als nicht sehr hilfreich, da oftmals die gleichen Dinge abgefragt werden, um danach auf die im konkreten Fall nicht funktionierenden Standard-Lösungen zu verweisen.&nbsp;
+
+Auch ein anwaltliches Anschreiben vermochte hier zunächst keine schnelle Abhilfe zu verschaffen, so dass daher der Erlass einer einstweiligen Verfügung notwendig war.
+
+Selbst nach Zustellung der einstweiligen Verfügung versuchte es Facebook zunächst weiter mit Standard-Emails, die immer noch einen Freischalt-Codes an die unbekannte Email-Adresse schicken, der Nutzerin Zugang zu deren Account zu gewähren.&nbsp;
+
+Erst ein Telefonat zwischen Dr. Raphael Rohrmoser und dem Anwalt der Gegenseite führte hierzu einem veränderten Vorgehen bei Facebook und zur Wiedererlangung der Kontrolle über den eigenen Zugang bei der Betroffenen.&nbsp;
+
+Der Fall zeigt leider, dass ein normaler Facebook-Nutzer nach einer gut ausgeführten Hacker-Attacke nicht in der Lage ist, ohne anwaltliche Hilfe wieder Kontrolle über sein Facebook Profil zu erlangen.&nbsp;
+
+Erfreulicherweise hat hier das Landgericht Berlin schnell die notwendige einstweilige Verfügung bei völlig klarer und eindeutiger Rechtslage erlassen. So konnte sich die Betroffen dann genau 2 Monate nach Kenntnis des Zugangsproblems über die Gewährung des Zugangs zu ihrem Profil freuen.&nbsp;
+
+## Probleme mit gehacktem Facebook Profil?
+
+Haben auch Sie Probleme mit einem gehackten Profil bei Facebook oder Instagram? Dann suchen Sie sich möglich schnell Hilfe bei einem spezialisierten Rechtsanwalt.&nbsp;
+
+Dr. Raphael Rohrmoser sowie seine Kollegen in der Kanzlei AdvoAdvice Rechtsanwälte mbB helfen Betroffenen gerne mit fairem Rechtsrat und einer schnellen kostenfreien Ersteinschätzung ihrer rechtlichen Situation weiter.&nbsp;
+
+Kontaktieren Sie die Kanzlei AdvoAdvice Rechtsanwälte mbB telefonisch unter der Rufnummer 030 921 000 40 oder schreiben Sie eine Email an info@advoadvice.de.
 
 &nbsp;
 
