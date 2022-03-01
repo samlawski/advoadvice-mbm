@@ -32,3 +32,39 @@ Mit ihrem bisher genutzten Passwort konnte sich die Betroffene Facebook Nutzerin
 ## Zugang über Facebook Ablauf scheitert
 
 Die Betroffene versuchte es daher zunächst auf einem konventionellen Weg, um wieder einen Zugang zu ihrem Profil zu erhalten.&nbsp;&nbsp;
+
+Hierzu lud sie Ihren Personalausweis bei Facebook hoch und beantragte einen Freischalt-Code, um wieder Zugang zu Ihrem Profil zu erhalten. Dies gelang allerdings nicht, da der Freischalt-Code nicht nur an ihre alte Email-Adresse versendet wurde, sondern zudem an eine neu hinterlegte Email-Adresse, die von Facebook mit p\*\*\*\*\*\*\*\*\*\*\*l@hotmail.com angegeben worden war.&nbsp;
+
+Bei dieser Adresse wurde höchstwahrscheinlich ein Skript hinterlegt, welches bei Übersendung eines Freischalt-Codes sofort den angegebenen Link aufrief und wahllose Codeeingaben verursachte.&nbsp;
+
+Die Nutzerin erhielt daher, egal wie schnell sie auch den übermittelten Code eingab, stets die Mittelung:&nbsp;
+
+"Du hast zu viele Codes eingegeben. Versuche es später noch einmal."
+
+## Erfolglose Mitteilung an Facebook Support
+
+Die Nutzerin versuchte es daher zunächst einmal selbstständig, sich an Facebook zu wenden und erklärte dort die Problematik bzgl. des nicht nutzbaren Freischalt-Codes.&nbsp;
+
+Sie forderte Facebook dazu auf, die fremde Email-Adresse zu löschen und somit nur ihr Zugang zu ihrem Facebook Profil zu gewähren z.B. durch Zusendung eines neuen Passwortes.&nbsp;
+
+Auch dies blieb leider ohne Erfolg, ebenso wie die Aufforderung an Facebook, dass Profil mit den Bildern der unbekannten Person bis zur Klärung des Zugangsrechts zu sperren.&nbsp;
+
+## Anwaltliches Schreiben bleibt ebenfalls ohne Erfolg
+
+Die Betroffene wandte sich daher zeitnah an die Kanzlei AdvoAdvice Rechtsanwälte mbB und lie&szlig; nunmehr Facebook durch anwaltliches Schreiben von Rechtsanwalt Dr. Raphael Rohrmoser dazu auffordern, den Zugang zum Facebook Account wieder für die betroffene Mandantin direkt oder über AdvoAdvice einzuräumen.&nbsp;
+
+Auch dies blieb, trotz Fristsetzung und erneuter Erörterung der Sachverhalts und der Hintergründe ohne Erfolg.&nbsp;
+
+## Landgericht Berlin erlässt einstweilige Verfügung gegen Meta
+
+Die Betroffene Nutzerin reichte daher über die Kanzlei AdvoAdvice Rechtsanwälte mbB am 25.01.2022 einen Antrag auf Erlass einer Einstweiligen Verfügung&nbsp; gegen die Meta Platforms Ireland Limited als Betreiberin von Facebook ein.&nbsp;
+
+Daraufhin erlie&szlig; das Landgericht Berlin am 28.01.2022 die beantragte einstweilige Verfügung gegen die Meta Platforms Ireland Limited.&nbsp;
+
+Diese wurde der Gegenseite durch AdvoAdvice am 10.02.2022 in Irland zugestellt.&nbsp;
+
+## Zugang wird nach Konversation mit Facebook-Anwälten freigegeben
+
+&nbsp;
+
+&nbsp;
