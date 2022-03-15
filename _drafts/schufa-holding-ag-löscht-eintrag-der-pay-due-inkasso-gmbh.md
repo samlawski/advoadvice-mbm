@@ -28,4 +28,18 @@ Die Inkassofirma Pay Due Inkasso GmbH hatte zu Lasten eines Berliners einen Nega
 
 Die Forderung war auf einen Fitnessstudio-Vertrag bei McFIT Berlin-Mitte zurückzuführen. Problematisch war hierbei, dass es dort zu dem Betroffenen zwei Verträge gab. Wieso zwei Verträge eingerichtet wurden konnte nicht abschlie&szlig;end geklärt werden. Ein Vertrag wurde problemlos bedient. Der zweite – hier streitgegenständliche – Vertrag wurde wohl fristlos gekündigt. Die angeblich offene Forderung wurde durch den betroffenen McFit-Kunden bestritten. Dies geschah bereits im Sommer 2021.&nbsp;
 
+Im Januar 2022 meldet sich dann die Pay Due Inkasso GmbH und teilte mit, dass sie von McFit Berlin-Mitte beauftragt worden sei, eine Forderung einzutreiben. Es seien noch 790,86 Euro aus dem Mitgliedsvertrag offen. Zudem wurde der Betroffene per Email&nbsp; aufgefordert, die Firma Pay Due wegen des Mietgliedsvertrages bei McFit Berlin-Mitte anzurufen.&nbsp;
+
+## Anwaltliche Hilfe führt zu schnellem Löscherfolg
+
+Der Betroffene wandte sich daher an die Kanzlei AdvoAdvice Rechtsanwälte mbB und bat dort um Bewertung des Sachverhaltes sowie um schnelle Hilfe.&nbsp;
+
+Rechtsanwalt Dr. Raphael Rohrmoser wandte sich daher zunächst an die Pay Due Inkasso GmbH und später auch an die Schufa Holding AG und forderte die Löschung bzw. den Widerruf des Negativeintrages. Dies führte bereits wenige Wochen später zu einer Löschung des Negativeintrages durch die Schufa Holding AG aufgrund der Anmerkungen des betroffenen Mandanten und nach der Rücksprache mit der Pay Due Inkasso GmbH als Vertragspartner der Schufa Holding AG.&nbsp;
+
+Auch Pay Due meldete sich und teilte mit, umgehend einen Löschantrag an die Schufa Holding AG gestellt zu haben. Für die Unannehmlichkeiten, die leider aufgrund eines technisch unvorhersehbaren Fehlers zu einer unerwünschten Einmeldung geführt hätten, entschuldigte sich Pay Due und bot die Übernahme von Kosten in Höhe von 800,00 Euro ohne Anerkennung einer Rechtspflicht an.&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
