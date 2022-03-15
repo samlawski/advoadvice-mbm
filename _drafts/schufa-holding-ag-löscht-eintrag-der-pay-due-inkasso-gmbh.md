@@ -38,7 +38,21 @@ Rechtsanwalt Dr. Raphael Rohrmoser wandte sich daher zunächst an die Pay Due In
 
 Auch Pay Due meldete sich und teilte mit, umgehend einen Löschantrag an die Schufa Holding AG gestellt zu haben. Für die Unannehmlichkeiten, die leider aufgrund eines technisch unvorhersehbaren Fehlers zu einer unerwünschten Einmeldung geführt hätten, entschuldigte sich Pay Due und bot die Übernahme von Kosten in Höhe von 800,00 Euro ohne Anerkennung einer Rechtspflicht an.&nbsp;
 
-&nbsp;
+## Unsere Meinung
+
+Der vorliegende Fall zeigt, dass es immer wichtig ist, zuerst der Ursache eines Schufa-Eintrags auf den Grund zu gehen. Hier lag das Problem wohl in einer Panne bei der Datenverarbeitung bei der ursprünglichen Forderungsinhaberin.&nbsp;
+
+Wenn der Sachverhalt klar ist, kann es oftmals zu einem schnellen Löscherfolg kommen. Hierzu empfiehlt es sich, einen spezialisierten Anwalt einzuschalten.&nbsp;
+
+Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+
+Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
+
+Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre erfolgreiche Prozessführung und Expertise im Bereich der Löschung von Negativeinträgen bei der Schufa Holding AG und anderen bekannten Auskunfteien, die z.B. Boniversum Creditreform, CRIF Bürgel oder Arvato Infoscore bekannt und konnten schon zahlreichen Betroffenen bei der Löschung von Negativeinträgen, der Verbesserung von Scorewerten, der Löschung von Einträgen aus öffentlichen Verzeichnissen oder der Löschung von Einträgen zur Restschuldbefreiung helfen.
+
+Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt.
+
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
 
 &nbsp;
 
