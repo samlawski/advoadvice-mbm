@@ -6,7 +6,7 @@ description: >-
   Berlin-Mitte durch Schufa Holding AG gelöscht.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-eintrag---pay-due.jpg
 tags:
   - Schufa Holding AG
   - Negativeintrag
@@ -20,7 +20,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-Weiterer Erfolg im Kampf gegen fehlerhafte Eintrag bei der Schufa Holding AG durch die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin.&nbsp;
+Weiterer Erfolg im Kampf gegen fehlerhaften Eintrag bei der Schufa Holding AG durch die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin.&nbsp;
 
 ## Fitnessstudiovertrag führt zu Problemen
 
@@ -28,7 +28,7 @@ Die Inkassofirma Pay Due Inkasso GmbH hatte zu Lasten eines Berliners einen Nega
 
 Die Forderung war auf einen Fitnessstudio-Vertrag bei McFIT Berlin-Mitte zurückzuführen. Problematisch war hierbei, dass es dort zu dem Betroffenen zwei Verträge gab. Wieso zwei Verträge eingerichtet wurden konnte nicht abschlie&szlig;end geklärt werden. Ein Vertrag wurde problemlos bedient. Der zweite – hier streitgegenständliche – Vertrag wurde wohl fristlos gekündigt. Die angeblich offene Forderung wurde durch den betroffenen McFit-Kunden bestritten. Dies geschah bereits im Sommer 2021.&nbsp;
 
-Im Januar 2022 meldet sich dann die Pay Due Inkasso GmbH und teilte mit, dass sie von McFit Berlin-Mitte beauftragt worden sei, eine Forderung einzutreiben. Es seien noch 790,86 Euro aus dem Mitgliedsvertrag offen. Zudem wurde der Betroffene per Email&nbsp; aufgefordert, die Firma Pay Due wegen des Mietgliedsvertrages bei McFit Berlin-Mitte anzurufen.&nbsp;
+Im Januar 2022 meldet sich dann die Pay Due Inkasso GmbH und teilte mit, dass sie von McFit Berlin-Mitte beauftragt worden sei, eine Forderung einzutreiben. Es seien noch 790,86 Euro aus dem Mitgliedsvertrag offen. Zudem wurde der Betroffene per Email&nbsp; aufgefordert, die Firma Pay Due wegen des Mitgliedsvertrages bei McFit Berlin-Mitte anzurufen.&nbsp;
 
 ## Anwaltliche Hilfe führt zu schnellem Löscherfolg
 
