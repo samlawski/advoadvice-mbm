@@ -10,11 +10,11 @@ header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
   - zahl: 300+
     text: Anleger
-  - zahl: 175+
+  - zahl: 180+
     text: Klagen
-  - zahl: 1,2 Mio€+
+  - zahl: 1,4 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 190 T€+
+  - zahl: 280 T€+
     text: Auszahlungen an Anleger
   - zahl: '28'
     text: Klagen in Berufungsinstanz gewonnen
