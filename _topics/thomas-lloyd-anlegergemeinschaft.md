@@ -14,7 +14,7 @@ erfolge:
     text: Klagen
   - zahl: 1,4 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 280 T€+
+  - zahl: 236 T€+
     text: Auszahlungen an Anleger
   - zahl: '28'
     text: Klagen in Berufungsinstanz gewonnen
@@ -31,7 +31,7 @@ intro_text_markdown: >-
   Seitdem haben sich mehr als 300 Anleger unserer Anlegergemeinschaft
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
-  mehr als 170 Klagen an verschiedenen Amtsgerichten und Landgerichten in
+  mehr als 180 Klagen an verschiedenen Amtsgerichten und Landgerichten in
   Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 28
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits einige
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
@@ -88,12 +88,12 @@ abschnitte:
 
       Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
       Sicherheiten zur Verhinderung von Zwangsvollstreckungsma&szlig;nahmen in
-      Höhe von 1.282.013,17 Euro (Stand: 19.01.2022) hinterlegt.
+      Höhe von 1.430.097,56&nbsp; Euro (Stand: 16.03.2022) hinterlegt.
 
 
-      Zudem konnten bereits in Höhe von 147.539,76 Euro durch unsere Kanzlei
+      Zudem konnten bereits in Höhe von 236.137,87 Euro durch unsere Kanzlei
       Auszahlungen von hinterlegten Sicherheiten erstritten werden. (Stand:
-      19.01.2022)
+      16.03.2022)
 
 
       Es gibt mittlerweile 28 Urteile von Berufungsgerichten (darunter 26&nbsp;
