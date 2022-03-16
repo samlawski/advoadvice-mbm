@@ -1,6 +1,6 @@
 ---
 title: Schufa Holding AG löscht Eintrag der Pay Due Inkasso GmbH
-date: 2022-03-15 12:00:00
+date: 2022-03-16 09:00:00
 description: >-
   Negativeintrag der Pay Due Inkasso GmbH über eine Forderung von McFit
   Berlin-Mitte durch Schufa Holding AG gelöscht.
