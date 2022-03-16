@@ -50,8 +50,14 @@ Zuletzt urteilten das Landgericht Offenburg, das Landgericht Frankfurt an der Od
 
 In Entscheidungen des LG Offenburg, des LG Ellwangen und des LG Magdeburg ging es um Klagen von Anlegern, die nach dem Brexit eingereicht worden waren. Es wird hierdurch erkennbar, dass auch weiterhin Klagen vor den deutschen Gerichten gegen die CT Infrastructure Holding auch nach dem Brexit möglich sind.&nbsp;
 
-&nbsp;
+Rechtsanwalt Dr. Sven Tintemann, der die Anleger in den Gerichtsprozessen vertreten hat, zeigte sich über die Erfolge sehr erfreut und kommentiert diese wie folgt: "Unsere Kanzlei hat den Anlegern bereits Anfang 2019 zur Klage auf Zahlung und auf Beibehaltung der Kündigungen zum Ende des Jahres 2017 und 2018 geraten. Diese Taktik hat sich als sehr erfolgreich herausgestellt. Auch von einigen erstinstanzlichen Misserfolgen haben sich unsere Anleger nicht verunsichern lassen. In den Berufungsinstanzen sind wir überaus erfolgreich und konnten bisher nach Auszahlungen an klagende Anleger in Höhe von &nbsp;236.137,87 Euro erreichen. Bereits vorher konnten wir auch ohne Klagen Auszahlungen in Höhe von &nbsp;43.878,90 Euro erreichen. Nach erfolgreichen Gerichtsverfahren wurde die CT Infrastructure zudem durch unsere Kanzlei dazu veranlasst 1.430.097,56 Euro als Prozesskostensicherheit bei Amtsgerichten für unsere klagenden Anleger und Anlegerinnen zu hinterlegen. Das ist sehr erfreulich und zeigt, dass es sich gelohnt hat, hier nicht auf einen ungewissen Börsengang zu warten."&nbsp;
 
-&nbsp;
+## Anleger sollten bis zum Jahresende 2022 eine Entscheidung treffen
 
-&nbsp;
+Anlegern der der Thomas Lloyd Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH rät der Fachanwalt für Bank- und Kapitalmarktrecht Dr. Tintemann dazu, noch bis zum Ende des Jahres 2022 eine Entscheidung zu treffen.&nbsp;
+
+"Da die Anleger im Jahr 2019 über die Umwandlung ihrer Anlage informiert worden sind, könnte mit Ablauf des Jahres zumindest für die Anleger der DKM Global Opportunities Fonds 01 GmbH die Verjährung von Schadensersatzansprüchen drohen. Bei Anlegern der österreichischen Thomas Lloyd Investments GmbH könnte dies ebenfalls zum Problem werden. Hier könnte sich die Verjährung aber auch noch dem österreichischen Recht richten. Wer auf der sicheren Seite sein und seine möglichen Schadensersatzansprüche sichern will, sollte daher noch in diesem Jahr eine verjährungsunterbrechende Klage einreichen", rät Anwalt Tintemann betroffenen Anlegern.&nbsp;
+
+Die Thomas Lloyd Anlegergemeinschaft bietet betroffenen Anlegern die Möglichkeit von den bisher erstrittenen Urteilen zu profitieren und die Erfahrungen zur Zustellung im Ausland, zur Zwangsvollstreckung und zur erfolgreichen Argumentation vor Gericht für sich zu nutzen.
+
+Wenden Sie sich daher bei Interesse an einer fairen Ersteinschätzung, an einer kostenlosen Deckungsanfrage an Ihre Rechtsschutzversicherung oder für ein kostenfreies Gespräch zur Ersteinschätzung Ihrer Situation an die Kanzlei AdvoAdvice Rechtsanwälte mbB und lassen Sie sich von Rechtsanwalt Dr. Tintemann und seinem Team beraten. Sie erreichen die Kanzlei unter info@advoadvice.de oder unter 030 921 000 40.&nbsp;
