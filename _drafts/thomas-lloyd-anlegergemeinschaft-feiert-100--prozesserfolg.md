@@ -6,7 +6,7 @@ description: >-
   Magdeburg führen zum 100. Prozesserfolg für Anlegergemeinschaft.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-thomas-lloyd.jpg
 tags:
   - Thomas Lloyd Anlegergemeinschaft
   - Prozesserfolg
