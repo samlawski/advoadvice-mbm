@@ -6,7 +6,7 @@ description: >-
   Holding AG und übernimmt Anwaltskosten. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---bhi.jpg
 tags:
   - Schufa Holding AG
   - Negativeintrag
