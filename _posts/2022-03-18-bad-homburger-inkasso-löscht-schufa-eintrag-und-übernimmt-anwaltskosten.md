@@ -1,6 +1,6 @@
 ---
 title: Bad Homburger Inkasso löscht Schufa-Eintrag und übernimmt Anwaltskosten
-date: 2022-03-17 09:00:00
+date: 2022-03-18 09:00:00
 description: >-
   Bad Homburger Inkasso GmbH löscht Eintrag für Sparkasse Karlsruhe bei Schufa
   Holding AG und übernimmt Anwaltskosten. 
