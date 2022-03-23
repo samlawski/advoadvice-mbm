@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 236 T€+
     text: Auszahlungen an Anleger
-  - zahl: '32'
+  - zahl: '33'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
 intro_text_markdown: >-
@@ -32,7 +32,7 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
   mehr als 180 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 32
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 33
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits einige
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
   Anlagesummen ausgezahlt bekommen.&nbsp;
@@ -67,7 +67,7 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 32 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 33 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. (Stand:
       23.03.2022)&nbsp;
@@ -97,8 +97,8 @@ abschnitte:
       16.03.2022)
 
 
-      Es gibt mittlerweile 32 positive Entscheidungen von Berufungsgerichten
-      (darunter 30 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 33 positive Entscheidungen von Berufungsgerichten
+      (darunter 31 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
       haben. (Stand: 23.03.2022)
@@ -179,6 +179,8 @@ abschnitte:
       * OLG Jena, Urteil vom 21.12.2021
 
       * OLG Schleswig, Urteil vom 23.12.2021
+
+      * OLG Naumburg, Urteil vom 02.03.2022
 
       * OLG Celle, Beschluss vom 08.03.2022
 
