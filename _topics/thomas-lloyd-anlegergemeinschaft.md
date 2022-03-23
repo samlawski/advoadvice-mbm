@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 236 T€+
     text: Auszahlungen an Anleger
-  - zahl: '30'
+  - zahl: '32'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil der Anlegergemeinschaft
 intro_text_markdown: >-
@@ -32,7 +32,7 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
   mehr als 180 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 30
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 32
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits einige
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
   Anlagesummen ausgezahlt bekommen.&nbsp;
@@ -67,10 +67,10 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 30 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 32 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. (Stand:
-      16.03.2022)&nbsp;
+      23.03.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -97,11 +97,11 @@ abschnitte:
       16.03.2022)
 
 
-      Es gibt mittlerweile 30 positive Entscheidungen von Berufungsgerichten
-      (darunter 28 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 32 positive Entscheidungen von Berufungsgerichten
+      (darunter 30 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben. (Stand: 16.03.2022)
+      haben. (Stand: 23.03.2022)
     image:
     cta: true
   - abschnitt_template: box_hell
@@ -130,31 +130,31 @@ abschnitte:
       ### Anlagen in Genussrechtsbeteiligungen:
 
 
-      * OLG Naumburg, Urteil vom 28.10.2020 (rechtskräfig)
+      * OLG Naumburg, Urteil vom 28.10.2020 (rechtskräftig)
 
       * OLG Celle, Beschluss vom 29.01.2021
 
-      * OLG Dresden, Urteil vom 03.03.2021 (rechtskräfig)
+      * OLG Dresden, Urteil vom 03.03.2021 (rechtskräftig)
 
-      * OLG Stuttgart, Urteil vom 31.03.2021 (rechtskräfig)
+      * OLG Stuttgart, Urteil vom 31.03.2021 (rechtskräftig)
 
-      * OLG Zweibrücken, Urteil vom 25.03.2021 (rechtskräfig)
+      * OLG Zweibrücken, Urteil vom 25.03.2021 (rechtskräftig)
 
-      * OLG Naumburg, Urteil vom 07.04.2021 (rechtskräfig)
+      * OLG Naumburg, Urteil vom 07.04.2021 (rechtskräftig)
 
-      * OLG Zweibrücken, Urteil vom 20.05.2021 (rechtskräfig)
+      * OLG Zweibrücken, Urteil vom 20.05.2021 (rechtskräftig)
 
-      * OLG Düsseldorf, Urteil vom 21.05.2021 (rechtskräfig)
+      * OLG Düsseldorf, Urteil vom 21.05.2021 (rechtskräftig)
 
-      * OLG Frankfurt am Main, Urteil vom 27.05.2021 (rechtskräfig)
+      * OLG Frankfurt am Main, Urteil vom 27.05.2021 (rechtskräftig)
 
-      * OLG München, Beschluss vom 17.06.2021 (rechtskräfig)
+      * OLG München, Beschluss vom 17.06.2021 (rechtskräftig)
 
-      * OLG Dresden, Beschluss vom 24.06.2021 (rechtskräfig)
+      * OLG Dresden, Beschluss vom 24.06.2021 (rechtskräftig)
 
-      * OLG Bremen, Urteil vom 01.07.2021 (rechtskräfig)
+      * OLG Bremen, Urteil vom 01.07.2021 (rechtskräftig)
 
-      * OLG Naumburg, Beschluss vom 06.07.2021 (rechtskräfig)
+      * OLG Naumburg, Beschluss vom 06.07.2021 (rechtskräftig)
 
       * OLG Naumburg, Urteil vom 01.09.2021
 
@@ -180,19 +180,23 @@ abschnitte:
 
       * OLG Schleswig, Urteil vom 23.12.2021
 
+      * OLG Celle, Beschluss vom 08.03.2022
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
 
-      * LG Augsburg, Beschluss vom 19.11.2021
+      * LG Augsburg, Beschluss vom 19.11.2021 (rechtskräftig)
 
-      * OLG Köln, Urteil vom 07.12.2021
+      * OLG Köln, Urteil vom 07.12.2021&nbsp;
 
       * OLG Celle, Beschluss vom 08.12.2021
 
       * OLG Dresden, Urteil vom 16.02.2022
 
       * OLG Hamm, Urteil vom 24.02.2022
+
+      * OLG Celle, Beschluss vom 21.03.2022
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
