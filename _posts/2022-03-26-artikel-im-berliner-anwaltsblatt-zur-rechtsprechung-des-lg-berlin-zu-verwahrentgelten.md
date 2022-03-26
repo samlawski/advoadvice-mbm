@@ -1,8 +1,6 @@
 ---
-title: >-
-  Artikel im Berliner Anwaltsblatt zur Rechtsprechung des LG Berlin zu
-  Verwahrentgelten
-date: 2022-03-26 11:00:00
+title: ' Berliner Anwaltsblatt: Artikel zur Rechtsprechung des LG Berlin zu Verwahrentgelten'
+date: 2022-03-26 00:00:00
 description: >-
   In der Ausgabe 04 / 2022 des Berliner Anwaltsblattes besprechen wir eine
   Entscheidung des Landgericht Berlin zu Verwahrentgelten und Kosten für
@@ -19,7 +17,6 @@ tags:
   - Urteil
   - Landgericht Berlin
   - Strafzinsen
-  - Kosten Ersatzzustellung Karte oder PIN
   - Verwahrentgelt
   - Girokonto
   - Tagesgeldkonto
@@ -36,3 +33,5 @@ In der aktuellen Ausgabe vom Berliner Anwaltsblatt besprechen Rechtsanwalt Dr. S
 Der Beitrag kann im Internet kostpflichtig heruntergeladen werden. Nutzen Sie hierzu den [folgenden Link](https://berlineranwaltsblatt.de/ce/lg-berlin-unwirksame-vereinbarung-von-verwahrentgelten-auf-giro-und-tagesgeldkonten-sowie-zu-kosten-fuer-die-ersatzzustellung-einer-karte-oder-pin/detail.html){: target="_blank" rel="noopener"}.&nbsp;
 
 Bei Rückfragen zu den besprochenen Themen stehen Ihnen die Fachanwälte für Bank- und Kapitalmarktrecht Dr. Sven Tintemann und Kim Oliver Klevenhagen gerne zur Verfügung.&nbsp;
+
+&nbsp;
