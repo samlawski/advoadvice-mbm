@@ -2,7 +2,7 @@
 title: >-
   Artikel im Berliner Anwaltsblatt zur Rechtsprechung des LG Berlin zu
   Verwahrentgelten
-date: 2022-03-26 12:00:00
+date: 2022-03-26 11:00:00
 description: >-
   In der Ausgabe 04 / 2022 des Berliner Anwaltsblattes besprechen wir eine
   Entscheidung des Landgericht Berlin zu Verwahrentgelten und Kosten für
