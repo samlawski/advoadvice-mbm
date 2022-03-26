@@ -9,7 +9,7 @@ description: >-
   Ersatzzustellungen einer Karte oder PIN.
 layout: post
 style_id: post
-image:
+image: /uploads/berliner-anwaltsblatt.png
 tags:
   - Berliner Anwaltsblatt
   - Artikel
@@ -29,9 +29,9 @@ author: dr-sven-tintemann
 ---
 In der aktuellen Ausgabe vom Berliner Anwaltsblatt besprechen Rechtsanwalt Dr. Sven Tintemann und stud. iur. Umair Ali eine Entscheidung des Landgerichts Berlin.&nbsp;
 
-Titel: LG Berlin: Unwirksame Vereinbarung von Verwahrentgelten auf Giro- und Tagesgeldkonten sowie zu Kosten für die Ersatzzustellung einer Karte oder PIN.&nbsp;
+## LG Berlin: Unwirksame Vereinbarung von Verwahrentgelten auf Giro- und Tagesgeldkonten sowie zu Kosten für die Ersatzzustellung einer Karte oder PIN.&nbsp;
 
-![](/uploads/anwaltsblatt.png){: width="200" height="285"}
+[![](/uploads/anwaltsblatt.png){: width="200" height="285"}](https://berlineranwaltsblatt.de/ce/lg-berlin-unwirksame-vereinbarung-von-verwahrentgelten-auf-giro-und-tagesgeldkonten-sowie-zu-kosten-fuer-die-ersatzzustellung-einer-karte-oder-pin/detail.html){: target="_blank" rel="noopener"}
 
 Der Beitrag kann im Internet kostpflichtig heruntergeladen werden. Nutzen Sie hierzu den [folgenden Link](https://berlineranwaltsblatt.de/ce/lg-berlin-unwirksame-vereinbarung-von-verwahrentgelten-auf-giro-und-tagesgeldkonten-sowie-zu-kosten-fuer-die-ersatzzustellung-einer-karte-oder-pin/detail.html){: target="_blank" rel="noopener"}.&nbsp;
 
