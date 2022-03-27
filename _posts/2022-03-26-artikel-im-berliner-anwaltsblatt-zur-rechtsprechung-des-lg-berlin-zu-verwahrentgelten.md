@@ -7,7 +7,7 @@ description: >-
   Ersatzzustellungen einer Karte oder PIN.
 layout: post
 style_id: post
-image: /uploads/berliner-anwaltsblatt.png
+image: /uploads/berliner-anwaltsblatt-1.png
 tags:
   - Berliner Anwaltsblatt
   - Artikel
