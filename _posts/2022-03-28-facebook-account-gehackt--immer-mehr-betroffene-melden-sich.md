@@ -15,8 +15,8 @@ tags:
   - Hacker-Angriff
   - Einstweilige Verfügung
   - Meta
-  - Dr. Raphael Rohrmoser
   - IT-Recht
+  - Dr. Raphael Rohrmoser
 topics:
 author: dr--raphael-rohrmoser
 ---
