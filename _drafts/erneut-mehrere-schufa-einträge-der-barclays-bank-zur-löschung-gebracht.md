@@ -1,7 +1,9 @@
 ---
-title: Erneut mehrere Schufa-Einträge der Barclays Bank zur Löschung gebracht
-date: 2022-03-29 14:48:58
-description: Schufa-Einträge der Barclays Bank löschen lassen
+title: Mehrere Schufa-Einträge der Barclays Bank zur Löschung gebracht.
+date: 2022-03-29 17:00:00
+description: >-
+  Kanzlei AdvoAdvice könnte erneut mehrere Schufa-Einträge der Barclays Bank
+  löschen lassen. Eine Erfolgsbilanz:
 layout: post
 style_id: post
 image: /uploads/blog-banner-barclays-bank.jpg
@@ -20,7 +22,7 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Zuletzt hatten wir im Oktober darüber [berichtet](https://advoadvice.de/blog/mehrere-gerichtliche-entscheidungen-gegen-barclays-bank-erstritten/), dass mehrere Entscheidungen gegen die Barclays Bank Irealand PLC Hamburg Branch erstritten werden konnten. Auch in der nachfolgenden Zeit konnten wieder mehrere Negativeinträge der Barclays Bank zur Löschung gebracht werden.
+Zuletzt hatten wir im Oktober darüber [berichtet](https://advoadvice.de/blog/mehrere-gerichtliche-entscheidungen-gegen-barclays-bank-erstritten/), dass mehrere Entscheidungen gegen die Barclays Bank Irealand PLC Hamburg Branch erstritten werden konnten. Auch in den nachfolgenden Monaten konnten wieder mehrere Negativeinträge der Barclays Bank bei der Schufa Holding AG zur Löschung gebracht werden.
 
 ## **Schufa-Eintrag der Barclays Bank – Wie kommt es immer wieder dazu?**
 
@@ -30,21 +32,25 @@ Die Grundkonstellation in den Fällen ähnelt sich, wenn es zu einem negativen S
 
 Viele Betroffene berichteten zudem davon, dass zwischen diesen beiden Schreiben noch ein Kontoauszug versandt wurde, in welchem eine andere Frist für die Rückzahlung eines Mindestbetrages genannt wurde.
 
-Die Betroffenen zeigten sich regelmäßig überrascht davon, dass es so schnell zu einer Eintragung bei der Schufa Holding AG kam.
+Die Betroffenen zeigten sich regelmä&szlig;ig überrascht davon, dass es so schnell zu einer Eintragung bei der Schufa Holding AG kam.
 
 ## **Erneut einstweilige Verfügung erlassen**
 
-In einem aktuellen Fall hat das Landgericht Hamburg durch die Zivilkammer 318 mit Beschluss vom 07.02.2022 eine einstweilige Verfügung erlassen und der Barclays Bank Ireland PLC Hamburg Branch aufgegeben, den Negativeintrag gegenüber der Schufa Holding AG zu widerrufen und eine künftige Einmeldung zu unterlassen. In diesem Fall wurden die Androhung der Kündigung und die Kündigung selbst nicht per Post versandt, sondern in ein OnlinePostfach eingestellt.
+In einem aktuellen Fall hat das Landgericht Hamburg durch die Zivilkammer 18 mit Beschluss vom 07.02.2022 eine einstweilige Verfügung erlassen und der Barclays Bank Ireland PLC Hamburg Branch aufgegeben, den Negativeintrag gegenüber der Schufa Holding AG zu widerrufen und eine künftige Einmeldung zu unterlassen. In diesem Fall wurden die Androhung der Kündigung und die Kündigung selbst nicht per Post versandt, sondern in ein OnlinePostfach eingestellt.
 
-Einstweilige Verfügungen konnten vor dem Landgericht Hamburg auch unter anderem am 24.08.2021 (Zivilkammer 330) und am 18.10.2021 (Zivilkammer 302) erstritten werden. Die dazugehörigen Einträge wurden allesamt von der Schufa Holding AG zur Löschung gebracht.
+Einstweilige Verfügungen konnten vor dem Landgericht Hamburg auch unter anderem am 24.08.2021 (Zivilkammer 30) und am 18.10.2021 (Zivilkammer 2) erstritten werden. Die dazugehörigen Einträge wurden allesamt von der Schufa Holding AG zur Löschung gebracht.
 
-Etliche weitere Verfahren konnten im Vergleichswege beendet werden, sodass die Barclays Bank die Löschung der Einträge beantragt hat. In einem Großteil der Fälle wurde die Löschung anschließend auch von der Schufa Holding AG durchgeführt.
+Etliche weitere Verfahren konnten im Vergleichswege beendet werden, sodass die Barclays Bank die Löschung der Einträge beantragt hat. In einem Gro&szlig;teil der Fälle wurde die Löschung anschlie&szlig;end auch von der Schufa Holding AG durchgeführt.
 
 ## **Welches Vorgehen eignet sich?**
 
-Der zuständige Rechtsanwalt und Experte in Schufa-Angelegenheiten Dr. Raphael Rohrmoser berichtet, dass außergerichtliche Löschungen aktuell trotz der Vielzahl an Entscheidungen nur schwer durchsetzbar sind. Insofern ist häufig eine Klage auf Widerruf des Eintrages oder ein entsprechender Antrag auf Erlass einer einstweiligen Verfügung möglich. Eine solche einstweilige Verfügung kommt im ersten Monat nach Kenntnis des Eintrages in Betracht und Bedarf einer gewissen Eilbedürftigkeit. Da die Kosten für ein gerichtliches Verfahren mitunter teuer werden können, ist hier die Nutzung einer Rechtsschutzversicherung empfehlenswert.
+Der zuständige Rechtsanwalt und Experte in Schufa-Angelegenheiten Dr. Raphael Rohrmoser berichtet, dass au&szlig;ergerichtliche Löschungen aktuell trotz der Vielzahl an Entscheidungen nur schwer durchsetzbar sind. Insofern ist häufig eine Klage auf Widerruf des Eintrages oder ein entsprechender Antrag auf Erlass einer einstweiligen Verfügung nötig.
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
+Eine solche einstweilige Verfügung kommt im ersten Monat nach Kenntnis des Eintrages in Betracht und Bedarf einer gewissen Eilbedürftigkeit. Da die Kosten für ein gerichtliches Verfahren mitunter teuer werden können, ist hier die Nutzung einer Rechtsschutzversicherung empfehlenswert.
+
+## Kanzlei AdvoAdvice beauftragen?
+
+Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
