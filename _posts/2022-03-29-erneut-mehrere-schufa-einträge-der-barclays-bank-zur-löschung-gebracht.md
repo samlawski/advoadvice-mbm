@@ -2,7 +2,7 @@
 title: Mehrere Schufa-Einträge der Barclays Bank zur Löschung gebracht.
 date: 2022-03-29 16:00:00
 description: >-
-  Kanzlei AdvoAdvice könnte erneut mehrere Schufa-Einträge der Barclays Bank
+  Kanzlei AdvoAdvice konnte erneut mehrere Schufa-Einträge der Barclays Bank
   löschen lassen. Eine Erfolgsbilanz:
 layout: post
 style_id: post
@@ -33,7 +33,7 @@ Die Grundkonstellation in den Fällen ähnelt sich, wenn es zu einem negativen S
 
 Viele Betroffene berichteten zudem davon, dass zwischen diesen beiden Schreiben noch ein Kontoauszug versandt wurde, in welchem eine andere Frist für die Rückzahlung eines Mindestbetrages genannt wurde.
 
-Die Betroffenen zeigten sich regelmä&szlig;ig überrascht davon, dass es so schnell zu einer Eintragung bei der Schufa Holding AG kam.
+Die Betroffenen zeigten sich regelmäßig überrascht davon, dass es so schnell zu einer Eintragung bei der Schufa Holding AG kam.
 
 ## **Erneut einstweilige Verfügung erlassen**
 
@@ -41,17 +41,17 @@ In einem aktuellen Fall hat das Landgericht Hamburg durch die Zivilkammer 18 mit
 
 Einstweilige Verfügungen konnten vor dem Landgericht Hamburg auch unter anderem am 24.08.2021 (Zivilkammer 30) und am 18.10.2021 (Zivilkammer 2) erstritten werden. Die dazugehörigen Einträge wurden allesamt von der Schufa Holding AG zur Löschung gebracht.
 
-Etliche weitere Verfahren konnten im Vergleichswege beendet werden, sodass die Barclays Bank die Löschung der Einträge beantragt hat. In einem Gro&szlig;teil der Fälle wurde die Löschung anschlie&szlig;end auch von der Schufa Holding AG durchgeführt.
+Etliche weitere Verfahren konnten im Vergleichswege beendet werden, sodass die Barclays Bank die Löschung der Einträge beantragt hat. In einem Großteil der Fälle wurde die Löschung anschließend auch von der Schufa Holding AG durchgeführt.
 
 ## **Welches Vorgehen eignet sich?**
 
-Der zuständige Rechtsanwalt und Experte in Schufa-Angelegenheiten Dr. Raphael Rohrmoser berichtet, dass au&szlig;ergerichtliche Löschungen aktuell trotz der Vielzahl an Entscheidungen nur schwer durchsetzbar sind. Insofern ist häufig eine Klage auf Widerruf des Eintrages oder ein entsprechender Antrag auf Erlass einer einstweiligen Verfügung nötig.
+Der zuständige Rechtsanwalt und Experte in Schufa-Angelegenheiten Dr. Raphael Rohrmoser berichtet, dass außergerichtliche Löschungen aktuell trotz der Vielzahl an Entscheidungen nur schwer durchsetzbar sind. Insofern ist häufig eine Klage auf Widerruf des Eintrages oder ein entsprechender Antrag auf Erlass einer einstweiligen Verfügung nötig.
 
 Eine solche einstweilige Verfügung kommt im ersten Monat nach Kenntnis des Eintrages in Betracht und Bedarf einer gewissen Eilbedürftigkeit. Da die Kosten für ein gerichtliches Verfahren mitunter teuer werden können, ist hier die Nutzung einer Rechtsschutzversicherung empfehlenswert.
 
 ## Kanzlei AdvoAdvice beauftragen?
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
@@ -59,4 +59,4 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.&nbsp;
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
