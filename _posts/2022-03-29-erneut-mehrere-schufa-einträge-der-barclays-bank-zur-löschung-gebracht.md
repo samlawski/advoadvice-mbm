@@ -1,6 +1,6 @@
 ---
 title: Mehrere Schufa-Einträge der Barclays Bank zur Löschung gebracht.
-date: 2022-03-29 17:00:00
+date: 2022-03-29 16:00:00
 description: >-
   Kanzlei AdvoAdvice könnte erneut mehrere Schufa-Einträge der Barclays Bank
   löschen lassen. Eine Erfolgsbilanz:
@@ -58,4 +58,4 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.&nbsp;
