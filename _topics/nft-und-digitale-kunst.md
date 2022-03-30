@@ -16,6 +16,27 @@ intro_text_markdown: >-
 intro_link_text:
 intro_link:
 abschnitte:
+  - abschnitt_template: box_hell
+    titel: Was sind NFTs?
+    text_markdown: >-
+      Die gro&szlig;en technischen Fortschritte haben zur Schaffung von NFTs,
+      sog. *non-fungible Tokens,&nbsp;*also nicht austauschbare Token, geführt.
+      Hinter diesen Tokens verbirgt sich zunächst einmal ein eindeutig
+      identifizierbarer, nicht austauschbarer und einzigartiger Eintrag in einer
+      Blockchain. Mit diesem Eintrag wird in der Regel der Link zu einer Datei,
+      welche auf entsprechenden Servern hinterlegt ist, vermerkt. Dies
+      ermöglicht im Bereich der digitalen Kunst vor allem das "Original" zu
+      kennzeichnen und, ähnlich wie bei einem Grundbuch, den "Besitz" der Datei
+      nach au&szlig;en zu publizieren.
+
+
+      Im Vergleich zu klassischen Währungsmitteln wie Geld oder auch Bitcoins
+      kann der in dem Token liegende Wert nicht ausgetauscht werden. Mit
+      einfachen Worten: Eine Euro-Münze kann mit einer beliebigen anderen
+      Euro-Münze ausgetauscht werden, ein Original-Gemälde ist dagegen
+      einzigartig, also nicht austauschbar.
+    image:
+    cta: true
 redirect_from:
 redirect_to:
 sitemap: true
