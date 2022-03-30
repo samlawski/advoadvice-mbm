@@ -122,6 +122,35 @@ abschnitte:
       überprüfen zu lassen.
     image:
     cta: true
+  - abschnitt_template: box_hell
+    titel: Wie könnte eine Vertretung Ihrer Interessen bei AdvoAdvice aussehen?
+    text_markdown: >-
+      Wie eine konkrete Interessenwahrnehmung aussehen könnte, hängt am
+      konkreten Anliegen. Es könnte sein, dass Sie Beratung bei der Konzeption
+      eines NFTs und der Einräumung von verschiedenen Rechten benötigen oder auf
+      der anderen Seite feststellen, dass eine dritte Partei NFTs nutzt, deren
+      Rechte eigentlich Ihnen zustehen. Andererseits sind auch die
+      Geltendmachung von Auskunfts- und Schadensersatzansprüchen nach einem
+      Betrug o.ä. denkbar.&nbsp;
+
+
+      Zunächst ist eine Kontaktaufnahme mit unserer Kanzlei nötig. Dabei ist es
+      wichtig, dass Sie uns den Sachverhalt möglichst detailliert schildern.
+      Sodann werden wir eine Ersteinschätzung abgeben, ob und wie wir Ihnen
+      helfen können.
+
+
+      Sollten ausreichende Erfolgsaussichten gegeben sein, wird die konkrete
+      Bearbeitung gestartet. Die genauen Schritte hängen dann vom jeweiligen
+      Fall ab.
+
+
+      Sollten Sie Fragen zur Löschung von solchen Merkmalen haben, dann können
+      Sie uns gerne unter info@advoadvice.de kontaktieren oder unter 030 / 921
+      000 40 einen Telefontermin mit unserem Experten Rechtsanwalt Dr. Raphael
+      Rohmoser vereinbaren.
+    image: /uploads/dscf0361---homepage-2-1.jpg
+    cta: true
 redirect_from:
 redirect_to:
 sitemap: true
