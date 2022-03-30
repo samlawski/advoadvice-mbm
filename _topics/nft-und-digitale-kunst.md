@@ -37,7 +37,7 @@ abschnitte:
       einzigartig, also nicht austauschbar.
 
 
-      ## **Was bekomme ich wenn ich wenn ich einen NFT kaufe?**
+      ### **Was bekomme ich wenn ich wenn ich einen NFT kaufe?**
 
 
       Sowohl in Blogbeiträgen im Internet als auch in der Community halten sich
@@ -56,7 +56,7 @@ abschnitte:
       unterschiedliche Folgen an.
 
 
-      ### Urheberrecht
+      #### Urheberrecht
 
 
       Formal muss man zunächst klarstellen, dass „das Urheberrecht“ im deutschen
@@ -75,7 +75,7 @@ abschnitte:
       NFTs nicht der Fall ist.&nbsp;
 
 
-      ## Eigentum
+      #### Eigentum
 
 
       Die Formulierung, dass man das "Eigentum" an einem digitalen Kunstwerk
@@ -92,7 +92,7 @@ abschnitte:
       mit einem NFT in der digitalen Welt zu verknüpfen.
 
 
-      ## Besitz
+      #### Besitz
 
 
       Der Begriff des Besitzes ist ebenfalls missverständlich, ist aber im
@@ -112,7 +112,7 @@ abschnitte:
       übertragen werden - auch nur der "Owner" diese Nutzungsrechte ausüben.
 
 
-      ## Eigentumsähnliche Position
+      #### Eigentumsähnliche Position
 
 
       Aus den vorstehenden Erklärungen ergibt sich, dass der Erwerb eines NFT am
