@@ -4,7 +4,7 @@ style_id: topic
 title: NFT und digitale Kunst
 description:
 header_titel: NFT und digitale Kunst
-header_image:
+header_image: /uploads/dscf0361---homepage-2.jpg
 erfolge:
 intro_titel:
 intro_text_markdown:
