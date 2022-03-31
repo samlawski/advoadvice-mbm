@@ -103,6 +103,6 @@ Dr. Raphael Rohrmoser sowie seine Kollegen in der Kanzlei AdvoAdvice Rechtsanwä
 
 Kontaktieren Sie die Kanzlei AdvoAdvice Rechtsanwälte mbB telefonisch unter der Rufnummer 030 921 000 40 oder schreiben Sie eine Email an info@advoadvice.de.
 
-**\*Update vom 31.03.2022:<br>Der Antrag auf Erlass einer einstweiligen Verfügung wurde am 31.03.2022 zurückgenommen. Für Meta Platforms Ireland Limited besteht damit keine Verpflichtung mehr aus dem Beschluss.**
+**\*Update vom 31.03.2022:<br>Der Antrag auf Erlass einer einstweiligen Verfügung wurde am 31.03.2022 nach Zugangsgewährung durch die Antragstellerin zurückgenommen. Für Meta Platforms Ireland Limited besteht damit keine Verpflichtung mehr aus dem Beschluss.**
 
 &nbsp;
