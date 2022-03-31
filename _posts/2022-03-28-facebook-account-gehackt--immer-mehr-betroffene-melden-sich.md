@@ -20,7 +20,7 @@ tags:
 topics:
 author: dr--raphael-rohrmoser
 ---
-Nachdem wir erst kürzlich berichteten, dass der Zugang zu einem gehackten Facebook-Account wieder erlangt werden konnte (siehe [hier](https://www.anwalt.de/rechtstipps/facebook-gewaehrt-zugang-zu-gehacktem-konto-nach-einstweiliger-verfuegung-vor-landgericht-berlin-198307.html)), melden sich seither immer mehr Betroffene bei der Kanzlei AdvoAdvice Rechtsanwälte in Berlin. In manchen Punkten ähneln sich die Fälle, in anderen unterscheiden sich diese.
+Nachdem wir erst kürzlich berichteten, dass der Zugang zu einem gehackten Facebook-Account wieder erlangt werden konnte (siehe&nbsp;[hier](https://www.anwalt.de/rechtstipps/facebook-gewaehrt-zugang-zu-gehacktem-konto-nach-einstweiliger-verfuegung-vor-landgericht-berlin-198307.html){: rel="nofollow"})\*, melden sich seither immer mehr Betroffene bei der Kanzlei AdvoAdvice Rechtsanwälte in Berlin. In manchen Punkten ähneln sich die Fälle, in anderen unterscheiden sich diese.
 
 ## **Zugang gehackt – Was passiert?**
 
@@ -40,9 +40,9 @@ Auch vermeintlich effektive Ideen, wie das Hochladen eines Personalausweises o.�
 
 Mit anwaltlicher Hilfe kann eine Freigabe eventuell doch erreicht werden.
 
-Wie in dem Fall vor dem Landgericht Berlin kann ein Antrag auf Erlass einer einstweiligen Verfügung gegen Meta Platforms Ireland Ltd. als Anbieterin von Facebook beantragt werden. Sofern das Gericht diese Verfügung erlässt, sollte Facebook bzw. Meta umgehend reagieren.
+Wie in dem Fall vor dem Landgericht Berlin\* kann ein Antrag auf Erlass einer einstweiligen Verfügung gegen Meta Platforms Ireland Ltd. als Anbieterin von Facebook beantragt werden. Sofern das Gericht diese Verfügung erlässt, sollte Facebook bzw. Meta umgehend reagieren.
 
-**Wichtig:** Ein Antrag auf Erlass einer einstweiligen Verfügung ist nur innerhalb des ersten Monats nach Kenntnisnahme des Hacks möglich. Es ist also eine gewisse Eile geboten. Überdies sollten alle Anfragen dokumentiert werden, mit denen man versucht hat, eine Freigabe des Kontos zu erreichen.
+**Wichtig:**&nbsp;Ein Antrag auf Erlass einer einstweiligen Verfügung ist nur innerhalb des ersten Monats nach Kenntnisnahme des Hacks möglich. Es ist also eine gewisse Eile geboten. Überdies sollten alle Anfragen dokumentiert werden, mit denen man versucht hat, eine Freigabe des Kontos zu erreichen.
 
 ## **Probleme mit gehacktem Facebook Profil?**
 
@@ -51,3 +51,5 @@ Haben auch Sie Probleme mit einem gehackten Profil bei Facebook oder Instagram? 
 Dr. Raphael Rohrmoser sowie seine Kollegen in der Kanzlei AdvoAdvice Rechtsanwälte mbB helfen Betroffenen gerne mit fairem Rechtsrat und einer schnellen kostenfreien Ersteinschätzung ihrer rechtlichen Situation weiter.&nbsp;
 
 Kontaktieren Sie die Kanzlei AdvoAdvice Rechtsanwälte mbB telefonisch unter der Rufnummer 030 921 000 40 oder schreiben Sie eine Email an info@advoadvice.de
+
+\*&nbsp;**Update vom 31.03.2022: Der Antrag auf Erlass einer einstweiligen Verfügung vor dem Landgericht Berlin wurde am 31.03.2022 zurückgenommen. Für Meta Platforms Ireland Limited besteht damit keine Verpflichtung mehr aus dem Beschluss.**
