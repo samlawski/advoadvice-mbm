@@ -71,8 +71,10 @@ abschnitte:
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
       Anleger bisher 33 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
-      Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. (Stand:
-      23.03.2022)&nbsp;
+      Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
+      Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
+      gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
+      (Stand: 31.03.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -103,7 +105,9 @@ abschnitte:
       (darunter 31 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben. (Stand: 23.03.2022)
+      haben. Der Bundesgerichtshof hat eine Nichtzulassungsbeschwerde der
+      Beklagten durch Beschluss vom 15.02.2022 zurückgewiesen.(Stand:
+      31.03.2022)
     image:
     cta: true
   - abschnitt_template: box_hell
