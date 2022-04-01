@@ -18,7 +18,7 @@ erfolge:
     text: Auszahlungen an Anleger
   - zahl: '33'
     text: Klagen in Berufungsinstanz gewonnen
-intro_titel: Werden Sie Teil der Anlegergemeinschaft
+intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
   Bereits im Februar 2019 gründete die Kanzlei AdvoAdvice Rechtsanwälte in
   Berlin die Anlegergemeinschaft Thomas Lloyd, um Anlegern der Thomas Lloyd
@@ -35,7 +35,9 @@ intro_text_markdown: >-
   Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 33
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits einige
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
-  Anlagesummen ausgezahlt bekommen.&nbsp;
+  Anlagesummen ausgezahlt bekommen. Auch vor dem Bundesgerichtshof waren wir
+  erfolgreich. Eine Nichtzulassungsbeschwerde der Gegenseite hat der BGH
+  zurückgewiesen.&nbsp;
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
@@ -123,8 +125,13 @@ abschnitte:
       Oberlandesgericht Bremen.
 
 
-      Insgesamt haben folgende Berufungsgerichte für unsere Anleger
-      entschieden:&nbsp;
+      Eine Nichtzulassungsbeschwerde der CT Infrastructure Holding Ltd. wurde
+      durch den Bundesgerichtshof (BGH) mittlerweile ebenfalls
+      zurückgewiesen.&nbsp;
+
+
+      Insgesamt haben folgende Berufungsgerichte sowie der Bundesgerichtshof für
+      unsere Anleger entschieden:&nbsp;
 
 
       ### Anlagen in Genussrechtsbeteiligungen:
@@ -132,7 +139,7 @@ abschnitte:
 
       * OLG Naumburg, Urteil vom 28.10.2020 (rechtskräftig)
 
-      * OLG Celle, Beschluss vom 29.01.2021
+      * OLG Celle, Beschluss vom 29.01.2021 (rechtskräftig)
 
       * OLG Dresden, Urteil vom 03.03.2021 (rechtskräftig)
 
@@ -166,7 +173,7 @@ abschnitte:
 
       * OLG Nürnberg, Beschluss vom 25.10.2021 (rechtskräftig)
 
-      * OLG Hamm, Urteil vom 27.10.2021&nbsp;
+      * OLG Hamm, Urteil vom 27.10.2021 (rechtskräftig)
 
       * OLG Naumburg, Urteil vom 10.11.2021 (rechtskräftig)
 
@@ -183,6 +190,8 @@ abschnitte:
       * OLG Naumburg, Urteil vom 02.03.2022
 
       * OLG Celle, Beschluss vom 08.03.2022
+
+      * BGH, Beschluss vom 15.02.2022
 
 
       ### Anlagen in atypisch stille Beteiligungen:
