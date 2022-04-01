@@ -6,7 +6,7 @@ description: >-
   Holding Limited zurück. Anlegerklage erfolgreich!
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-thomas-lloyd-bgh.jpg
 tags:
   - Anleger
   - ThomasLloyd
