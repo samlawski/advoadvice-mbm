@@ -3,7 +3,9 @@ title: >-
   LG Berlin verurteilt Vexcash AG zur Zahlung von Schmerzensgeld und Widerruf
   eines Schufa-Eintrages
 date: 2022-04-06 12:11:04
-description:
+description: >-
+  Landgericht Berlin verurteilt Vexcash AG zum Widerrufs eines Negativeintrags
+  bei der Schufa Holding AG und zu 2.000 Euro Schadensersatz.
 layout: post
 style_id: post
 image: /uploads/blog-banner-vexcash-schadensersatz.jpg
