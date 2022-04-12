@@ -23,7 +23,7 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-Anleger erhalten Neuigkeiten von der CT Infrstructure Holding Limited per Post über eine sogenannte Anlegerinformation aus April 2022.&nbsp;
+Anleger erhalten Neuigkeiten von der CT Infrastructure Holding Limited per Post über eine sogenannte Anlegerinformation aus April 2022.&nbsp;
 
 ## Inhalt der Anlegerinformation
 
@@ -33,7 +33,7 @@ In dem Schreiben soll über den Fortschritt des Börsengangs der TLG informiert 
 
 Konkretes wird aber leider nicht mitgeteilt. Die Anlegerinformation beschränkt sich eher auf Phasen wie:&nbsp;
 
-*"Im Frühjahr 2022 ist die TOLG hinsichtlich ihrer Substant und Ertragskraft so stark wie nie zuvor."*
+*"Im Frühjahr 2022 ist die TOLG hinsichtlich ihrer Substanz und Ertragskraft so stark wie nie zuvor."*
 
 oder
 
@@ -77,7 +77,7 @@ Die Anlegerinformation der CT Infrastructure Holding Limited hilft den Anlegern 
 
 Das Schreiben stellt eine Art Beruhigungspille für die Anleger dar. Es soll Sicherheit suggerieren und Hoffnung geben, dass die Anleger, die teilweise schon seit Jahren auf ihr Geld warten, bald von einem Börsengang der ThomasLloyd Group Limited profitieren.&nbsp;
 
-Da es vollkommen unklar bleibt, wieso die Anleger der CT Infrastructure Holdling Ltd. nach einem Börsengang der TLG ihre B-Shares veräu&szlig;ern können sollen und wann bzw. ob überhaupt ein Börsengang kommt, sollten die Anleger weiterhin über eine Klage auf Rückzahlung und Schadensersatz nachdenken.&nbsp;
+Da es vollkommen unklar bleibt, wieso die Anleger der CT Infrastructure Holding Ltd. nach einem Börsengang der TLG ihre B-Shares veräu&szlig;ern können sollen und wann bzw. ob überhaupt ein Börsengang kommt, sollten die Anleger weiterhin über eine Klage auf Rückzahlung und Schadensersatz nachdenken.&nbsp;
 
 Da mögliche Schadensersatzansprüche zum Ablauf des 31.12.2022 verjähren könnten, sollten sich die Anleger daher nicht auf einen Börsengang zum Ende 2022 bzw. im Jahr 2023 vertrösten lassen, sondern sich jetzt kompetenten anwaltlichen Rat suchen.&nbsp;
 
