@@ -65,7 +65,7 @@ Auch die Aussagen darüber, dass die TLG ein führender Marktteilnehmer im Markt
 
 Auch ist unklar, welche Anlagelösungen der TLG mit dunkelgrün eingestuft wurden und durch wen.&nbsp;
 
-## Börsengang der TLG bis Jahresende
+### Börsengang der TLG bis Jahresende
 
 In dem Anlegerrundschreiben der CTIH aus Februar 2019 wurde der Börsengang innerhalb von drei Jahren, also bis spätestens jetzt angekündigt. Dieser ist nicht erfolgt. Jetzt werden die Anleger erneut auf einen eher ungewissen Zeitpunkt vertröstet.&nbsp;
 
