@@ -1,11 +1,11 @@
 ---
 title: >-
-  ThomasLloyd: Anlegerrundschreiben zum Börsengang der CT Infrastructure Holding
-  Ltd. 
+  ThomasLloyd: Anlegerrundschreiben der CT Infrastructure Holding Limited zum
+  Börsengang der TLG 
 date: 2022-04-12 12:00:00
 description: >-
-  Anleger erhalten nach über drei Jahren Informationen zum Börsengang der CT
-  Infrastructure Limited. Eine Einschätzung durch AdvoAdvice. 
+  Anleger erhalten nach über drei Jahren Informationen der CT Infrastructure
+  Limited zum Börsengang der TLG. Eine Einschätzung durch AdvoAdvice. 
 layout: post
 style_id: post
 image: /uploads/magnifier-5245329-1920.jpg
