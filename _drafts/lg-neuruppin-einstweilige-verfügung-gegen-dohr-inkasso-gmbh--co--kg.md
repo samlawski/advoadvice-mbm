@@ -2,8 +2,8 @@
 title: 'LG Neuruppin: Einstweilige Verfügung gegen Dohr Inkasso GmbH & Co. KG'
 date: 2022-04-14 00:00:00
 description: >-
-  Landgericht Neuruppin erlässt einstweilige Verfügung gegen Dohr Inkasso GmbH &
-  Co KG nach negativem Schufa-Eintrag. 
+  Dohr Inkasso GmbH & Co KG muss  negativem Schufa-Eintrag widerrufen.
+  Landgericht Neuruppin erlässt einstweilige Verfügung. 
 layout: post
 style_id: post
 image:
