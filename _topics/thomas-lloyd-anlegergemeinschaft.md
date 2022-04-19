@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 236 T€+
     text: Auszahlungen an Anleger
-  - zahl: '33'
+  - zahl: '35'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
@@ -69,12 +69,12 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 33 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 35 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
       Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
       gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
-      (Stand: 31.03.2022)&nbsp;
+      (Stand: 19.04.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -101,13 +101,13 @@ abschnitte:
       16.03.2022)
 
 
-      Es gibt mittlerweile 33 positive Entscheidungen von Berufungsgerichten
-      (darunter 31 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 35 positive Entscheidungen von Berufungsgerichten
+      (darunter 33 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
       haben. Der Bundesgerichtshof hat eine Nichtzulassungsbeschwerde der
       Beklagten durch Beschluss vom 15.02.2022 zurückgewiesen.(Stand:
-      31.03.2022)
+      19.04.2022)
     image:
     cta: true
   - abschnitt_template: box_hell
@@ -191,11 +191,13 @@ abschnitte:
 
       * OLG Schleswig, Urteil vom 23.12.2021
 
+      * Bundesgerichtshof, Beschluss vom 15.02.2022
+
       * OLG Naumburg, Urteil vom 02.03.2022
 
       * OLG Celle, Beschluss vom 08.03.2022
 
-      * BGH, Beschluss vom 15.02.2022
+      * Kammergericht, Urteil vom 29.03.2022
 
 
       ### Anlagen in atypisch stille Beteiligungen:
@@ -212,6 +214,8 @@ abschnitte:
       * OLG Hamm, Urteil vom 24.02.2022
 
       * OLG Celle, Beschluss vom 21.03.2022
+
+      * OLG Dresden, Urteil vom 31.03.2022 (GOF und VAG)
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
