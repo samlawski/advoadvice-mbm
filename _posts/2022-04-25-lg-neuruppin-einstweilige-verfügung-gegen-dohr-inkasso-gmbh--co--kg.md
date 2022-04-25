@@ -1,6 +1,6 @@
 ---
 title: 'LG Neuruppin: Einstweilige Verfügung gegen Dohr Inkasso GmbH & Co. KG'
-date: 2022-04-14 00:00:00
+date: 2022-04-25 00:00:00
 description: >-
   Dohr Inkasso GmbH & Co KG muss  negativen Schufa-Eintrag widerrufen.
   Landgericht Neuruppin erlässt einstweilige Verfügung. 
@@ -50,11 +50,17 @@ Dabei sah das Landgericht Neuruppin unter Verweis auf eine Entscheidung des Bund
 
 Zudem äu&szlig;erte das Landgericht Zweifel daran, ob die Dohr Inkasso GmbH & Co. KG überhaupt berechtigt sei, die Negativeintragung an die Schufa Holding AG vorzunehmen, da das Offenbarungsinteresse nur für den Forderungsinhaber bestehen könnte. Zu dieser Fragestellung hatte Rechtsanwalt Dr. Tintemann zusammen mit zwei weiteren Autorinnen bereits einen Fachartikel in der Zeitschrift Verbraucher und Recht veröffentlich (vgl. Tintemann/Wiest/Möbus - VuR 2015, 377 ff.).
 
-Der Firma Dohr Inkasso GmbH & Co. KG steht es nach Zustellung der einstweiligen Verfügung offen, gegen diese Widerspruch zu erheben. Die Entscheidung ist daher nur vorläufig. Der Artikel spiegelt daher ausschlie&szlig;lich den Sachstand zum 14.04.2022 wieder.&nbsp;
+Der Firma Dohr Inkasso GmbH & Co. KG steht es nach Zustellung der einstweiligen Verfügung offen, gegen diese Widerspruch zu erheben. Die Entscheidung ist daher nur vorläufig.&nbsp;
 
 ## Zustellung über Gerichtsvollzieher
 
 Die Kanzlei AdvoAdvice hat mittlerweile die Zustellung des einstweiligen Verfügung an die Dohr Inkasso GmbH & Co. KG veranlasst. Es bleibt abzuwarten, ob diese noch vor Ostern oder erst nach den Osterfeiertagen dort zugeht.&nbsp;
+
+## Update: Widerspruch eingelegt und Löschung erfolgt
+
+Die Firma Dohr Inkasso GmbH & Co. KG hat am 20.04.2022 gegen die einstweilige Verfügung Widerspruch eingelegt.&nbsp;
+
+Bereits am 13.04.2022 hatte die Schufa Holding AG mitgeteilt, dass sie sich aufgrund der vorliegenden Informationen ohne Anerkennung einer Rechtspflichtzur Löschung des in Rede stehenden Eintrags inkl. aller Angaben zum Forderungsverlauf entschlossen habe.&nbsp;
 
 ## Immer wieder Streit zu titulierten Altforderungen
 
