@@ -60,7 +60,7 @@ Die Kanzlei AdvoAdvice hat mittlerweile die Zustellung des einstweiligen Verfüg
 
 Die Firma Dohr Inkasso GmbH & Co. KG hat am 20.04.2022 gegen die einstweilige Verfügung Widerspruch eingelegt.&nbsp;
 
-Bereits am 13.04.2022 hatte die Schufa Holding AG mitgeteilt, dass sie sich aufgrund der vorliegenden Informationen ohne Anerkennung einer Rechtspflichtzur Löschung des in Rede stehenden Eintrags inkl. aller Angaben zum Forderungsverlauf entschlossen habe.&nbsp;
+Bereits am 13.04.2022 hatte die Schufa Holding AG mitgeteilt, dass sie sich aufgrund der vorliegenden Informationen ohne Anerkennung einer Rechtspflicht zur Löschung des in Rede stehenden Eintrags inkl. aller Angaben zum Forderungsverlauf entschlossen habe.&nbsp;
 
 ## Immer wieder Streit zu titulierten Altforderungen
 
