@@ -1,6 +1,6 @@
 ---
 title: Erfolgreicher Wechsel in die Gesetzliche Krankenversicherung
-date: 2022-03-29 12:00:00
+date: 2022-05-02 00:00:00
 description: >-
   Ein Wechsel von der privaten Krankenversicherung in die gesetzliche
   Krankenversicherung ist möglich. 
@@ -37,13 +37,13 @@ Wir erklären Ihnen dann ausführlich, wie ein Weg aus der Privaten Krankenversi
 
 Wenn Sie sich für einen Ausstieg das der PKV entschieden haben, erteile Sie unserer Kanzlei eine Vollmacht, damit wir für Sie den Ausstieg starten können. Hierzu werden wir weitere Kooperationspartner einschalten, die Sie und uns bei dem Versicherungswechsel unterstützen.&nbsp;
 
-Für Sie wird dann eine Pflichtversicherung im Ausland hergestellt. Hierzu müssen Sie an Ihrer bisherigen Tätigkeit nichts verändern und auch nicht selbst persönlich ins Ausland reisen.&nbsp;
+Für Sie wird dann eine Versicherungspflicht im Ausland hergestellt. Hierzu müssen Sie an Ihrer bisherigen Tätigkeit nichts verändern und auch nicht selbst persönlich ins Ausland reisen.&nbsp;
 
-Danach wird dann Ihre PKV im Inland gekündigt. Hierbei unterstützen wir Sie, wenn notwendig auch als Rechtsanwälte, wenn es Rückfragen von der PKV geben sollte oder wenn diese sich weigern sollte, Ihre Kündigung zu akzeptieren.&nbsp;
+Wenn Sie im Ausland versichert sind, wird Ihre PKV im Inland gekündigt. Hierbei unterstützen wir Sie, wenn notwendig auch als Rechtsanwälte, wenn es Rückfragen von der PKV geben sollte oder wenn diese sich weigern sollte, Ihre Kündigung zu akzeptieren.&nbsp;
 
 ## Was passiert, wenn ich krank bin und zum Arzt gehen muss?
 
-Sie unterhalten nach erfolgter Kündigung der PKV für einen Zeitraum von 13 Monaten Ihre Pflichtversicherung im Ausland. Zudem erhalten Sie eine Elektronische Gesundheitskarte von einer Deutschen Krankenversicherung, die für die ausländische Versicherung die Abrechnung in Deutschland übernimmt.&nbsp;
+Sie unterhalten nach erfolgter Kündigung der PKV für einen Zeitraum von ca. 13 Monaten Ihre Pflichtversicherung im Ausland. Zudem erhalten Sie eine Elektronische Gesundheitskarte von einer Deutschen Krankenversicherung, die für die ausländische Versicherung die Abrechnung in Deutschland übernimmt.&nbsp;
 
 Wenn Sie zum Arzt gehen, ist es somit nicht zu erkennen, dass Sie bei einer Versicherung im Ausland versichert sind. Sie müssen dem Arzt nur Ihren Wechsel von der PKV in die Gesetzliche Krankenversicherung (GKV) anzeigen.&nbsp;
 
