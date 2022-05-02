@@ -6,7 +6,7 @@ description: >-
   Krankenversicherung ist möglich. 
 layout: post
 style_id: post
-image:
+image: /uploads/stethoscope-g79688b420-1920.jpg
 tags:
   - Private Krankenversicherung
   - Wechsel
@@ -16,7 +16,6 @@ tags:
   - Ausland
   - Rente
   - Kostenbelastung
-  - 01.10.2020
 topics:
   - versicherung
 author: dr-sven-tintemann
