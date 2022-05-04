@@ -25,11 +25,13 @@ Am 02.05.2022 lief in der Sendung MARKT im NDR Fernsehen ein Beitrag von Nikolas
 
 Hier wurden zwei Fälle besprochen, in denen die Negativeinträge gelöscht werden konnten. Zum einen wegen eines Umzugs und somit nicht erhaltener Zustellungen von Dokumenten der Allianz sowie wegen eines missbräuchlichen Kreditkartenantrags bei der Barclays Bank.
 
+[![](/uploads/markt.webp){: width="568" height="320"}](https://www.ndr.de/fernsehen/sendungen/markt/Aergernis-schlechte-Schufa-Eintraege,markt15480.html){: target="_blank" rel="noopener"}
+
 Hierzu wurde Rechtsanwalt Dr. Sven Tintemann als Experte und Fachanwalt für Bank- und Kapitalmarktrecht interviewt.&nbsp;
 
 Den Beitrag können Sie für eine begrenzte Zeit online abrufen unter dem Link:
 
-https://www.ndr.de/fernsehen/sendungen/markt/Aergernis-schlechte-Schufa-Eintraege,markt15480.html
+[https://www.ndr.de/fernsehen/sendungen/markt/Aergernis-schlechte-Schufa-Eintraege,markt15480.html](https://www.ndr.de/fernsehen/sendungen/markt/Aergernis-schlechte-Schufa-Eintraege,markt15480.html)
 
 Wir danken Herrn Peerenboom und seinem Team für die Idee und das Interview in unseren Kanzleiräumen.&nbsp;
 
