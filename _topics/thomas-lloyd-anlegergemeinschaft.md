@@ -209,8 +209,6 @@ abschnitte:
 
       * OLG Dresden, Urteil vom 28.04.2022
 
-      * &nbsp;
-
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -234,6 +232,8 @@ abschnitte:
       * OLG Dresden, Urteil vom 27.04.2022&nbsp;
 
       * OLG Dresden, Urteil vom 28.04.2022
+
+      * OLG Celle, Urteil vom 04.05.2022 (GOF und VAG)
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
