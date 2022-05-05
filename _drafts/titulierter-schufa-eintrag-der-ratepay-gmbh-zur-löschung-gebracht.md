@@ -1,7 +1,7 @@
 ---
 title: Titulierter Schufa-Eintrag der RatePay GmbH zur Löschung gebracht
-date: 2022-05-05 07:31:43
-description: Schufa-Eintrag nach Vollstreckungsbescheid gelöscht
+date: 2022-05-05 00:00:00
+description: Schufa-Eintrag der Rate Pay GmbH trotz Vollstreckungsbescheid gelöscht.
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa---rate-pay.jpg
@@ -19,9 +19,9 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Die Frage, ob und wann ein Schufa-Eintrag vorgenommen werden darf, ist immer wieder Thema in Rechtstreitigkeiten, welche durch die Kanzlei AdvoAdvice geführt werden. Auf der einen Seite stehen die meldenden Stellen, welche aus wirtschaftlichen Gründen mit möglichst geringem Aufwand die Forderung durchsetzen und ggf. eine rechtmä&szlig;ige Einmeldung bei einer Auskunftei vornehmen möchten. Auf der anderen Seite stehen die betroffenen Personen, für die ein solcher Eintrag weitreichende Konsequenzen hat.
+Die Frage, ob und wann ein Schufa-Eintrag vorgenommen werden darf, ist immer wieder Thema in Rechtstreitigkeiten, welche durch die Kanzlei AdvoAdvice Rechtsanwälte mbB geführt werden. Auf der einen Seite stehen die meldenden Stellen, welche aus wirtschaftlichen Gründen mit möglichst geringem Aufwand die Forderung durchsetzen und ggf. eine rechtmä&szlig;ige Einmeldung bei einer Auskunftei vornehmen möchten. Auf der anderen Seite stehen die betroffenen Personen, für die ein solcher Eintrag weitreichende Konsequenzen hat.
 
-## **Titulierte Forderung – Manchmal ist eine Löschung möglich**
+## **Titulierte Forderung – manchmal ist eine Löschung möglich**
 
 Nach den gesetzlichen Vorgaben und der Rechtsprechung, ist eine negative Meldung bei der Schufa Holding AG oder einer anderen Auskunftei, nach einer sog. Titulierung in aller Regel möglich. Eine Titulierung liegt beispielsweise nach einem Vollstreckungsbescheid, einem Urteil oder einem ähnlichen Beschluss des Gerichts vor. Objektiv betrachtet kann die Stelle, die die Forderung durchsetzen möchte, nicht mehr machen, als sich die Forderung gerichtlich titulieren zu lassen.
 
@@ -29,7 +29,7 @@ Nach den gesetzlichen Vorgaben und der Rechtsprechung, ist eine negative Meldung
 
 Die Frage ist allerdings, ob die Titulierung an sich ausreichend ist oder ob es weitere Voraussetzungen gibt, um eine Eintragung bei einer Auskunftei zu rechtfertigen. Immerhin hat ein solcher Eintrag massive Auswirkungen und bleibt selbst nach dem Ausgleich der Forderung für drei Jahre bestehen.
 
-In einem kürzlich vom [Landgericht Mainz entschiedenen Fall](https://advoadvice.de/blog/landgericht-mainz-inkassofirma-muss-5-000-euro-schadensersatz-wegen-schufa-eintrag-zahlen/), durfte der Eintrag nicht vorgenommen werden, da dieser Eintrag unmittelbar mit dem Erlass des Vollstreckungsbescheides zusammengefallen ist.
+In einem kürzlich vom [Landgericht Mainz entschiedenen Fall](https://advoadvice.de/blog/landgericht-mainz-inkassofirma-muss-5-000-euro-schadensersatz-wegen-schufa-eintrag-zahlen/), durfte der Eintrag nicht vorgenommen werden, da dieser Eintrag unmittelbar mit dem Erlass des Vollstreckungsbescheides zusammengefallen war.
 
 Im hier streitgegenständlichen Verfahren lag ein anderes Problem vor. Das bei der Schufa Holding AG gemeldete Ereignisdatum war zwar ebenfalls auf den Erlass des Vollstreckungsbescheides am 13.10.2021 datiert. Der Eintrag wurde in der Tat aber erst im November 2021 vorgenommen. Kernproblematik war sodann aber, dass es zwar einen Vollstreckungsbescheid für die RatePay GmbH gab. Dieser wurde jedoch an die alte Adresse der Betroffenen bei ihrer Mutter versandt. Die Betroffene selbst wohnte dort nicht mehr.
 
@@ -37,7 +37,7 @@ Schwerwiegend war dieser Vorgang, da die Betroffene im November eine Wohnung fin
 
 ### **Wie kann man sich gegen den Eintrag wehren?**
 
-Im gerichtlichen Mahnverfahren gibt es relativ kurze Fristen (i. d. R. von zwei Wochen), um gegen einen zugestellten Mahn- oder Vollstreckungsbescheid vorzugehen. Diese Frist muss man auch einhalten, wenn der Bescheid erst später zugeht. Nachdem die Betroffene in diesem Fall erfuhr, dass die Titulierung vorliegt, beauftragte Sie die Kanzlei AdvoAdvice. Diese legten zeitnah Einspruch gegen den Vollstreckungsbescheid ein.
+Im gerichtlichen Mahnverfahren gibt es relativ kurze Fristen (i. d. R. von zwei Wochen), um gegen einen zugestellten Mahn- oder Vollstreckungsbescheid vorzugehen. Diese Frist muss man auch einhalten, wenn der Bescheid erst später zugeht. Nachdem die Betroffene in diesem Fall erfuhr, dass die Titulierung vorliegt, beauftragte Sie die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin. Diese legte zeitnah Einspruch gegen den Vollstreckungsbescheid ein.
 
 In der Folge hat die RatePay GmbH über ihre Anwälte die Klage zurücknehmen lassen und den Verzicht auf die Rechte aus dem Vollstreckungsbescheid erklärt. Zugleich wurde die Löschung des Negativeintrages bei der Schufa Holding AG beantragt, sodass die Betroffene zeitnah wieder handlungsfähig war.
 
