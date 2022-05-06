@@ -44,7 +44,21 @@ Die Kanzlei AdvoAdvice Rechtsanwälte beantragte daher am 02.05.2022 den Erlass 
 
 Das Landgericht Berlin erlie&szlig; an selben Tag die einstweilige Verfügung im beantragten Umfang gegen die COEO Inkasso GmbH. Diese wurde über den Gerichtsvollzieher an die COEO Inkasso zugestellt. Zudem wurde die Schufa Holding AG erneut zur Löschung des Negativeintrags aufgefordert.&nbsp;
 
-&nbsp;
+## Schnelles Handeln führt zu schnellem Erfolg
+
+Der negative Eintrag wurde seitens der Schufa Holding AG gelöscht. Das Scoring wurde ebenfalls verbessert, so dass für den Betroffenen nunmehr ein Leasing der geplanten Solaranlage möglich ist.&nbsp;&nbsp;
+
+Rechtsanwalt Dr. Tintemann kommentiert den Vorgang wie folgt: "In dem vorliegenden Fall lag klar auf der Hand, dass eine Adressverwechslung vorlag. Leider haben weder die eintragende Stelle noch die Schufa Holding AG schnell genug auf die entsprechenden Nachweise reagiert. Daher musste zur Sicherung der Rechte unseres Mandanten eine einstweilige Verfügung beantragt werden, die dann erfreulicherweise auch sehr zeitnah durch das Landgericht Berlin erlassen wurde."
+
+Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+
+Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
+
+Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre erfolgreiche Prozessführung und Expertise im Bereich der Löschung von Negativeinträgen bei der Schufa Holding AG und anderen bekannten Auskunfteien, die z.B. Boniversum Creditreform, CRIF Bürgel oder Arvato Infoscore bekannt und konnten schon zahlreichen Betroffenen bei der Löschung von Negativeinträgen, der Verbesserung von Scorewerten, der Löschung von Einträgen aus öffentlichen Verzeichnissen oder der Löschung von Einträgen zur Restschuldbefreiung helfen.
+
+Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt, sowie dies auch im hiesigen Fall wieder gelungen ist.
+
+Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
 
 &nbsp;
 
