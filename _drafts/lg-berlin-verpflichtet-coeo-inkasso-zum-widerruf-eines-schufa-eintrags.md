@@ -6,7 +6,7 @@ description: >-
   Landgerichts Berlin gegen COEO Inkasso.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa---coeo.jpg
 tags:
   - Einstweilige Verfügung
   - Landgericht Berlin
