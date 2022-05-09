@@ -46,7 +46,7 @@ Das Landgericht Berlin erlie&szlig; an selben Tag die einstweilige Verfügung im
 
 ## Schnelles Handeln führt zu schnellem Erfolg
 
-Der negative Eintrag wurde seitens der Schufa Holding AG gelöscht. Das Scoring wurde ebenfalls verbessert, so dass für den Betroffenen nunmehr ein Leasing der geplanten Solaranlage möglich ist.&nbsp;&nbsp;
+Der negative Eintrag wurde mittlerweile, wahrscheinlich seitens der Schufa Holding AG, gelöscht. Das Scoring wurde ebenfalls verbessert, so dass für den Betroffenen nunmehr ein Leasing der geplanten Solaranlage möglich ist.&nbsp;&nbsp;
 
 Rechtsanwalt Dr. Tintemann kommentiert den Vorgang wie folgt: "In dem vorliegenden Fall lag klar auf der Hand, dass eine Adressverwechslung vorlag. Leider haben weder die eintragende Stelle noch die Schufa Holding AG schnell genug auf die entsprechenden Nachweise reagiert. Daher musste zur Sicherung der Rechte unseres Mandanten eine einstweilige Verfügung beantragt werden, die dann erfreulicherweise auch sehr zeitnah durch das Landgericht Berlin erlassen wurde."
 
