@@ -12,9 +12,9 @@ erfolge:
     text: Anleger
   - zahl: 200+
     text: Klagen
-  - zahl: 1,4 Mio€+
+  - zahl: 1,95 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 236 T€+
+  - zahl: 358 T€+
     text: Auszahlungen an Anleger
   - zahl: '51'
     text: Klagen in Berufungsinstanz gewonnen
@@ -94,12 +94,12 @@ abschnitte:
 
       Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
       Sicherheiten zur Verhinderung von Zwangsvollstreckungsma&szlig;nahmen in
-      Höhe von 1.430.097,56&nbsp; Euro (Stand: 16.03.2022) hinterlegt.
+      Höhe von 1.949.190,34&nbsp; Euro (Stand: 03.06.2022) hinterlegt.
 
 
-      Zudem konnten bereits in Höhe von 236.137,87 Euro durch unsere Kanzlei
-      Auszahlungen von hinterlegten Sicherheiten erstritten werden. (Stand:
-      16.03.2022)
+      Zudem konnten bereits in Höhe von 357.700,40 Euro durch unsere Kanzlei
+      Auszahlungen von hinterlegten Sicherheiten erstritten werden.
+      (Stand:03.06.2022)
 
 
       Es gibt mittlerweile 51 positive Entscheidungen von Berufungsgerichten
