@@ -10,13 +10,13 @@ header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
   - zahl: 300+
     text: Anleger
-  - zahl: 180+
+  - zahl: 200+
     text: Klagen
   - zahl: 1,4 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 236 T€+
     text: Auszahlungen an Anleger
-  - zahl: '47'
+  - zahl: '51'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
@@ -31,13 +31,14 @@ intro_text_markdown: >-
   Seitdem haben sich mehr als 300 Anleger unserer Anlegergemeinschaft
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
-  mehr als 180 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 47
+  mehr als 200 Klagen an verschiedenen Amtsgerichten und Landgerichten in
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 51
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits zahlreiche
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
   Anlagesummen ausgezahlt bekommen. Auch vor dem Bundesgerichtshof waren wir
-  erfolgreich. Eine Nichtzulassungsbeschwerde der Gegenseite hat der BGH
-  zurückgewiesen.&nbsp;
+  erfolgreich. Eine Nichtzulassungsbeschwerde der Gegenseite hat der BGH in
+  einem unserer Verfahren zurückgewiesen sowie in einem weiteren Verfahren,
+  welches durch eine andere Kanzlei geführt wurde.
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
@@ -69,12 +70,12 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 47 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 51 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
       Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
       gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
-      (Stand: 05.05.2022)&nbsp;
+      (Stand: 03.06.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -101,11 +102,11 @@ abschnitte:
       16.03.2022)
 
 
-      Es gibt mittlerweile 47 positive Entscheidungen von Berufungsgerichten
-      (darunter 45 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 51 positive Entscheidungen von Berufungsgerichten
+      (darunter 49 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 05.05.2022). Der Bundesgerichtshof hat eine
+      haben (Stand: 03.06.2022). Der Bundesgerichtshof hat eine
       Nichtzulassungsbeschwerde der Beklagten durch Beschluss vom 15.02.2022
       zurückgewiesen.
     image:
@@ -213,6 +214,8 @@ abschnitte:
 
       * OLG Hamburg, Beschluss vom 05.05.2022
 
+      * OLG Celle, Urteil vom 17.05.2022
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -240,6 +243,8 @@ abschnitte:
       * OLG Celle, Urteil vom 04.05.2022 (GOF und VAG)
 
       * OLG Celle, Urteil vom 04.05.2022 (GOF und VAG)
+
+      * OLG München, Beschluss vom 27.05.2022
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
