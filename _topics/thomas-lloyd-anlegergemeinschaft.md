@@ -216,6 +216,8 @@ abschnitte:
 
       * OLG Celle, Urteil vom 17.05.2022
 
+      * OLG Dresden, Urteil vom 25.05.2022 (Klage nach Brexit)
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
