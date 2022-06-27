@@ -47,7 +47,7 @@ In Deutschland dürfen Wertpapiere im Grundsatz – das hei&szlig;t vorbehaltlic
 
 Bei unrichtigen oder unvollständigen Angaben im Prospekt kann eine Haftung der Prospektverantwortlichen gemä&szlig; &sect;&sect; 9 bzw. 10 Wertpapierprospektgesetz (WpPG) bestehen. Gleiches gilt nach &sect; 14 WpPG für Anbieter und Emittenten von Wertpapieren, wenn pflichtwidrig kein Prospekt veröffentlicht wurde.
 
-Ein Versto&szlig; gegen die Prospektpflicht stellt nach &sect; 24 Absatz 3 Nr. 1&nbsp;WpPG eine Ordnungswidrigkeit dar und kann gemä&szlig; &sect; 24 Absatz 6 WpPG mit einer Geldbu&szlig;e von bis zu 5 Millionen Euro bzw. 3 Prozent des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden. Au&szlig;erdem können Geldbu&szlig;en bis zum Zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden.
+Ein Versto&szlig; gegen die Prospektpflicht stellt nach &sect; 24 Absatz 3 Nr. 1 WpPG eine Ordnungswidrigkeit dar und kann gemä&szlig; &sect; 24 Absatz 6 WpPG mit einer Geldbu&szlig;e von bis zu 5 Millionen Euro bzw. 3 Prozent des Gesamtumsatzes des letzten Geschäftsjahres geahndet werden. Au&szlig;erdem können Geldbu&szlig;en bis zum Zweifachen des aus dem Versto&szlig; gezogenen wirtschaftlichen Vorteils verhängt werden.
 
 Es sollte aber beachtet werden, dass nach der Meldung der BaFin vom 27.06.2022 nicht automatisch geklärt ist, ob es sich bei der von der T&acute;rautman Son&acute;s&nbsp; Kapital angebotenen Aktien und der Art und Weise des Angebotes nach Ansicht der BaFin ohne einen von der Bafin gebilligten Verkaufsprospekt hier um einen rechtskräftig festgestellten Pflichtenversto&szlig; handelt. Gegen Entscheidungen und Meldungen der BaFin sind Rechtsmittel möglich.
 
