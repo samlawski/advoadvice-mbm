@@ -1,5 +1,5 @@
 ---
-title: Schufa-Eintrag nach Identitätsdiebstahl durch Advanzia Bank S.A.
+title: Advanzia Bank S.A. veranlasst Schufa-Eintrag nach Identitätsdiebstahl
 date: 2022-07-06 06:41:02
 description: Negativer Eintrag bei der Schufa nach Identitätsdiebstahl gelöscht
 layout: post
