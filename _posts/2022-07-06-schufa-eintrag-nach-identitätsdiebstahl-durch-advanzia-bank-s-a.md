@@ -1,13 +1,25 @@
 ---
 title: Schufa-Eintrag nach Identitätsdiebstahl durch Advanzia Bank S.A.
 date: 2022-07-06 06:41:02
-description:
+description: Negativer Eintrag bei der Schufa nach Identitätsdiebstahl gelöscht
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---advanzia.jpg
 tags:
+  - Schufa-Recht
+  - Schufa Eintrag
+  - Schufa Holding AG
+  - Advanzia Bank S.A.
+  - Advanzia
+  - Axactor Germany GmbH
+  - Identitäsmissbrauch
+  - Identitätsdiebstahl
+  - Kreditkarte
+  - DSGVO
+  - BDSG
 topics:
-author: dr-sven-tintemann
+  - schufa-und-datenschutz
+author: dr--raphael-rohrmoser
 ---
 Die Anzahl der Fälle, in denen Kriminelle die Identität anderer Personen missbrauchen, ist in den letzten Jahren deutlich gestiegen. Das Problem dabei: Viele Betroffene merken nicht rechtzeitig, dass ihre Daten in die Hände von Betrügern gelangt sind. Dabei kann dies zu weitreichenden Folgen führen:
 
