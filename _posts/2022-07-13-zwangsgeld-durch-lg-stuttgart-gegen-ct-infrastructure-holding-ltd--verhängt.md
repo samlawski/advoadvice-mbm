@@ -6,7 +6,7 @@ description: >-
   Limited durch Durchsetzung von Auskunftsansprüchen. 
 layout: post
 style_id: post
-image:
+image: /uploads/img-8581-6.jpg
 tags:
   - Landgericht Stuttgart
   - CT Infrastructure Holding Ltd.
