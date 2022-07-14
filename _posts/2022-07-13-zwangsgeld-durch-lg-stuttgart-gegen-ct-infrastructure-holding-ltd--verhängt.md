@@ -3,7 +3,7 @@ title: Zwangsgeld durch LG Stuttgart gegen CT Infrastructure Holding Ltd. verhä
 date: 2022-07-13 00:00:00
 description: >-
   Landgericht Stuttgart verhängt Zwangsgeld gegen CT Infrastructure Holding
-  Limited durch Durchsetzung von Auskunftsansprüchen. 
+  Limited zur Durchsetzung von Auskunftsansprüchen. 
 layout: post
 style_id: post
 image: /uploads/img-8581-6.jpg
