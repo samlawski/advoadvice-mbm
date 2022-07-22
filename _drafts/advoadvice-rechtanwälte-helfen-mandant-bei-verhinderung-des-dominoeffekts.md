@@ -25,7 +25,7 @@ Kennen Sie das Spiel, bei dem man Dominosteine aufbaut, um diese dann nacheinand
 
 Bei Rechtsanwalt Dr. Sven Tintemann meldete sich ein Betroffener und berichtete gleich von zwei Problemen. Zum einen hatte die BNP Paribas einen negativen Schufa-Eintrag zu einer Kontokündigung vorgenommen, noch bevor die Kündigung den Betroffenen überhaupt erreicht hatte. Zudem kündigte die IngDiBa seinen Dispositionsrahmen auf dem Girokonto von 7.500 Euro und setzte diesen auf Null.
 
-Der Betroffene konnte daher über sein Gehalt, welches kurz danach aus dem Girokonto einging, nicht mehr verfügen. Zudem forderte die IngDiBa ihn auf, die restliche Überziehung binnen kurzer Frist zurückzuführen. Dies war dem Bankkunden nicht möglich.&nbsp;
+Der Betroffene konnte daher über sein Gehalt, welches kurz danach auf dem Girokonto einging, nicht mehr verfügen. Zudem forderte die IngDiBa ihn auf, die restliche Überziehung binnen kurzer Frist zurückzuführen. Dies war dem Bankkunden nicht möglich.&nbsp;
 
 Die IngDiBa drohte daher mit einer Kündigung des Girokontos und sperrte dem Betroffenen kurz danach sogar den Online-Zugang zu seinem Konto.&nbsp;
 
@@ -33,7 +33,7 @@ Die IngDiBa drohte daher mit einer Kündigung des Girokontos und sperrte dem Bet
 
 Die Kanzlei AdvoAdvice beantragte daher den Erlass einer einstweiligen Verfügung gegen die IngDiBa vor dem Landgericht Frankfurt am Main mit dem Ziel, dem Betroffenen den Dispositionsrahmen wieder einräumen zu lassen.&nbsp;
 
-Zudem wurde ein Antrag auf Erlass einer einstweiligen Verfügung gegen die BNP Paribas gestellt. Diese wurde von dem zuständigen Landgericht Münster auch nach kurzer Frist erlassen.&nbsp;
+Zudem wurde ein Antrag auf Erlass einer einstweiligen Verfügung gegen die BNP Paribas zum Widerruf des Schufa-Eintrages gestellt. Diese wurde von dem zuständigen Landgericht Münster auch nach kurzer Frist erlassen.&nbsp;
 
 Vor dem Landgericht Frankfurt am Main kam es zu einer Videoverhandlung, nachdem die IngDiBa mittlerweile auch das Konto des Betroffenen gekündigt hatte.&nbsp;
 
@@ -53,7 +53,7 @@ Auf diesem Weg konnte ein weiterer Rechtsstreit und somit auch die Gefahr eines 
 
 Rechtsanwalt Dr. Sven Tintemann kommentiert den Fall des Betroffen wie folgt:&nbsp;
 
-"An dem Beispiel lässt sich schnell verdeutlichen, dass ein unrechtmä&szlig;iger Schufa-Eintrag schnell zu einem Dominoeffekt führen kann, in dem Banken oder andere Vertragspartner des Betroffenen diesem das Dispo, die Kreditkarte oder einen Ratenkredit kündigen. Hierdurch drohen dann bei dortigem Zahlungsverzug weitere Schufa-Einträge, welche die Situation noch verschlimmern und den Betroffenen schnell in die Zahlungsunfähigkeit bringen können. Es ist daher notwendig, bei einem negativen Schufa-Eintrag schnell zu handeln, um einen drohenden Dominoeffekt zu stoppen."
+"An dem Beispiel lässt sich verdeutlichen, dass ein unrechtmä&szlig;iger Schufa-Eintrag schnell zu einem Dominoeffekt führen kann, in dem Banken oder andere Vertragspartner des Betroffenen diesem das Dispo, die Kreditkarte oder einen Ratenkredit kündigen. Hierdurch drohen dann bei dortigem Zahlungsverzug weitere Schufa-Einträge, welche die Situation noch verschlimmern und den Betroffenen schnell in die Zahlungsunfähigkeit bringen können. Es ist daher notwendig, bei einem negativen Schufa-Eintrag schnell zu handeln, um einen drohenden Dominoeffekt zu stoppen."
 
 Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können.
 
