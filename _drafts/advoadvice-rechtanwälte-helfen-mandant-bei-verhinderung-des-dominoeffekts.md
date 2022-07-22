@@ -57,7 +57,11 @@ Rechtsanwalt Dr. Sven Tintemann kommentiert den Fall des Betroffen wie folgt:&nb
 
 "An dem Beispiel lässt sich schnell verdeutlichen, dass ein unrechtmä&szlig;iger Schufa-Eintrag schnell zu einem Dominoeffekt führen kann, in dem Banken oder andere Vertragspartner des Betroffenen diesem das Dispo, die Kreditkarte oder einen Ratenkredit kündigen. Hierdurch drohen dann bei dortigem Zahlungsverzug weitere Schufa-Einträge, welche die Situation noch verschlimmern und den Betroffenen schnell in die Zahlungsunfähigkeit bringen können. Es ist daher notwendig, bei einem negativen Schufa-Eintrag schnell zu handeln, um einen drohenden Dominoeffekt zu stoppen."
 
-&nbsp;
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können.
+
+Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
+
+Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
 
 &nbsp;
 
