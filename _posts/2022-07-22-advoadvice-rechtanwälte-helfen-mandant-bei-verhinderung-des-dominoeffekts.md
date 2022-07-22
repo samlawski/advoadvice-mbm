@@ -59,7 +59,7 @@ Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
 
 &nbsp;
 
