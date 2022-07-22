@@ -1,9 +1,7 @@
 ---
 title: AdvoAdvice Rechtanwälte helfen Mandant bei Verhinderung des Dominoeffekts
 date: 2022-07-22 00:00:00
-description: >-
-  Unberechtigte Kündigung durch IngDiBa von Dispo und Ratenkredit nach
-  Schufa-Eintrag. 
+description: 'Kündigung durch IngDiBa von Dispo und Ratenkredit nach Schufa-Eintrag. '
 layout: post
 style_id: post
 image: /uploads/dominoes-g6d0bf9a46-1920.jpg
