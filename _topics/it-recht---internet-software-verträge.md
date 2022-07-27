@@ -17,7 +17,7 @@ intro_text_markdown: |-
 intro_link_text:
 intro_link:
 abschnitte:
-  - abschnitt_template: grafik_volle_breite
+  - abschnitt_template: box_dunkel
     titel: Facebook-Konto gehackt
     text_markdown: >-
       In den vergangenen Monaten haben sich bundes- und europaweit betroffene
