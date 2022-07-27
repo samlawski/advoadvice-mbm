@@ -106,7 +106,7 @@ abschnitte:
       Sie uns gerne unter info@advoadvice.de kontaktieren oder unter 030 / 921
       000 40 einen Telefontermin mit unserem Experten Rechtsanwalt Dr. Raphael
       Rohmoser vereinbaren.
-    image:
+    image: /uploads/dscf0361---homepage-2-2.jpg
     cta: true
 redirect_from:
 redirect_to:
