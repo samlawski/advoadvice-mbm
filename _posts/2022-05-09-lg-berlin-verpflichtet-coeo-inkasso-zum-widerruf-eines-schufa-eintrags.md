@@ -1,6 +1,6 @@
 ---
 title: LG Berlin verpflichtet COEO Inkasso zum Widerruf eines Schufa-Eintrags
-date: 2022-05-09 00:00:00
+date: 2022-05-09T00:00:00.000Z
 description: >-
   Schufa Holding AG löscht Negativeintrag nach einstweiliger Verfügung des
   Landgerichts Berlin gegen COEO Inkasso.
@@ -60,7 +60,9 @@ Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidung
 
 Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
 
-&nbsp;
+## \*Update vom 03.08.2022\*
+
+Die Schufa Holding AG zeigte kurze Zeit nach Erlass der einstweiligen Verfügung an, dass der Eintrag gelöscht wurde und bekundete, dass dem Unternehmen die entstandenen Unannehmlichkeiten leid tun. Die coeo Inkasso GmbH erhob Widerspruch gegen die einstweilige Verfügung. In der mündlichen Verhandlung wurde der Rechtsstreit&nbsp; wegen der bereits erfolgten Löschung übereinstimmend für erledigt erklärt. Der Beschluss des LG Berlin vom 02.05.2022 erwuchs damit nicht in Rechtskraft.
 
 &nbsp;
 
