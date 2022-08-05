@@ -80,6 +80,6 @@ Das Gericht schloss seine Ausführungen mit den Worten:
 
 Rechtsanwalt Dr. Sven Tintemann aus der Kanzlei AdvoAdvice Rechtsanwälte ist erfreut über das klar formulierte Urteil des Verwaltungsgerichts Wiesbaden. Er kommentiert dies wie folgt: „Die Entscheidung ist eine schallende Ohrfeige ins Gesicht der Hessischen Datenschutzbehörde. Dieser wurde durch das Urteil des Verwaltungsgerichts Wiesbaden nunmehr klar bescheinigt, dass sie ihr Ermessen falsch ausgeübt hat und selbst hätte erkenne müssen, dass der Eintrag durch die Schufa Holding AG gelöscht werden musste. Es ist sehr erfreulich, dass das Verwaltungsgericht Wiesbaden als Kontrollinstanz des Hessischen Beauftragten für Datenschutz und Informationsfreiheit hier eine klare und DSGVO-konforme Entscheidung getroffen hat. Für Betroffene bedeutet dies, dass neben dem zivilrechtlichen Klageweg auch der Verwaltungsrechtsweg neue Möglichkeiten für ein Vorgehen gegen unberechtigte Negativeinträge schafft. Je nach Sachverhalt kann es sich rentieren, auch diesen Weg einzuschlagen, um den bestmöglichen Erfolg und effektiven sowie schnellen Rechtsschutz zu erlangen.“
 
-## **Hinweise zum Urteil**
+## **Hinweise zum Urteil - Update vom 05.08.2022**
 
-Die Entscheidung des Verwaltungsgerichts ist noch nicht rechtskräftig. Gegen das Urteil kann einen Monat nach Zustellung die Zulassung der Berufung beantragt werden. Über die Zulassung und eine eventuell zugelassene Berufung entscheidet der Hessische Verwaltungsgerichtshof.
+Der Rechtsstreit ist in der Rechtsmittelinstanz vor dem Hessischen Verwaltungsgerichtshof durch übereinstimmende Erledigungserklärungen beendet worden. Das Urteil des VG Wiesbaden ist somit nicht in Rechtskraft erwachsen.
