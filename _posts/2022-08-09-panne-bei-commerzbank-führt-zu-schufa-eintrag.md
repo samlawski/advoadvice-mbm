@@ -1,6 +1,6 @@
 ---
 title: Panne bei Commerzbank führt zu Schufa-Eintrag
-date:
+date: 2022-08-09 07:21:59
 description: Kontoführungsgebühr bei kostenlosem Konto führt zu Schufa-Eintrag
 layout: post
 style_id: post
