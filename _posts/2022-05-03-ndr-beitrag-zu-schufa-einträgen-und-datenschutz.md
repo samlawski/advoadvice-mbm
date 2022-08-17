@@ -6,7 +6,7 @@ description: >-
   Datenschutz.
 layout: post
 style_id: post
-image: /uploads/ndr-schufa-dreh-3.jpg
+image: /uploads/markt---ndr---tintemann.PNG
 tags:
   - NDR
   - MARKT
