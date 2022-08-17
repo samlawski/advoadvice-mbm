@@ -28,7 +28,7 @@ Am 03.08.2022 lief in der Sendung Plusminus im Programm der ARD ein Beitrag von 
 
 Hier wurden zwei Fälle besprochen, in denen die Negativeinträge gelöscht werden konnten.&nbsp;
 
-Zum einen ging es um einen Negativeintrag der Telekom Deutschland GmbH und um einen Eintrag der Commerzbank (Comdirect).&nbsp;
+Zum einen ging es um einen Negativeintrag der Telekom Deutschland GmbH und um einen Eintrag der Commerzbank (Comdirect) bei der Schufa Holding AG.
 
 [![](/uploads/plusminus-bunt.PNG){: width="302" height="166"}](https://www.ardmediathek.de/video/plusminus/ein-schufa-eintrag-und-die-folgen/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3BsdXNtaW51cy9hZGEwMDhhOC01NWZiLTQ4NTMtYmFiNC1kMjU1M2I1NmYzY2M ){: target="_blank" rel="noopener"}
 
