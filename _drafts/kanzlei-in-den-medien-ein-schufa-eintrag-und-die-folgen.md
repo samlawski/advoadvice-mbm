@@ -7,7 +7,7 @@ description: >-
   Experten
 layout: post
 style_id: post
-image: /uploads/20220720-115249.jpg
+image: /uploads/plusminus---tintemann.PNG
 tags:
   - ARD
   - Plusminus
@@ -19,17 +19,18 @@ tags:
   - Telekom Deutschland GmbH
   - Nicolas Peerenboom
 topics:
+  - medien
 author: dr-sven-tintemann
 ---
 Am 03.08.2022 lief in der Sendung Plusminus im Programm der ARD ein Beitrag von Nicolas Peerenboom zu unberechtigten Einträgen bei der Schufa Holding AG und zu daraus resultierenden Schadensersatzansprüchen.&nbsp;
 
-&nbsp;
+[![](/uploads/ard-logo-2019-svg.png){: width="800" height="367"}](www.ard.de){: target="_blank" rel="noopener"}
 
 Hier wurden zwei Fälle besprochen, in denen die Negativeinträge gelöscht werden konnten.&nbsp;
 
 Zum einen ging es um einen Negativeintrag der Telekom Deutschland GmbH und um einen Eintrag der Commerzbank (Comdirect).&nbsp;
 
-&nbsp;
+[![](/uploads/plusminus-bunt.PNG){: width="302" height="166"}](https://www.ardmediathek.de/video/plusminus/ein-schufa-eintrag-und-die-folgen/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3BsdXNtaW51cy9hZGEwMDhhOC01NWZiLTQ4NTMtYmFiNC1kMjU1M2I1NmYzY2M ){: target="_blank" rel="noopener"}
 
 Hierzu wurde Rechtsanwalt Dr. Sven Tintemann als Experte und Fachanwalt für Bank- und Kapitalmarktrecht interviewt.&nbsp;
 
