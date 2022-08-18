@@ -2,8 +2,8 @@
 title: Erfolgreicher Ausstieg aus der PKV als Selbständiger
 date: 2022-08-18 00:00:00
 description: >-
-  Rechtsanwalt steigt trotz Selbständigkeit aus PKV (Privaten
-  Krankenversicherung) aus und ist jetzt freiwillig gesetzlich versichert. 
+  Rechtsanwalt steigt trotz Selbständigkeit aus PKV bei DKV aus und ist jetzt
+  freiwillig gesetzlich versichert. 
 layout: post
 style_id: post
 image: /uploads/pkv4.jpg
