@@ -6,7 +6,7 @@ description: >-
   Krankenversicherung) aus und ist jetzt freiwillig gesetzlich versichert. 
 layout: post
 style_id: post
-image: /uploads/health-card-g9a02c2c36-1280.jpg
+image: /uploads/pkv4.jpg
 tags:
   - PKV
   - GKV
@@ -18,7 +18,7 @@ topics:
   - versicherung
 author: dr-sven-tintemann
 ---
-Kann man als selbständiger, freiberuflich tätiger Rechtsanwalt von der PKV (Privaten Krankenversicherung) in die gesetzliche Krankenversicherung wechseln? Man benötigt nur die richtigen Netzwerkpartner und etwas Mut, au&szlig;erhalb der Box des deutschen Rechtssystems zu denken.
+Kann man als selbständiger, freiberuflich tätiger Rechtsanwalt von der PKV (Privaten Krankenversicherung) in die gesetzliche Krankenversicherung wechseln? Mann kann\! Man benötigt nur die richtigen Netzwerkpartner und etwas Mut, au&szlig;erhalb der Box des deutschen Rechtssystems zu denken.
 
 ## DKV nach 15 Jahre verlassen
 
