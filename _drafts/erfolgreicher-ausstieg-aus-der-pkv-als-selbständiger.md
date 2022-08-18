@@ -6,7 +6,7 @@ description: >-
   Krankenversicherung) aus und ist jetzt freiwillig gesetzlich versichert. 
 layout: post
 style_id: post
-image:
+image: /uploads/health-card-g9a02c2c36-1280.jpg
 tags:
   - PKV
   - GKV
