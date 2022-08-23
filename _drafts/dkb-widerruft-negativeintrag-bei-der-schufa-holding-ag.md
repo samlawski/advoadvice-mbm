@@ -6,7 +6,7 @@ description: >-
   AdvoAdvice hilft Rechtsanwaltskollegen. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge-dkb.jpg
 tags:
   - Datenschutzrecht
   - Schufa Holding AG
