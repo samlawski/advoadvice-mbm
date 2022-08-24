@@ -4,7 +4,7 @@ date: 2022-08-24 00:00:00
 description: 'Neues Elektroauto für AdvoAdvice verstärkt Kanzleiauftritt. '
 layout: post
 style_id: post
-image:
+image: /uploads/20220824-145239.jpg
 tags:
   - Mokka E
   - Kanzlei
