@@ -1,11 +1,20 @@
 ---
 title: E-Auto verstärkt Kanzleiauftritt von AdvoAdvice
 date: 2022-08-24 00:00:00
-description:
+description: 'Neues Elektroauto für AdvoAdvice verstärkt Kanzleiauftritt. '
 layout: post
 style_id: post
 image:
 tags:
+  - Mokka E
+  - Kanzlei
+  - AdvoAdvice
+  - E-Mobilität
+  - Elektroauto
+  - Berlin
+  - Brandenburg
+  - Rechtsanwälte
+  - AdvoAdvice Rechtsanwälte
 topics:
 author: dr-sven-tintemann
 ---
