@@ -1,7 +1,9 @@
 ---
 title: E-Auto verstärkt Kanzleiauftritt von AdvoAdvice
 date: 2022-08-24 00:00:00
-description: 'Neues Elektroauto für AdvoAdvice verstärkt Kanzleiauftritt. '
+description: >-
+  Kanzlei AdvoAdvice nutzt Elektroauto Opel Mokka E für Fahrten zu Terminen und
+  Kanzleiaufgaben.
 layout: post
 style_id: post
 image: /uploads/20220824-145239.jpg
