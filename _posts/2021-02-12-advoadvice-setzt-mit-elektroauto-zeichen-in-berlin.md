@@ -18,7 +18,6 @@ tags:
 topics:
 author: dr-sven-tintemann
 ---
-
 Die Kanzlei AdvoAdvice geht neue Wege und hat sich für das Jahr 2021 bewusst für E-Mobilität entschieden.&nbsp;
 
 ## E-Auto verstärkt Kanzleiauftritt
@@ -31,4 +30,4 @@ Rechtsanwalt Dr. Sven Tintemann freut sich über diesen Schritt zur neuen E-Mobi
 
 ## Rechtsanwälte im kaiserlichen Postamt
 
-Wenn auch Sie unser Kanzleifahrzeug in Berliner oder im Umland begegnet sind und sich für eine Beratung im Bereich Anlegerschutz, Datenschutz, Mietrecht, Insolvenzrecht oder Schufa-Recht interessieren, rufen Sie gerne an oder schreiben Sie uns eine Email an info@advoadvice.de.
+Wenn auch Sie unserem Kanzleifahrzeug in Berliner oder im Umland begegnet sind und Sie sich für eine Beratung im Bereich Anlegerschutz, Datenschutz, Mietrecht, Insolvenzrecht oder Schufa-Recht interessieren, rufen Sie gerne an oder schreiben Sie uns eine Email an info@advoadvice.de.
