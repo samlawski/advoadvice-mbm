@@ -1,6 +1,6 @@
 ---
 title: LG Berlin verurteilt Advanzia Bank S.A. zum Widerruf eines Schufa-Eintrages
-date:
+date: 2022-08-25 10:00:00
 description: Advanzia Bank nimmt Negativeintrag nach Aufhebung einer Kündigung vor
 layout: post
 style_id: post
