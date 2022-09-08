@@ -218,6 +218,10 @@ abschnitte:
 
       * OLG Dresden, Urteil vom 25.05.2022 (Klage nach Brexit)
 
+      * OLG Celle, Urteil vom 29.06.2022
+
+      * OLG Naumburg, Urteil vom 29.06.2022
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -247,6 +251,12 @@ abschnitte:
       * OLG Celle, Urteil vom 04.05.2022 (GOF und VAG)
 
       * OLG München, Beschluss vom 27.05.2022
+
+      * OLG Celle, Beschluss vom 15.06.2022
+
+      * OLG Celle, Urteil vom 29.06.2022 (GOF und VAG)
+
+      * OLG Celle, Urteil vom 29.06.2022 (GOF und VAG)
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
