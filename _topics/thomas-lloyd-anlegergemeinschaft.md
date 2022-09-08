@@ -70,12 +70,12 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 51 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 56 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
       Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
       gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
-      (Stand: 03.06.2022)&nbsp;
+      (Stand: 08.09.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -102,11 +102,11 @@ abschnitte:
       (Stand:03.06.2022)
 
 
-      Es gibt mittlerweile 51 positive Entscheidungen von Berufungsgerichten
-      (darunter 49 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 56 positive Entscheidungen von Berufungsgerichten
+      (darunter 54 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 03.06.2022). Der Bundesgerichtshof hat eine
+      haben (Stand: 08.09.2022). Der Bundesgerichtshof hat eine
       Nichtzulassungsbeschwerde der Beklagten durch Beschluss vom 15.02.2022
       zurückgewiesen.
     image:
