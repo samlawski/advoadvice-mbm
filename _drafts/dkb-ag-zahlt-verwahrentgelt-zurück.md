@@ -35,7 +35,15 @@ Die Kanzlei AdvoAdvice Rechtsanwälte mbB hatte der Anpassung der AGB bisher nic
 
 Mit einem weiteren Schreiben vom 20.04.2022 wurde dann allerdings eine weitere AGB-Anpassung zum 01.07.2022 angekündigt. Diese sollte gelten, wenn man nicht bis zum 01.07.2022 seine Ablehnung anzeigt.&nbsp;
 
-Rückforderung von Verwahrentgelten
+## Rückforderung von Verwahrentgelten
+
+Die Kanzlei AdvoAdvice nahm die erneute Änderung der AGB sowie die Änderung der Zinspolitik der Europäischen Zentralbank (EZB) zum Anlass, die bisher einbehaltenen Verwahrentgelte von der DKB AG zurückzufordern.&nbsp;
+
+Dabei nahm Rechtsanwalt Dr. Sven Tintemann Bezug auf die Rechtsprechung der Landgerichte Berlin Düsseldorf, welche das Einbehalten von Verwahrentgelten als unzulässig beurteilt hatte.&nbsp;
+
+Zudem verwies Dr. Tinteman darauf, dass die Kanzlei AdvoAdvice der Anpassung der AGB nicht zugestimmt habe und dass deren Änderung daher nicht wirksam sei.&nbsp;
+
+## Bank erstattet sog. Strafzinsen
 
 &nbsp;
 
