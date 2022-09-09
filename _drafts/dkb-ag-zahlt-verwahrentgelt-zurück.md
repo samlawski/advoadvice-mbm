@@ -56,13 +56,3 @@ Eine Erstattung für das noch laufende 3. Quartal 2022 nach Quartalsabschluss wu
 Manchmal müssen Anwälte auch in eigener Sache tätig werden. Dies zeigt der vorliegende Fall deutlich.
 
 Betroffene, bei denen ebenfalls Verwahrentgelte im geschäftlichen oder privaten Bereich durch die DKB AG einbehalten worden sind, sollten sich somit ebenfalls an diese wenden und eine Erstattung der umstrittenen und wahrscheinlich unzulässigen Strafzinsen verlangen.&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
