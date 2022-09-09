@@ -1,12 +1,12 @@
 ---
 title: DKB AG zahlt Verwahrentgelt zurück
-date: 2022-09-06 00:00:00
+date: 2022-09-09 00:00:00
 description: >-
   Advoadvice im Kampf gegen Strafzinsen erfolgreich. DKB storniert Abzug von
   Verwahrentgelt nach außergerichtlicher Tätigkeit
 layout: post
 style_id: post
-image:
+image: /uploads/dkb-anschreiben-1.jpg
 tags:
   - Strafzinsen
   - Verwahrentgelt
