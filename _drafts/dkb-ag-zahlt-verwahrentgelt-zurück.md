@@ -41,7 +41,7 @@ Die Kanzlei AdvoAdvice nahm die erneute Änderung der AGB sowie die Änderung de
 
 Dabei nahm Rechtsanwalt Dr. Sven Tintemann Bezug auf die Rechtsprechung der Landgerichte Berlin Düsseldorf, welche das Einbehalten von Verwahrentgelten als unzulässig beurteilt hatte.&nbsp;
 
-Zudem verwies Dr. Tinteman darauf, dass die Kanzlei AdvoAdvice der Anpassung der AGB nicht zugestimmt habe und dass deren Änderung daher nicht wirksam sei.&nbsp;
+Zudem verwies Dr. Tintemann darauf, dass die Kanzlei AdvoAdvice der Anpassung der AGB nicht zugestimmt habe und dass deren Änderung daher nicht wirksam sei.&nbsp;
 
 ## Bank erstattet sog. Strafzinsen
 
