@@ -6,7 +6,7 @@ description: >-
   Verwahrentgelt nach außergerichtlicher Tätigkeit
 layout: post
 style_id: post
-image: /uploads/dkb-anschreiben-1.jpg
+image: /uploads/dkb-brief.jpg
 tags:
   - Strafzinsen
   - Verwahrentgelt
