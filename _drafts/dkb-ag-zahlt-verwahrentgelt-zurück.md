@@ -47,7 +47,19 @@ Zudem verwies Dr. Tinteman darauf, dass die Kanzlei AdvoAdvice der Anpassung der
 
 Die DKB AG meldet sich daraufhin zunächst mit dem Angebot, nur die Verwahrentgelte für das 3. Quartal 2022 zu erstatten, wenn AdvoAdvice der Änderung der AGB zustimmen würde.&nbsp;
 
-Nach einem Telefonat der zuständigen Sachbearbeiterin mit Dr. Tintemann wurde dann jedoch zunächst das Verwahrentgelt für das 2. Quartal 2022 zurückerstattet und wenig später dann auch das Verwahrentgelt vom 2. Quartal&nbsp;
+Nach einem Telefonat der zuständigen Sachbearbeiterin mit Dr. Tintemann wurde dann jedoch zunächst das Verwahrentgelt für das 2. Quartal 2022 zurückerstattet und wenig später dann auch die Verwahrentgelte vom 2. Quartal 2021 bis einschlie&szlig;lich zum 1. Quartal 2022.
+
+Eine Erstattung für das noch laufende 3. Quartal 2022 nach Quartalsabschluss wurde angekündigt.&nbsp;
+
+## Fazit von AdvoAdvice
+
+Manchmal müssen Anwälte auch in eigener Sache tätig werden. Dies zeigt der vorliegende Fall deutlich.
+
+Betroffene, bei denen ebenfalls Verwahrentgelte im geschäftlichen oder privaten Bereich durch die DKB AG einbehalten worden sind, sollten sich somit ebenfalls an diese wenden und eine Erstattung der umstrittenen und wahrscheinlich unzulässigen Strafzinsen verlangen.&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
