@@ -27,9 +27,9 @@ Die Deutsche Kreditbank AG in Berlin ist eingeknickt. Sie hat an die Kanzlei Adv
 
 Mit Schreiben vom 27.01.2021 hatte die DKB AG angekündigt, ab dem 01.04.2021 Verwahrentgelte zu erheben bei Beträgen auf dem Geschäftskonto von mehr als 100.000 Euro.&nbsp;
 
-Zusätzlich hierzu hatte die DKB AG auch noch Fremdgeldkonten für&nbsp; Rechtsanwälte zum 31.03.2022 gekündigt.&nbsp;
+Zusätzlich hierzu hatte die DKB AG auch noch Fremdgeldkonten für&nbsp; Rechtsanwälte zum 31.03.2022 gekündigt. Dies führte zu erhöhtem Geldtransfer auf dem Geschäftskonto von Advoadvice.
 
-Einer Änderung de AGB sollte auch dann wirksam werden, wenn der betroffene Geschäftskunde nicht zugestimmt hatte.&nbsp;
+Eine Änderung der AGB sollte nach Ansicht der DKB auch dann wirksam werden, wenn der betroffene Geschäftskunde nicht zugestimmt hatte.&nbsp;
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB hatte der Anpassung der AGB bisher nicht zugestimmt. Dieses hatte die DKB auch bisher nicht gerügt.&nbsp;
 
@@ -39,9 +39,9 @@ Mit einem weiteren Schreiben vom 20.04.2022 wurde dann allerdings eine weitere A
 
 Die Kanzlei AdvoAdvice nahm die erneute Änderung der AGB sowie die Änderung der Zinspolitik der Europäischen Zentralbank (EZB) zum Anlass, die bisher einbehaltenen Verwahrentgelte von der DKB AG zurückzufordern.&nbsp;
 
-Dabei nahm Rechtsanwalt Dr. Sven Tintemann Bezug auf die Rechtsprechung der Landgerichte Berlin Düsseldorf, welche das Einbehalten von Verwahrentgelten als unzulässig beurteilt hatte.&nbsp;
+Dabei nahm Rechtsanwalt Dr. Sven Tintemann Bezug auf die Rechtsprechung der Landgerichte Berlin und Düsseldorf, welche das Einbehalten von Verwahrentgelten als unzulässig beurteilt hatten.&nbsp;
 
-Zudem verwies Dr. Tinteman darauf, dass die Kanzlei AdvoAdvice der Anpassung der AGB nicht zugestimmt habe und dass deren Änderung daher nicht wirksam sei.&nbsp;
+Zudem verwies Dr. Tinteman darauf, dass die Kanzlei AdvoAdvice der Anpassung der AGB nicht zugestimmt habe und dass deren Änderung daher nicht wirksam sei (vgl. BGH, Urt. 27.04.2021, Az. XI ZR 26/20).
 
 ## Bank erstattet sog. Strafzinsen
 
@@ -55,4 +55,4 @@ Eine Erstattung für das noch laufende 3. Quartal 2022 nach Quartalsabschluss wu
 
 Manchmal müssen Anwälte auch in eigener Sache tätig werden. Dies zeigt der vorliegende Fall deutlich.
 
-Betroffene, bei denen ebenfalls Verwahrentgelte im geschäftlichen oder privaten Bereich durch die DKB AG einbehalten worden sind, sollten sich somit ebenfalls an diese wenden und eine Erstattung der umstrittenen und wahrscheinlich unzulässigen Strafzinsen verlangen.&nbsp;
+Betroffene, bei denen ebenfalls Verwahrentgelte im geschäftlichen oder privaten Bereich durch die DKB AG einbehalten worden sind, sollten sich somit ebenfalls an diese wenden und eine Erstattung der umstrittenen und wahrscheinlich unzulässigen Strafzinsen verlangen. Dies im geschäftlichen Bereich vor allem dann, wenn einer AGB-Änderung nie aktiv zugestimmt wurde. Im Privatkundenbereich dürften Verwahrenrgelte aus der Sicht von Advoadvice grundsätzlich unzulässig sein.
