@@ -21,7 +21,7 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-Die Deutsche Kreditbank AG in Berlin ist eingeknickt. Sie hat an die Kanzlei AdvoAdvice Rechtsanwälte Verwahrentgelte seit dem 1. Quartal 2021 in Höhe von insgesamt&nbsp; Euro erstattet.
+Die Deutsche Kreditbank AG in Berlin ist eingeknickt. Sie hat an die Kanzlei AdvoAdvice Rechtsanwälte Verwahrentgelte seit dem 1. Quartal 2021 in Höhe von insgesamt&nbsp; 425,88 Euro erstattet.
 
 ## Zum Hintergrund
 
