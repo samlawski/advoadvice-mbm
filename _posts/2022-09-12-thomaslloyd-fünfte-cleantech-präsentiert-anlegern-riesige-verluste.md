@@ -6,7 +6,7 @@ description: >-
   als 80 Mio Euro für 2020 an Anleger bekannt. 
 layout: post
 style_id: post
-image:
+image: /uploads/chart-g4f02f8463-1280.png
 tags:
   - Thomas Lloyd Gruppe
   - Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG
