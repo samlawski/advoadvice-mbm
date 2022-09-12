@@ -31,7 +31,7 @@ Die Anleger werden darüber informiert, dass im Jahr 2022 ein Jahresfehlbetrag v
 
 Der Jahresfehlbetrag soll in voller Höhe von 80.542.481,21 Euro als Belastung auf den Kapitalkonten der Kommanditisten (also der Anleger) verbucht werden.&nbsp;
 
-Ein wesentlicher Teil der Verluste scheint hier wohl durch sog. au&szlig;erplanmä&szlig;ige Abschreiben in Höhe von&nbsp; 77.408.000 Euro entstanden zu sein. Wie sich diese genau aufschlüsseln und warum die Abschreiben gerade jetzt entstanden sind, ist fraglich.&nbsp;
+Ein wesentlicher Teil der Verluste scheint hier wohl durch sog. au&szlig;erplanmä&szlig;ige Abschreibungen in Höhe von&nbsp; 77.408.000 Euro entstanden zu sein. Wie sich diese genau aufschlüsseln und warum die Abschreibungen gerade jetzt entstanden sind, ist fraglich.&nbsp;
 
 ## Alarmsignal für Anleger
 
