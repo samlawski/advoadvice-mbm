@@ -53,8 +53,4 @@ Danach wurden den Anlegern Aktien im Wert sog. Penny-Stocks angeboten, die nicht
 
 Anleger der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG sollten sich daher Rat von einem versierten Fachanwalt für Bank- und Kapitalmarktrecht zu möglichen Ansprüchen gegen die Anlagegesellschaft und weitere Anspruchsgegner einholen.&nbsp;
 
-Rechtsanwalt Dr. Tintemann bietet hierzu eine kostenfreie telefonische Ersteinschätzung für betroffene Anleger an. Wenden Sie sich hierzu an 030 921 000 40 oder an info@advoadvice.de.&nbsp;
-
-&nbsp;
-
-&nbsp;
+Rechtsanwalt Dr. Tintemann bietet hierzu eine kostenfreie telefonische Ersteinschätzung für betroffene Anleger an. Wenden Sie sich hierzu an 030 921 000 40 oder an info@advoadvice.de.
