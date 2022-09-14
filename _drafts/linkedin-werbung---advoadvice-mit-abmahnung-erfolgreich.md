@@ -37,9 +37,9 @@ Nachdem Dr. Tintemann die Vernetzung bei LinkedIn kommentarlos aufhob, war der w
 
 Dr. Tintemann beauftragte daher seinen Kollegen Dr. Rohrmoser damit, das Verhalten des Werbenden Ergo Bezirksdirektors abzumahnen und eine strafbewehrte Unterlassungsverpflichtungserklärung zu verlangen.&nbsp;
 
-Dies hatte Erfolg. Der Werber sah zwar sein Fehlverhalten nicht ein und meinte rechtsfehlerhaft, dass eine Vernetzung auf LinkedIn als Freigabe zum Versenden von Werbung ausreichend sei. Er gab aber dennoch eine strafbewehrte Unterlassungsverpflichtungserklärung ab.&nbsp;
+Dies hatte Erfolg. Der Werber sah zwar sein Fehlverhalten nicht ein und meinte rechtsfehlerhaft, dass eine Vernetzung auf LinkedIn als Freigabe zum Versenden von Werbung ausreichend sei, da eine Einwilligung anzunehmen sei. Er gab aber dennoch eine strafbewehrte Unterlassungsverpflichtungserklärung ab.&nbsp;
 
-## Rat von AdvoAdivice zur Werbung auf sozialen Netzwerken
+## Rat von AdvoAdvice zur Werbung auf sozialen Netzwerken
 
 Eine Vernetzung auf sozialen Netzwerken wie LinkedIn, Facebook oder Xing stellt keine Einwilligung zum Erhalt von Werbenachrichten dar.&nbsp;
 
