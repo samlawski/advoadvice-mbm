@@ -33,6 +33,8 @@ Der Jahresfehlbetrag soll in voller Höhe von 80.542.481,21 Euro als Belastung a
 
 Ein wesentlicher Teil der Verluste scheint hier wohl durch sog. au&szlig;erplanmä&szlig;ige Abschreibungen in Höhe von&nbsp; 77.408.000 Euro entstanden zu sein. Wie sich diese genau aufschlüsseln und warum die Abschreibungen gerade jetzt entstanden sind, ist fraglich.&nbsp;
 
+Auch bei den Fonds der Zweiten Cleantech Infrastrukturgesellschaft mbH und Co. KG und der Dritten Cleantech Infrastrukturgesellschaft mbH und Co. KG läuft es nicht rund. Dies präsentieren den Anlegern einen Jahresfehlbetrag von 12.437.292,13 Euro bei Abschreibungen auf Finanzanlagen von 8.196 T€ und betrieblichen Erträgen von 997 T€ gegenüber betrieblichen Aufwendungen von 5.121 T€ bei der Zweite Cleantech KG sowie einen Jahresfehlbetrag von 13.675.627,53 Euro bei Abschreibungen auf Finanzanlagen von 13.046 T€ und betrieblichen Erträgen von gerade einmal 70 T€ und betrieblichen Aufwendungen von 696 T€.
+
 ## Alarmsignal für Anleger
 
 Die riesigen Verluste sollten für Anleger, die sich an der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG als Treugeberkommanditisten beteiligt haben, ein Alarmsignal darstellen.&nbsp;
