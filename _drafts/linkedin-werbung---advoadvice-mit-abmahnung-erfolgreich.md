@@ -6,7 +6,7 @@ description: >-
   Unterlassungserklärung ab.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-linkedin.jpg
 tags:
   - LinkedIn
   - Werbung
