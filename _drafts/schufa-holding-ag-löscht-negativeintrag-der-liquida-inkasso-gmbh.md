@@ -1,13 +1,21 @@
 ---
 title: Schufa Holding AG löscht Negativeintrag der Liquida Inkasso GmbH
 date:
-description:
+description: Schufa-Eintrag nach Miniforderung gelöscht
 layout: post
 style_id: post
 image:
 tags:
+  - Schufa Recht
+  - Schufa Eintrag
+  - Schufa Holding AG
+  - Negativeintrag
+  - DSGVO
+  - BDSG
+  - Liquida Inkasso
 topics:
-author: dr-sven-tintemann
+  - schufa-und-datenschutz
+author: dr--raphael-rohrmoser
 ---
 Schufa-Einträge werden oftmals von Inkassounternehmen in eigener Forderungsbeitreibung oder für einen anderen Gläubiger vorgenommen. Die Kanzlei AdvoAdvice bearbeitete nunmehr einen Fall, bei dem die Hauptforderung jedoch lediglich 1,69 Euro betrug. Die Liquida Inkasso GmbH meldete daraufhin der Schufa Holding AG einen Gesamtbetrag in Höhe von 219 Euro inklusive Inkassogebühren etc. Ob solche Einträge verarbeitet werden dürfen, ist immer eine Frage des Einzelfalls:
 
