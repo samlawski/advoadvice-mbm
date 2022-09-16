@@ -4,7 +4,7 @@ date:
 description: Schufa-Eintrag nach Miniforderung gelöscht
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge-liquida.jpg
 tags:
   - Schufa Recht
   - Schufa Eintrag
