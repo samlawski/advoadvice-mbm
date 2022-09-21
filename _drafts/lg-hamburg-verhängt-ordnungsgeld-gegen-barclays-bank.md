@@ -1,6 +1,6 @@
 ---
 title: LG Hamburg verhängt Ordnungsgeld gegen Barclays Bank
-date:
+date: 2022-09-21 12:00:00
 description: Barclays Bank zu Ordnungsgeld nach erneutem Schufa-Eintrag verpflichtet
 layout: post
 style_id: post
