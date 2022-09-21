@@ -1,7 +1,9 @@
 ---
-title: LG Hamburg verhängt Ordnungsgeld gegen Barclays Bank
+title: LG Hamburg verhängt Ordnungsgeld gegen Barclays Bank wegen Schufa-Eintrag
 date: 2022-09-21 12:00:00
-description: Barclays Bank zu Ordnungsgeld nach erneutem Schufa-Eintrag verpflichtet
+description: >-
+  Barclays Bank zu Ordnungsgeld nach Verstoß gegen einstweilige Verfügung durch
+  Landgericht Hamburg verpflichtet. 
 layout: post
 style_id: post
 image: /uploads/blog-banner-schufa-einträge---barclays-ordnungsgeld.jpg
@@ -37,17 +39,17 @@ Obwohl die Betroffene die Zahlungen pünktlich leistete, übermittelte die Barcl
 
 ## **Warum erlie&szlig; das Landgericht Hamburg ein Ordnungsgeld?**
 
-Die Mandantin der Kanzlei AdvoAdvice bemerkte Ende Juli 2022, dass der Negativeintrag wieder vorgenommen wurde. Sie wandte sich daher unmittelbar an Rechtsanwalt Dr. Rohrmoser mit der Bitte um Hilfe. Dieser veranlasste sodann mehrere Schritte. Einerseits wurde die Barclays Bank über deren Anwälte dazu aufgefordert, den Negativeintrag wieder zu entfernen. Auch die Schufa Holding AG wurde dahingehend informiert. Zudem wurde eine Ordnungsgeldantrag beim Landgericht Hamburg gestellt.
+Die Mandantin der Kanzlei AdvoAdvice bemerkte Ende Juli 2022, dass der Negativeintrag erneut&nbsp; durch die Barclays&nbsp; Bank Ireland PLC Hamburg Branch vorgenommen wurde. Sie wandte sich daher unmittelbar an Rechtsanwalt Dr. Rohrmoser mit der Bitte um Hilfe. Dieser veranlasste sodann mehrere Schritte. Einerseits wurde die Barclays Bank über deren Anwälte dazu aufgefordert, den Negativeintrag erneut und sehr zügig zu entfernen. Auch die Schufa Holding AG wurde dahingehend informiert. Zudem wurde eine Ordnungsgeldantrag beim Landgericht Hamburg gestellt.
 
-Der Ordnungsgeldantrag wurde damit begründet, dass die Barclays Bank offenkundig gegen die Unterlassungsverpflichtung versto&szlig;en habe und dass diese durch ein Ordnungsgeld zur Einhaltung des gerichtlichen Verbotes gezwungen werden müsse. Erfreulicherweise bestätigte die Schufa Holding AG bereits einige Tage später, dass der Eintrag wieder gelöscht worden sei.
+Der Ordnungsgeldantrag wurde damit begründet, dass die Barclays Bank offenkundig gegen die&nbsp; ihr durch das Landgericht Hamburg auferlegte Unterlassungsverpflichtung versto&szlig;en habe und dass diese durch ein Ordnungsgeld zur Einhaltung des gerichtlichen Verbotes gezwungen werden müsse. Erfreulicherweise bestätigte die Schufa Holding AG bereits einige Tage später, dass der Eintrag wieder gelöscht worden sei.
 
 Das Landgericht Hamburg erlie&szlig; am 02.09.2022 einen Ordnungsgeldbeschluss gegen die Barclays Bank und ordnete an, dass diese 2.000,00 Euro zu zahlen habe. Das Gericht wies darauf hin, dass die Barclays Bank schuldhaft gegen die Verpflichtung versto&szlig;en habe, da sie die automatisch veranlasste Saldo-Meldung *„versehentlich nicht unterdrückt habe“.&nbsp;*
 
-Das Gericht wertete zugunsten der Barclays Bank, dass es der erste Versto&szlig; gegen die Verfügung sei und diese daraus keinen Vorteil erlangt habe. Ferner sei der Verschuldensgrad gering gewesen.
+Das Gericht wertete zugunsten der Barclays Bank, dass es der erste Versto&szlig; gegen die Verfügung sei und diese daraus keinen Vorteil erlangt habe. Ferner sei der Verschuldensgrad nach Einschätzung des Gerichts gering gewesen.
 
 ## **Einschätzung durch AdvoAdvice**
 
-Der zuständige Rechtsanwalt Dr. Raphael Rohrmoser zeigte sich zunächst zufrieden mit der Entscheidung, äu&szlig;erte aber auch Bedenken: „*Es ist ein wichtiges Zeichen, dass das Landgericht Hamburg nicht nur regelmä&szlig;ig einstweilige Verfügungen zu dem ähnlichen Sachverhalt erlässt, sondern im Nachgang auch dafür sorgt, dass die Unterlassungsverpflichtung auch eingehalten wird. Dafür ist das Ordnungsgeld das richtige Mittel. Gleichzeitig hätten wir uns gewünscht, dass das Ordnungsgeld etwas höher bemessen wird. Der Umstand, dass die Antragsgegnerin keinen Vorteil aus der Meldung ziehe ist aber nicht relevant, da die Auswirkungen für die Antragstellerin umso gravierender sein können. Insofern wäre auch ein empfindlicheres Ordnungsgeld angemessen gewesen.“*
+Der zuständige Rechtsanwalt Dr. Raphael Rohrmoser zeigte sich zunächst zufrieden mit der Entscheidung, äu&szlig;erte aber auch Bedenken: „*Es ist ein wichtiges Zeichen, dass das Landgericht Hamburg nicht nur regelmä&szlig;ig einstweilige Verfügungen zu dem ähnlichen Sachverhalt erlässt, sondern im Nachgang auch dafür sorgt, dass die Unterlassungsverpflichtung auch eingehalten wird. Dafür ist das Ordnungsgeld das richtige Mittel. Gleichzeitig hätten wir uns gewünscht, dass das Ordnungsgeld etwas höher bemessen wird. Der Umstand, dass die Antragsgegnerin nach Ansicht des Landgerichts Hamburg keinen Vorteil aus der Meldung zieht ist aus unserer Sicht für die Höhe des Ordnungsgeldes nicht relevant, da die Auswirkungen für die Antragstellerin umso gravierender sein können. Insofern wäre auch ein empfindlicheres Ordnungsgeld angemessen gewesen.“*
 
 Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können.
 
