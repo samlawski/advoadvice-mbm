@@ -23,7 +23,7 @@ author: dr-sven-tintemann
 ---
 Erfolg für die Kanzlei AdvoAdvice. Nach einem einstweiligen Verfügungsverfahren vor dem Landgericht Dresden, konnte ein titulierter Schufa-Eintrag erfolgreich gelöscht und dem Betroffenen somit die Finanzierung für einen Immobilienerwerb gerettet werden. &nbsp;
 
-## **Was ist passiert? **
+## Was ist passiert?
 
 Die Intrum Deutschland GmbH hat am 15.02.2022 einen negativen Schufa-Eintrag bei einem Geschäftsmann aus Dresden über einen offenen Forderungsbetrag in Höhe von knapp 3.000 Euro vorgenommen. In diesem machte die Intrum eine Forderung aus dem Jahr 2005 gegen den Betroffenen geltend. Inhaltlich ging es um eine angebliche Forderung der Europcar Autovermietung GmbH, welche am 10.01.2005 tituliert wurde.
 
@@ -33,7 +33,7 @@ Dem Betroffenen war jedoch nicht bekannt, weshalb aus dem Vollstreckungsbescheid
 
 Ebenfalls war dem Betroffenen nicht bekannt, wie sich die Höhe der Forderung zusammensetzt, da die titulierte Forderung von ehemals 1.500 Euro jetzt mit 3.000 Euro eingetragen wurde. Sonstige Mahn- oder Inkassoschreiben waren dem Dresdner ebenfalls &nbsp;unbekannt und demnach auch nicht zugegangen, ebenso wenig wie eine Fälligstellung einer Forderung in Höhe von 3.000 Euro.
 
-## **Probleme bei der Finanzierung **
+## Probleme bei der Finanzierung
 
 Der Betroffene plante die Aufnahme eines Kredits bei der deutschen Geschäftsbank zur Finanzierung eines Immobilienerwerbs. Diesen Plan konnte er nunmehr aufgrund des Negativeintrages bei der Schufa Holding AG nicht durchführen. Es drohten daher ein Verlust der angebotenen Wohnung sowie die Erhöhung des Zinssatzes in der Zukunft und hierdurch ein erheblicher Zinsschaden.
 
