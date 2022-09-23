@@ -6,7 +6,7 @@ description: >-
   einstweiligem Verfügungsverfahren gelöscht.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---intrum.jpg
 tags:
   - Landgericht Dresden
   - Urteil
@@ -39,19 +39,23 @@ Der Betroffene plante die Aufnahme eines Kredits bei der deutschen Geschäftsban
 
 ## **Wie kam es zur Löschung?**
 
-Der Betroffene erfuhr erst im Rahmen der Finanzierungsanfrage für den Immobilienerwerb von dem Schufa-Eintrag der Intrum Deutschland GmbH. Erstmalige Kenntnis erlangte er somit am 15.05.2022. Daraufhin kontaktierte er die Kanzlei AdvoAdvice, die auch sofort tätig wurde und zunächst au&szlig;ergerichtlich versuchte, einen Widerruf des Eintrages durch die Intrum zu erreichen.
+Der Betroffene erfuhr erst im Rahmen der Finanzierungsanfrage für den Immobilienerwerb von dem Schufa-Eintrag der Intrum Deutschland GmbH. Erstmalige Kenntnis erlangte er somit am 15.05.2022.
 
-Da ein Widerruf durch Intrum nicht erfolgte, wurde vor dem Landgericht Dresden ein Antrag auf Erlass einer einstweiligen Verfügung gegen Intrum eingereicht.
+### Konkretes Vorgehen
+
+Nach der Kenntnisnahme kontaktierte der Geschäftsmann die Kanzlei AdvoAdvice, die auch sofort tätig wurde und zunächst au&szlig;ergerichtlich versuchte, einen Widerruf des Eintrages durch die Intrum zu erreichen. Da ein Widerruf durch Intrum nicht erfolgte, wurde vor dem Landgericht Dresden ein Antrag auf Erlass einer einstweiligen Verfügung gegen Intrum eingereicht.
 
 Es kam zu einer Gerichtsverhandlung vor dem Landgericht Dresden, bei der Dr. Sven Tintemann für die Kanzlei AdvoAdvice Rechtsanwälte mbB und den Verfügungskläger gemeinsam mit diesem auftrat.
 
 Das Landgericht Dresden entschied am 29.07.2022 durch Urteil und gab der Intrum Deutschland GmbH auf, die Einmeldung des in der Datenbank der Schufa Holding AG enthaltenen Negativeintrags gegenüber der Schufa Holding AG schriftlich bis auf Weiteres zurückzunehmen.
 
+### Widerruf und Löschung
+
 In dem Urteil hei&szlig;t es, dass ein Löschungsanspruch bestehe, da die Einmeldung an die Schufa nicht rechtmä&szlig;ig sei und auch nicht zwischendurch rechtmä&szlig;ig wurde.
 
 Au&szlig;erdem verwies das Gericht insbesondere darauf, dass eine Meldung an die Schufa Holding AG nicht dazu da sei, um Druck auf einen Schuldner aufzubauen, damit dieser zur Zahlung veranlasst werde.
 
-Nachdem der Verfügungskläger eine Prozesskostensicherheit geleistet und die Intrum Deutschland GmbH zur Umsetzung des Urteils aufgefordert hatte, kontaktierte diee daraufhin die Schufa Holding AG am 11.08.2022 und erklärte, den Negativeintrag bis auf weiteres zurückzunehmen.
+Nachdem der Verfügungskläger eine Prozesskostensicherheit geleistet und die Intrum Deutschland GmbH zur Umsetzung des Urteils aufgefordert hatte, kontaktierte diese daraufhin die Schufa Holding AG am 11.08.2022 und erklärte, den Negativeintrag bis auf weiteres zurückzunehmen.
 
 Da die Schufa Holding AG den Eintrag bis zum 18.08.2022 immer noch nicht gelöscht hatte, kontaktierte die Kanzlei AdvoAdvice diese direkt mit Schreiben vom 18.08.2022 und forderte, den Eintrag umgehend zu löschen, da die Immobilienfinanzierung des Betroffenen sonst zu scheitern droht. Daraufhin teilte die Schufa Holding AG dann mit Schreiben vom 24.08.2022 mit, dass der Eintrag nun gelöscht worden sei.
 
