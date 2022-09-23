@@ -6,7 +6,7 @@ description: >-
   Landgericht Hamburg verpflichtet. 
 layout: post
 style_id: post
-image: /uploads/blog-banner-schufa-einträge---barclays-ordnungsgeld.jpg
+image: /uploads/blog-banner-schufa-einträge---barclays-ordnungsgeld-1.jpg
 tags:
   - Schufa Recht
   - Schufa Eintrag
