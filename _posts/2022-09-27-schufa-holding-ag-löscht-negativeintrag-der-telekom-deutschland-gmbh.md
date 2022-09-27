@@ -6,7 +6,7 @@ description: >-
   Umzug an alte Anschrift unzulässig. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge-telekom.jpg
 tags:
   - Schufa-Recht
   - Schufa-Eintrag
