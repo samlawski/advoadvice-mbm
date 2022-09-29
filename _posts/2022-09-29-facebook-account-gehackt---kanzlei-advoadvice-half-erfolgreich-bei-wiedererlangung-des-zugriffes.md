@@ -45,16 +45,24 @@ Zur Identifikation lud die Kölnerin danach Fotos von ihrem Personalausweis hoch
 
 ## Wie konnte die Betroffene den Zugriff auf ihren Account wiedererlangen?
 
-Nachdem die Betroffene alles ihr Mögliche versuchte, um den Zugriff auf ihren Account wiederzuerlangen, jedoch alle Versuche scheiterten, kontaktierte sie die Kanzlei AdvoAdvice. Dr. Rohrmoser kontaktierte mit Schreiben vom 20.05.2022 die Meta Platforms Ireland als Betreiberin von Facebook, in dem er darauf hinwies, dass keine sinnvolle Reaktion des Facebook Supports auf die Email der Kölnerin erfolgte, sondern lediglich eine Standardantwort erteilte wurde. &nbsp;Au&szlig;erdem forderte er Facebook dazu auf, der Betroffenen unverzüglich den alleinigen Zugang zu ihrem Profil zu gewähren, in dem Facebook den entsprechenden Zugangscode direkt und ausschlie&szlig;lich der Betroffenen zur Verfügung stellen sollte.
+Nachdem die Betroffene alles ihr Mögliche versuchte, um den Zugriff auf ihren Account wiederzuerlangen, jedoch alle Versuche scheiterten, kontaktierte sie die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin, die sich auf solche Fälle spezialisiert hat.
 
-Rechtlich begründete Dr. Rohrmoser seine Forderung, in dem er auf den Nutzungsvertrag über die Teilnahme am sozialen Netzwerk zwischen der Betroffenen und Facebook, bzw. der Meta Platforms Ireland Ltd. verwies. Aus diesem Vertrag ergibt sich für die Kölnerin als Inhaberin des Kontos einen Anspruch auf Zugangsgewährung zum jeweiligen Profil und das Recht zur Übermittlung der notwendigen und funktionsfähigen Daten.
+Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte mit Schreiben vom 20.05.2022 die Meta Platforms Ireland als Betreiberin von Facebook, in dem er darauf hinwies, dass keine sinnvolle Reaktion des Facebook Supports auf die Email der Kölnerin erfolgte, sondern lediglich eine Standardantwort erteilte wurde. &nbsp;Au&szlig;erdem forderte er Facebook dazu auf, der Betroffenen unverzüglich den alleinigen Zugang zu ihrem Profil zu gewähren, in dem Facebook den entsprechenden Zugangscode direkt und ausschlie&szlig;lich der Betroffenen zur Verfügung stellen sollte.
 
-Auf dieses Schreiben reagierte Facebook zunächst lediglich mit einer erneuten Standardmail, räumte den Zugang in der Nacht vom 26.05.2022 auf den 27.05.2022 jedoch wieder ein. Unmittelbar nach Profilzugriff konnte jedoch bereits erkannt werden, dass der Hacker die Betroffene sowie ihren Ehemann als Seitenbetreiber entfernt hatte. Diese Seite konnte dadurch von keiner natürlichen Person mehr angesteuert werden. Erst durch einen erneuten Kontakt zu „Meta“ und dem Austausch mehrerer Emails, wurde der Seitenzugriff knapp 5 Monate nach dem Hack wieder erreicht werden.
+Rechtlich begründete Dr. Rohrmoser seine Forderung, in dem er auf den Nutzungsvertrag über die Teilnahme am sozialen Netzwerk zwischen der Betroffenen und Facebook bzw. der Meta Platforms Ireland Ltd. verwies. Aus diesem Vertrag ergibt sich für die Kölnerin als Inhaberin des Kontos einen Anspruch auf Zugangsgewährung zum jeweiligen Profil und das Recht zur Übermittlung der notwendigen und funktionsfähigen Zugangsdaten.
+
+Auf dieses Schreiben reagierte Facebook zunächst lediglich mit einer erneuten Standardmail, räumte den Zugang in der Nacht vom 26.05.2022 auf den 27.05.2022 jedoch wieder ein.
+
+Unmittelbar nach Profilzugriff konnte jedoch bereits erkannt werden, dass der Hacker die Betroffene sowie ihren Ehemann als Seitenbetreiber entfernt hatte. Die Seite konnte dadurch von keiner natürlichen Person mehr angesteuert werden. Erst durch einen erneuten Kontakt zu „Meta“ und dem Austausch mehrerer Emails, konnte der Seitenzugriff knapp 5 Monate nach dem Hack wieder erreicht werden.
 
 ## Fazit
 
-Der konkrete Fall reiht sich in die vielfältigen Verfahren ein, welche die Kanzlei AdvoAdvice mit Blick auf Facebook bzw. Meta führt. Dr. Rohrmoser fasste insofern zusammen: „*So ähnlich der Ausgangspunkt der Verfahren mit dem erfolgreichen Hack des Accounts auch ist, umso unterschiedlicher entwickeln sich die Verfahren im Einzelfall. Vorliegend wurde der Seitenzugriff für eine beliebte Facebook-Seite entfernt und Facebook schaffte es erst nach vielen Wochen, diesen Zugriff wieder herzustellen. Es wäre wünschenswert, wenn der Support von Facebook anders organisiert werden würde, damit solche Probleme effizienter gelöst werden können.“*
+Der konkrete Fall reiht sich in die vielfältigen Verfahren ein, welche die Kanzlei AdvoAdvice mit Blick auf Facebook bzw. Meta führt.
 
-Wenn auch Ihre Facebaook-Account gehackt wurde und Sie wieder Zugriff zum Profil erreichen wollen, können Sie uns gerne unter 030 / 921 000 40 kontaktieren und ein Gespräch bezüglich der vorhandenen Möglichkeiten vereinbaren.
+Rechtsanwalt Dr. Rohrmoser fasste insofern zusammen:
+
+„*So ähnlich der Ausgangspunkt der Verfahren mit dem erfolgreichen Hack des Accounts auch ist, umso unterschiedlicher entwickeln sich die Verfahren im Einzelfall. Vorliegend wurde der Seitenzugriff für eine beliebte Facebook-Seite entfernt und Facebook schaffte es erst nach vielen Wochen, diesen Zugriff wieder herzustellen. Es wäre wünschenswert, wenn der Support von Facebook anders organisiert werden würde, damit solche Probleme effizienter gelöst werden können.“*
+
+Wenn auch Ihr Facebook-Account gehackt wurde und Sie wieder Zugriff zum Profil erreichen wollen, können Sie uns gerne unter 030 921 000 40 kontaktieren und ein Gespräch bezüglich der Durchsetzung Ihrer Ansprüche auf Zugangsgewährung vereinbaren. Gerne können Sie auch unter info@advoadvice.de unsere Mandatsunterlagen und den Facebook-Fragebogen anfordern.&nbsp;
 
 &nbsp;
