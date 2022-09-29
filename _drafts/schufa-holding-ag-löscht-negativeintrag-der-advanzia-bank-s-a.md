@@ -6,7 +6,7 @@ description: >-
   durch Advanzia Bank unzulässig. Schufa Holding AG löscht freiwillig. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---advanzia-rsb.jpg
 tags:
   - Advanzia Bank S.A.
   - Schufa Holding AG
@@ -34,9 +34,9 @@ Da die Betroffene ihren Negativeintrag jedoch gelöscht haben wollte, kontaktier
 
 Dr. Rohrmoser kontaktierte zunächst die Advanzia Bank S.A., um auf die Rechtswidrigkeit des Eintrages hinzuweisen. Ebenfalls wurde die Schufa Holding AG aufgefordert, den Negativeintrag zu löschen.
 
-Den Anspruch auf Löschung begründete Dr. Rohrmoser damit, dass die Forderung bereits mit der Erteilung der Restschuldbefreiung im Jahr 2018 nicht mehr durchsetzbar war, sodass kein überwiegendes Interesse mehr an der Speicherung der Daten bestand. Dieses Interesse bestand jedoch von vornherein nicht, da die zusammenhängenden Zahlungsschwierigkeiten bereits Jahre zurück lagen. Der Schufa-Eintrag lie&szlig; die Betroffene jedoch als zahlungsunfähig oder -willig erscheinen und war daher unzutreffend
+Den Anspruch auf Löschung begründete Dr. Rohrmoser damit, dass die Forderung bereits mit der Erteilung der Restschuldbefreiung im Jahr 2018 nicht mehr durchsetzbar war, sodass kein überwiegendes Interesse mehr an der Speicherung der Daten bestand. Dieses Interesse bestand von vornherein nicht, da die zusammenhängenden Zahlungsschwierigkeiten bereits Jahre zurück lagen. Der Schufa-Eintrag lie&szlig; die Betroffene jedoch als zahlungsunfähig oder -willig erscheinen und war daher unzutreffend
 
-Die Advanzia meldete sich mit Schreiben vom 01.09.2022 und teilte mit, dass die Schadenersatzansprüche als unbegründet zurückgewiesen werden und die Betroffene nach Erteilung der Restschuldbefreiung ein Löschanspruch gegenüber der Schufa hätte geltend machen müssen, welchen diese wohl nicht geltend gemacht hatte. Daraufhin wies Dr. Rohrmoser nochmals darauf hin, dass es nicht um die Löschung der Daten von vor Erteilung der Restschuldbefreiung ging, sondern darum, dass die Advanzia Bank eine Forderung gemeldet hatte, welche nicht mehr durchsetzbar war.
+Die Advanzia meldete sich mit Schreiben vom 01.09.2022 und teilte mit, dass die&nbsp; Betroffene nach Erteilung der Restschuldbefreiung ein Löschanspruch gegenüber der Schufa hätte geltend machen müssen, welchen diese wohl nicht geltend gemacht habe. Dr. Rohrmoser wies in der Folge nochmals darauf hin, dass es nicht um die Löschung der Daten von vor Erteilung der Restschuldbefreiung ging, sondern darum, dass die Advanzia Bank eine Forderung nach der erteilten Restschuldbefreiung gemeldet hatte, welche jedoch nicht mehr durchsetzbar war.
 
 Die Schufa Holding AG hingegen meldete sich bereits mit Schreiben vom 25.08.2022, um mitzuteilen, dass der Eintrag gelöscht wurde.
 
@@ -44,10 +44,12 @@ Die Schufa Holding AG hingegen meldete sich bereits mit Schreiben vom 25.08.2022
 
 Altforderungen, die lange Zeit auch nach einer Titulierung durch Inkassofirmen oder Gläubiger eingetragen werden, sind schon länger Hintergrund rechtlicher Auseinandersetzungen.
 
-Titulierte Forderung, die nach Erteilung der Restschuldbefreiung in einem Insolvenzverfahren nicht mehr durchsetzbar sind, dürfen sowieso mangels Fälligkeit der Forderung nicht mehr eingetragen werden.
+Titulierte Forderung, die nach Erteilung der Restschuldbefreiung in einem Insolvenzverfahren nicht mehr durchsetzbar sind, dürfen mangels Fälligkeit der Forderung nicht mehr eingetragen werden.&nbsp;
 
 Betroffene sollten sich daher bei Problemen mit sog. Alt-Einträgen an einen spezialisierten Rechtsanwalt mit den Schwerpunkten Schufa-Recht und Datenschutz wenden.
 
-&nbsp;
+Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
+
+Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
 
 &nbsp;
