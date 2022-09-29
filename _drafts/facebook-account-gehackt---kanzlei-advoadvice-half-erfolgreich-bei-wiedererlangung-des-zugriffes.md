@@ -2,7 +2,7 @@
 title: >-
   Facebook-Account gehackt - Kanzlei AdvoAdvice half erfolgreich bei
   Wiedererlangung des Zugriffes
-date:
+date: 2022-09-29 00:00:00
 description: >-
   Profil-  und Seitenzugriff bei Facebook nach Tätigkeit von AdvoAdvice
   wiedererlangt
@@ -23,21 +23,25 @@ topics:
   - it-recht---internet-software-verträge
 author: dr--raphael-rohrmoser
 ---
-Die Kanzlei AdvoAdvice konnte einer Kölnerin erfolgreich bei der Wiedererlangung ihres Facebook Accounts helfen. Zwar wurde die Betroffene vorher bereits selbst tätig, jedoch führten diese Schritte nicht zum Erfolg. Nachdem sie jedoch Hilfe in der Kanzlei AdvoAdvice suchte, konnte der Zugriff auf ihren Account wiederhergestellt werden.
+Die Kanzlei AdvoAdvice konnte einer Kölnerin erfolgreich bei der Wiedererlangung ihres Facebook Accounts helfen. Zwar wurde die Betroffene vorher bereits selbst tätig, jedoch führten die von ihr eingeleiteten Schritte nicht zum Erfolg. Nachdem sie jedoch Hilfe in der Kanzlei AdvoAdvice suchte, konnte der Zugriff auf ihren Account wiederhergestellt werden.
 
-## Was ist passiert?
+## Kein Zugriff auf etwa 3.000 Follower
 
 Am 18.05.2022 meldete sich eine Kölnerin bei der Kanzlei AdvoAdvice, da ihr Facebook Account durch eine dritte, ihr unbekannte Person am 16.03.2022 gehackt wurde.
 
-Die Betroffen hatte zu diesem Zeitpunkt etwa 3.000 Follower, erlangte durch den Hack nun jedoch keinerlei Zugriff mehr auf ihr Profil. Ferner wurde von den Hackern der zweite Seitenverwalter entfernt, sodass auch keinerlei Möglichkeit mehr bestand, anderweitig auf diese Seite zuzugreifen.
+Die Betroffene hatte zu diesem Zeitpunkt etwa 3.000 Follower, erlangte durch den Hack nun jedoch keinerlei Zugriff mehr auf ihr Profil. Ferner wurde von den Hackern der zweite Seitenverwalter entfernt, sodass auch keinerlei Möglichkeit mehr bestand, anderweitig auf diese Seite zuzugreifen.
 
-Die Betroffene versuchte daher bereits am 16.03.2022 wieder Zugang zu ihrem Konto zu erlangen, indem sie die Anweisungen auf Facebook Websites unter [https://www.facebook.com/hacked](https://www.facebook.com/hacked) befolgte. Dies verlief jedoch ohne Erfolg, da der Code zur Freigabe nicht an die Emailadresse der Kölnerin geschickt wurde, sondern zu einer Emailadresse, die der Betroffenen unbekannt ist.
+Die Betroffene versuchte daher bereits am 16.03.2022 wieder Zugang zu ihrem Konto zu erlangen, indem sie die Anweisungen auf der Facebook Website unter [https://www.facebook.com/hacked](https://www.facebook.com/hacked) befolgte. Dies verlief jedoch ohne Erfolg, da der Code zur Freigabe nicht an die Emailadresse der Kölnerin geschickt wurde, sondern zu einer Emailadresse, die der Betroffenen unbekannt ist.
 
 Durch die nunmehr neue primäre Emailadresse hatten lediglich die Hacker Zugang zum Profil. Die Übersendung von Zugangscodes war daher nicht hilfreich, da diese zugleich an die Hacker versandt wurden und diese die Eingabe des Codes durch die Betroffene verhinderten.
 
-Die Kölnerin konnte dadurch den Zugriff zu ihrem Account nicht wiedererlangen bzw. diesen nicht freischalten. Daher hat die Mandantin Facebook bereits in einer Email über die Probleme mit der Freischaltung ihres Accounts informierte und Facebook darum gebeten, die unbekannte Emailadresse aus ihrem Profil zu löschen und ihr einen Freischaltcode zu übersenden.
+## Bemühungen zur Freischaltung erfolglos
 
-Die Betroffene versuchte mehrfach die Passworteingabe, bis sie schlie&szlig;lich dadurch auf die Seite [www.facebook.com/login/identify](http://www.facebook.com/login/identify) gelangte. Zur Identifikation hatte die Betroffene sodann Fotos von ihrem Personalausweis eingereicht. Au&szlig;erdem versuchte die Kölnerin über Mitarbeiter von Facebook ein Wiedererreichen des Profils zu ermöglichen. Jedoch scheiterte auch dies.
+Die Kölnerin konnte dadurch den Zugriff zu ihrem Account nicht wiedererlangen bzw. diesen nicht freischalten. Daher informierte die Mandantin Facebook in einer Email selbständig über die Probleme mit der Freischaltung ihres Accounts und bat Facebook darum, die unbekannte Emailadresse aus ihrem Profil zu löschen und ihr einen Freischaltcode zu übersenden.
+
+Die Betroffene versuchte mehrfach die Passworteingabe, bis sie schlie&szlig;lich dadurch auf die Seite [www.facebook.com/login/identify](http://www.facebook.com/login/identify) gelangte.
+
+Zur Identifikation lud die Kölnerin danach Fotos von ihrem Personalausweis hoch. Au&szlig;erdem versuchte sie, über Mitarbeiter von Facebook einen Zugriff auf das gehackte Profils zu erlangen. Jedoch scheiterte auch dies.
 
 ## Wie konnte die Betroffene den Zugriff auf ihren Account wiedererlangen?
 
