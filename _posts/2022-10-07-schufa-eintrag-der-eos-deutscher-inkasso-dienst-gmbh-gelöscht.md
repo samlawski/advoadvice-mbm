@@ -6,7 +6,7 @@ description: >-
   Inkasso-Dienst GmbH  bei Schufa Holding AG.
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge-eos.jpg
 tags:
   - Schufa-Recht
   - Schufa-Eintrag
@@ -21,7 +21,7 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Weiterer Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte mbB. Wieder einmal konnte ein negativer Schufa-Eintrag erfolgreich gelöscht werden. Betroffen war ein Mönchengladbacher Mandanten der sich zuvor bereits an eine andere Anwaltskanzlei gewandt hatte, welche aber mit ihrem Löschversuchen erfolglos blieb.
+Weiterer Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte mbB. Wieder einmal konnte ein negativer Schufa-Eintrag erfolgreich gelöscht werden. Betroffen war ein Mönchengladbacher Mandant, der sich zuvor bereits an eine andere Anwaltskanzlei gewandt hatte, welche aber mit ihrem Löschversuchen erfolglos blieb.
 
 ## Was ist passiert?
 
@@ -41,7 +41,9 @@ Nachdem für den Betroffenen bereits eine andere Anwaltskanzlei vergebens tätig
 
 ## Wie kam es zur Löschung?
 
-Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte für seinen Mandanten zunächst einmal mit Schreiben vom 22.06.2022 die EOS Deutscher Inkasso-Dienst GmbH, um diese zum Widerruf des Schufa-Eintrages aufzufordern und einen gesetzlich normierten Rechtfertigungsgrund bezüglich des Negativeintrages einzufordern. Ebenfalls verwies er darauf, dass der Eintrag keinem berechtigten Interesse unterfiel, da der Betroffenen bereits seit September 2018 regelmä&szlig;ig Raten zum Ausgleich der offenen Forderung zahlte. Die Gesamtforderung wurde daher über Jahre hinweg vereinbarungsmä&szlig;ig bedient und war somit auch nicht insgesamt fällig. Von einer Zahlungsunwilligkeit oder -unfähigkeit des Betroffenen war somit nicht auszugehen. Ein Grund für einen Negativeintrag lag somit nicht vor. Darüber hinaus erfolgte der Ersteintrag bereits bevor die EOS erstmalig an den Betroffenen herangetreten war. Mit so einer Datenverarbeitung konnte und musste der Betroffene daher nicht rechnen, zumal er keine Mahnung mit Schufa-Hinweis erhielt.
+Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte für seinen Mandanten zunächst einmal mit Schreiben vom 22.06.2022 die EOS Deutscher Inkasso-Dienst GmbH, um diese zum Widerruf des Schufa-Eintrages aufzufordern und einen gesetzlich normierten Rechtfertigungsgrund bezüglich des Negativeintrages einzufordern. Ebenfalls verwies er darauf, dass der Eintrag keinem berechtigten Interesse unterfiel, da der Betroffenen bereits seit September 2018 regelmä&szlig;ig Raten zum Ausgleich der offenen Forderung zahlte.
+
+Die Gesamtforderung wurde daher über Jahre hinweg vereinbarungsmä&szlig;ig bedient und war somit auch nicht insgesamt fällig. Von einer Zahlungsunwilligkeit oder -unfähigkeit des Betroffenen war somit nicht auszugehen. Ein Grund für einen Negativeintrag lag somit nicht vor.&nbsp;Darüber hinaus erfolgte der Ersteintrag bereits bevor die EOS erstmalig an den Betroffenen herangetreten war. Mit so einer Datenverarbeitung konnte und musste der Betroffene daher nicht rechnen, zumal er keine Mahnung mit Schufa-Hinweis erhielt.
 
 Die EOS Deutscher Inkasso-Dienst GmbH lehnte den Widerruf des Eintrages unter Verweis auf das Schuldanerkenntnis von September 2018 jedoch ab und beharrte somit auf der Annahme, dass die Verarbeitung der Daten rechtmä&szlig;ig sei.
 
