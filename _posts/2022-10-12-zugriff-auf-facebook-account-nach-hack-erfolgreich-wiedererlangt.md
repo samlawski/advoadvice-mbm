@@ -1,7 +1,7 @@
 ---
 title: Zugriff auf Facebook-Account nach Hack erfolgreich wiedererlangt
 date: 2022-10-12 00:00:00
-description: Facebook Zugang wurde nach Hack und Sperre wiedererlangt
+description: Facebook Zugang wurde nach Hack und Sperre wiedererlangt.
 layout: post
 style_id: post
 image: /uploads/blog-banner-facebook-3.jpg
