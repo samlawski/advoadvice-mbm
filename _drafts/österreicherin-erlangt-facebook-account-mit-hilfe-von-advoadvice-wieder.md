@@ -1,6 +1,6 @@
 ---
 title: Österreicherin erlangt Facebook-Account mit Hilfe von AdvoAdvice wieder
-date:
+date: 2022-10-19 22:23:00
 description: >-
   Gehacktes Facebook-Konto einer Österreicherin wieder freigeschaltet -
   Advoadvice hilft
@@ -33,7 +33,7 @@ Durch diese Emails erfuhr die Österreicherin ebenfalls, dass ihre primäre Emai
 
 ### Bemühungen zur Freischaltung nur teilweise erfolgreich
 
-Die Betroffene versuchte daher zunächst selbst wieder Zugang zu ihrem Konto zu erlangen, indem sie die Anweisungen auf der Facebook Website unter&nbsp;[https://www.facebook.com/hacked](https://www.facebook.com/hacked)&nbsp;befolgte. Dies verlief jedoch nur mit mä&szlig;igem Erfolg. Zwar konnte ihre eigene Emailadresse wieder zum Konto hinzugefügt werden, sodass die Betroffene zumindest wieder Benachrichtigungen erhielt, jedoch wurde nunmehr bei jedem Einlogg-Versuch mitgeteilt, dass das Konto gesperrt ist und eine Überprüfung beantragt wurde.
+Die Betroffene versuchte daher zunächst selbst wieder Zugang zu ihrem Konto zu erlangen, indem sie die Anweisungen auf der Facebook Website unter [https://www.facebook.com/hacked](https://www.facebook.com/hacked) befolgte. Dies verlief jedoch nur mit mäßigem Erfolg. Zwar konnte ihre eigene Emailadresse wieder zum Konto hinzugefügt werden, sodass die Betroffene zumindest wieder Benachrichtigungen erhielt, jedoch wurde nunmehr bei jedem Einlogg-Versuch mitgeteilt, dass das Konto gesperrt ist und eine Überprüfung beantragt wurde.
 
 Diese Sperre wurde weiter aufrechterhalten, ohne dass die Betroffene dies verursacht hätte oder eine Information darüber erhielt, wieso genau es zu dieser Sperre kam.
 
@@ -41,7 +41,7 @@ Diese Sperre wurde weiter aufrechterhalten, ohne dass die Betroffene dies verurs
 
 Mitte Juni erhielt die Österreicherin plötzlich viele Emails mit gebuchten Werbeanzeigen, da ihr Konto mit dem Werbekonto ihres Unternehmens, verknüpft war. Ein Angestellter der Betroffenen entfernte diese daraufhin vorsorglich als Administrator aus dem Unternehmenskonto und versuchte Facebook zu kontaktieren und informieren.
 
-Wieder zwei Tage später erstattete die Österreicherin daraufhin Anzeige bei der Polizei. In den folgenden Tagen wurde der Angestellte angerufen und diesem mitgeteilt, dass das Werbekonto ihres Unternehmens überprüft, das Hacking erkannt und alle entstandenen Kosten auf 0 gesetzt wurden.&nbsp;
+Wieder zwei Tage später erstattete die Österreicherin daraufhin Anzeige bei der Polizei. In den folgenden Tagen wurde der Angestellte angerufen und diesem mitgeteilt, dass das Werbekonto ihres Unternehmens überprüft, das Hacking erkannt und alle entstandenen Kosten auf 0 gesetzt wurden.
 
 ### Privates Konto bleibt weiterhin gesperrt, trotz Ausweisverifikation
 
@@ -53,9 +53,9 @@ Als letzte Möglichkeit den Zugriff zu ihrem Konto wiederzuerlangen, meldete sic
 
 ## Wie konnte die Betroffene den Zugriff auf ihren Account wiedererlangen?
 
-Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte mit Schreiben vom 22.07.2022 die Meta Platforms Ireland als Betreiberin von Facebook. Er wies zunächst darauf hin, dass bereits mehrere Freischaltversuche durch die Betroffene vorgenommen wurden, die jedoch alle zu dem Ergebnis führten, dass das Profil überprüft werde.&nbsp; Zudem deutete er daraufhin, dass keine sinnvolle Reaktion des Facebook Supports auf die Versuche der Österreicherin erfolgte. Die Betroffene meldete Facebook mehrfach, dass eine fremdes Person Zugriff auf ihr Konto hätte. Das Problem, dass ein illegaler Kontozugriff erfolgte, war Facebook somit offenkundig bekannt.
+Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte mit Schreiben vom 22.07.2022 die Meta Platforms Ireland als Betreiberin von Facebook. Er wies zunächst darauf hin, dass bereits mehrere Freischaltversuche durch die Betroffene vorgenommen wurden, die jedoch alle zu dem Ergebnis führten, dass das Profil überprüft werde. Zudem deutete er daraufhin, dass keine sinnvolle Reaktion des Facebook Supports auf die Versuche der Österreicherin erfolgte. Die Betroffene meldete Facebook mehrfach, dass eine fremdes Person Zugriff auf ihr Konto hätte. Das Problem, dass ein illegaler Kontozugriff erfolgte, war Facebook somit offenkundig bekannt.
 
-Insofern legte Dr. Rohrmoser Widerspruch gegen die Sperre ein. Au&szlig;erdem forderte er Facebook dazu auf, der Betroffenen unverzüglich den alleinigen Zugang zu ihrem Profil zu gewähren und dieses zu reaktivieren, in dem Facebook den entsprechenden Zugangscode direkt und ausschlie&szlig;lich der Betroffenen zur Verfügung stellen sollte.
+Insofern legte Dr. Rohrmoser Widerspruch gegen die Sperre ein. Außerdem forderte er Facebook dazu auf, der Betroffenen unverzüglich den alleinigen Zugang zu ihrem Profil zu gewähren und dieses zu reaktivieren, in dem Facebook den entsprechenden Zugangscode direkt und ausschließlich der Betroffenen zur Verfügung stellen sollte.
 
 Rechtlich argumentierte Dr. Rohrmoser mit dem Umstand, dass die Betroffene einen Nutzungsvertrag über die Teilnahme am sozialen Netzwerk mit Facebook bzw. der Meta Platforms Ireland Ltd. habe. Aus diesem Vertrag ergibt sich ein Anspruch auf Zugangsgewährung zum jeweiligen Profil.
 
@@ -63,8 +63,8 @@ Auf dieses Schreiben reagierte Facebook zunächst lediglich mit einer Standardma
 
 ## Fazit
 
-Ganz egal, ob man als betroffene Person in Deutschland oder im europäischen Ausland sitzt, kann man sich gegen einen gesperrten oder gehackten Account bei Facebook / Meta zur Wehr setzen. In vielen Fällen kann – mit etwas Geduld – auch eine au&szlig;ergerichtliche Lösung gefunden werden.
+Ganz egal, ob man als betroffene Person in Deutschland oder im europäischen Ausland sitzt, kann man sich gegen einen gesperrten oder gehackten Account bei Facebook / Meta zur Wehr setzen. In vielen Fällen kann – mit etwas Geduld – auch eine außergerichtliche Lösung gefunden werden.
 
-Der zuständige Partner und Rechtsanwalt Dr. Raphael Rohrmoser konnte im laufenden Jahr bereits ca. 25 Betroffenen helfen, ihre gehackten Accounts wiederzuerlangen. Dabei waren sowohl au&szlig;ergerichtliche wie auch gerichtliche Vorgehensweisen erfolgsversprechend.
+Der zuständige Partner und Rechtsanwalt Dr. Raphael Rohrmoser konnte im laufenden Jahr bereits ca. 25 Betroffenen helfen, ihre gehackten Accounts wiederzuerlangen. Dabei waren sowohl außergerichtliche wie auch gerichtliche Vorgehensweisen erfolgsversprechend.
 
 Wenn auch Ihr Konto gehackt wurde und Sie keinen Zugriff auf Ihr Konto mehr erhalten, können Sie sich gerne unter 030 / 921 000 30 oder [info@advoadvice.de](mailto:info@advoadvice.de) melden.
