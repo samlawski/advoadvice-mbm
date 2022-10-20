@@ -42,4 +42,4 @@ Auch diesen Betrag, der das 32,8 fache der Klageforderung ausmacht, überwies di
 
 Der vorliegende Fall zeigt, dass die Banken bei Klageerhebung dazu bereit sind, Verwahrentgelte (im Volksmund&nbsp; auch Strafzinsen genannt) zu erstatten und diese an die betroffenen Kunden zu erstatten.&nbsp;
 
-Auch vorgerichtliche sowie gerichtliche Kosten werden von der Bank getragen. Insgesamt also kein besonders lohnenswertes Geschäft für die Bank. Diese scheint aber damit zu rechnen, dass wenige Kunden eine Klage über eine sehr geringe Forderung einreichen werden, da dies erst einmal nicht wirtschaftlich zu sein scheint.&nbsp;
+Auch vorgerichtliche sowie gerichtliche Kosten werden von der Bank getragen. Insgesamt also kein besonders lohnenswertes Geschäft für die Bank. Diese scheint aber damit zu rechnen, dass wenige Kunden eine Klage über eine sehr geringe Forderung einreichen werden, da dies erst einmal nicht wirtschaftlich zu sein scheint.
