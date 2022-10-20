@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 577 T€+
     text: Auszahlungen an Anleger
-  - zahl: '56'
+  - zahl: '61'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
@@ -32,7 +32,7 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
   mehr als 200 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 51
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 61
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits zahlreiche
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
   Anlagesummen ausgezahlt bekommen. Auch vor dem Bundesgerichtshof waren wir
@@ -70,7 +70,7 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 56 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 61 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
       Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
@@ -102,11 +102,11 @@ abschnitte:
       (Stand:08.09.2022)
 
 
-      Es gibt mittlerweile 56 positive Entscheidungen von Berufungsgerichten
+      Es gibt mittlerweile 61 positive Entscheidungen von Berufungsgerichten
       (darunter 54 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 08.09.2022). Der Bundesgerichtshof hat eine
+      haben (Stand: 20.10.2022). Der Bundesgerichtshof hat eine
       Nichtzulassungsbeschwerde der Beklagten durch Beschluss vom 15.02.2022
       zurückgewiesen.
     image:
@@ -222,6 +222,14 @@ abschnitte:
 
       * OLG Naumburg, Urteil vom 29.06.2022
 
+      * OLG Brandenburg, Beschluss vom 08.09.2022
+
+      * OLG Brandenburg, Beschluss vom 08.09.2022
+
+      * OLG Dresden, Urteil vom 12.10.2022 (Klage nach Brexit)
+
+      * OLG Dresden, Urteil vom 19.10.2022 (Klage nach Brexit)
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -257,6 +265,12 @@ abschnitte:
       * OLG Celle, Urteil vom 29.06.2022 (GOF und VAG)
 
       * OLG Celle, Urteil vom 29.06.2022 (GOF und VAG)
+
+      * OLG München, Beschluss vom 22.09.2022
+
+      * OLG Düsseldorf, Urteil vom 28.09.2022
+
+      * OLG Naumburg, Urteil vom 05.10.2022 (GOF und VAG - Klage nach Brexit)
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
