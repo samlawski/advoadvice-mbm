@@ -6,7 +6,7 @@ description: >-
   Euro und trägt Anwaltskosten von 152,19 Euro. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-norisbank-verwahrentgelt.jpg
 tags:
   - Bankrecht
   - Verwahrentgelt
