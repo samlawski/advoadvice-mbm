@@ -6,7 +6,7 @@ description: >-
   Tage. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge---finion-fairpay.jpg
 tags:
   - Schufa-Recht
   - Löschung
@@ -35,7 +35,7 @@ Am 07.07.2021 erhielt der Falkenseer dann erstmals Post von der PayDue Inkasso G
 
 ## Schufa-Eintrag trotz mehrfachem Widerspruch
 
-Nachdem der Betroffene am 03.08.2022 eine weitere E-Mail mit der Bitte um telefonische Kontaktaufnahme erhielt, kam er dieser Bitte pflichtbewusst nach und widersprach während des Telefonats dieser Forderung ausdrücklich.
+Nachdem der Betroffene am 03.08.2021 eine weitere E-Mail mit der Bitte um telefonische Kontaktaufnahme erhielt, kam er dieser Bitte pflichtbewusst nach und widersprach während des Telefonats dieser Forderung ausdrücklich.
 
 Daraufhin folgten weitere Forderungen, denen der Brandenburger ebenfalls ausdrücklich im Oktober 2021 per E-Mail widersprochen hatte. Dennoch wurde im Februar 2022 dann der Negativeintrag durch die Finion FairPay (ehemals Pay Due) vorgenommen.
 
