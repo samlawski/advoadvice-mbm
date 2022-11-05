@@ -32,7 +32,7 @@ Bei der Angelegenheit handelte es sich um eine Forderung aus einer Bürgschaft f
 
 ### Insolvenzverfahren und Verkauf
 
-Das Auto ging sodann in die Hände des Insolvenzverwalters, sodass dieser das Auto verkaufen konnte. Dem Betroffenen war insofern lediglich bekannt, dass es noch eine offene Forderung gab, allerdings nicht, wie hoch diese Forderung genau gewesen ist Daher wartete der Betroffene auf Mitteilung.
+Das Auto ging sodann in die Hände des Insolvenzverwalters. Im Rahmen des Insolvenzverfahrens wurde das Auto sodann verwertet. Dem Betroffenen war insofern lediglich bekannt, dass es noch eine offene Forderung gab, allerdings nicht, wie hoch diese Forderung genau gewesen ist. Daher wartete der Betroffene auf Mitteilung.
 
 Das Auto wurde sodann im Februar 2022 für ca. 22.000 Euro verkauft. Die dazugehörige Schlussrechnung wurde ausschlie&szlig;lich an den Insolvenzverwalter sowie an die Firma des Betroffenen gestellt.
 
