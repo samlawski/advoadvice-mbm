@@ -4,7 +4,7 @@ title: >-
   erfolgreich 
 date: 2022-11-07 00:00:00
 description: >-
-  Drei Erfolge für Anlegegen vor OLG Naumburg gegen CT Infrastructure Holding
+  Drei Erfolge für Anleger vor OLG Naumburg gegen CT Infrastructure Holding
   Limited mit Klagen nach Brexit. 
 layout: post
 style_id: post
@@ -44,7 +44,7 @@ Die Tatsache, dass die Vertragsverhältnisse von der damaligen Vertragspartnerin
 
 Folglich bleibt es den ehemaligen Anlegern der ThomasLloyd und auch der DKM Global Opportunities Fonds 01 GmbH unbenommen, vor deutschen Gerichten eine Klage einzureichen, obwohl die beiden Gesellschaften mittlerweile auf ein Limited mit Sitz in London verschmolzen worden sind.
 
-## **Höhe der Rückzahlung **
+## \*\*Höhe der Rückzahlung \*\*
 
 Hinsichtlich der Frage, ob der Einlagebetrag oder aber der von der Beklagten selbst in einem Schreiben vom Februar 2019 angegebene rechnerische Wert der Beteiligung zum 31.12.2018 ma&szlig;geblich ist, vertritt das OLG Naumburg die eine differenzierende&nbsp; Ansicht, je nachdem, ob Ansprüche aus wirksamer Kündigung oder Schadensersatz geltend gemacht werden. Bei wirksamer Kündigung bis zum 31.12.2018 sei, wie ausdrücklich aus den Genussrechtsbedingungen folgt, der Einlagebetrag ma&szlig;geblich. Zusätzlich kann der Anleger auch noch offene Dividendenansprüche geltend machen. Bei einem Schadensersatzanspruch aufgrund der erfolgten Umwandlung ohne Gewährung gleichwertiger Rechte hingegen der rechnerische Wert zum 31.12.2018.
 
