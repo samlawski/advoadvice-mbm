@@ -1,7 +1,5 @@
 ---
-title: >-
-  Thomas Lloyd: Anleger nach Brexit vor den Oberlandesgericht Naumburg
-  erfolgreich 
+title: 'Thomas Lloyd: Anleger nach Brexit vor Oberlandesgericht Naumburg erfolgreich '
 date: 2022-11-07 00:00:00
 description: >-
   Drei Erfolge für Anleger vor OLG Naumburg gegen CT Infrastructure Holding
