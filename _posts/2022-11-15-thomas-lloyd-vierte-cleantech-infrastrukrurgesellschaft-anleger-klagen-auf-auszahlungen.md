@@ -1,6 +1,6 @@
 ---
 title: >-
-  Thomas Lloyd - Vierte Cleantech Infrastrukrurgesellschaft - Anleger klagen auf
+  Thomas Lloyd - Vierte Cleantech Infrastrukturgesellschaft - Anleger klagen auf
   Auszahlungen
 date: 2022-11-15 00:00:00
 description: >-
