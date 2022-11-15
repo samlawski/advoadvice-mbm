@@ -11,7 +11,7 @@ description: >-
   Auszahlung erfolgen wird. Die Uhr tickt... 
 layout: post
 style_id: post
-image: /uploads/justice-2060093-1280.jpg
+image: /uploads/thomas-lloyd-vierte-cleantech-infrastrukturgesellschaft.png
 tags:
   - AdvoAdvice Rechtsanwälte mbB
   - Thomas Lloyd
