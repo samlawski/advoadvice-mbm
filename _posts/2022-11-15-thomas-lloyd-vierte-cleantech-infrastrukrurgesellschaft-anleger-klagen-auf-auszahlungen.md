@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd - Vierte Cleantech Infrastrukrurgesellschaft - Anleger klagen auf
   Auszahlungen
-date: 2022-11-15 11:00:00
+date: 2022-11-15 12:00:00
 description: >-
   Die seit langem von der Vierte Cleantech Infrastrukturgesellschaft mbH (VCI)
   angekündigten Auszahlungen  erfolgen weiterhin nicht. Wir vertreten bereits
