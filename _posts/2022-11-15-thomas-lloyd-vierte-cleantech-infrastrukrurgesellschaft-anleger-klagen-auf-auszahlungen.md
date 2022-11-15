@@ -45,7 +45,7 @@ Insbesondere muss die Vierte Cleantech Infrastrukturgesellschaft mbH beweisen, w
 
 Nach der in Deutschland geltenden Rechtslage trifft die Vierte Cleantech Infrastrukturgesellschaft mindestens eine so genannte sekundäre Darlegungslast, was mit den eingezahlten Investitionen geschehen ist&nbsp; und warum denn -ganz konkret- Rückzahlungen an Anleger nicht möglich sein sollen und warum deshalb Zahlungen nicht fällig sein sollen.&nbsp;
 
-## Die Uhr tickt...
+## Die Uhr tickt…
 
 Der Brexit und die Ereignisse bei anderen Thomas Lloyd Gesellschaften in der Vergangenheit zeigen, dass gesellschaftsrechtliche Umwandlungen und Sitzverlegungen dort vorgenommen wurden, Derzeit ist die Vierte Cleantech Infrastrukturgesellschaft noch in der Bundesrepublik Deutschland ansässig und unterliegt damit den in Deutschland geltenden Gesetzen und der deutschen Gerichtsbarkeit.&nbsp;
 
