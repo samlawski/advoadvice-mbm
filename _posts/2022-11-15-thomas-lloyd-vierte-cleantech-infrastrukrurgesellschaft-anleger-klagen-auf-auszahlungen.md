@@ -2,7 +2,7 @@
 title: >-
   Thomas Lloyd - Vierte Cleantech Infrastrukrurgesellschaft - Anleger klagen auf
   Auszahlungen
-date: 2022-11-15 12:00:00
+date: 2022-11-15 00:00:00
 description: >-
   Die seit langem von der Vierte Cleantech Infrastrukturgesellschaft mbH (VCI)
   angekündigten Auszahlungen  erfolgen weiterhin nicht. Wir vertreten bereits
@@ -23,6 +23,7 @@ tags:
 topics:
   - anlegerschutz
   - bank-und-kapitalmarkt
+  - thomas-lloyd-anlegergemeinschaft
 author: kim-oliver-klevenhagen
 ---
 Immer mehr besorgte Anleger, die in den Jahren 2008-2010 in Genussrechte in die damalig unter Thomas Lloyd Private Wealth AG firmierenden Gesellschaft investiert haben und dort eine Einmal- oder Ratenanlage wie "ThomasLloyd Absolute Return Managed Portfolio Protected 2008/2020" oder "ThomasLloyd Absolute Return Managed Portfolio Growth 2009" abgeschlossen haben, melden sich bei uns.
