@@ -43,13 +43,21 @@ Auch hat die Vierte Cleantech Infrastrukturgesellschaft mbH zwischenzeitlich mit
 
 Insbesondere muss die Vierte Cleantech Infrastrukturgesellschaft mbH beweisen, warum denn nach deren Meinung hier Auszahlungen aus längst ausgelaufenen oder gekündigten Verträgen derzeit nicht vorgenommen werden können.&nbsp;
 
-## Nicht einfach hinhalten lassen\! Handlungsbedarf prüfen.
+Nach der in Deutschland geltenden Rechtslage trifft die Vierte Cleantech Infrastrukturgesellschaft mindestens eine so genannte sekundäre Darlegungslast, was mit den eingezahlten Investitionen geschehen ist&nbsp; und warum denn -ganz konkret- Rückzahlungen an Anleger nicht möglich sein sollen und warum deshalb Zahlungen nicht fällig sein sollen.&nbsp;
+
+## Die Uhr tickt...
+
+Der Brexit und die Ereignisse bei anderen Thomas Lloyd Gesellschaften in der Vergangenheit zeigen, dass gesellschaftsrechtliche Umwandlungen und Sitzverlegungen dort vorgenommen wurden, Derzeit ist die Vierte Cleantech Infrastrukturgesellschaft noch in der Bundesrepublik Deutschland ansässig und unterliegt damit den in Deutschland geltenden Gesetzen und der deutschen Gerichtsbarkeit.&nbsp;
+
+Die an die Anleger gesendeten Mitteilungen der Gesellschaft schildern wortreich aber nicht konkret, warum denn weiterhin Auszahlungen nicht fällig sein sollen. So soll beispielsweise der Jahresabschluss 2021 der ThomasLloyd Cleantech Infrastructure Holding GmbH (CTIH) noch nicht erfolgt sein, so dass auch die Beteiligung&nbsp; der VCI daran noch nicht beurteilt werden könne. Auch habe "Corona'" die Abläufe verzögert.
+
+## Anleger sollten sich nicht&nbsp; hinhalten lassen, sondern ihren&nbsp; Handlungsbedarf prüfen.
 
 Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermä&szlig;ig hinhalten zu lassen und ihre Rechtsansprüche prüfen zu lassen.
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin haben in Mandaten bezüglich der Thomas Lloyd Gruppe bereits eine Vielzahl von Anlegern erfolgreich gerichtlich vertreten. Wir stehen Ihnen als Anleger mit Rat und Tat gerne zur Seite und sind auch jederzeit persönlich für Sie da. Wir verfügen aufgrund unserer langjährigen Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
 
-## Unsere Anlegergemeinschaft bündelt die Interessen und sorgt für eine Wissenskonzentration.
+## Ansprüche jetzt geltend machen und durchsetzen\!&nbsp;
 
 Schlie&szlig;en Sie sich gerne unserer Anlegergemeinschaft Vierte Cleantech Infrastrukturgesellschaft an. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
 
