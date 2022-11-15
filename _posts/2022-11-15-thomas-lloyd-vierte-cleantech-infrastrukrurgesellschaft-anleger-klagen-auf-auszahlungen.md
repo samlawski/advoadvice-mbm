@@ -4,11 +4,8 @@ title: >-
   Auszahlungen
 date: 2022-11-15 00:00:00
 description: >-
-  Die seit langem von der Vierte Cleantech Infrastrukturgesellschaft mbH (VCI)
-  angekündigten Auszahlungen  erfolgen weiterhin nicht. Wir vertreten bereits
-  viele Anleger, die ihr investiertes Geld zurückfordern und sich hingehalten
-  fühlen. Doch viele andere Anleger warten immer noch und hoffen, dass eine
-  Auszahlung erfolgen wird. Die Uhr tickt... 
+  Die langem angekündigten Auszahlungen an Anleger erfolgen weiterhin nicht.
+  Ansprüche sollten geltend gemacht werden. Die Uhr tickt... 
 layout: post
 style_id: post
 image: /uploads/thomas-lloyd-vierte-cleantech-infrastrukturgesellschaft.png
