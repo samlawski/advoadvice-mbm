@@ -35,21 +35,19 @@ Bereits im Februar 2019 gründete die Berliner Kanzlei AdvoAdvice Rechtsanwälte
 
 Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Au&szlig;erdem wurden eine Vielzahl von Klagen gegen verschiedene Gesellschaften an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
 
-## Begründung der VCI zur Verhinderung von Auszahlungen - Anleger werden vertröstet
+## Anleger werden weiterhin vertröstet
 
 Die Fachanwälte für Bank- und Kapitalmarktrecht der Kanzlei AdvoAdvice Rechtsanwälte haben zwischenzeitlich auch für viele Anleger Ansprüche gegenüber der Vierte Cleantech Infrastrukturgesellschaft geltend gemacht und gegen die Vierte Cleantech Infrastrukturgesellschaft mbH Klage eingereicht.
 
-Auch hat die Vierte Cleantech Infrastrukturgesellschaft mbH zwischenzeitlich mitgeteilt, dass Zahlungen erst dann vorgenommen werden, "wenn und soweit die Voraussetzungen für einen rechtlich dauerhaft durchsetzbaren Anspruch" zu Gunsten der Anleger bestehen. An dieser Aussage wird sich die Vierte Cleantech Infrastrukturgesellschaft zu gegebener Zeit messen lassen müssen.
+Auch hat die Vierte Cleantech Infrastrukturgesellschaft mbH zwischenzeitlich mitgeteilt, dass Zahlungen erst dann vorgenommen werden, "wenn und soweit die Voraussetzungen für einen rechtlich dauerhaft durchsetzbaren Anspruch" zu Gunsten der Anleger bestehen. An dieser Aussage wird sich die Vierte Cleantech Infrastrukturgesellschaft messen lassen müssen.
 
-Insbesondere muss die Vierte Cleantech Infrastrukturgesellschaft mbH beweisen, warum denn nach deren Meinung hier Auszahlungen aus längst ausgelaufenen oder gekündigten Verträgen derzeit nicht&nbsp;&nbsp;
+Insbesondere muss die Vierte Cleantech Infrastrukturgesellschaft mbH beweisen, warum denn nach deren Meinung hier Auszahlungen aus längst ausgelaufenen oder gekündigten Verträgen derzeit nicht vorgenommen werden können.&nbsp;
 
 ## Nicht einfach hinhalten lassen\! Handlungsbedarf prüfen.
 
 Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermä&szlig;ig hinhalten zu lassen und ihre Rechtsansprüche prüfen zu lassen.
 
-Oft kann hier die Einschaltung eines Spezialisten im Bereich des Bank- und Kapitalmarktrechts schnell zu einer druckvollen Durchsetzung der Ansprüche führen.
-
-Die spezialisierten Rechts- und Fachanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin haben in Mandaten bezüglich der Thomas Lloyd Gruppe bereits eine Vielzahl von Anlegern erfolgreich gerichtlich vertreten. Wir stehen Ihnen als Anleger mit Rat und Tat gerne zur Seite und sind auch jederzeit persönlich für Sie da. Wir verfügen aufgrund unserer langjährigen Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
+Die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin haben in Mandaten bezüglich der Thomas Lloyd Gruppe bereits eine Vielzahl von Anlegern erfolgreich gerichtlich vertreten. Wir stehen Ihnen als Anleger mit Rat und Tat gerne zur Seite und sind auch jederzeit persönlich für Sie da. Wir verfügen aufgrund unserer langjährigen Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
 
 ## Unsere Anlegergemeinschaft bündelt die Interessen und sorgt für eine Wissenskonzentration.
 
