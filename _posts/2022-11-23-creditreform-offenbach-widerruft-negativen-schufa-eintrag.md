@@ -6,7 +6,17 @@ layout: post
 style_id: post
 image:
 tags:
+  - Schufa Holding AG
+  - Creditreform Offenburg
+  - Negativeintrag
+  - Widerruf
+  - Löschung
+  - Drillisch Online GmbH
+  - Mahnung
+  - DSGVO
+  - Datenschutz
 topics:
+  - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
 Ende September diesen Jahres meldete sich eine Betroffene aus dem Regierungsbezirk Oberbayern bei der Kanzlei AdvoAdvice Rechtsanwälte mbB, die um Hilfe bei der Löschung ihres Negativeintrages bat. Dieser wurde durch die Creditreform Offenbach im vermeintlichen Auftrag der Drillisch Online GmbH vorgenommen.
@@ -37,4 +47,6 @@ Zum einen lohnt es sich, schnell zu handeln und die eintragende Stelle zur Lösc
 
 Zum anderen muss man hartnäckig bleiben, wenn es um das Austragen von unberechtigt vorgenommenen Negativeinträgen geht.&nbsp;
 
-&nbsp;
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
+
+Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
