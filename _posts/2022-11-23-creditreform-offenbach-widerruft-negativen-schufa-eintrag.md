@@ -4,7 +4,7 @@ date: 2022-11-23 00:00:00
 description: 'Eintrag bei Schufa Holding AG durch Creditreform Offenbach widerrufen. '
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-schufa-einträge-crefo-offenbach.jpg
 tags:
   - Schufa Holding AG
   - Creditreform Offenburg
