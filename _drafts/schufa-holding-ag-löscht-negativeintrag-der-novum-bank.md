@@ -1,7 +1,9 @@
 ---
 title: Schufa Holding AG löscht Negativeintrag der Novum Bank
 date: 2022-11-25 00:00:00
-description: 'Eintrag der Novum Bank durch Schufa Holding AG gelöscht. '
+description: >-
+  Eintrag der Novum Bank durch Schufa Holding AG gelöscht. Scoring deutlich
+  verbessert.
 layout: post
 style_id: post
 image: /uploads/blog-banner-novum-bank-scoring.jpg
