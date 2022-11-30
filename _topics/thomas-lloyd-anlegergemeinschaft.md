@@ -8,13 +8,13 @@ description: >-
 header_titel: Thomas Lloyd Anlegergemeinschaft
 header_image: /uploads/theme-thomaslloyd1.jpg
 erfolge:
-  - zahl: 300+
+  - zahl: 400+
     text: Anleger
-  - zahl: 200+
+  - zahl: 250+
     text: Klagen
-  - zahl: 2,25 Mio€+
+  - zahl: 2,5 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 577 T€+
+  - zahl: 677 T€+
     text: Auszahlungen an Anleger
   - zahl: '61'
     text: Klagen in Berufungsinstanz gewonnen
@@ -28,11 +28,11 @@ intro_text_markdown: >-
   Infrastructure Ltd. (London) zur Wehr zu setzen.&nbsp;
 
 
-  Seitdem haben sich mehr als 300 Anleger unserer Anlegergemeinschaft
+  Seitdem haben sich mehr als 400 Anleger unserer Anlegergemeinschaft
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
   au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
-  mehr als 200 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 61
+  mehr als 250 Klagen an verschiedenen Amtsgerichten und Landgerichten in
+  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 69
   Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits zahlreiche
   Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
   Anlagesummen ausgezahlt bekommen. Auch vor dem Bundesgerichtshof waren wir
@@ -70,12 +70,12 @@ abschnitte:
       Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
       Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
       Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 61 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
+      Anleger bisher 69 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
       nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
       Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
       Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
       gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
-      (Stand: 08.09.2022)&nbsp;
+      (Stand: 30.11.2022)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -94,21 +94,22 @@ abschnitte:
 
       Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
       Sicherheiten zur Verhinderung von Zwangsvollstreckungsma&szlig;nahmen in
-      Höhe von 2.262.813,18 Euro (Stand: 08.09.2022) hinterlegt.
+      Höhe von 2.501.302,02 Euro (Stand: 30.11.2022) hinterlegt.
 
 
-      Zudem konnten bereits in Höhe von 577.419,18 Euro durch unsere Kanzlei
-      Auszahlungen von hinterlegten Sicherheiten erstritten werden.
-      (Stand:08.09.2022)
+      Zudem konnten bereits in Höhe von 677.182,34 Euro durch unsere Kanzlei
+      Auszahlungen von hinterlegten Sicherheiten erstritten werden. 25
+      Auszahlungsanträge sind zudem bei den Gerichten in Bearbeitung. (Stand:
+      30.11.2022)
 
 
-      Es gibt mittlerweile 61 positive Entscheidungen von Berufungsgerichten
-      (darunter 54 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 69 positive Entscheidungen von Berufungsgerichten
+      (darunter 67 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 20.10.2022). Der Bundesgerichtshof hat eine
-      Nichtzulassungsbeschwerde der Beklagten durch Beschluss vom 15.02.2022
-      zurückgewiesen.
+      haben (Stand: 30.11.2022). Der Bundesgerichtshof hat eine
+      Nichtzulassungsbeschwerde der Beklagten bei einer Anlage in
+      Genussrechtsbeteiligungen durch Beschluss vom 15.02.2022 zurückgewiesen.
     image:
     cta: true
   - abschnitt_template: box_hell
@@ -226,9 +227,23 @@ abschnitte:
 
       * OLG Brandenburg, Beschluss vom 08.09.2022
 
+      * OLG Naumburg, Urteil vom 05.10.2022 (Klage nach Brexit)
+
+      * OLG Naumburg, Urteil vom 05.10.2022 (Klage nach Brexit)
+
       * OLG Dresden, Urteil vom 12.10.2022 (Klage nach Brexit)
 
+      * OLG Brandenburg, Beschluss vom 18.10.2022
+
       * OLG Dresden, Urteil vom 19.10.2022 (Klage nach Brexit)
+
+      * OLG Oldenburg, Urteil vom 20.10.2022 (Klage nach Brexit)
+
+      * OLG Düsseldorf, Urteil vom 10.11.2022
+
+      * OLG Celle, Urteil vom 16.11.2022
+
+      * OLG Celle, Urteil vom 16.11.2022
 
 
       ### Anlagen in atypisch stille Beteiligungen:
@@ -357,8 +372,8 @@ abschnitte:
       Euro je 1 Euro Anlegerinvestment an.&nbsp;
 
 
-      In diesem Bereich vertritt AdvoAdvice bereits mehr als 300 Anleger und hat
-      mehr als 170 Klagen gegen die CT Infrastructure Holding Ltd.
+      In diesem Bereich vertritt AdvoAdvice bereits mehr als 400 Anleger und hat
+      mehr als 250 Klagen gegen die CT Infrastructure Holding Ltd.
       eingereicht.&nbsp;
     image:
     cta: true
