@@ -7,7 +7,7 @@ description: >-
   über Ihre Möglichkeiten informieren. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-ciao-pkv.jpg
 tags:
   - Private Krankenversicherung
   - freiwillige gesetzliche Krankenversicherung
