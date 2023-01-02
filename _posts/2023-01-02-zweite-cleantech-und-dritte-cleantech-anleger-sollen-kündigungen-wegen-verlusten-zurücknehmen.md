@@ -9,7 +9,7 @@ description: >-
   gelegt. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-cleantech-kündigung.jpg
 tags:
   - Zweite Cleantech Infrastrukturgesellschaft mbH & Co. KG
   - Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG
