@@ -29,7 +29,7 @@ Die Pflicht zu Prospektnachträgen ergibt sich aus &sect; 11 VermAnlG. Die darin
 
 Danach wurde die Regelung sogar noch verschärft und lautet seither:&nbsp;
 
-*(1) Jeder wichtige neue Umstand oder jede wesentliche Unrichtigkeit in Bezug auf die im Ver-kaufsprospekt enthaltenen Angaben, die die Beurteilung der Vermögensanlagen oder des Emit-tenten beeinflussen könnten und die nach der Billigung des Prospekts und während der Dauer des öffentlichen Angebots auftreten oder festgestellt werden, ist in einem Nachtrag zum Ver-kaufsprospekt gemä&szlig; Satz 5 zu veröffentlichen. Ein wichtiger neuer Umstand im Sinne von Satz 1 ist insbesondere *
+\*(1) Jeder wichtige neue Umstand oder jede wesentliche Unrichtigkeit in Bezug auf die im Ver-kaufsprospekt enthaltenen Angaben, die die Beurteilung der Vermögensanlagen oder des Emit-tenten beeinflussen könnten und die nach der Billigung des Prospekts und während der Dauer des öffentlichen Angebots auftreten oder festgestellt werden, ist in einem Nachtrag zum Ver-kaufsprospekt gemä&szlig; Satz 5 zu veröffentlichen. Ein wichtiger neuer Umstand im Sinne von Satz 1 ist insbesondere \*
 
 *1\. jeder neu offengelegte Jahresabschluss und Lagebericht des Emittenten,*
 
