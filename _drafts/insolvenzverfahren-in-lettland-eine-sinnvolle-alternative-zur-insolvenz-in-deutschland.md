@@ -8,7 +8,7 @@ description: >-
   insbesondere für Betroffene, die schnell wieder durchstarten möchten.
 layout: post
 style_id: post
-image:
+image: /uploads/insolvenz-in-lettland.jpg
 tags:
   - Insolvenz
   - Restschuldbefreiung
