@@ -64,4 +64,10 @@ Nach Einreichung des Insolvenzantrags ist es nicht mehr notwendig, aber manchmal
 
 [Weitere Informationen zur Insolvenz in Lettland finden Sie unter diesem Link](/themen/lettland-insolvenz/).&nbsp;
 
-&nbsp;
+## Verfahren seit 2019 erfolgreich geführt
+
+Ein im November 2019 eröffnetes Insolvenzfahren vor dem Stadtgericht Riga konnte am 09.09.2022 abgeschlossen und somit Restschuldbefreiung erteilt werden, nachdem das Gericht nach Anhörung des Insolvenzverwalters festgestellt hatte, dass der Schuldner seiner Verpflichtung zur Zahlung von monatlich 286,89 Euro über einen Zeitraum von Juli 2020 bis Juni 2022 nachgekommen war.&nbsp;
+
+Der Betroffene konnte danach noch bestehende Negativeinträge bei der Schufa Holding AG durch Schreiben von Rechtsanwalt Dr. Sven Tintemann aus der Kanzlei AdvoAdvice Rechtsanwälte mbB löschen lassen.&nbsp;
+
+Der Betroffene lebt nunmehr weiterhin in Lettland und auch in Hamburg und hat eine saubere Schufa-Auskunft in Deutschland und ist seine Schulden innerhalb von nicht einmal drei Jahren nach Eröffnung des Insolvenzverfahrens los geworden. Zum Zeitpunkt des Antrags auf Insolvenzeröffnung in Riga hätte die Restschuldbefreiung in Deutschland noch sechs Jahre gedauert und hätte nur durch Zahlung der Kosten des Insolvenzverfahrens auf 5 Jahren und durch Zahlung von 1/3 der Forderungen auf 3 Jahre verkürzt werden können. Der Betroffene hat sich daher mindestens zwei Jahre Insolvenzlaufzeit in Deutschland erspart und somit eine schneller Restschuldbefreiung durch das Insolvenzverfahren in Riga erlangt.
