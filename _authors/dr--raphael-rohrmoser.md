@@ -28,7 +28,7 @@ themes:
   - titel: Suchergebnisse und Bewertungen löschen
     link: /themen/suchergebnisse-und-bewertungen-loeschen/
   - titel: IT-Recht
-    link:
+    link: /themen/it-recht---internet-software-vertr%C3%A4ge/
   - titel: Sportrecht
     link:
   - titel: Non-Fungible-Token (NFT)
