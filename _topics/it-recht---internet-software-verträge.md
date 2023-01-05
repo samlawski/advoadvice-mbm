@@ -21,21 +21,42 @@ abschnitte:
     titel: Facebook-Konto gehackt
     text_markdown: >-
       In den vergangenen Monaten haben sich bundes- und europaweit betroffene
-      Personen bei der Kanzlei AdvoAdvice gemeldet, deren Facebook-Account
-      gehackt wurde. Die Fälle haben überwiegend gemeinsam, dass die Betroffenen
-      in der Regel zwar schnell tätig werden und die Facebook-Hilfeleistungen
-      angehen. Gleichzeitig führen diese Schritte oft nicht zum Erfolg.
+      Personen bei der Kanzlei AdvoAdvice gemeldet, deren Facebook-, Instagram-
+      oder andere Social-Media-Accounts gehackt wurde.&nbsp;
 
 
-      AdvoAdvice hilft Betroffenen dabei, wieder Zugang zu gehackten, gesperrten
-      und deaktivierten Konten zu erhalten. Gerade weil die Plattform von vielen
-      Menschen genutzt wird, ist es für Betroffene wichtig, hier Zugang zu
-      haben. Die Hintergründe sind oftmals die Erinnerungen und geposteten
-      Bilder, aber auch der Kontakt zum eigenen Netzwerk (z.B. für Musiker,
-      Tänzer und andere Künstler) zu haben oder die wirtschaftlich notwendige
+      Rechtsanwalt Dr. Rohrmoser hilft Betroffenen dabei, wieder Zugang zu
+      gehackten, gesperrten und deaktivierten Konten zu erhalten. Gerade weil
+      die Plattform von vielen Menschen genutzt wird, ist es für Betroffene
+      wichtig, hier Zugang zu haben.
+
+
+      Viele Betroffene nutzen die Social-Media-Profile nicht nur für
+      Erinnerungen und dem Posten von Bildern, sondern auch um weltweit Kontakt
+      zum eigenen Netzwerk (z.B. für Musiker, Tänzer und andere Künstler) zu
+      haben. Andere Betroffene nutzen die Portale zur wirtschaftlich notwendige
       Kundengewinnung über Unternehmensseiten. All diese Aspekte können es
       notwendig machen, dass man sich mit Hilfe eines Rechtsanwalts kümmern
       sollte.
+
+
+      Die Fälle haben überwiegend gemeinsam, dass die Betroffenen zwar schnell
+      tätig werden und die von Facebook oder anderen Anbietern zur Verfügung
+      gestellten Hilfestellungen nutzen. Gleichzeitig führen diese Schritte oft
+      nicht zum Erfolg, da überwiegend automatisierte Antworten erfolgen.
+      Unterschiede gibt es jedoch in der Zugänglichkeit oder Nutzbarkeit der
+      Konten. Manche Profile sind vollständig deaktiviert und nicht sichtbar,
+      andere sind zwar verfügbar aber es gibt keinen Zugriff und wieder andere
+      Profile sind nur teilweise gesperrt.&nbsp;
+
+
+      Auch bei der Abwehr etwaiger Zahlungsansprüche wegen der rechtswidrigen
+      Nutzung des Accounts, der Schaltung von Werbeanzeigen oder ähnlichen
+      können wir Ihnen in Einzelfällen behilflich sein.
+
+
+      Im Jahr 2022 konnten wir knapp 50 Betroffenen helfen, wieder Zugang zu
+      Profilen zu erhalten und Ansprüche auch gerichtlich geltend zu machen.
     image: /uploads/konto-gehackt.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
