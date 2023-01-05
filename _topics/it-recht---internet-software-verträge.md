@@ -108,7 +108,7 @@ abschnitte:
       Rohmoser vereinbaren.
     image: /uploads/dscf0361---homepage-2-2.jpg
     cta: true
-redirect_from: /themen/itrecht
+redirect_from:
 redirect_to:
 sitemap: true
 ---
