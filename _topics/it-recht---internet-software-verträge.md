@@ -36,7 +36,7 @@ abschnitte:
       Kundengewinnung über Unternehmensseiten. All diese Aspekte können es
       notwendig machen, dass man sich mit Hilfe eines Rechtsanwalts kümmern
       sollte.
-    image: /uploads/blog-banner-facebook-meta.jpg
+    image: /uploads/konto-gehackt.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
     titel: Open-Source Software
@@ -108,7 +108,7 @@ abschnitte:
       Rohmoser vereinbaren.
     image: /uploads/dscf0361---homepage-2-2.jpg
     cta: true
-redirect_from:
+redirect_from: /themen/itrecht
 redirect_to:
 sitemap: true
 ---
