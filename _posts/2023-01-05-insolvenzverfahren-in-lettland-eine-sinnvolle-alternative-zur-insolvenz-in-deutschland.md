@@ -2,7 +2,7 @@
 title: >-
   Insolvenzverfahren in Lettland - eine sinnvolle Alternative zur Insolvenz in
   Deutschland
-date: 2023-01-06 00:00:00
+date: 2023-01-05 00:00:00
 description: >-
   Das Insolvenzverfahren in Lettland stellt eine sinnvolle Alternative dar,
   insbesondere für Betroffene, die schnell wieder durchstarten möchten.
