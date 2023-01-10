@@ -6,7 +6,7 @@ description: >-
   Kanzlei AdvoAdvice gelöscht. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-hanseatic-bank.jpg
 tags:
   - Schufa-Eintrag
   - Schufa Holding AG
