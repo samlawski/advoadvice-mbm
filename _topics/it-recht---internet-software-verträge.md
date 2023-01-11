@@ -57,7 +57,7 @@ abschnitte:
 
       Im Jahr 2022 konnten wir knapp 50 Betroffenen helfen, wieder Zugang zu
       Profilen zu erhalten und Ansprüche auch gerichtlich geltend zu machen.
-    image: /uploads/konto-gehackt.jpg
+    image: /uploads/konto-gehackt-1.jpg
     cta: true
   - abschnitt_template: weiss_bild_links
     titel: Open-Source Software
