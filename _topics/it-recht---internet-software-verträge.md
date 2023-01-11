@@ -137,11 +137,6 @@ abschnitte:
       Rohrmoser vereinbaren.
     image: /uploads/dscf0361---homepage-2.jpg
     cta: true
-  - abschnitt_template: weiss_bild_links
-    titel:
-    text_markdown:
-    image: /uploads/dscf0361---homepage-2.jpg
-    cta: true
 redirect_from:
 redirect_to:
 sitemap: true
