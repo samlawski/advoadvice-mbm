@@ -19,7 +19,7 @@ tags:
   - DSK Leasing
 topics:
   - schufa-und-datenschutz
-author: dr-sven-tintemann
+author: dr--raphael-rohrmoser
 ---
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB konnte wieder einmal einer Betroffenen aus Berlin erfolgreich bei der Löschung ihres, zu Unrecht gespeicherten, negativen Schufa-Eintrages helfen. Dieser war auf einen Autoleasingvertrag eines Toyota Auris Kombi zurückzuführen.
 
@@ -29,7 +29,7 @@ Der Toyota der Betroffenen wurde durch diese vier Wochen vor Ende der Laufzeit d
 
 Als diese daraufhin bei der Toyota Kredit Bank nachfragte, wo die Rechnung bliebe, wurde ihr lediglich mitgeteilt, dass im System der Toyota Kreditbank GmbH die Abgabe des Autos nicht erkannt werden konnte und die Betroffene daher weiterhin abwarten sollte.
 
-Nachdem die Betroffene dahingehend mehrere Wochen lang keine Rückmeldung erhielt, erhielt sie wie aus heiterem Himmel als Nächstes einen Mahnbescheid zugestellt. Gegen den Mahnbescheid legte die Berlinerin fristgemä&szlig; Widerspruch ein, sodass sich schlie&szlig;lich die Toyota Kreditbank bei der Betroffenen mit einem Angebot zur Ratenzahlung meldete. Diesem stimmt die Berlin auch zu. Zudem wurde ihr mehrfach versichert, dass ihr dadurch, dass die Abschlussrechnung mit der letzten Leasingrate zusammengerechnet werde, keine Nachteile entstehen würden.
+Nachdem die Betroffene dahingehend mehrere Wochen lang keine Rückmeldung erhielt, erhielt sie wie aus heiterem Himmel als Nächstes einen Mahnbescheid zugestellt. Gegen den Mahnbescheid legte die Berlinerin fristgemä&szlig; Widerspruch ein, sodass sich schlie&szlig;lich die Toyota Kreditbank bei der Betroffenen mit einem Angebot zur Ratenzahlung meldete. Diesem stimmt die Betroffene auch zu. Zudem wurde ihr mehrfach versichert, dass ihr dadurch, dass die Abschlussrechnung mit der letzten Leasingrate zusammengerechnet werde, keine Nachteile entstehen würden.
 
 Dennoch hatte die Toyota Kreditbank GmbH daraufhin am 14.10.2021 einen Negativeintrag bei der Schufa Holding AG lanciert, der für die Betroffene selbstverständlich mit Nachteilen verbunden war, da sie im Schufa-Datenbestand praktisch als kreditunwürdig dargestellt wurde.
 
