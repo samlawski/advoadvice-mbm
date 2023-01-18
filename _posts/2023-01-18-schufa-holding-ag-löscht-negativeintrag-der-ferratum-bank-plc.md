@@ -4,7 +4,7 @@ date: 2023-01-18 00:00:00
 description: 'AdvoAdvice hilft bei Löschung eines Schufa-Eintrags der Ferratum Bank PLC. '
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-ferratum-bank.jpg
 tags:
   - Ferratum Bank
   - Multitude Bank
