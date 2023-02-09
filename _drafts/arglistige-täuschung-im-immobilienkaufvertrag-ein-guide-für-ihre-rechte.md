@@ -7,7 +7,7 @@ style_id: post
 image: /uploads/guide-hauskauf.png
 tags: []
 topics: []
-author: dr-sven-tintemann
+author: kim-oliver-klevenhagen
 ---
 Beim Kauf einer Immobilie ist es wichtig, dass beide Parteien, Käufer und Verkäufer, vollständig und wahrheitsgetreu über die Eigenschaften der Immobilie informiert werden. Wenn eine der Parteien absichtlich falsche Informationen bereitstellt oder ihr bekannte Tatsachen verschweigt, um die andere Partei zum Abschluss des Vertrages zu bewegen, dann liegt unter Umständen sogar eine arglistige Täuschung vor.
 
