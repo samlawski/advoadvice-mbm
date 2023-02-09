@@ -31,7 +31,7 @@ In Deutschland ist die Sachmängelgewährleistung ein wichtiger Bestandteil jede
 
 Daher ist es wichtig, dass der Käufer die Immobilie in einem guten, zumindest aber ihm vollständig bekannten Zustand erwirbt und dass alle vertraglich vereinbarten Bedingungen eingehalten werden. Doch was passiert, wenn sich nach dem Kauf versteckte Mängel zeigen, die vorher nicht sichtbar waren? Kann in diesem Fall kann der Käufer eine Kaufpreisminderung fordern?
 
-## Was sind versteckte Mängel?
+## Was ist ein versteckter Mangel?
 
 Versteckte Mängel sind Mängel, die bei einer ordnungsgemäßen Besichtigung nicht sichtbar, bzw. nicht durch eigene Kenntnisnahme bei einer vorherigen Besichtigung erkennbar sind. Dies können zum Beispiel Feuchtigkeitsschäden an der Immobilie, ein undichtes Dach oder andere strukturelle Problematiken sein, die der bisherige Eigentümer oder Nutzer der Immobilie kennt oder hätte erkennen können. Daher ist es wichtig, dass der Verkäufer die Immobilie gründlich inspiziert, um solche Mängel zu erkennen und sie dem Käufer mitzuteilen.
 
