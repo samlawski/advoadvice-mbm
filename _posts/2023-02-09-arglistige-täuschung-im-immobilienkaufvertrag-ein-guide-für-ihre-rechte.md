@@ -38,7 +38,7 @@ Ein Beispiel für arglistige Täuschung bei einem Immobilienkaufvertrag könnte 
 
 Arglistige Täuschung kann auch vorliegen, wenn die Verkäuferseite falsche Angaben über die Größe der Immobilie, ihre Lage oder ihre Ausstattung macht. Es ist wichtig zu beachten, dass auch Unterlassungen oder das Auslassen wichtiger Informationen eine arglistige Täuschung darstellen können.
 
-Um arglistige Täuschungen zu vermeiden, ist es wichtig, dass beide Parteien gründlich über die Immobilie informiert werden. Es ist ebenfalls ratsam, einen unabhängigen Gutachter zu beauftragen, um eine sorgfältige Überprüfung der Immobilie durchzuführen. Auch eine gründliche Dokumentenprüfung, wie beispielsweise eine Überprüfung des Grundbuchs, kann helfen, eventuelle Probleme aufzudecken.
+Um arglistige Täuschungen zu vermeiden, ist es wichtig, dass sich die Käuferseite gründlich über die Immobilie informiert. Es ist ebenfalls ratsam, einen unabhängigen Gutachter zu beauftragen, um eine sorgfältige Überprüfung der Immobilie durchzuführen. Auch eine gründliche Dokumentenprüfung, wie beispielsweise eine Überprüfung des Grundbuchs und der zum Haus gehörenden Unterlagen wird helfen, Probleme oder Fallstricke aufzudecken.
 
 Wenn eine arglistige Täuschung nachweislich oder gut beweisbar vorliegt, kann die Käuferseite den Kaufvertrag anfechten und den Kaufpreis zurückfordern. In einigen Fällen können auch Schadensersatzansprüche geltend machen.
 
