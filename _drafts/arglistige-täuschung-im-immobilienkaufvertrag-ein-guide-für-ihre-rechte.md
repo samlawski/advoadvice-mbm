@@ -1,12 +1,27 @@
 ---
 title: Arglistige Täuschung im Immobilienkaufvertrag - Ein Guide für Ihre Rechte
 date: 2023-02-09 10:00:00
-description:
+description: >-
+  Wenn sich die Käuferseite nach  Kauf einer Immobilie getäuscht fühlt, weil
+  sich Mängel auftun, von denen die Verkäuferseite gewusst haben muss, dann
+  stellen sich viele Fragen, wie man damit umgeht. Eine Übersicht.
 layout: post
 style_id: post
 image: /uploads/guide-hauskauf.png
-tags: []
-topics: []
+tags:
+  - Immobilienkauf
+  - Kaufvertrag
+  - arglistige Täuschung
+  - Rechtsanwalt
+  - Kaufpreisminderung
+  - Klevenhagen
+  - Fachanwalt
+  - Anfechtung
+  - Notar
+  - Kaufvertragsurkunde
+topics:
+  - anlegerschutz
+  - immobilien
 author: kim-oliver-klevenhagen
 ---
 Beim Kauf einer Immobilie ist es wichtig, dass beide Parteien, Käufer und Verkäufer, vollständig und wahrheitsgetreu über die Eigenschaften der Immobilie informiert werden. Wenn eine der Parteien absichtlich falsche Informationen bereitstellt oder ihr bekannte Tatsachen verschweigt, um die andere Partei zum Abschluss des Vertrages zu bewegen, dann liegt unter Umständen sogar eine arglistige Täuschung vor.
@@ -15,7 +30,7 @@ Ein arglistiges Verschweigen ist &nbsp;nur gegeben, wenn der Verkäufer den Mang
 
 Dagegen genügt es nicht, wenn sich dem Verkäufer das Vorliegen aufklärungspflichtiger Tatsachen hätte aufdrängen müssen, weil dann die Arglist vom Vorsatz abgekoppelt und der Sache nach durch leichtfertige oder grob fahrlässige Unkenntnis ersetzt würde.
 
-### Folgen einer "arglistigen Täuschung" beim Immobilienkauf
+### Folgen einer arglistigen Täuschung beim Immobilienkauf
 
 Arglistige Täuschungen können auch eine Straftat bzw. strafrechtlich relevant sein, was auch in einem Immobilienkaufvertrag zu schwerwiegenden rechtlichen Konsequenzen führen kann. Zum Beispiel könnte ein Käufer, der arglistig getäuscht wurde, den Kaufvertrag anfechten und den Kaufpreis zurückfordern.
 
