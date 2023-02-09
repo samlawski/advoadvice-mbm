@@ -1,5 +1,5 @@
 ---
-title: Kaufpreisminderung bei Mängeln nach dem Immobilienkauf
+title: Kaufpreisminderung bei Mangel nach dem Immobilienkauf
 date: 2023-02-09 09:00:00
 description: >-
   Ein Immobilienkauf ist eine wichtige Entscheidung, die für die meisten
