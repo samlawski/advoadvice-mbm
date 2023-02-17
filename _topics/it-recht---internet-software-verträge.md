@@ -12,7 +12,9 @@ erfolge:
   - zahl: 50+
     text: Fälle zu gehackten Konten bearbeitet
   - zahl: 10+
-    text: Entscheidungen vor unterschiedlichen Gerichten erstritten
+    text: >-
+      Entscheidungen zu gehackten Accounts vor unterschiedlichen Gerichten
+      erstritten
 intro_titel: IT- und Internetrecht
 intro_text_markdown: >-
   Das IT- und Internetrecht bietet eine Vielzahl unterschiedlicher
