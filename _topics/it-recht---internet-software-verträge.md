@@ -35,9 +35,8 @@ intro_text_markdown: >-
 
 
   \- ChatGPT / KI-Anwendungen
-intro_link_text: 'Aktuelle Artikel:'
-intro_link: >-
-  https://www.anwalt.de/rechtstipps/facebook-account-gesperrt-und-deaktiviert-was-kann-man-tun-202024.html
+intro_link_text:
+intro_link:
 abschnitte:
   - abschnitt_template: box_dunkel
     titel: Facebook-Konto gehackt
