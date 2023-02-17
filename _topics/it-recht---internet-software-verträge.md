@@ -15,6 +15,8 @@ erfolge:
     text: >-
       Entscheidungen zu gehackten Accounts vor unterschiedlichen Gerichten
       erstritten
+  - zahl: Fachanwaltslehrgang IT-Recht
+    text: Erfolgreich abgeschlossen
 intro_titel: IT- und Internetrecht
 intro_text_markdown: >-
   Das IT- und Internetrecht bietet eine Vielzahl unterschiedlicher
