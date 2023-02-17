@@ -9,11 +9,27 @@ description: >-
 header_titel: IT- und Internetrecht
 header_image: /uploads/it-recht-homepage-header.jpg
 erfolge:
+  - zahl: 50+
+    text: Fälle zu gehackten Konten bearbeitet
+  - zahl: 10+
+    text: Entscheidungen vor unterschiedlichen Gerichten erstritten
 intro_titel: IT- und Internetrecht
-intro_text_markdown: |-
-  &nbsp;
+intro_text_markdown: >-
+  Im IT- und Internetrecht gibt es eine Vielzahl unterschiedlicher
+  Fallgestaltungen, mit denen wir uns Beschäftigen. Relevante Themen sind
+  insbesondere:
 
-  &nbsp;
+
+  \- Gehackte Facebook-Accounts / Social-Media-Accounts
+
+
+  \- Datenschutz
+
+
+  \- Open Source Software
+
+
+  \- ChatGPT / KI-Anwendungen
 intro_link_text:
 intro_link:
 abschnitte:
