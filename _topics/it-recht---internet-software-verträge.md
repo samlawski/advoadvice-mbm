@@ -15,9 +15,12 @@ erfolge:
     text: Entscheidungen vor unterschiedlichen Gerichten erstritten
 intro_titel: IT- und Internetrecht
 intro_text_markdown: >-
-  Im IT- und Internetrecht gibt es eine Vielzahl unterschiedlicher
-  Fallgestaltungen, mit denen wir uns Beschäftigen. Relevante Themen sind
-  insbesondere:
+  Das IT- und Internetrecht bietet eine Vielzahl unterschiedlicher
+  Fallgestaltungen, mit denen sich Rechtsanwalt Dr. Rohrmoser beschäftigt. Neben
+  der ausgeprägten Expertise im Datenschutzrecht und insbesondere zu
+  Datenverarbeitungsvorgängen bei Auskunfteien, gibt es weitere Themen, mit
+  denen sich die Kanzlei AdvoAdvice schwerpunktmäßig beschäftigt. Dazu gehören
+  unter anderem:
 
 
   \- Gehackte Facebook-Accounts / Social-Media-Accounts
