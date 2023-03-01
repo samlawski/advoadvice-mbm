@@ -8,7 +8,7 @@ description: >-
   Blue Planet Investment Kft. erreicht. 
 layout: post
 style_id: post
-image:
+image: /uploads/blog-banner-blue-planet.jpg
 tags:
   - Blue Planet Investment
   - Darlehen
