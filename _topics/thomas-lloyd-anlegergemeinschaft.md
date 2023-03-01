@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 872 T€+
     text: Auszahlungen an Anleger
-  - zahl: '69'
+  - zahl: '78'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
