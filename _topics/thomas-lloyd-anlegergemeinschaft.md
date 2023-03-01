@@ -12,9 +12,9 @@ erfolge:
     text: Anleger
   - zahl: 250+
     text: Klagen
-  - zahl: 2,5 Mio€+
+  - zahl: 2,61 Mio€+
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
-  - zahl: 677 T€+
+  - zahl: 872 T€+
     text: Auszahlungen an Anleger
   - zahl: '69'
     text: Klagen in Berufungsinstanz gewonnen
@@ -29,16 +29,16 @@ intro_text_markdown: >-
 
 
   Seitdem haben sich mehr als 400 Anleger unserer Anlegergemeinschaft
-  angeschlossen. Es wurden zahlreiche Anspruchsschreiben und
-  au&szlig;erordentliche Kündigungen verschickt. Au&szlig;erdem wurden bisher
-  mehr als 250 Klagen an verschiedenen Amtsgerichten und Landgerichten in
-  Deutschland gegen die CT Infrastructure Holding Ltd. eingereicht. In 69
-  Berufungsverfahren haben wir bereits gewonnen. Davon sind bereits zahlreiche
-  Entscheidungen rechtskräftig. Hier haben die Anleger dann auch die
-  Anlagesummen ausgezahlt bekommen. Auch vor dem Bundesgerichtshof waren wir
-  erfolgreich. Eine Nichtzulassungsbeschwerde der Gegenseite hat der BGH in
-  einem unserer Verfahren zurückgewiesen sowie in einem weiteren Verfahren,
-  welches durch eine andere Kanzlei geführt wurde.
+  angeschlossen. Es wurden zahlreiche Anspruchsschreiben und außerordentliche
+  Kündigungen verschickt. Außerdem wurden bisher mehr als 250 Klagen an
+  verschiedenen Amtsgerichten und Landgerichten in Deutschland gegen die CT
+  Infrastructure Holding Ltd. eingereicht. In 78 Berufungsverfahren haben wir
+  bereits gewonnen. Davon sind bereits zahlreiche Entscheidungen rechtskräftig.
+  Hier haben die Anleger dann auch die Anlagesummen ausgezahlt bekommen. Auch
+  vor dem Bundesgerichtshof waren wir erfolgreich. Eine
+  Nichtzulassungsbeschwerde der Gegenseite hat der BGH in einem unserer
+  Verfahren zurückgewiesen sowie in einem weiteren Verfahren, welches durch eine
+  andere Kanzlei geführt wurde.
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
@@ -50,11 +50,11 @@ abschnitte:
       Teilnahme verbunden sind.&nbsp;
 
 
-      * Au&szlig;ergerichtliche Vertretung Ihrer Interessen
+      * Außergerichtliche Vertretung Ihrer Interessen
 
-      * Au&szlig;ergerichtliche Geltendmachung Ihrer Ansprüche&nbsp;
+      * Außergerichtliche Geltendmachung Ihrer Ansprüche&nbsp;
 
-      * Regelmä&szlig;ige Informationen aus der Anlegergemeinschaft über unseren
+      * Regelmäßige Informationen aus der Anlegergemeinschaft über unseren
       kostenfreien Newsletter
 
       * Abwicklung von Rückzahlung
@@ -63,19 +63,18 @@ abschnitte:
 
 
       Machen Sie sich unsere Argumentation zur Zuständigkeit der deutschen
-      Gerichte, zur Möglichkeit einer au&szlig;erordentlichen fristlosen
-      Kündigung und zur Rückzahlung Ihres Anlagebetrages bzw. zur Zahlung von
-      Schadensersatz zu Nutze. Diese ist bereits gerichtlich ausprobiert worden
-      und hat zu zahlreichen erstinstanzlichen Urteilen gegen die CT
-      Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd
-      Investments GmbH und der DKM Global Opportunities Fonds 01 GmbH geführt.
-      Auch in der zweiten Instanz vor den Berufungsgerichten haben unsere
-      Anleger bisher 69 erfolgreiche Entscheidungen (Urteile oder Beschlüsse
-      nach &sect; 522 ZPO) erstritten. In der Berufungsinstanz hat unsere
-      Kanzlei für die hier vertretenen Anleger bisher noch nie verloren. Der
-      Bundesgerichtshof hat zudem eine Nichtzulassungsbeschwerde der Gegenseite
-      gegen eine Entscheidung des OLG Celle durch Beschluss zurückgewiesen.
-      (Stand: 30.11.2022)&nbsp;
+      Gerichte, zur Möglichkeit einer außerordentlichen fristlosen Kündigung und
+      zur Rückzahlung Ihres Anlagebetrages bzw. zur Zahlung von Schadensersatz
+      zu Nutze. Diese ist bereits gerichtlich ausprobiert worden und hat zu
+      zahlreichen erstinstanzlichen Urteilen gegen die CT Infrastructure Holding
+      Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM
+      Global Opportunities Fonds 01 GmbH geführt. Auch in der zweiten Instanz
+      vor den Berufungsgerichten haben unsere Anleger bisher 78 erfolgreiche
+      Entscheidungen (Urteile oder Beschlüsse nach § 522 ZPO) erstritten. In der
+      Berufungsinstanz hat unsere Kanzlei für die hier vertretenen Anleger
+      bisher noch nie verloren. Der Bundesgerichtshof hat zudem eine
+      Nichtzulassungsbeschwerde der Gegenseite gegen eine Entscheidung des OLG
+      Celle durch Beschluss zurückgewiesen. (Stand: 01.03.2023)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -93,21 +92,21 @@ abschnitte:
 
 
       Nach erstinstanzlichen Urteilen wurden zudem von der Beklagtenseite
-      Sicherheiten zur Verhinderung von Zwangsvollstreckungsma&szlig;nahmen in
-      Höhe von 2.501.302,02 Euro (Stand: 30.11.2022) hinterlegt.
+      Sicherheiten zur Verhinderung von Zwangsvollstreckungsmaßnahmen in Höhe
+      von 2.610.331,25 Euro (Stand: 01.03.2023) hinterlegt.
 
 
-      Zudem konnten bereits in Höhe von 677.182,34 Euro durch unsere Kanzlei
-      Auszahlungen von hinterlegten Sicherheiten erstritten werden. 25
+      Zudem konnten bereits in Höhe von 872.251,87 Euro durch unsere Kanzlei
+      Auszahlungen von hinterlegten Sicherheiten erstritten werden. Weitere
       Auszahlungsanträge sind zudem bei den Gerichten in Bearbeitung. (Stand:
-      30.11.2022)
+      01.03.2023)
 
 
-      Es gibt mittlerweile 69 positive Entscheidungen von Berufungsgerichten
-      (darunter 67 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 78 positive Entscheidungen von Berufungsgerichten
+      (darunter 76 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 30.11.2022). Der Bundesgerichtshof hat eine
+      haben (Stand: 01.03.2023). Der Bundesgerichtshof hat eine
       Nichtzulassungsbeschwerde der Beklagten bei einer Anlage in
       Genussrechtsbeteiligungen durch Beschluss vom 15.02.2022 zurückgewiesen.
     image:
@@ -245,6 +244,18 @@ abschnitte:
 
       * OLG Celle, Urteil vom 16.11.2022
 
+      * OLG Nürnberg, Urteil vom 29.11.2022
+
+      * OLG Nürnberg, Urteil vom 29.11.2022
+
+      * OLG Nürnberg, Urteil vom 29.11.2022 (Aufhebung LG Regensburg)
+
+      * OLG Dresden, Urteil vom 15.12.2022
+
+      * OLG Dresden, Urteil vom 15.12.2022
+
+      * Kammergericht, Beschluss vom 05.01.2023
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -286,6 +297,12 @@ abschnitte:
       * OLG Düsseldorf, Urteil vom 28.09.2022
 
       * OLG Naumburg, Urteil vom 05.10.2022 (GOF und VAG - Klage nach Brexit)
+
+      * OLG Frankfurt am Main, Beschluss vom 16.12.2022
+
+      * OLG Hamm, Urteil vom 25.01.2023
+
+      * OLG Celle, Beschluss vom 15.02.2023
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
@@ -351,9 +368,9 @@ abschnitte:
       Deshalb müssen Brancheninformationsdienste für den Berater oder Vermittler
       die einschlägige Fach- und Tagespresse auszuwerten sowie Warnlisten zur
       Kenntnis zu nehmen, damit diese dann den Anleger entsprechend informieren
-      können. Geschieht dies nicht, liegt ein Versto&szlig; gegen
-      Beratungspflichten vor, welcher schnell zu Schadenersatzansprüchen des
-      geschädigten Anlegers führen kann.
+      können. Geschieht dies nicht, liegt ein Verstoß gegen Beratungspflichten
+      vor, welcher schnell zu Schadenersatzansprüchen des geschädigten Anlegers
+      führen kann.
 
 
       ### Bericht über Genussrechte und stille Beteiligung
@@ -397,7 +414,7 @@ abschnitte:
       Dieses wurde seitens der Bundesregierung mit Verweis auf die
       unterschiedlichen Vorschriften nach Verkaufsprosepektgesetz,
       Vermögensanlagegesetz und Kapitalanlagegesetzbuch verneint. Es gelte hier
-      Bestandsschutz nach &sect; 353 Abs. 1 KAGB.&nbsp;
+      Bestandsschutz nach § 353 Abs. 1 KAGB.&nbsp;
 
 
       Es wurde mitgeteilt, dass in den Jahren 2008 bis 2013 durch die BaFin 15
