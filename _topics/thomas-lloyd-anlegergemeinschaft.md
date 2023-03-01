@@ -16,7 +16,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 872 T€+
     text: Auszahlungen an Anleger
-  - zahl: '78'
+  - zahl: '80'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
@@ -32,7 +32,7 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und außerordentliche
   Kündigungen verschickt. Außerdem wurden bisher mehr als 250 Klagen an
   verschiedenen Amtsgerichten und Landgerichten in Deutschland gegen die CT
-  Infrastructure Holding Ltd. eingereicht. In 78 Berufungsverfahren haben wir
+  Infrastructure Holding Ltd. eingereicht. In 80 Berufungsverfahren haben wir
   bereits gewonnen. Davon sind bereits zahlreiche Entscheidungen rechtskräftig.
   Hier haben die Anleger dann auch die Anlagesummen ausgezahlt bekommen. Auch
   vor dem Bundesgerichtshof waren wir erfolgreich. Eine
@@ -69,7 +69,7 @@ abschnitte:
       zahlreichen erstinstanzlichen Urteilen gegen die CT Infrastructure Holding
       Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM
       Global Opportunities Fonds 01 GmbH geführt. Auch in der zweiten Instanz
-      vor den Berufungsgerichten haben unsere Anleger bisher 78 erfolgreiche
+      vor den Berufungsgerichten haben unsere Anleger bisher 80 erfolgreiche
       Entscheidungen (Urteile oder Beschlüsse nach § 522 ZPO) erstritten. In der
       Berufungsinstanz hat unsere Kanzlei für die hier vertretenen Anleger
       bisher noch nie verloren. Der Bundesgerichtshof hat zudem eine
@@ -102,8 +102,8 @@ abschnitte:
       01.03.2023)
 
 
-      Es gibt mittlerweile 78 positive Entscheidungen von Berufungsgerichten
-      (darunter 76 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 80 positive Entscheidungen von Berufungsgerichten
+      (darunter 78 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
       haben (Stand: 01.03.2023). Der Bundesgerichtshof hat eine
@@ -255,6 +255,10 @@ abschnitte:
       * OLG Dresden, Urteil vom 15.12.2022
 
       * Kammergericht, Beschluss vom 05.01.2023
+
+      * OLG Oldenburg, Urteil vom 23.02.2023 (Nennwert + Basisdividende)
+
+      * OLG Oldenburg, Urteil vom 23.02.2023 (Nennwert + Basisdividende)
 
 
       ### Anlagen in atypisch stille Beteiligungen:
