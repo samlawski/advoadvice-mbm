@@ -32,3 +32,5 @@ Rechtsanwalt Dr. Tintemann - Beitrag in der Fachzeitschrift Verbraucher und Rech
 Wer muss nachweisen, dass eine Mahnung zugestellt wurde? Wann ist ein Nachweis über die Zustellung erbracht? Wann ist ein Nachweis nicht nötig?
 
 Unsere Experten werten die aktuelle Rechtsprechung aus und geben wertvolle Hinweise zur Anwendung und Auslegung von § 28a Bundesdatenschutzgesetz (BDSG).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
