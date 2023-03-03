@@ -25,7 +25,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Zweiter Erfolg für einen Anleger der Thomas Lloyd Investments GmbH (nunmehr CT Infrastructure Holding Ltd.) vor dem Landgericht Frankenthal. Das Landgericht Frankenthal verurteilte die Anlagegesellschaft am 10.07.2020 zur Zahlung in Höhe von 10.000,00 Euro zzgl. Zinsen ab dem 01.04.2019. Zudem wurde die Beklagte dazu verurteilt, Anwaltskosten in Höhe von 578,04 Euro zu zahlen.&nbsp;&nbsp;
 
 ## Zweiter Erfolg vor dem Landgericht Frankenthal
@@ -36,7 +35,7 @@ Das Landgericht Frankenthal sah sich für international zuständig an, wie dies 
 
 Zudem verurteilte das Landgericht Frankenthal die CT Insfrasturcture Holding aufgrund der gekündigten Genussrechtsbeteiligungen zur Zahlung an den Anleger.
 
-Begründet wurde dies damit, dass dem klagenden Rentner und ehemaligen Pädagogen ein Anspruch aus &sect; 241 Abs. 1 BGB in Verbindung mit den Regelungen der Genussrechtsbedingungen nach Kündigung zustehen würde. Den Vortrag der Gegenseite dazu, dass die Beteiligung Verluste erlitten und der Anleger daher keinen Anspruch mehr habe, lie&szlig; das Gericht indes nicht gelten.&nbsp;
+Begründet wurde dies damit, dass dem klagenden Rentner und ehemaligen Pädagogen ein Anspruch aus § 241 Abs. 1 BGB in Verbindung mit den Regelungen der Genussrechtsbedingungen nach Kündigung zustehen würde. Den Vortrag der Gegenseite dazu, dass die Beteiligung Verluste erlitten und der Anleger daher keinen Anspruch mehr habe, ließ das Gericht indes nicht gelten.&nbsp;
 
 Die Entscheidung ist noch nicht rechtskräftig und kann von der Anlagegesellschaft mit dem Rechtsmittel der Berufung angegriffen werden. Diese wäre hier vor dem Oberlandesgericht Zweibrücken zu verhandeln. Dort hat die CT Infrastructure Holding bereits in anderer Sache Berufung gegen eine erste Entscheidung des LG Frankenthal eingelegt.&nbsp;
 
@@ -47,3 +46,5 @@ Für die Anlegergemeinschaft Thomas Lloyd war dies bereits der vierte Erfolg vor
 Rechtsanwalt Dr. Sven Tintemann, Rechtsanwalt für Bank- und Kapitalmarktrecht bei AdvoAdvice zeigt sich erfreut über die Entscheidung: "Das Urteil war nach der mündlichen Hauptverhandlung bereits abzusehen und durch unsere Kanzlei erwartet worden. Es ist erfreulich, dass das Landgericht Frankenthal nun schon zum zweiten Mal eine anlegerfreundliche Position einnimmt."
 
 Eine weitere positive Entscheidungen wird in Kürze vom Landgericht Rostock erwartet. Die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB werden weiter über die Verfahren gegen die CT Infrastructure Holding Ltd. berichten.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -42,11 +42,11 @@ Auf dieses Angebot ging der Kläger nicht ein und beauftragte die AdvoAdvice Rec
 
 Als die Beklagte eine Rückzahlung ablehnte, erhob der Anleger Klage beim Landgericht Erfurt, das die Klage jedoch als unbegründet zurückwies.&nbsp;
 
-Der Kläger legte daraufhin Berufung zum Thüringer Oberlandesgericht ein. Dieses hat nun mit Urteil vom 21.12.2021 das Urteil des Landgerichts Erfurt aufgehoben und die Beklagte zur Zahlung von 51.864,86 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz sowie zur Erstattung der dem Kläger entstandenen au&szlig;ergerichtlichen Rechtsanwaltskosten und schlie&szlig;lich zum Tragen der Kosten des Rechtsstreits verurteilt. &nbsp;
+Der Kläger legte daraufhin Berufung zum Thüringer Oberlandesgericht ein. Dieses hat nun mit Urteil vom 21.12.2021 das Urteil des Landgerichts Erfurt aufgehoben und die Beklagte zur Zahlung von 51.864,86 EUR zuzüglich Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz sowie zur Erstattung der dem Kläger entstandenen außergerichtlichen Rechtsanwaltskosten und schließlich zum Tragen der Kosten des Rechtsstreits verurteilt. &nbsp;
 
 Das Oberlandesgericht führt insoweit wie folgt aus: &nbsp;
 
-„Entgegen der Auffassung des Landgerichts steht dem Kläger jedoch, wie von ihm beantragt, ein Anspruch in Höhe von 51.864,86 € zu, ohne dass ein Abzug wegen eines Verlustanteils vorzunehmen wäre. Aufgrund der mit Schreiben vom 27.04.2016 ausgesprochenen wirksamen Kündigung des Genussrechtsverhältnisses zum 31.12.2018, die zwischen den Parteien nicht im Streit steht, hat der Kläger gemä&szlig; &sect; 6 Abs. 4 der Genussrechtsbedingungen einen Rückzahlungsanspruch gegen die Beklagte.“&nbsp;
+„Entgegen der Auffassung des Landgerichts steht dem Kläger jedoch, wie von ihm beantragt, ein Anspruch in Höhe von 51.864,86 € zu, ohne dass ein Abzug wegen eines Verlustanteils vorzunehmen wäre. Aufgrund der mit Schreiben vom 27.04.2016 ausgesprochenen wirksamen Kündigung des Genussrechtsverhältnisses zum 31.12.2018, die zwischen den Parteien nicht im Streit steht, hat der Kläger gemäß § 6 Abs. 4 der Genussrechtsbedingungen einen Rückzahlungsanspruch gegen die Beklagte.“&nbsp;
 
 Die Revision wurde nicht zugelassen. Gegen diese Entscheidung kann die Beklagte noch das Rechtsmittel des Nichtzulassungsbeschwerde zum Bundesgerichtshof einlegen. Die Entscheidung ist daher noch nicht rechtskräftig.&nbsp;
 
@@ -58,9 +58,9 @@ Der Kläger kündigte seine Beteiligungen mit Schreiben vom 09.11.2017 ordentlic
 
 Im Februar 2019 erhielt der Kläger jedoch ein Schreiben von der Beklagten, in dem er über die automatische Umwandlung seiner Beteiligung in Aktien sowie seine vermeintlich neue Stellung als Aktionär der Beklagten informiert wurde. &nbsp;
 
-Der Kläger war damit nicht einverstanden und wandte sich daher an die Kanzlei AdvoAdvice Rechtsanwälte in Berlin und forderte die CT Infrastructure Holding Limited mit Schreiben vom 24.06.2020 zur Auszahlung der bis dahin eingezahlten Beträge auf und kündigte die Beteiligungen au&szlig;erordentlich und fristlos.&nbsp;
+Der Kläger war damit nicht einverstanden und wandte sich daher an die Kanzlei AdvoAdvice Rechtsanwälte in Berlin und forderte die CT Infrastructure Holding Limited mit Schreiben vom 24.06.2020 zur Auszahlung der bis dahin eingezahlten Beträge auf und kündigte die Beteiligungen außerordentlich und fristlos.&nbsp;
 
-Als eine Rückzahlung nicht erfolgte, erhob der Anleger Klage beim Landgericht Itzehoe. Dieses verurteilte Beklagte zur Zahlung an den Kläger, zum Tragen der Kosten des Rechtsstreits sowie zur Erstattung der au&szlig;ergerichtlichen Anwaltskosten. Die Beklagte legte daraufhin das Rechtsmittel der Berufung zum Schleswig-Holsteinischen Oberlandesgericht ein und begehrte die Aufhebung des Urteils als auch die Abweisung der Klage. &nbsp;
+Als eine Rückzahlung nicht erfolgte, erhob der Anleger Klage beim Landgericht Itzehoe. Dieses verurteilte Beklagte zur Zahlung an den Kläger, zum Tragen der Kosten des Rechtsstreits sowie zur Erstattung der außergerichtlichen Anwaltskosten. Die Beklagte legte daraufhin das Rechtsmittel der Berufung zum Schleswig-Holsteinischen Oberlandesgericht ein und begehrte die Aufhebung des Urteils als auch die Abweisung der Klage. &nbsp;
 
 Das Oberlandesgericht Schleswig bestätigte die erstinstanzliche Entscheidung in einem Umfang von 69.062,15 Euro. Zudem wurde CT Infrasturcture Holding Limited auch zur Übernahme der entstandenen vorgerichtlichen sowie der Verfahrenskosten verurteilt.&nbsp;
 
@@ -68,9 +68,9 @@ Die Revision wurde nicht zugelassen. Die Beklagte kann auch hiergegen eine Nicht
 
 ## Oberlandesgericht Köln, Urteil vom 16.12.2021
 
-Schlie&szlig;lich verurteilte das Oberlandesgericht Köln die CT Infrastructure Holding Limited zur Zahlung in Höhe 10.000 EUR nebst Zinsen in Höhe von 4 Prozentpunkten p.a. seit dem 24.05.2019, zum Tragen der Rechtsanwaltskosten und der Kosten des Rechtsstreits.&nbsp;
+Schließlich verurteilte das Oberlandesgericht Köln die CT Infrastructure Holding Limited zur Zahlung in Höhe 10.000 EUR nebst Zinsen in Höhe von 4 Prozentpunkten p.a. seit dem 24.05.2019, zum Tragen der Rechtsanwaltskosten und der Kosten des Rechtsstreits.&nbsp;
 
-Geklagt hatte eine Anlegerin, die im März 2007 eine Genussrechtsbeteiligung an der DKM Vermögensanlagen AG gezeichnet hatte. Diese hatte die Klägerin zum 31.12.2017 gekündigt und begehrte nunmehr von der Beklagten, die die Kündigung mit Schreiben vom 10.11.2014 bestätigt hatte, die Rückzahlung ihrer getätigten Einlagen in Höhe von 10.000 EUR sowie die Erstattung der au&szlig;ergerichtlichen Rechtsanwaltskosten. &nbsp;
+Geklagt hatte eine Anlegerin, die im März 2007 eine Genussrechtsbeteiligung an der DKM Vermögensanlagen AG gezeichnet hatte. Diese hatte die Klägerin zum 31.12.2017 gekündigt und begehrte nunmehr von der Beklagten, die die Kündigung mit Schreiben vom 10.11.2014 bestätigt hatte, die Rückzahlung ihrer getätigten Einlagen in Höhe von 10.000 EUR sowie die Erstattung der außergerichtlichen Rechtsanwaltskosten. &nbsp;
 
 Die Beklagte hatte der Klägerin im Vorfeld ein Schrieben vom Februar 2019 zukommen lassen, in dem sie der Klägerin mitteilte, dass ihre Beteiligung in Aktien umgewandelt worden seien. Sofern sie an den Kündigungen festhielten, betrage der Rückzahlungsbetrag zum Kündigungsstichtag 31.12.2017 0,00 EUR, da es aus rechtlichen und steuerlichen Gründen unvermeidlich gewesen sei, die Beteiligungsbuchwerte aller Genussrechts-/-schein-Inhaber zu diesem Stichtag temporär auf ein Minimum abzuwerten. &nbsp;
 
@@ -93,3 +93,5 @@ Anleger, die noch auf eine Auszahlung der CT Infrastructure Holding Ltd. oder de
 Rechtsanwalt Dr. Sven Tintemann betreut mit seinem Team bereits seit Ende 2018 Anleger der Thomas Lloyd und steht diesen bei Rückfragen gerne mit fairem Rechtsrat und einer kostenfreien Ersteinschätzung hierfür zur Verfügung.&nbsp;
 
 Die Anlegergemeinschaft Thomas Lloyd wurde bei der Kanzlei AdvoAdvice im Februar 2019 gegründet. Seither konnten bereits Beträge in einer Höhe von mehr als einer Millionen Euro von der Anlagegesellschaft auf Hinterlegungskonten für Anleger gesichert und schon teilweise zur Auszahlung an die Anleger gebracht werden.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

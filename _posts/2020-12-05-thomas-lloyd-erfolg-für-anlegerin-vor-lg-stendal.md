@@ -26,7 +26,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Stendal hat erneut die CT Infrastructure Holding Ltd. zur Zahlung an eine Anlegerin verurteilt, die in Genussrechte der Thomas Lloyd Investments GmbH investiert und diese zum 31.12.2017 gekündigt hatte.
 
 ## Landgericht Stendal findet klare Wort zum Vortrag der Beklagten
@@ -35,7 +34,7 @@ Das Landgericht Stendal sprach der klagenden Anlegerin einen Anspruch in Höhe v
 
 Für die Angabe der Beklagten, aus dem Jahresabschluss der Gesellschaft des Jahres 2017 würde sich ein Wert von 0,00 Euro ergeben, fand das Gericht deutliche Wort. Es führte hierzu aus:
 
-*"Die zugewiesenen Verluste sind für das Jahr 2017 auch mit einem geringeren Betrag angesetzt als für das Jahr 2016. Dennoch hat die Beklagte bzw. ihre Rechtsvorgängerin den Buchwert der Beteiligung für den 31. Dezember 2016 nicht wie für den 31. Dezember 2017 mit 0 €, sondern mit 11.818,58 € angegeben und den Rückzahlungsbetrag per 31. Dezember 2016 mit 12.937,25 €. In der zum Rückzahlungsbetrag gehörenden Fu&szlig;note 11 entspricht der Rückzahlungsbetrag dem Beteiligungsbuchwert der Genussrechte per 31. Dezember 2016&nbsp; einschlie&szlig;lich der rechnerischen Basisdividende brutto bis 31. Dezember 2016<br>wenn zu diesem Zeitpunkt die Beteiligung beendet worden wäre, abzüglich der<br>verbuchten Verluste. Diesen Widerspruch hat die Beklagte nicht aufklären können und er erklärt sich auch nicht aus der eingereichten Gewinn- und Verlustrechnung an deren Richtigkeit damit erhebliche Zweifel bestehen.*
+*"Die zugewiesenen Verluste sind für das Jahr 2017 auch mit einem geringeren Betrag angesetzt als für das Jahr 2016. Dennoch hat die Beklagte bzw. ihre Rechtsvorgängerin den Buchwert der Beteiligung für den 31. Dezember 2016 nicht wie für den 31. Dezember 2017 mit 0 €, sondern mit 11.818,58 € angegeben und den Rückzahlungsbetrag per 31. Dezember 2016 mit 12.937,25 €. In der zum Rückzahlungsbetrag gehörenden Fußnote 11 entspricht der Rückzahlungsbetrag dem Beteiligungsbuchwert der Genussrechte per 31. Dezember 2016&nbsp; einschließlich der rechnerischen Basisdividende brutto bis 31. Dezember 2016<br>wenn zu diesem Zeitpunkt die Beteiligung beendet worden wäre, abzüglich der<br>verbuchten Verluste. Diesen Widerspruch hat die Beklagte nicht aufklären können und er erklärt sich auch nicht aus der eingereichten Gewinn- und Verlustrechnung an deren Richtigkeit damit erhebliche Zweifel bestehen.*
 
 *Zudem hat die Beklagte zwar den Gesamtverlust benannt, ihm aber nicht die<br>Gesamtsumme des gezeichneten Kapitals gegenübergestellt, sodass schon<br>rechnerisch die Aussage, dass die Verluste das Genussrechtskapital vollständig<br>aufzehren nicht nachzuvollziehen. Zweifel am Zahlenwerk der Beklagten weckt auch das Schreiben vom Februar 2019 und die darin enthaltene per Textpassage wonach es „aus rechtlichen und steuerlichen Gründen unvermeidlich" war, die Beteiligung Buchwerte aller Genussrechtsinhaber zum Stichtag 31. Dezember 2017 „temporär auf ein Minimum abzuwerten".*
 
@@ -56,3 +55,5 @@ Das Landgericht Stendal hat hier sehr deutlich gemacht, warum es dem Vortrag der
 Da bereits eine erstinstanzliche Entscheidung des Landgerichts Stendal für Anleger, die zum 31.12.2017 gekündigt hatten, von dem Oberlandesgericht Naumburg als Berufungsinstanz bestätigt wurde, geht Rechtsanwalt Dr. Sven Tintemann, der auch diese Entscheidung erstritten hat, davon aus, dass auch hier durch das OLG Naumburg eine Bestätigung der Entscheidung im Rahmen einer Berufung erfolgen wird.&nbsp;
 
 Die Kanzlei AdvoAdvice vertritt ca. 200 Anleger, die Geld in Genussrechte der Thomas Lloyd Investments GmbH oder in atypisch stille Beteiligungen bei der DKM Global Opportunities Fond 01 GmbH investiert und bisher nicht zurückgezahlt bekommen haben. In letzter Zeit melden sich auch verstärkt Anleger anderer Anlagegesellschaften, die zur Thomas Lloyd Gruppe gehören wie z.B. Zweite Cleantech Infrastrukturgesellschaft mbH & Co. KG, Dritte Cleantech Infrastrukturgesellschaft mbH & Co. KG, Vierte Cleantech Infrastrukturgesellschaft mbH & Co. KG sowie Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

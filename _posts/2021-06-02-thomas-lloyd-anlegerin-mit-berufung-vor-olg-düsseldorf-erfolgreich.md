@@ -39,7 +39,7 @@ Gegen diese Entscheidung legte die Klägerin Berufung zum Oberlandesgericht Düs
 
 Das Berufungsgericht macht deutlich, dass die Entscheidung des Landgerichts Wuppertal einer rechtlichen Nachprüfung nicht standhalte.&nbsp;
 
-Die Klägerin habe einen Rückzahlungsanspruch gegen die Beklagte nach &sect; 241 Abs. 1 BGB in Verbindung mit &sect; 6 Abs. 4 der Genussrechtsbedingungen.&nbsp;
+Die Klägerin habe einen Rückzahlungsanspruch gegen die Beklagte nach § 241 Abs. 1 BGB in Verbindung mit § 6 Abs. 4 der Genussrechtsbedingungen.&nbsp;
 
 Dem Anspruch stehe auch nicht die zwischenzeitliche Verschmelzung mit der Beklagten entgegen, so das OLG Düsseldorf in seiner Entscheidung. Die Klägerin habe bereits im Jahr 2012 gekündigt. Die Beendigung der Beteiligung stand somit mit Ablauf des 31.12.2018 aufgrund der Gestaltungswirkung der Kündigung bereits fest, so dass die von der Klägerin gehaltenen Genussrechte nicht mehr an der von der Beklagten&nbsp; behaupteten Umwandlung teilnehmen konnten. Die Klägerin habe mit der Kündigung bereits eine gesicherte Rechtsposition erworben, deren Rechtsfolgen sich die Beklagte nicht einseitig durch Umstrukturierung entziehen konnte.&nbsp;
 
@@ -54,3 +54,5 @@ So haben bereits die Oberlandesgerichte Naumburg (zweifach), Dresden, Zweibrück
 Weitere Entscheidungen zu Gunsten von Anlegern der Oberlandesgerichte München und Frankfurt am Main werden erwartet.&nbsp;
 
 Anleger, die noch auf eine Auszahlung der CT Infrastructure Holding Ltd. oder deren für 2021 angekündigten Börsengang warten, sollten sich daher möglichst bald an einen Spezialisten im Bank- und Kapitalmarktrecht wenden, um ihre Ansprüche auf Rückzahlung prüfen zu lassen. Rechtsanwalt Dr. Sven Tintemann steht mit seinem Team aus der Kanzlei AdvoAdvice bei Rückfragen gerne mit fairem Rechtsrat und einer kostenfreien Ersteinschätzung hierfür zur Verfügung.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

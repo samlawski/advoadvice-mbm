@@ -45,7 +45,7 @@ Nach einer per Videokonferenz geführten Verhandlung&nbsp; änderte das Oberland
 
 Das Berufungsgericht macht deutlich, dass die Entscheidung des Landgerichts Wiesbaden einer rechtlichen Nachprüfung nicht standhalte.&nbsp;
 
-Der Kläger habe einen Rückzahlungsanspruch gegen die Beklagte nach &sect; 6 Abs. 4 der Genussrechtsbedingungen in Höhe von 12.000,00 Euro auf 100% des Nennbetrages abzüglich eines etwaigen Verlustanteils. Der Kläger könne aber auch einen Gewinnanteil, die Dividende, in Höhe von jeweils 766,35 Euro für jedes der beiden Genussrechte beanspruchen.&nbsp;
+Der Kläger habe einen Rückzahlungsanspruch gegen die Beklagte nach § 6 Abs. 4 der Genussrechtsbedingungen in Höhe von 12.000,00 Euro auf 100% des Nennbetrages abzüglich eines etwaigen Verlustanteils. Der Kläger könne aber auch einen Gewinnanteil, die Dividende, in Höhe von jeweils 766,35 Euro für jedes der beiden Genussrechte beanspruchen.&nbsp;
 
 Die Genussrechte seien wirksam zum 31.12.2017 unter Berücksichtigung der Mindestlaufzeit von zehn Jahren gekündigt worden. Durch die eingetretene Beendigung hätten sie auch nicht mehr an der Verschmelzung auf die Beklagte teilgenommen.&nbsp;
 
@@ -58,3 +58,5 @@ Mit der Entscheidung des Oberlandesgerichts Frankfurt am Main setzt sich eine Se
 So haben bereits die Oberlandesgerichte Naumburg (zweifach), Dresden, Zweibrücken (zweifach), Celle, Stuttgart, Düsseldorf und nunmehr Frankfurt am Main zu Gunsten von klagenden Anlegern entschieden.&nbsp;
 
 Anleger, die noch auf eine Auszahlung der CT Infrastructure Holding Ltd. oder deren für 2021 angekündigten Börsengang warten, sollten sich daher möglichst bald an einen Spezialisten im Bank- und Kapitalmarktrecht wenden, um ihre Ansprüche auf Rückzahlung prüfen zu lassen. Rechtsanwalt Dr. Sven Tintemann steht mit seinem Team aus der Kanzlei AdvoAdvice bei Rückfragen gerne mit fairem Rechtsrat und tatkräftiger Unterstützung an der Seite der betroffenen Anleger.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -27,16 +27,15 @@ topics:
   - thomas-lloyd-anlegergemeinschaft
 author: dr-sven-tintemann
 ---
-
 Erster gerichtlicher Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin gegen die CT Infrastructure Holding Ltd. (London) als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH (Wien).&nbsp;
 
 ### Landgericht Frankenthal verurteilt zur Rückzahlung an Anleger
 
 Das Landgericht Frankenthal hat in einer Entscheidung vom 19.02.2020 die CT Infrastructure Holding Ltd. (London) zur Zahlung an einen ehemaligen Anleger der Thomas Lloyd Investments GmbH (Wien) verurteilt.&nbsp;
 
-Der Kläger, der von der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin vertreten wurde, hatte seine Genussrechtsbeteiligung nach deren Umwandlung im Jahr 2019 au&szlig;erordentlich gekündigt und Rückzahlung seiner eingezahlten Anlagesumme gefordert. Dies mit Erfolg.&nbsp;
+Der Kläger, der von der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin vertreten wurde, hatte seine Genussrechtsbeteiligung nach deren Umwandlung im Jahr 2019 außerordentlich gekündigt und Rückzahlung seiner eingezahlten Anlagesumme gefordert. Dies mit Erfolg.&nbsp;
 
-Nach einer mündlichen Hauptverhandlung, welche Rechtsanwalt Dr. Sven Tintemann per Videokonferenz vom Amtsgericht Schöneberg aus mit dem Landgericht Frankenthal nach &sect; 128 a ZPO geführt hatte, entschied das Gericht zu Gunsten des klagenden Anlegers und verurteilte die Beklagte zur Zahlung von 12.000 Euro sowie zur Übernahme der Kosten des Prozesses.&nbsp;
+Nach einer mündlichen Hauptverhandlung, welche Rechtsanwalt Dr. Sven Tintemann per Videokonferenz vom Amtsgericht Schöneberg aus mit dem Landgericht Frankenthal nach § 128 a ZPO geführt hatte, entschied das Gericht zu Gunsten des klagenden Anlegers und verurteilte die Beklagte zur Zahlung von 12.000 Euro sowie zur Übernahme der Kosten des Prozesses.&nbsp;
 
 Die Entscheidung ist der erste Erfolg der Kanzlei AdvoAdvice &nbsp;gegen die CT Infrastructure Holding GmbH. Bereits zuvor hatten drei Anleger gegen die Gesellschaft Versäumnisurteile erstritten. Diese enthalten aber keine Entscheidungsgründe und sind nicht instanzbeendend.&nbsp;
 
@@ -48,4 +47,4 @@ Die Entscheidung kommentiert Rechtsanwalt Dr. Sven Tintemann, Fachanwalt für Ba
 
 Sind auch Sie Anleger der Thomas Lloyd Investments GmbH oder der DKM Global Opportunities Fonds 01 GmbH gewesen und suchen Sie Hilfe und Rechtsrat beim Kampf um Ihr Geld, dann informieren Sie sich über unsere Anlegergemeinschaft und rufen Sie uns unter 030 921 000 40 an oder schicken Sie ein Email an info@advoadvice.de.&nbsp;&nbsp;
 
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

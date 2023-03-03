@@ -32,7 +32,7 @@ Geklagt hat eine Erbengemeinschaft, deren Vater sich sowohl an der Dritte Cleant
 
 Beide Gesellschaften hatten in der Vergangenheit Ausschüttungen an die Anleger eingestellt und angekündigt, diese wahrscheinlich erst wieder im letzten Quartal 2022 aufzunehmen.&nbsp;
 
-Hiermit war die klagende Erbengemeinschaft nicht einverstanden. Daher kündigte sie die bestehenden Anlagen vom Typ CTI 5 D und CTI 9 D ordentlich und machten zudem Auskunftsansprüche auf Mitteilung der Namen und Anschriften der Mitgesellschafter geltend, um sich mit diesen Abstimmen und eine regelmä&szlig;ige Auszahlung verlangen zu können.&nbsp;
+Hiermit war die klagende Erbengemeinschaft nicht einverstanden. Daher kündigte sie die bestehenden Anlagen vom Typ CTI 5 D und CTI 9 D ordentlich und machten zudem Auskunftsansprüche auf Mitteilung der Namen und Anschriften der Mitgesellschafter geltend, um sich mit diesen Abstimmen und eine regelmäßige Auszahlung verlangen zu können.&nbsp;
 
 ## Auskunftsansprüche abgelehnt
 
@@ -48,4 +48,4 @@ Anleger, die sich bereits jetzt zur Abstimmung mit anderen Anlegern der Dritte C
 
 Auch eine kostenfreie Ersteinschätzung der eigenen Anlagesituation bietet die Kanzlei AdvoAdvice mit ihren Experten betroffenen Anlegern an. Diese wenden sich bei Bedarf gerne an info@advoadvice.de oder rufen unter 030 921 000 40 zur Vereinbarung eines Telefontermins an.&nbsp;
 
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

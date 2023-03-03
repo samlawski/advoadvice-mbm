@@ -24,8 +24,7 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
-Das Landgericht Traunstein hat einer Klage eines Anlegers der ehemaligen DKM Global Opportunities Fonds 01 GmbH zum Gro&szlig;teil stattgegeben und deren Rechtsnachfolgerin zum Schadensersatz in Höhe von 26.868,37 Euro verurteilt, Zug um Zug gegen Herausgabe von 26.868 Stammaktien B mit einem Nennwert von 0,001 Euro zur Registernummer SHRBGOF01082034.&nbsp;
+Das Landgericht Traunstein hat einer Klage eines Anlegers der ehemaligen DKM Global Opportunities Fonds 01 GmbH zum Großteil stattgegeben und deren Rechtsnachfolgerin zum Schadensersatz in Höhe von 26.868,37 Euro verurteilt, Zug um Zug gegen Herausgabe von 26.868 Stammaktien B mit einem Nennwert von 0,001 Euro zur Registernummer SHRBGOF01082034.&nbsp;
 
 ## Zum Sachverhalt
 
@@ -37,7 +36,7 @@ Die DKM erkannte die Kündigung zum 31.12.2020 an, mit der Bedingung, dass bis d
 
 Mit Schreiben vom Februar 2019 teilte die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH mit, dass diese mit ihr verschmolzen worden sei.&nbsp;
 
-Der Kläger kündigte daher seine Beteiligung au&szlig;erordentlich und fristlos. Diese Kündigung wies die Beklagte zurück.&nbsp;
+Der Kläger kündigte daher seine Beteiligung außerordentlich und fristlos. Diese Kündigung wies die Beklagte zurück.&nbsp;
 
 Der Kläger reichte daher Klage zum LG Traunstein ein und verlangte die Abrechnung der Anlage nach erfolgter Kündigung sowie Schadensersatz.&nbsp;
 
@@ -60,3 +59,5 @@ Die Entscheidung ist juristisch interessant, da das Landgericht Traunstein erstm
 Das Gericht ist hier der Argumentation der Kanzlei AdvoAdvice Rechtsanwälte gefolgt, indem es bestätigt hat, dass der atypisch stille Beteiligte als Anleger vor der Umwandlung zu dieser gehört und um Zustimmung nach den Regelungen des Gesellschaftsvertrages gehört werden musste. Da dies vor Umwandlung nicht erfolgt ist, hat das Gericht dem Anleger nun einen Schadensersatzanspruch zugebilligt.&nbsp;
 
 Die Kanzlei AdvoAdvice wird weiter über den Verlauf der Angelegenheit berichten.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -48,11 +48,11 @@ Viele Anleger warten seit Ende 2020 auf Auszahlungen, bespielsweise aus dem Vert
 
 Begründet wird dies seitens der Gesellschaft damit, dass zwar die Vertragslaufzeiten beendet seien, aber aufgrund der damalig bei Zeichnung der Anlagen vereinbarten Genussrechtsbedingungen hier eine Fälligkeit, also eine Pflicht zum Auszahlen angeblich nicht bestehe. Hintergrund sei, dass es der Vierten Cleantech Infrastrukturgesellschaft an Liquidität fehle. Schuld sei die COVID-19-Pandemie.
 
-Gemä&szlig; der Genussrechtsbedingungen sei ein Rückzahlungsanspruch "unter Berücksichtigung der aktuellen Liquiditätslage der Beteiligungsgesellschaft zur Zahlung fällig". So lange für die Bedienung der der Rückzahlungsansprüche im Portfolio der Beteiligungsgesellschaft allerdings keine ausreichende Liquidität vorhanden sei, würden jedoch Rückzahlungsansprüche nicht fällig. Und eben diese erforderliche ausreichende Liquidität sei der VCI noch nicht zugeflossen aus dem Verkauf bzw. der Refinanzierung einzelner Infrastrukturprojekte. Entsprechende Schritte zur Liquiditätsbeschaffung "seien eingeleitet".&nbsp; "Corona" sorge nun dafür, dass es hier Verzögerungen gebe.
+Gemäß der Genussrechtsbedingungen sei ein Rückzahlungsanspruch "unter Berücksichtigung der aktuellen Liquiditätslage der Beteiligungsgesellschaft zur Zahlung fällig". So lange für die Bedienung der der Rückzahlungsansprüche im Portfolio der Beteiligungsgesellschaft allerdings keine ausreichende Liquidität vorhanden sei, würden jedoch Rückzahlungsansprüche nicht fällig. Und eben diese erforderliche ausreichende Liquidität sei der VCI noch nicht zugeflossen aus dem Verkauf bzw. der Refinanzierung einzelner Infrastrukturprojekte. Entsprechende Schritte zur Liquiditätsbeschaffung "seien eingeleitet".&nbsp; "Corona" sorge nun dafür, dass es hier Verzögerungen gebe.
 
 ## Corona ist an allem schuld. Kann man glauben, muss man nicht.
 
-Viele Anleger wollen sich nicht mehr vertrösten lassen und glauben nicht daran, dass "Corona" jetzt der wahre Grund für Auszahlungsverzögerungen bei der VCI ist. Seit Frühjahr 2020 hält die Covid-19-Pandemie die Welt in Atem. Es ist aber nicht so, dass seitdem weltweit keine Veräu&szlig;erungen oder Refinanzierungen von einzelnen Vermögenswerten mehr stattfinden können. Glaubhafte Darstellungen bezogen auf konkrete betroffene Infrastrukturprojekte oder gar Beweise dafür, dass es "Verzögerungen" bei den "angesto&szlig;enen Transaktionen" bei der der Vierten Infrastrukturgesellschaft mbH gibt, legt die Gesellschaft in ihrem Schreiben von Mitte Januar 2022 nicht vor.
+Viele Anleger wollen sich nicht mehr vertrösten lassen und glauben nicht daran, dass "Corona" jetzt der wahre Grund für Auszahlungsverzögerungen bei der VCI ist. Seit Frühjahr 2020 hält die Covid-19-Pandemie die Welt in Atem. Es ist aber nicht so, dass seitdem weltweit keine Veräußerungen oder Refinanzierungen von einzelnen Vermögenswerten mehr stattfinden können. Glaubhafte Darstellungen bezogen auf konkrete betroffene Infrastrukturprojekte oder gar Beweise dafür, dass es "Verzögerungen" bei den "angestoßenen Transaktionen" bei der der Vierten Infrastrukturgesellschaft mbH gibt, legt die Gesellschaft in ihrem Schreiben von Mitte Januar 2022 nicht vor.
 
 ## Anleger sollen warten und hoffen.
 
@@ -60,7 +60,7 @@ Damit wird praktisch der betroffene Anleger zu einem passiven Hoffen und Warten 
 
 Der Vierten Cleantech Infrastrukturgesellschaft ist die Anzahl der gezeichneten Verträge der Anleger samt Laufzeit und jeweiliger Investition bekannt. Ein Anleger kann erwarten, dass sich sein Vertragspartner vertragstreu verhält und insbesondere Vorsorge dafür trifft, dass Auszahlungen rechtzeitig und vollständig erfolgen. Geschieht das nicht, auch in Ansehung eine globalen Pandemie, so erwachsen Anlegern Ansprüche auf Schadenersatz, sofern fällige Auszahlungen schuldhaft nicht erfolgen. Für das Vorhandensein angeblicher Liquiditätsengpässe aufgrund vermeintlich wegen der Corona-Pandemie nicht möglicher Verkäufe oder Refinanzierungen einzelner Infrastrukturprojekte trägt die VCI die Beweislast.&nbsp;
 
-Ist nach Ansicht der Vierte Cleantech Infrastrukturgesellschaft mbH der Rückzahlungsanspruch der Anleger wirklich noch nicht fällig? Besorgte Anleger stellen uns häufig die Frage, ob die eigene Interpretation der VCI und von dieser etwaig selbstverschuldete Auszahlungshindernisse nicht eine unzulässige Verhinderung des Eintritts einer Fälligkeit sein könnten. Lasen Sie sich nicht hinhalten. Stellen Sie Fragen\!
+Ist nach Ansicht der Vierte Cleantech Infrastrukturgesellschaft mbH der Rückzahlungsanspruch der Anleger wirklich noch nicht fällig? Besorgte Anleger stellen uns häufig die Frage, ob die eigene Interpretation der VCI und von dieser etwaig selbstverschuldete Auszahlungshindernisse nicht eine unzulässige Verhinderung des Eintritts einer Fälligkeit sein könnten. Lasen Sie sich nicht hinhalten. Stellen Sie Fragen!
 
 ## Was ist Anlegern zu raten? Haben Sie Fragen?
 
@@ -79,3 +79,5 @@ Unsere Anlegergemeinschaft bündelt die Interessen und sorgt für eine Wissensko
 Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmitteln. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind für uns selbstverständlich.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbar erste Einschätzung in der wir auch besprechen können, ob eine anwaltliche Begleitung erfolgversprechend und vor allem für sie wirtschaftlich sinnvoll wäre.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

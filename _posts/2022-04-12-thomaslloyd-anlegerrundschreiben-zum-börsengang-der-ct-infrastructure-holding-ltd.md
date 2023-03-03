@@ -45,7 +45,7 @@ sowie
 
 Besonders interessant, aber auch verwirrend ist folgende Aussage:&nbsp;
 
-*"Die gute Nachricht für Sie: Als Aktionär der CTIH, die direkt an der TLG beteiligt ist, sollten auch Sie sichtbar an dieser Entwicklung partizipieren, sobald der Börsengang vollzogen und eine erste Kursnotierung erfolgt ist. Ab diesem Zeitpunkt steht es Ihnen offen, Ihre Aktien entweder zum aktuellen Tageskurs zu veräu&szlig;ern oder darauf zu vertrauen, dass sich durch ein Halten der Aktien bei positiver Kursentwicklung ein höheres Ergebnis erzielen lässt."*
+*"Die gute Nachricht für Sie: Als Aktionär der CTIH, die direkt an der TLG beteiligt ist, sollten auch Sie sichtbar an dieser Entwicklung partizipieren, sobald der Börsengang vollzogen und eine erste Kursnotierung erfolgt ist. Ab diesem Zeitpunkt steht es Ihnen offen, Ihre Aktien entweder zum aktuellen Tageskurs zu veräußern oder darauf zu vertrauen, dass sich durch ein Halten der Aktien bei positiver Kursentwicklung ein höheres Ergebnis erzielen lässt."*
 
 Zum Börsengang der TLG wird nunmehr angekündigt, dass dieser in den beiden vergangenen Jahren bereits weitgehend abgeschlossen werden konnte, so dass derzeit auf eine Erstnotierung im 4. Quartal 2022 bzw. im 1. Quartal 2023 hingearbeitet werde.&nbsp;
 
@@ -69,7 +69,7 @@ Auch ist unklar, welche Anlagelösungen der TLG mit dunkelgrün eingestuft wurde
 
 In dem Anlegerrundschreiben der CTIH aus Februar 2019 wurde der Börsengang innerhalb von drei Jahren, also bis spätestens jetzt angekündigt. Dieser ist nicht erfolgt. Jetzt werden die Anleger erneut auf einen eher ungewissen Zeitpunkt vertröstet.&nbsp;
 
-Au&szlig;erdem sind die Anleger der CTIH nicht direkte Anleger der TLG und somit auch nicht deren Aktionäre. Es ist völlig unklar, wieso die Anleger daher von einem Börsengang der TLG profitieren können und wie sie ihre Aktien (sog. B-Shares) an der CTIH zum tagesaktuellen Kurs veräu&szlig;ern sollen, wenn diese gar nicht an einer Börse notiert sind, sondern die Aktien der TLG?
+Außerdem sind die Anleger der CTIH nicht direkte Anleger der TLG und somit auch nicht deren Aktionäre. Es ist völlig unklar, wieso die Anleger daher von einem Börsengang der TLG profitieren können und wie sie ihre Aktien (sog. B-Shares) an der CTIH zum tagesaktuellen Kurs veräußern sollen, wenn diese gar nicht an einer Börse notiert sind, sondern die Aktien der TLG?
 
 ## Was empfehlen wir unseren Anlegern?
 
@@ -77,7 +77,7 @@ Die Anlegerinformation der CT Infrastructure Holding Limited hilft den Anlegern 
 
 Das Schreiben stellt eine Art Beruhigungspille für die Anleger dar. Es soll Sicherheit suggerieren und Hoffnung geben, dass die Anleger, die teilweise schon seit Jahren auf ihr Geld warten, bald von einem Börsengang der ThomasLloyd Group Limited profitieren.&nbsp;
 
-Da es vollkommen unklar bleibt, wieso die Anleger der CT Infrastructure Holding Ltd. nach einem Börsengang der TLG ihre B-Shares veräu&szlig;ern können sollen und wann bzw. ob überhaupt ein Börsengang kommt, sollten die Anleger weiterhin über eine Klage auf Rückzahlung und Schadensersatz nachdenken.&nbsp;
+Da es vollkommen unklar bleibt, wieso die Anleger der CT Infrastructure Holding Ltd. nach einem Börsengang der TLG ihre B-Shares veräußern können sollen und wann bzw. ob überhaupt ein Börsengang kommt, sollten die Anleger weiterhin über eine Klage auf Rückzahlung und Schadensersatz nachdenken.&nbsp;
 
 Da mögliche Schadensersatzansprüche zum Ablauf des 31.12.2022 verjähren könnten, sollten sich die Anleger daher nicht auf einen Börsengang zum Ende 2022 bzw. im Jahr 2023 vertrösten lassen, sondern sich jetzt kompetenten anwaltlichen Rat suchen.&nbsp;
 
@@ -92,3 +92,5 @@ Der Bundesgerichtshof (BGH) hat erst kürzlich eine Nichtzulassungsbeschwerde de
 Dr. Sven Tintemann ist seit 2006 in dem Rechtsgebiet des Bank- und Kapitalmarktrechts tätig und seit 2011 als Fachanwalt für Bank- und Kapitalmarktrecht zugelassen.&nbsp;
 
 Wenden Sie sich bei Rückfragen oder Interesse an einer kostenfreien Ersteinschätzung zu Ihrer Anlage gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

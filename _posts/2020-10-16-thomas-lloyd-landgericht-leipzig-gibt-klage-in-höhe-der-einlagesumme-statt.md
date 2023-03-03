@@ -29,12 +29,11 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Leipzig hat einer Klage eines Anlegers gegen die CT Infrastructure Holding Ltd. in erster Instanz stattgegeben und die Beklagte zur Zahlung an den Anleger in Höhe von 5. 562,00 Euro verurteilt.&nbsp;
 
-## Recht zur au&szlig;erordentlichen Kündigung
+## Recht zur außerordentlichen Kündigung
 
-Hierbei sah das Gericht den Kläger zur au&szlig;erordentlichen und fristlosen Kündigung seiner Anlage in Genussrechte der Thomas Lloyd Investments GmbH (ehemals mit Sitz in Wien) an. Dies begründete das Gericht damit, dass die durch Umwandlung der Genussrechte erhaltenen Aktien der englischen CT Infrastructure Holding Ltd. nicht gleichwertig in Sinne von &sect; 8 Abs. 2 der Genussrechts-Bedingungen seien.&nbsp;
+Hierbei sah das Gericht den Kläger zur außerordentlichen und fristlosen Kündigung seiner Anlage in Genussrechte der Thomas Lloyd Investments GmbH (ehemals mit Sitz in Wien) an. Dies begründete das Gericht damit, dass die durch Umwandlung der Genussrechte erhaltenen Aktien der englischen CT Infrastructure Holding Ltd. nicht gleichwertig in Sinne von § 8 Abs. 2 der Genussrechts-Bedingungen seien.&nbsp;
 
 ## Urteil auf Rückzahlung des Anlagebetrags&nbsp;
 
@@ -49,3 +48,5 @@ Die Entscheidung ist noch nicht rechtkräftig und kann mit dem Rechtsmittel der 
 Die Kanzlei AdvoAdvice empfiehlt Anlegern wegen der noch unklaren Situation aufgrund des Brexit, sich zeitnah um die gerichtliche Geltendmachung von Ansprüchen zu kümmern, damit Klagen in England noch in diesem Jahr zugestellt werden können.&nbsp;
 
 Wenden Sie sich bei Rückfragen gerne an Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann. Er steht Ihnen mit seinem Team in allen Fragen zur Anspruchsdurchsetzung zur Verfügung. Nutzen Sie hierzu die Rufnummer 030 921 000 40 oder die Emailadresse info@advoadvice.de.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

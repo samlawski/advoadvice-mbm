@@ -29,7 +29,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Rostock hat die CT Infrastructure Holding Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH zur Zahlung von 9.600 Euro verurteilt.&nbsp;
 
 ## Klage nach Kündigung zum 31.12.2018 eingereicht
@@ -40,7 +39,7 @@ Eine Rückzahlung hatte die Beklagte zuvor abgelehnt, mit den Argumenten, dass z
 
 ## Landgericht Rostock gibt Rückzahlungsanspruch statt
 
-Das Landgericht Rostock gab dem klagenden Anleger zum Gro&szlig;teil Recht und verurteilte die Beklagte zur Zahlung des Anlagebetrages in Höhe von 9.600 Euro.
+Das Landgericht Rostock gab dem klagenden Anleger zum Großteil Recht und verurteilte die Beklagte zur Zahlung des Anlagebetrages in Höhe von 9.600 Euro.
 
 Das Gericht begründete seine Entscheidung u.a. damit, dass die Beklagte ihren Vortrag zur Abwertung der Beteiligung nicht hinreichend begründet und nachvollziehbar gemacht hätte.&nbsp;
 
@@ -59,3 +58,5 @@ Die Kanzlei AdvoAdvice wird über den weiteren Prozessverlauf weiterhin berichte
 Mittlerweile gestaltet sich durch die Rechtsprechung der Landgerichte und des Oberlandesgerichts Naumburg eine gefestigte Rechtsprechung zu Gunsten der klagenden Anleger.&nbsp;
 
 Rechtsanwalt Dr. Sven Tintemann und sein Team stehen Anlegern weiterhin gerne mit fairem Rechtsrat zu Anlagen aus der Thomas Lloyd Gruppe zur Verfügung.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

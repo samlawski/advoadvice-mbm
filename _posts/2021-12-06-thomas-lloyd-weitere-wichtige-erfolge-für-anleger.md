@@ -108,3 +108,5 @@ Mit den Entscheidungen des Oberlandesgerichts Naumburg und des Landgericht Augsb
 Anleger, die noch auf eine Auszahlung der CT Infrastructure Holding Ltd. oder deren für 2021 angekündigten Börsengang warten, sollten sich daher möglichst bald an einen Spezialisten im Bank- und Kapitalmarktrecht wenden, um ihre Ansprüche auf Rückzahlung prüfen zu lassen.
 
 Rechtsanwalt Dr. Sven Tintemann hat bereits weit mehr als 100 Klagen gegen die CT Infrastructure Holding Limited eingereicht und steht mit seinem Team aus der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB bei Rückfragen gerne mit fairem Rechtsrat und einer kostenfreien Ersteinschätzung hierfür zur Verfügung.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

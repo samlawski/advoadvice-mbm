@@ -27,7 +27,6 @@ topics:
   - anlegerschutz
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Bochum hat nach einer mündlichen Verhandlung vom 07.09.2020 einem Anleger der DKM Global Opportunities Fonds 01 GmbH einen Auszahlungsanspruch gegen deren Rechtsnachfolgerin CT Infrastructure Holding Limited in Höhe von 9.538,56 Euro zugesprochen.
 
 ## Hintergrund der Klage
@@ -42,7 +41,7 @@ Die Kläger reichte daher Klage in Höhe von 10.041,83 Euro zum Landgericht Boch
 
 ## Landgericht Bochum verurteilt zur Zahlung
 
-Das Landgericht Bochum verurteilte nunmehr die Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH zur Zahlung von 9.538,36 € zuzüglich Zinsen seit dem 24.5.2019 und zur Übernahme von au&szlig;ergerichtlich entstandenen Rechtsanwaltskosten.
+Das Landgericht Bochum verurteilte nunmehr die Rechtsnachfolgerin der DKM Global Opportunities Fonds 01 GmbH zur Zahlung von 9.538,36 € zuzüglich Zinsen seit dem 24.5.2019 und zur Übernahme von außergerichtlich entstandenen Rechtsanwaltskosten.
 
 Das Gericht schätzte hierbei das Auseinandersetzungsguthaben und wandte hierbei die Zahlen an, die für die Jahre 2016 und 2018 vom Kläger vorgelegt worden waren.&nbsp;
 
@@ -57,3 +56,5 @@ Auch eine fehlende Abrechnung führt nicht dazu, dass die Gerichte die Sache nic
 Die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin eröffnet zurzeit die zweite Klagewelle gegen die CT Infrastructure Holding Limited durch. Hatten bisher meist nur rechtsschutzversicherte Anleger Klagen eingereicht, ist jetzt eine hohe Zahl an Anlegern festzustellen, die auch ohne Rechtsschutzversicherung auf eigene Kosten Klagen einreichen. Rechtsanwalt Dr. Sven Tintemann rechnet damit, noch vor dem Jahresende die insgesamt 100. Klage gegen die CT Infrastructure Holding Limited einreichen zu können.&nbsp;
 
 Anleger, die Fragen zu ihrer Anlage oder einer Klage und deren Erfolgsaussichten haben, können sich gerne an Rechtsanwalt Dr. Sven Tintemann und sein Team wenden.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

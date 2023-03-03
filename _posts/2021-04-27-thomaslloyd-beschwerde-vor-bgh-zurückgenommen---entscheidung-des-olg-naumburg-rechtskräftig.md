@@ -41,7 +41,7 @@ Nach Vertragskündigung hatte sich deren Rechtsnachfolgerin CT Infrastructure Ho
 
 Es wurde daher durch die Kanzlei AdvoAdvice Klage zu LG Stendal eingereicht. Diese hatte auch erstinstanzlich Erfolg ([wir berichteten](/blog/thomas-lloyd-zweites-urteil-f%C3%BCr-anleger-erstritten/)).&nbsp;
 
-Die Berufung der Beklagten gegen die Entscheidung hatte nur geringen Erfolg. Die erstinstanzliche Entscheidung wurde durch das OLG leicht abgeändert, im Gro&szlig;teil aber bestätigt ([auch hierüber haben wir berichtet](/blog/thomas-lloyd-olg-naumburg-verurteilt-ct-infrastructure-holding-ltd-zur-zahlung/)).&nbsp;
+Die Berufung der Beklagten gegen die Entscheidung hatte nur geringen Erfolg. Die erstinstanzliche Entscheidung wurde durch das OLG leicht abgeändert, im Großteil aber bestätigt ([auch hierüber haben wir berichtet](/blog/thomas-lloyd-olg-naumburg-verurteilt-ct-infrastructure-holding-ltd-zur-zahlung/)).&nbsp;
 
 Die Revision zum Bundesgerichtshof wurde durch das OLG Naumburg nicht zugelassen.&nbsp;
 
@@ -57,14 +57,10 @@ Die Beschwerde vor dem BGH wurde daher von der Beklagten zurückgenommen, mit de
 
 Rechtsanwalt Dr. Sven Tintemann, der das Verfahren von Beginn an begleitet hat, freut sich über den Abschluss der Angelegenheit und kommentiert dies wie folgt:&nbsp;
 
-"Wir freuen uns, für den Kläger und dessen Ehefrau die bei uns erste rechtskräftige Entscheidung erstritten zu haben. Diese setzt auch Ma&szlig;stäbe für weitere Verfahren. Bereits mehrere andere Oberlandesgerichte sind in ihren Urteilen der Entscheidung gefolgt, so dass man von einer gefestigten Rechtsprechung zu Gunsten der Anleger sprechen kann. Warum die Beklagte hier den Schritt zum Bundesgerichtshof gegangen ist, ist für uns nicht ersichtlich, da die Nichtzulassungsbeschwerde keine Aussicht auf Erfolg hatte. Vielleicht sollte hier nur Zeit gewonnen werden. Jetzt ist das erste Urteil bei uns aber rechtskräftig und damit auch eine Zahlung an den Kläger fällig."
+"Wir freuen uns, für den Kläger und dessen Ehefrau die bei uns erste rechtskräftige Entscheidung erstritten zu haben. Diese setzt auch Maßstäbe für weitere Verfahren. Bereits mehrere andere Oberlandesgerichte sind in ihren Urteilen der Entscheidung gefolgt, so dass man von einer gefestigten Rechtsprechung zu Gunsten der Anleger sprechen kann. Warum die Beklagte hier den Schritt zum Bundesgerichtshof gegangen ist, ist für uns nicht ersichtlich, da die Nichtzulassungsbeschwerde keine Aussicht auf Erfolg hatte. Vielleicht sollte hier nur Zeit gewonnen werden. Jetzt ist das erste Urteil bei uns aber rechtskräftig und damit auch eine Zahlung an den Kläger fällig."
 
 Betroffene Anlegerinnen und Anleger können sich weiterhin gerne an die Kanzlei AdvoAdvice Rechtsanwälte mbB wenden.&nbsp;
 
 **Bildnachweis:**<br>[Bundesgerichtshof - Hof des Nordgebäudes](https://www.bundesgerichtshof.de/DE/Presse/Pressefotos/pressefotos_node.html;jsessionid=8884067C2A3400BD5BA516293FD49595.1_cid294){: target="_blank" rel="noopener"}<br>(Foto von Stephan Baumann)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

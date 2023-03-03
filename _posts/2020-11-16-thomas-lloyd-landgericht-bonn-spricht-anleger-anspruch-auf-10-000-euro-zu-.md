@@ -27,7 +27,6 @@ topics:
   - anlegerschutz
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Bonn hat nach einer mündlichen Verhandlung vom 13. Oktober 2020 einer Anlegerin der Thomas Lloyd Investments GmbH einen Auszahlungsanspruch gegen deren Rechtsnachfolgerin CT Infrastructure Holding Limited zugesprochen.
 
 ## Hintergrund der Klage
@@ -42,7 +41,7 @@ Die Klägerin forderte mit Anwaltsschreiben vom 9.5.2019 die Auszahlung von 10.5
 
 ## Landgericht Bonn verurteilt zur Zahlung
 
-Das Landgericht Bonn verurteilte nunmehr die Rechtsnachfolgerin der Thomas Lloyd Investments GmbH zur Zahlung von 10.000€ zuzüglich Zinsen seit dem 25.5.2019 und zur Übernahme von au&szlig;ergerichtlich entstandenen Rechtsanwaltskosten. Einen darüber hinausgehenden Anspruch auf Gewinne in Höhe von 586, 21€ sprach das Gericht nicht zu.
+Das Landgericht Bonn verurteilte nunmehr die Rechtsnachfolgerin der Thomas Lloyd Investments GmbH zur Zahlung von 10.000€ zuzüglich Zinsen seit dem 25.5.2019 und zur Übernahme von außergerichtlich entstandenen Rechtsanwaltskosten. Einen darüber hinausgehenden Anspruch auf Gewinne in Höhe von 586, 21€ sprach das Gericht nicht zu.
 
 Die Entscheidung ist noch nicht rechtskräftig, da die Gegenseite das Rechtsmittel der Berufung einlegen kann.
 
@@ -53,3 +52,5 @@ Die Entscheidung des LG Bonn reiht sich in eine Reihe weiterer Entscheidungen ei
 Die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin reicht zurzeit weitere Klagen von Anlegern gegen die CT Infrastructure Holding Limited ein, damit diese noch in diesem Jahr in England zugestellt werden können.
 
 Anleger, die Fragen zu ihrer Anlage oder einer Klage und deren Erfolgsaussichten haben, können sich gerne an Rechtsanwalt Dr. Sven Tintemann und sein Team wenden.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

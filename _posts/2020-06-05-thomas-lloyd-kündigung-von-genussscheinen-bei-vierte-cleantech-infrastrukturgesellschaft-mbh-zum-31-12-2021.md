@@ -25,7 +25,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Bei der Kanzlei AdvoAdvice aus Berlin melden sich Anleger der Thomas Lloyd Private Wealth AG, um sich nach ihren rechtlichen Möglichkeiten zu erkundigen.&nbsp;
 
 ## Inhaber-Genussscheine mit Verlustteilnahme
@@ -44,12 +43,12 @@ Anleger fragen nunmehr bei AdvoAdvice, ob sie aus der Anlage aussteigen können.
 
 Anleger sollten daher prüfen lassen, ob eine Kündigung noch bis zum Jahresende ausgesprochen werden sollte und für den jeweiligen Genussscheininhaber sinnvoll und ratsam ist.&nbsp;
 
-## Au&szlig;erordentliche Kündigung möglich?
+## Außerordentliche Kündigung möglich?
 
-Zu prüfen sein könnte zudem auch noch die Möglichkeit einer au&szlig;erordentlichen und fristlosen Kündigung wegen der Verschmelzung der ursprünglichen Anlagegesellschaft auf die jetzige übernehmende Vierte Cleantech Infrastrukturgesellschaft mbH. Hier macht ein noch nicht rechtskräftiges Urteil des Landgerichts Frankenthal in ähnlicher Sache Mut. Dieses hatte einem Anleger in Genussrechte der Thomas Lloyd Investments GmbH ein Sonderkündigungsrecht zugesprochen, nachdem diese auf eine englische Limited verschmolzen worden war.&nbsp;
+Zu prüfen sein könnte zudem auch noch die Möglichkeit einer außerordentlichen und fristlosen Kündigung wegen der Verschmelzung der ursprünglichen Anlagegesellschaft auf die jetzige übernehmende Vierte Cleantech Infrastrukturgesellschaft mbH. Hier macht ein noch nicht rechtskräftiges Urteil des Landgerichts Frankenthal in ähnlicher Sache Mut. Dieses hatte einem Anleger in Genussrechte der Thomas Lloyd Investments GmbH ein Sonderkündigungsrecht zugesprochen, nachdem diese auf eine englische Limited verschmolzen worden war.&nbsp;
 
 ## Rat vom Fachanwalt einholen
 
 Interessierte Anlegern sollten sich hier jedenfalls rechtzeitig bei einem Fachanwalt für Bank- und Kapitalmarktrecht informieren und die Entwicklung der Kapitalanlage im Auge behalten. Die Kanzlei AdvoAdvice berät bereits zahlreiche Anleger der Thomas Lloyd Gruppe und steht Ihnen unter 030 921 000 40 oder per Email unter info@advoadvice.de zur Verfügung.&nbsp;&nbsp;
 
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

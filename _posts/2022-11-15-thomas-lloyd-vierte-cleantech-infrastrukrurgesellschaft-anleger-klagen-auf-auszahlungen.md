@@ -31,7 +31,7 @@ Die von den Anlegern bei der Geldanlage gezeichneten verbrieften Genussscheine w
 
 Bereits im Februar 2019 gründete die Berliner Kanzlei AdvoAdvice Rechtsanwälte mbB die Anlegergemeinschaft Thomas Lloyd, um Anlegern der Thomas Lloyd Gruppe die Möglichkeit zu geben, sich gemeinsam in Bezug auf die Verschmelzung der Anlagegesellschaften und die Umwandlung der Anlagen zu formieren.
 
-Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Au&szlig;erdem wurden eine Vielzahl von Klagen gegen verschiedene Gesellschaften an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
+Seitdem haben sich hunderte Anleger unserer Anlegergemeinschaft angeschlossen. Außerdem wurden eine Vielzahl von Klagen gegen verschiedene Gesellschaften an verschiedenen Amtsgerichten und Landgerichten sowie Oberlandesgerichten bis hinauf zum Bundesgerichtshof (BGH) in Deutschland durchgestritten und für viele Anleger erfolgreich Prozesse geführt sowie Rückzahlungen realisiert.
 
 ## Anleger werden weiterhin vertröstet
 
@@ -51,12 +51,14 @@ Die an die Anleger gesendeten Mitteilungen der Gesellschaft schildern wortreich 
 
 ## Anleger wollen sich nicht&nbsp; hinhalten lassen, sondern handeln.
 
-Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermä&szlig;ig hinhalten zu lassen und ihre Rechtsansprüche prüfen zu lassen.
+Anlegern ist also zu raten, sich daher mit einer Rückzahlung nicht übermäßig hinhalten zu lassen und ihre Rechtsansprüche prüfen zu lassen.
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB in Berlin haben in Mandaten bezüglich der Thomas Lloyd Gruppe bereits eine Vielzahl von Anlegern erfolgreich gerichtlich vertreten. Wir stehen Ihnen als Anleger mit Rat und Tat gerne zur Seite und sind auch jederzeit persönlich für Sie da. Wir verfügen aufgrund unserer langjährigen Praxis über eine umfassende Expertise im Bank- und Kapitalmarktrecht und beraten Anleger im Rahmen von Beratungsfehlern und weiteren Pflichtverletzungen seitens Emittenten von Vermögensanlagen.
 
-## Ansprüche jetzt geltend machen und durchsetzen\!&nbsp;
+## Ansprüche jetzt geltend machen und durchsetzen!&nbsp;
 
-Schlie&szlig;en Sie sich gerne unserer Anlegergemeinschaft Vierte Cleantech Infrastrukturgesellschaft an. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
+Schließen Sie sich gerne unserer Anlegergemeinschaft Vierte Cleantech Infrastrukturgesellschaft an. Wir führen unsere Mandate ortsunabhängig mit modernsten Kommunikationsmittel. Persönlicher Kontakt zu unseren Mandanten und eine gute Erreichbarkeit sind wir uns selbstverständlich.
 
 Wir freuen uns auf Ihre Kontaktaufnahme und geben Ihnen gerne eine kostenfreie, verständliche und für Sie nachvollziehbare Ersteinschätzung, damit sie wissen, wo sie rechtlich stehen. Dann können wir gemeinsam entscheiden, ob und wie eine anwaltliche Begleitung erfolgversprechend und vor allem für Sie wirtschaftlich sinnvoll wäre.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

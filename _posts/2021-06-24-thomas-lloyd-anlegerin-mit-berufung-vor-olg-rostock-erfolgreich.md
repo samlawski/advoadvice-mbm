@@ -58,3 +58,5 @@ So haben bereits die Oberlandesgerichte Naumburg (zweifach), Dresden, Zweibrück
 Weitere Entscheidung zu Gunsten von Anlegern des&nbsp; Oberlandesgerichts&nbsp; Bremen wird in Kürze erwartet.
 
 Anleger, die noch auf eine Auszahlung der CT Infrastructure Holding Ltd. oder deren für das Jahr 2021 angekündigten Börsengang warten, sollten sich daher möglichst bald an einen Spezialisten im Bank- und Kapitalmarktrecht wenden, um ihre Ansprüche auf Rückzahlung prüfen zu lassen. Rechtsanwalt Dr. Sven Tintemann steht betroffenen Anlegern hierzu gerne mit seinem Team aus der Kanzlei AdvoAdvice bei Rückfragen mit fairem Rechtsrat und einer kostenfreien Ersteinschätzung&nbsp; zur Verfügung. &nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

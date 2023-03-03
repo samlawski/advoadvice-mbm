@@ -65,3 +65,5 @@ Bei der Abrechnung dürften auch stille Reserven und der sog. Good-Will zu berü
 Anlegern, die an Ihrer Kündigung festgehalten haben oder für die Zukunft über einen Ausstieg aus ihren Anlagen bei der Zweite Cleantech Infrastrukturgesellschaft mbH&nbsp; Co. KG oder bei der Dritte Cleantech Infrastrukturgesellschaft mbH&nbsp; Co. KG nachdenken, ist in jedem Fall anzuraten, sich fachkundigen Rechtsrat bei einem Fachanwalt für Bank- und Kapitalmarktrecht einzuholen.&nbsp;
 
 Die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin vertritt zahlreiche Anleger, die sich bereits formlos in der Anlegergemeinschaft Cleantech zusammengeschlossen haben. Sie erreichen unseren Experten Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann unter der Telefonnummer 030 921 000 40 und können dort einen Termin für eine kostenfreie telefonische Ersteinschätzung vereinbaren. Gerne können Sie uns Ihre Anfrage auch per Email übersenden und zwar an info@advoadvice.de.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -61,3 +61,5 @@ Die Entscheidung zeigt aber mehr als deutlich eine Tendenz bei den Gerichten auf
 Von weiteren Entscheidungen der Oberlandesgerichte Naumburg und Zweibrücken wird demnächst ebenso zu berichten sein, wie von Entscheidungen des Landgericht Leipzig und des Landgerichts Magdeburg.&nbsp;
 
 Die Anlegergemeinschaft Thomas Lloyd, welche von Rechtsanwalt Dr. Sven Tintemann geführt wird, verzeichnet momentan sehr viele Prozesserfolge. Bei Rückfragen zu Anlagen bei der Thomas Lloyd Gruppe erreichen Sie die Kanzlei AdvoAdvice unter 030 921 000 40 oder per Email unter info@advoadvice.de.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

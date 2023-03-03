@@ -41,9 +41,9 @@ Die Genussrechtsbeteiligung hatte die Anlegerin mit Schreiben aus 2016 zum näch
 
 Im Februar 2019 erhielt die Klägerin ein Schreiben, in dem sie über die Verschmelzung der ThomasLloyd mit der CT Infrastructure Holding Ltd. &nbsp;sowie die Umwandlung der Anlageform in Aktien der nunmehr beklagten Limited informiert wurde und darüber, dass sie nunmehr Aktionärin an der CT Infrastruture Holding Ltd. geworden sei.
 
-Die betroffene Anlegerin wandte sich daher an die Kanzlei AdvoAdvice Rechtsanwälte in Berlin und forderte die CT Infrastructure Holding Limited zur Rückzahlung in Höhe des im Schreiben vom Februar 2019 angegebenen rechnerischen Wertes der Beteiligung auf und kündigte zudem die Beteiligung au&szlig;erordentlich und fristlos. Als diese eine Rückzahlung ablehnte, erhob die Anlegerin Klage beim Landgericht Aurich. Hierzu führte das Gericht in seinem Urteil aus:
+Die betroffene Anlegerin wandte sich daher an die Kanzlei AdvoAdvice Rechtsanwälte in Berlin und forderte die CT Infrastructure Holding Limited zur Rückzahlung in Höhe des im Schreiben vom Februar 2019 angegebenen rechnerischen Wertes der Beteiligung auf und kündigte zudem die Beteiligung außerordentlich und fristlos. Als diese eine Rückzahlung ablehnte, erhob die Anlegerin Klage beim Landgericht Aurich. Hierzu führte das Gericht in seinem Urteil aus:
 
-*„Der Klägerin steht ein Schadensersatzanspruch aus &sect; 1295 ABGB zu, weil die Rechtsvorgängerin der Beklagten ihr entgegen &sect; 8 Abs. 2 der Genussrechtsbedingungen keine gleichwertigen Rechte am neuen Rechtsträger eingeräumt hat. Nach dem Schreiben der Beklagten vom Februar 2019 betrug der rechnerische Wert der Genussrechte 16.748,26 EUR. Statt dieser bereits zum 31.12.2020 ordentlich gekündigten Genussrechte wurden ihr 16.748 Stammaktien B eingeräumt mit einem Nennwert von 0,001 EUR. Zu diesem Nennwert sollten laut dem Schreiben vom 31.12.2020 die Aktionäre ihre Aktien jederzeit an die Gesellschaft**zurückgeben können. Für die Klägerin bedeutete dies, dass sie die Aktien nicht — wie die**Genussrechte — kündigen konnte mit der Folge der Rückzahlung des Nennbetrags* *abzüglich eines etwaigen Verlustanteils gem. &sect; 5 der Genussrechtsbedingungen sondern nur zu dem Anteil am Nominalkapital (16,75 EUR) zurückgeben konnte. Ansonsten wurden sie auf einen au&szlig;erbörslichen Verkauf an Dritte zu einem individuellen ausgehandelten Preis verwiesen.“*
+*„Der Klägerin steht ein Schadensersatzanspruch aus § 1295 ABGB zu, weil die Rechtsvorgängerin der Beklagten ihr entgegen § 8 Abs. 2 der Genussrechtsbedingungen keine gleichwertigen Rechte am neuen Rechtsträger eingeräumt hat. Nach dem Schreiben der Beklagten vom Februar 2019 betrug der rechnerische Wert der Genussrechte 16.748,26 EUR. Statt dieser bereits zum 31.12.2020 ordentlich gekündigten Genussrechte wurden ihr 16.748 Stammaktien B eingeräumt mit einem Nennwert von 0,001 EUR. Zu diesem Nennwert sollten laut dem Schreiben vom 31.12.2020 die Aktionäre ihre Aktien jederzeit an die Gesellschaft**zurückgeben können. Für die Klägerin bedeutete dies, dass sie die Aktien nicht — wie die**Genussrechte — kündigen konnte mit der Folge der Rückzahlung des Nennbetrags* *abzüglich eines etwaigen Verlustanteils gem. § 5 der Genussrechtsbedingungen sondern nur zu dem Anteil am Nominalkapital (16,75 EUR) zurückgeben konnte. Ansonsten wurden sie auf einen außerbörslichen Verkauf an Dritte zu einem individuellen ausgehandelten Preis verwiesen.“*
 
 Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte kann noch das Rechtsmittel der Berufung zum Oberlandesgericht Oldenburg einlegen.
 
@@ -53,17 +53,17 @@ Das Landgericht Hannover entschied mit Urteil vom 23.09.2021, dass die CT Infras
 
 Das Landgericht Hannover bestätigte einen Auszahlungsanspruch in Höhe des Wertes der Beteiligung, den die Gesellschaft selbst mit Schreiben vom Februar 2019 mitgeteilt hatte. Im Urteil führte das Gericht wie folgt aus:&nbsp;
 
-*„**Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von 17.833,95 € aus &sect; 6 Abs.**4 der Genussrechtsbedingungen. Hiernach erfolgt die Rückzahlung der Genussrechte zu 100% des Nennbetrags abzüglich eines etwaigen Verlustanteils gem. &sect; 5 der**Genussrechtebedingungen 3 Monate nach Laufzeitende. Die Rechtsvorgängerin der**Beklagten hat die Kündigung zum 31.12.2017 bestätigt. Der Rückzahlungsanspruch besteht* *daher angesichts des Nennbetrags der Beteiligung in Höhe von 30.000,00 € jedenfalls in\*\*begehrter Höhe.*
+*„**Der Kläger hat gegen die Beklagte einen Anspruch auf Zahlung von 17.833,95 € aus § 6 Abs.**4 der Genussrechtsbedingungen. Hiernach erfolgt die Rückzahlung der Genussrechte zu 100% des Nennbetrags abzüglich eines etwaigen Verlustanteils gem. § 5 der**Genussrechtebedingungen 3 Monate nach Laufzeitende. Die Rechtsvorgängerin der**Beklagten hat die Kündigung zum 31.12.2017 bestätigt. Der Rückzahlungsanspruch besteht* *daher angesichts des Nennbetrags der Beteiligung in Höhe von 30.000,00 € jedenfalls in\*\*begehrter Höhe.*
 
-*Die Beklagte hat nicht hinreichend dargelegt, dass hiervon ein Verlustanteil gem. &sect; 5 der*
+*Die Beklagte hat nicht hinreichend dargelegt, dass hiervon ein Verlustanteil gem. § 5 der*
 
-*Genussrechtebedingungen in Abzug zu bringen ist, da sie keine nach &sect; 5 Abs. 1 der Genussrechtebedingungen ma&szlig;gebliche Gewinn- und Verlustrechnung nach den Rechnungslegungsvorschriften IFRS vorlegt.“*
+*Genussrechtebedingungen in Abzug zu bringen ist, da sie keine nach § 5 Abs. 1 der Genussrechtebedingungen maßgebliche Gewinn- und Verlustrechnung nach den Rechnungslegungsvorschriften IFRS vorlegt.“*
 
 Die Entscheidung ist bisher nicht rechtskräftig. Die Berufung zum Oberlandesgericht Celle wurde bereits durch die Beklagte eingelegt.
 
 ### **3) Landgericht Krefeld**
 
-Auch das Landgericht Krefeld urteilte am 14.09.2021 zugunsten von der Kanzlei AdvoAdvice vertretenen Kläger und verurteilte die Beklagte an diese insgesamt 16.200,49 EUR zuzüglich Zinsen sowie die Kosten des Rechtsstreits als auch die au&szlig;ergerichtlichen Rechtsanwaltskosten zu zahlen.&nbsp;
+Auch das Landgericht Krefeld urteilte am 14.09.2021 zugunsten von der Kanzlei AdvoAdvice vertretenen Kläger und verurteilte die Beklagte an diese insgesamt 16.200,49 EUR zuzüglich Zinsen sowie die Kosten des Rechtsstreits als auch die außergerichtlichen Rechtsanwaltskosten zu zahlen.&nbsp;
 
 Der hier klagenden Anleger hatten sich im Jahre 2005 an der DKM Global Opportunities Fond 01 jeweils als atypisch stille Gesellschafter mit insgesamt 22.000,00 EUR beteiligt und im Jahre 2014 wirksam zum 31.12.2016 gekündigt.
 
@@ -77,7 +77,7 @@ Das Landgericht Krefeld führt in seinem Urteil aus:
 
 \*\[…\] \*
 
-*Die Kläger können hier auf Zahlung des nach ihrer Auffassung ihnen zustehenden Abfindungsguthabens klagen, denn die Beklagte hat die Erfüllung der ihr obliegenden Verpflichtung zur Abrechnung über ein objektiv angemessenen Zeitraum hinaus (hier fast vier Jahre) hinausgezögert (BGH, ZIP 2011 1358 ff.; Müko, BGB, 8. Aufl., &sect; 738, Rz. 30).*
+*Die Kläger können hier auf Zahlung des nach ihrer Auffassung ihnen zustehenden Abfindungsguthabens klagen, denn die Beklagte hat die Erfüllung der ihr obliegenden Verpflichtung zur Abrechnung über ein objektiv angemessenen Zeitraum hinaus (hier fast vier Jahre) hinausgezögert (BGH, ZIP 2011 1358 ff.; Müko, BGB, 8. Aufl., § 738, Rz. 30).*
 
 *\[…\]*
 
@@ -90,3 +90,5 @@ Die Entscheidung ist noch nicht rechtskräftig. Die Beklagte hat die Möglichkei
 Die drei neuen Urteile reihen sich erneut in eine Serie erfolgreicher Klagen gegen die CT Infrastructure Holding Ltd. ein.
 
 Anleger der ursprünglichen Thomas Lloyd Investments GmbH sowie der DKM Global Opportunities Fonds 01 GmbH haben somit weiterhin gute Chancen, ihre Investition auf dem Weg einer gerichtlichen Auseinandersetzung zurückzuerlangen.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

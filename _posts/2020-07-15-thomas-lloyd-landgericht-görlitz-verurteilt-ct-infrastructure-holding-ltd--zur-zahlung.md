@@ -28,7 +28,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Erneuter Erfolg für einen Anleger der Thomas Lloyd Investments GmbH (nunmehr CT Infrastructure Holding Ltd.). Das Landgericht Görlitz verurteilte die Anlagegesellschaft zur Zahlung nach Kündigung zum 31.12.2017 in Höhe von 6.880,75 Euro.&nbsp;
 
 ## Erfolg vor dem Landgericht Görlitz
@@ -51,4 +50,4 @@ Eine weitere positive Entscheidungen erging einen Tag später beim Landgericht F
 
 Über die mehr als 50 laufenden Verfahren gegen die CT Infrastructure Holding Ltd. wird die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin weiter&nbsp; berichten.&nbsp;
 
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -38,7 +38,7 @@ Das Landgericht Wuppertal vertrat hier die Rechtsansicht, dass der Buchwert der 
 
 ## OLG Düsseldorf sieht gute Erfolgsaussichten für die Berufung
 
-Der Anleger lie&szlig; sich, vertreten durch die Kanzlei AdvoAdvice Rechtsanwälte mbB von der Entscheidung des LG Wuppertal nicht beeindrucken und lege hiergegen das Rechtsmittel der Berufung zum OLG Düsseldorf ein.&nbsp;
+Der Anleger ließ sich, vertreten durch die Kanzlei AdvoAdvice Rechtsanwälte mbB von der Entscheidung des LG Wuppertal nicht beeindrucken und lege hiergegen das Rechtsmittel der Berufung zum OLG Düsseldorf ein.&nbsp;
 
 Das OLG Düsseldorf meldete sich mit einem Hinweis vom 12.03.2021 an die Prozessparteien und teilte hierin mit, dass es nach dem Ergebnis der Vorberatung zu der Einschätzung gelangt sei, dass die Berufung wohl überwiegend Aussicht auf Erfolg haben dürfte.&nbsp;
 
@@ -48,6 +48,8 @@ Das OLG machte deutlich, dass es wohl einen Betrag in Höhe von 9.485,50 Euro ne
 
 Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht bei der Kanzlei AdvoAdvice zeigte sich über den Hinweis des OLG Düsseldorf sehr erfreut und kommentiert die Mitteilung wie folgt: "Die rechtliche Einschätzung des OLG Düsseldorf reiht sich bei den Entscheidungen anderer Oberlandesgerichte mit ein und gibt dem hier vertretenen Anleger einen Anspruch auf Rückzahlung seiner Anlagesumme. Die Beklagte hat nun die Möglichkeit auf die Hinweise des Gerichts zu reagieren. Wir sind aber sehr zuversichtlich, dass die Berufung mit einem Prozesserfolg zu einem erheblichen Teil zu Gunsten des&nbsp; hier klagenden Anlegers enden wird."&nbsp;
 
-Die Information gibt nur den momentanen Sachstand des Verfahrens wieder und stellt keine abschlie&szlig;ende Feststellung zum Sach- und Streitstand dar.&nbsp;
+Die Information gibt nur den momentanen Sachstand des Verfahrens wieder und stellt keine abschließende Feststellung zum Sach- und Streitstand dar.&nbsp;
 
 Anleger, die eine Anlage bei der Thomas Lloyd Investments GmbH oder der DKM Global Opportunities Fonds GmbH abgeschlossen haben, können sich bei Bedarf gerne an Anwalt Dr. Tintemann wenden. Dieser steht gerne für eine kostenfreie Ersteinschätzung im Rahmen eines Telefonats zur Verfügung.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

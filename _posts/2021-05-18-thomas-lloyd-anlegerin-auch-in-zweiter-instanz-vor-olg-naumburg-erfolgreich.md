@@ -22,7 +22,7 @@ topics:
   - thomas-lloyd-anlegergemeinschaft
 author: dr-sven-tintemann
 ---
-Anlegerin auch in der Berufungsinstanz vor dem OLG Naumburg erfolgreich. Urteil das Landgerichts Stendal zum Gro&szlig;teil bestätigt.&nbsp;
+Anlegerin auch in der Berufungsinstanz vor dem OLG Naumburg erfolgreich. Urteil das Landgerichts Stendal zum Großteil bestätigt.&nbsp;
 
 ## Zum Hintergrund der Klage
 
@@ -48,7 +48,7 @@ Der Beklagten steht zwar noch die Möglichkeit der Nichtzulassungsbeschwerde zum
 
 ## Kommentar von AdvoAdvice
 
-Das OLG Naumburg hatte bereits im Oktober 2020 eine erste Berufung der CT Infrastructure Holding Ltd. gro&szlig;teils zurückgewiesen und somit eine erstinstanzliche Entscheidung des Landgerichts Stendal bestätigt (zum Bericht). Die Entscheidung ist auch bereits rechtskräftig (zum Bericht) und der dort klagende Anleger hat mittlerweile auch eine Auszahlung der ausgeurteilten Summe erhalten.
+Das OLG Naumburg hatte bereits im Oktober 2020 eine erste Berufung der CT Infrastructure Holding Ltd. großteils zurückgewiesen und somit eine erstinstanzliche Entscheidung des Landgerichts Stendal bestätigt (zum Bericht). Die Entscheidung ist auch bereits rechtskräftig (zum Bericht) und der dort klagende Anleger hat mittlerweile auch eine Auszahlung der ausgeurteilten Summe erhalten.
 
 Die Entscheidung aus Naumburg stellt somit nun die logische Fortsetzung der ersten Entscheidung auf dem Oktober 2020 dar.&nbsp;
 
@@ -58,4 +58,4 @@ Anleger, die sich jetzt noch mit der Frage beschäftigen, ob sie eine Klage einr
 
 Fakt ist, dass die Kanzlei AdvoAdvice bisher in jedem von ihr zum Abschluss gebrachten Berufungsverfahren gegen die CT Infrastructure Holding Ltd. (Stand: 19.05.2021) erfolgreich gewesen ist. Lassen Sie sich also nicht verunsichern und holen Sie sich Ihr Geld zurück.&nbsp;
 
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

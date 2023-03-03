@@ -32,7 +32,7 @@ Die CT Infrastructure Holding Limited erteilt aber, trotz Rechtskraft der Entsch
 
 ## Beschlüsse des LG Stuttgart
 
-Das Landgericht Stuttgart erlie&szlig; auf Antrag der Klägerin daher zunächst einen Zwangsgeldbeschluss über 15.000 Euro, auch wenn es insgesamt nur um eine Forderung der Anlegerin von 7.955,00 Euro ging.&nbsp;
+Das Landgericht Stuttgart erließ auf Antrag der Klägerin daher zunächst einen Zwangsgeldbeschluss über 15.000 Euro, auch wenn es insgesamt nur um eine Forderung der Anlegerin von 7.955,00 Euro ging.&nbsp;
 
 Diese Entscheidung wurde durch das OLG Stuttgart&nbsp; bestätigt.&nbsp;
 
@@ -40,7 +40,7 @@ Da die CT Infrastructure Holding Limited daraufhin lediglich eine Abrechnung im 
 
 Dieses wurde nunmehr auf einen Betrag von weiteren 20.000 Euro festgesetzt.&nbsp;
 
-Das Gericht stellt hierzu fest, dass die vorgelegte Abrechnung den Vorgaben des &sect; 15 des atypisch stillen Gesellschaftsvertrages nicht nachkomme. Die Angaben in der Abrechnung seien zudem nicht nachvollziehbar.&nbsp;
+Das Gericht stellt hierzu fest, dass die vorgelegte Abrechnung den Vorgaben des § 15 des atypisch stillen Gesellschaftsvertrages nicht nachkomme. Die Angaben in der Abrechnung seien zudem nicht nachvollziehbar.&nbsp;
 
 ## Unser Kommentar
 
@@ -54,8 +54,4 @@ Die Kanzlei AdvoAdvice wird sich daher weiter für die vertretene Anlegerin um e
 
 Zudem werden wir über den Vorgang weiter berichten.&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

@@ -21,7 +21,7 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-Anleger der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG befinden sich in gro&szlig;er Sorge um ihre Geldanlage.&nbsp;
+Anleger der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG befinden sich in großer Sorge um ihre Geldanlage.&nbsp;
 
 Die Anlagegesellschaft schickte den Anlegern kürzlich den Jahresabschluss für das Geschäftsjahr 2020 zu, über den im sog. Umlaufverfahren schriftlich abgestimmt werden soll.&nbsp;
 
@@ -31,7 +31,7 @@ Die Anleger werden darüber informiert, dass im Jahr 2022 ein Jahresfehlbetrag v
 
 Der Jahresfehlbetrag soll in voller Höhe von 80.542.481,21 Euro als Belastung auf den Kapitalkonten der Kommanditisten (also der Anleger) verbucht werden.&nbsp;
 
-Ein wesentlicher Teil der Verluste scheint hier wohl durch sog. au&szlig;erplanmä&szlig;ige Abschreibungen in Höhe von&nbsp; 77.408.000 Euro entstanden zu sein. Wie sich diese genau aufschlüsseln und warum die Abschreibungen gerade jetzt entstanden sind, ist fraglich.&nbsp;
+Ein wesentlicher Teil der Verluste scheint hier wohl durch sog. außerplanmäßige Abschreibungen in Höhe von&nbsp; 77.408.000 Euro entstanden zu sein. Wie sich diese genau aufschlüsseln und warum die Abschreibungen gerade jetzt entstanden sind, ist fraglich.&nbsp;
 
 Auch bei den Fonds der Zweiten Cleantech Infrastrukturgesellschaft mbH und Co. KG und der Dritten Cleantech Infrastrukturgesellschaft mbH und Co. KG läuft es nicht rund. Dies präsentieren den Anlegern einen Jahresfehlbetrag von 12.437.292,13 Euro bei Abschreibungen auf Finanzanlagen von 8.196 T€ und betrieblichen Erträgen von 997 T€ gegenüber betrieblichen Aufwendungen von 5.121 T€ bei der Zweite Cleantech KG sowie einen Jahresfehlbetrag von 13.675.627,53 Euro bei Abschreibungen auf Finanzanlagen von 13.046 T€ und betrieblichen Erträgen von gerade einmal 70 T€ und betrieblichen Aufwendungen von 696 T€.
 
@@ -39,11 +39,11 @@ Auch bei den Fonds der Zweiten Cleantech Infrastrukturgesellschaft mbH und Co. K
 
 Die riesigen Verluste sollten für Anleger, die sich an der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG als Treugeberkommanditisten beteiligt haben, ein Alarmsignal darstellen.&nbsp;
 
-Die Gesellschaft hatte bereits seit dem 4. Quartal 2020 regelmä&szlig;ige Ausschüttungen an die Anleger eingestellt und lediglich im Dezember 2021 eine weitere sog. Sonderausschüttung vorgenommen.&nbsp;
+Die Gesellschaft hatte bereits seit dem 4. Quartal 2020 regelmäßige Ausschüttungen an die Anleger eingestellt und lediglich im Dezember 2021 eine weitere sog. Sonderausschüttung vorgenommen.&nbsp;
 
 ## Parallelen zu anderen Anlagen erkennbar
 
-Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann kennt eine ähnliche Vorgehensweise in Bezug auf die nun vorgenommene au&szlig;erplanmä&szlig;ige Abwertung von anderen Anlagen aus der Thomas Lloyd Gruppe.
+Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann kennt eine ähnliche Vorgehensweise in Bezug auf die nun vorgenommene außerplanmäßige Abwertung von anderen Anlagen aus der Thomas Lloyd Gruppe.
 
 Auch bei Anlagen in Genussrechte der ThomasLloyd Investments GmbH (Wien) wurden die Anlagen vor einer Verschmelzung der Anlagegesellschaften auf die CT Infrastructure Holding Limited zum Stichtag 31.12.2017 temporär auf ein Minimum abgewertet.&nbsp;
 
@@ -56,3 +56,5 @@ Danach wurden den Anlegern Aktien im Wert sog. Penny-Stocks angeboten, die nicht
 Anleger der Fünfte Cleantech Infrastrukturgesellschaft mbH & Co. KG sollten sich daher Rat von einem versierten Fachanwalt für Bank- und Kapitalmarktrecht zu möglichen Ansprüchen gegen die Anlagegesellschaft und weitere Anspruchsgegner einholen.&nbsp;
 
 Rechtsanwalt Dr. Tintemann bietet hierzu eine kostenfreie telefonische Ersteinschätzung für betroffene Anleger an. Wenden Sie sich hierzu an 030 921 000 40 oder an info@advoadvice.de.
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

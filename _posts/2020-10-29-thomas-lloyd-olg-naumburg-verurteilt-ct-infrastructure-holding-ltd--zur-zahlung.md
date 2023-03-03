@@ -28,7 +28,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
 Auch in zweiter Instanz vor dem Oberlandesgericht Naumburg konnte ein Anleger der Thomas Lloyd Investments GmbH (nunmehr CT Infrastructure Holding Ltd.) einen Erfolg erzielen.
 
 ## Erfolg vor dem Oberlandesgericht Naumburg
@@ -45,8 +44,10 @@ Das Urteil des Landgerichts Stendal wurde durch das Oberlandesgericht Naumburg d
 
 ## Wichtiger Erfolg für Anlegergemeinschaft
 
-Für die Anlegergemeinschaft Thomas Lloyd ist dieses erste Urteil in der Berufungsinstanz ein wichtiger und gro&szlig;er Erfolg, denn nach mehreren erstinstanzlichen Urteilen wurde die Verpflichtung zur Rückzahlung der CT Infrastructure Holding als Rechtsnachfolgerin der Thomas Lloyd Investsments GmbH (Wien) nun auch in der ersten zweitinstanzlichen Entscheidung bestätigt.
+Für die Anlegergemeinschaft Thomas Lloyd ist dieses erste Urteil in der Berufungsinstanz ein wichtiger und großer Erfolg, denn nach mehreren erstinstanzlichen Urteilen wurde die Verpflichtung zur Rückzahlung der CT Infrastructure Holding als Rechtsnachfolgerin der Thomas Lloyd Investsments GmbH (Wien) nun auch in der ersten zweitinstanzlichen Entscheidung bestätigt.
 
 Eine weitere Berufung steht in einer anderen Sache in Kürze vor dem Oberlandesgericht Frankfurt am Main an. Hier wurde der Termin zur mündlichen Verhandlung auf den 26. November 2020 anberaumt.
 
 "Nach der Entscheidung des OLG Naumburg kann das OLG Frankfurt am Main von dieser nur dann abweichen, wenn es seine Entscheidung dem Bundesgerichtshof zur Herstellung einer einheitlichen Rechtsprechung vorlegt. Dies ist aus unserer Sicht aber nicht zu erwarten", kommentiert Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann, der zahlreiche Anleger in Klagen gegen die CT Infrastructure Holding Ltd. vertritt.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;

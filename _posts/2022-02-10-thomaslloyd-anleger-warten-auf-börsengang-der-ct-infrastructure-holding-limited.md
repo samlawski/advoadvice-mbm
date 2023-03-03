@@ -52,7 +52,7 @@ Betroffene Anleger, die nun seit drei Jahren ausharren und auf den Börsengang w
 
 ## Viele Anleger klagten bereits erfolgreich
 
-Die Kanzlei AdvoAdvice hat bereits seit Februar 2019 mehr als 300 Anleger beraten und Ansprüche für diese au&szlig;ergerichtlich geltend gemacht. zudem wurden bereits mehr als 180 Klagen eingereicht.&nbsp;
+Die Kanzlei AdvoAdvice hat bereits seit Februar 2019 mehr als 300 Anleger beraten und Ansprüche für diese außergerichtlich geltend gemacht. zudem wurden bereits mehr als 180 Klagen eingereicht.&nbsp;
 
 In 28 Verfahren haben Berufsgericht den Anlegern, die von AdvoAdvice vertreten wurden, bereits Zahlungsansprüche gegen die CTI zugesprochen.&nbsp;
 
@@ -69,3 +69,5 @@ Da die meisten Anleger von der Umwandlung der Anlage in Aktien und der Verschmel
 Lassen Sie sich daher von Dr. Sven Tintemann und seinem Team im Rahmen einer kostenfreien Ersteinschätzung zu Ihren Erfolgsaussichten und den Kosten einer Klageverfahren beraten.&nbsp;
 
 Sie erreichen die Kanzlei AdvoAdvice Rechtsanwälte mbB unter 030 921 000 40 oder unter info@advoadvice.de.&nbsp;
+
+Weitere Informationen zur [ThomasLloyd Anlegergemeinschaft](/themen/thomas-lloyd-anlegergemeinschaft/) finden Sie hier.&nbsp;
