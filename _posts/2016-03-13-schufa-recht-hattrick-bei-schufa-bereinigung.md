@@ -22,8 +22,6 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Am Anfang des letzten Jahres, wandte sich ein verzweifelter Mann an die Rechtsanwälte Kim Oliver Klevenhagen und Dr. Sven Tintemann. Ihm war aufgefallen, dass in seiner Schufa-Auskunft mehrere Negativeinträge zu finden waren. Allesamt waren seiner Meinung nach unberechtigt und er bat um Hilfe bei der Löschung der Einträge.
 
 In der Auskunft, welche er von der Schufa Holding AG in den Händen hielt, befanden sich insbesondere zwei Einträge durch die Volkswagen Bank GmbH. Den ersten Eintrag konnte Rechtsanwalt Dr. Tintemann bereits im Januar 2015 beseitigen. Die Volkswagen Bank hat den Eintrag bei der Schufa Holding AG widerrufen, da bei der ursprünglichen Eintragung ein Fehler unterlaufen war.
@@ -37,3 +35,5 @@ Die Schufa-Experten Dr. Tintemann und Kim Oliver Klevenhagen zeigten sich zuvers
 Der Kommentar der Experten von AdvoAdvice: *„Es ist immer wieder wichtig, einen Schufa-Eintrag bis ins kleinste Detail zu überprüfen, da sich erst dann zeigt, ob der Eintrag berechtigt war oder nicht. Eine Bank oder auch andere Unternehmen (z.B. Inkasso-Firma) darf einen Schufa-Eintrag nur unter bestimmten Voraussetzungen veranlassen. Ob diese Voraussetzungen vorliegen, hängt manchmal an einem entscheidenden Satz. Es muss hier genau das Bundesdatenschutzgesetz geprüft und angewandt werden.“*
 
 Es wird daher empfohlen, sich bei einem problematischen Schufa-Eintrag oder auch bei Einträgen in anderen Auskunfteien (Creditreform, Bürgel, etc.) an eine Kanzlei zu wenden, welche sich auf Schufa-Angelegenheiten spezialisiert hat.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
