@@ -1,5 +1,7 @@
 ---
-title: 'Schufa-Recht: Forderung aus Flex Strom AG Altvertrag – Eintrag durch Synergie Inkasso GmbH zur Löschung gebracht'
+title: >-
+  Schufa-Recht: Forderung aus Flex Strom AG Altvertrag – Eintrag durch Synergie
+  Inkasso GmbH zur Löschung gebracht
 date: 2016-06-14 12:00:00
 description:
 layout: post
@@ -24,9 +26,7 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
-Vor wenigen Wochen wandte sich ein Berliner Steuerberater an die Kanzlei  AdvoAdvice Partnerschaft von Rechtsanwälten mbB. Diese beaufragte er damit, einen negativen Schufaeintrag aus dem Datenbestand der Schufa Holding AG aus Wiesbaden entfernen zu lassen.
+Vor wenigen Wochen wandte sich ein Berliner Steuerberater an die Kanzlei &nbsp;AdvoAdvice Partnerschaft von Rechtsanwälten mbB. Diese beaufragte er damit, einen negativen Schufaeintrag aus dem Datenbestand der Schufa Holding AG aus Wiesbaden entfernen zu lassen.
 
 Dem Steuerberater wurde ein Vertragsverhältnis mit der FlexStrom AG zum Verhängnis. Über das Vermögen der FlexStrom AG wurde 2013 das Insolvenzverfahren eröffnet (AG Charlottenburg - Az. 36f IN 1569/13).
 
@@ -53,3 +53,5 @@ Schufa-Experte Rechtsanwalt Dr. Tintemann kommentierte den Erfolg erfreut:
 „*Es ist schön, dass manchmal auch schon ein Brief ausreicht, um eine eintragende Stelle schnell zum Widerruf einer Einmeldung zu bewegen. Generell sollten Menschen, welche von einem negativen Schufaeintrag betroffen sind, unmittelbar Hilfe beim Anwalt suchen und es nicht erst auf eigene Faust versuchen, die Sache selbst zu löschen. Vorliegend hatte der Mandant zunächst erfolglos versucht, den Negativeintrag zu beseitigen. Mit anwaltlicher Hilfe funktionierte das Ganze dann doch bedeutend schneller und vor allem mit Erfolg.“*
 
 Es wird empfohlen, bei negativen Schufaeinträgen umgehend einen Anwalt mit Expertise auf diesem Gebiet zu kontaktieren.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
