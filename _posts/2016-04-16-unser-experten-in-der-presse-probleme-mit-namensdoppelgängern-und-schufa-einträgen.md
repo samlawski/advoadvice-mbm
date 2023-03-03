@@ -1,5 +1,7 @@
 ---
-title: 'Unser Experten in der Presse: Probleme mit Namensdoppelgängern und Schufa-Einträgen'
+title: >-
+  Unser Experten in der Presse: Probleme mit Namensdoppelgängern und
+  Schufa-Einträgen
 date: 2016-04-16 00:00:00
 description:
 layout: post
@@ -27,8 +29,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Der Radiosender Antenne 1 berichtete am Mittwoch, den 13.04.2016 über Probleme mit Namensdoppelgängern. In diesem Zusammenhang wurde Rechtsanwalt Dr. Sven Tintemann, Fachanwalt für Bank- und Kapitalmarktrecht, von der Kanzlei AdvoAdvice Rechtsanwälte mbB als Experte zum Thema "Was tun bei Schufa-Einträgen, die zu einem Namensdoppelgänger gehören, befragt.
 
 Das komplette Interview von Antenne 1 können Sie hier nachhören:
@@ -45,4 +45,8 @@ Hier unsere wichtigsten Tipps für Sie im Überblick:
 
 3) Vergeuden Sie keine Zeit damit, die Angelegenheit erst einmal in Ruhe selbst klären zu wollen. Meist verbreiten sich die Verwechslungen schnell weiter. Es ist daher Eile geboten.
 
-4) Sollte keine Löschung der fehlerhaften Einträge erfolgen, muss innerhalb einer kurzen Frist (meist 1-2 Monate) an Antrag auf Erlass einer Einstweiligen Verfügung gestellt werden, um den Missständen zu begegnen. [![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3)
+4) Sollte keine Löschung der fehlerhaften Einträge erfolgen, muss innerhalb einer kurzen Frist (meist 1-2 Monate) an Antrag auf Erlass einer Einstweiligen Verfügung gestellt werden, um den Missständen zu begegnen.
+
+[![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3)
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
