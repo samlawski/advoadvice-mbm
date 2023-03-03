@@ -25,8 +25,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Nach abgewickelten Ebay Transaktionen stellt sich für die Beteiligten immer die Frage, ob und welche Bewertung man für das erfolgte Geschäft vergeben möchte. In vielen Fällen erfolgt die Abwicklung überwiegend problemlos. Sollte man jedoch mit dem Geschäft nicht zufrieden sein, ist dies ein einfacher Weg, um seine Missgunst auszudrücken. Oftmals ist dieser Weg auch etwas zu einfach, denn man ist vielleicht geneigt, etwas als Bewertung aufzuschreiben, was man dem Verkäufer niemals oder zumindest nicht in der im Internet an den Tag gelegten Härte, ins Gesicht sagen würde.
 
 Dass bei Verkäuferbewertungen im Internet dennoch Vorsicht geboten ist, zeigt nun ein Urteil des AG München. Das Amtsgericht München entschied nun mit Urteil vom 23.09.2016 zum Az. 142 C 12436 /16, dass bei einer falschen Bewertung durch den Käufer gegen diesen ein Löschungsanspruch zu Gunsten des Verkäufers gegeben ist. In dem Streit ging es darum, ob der Verkäufer tatsächlich die Originalverpackung nutzte, oder ob diese ersetzt und die negative Bewertung dadurch gerechtfertigt wurde. Der Käufer bemängelte den unsicheren Versand aufgrund der fehlerhaften Verpackung. Als Resultat gab er eine Negativbewertung ab, welche die Gesamtbewertungen des Verkäufers von 100 % auf 97,1 % senkte.
@@ -48,3 +46,5 @@ Folglich sollte jeder Ebay-Nutzer, aber insbesondere die gewerblichen Nutzer und
 Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice in Berlin ist seit Jahren im Bereich des Datenschutzrechts aktiv und hat bereits mehrfach erfolgreich Betroffenen auch bei schlechten Bewertungen auf Bewertungsportalen helfen können.
 
 Sollten Sie dazu weitere Fragen haben, können Sie sich gerne an die Experten der Kanzlei AdvoAdvice wenden (030 921 000 40 oder eine Email an info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;

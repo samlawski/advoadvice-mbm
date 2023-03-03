@@ -1,7 +1,9 @@
 ---
 title: MLP balanced invest Riester - Muss Heidelberger Leben zahlen?
 date: 2017-07-04 00:00:00
-description:
+description: >-
+  Kunden von Verträgen des Typs MLP balanced invest Riester sollten ihre
+  Verträge aus unwirksame Klausel zu Abschlusskosten prüfen lassen. 
 layout: post
 style_id: post
 image:
@@ -23,8 +25,6 @@ topics:
   - versicherung
 author: dr-sven-tintemann
 ---
-
-
 Bei Verträgen vom Typ MLP balanced invest, welche als Riester Verträge angeboten worden sind, gibt es zum Teil eine in zwei Richtungen auslegbare Vertragsbedingung zu den sog. Abschluss- und Vertriebskosten.
 
 Die Regelung, um die es geht, lautet:

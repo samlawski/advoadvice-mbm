@@ -21,8 +21,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB aus Berlin konnte ein weiteres "Schufa-Problem" lösen. In diesem Fall wurde durch die Synergie Inkasso GmbH eine Forderung zulasten eines 36-Jährigen Mannes eingetragen. Dieser hatte mehrere Wohneinheiten vermietet und dabei einen Stromversorgungsvertag mit der Löwenzahn Energie GmbH abgeschlossen. Im Rahmen der Schlussrechnung wurden nach Angaben des Leipzigers einige Bonuszahlungen nicht berücksichtigt, weshalb der Schlussrechnung und auch einem späteren Mahnbescheid widersprochen wurde.
 
 Dies alleine konnte den negativen Schufa-Eintrag aber nicht verhindern. Die Forderungsangelegenheit wurde zwischenzeitlich von unterschiedlichen Stellen bearbeitet und versucht einzutreiben. Jedoch konnte keine Lösung bezüglich der nicht berücksichtigten Bonuszahlungen gefunden werden. Dies lag insbesondere daran, dass der Betroffene mehrere Schreiben der Gegenseite nicht erhalten hatte. Da die genaue Forderungshöhe auch immer unsicher war, konnte der Vermieter die Zahlungen auch nicht „ins Blaue hinein“ leisten. Letztlich landete die Forderung bei der Synergie Inkasso GmbH, geschäftsansässig in der Friedrichstr. 204, 10117 Berlin.
@@ -33,4 +31,6 @@ In Kontext von Schufa-Einträgen und der wirtschaftlichen Leistungsfähigkeit r�
 
 „*Sobald man realisiert, dass es einen negativen Schufa-Eintrag zur eigenen Person gibt und der Scorewert unter 90 % gerutscht ist, sollte man sich dringend Hilfe von einem Experten suchen. Die wirtschaftlichen Folgen sind häufig schwer einzuschätzen und häufig kann erst durch anwaltliche Hilfe herausgearbeitet werden, ob und welche Voraussetzungen für einen Schufa-Eintrag tatsächlich erfüllt sind. Häufig kann Betroffenen dann noch geholfen werden.“*
 
-In einem solchen Fall können Sie gerne die Experten der AdvoAdvice Partnerschaft von Rechtsanwälten kontaktieren (Telefonisch unter 030/921 000 40 oder per Mail an [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;)).
+In einem solchen Fall können Sie gerne die Experten der AdvoAdvice Partnerschaft von Rechtsanwälten kontaktieren (Telefonisch unter 030/921 000 40 oder per Mail an [info@advoadvice.de](mailto:info@advoadvice.de)).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;

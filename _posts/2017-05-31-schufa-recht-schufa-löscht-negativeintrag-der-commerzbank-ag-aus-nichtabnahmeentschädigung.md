@@ -1,7 +1,11 @@
 ---
-title: 'Schufa-Recht: Schufa löscht Negativeintrag der Commerzbank AG aus Nichtabnahmeentschädigung'
+title: >-
+  Schufa-Recht: Schufa löscht Negativeintrag der Commerzbank AG aus
+  Nichtabnahmeentschädigung
 date: 2017-05-31 00:00:00
-description:
+description: >-
+  Negativeintrag der Commerbank AG aus Nichtabnahmeentschädigung durch Schufa
+  Holding AG nach Einschreiten von AdvoAdvice gelöscht. 
 layout: post
 style_id: post
 image:
@@ -20,11 +24,9 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 In einem neuen Schufa-Fall konnten die Rechtsanwälte der Kanzlei AdvoAdvice einem Mitte 50-Jährigen Mann helfen, der unter einem Schufa-Eintrag der Commerbank AG litt.
 
-**Was geschah****?**
+## **Was geschah****?**
 
 Der Brandenburger stand mit der Commerzbank AG in Kontakt, um einen Immobiliar-Verbraucherdarlehensvertrag abzuschließen. Die Verhandlungen waren bereits sehr konkret und schließlich wurde eine Darlehenszusage erteilt. Zur Überraschung des Betroffenen forderte die Commerzbank AG dann noch weitere Auskünfte und Angaben, bevor eine Auszahlung des Darlehens erfolgen sollte. Aus diesen Gründen entschied sich der Brandenburger zusammen mit seiner Frau, dass das Darlehen mit einer anderen Bank abgeschlossen werden sollte.
 
@@ -34,7 +36,7 @@ Als das Darlehen weiterhin nicht abgenommen wurde, berechnete die Commerzbank AG
 
 Da der Brandenburger die Nichtabnahmeentschädigung nicht zahlte, sah sich die Commerzbank AG sodann dazu veranlasst, die von ihr erhobene Forderung über das von ihr eingerichtete Konto zu mahnen. Schließlich kündigte die Bank das vermeintliche Konto mit der Forderung aus Nichtabnahmeentschädigung und veranlasste einen negativen Schufa-Eintrag über die Höhe der vermeintlichen Entschädigung.
 
-**Wie konnte geholfen werden?**
+## **Wie konnte geholfen werden?**
 
 Kernproblem in dieser Angelegenheit ist, dass schon gar nicht sicher bestimmt werden kann, ob eine Nichtabnahmeentschädigung tatsächlich berechnet werden durfte. Dies hängt daran, dass die Bank plötzlich weitere Angaben zum Darlehensvertrag forderte.
 
@@ -42,7 +44,7 @@ Sodann kann ein negativer Eintrag bei der Schufa Holding AG nicht auf ein einsei
 
 Die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB trug den gesamten Sachverhalt schriftlich sowohl bei der Commerzbank AG als auch bei der Schufa Holding AG vor und erläuterten die Rechtslage dazu. Daras resultierend entschied sich die Schufa Holding AG binnen drei Wochen dazu, den Negativeintrag eigenständig zur Löschung zu bringen.
 
-**Was können andere daraus lernen?**
+## **Was können andere daraus lernen?**
 
 Bei sämtlichen Vertragsbeziehungen und Verhandlungen mit der Bank ist stets darauf zu achten, dass keine voreiligen Schritte unternommen werden. Manchmal können selbst kleine Unaufmerksamkeiten oder Handlungen der Bank zu einem negativen Schufa-Eintrag führen, welcher sodann massive Auswirkungen auf das persönliche Wirtschaftsleben haben kann.
 
@@ -51,3 +53,5 @@ Der zuständige Anwalt Dr. Tintemann resümierte wie folgt: „Es ist schon eine
 Sollten Sie unter einem Negativeintrag bei der Schufa Holding AG leiden, ist Ihnen nahezulegen, sich fachkundige Hilfe zu organisieren. In vielen Fällen kann den Betroffenen geholfen werden.
 
 Gerne können Sie dafür jederzeit Kontakt zu unserer Kanzlei aufnehmen. Rufen Sie uns einfach unter 030 921 000 40 an senden uns eine Email unter info@advoadvice.de für Ihre Anfragen.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
