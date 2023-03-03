@@ -23,8 +23,6 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Kürzlich konnte einem weiteren Betroffenen geholfen werden, sein Problem mit einem unberechtigten Schufa-Eintrag zu beseitigen. Der Betroffene schloss im Jahr 2002 einen Vertrag mit einem bekannten Mobilfunkanbieter. Aus persönlichen Gründen verzog der Betroffene dann nach Italien.
 
 Als der Betroffene im Jahr 2015 zurück in Deutschland auf Wohnungssuche war, beantragte er eine kostenlose Schufa-Selbstauskunft (auch Datenübersicht nach § 34 BDSG genannt). Verwundert musste er zur Kenntnis nehmen, dass ein Negativeintrag zu seinen Lasten darin zu finden war. Besagter Mobilfunkanbieter hatte im Jahr 2004 einen Betrag von 441,00 Euro titulieren lassen und den Betrag dann bei der Schufa Holding AG gemeldet.
@@ -35,4 +33,4 @@ Nach Einschätzung des Schufa-Experten Dr. Sven Tintemann handelt es sich an gew
 
 Sollten Sie einen negativen Schufa-Eintrag in Ihrer Auskunft vorfinden, können Sie sich gerne an unser Expertenteam wenden.
 
-Formulare zum Thema "Negativeinträge bei Auskunfteien" finden Sie unter [Downloads.](https://advoadvice.de/#formulare "Link zu unseren Formularen")
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
