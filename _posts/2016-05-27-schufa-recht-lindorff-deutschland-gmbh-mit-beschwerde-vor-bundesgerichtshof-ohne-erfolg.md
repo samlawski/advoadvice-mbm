@@ -1,5 +1,7 @@
 ---
-title: 'Schufa-Recht: Lindorff Deutschland GmbH mit Beschwerde vor Bundesgerichtshof ohne Erfolg'
+title: >-
+  Schufa-Recht: Lindorff Deutschland GmbH mit Beschwerde vor Bundesgerichtshof
+  ohne Erfolg
 date: 2016-05-27 12:00:00
 description:
 layout: post
@@ -21,8 +23,6 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Die Firma Lindorff Inkasso, ein großes deutsches Inkasso-Unternehmen, ist mit einer Beschwerde vor dem Bundesgerichtshof (Beschluss v. 12.04.2016, Az. VI ZB 75/14) ohne Erfolg geblieben. Das Inkassounternehmen wollte Rechtsmittel gegen ein zuvor erlassenes Urteil des Landgerichts Berlin einlegen. In diesem Urteil wurde das Inkassounternehmen dazu verurteilt, einen negativen Schufaeintrag zu widerrufen und eine zukünftige Einmeldung des negativen Schufaeintrages zu unterlassen. In der erstinstanzlichen Entscheidung des Landgerichts Berlin hatte dieses eine Berufung für die Beklagte Inkassofirma nicht ausdrücklich zugelassen.
 
 Die Berufung der Lindorff Deutschland GmbH vor dem Kammergericht, dem höchsten Berliner Zivilgericht, blieb ebenfalls ohne Erfolg, da das Kammergericht den Streitwert für die Lindorff auf lediglich 500,00 Euro festsetzte und damit die Berufung durch Beschluss als unzulässig verwarf. Hiergegen legte die Lindorff sodann eine Rechtsbeschwerde beim Bundesgerichtshof zum o.g. Aktenzeichen ein.
@@ -35,7 +35,7 @@ Das Kammergericht als Berufungsgericht legte den Wert des Beschwerdegegenstandes
 
 Das Inkassounternehmen legte gegen diese Entscheidung des Kammergerichts die Rechtsbeschwerde nach § 522 Abs. 1 Satz 3 ZPO.
 
-Rechtlich Interessant war hier die Frage, ob es möglich ist, dass der Streitwert auf Seitens des Klägers, also der wirtschaftliche Wert der Klage für den Kläger auf  10.000,00 Euro festgesetzt und gleichzeitig der Beschwerdegegenstand für das beklagte Inkassounternehmen lediglich mit 500,00 Euro angesetzt werden kann, so wie es seitens des Kammergerichts erfolgt war.
+Rechtlich Interessant war hier die Frage, ob es möglich ist, dass der Streitwert auf Seitens des Klägers, also der wirtschaftliche Wert der Klage für den Kläger auf &nbsp;10.000,00 Euro festgesetzt und gleichzeitig der Beschwerdegegenstand für das beklagte Inkassounternehmen lediglich mit 500,00 Euro angesetzt werden kann, so wie es seitens des Kammergerichts erfolgt war.
 
 **Wie begründet der Bundesgerichtshof diesen Unterschied?**
 
@@ -58,3 +58,5 @@ Rechtsanwalt Dr. Sven Tintemann, Fachanwalt für Bank- und Kapitalmarktrecht bei
 *„Die Entscheidung des Bundesgerichtshofs bestätigt die Rechtsauffassung, die bereits die Oberlandesgerichte Stuttgart, Braunschweig und Frankfurt am Main sowie mehrfach das Kammergericht vertreten haben. Hiermit wird der eintragenden Stelle, die in erster Instanz zum Widerruf eines Negativeintrages verurteilt wird, faktisch die Berufung abgeschnitten. Es entsteht daher schneller Rechtsfrieden für die Kläger, die von Negativeinträgen in Auskunfteien betroffen sind. Zudem wird die Entscheidung wahrscheinlich auch die Vergleichsbereitschaft auf Seiten einer eintragenden Beklagtenseite erhöhen, wenn diese im Prozess mit einer Verurteilung rechnen muss und erkennt, dass ein Rechtsmittel gegen die Entscheidung evtl. nicht gegeben* ist.“
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB steht Personen, die von Negativeinträgen in Auskunfteien (z.B. Creditreform, Schufa Holding AG, Bürgel u.a.) betroffen sind, mit kompetentem Rechtsrat zur Verfügung. Die Rechtsanwälte der Kanzlei haben schon viele wegweisende Entscheidungen erstritten und gelten bundesweit auch in der Fachpresse als Experten.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
