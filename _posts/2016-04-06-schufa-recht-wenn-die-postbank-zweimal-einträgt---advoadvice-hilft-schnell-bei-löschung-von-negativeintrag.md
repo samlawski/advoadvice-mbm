@@ -1,5 +1,7 @@
 ---
-title: 'Schufa-Recht: Wenn die Postbank zweimal einträgt - AdvoAdvice hilft schnell bei Löschung von Negativeintrag'
+title: >-
+  Schufa-Recht: Wenn die Postbank zweimal einträgt - AdvoAdvice hilft schnell
+  bei Löschung von Negativeintrag
 date: 2016-04-06 12:00:00
 description:
 layout: post
@@ -23,8 +25,6 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Es gibt Dinge im Leben, die gibt es gar nicht. Oder doch?
 
 Bei der Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin meldete sich kürzlich ein ehemaliger Mandant. Für diesen hatte Rechtsanwalt Dr. Tintemann bereits im Jahr 2010 ein wegweisendes Urteil in Sachen Schufa und Datenschutz vor dem Landgericht Verden erstritten. Dieses wurde sogar in der Zeitschrift Verbraucher und Recht (VuR) 2011, 191 ff. veröffentlicht. In der Entscheidung war die Deutsche Postbank AG seinerzeit rechtskräftig dazu verurteilt worden, einen Negativeintrag bei der Schufa Holding AG zu widerrufen und künftig Einträge zu der gleichen Kontonummer zu Unterlassen, wenn es hierfür keine neuen Gründe geben sollte.
@@ -40,3 +40,5 @@ Hierzu kommentiert Dr. Tintemann: "Die Sache zeigt, dass es bei größeren Unter
 Personen, die von negativen Einträgen bei Auskunfteien (z.B. Schufa, Bürgel, Creditreform etc.) betroffen sind, sollten sich möglichst schnell an einen erfahrenen Rechtsanwalt auf diesem Rechtsgebiet werden. Es laufen für den Antrag auf Erlass einer einstweiligen Verfügung kurze Fristen, die nicht versäumt werden sollten.
 
 Für eine Anfrage stellt die Kanzlei AdvoAdvice Rechtsanwälte mbB extra einen speziell entwickelten [Fragebogen für Negativeinträge bei Auskunfteien](/uploads/dokumente/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf "Fragebogen Negativeinträge") zur Verfügung.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
