@@ -52,4 +52,4 @@ Die Experten der Kanzlei AdvoAdvice haben langjährige Erfahrungen im Schufa-Rec
 
 Interessierte Vermieter können sich daher gerne an die Rechtsanwälte wenden und sich eine qualifizierte Einschätzung hinsichtlich ihrer potenziellen Mieter geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an senden uns eine Email unter info@advoadvice.de für Ihre Anfragen.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;

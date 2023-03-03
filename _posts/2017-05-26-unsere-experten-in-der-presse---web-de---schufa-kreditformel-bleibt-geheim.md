@@ -1,7 +1,9 @@
 ---
 title: Unsere Experten in der Presse - Web.de - Schufa Kreditformel bleibt geheim
 date: 2017-05-26 00:00:00
-description:
+description: >-
+  Schufa Formel zu Scoring darf geheim bleiben. Was sagt Schufa-Experte Dr. Sven
+  Tintemann im Interview mit Web.de dazu?
 layout: post
 style_id: post
 image: /uploads/web-de-logo.jpg
@@ -24,8 +26,6 @@ topics:
   - medien
 author: dr-sven-tintemann
 ---
-
-
 Artikel auf der Online Plattform Web.de über die Entscheidung des Bundesgerichtshofs - BGH - vom 28.01.2014 zum Az. VI ZR 156/13, mit welcher der BGH entschieden hatte, dass die Schufa Formel geheim bleiben dürfe.
 
 [![Web.de Logo - Fremde Marke](/uploads/versions/web-de-logo---x----256-243x---.jpg)](http://web.de/magazine/finanzen/wirtschaft/18560738-schufa-kreditformel-bleibt-geheim.html#.hero.Schufa:%20Hier%20blickt%20keiner%20durch.753.576)
@@ -33,3 +33,5 @@ Artikel auf der Online Plattform Web.de über die Entscheidung des Bundesgericht
 Hierzu wurde Rechtsanwalt Dr. Tintemann, als Experte für Schufa und Datenschutz von Web.de im Rahmen eines Interviews befragt.
 
 Den kompletten Artikel finden Sie hier oder durch Klicken auf das Web.de Logo.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;

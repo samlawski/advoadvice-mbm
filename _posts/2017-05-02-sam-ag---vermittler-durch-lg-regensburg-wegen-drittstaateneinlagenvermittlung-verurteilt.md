@@ -1,5 +1,7 @@
 ---
-title: SAM AG - Vermittler durch LG Regensburg wegen Drittstaateneinlagenvermittlung verurteilt
+title: >-
+  SAM AG - Vermittler durch LG Regensburg wegen Drittstaateneinlagenvermittlung
+  verurteilt
 date: 2017-05-02 00:00:00
 description:
 layout: post
@@ -21,15 +23,13 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
-
 Das LG Regensburg hat einen SAM AG Vermittler und den ehemaligen Verwaltungsratsvorsitzenden Michael O., welcher sich momentan in der JVA Stadelheim in Untersuchungshaft befinden soll, zum Schadensersatz in Höhe von 12.326,80 Euro nebst Zinsen verurteilt. Zudem wurde für beide Beklagte festgestellt, dass die Schadensersatzpflicht aus einer vorsätzlich begangenen deliktischen Handlung herrührt. Die Entscheidung erging am 10.04.2017 und ist noch nicht rechtskräftig, da die Beklagten noch das Rechtsmittel der Berufung einlegen können.
 
 Das LG Regensburg sprach dem Anleger gegen seinen Berater den geltend gemacht Schadensersatzanspruch in voller Höhe zu. Zur Begründung führte das Gericht aus:
 
 *"Aus der Beklagte zu 2.) hat gegen § 32 Abs. 1 Satz 1 KWG verstoßen. Mit der Vermittlung des Produkts CashSelect an den Kläger hat der Beklagte zu 2.) Finanzdienstleistungen in Form der Drittstaateneinlagenvermittlung i.S.d. § 1 Abs. 1 a Satz 2 Nr. 5 KWG erbracht, ohne die dafür erforderliche Erlaubnis zu besitzen.*
 
-*[…]*
+*\[…\]*
 
 *a) Der Beklagte war sich bei der Vermittlung des streitgegenständlichen Kauf- und Abtretungsvertrages aller tatsächlicher Umstände bewusst, die seine diesbzgl. Aktivitäten zur gewerbsmäßigen Vermittlung eines Einlagengeschäfts der außerhalb des europäischen Wirtschaftsraums ansässigen SAM AG mit dem Klägen machen.*
 
