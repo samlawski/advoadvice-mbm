@@ -43,4 +43,4 @@ Der Sachverhalt wurde durch den zuständigen Rechtsanwalt umgehend bei der Gegen
 
 Falls Sie ebenfalls durch einen negativen Schufa-Eintrag belastet werden, ist es zu empfehlen, einen Anwalt mit entsprechender Expertise zu kontaktieren. In vielen Fällen gibt es die Möglichkeit, etwas gegen bestehende Einträge zu unternehmen. Es gilt aber auch hier: Je schneller man handelt, desto eher kann geholfen werden. Bei Fragen können Sie sich gerne an das Expertenteam der AdvoAdvice Rechtsanwälte mbB wenden (Tel. 030/921000-40).
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.
