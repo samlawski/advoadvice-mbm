@@ -30,11 +30,9 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
-
 Das Landgericht Magdeburg hat mit Urteil vom 24.11.2016 einen Vermittler einer Anlage bei der Premium Safe Ldt. zum Schadensersatz verurteilt. Das Urteil ist nach dem derzeitigen Kenntnisstand der Rechtsanwälte noch nicht rechtskräftig.
 
-**Was war Gegenstand des Rechtsstreits?**
+## **Was war Gegenstand des Rechtsstreits?**
 
 Der Vermittler war Finanzberater. Er war mit dem geschädigten Ehepaar schon längere Zeit bekannt und hatte diesem auch geholfen, eine Hausfinanzierung zu erhalten. Anfang des Jahres 2015 meldete sich der Vermittler mal wieder bei dem geschädigten Ehepaar und erkundigte sich, ob diese Interesse an einer Umschuldung hätten. Als das Ehepaar dies verneinte, berichtete der Vermittler von einer Möglichkeit, wie der Hauskredit getilgt werden kann.
 
@@ -50,7 +48,7 @@ Die Eheleute versuchten zunächst, den eingetretenen Schaden außergerichtlich v
 
 Nunmehr hat das Landgericht Magdeburg mit Urteil vom 24.11.2016 den Vermittler gegenüber den geschädigten Eheleuten zum Schadensersatz verurteilt.
 
-**Worauf stützte das Landgericht seine Entscheidung?**
+## **Worauf stützte das Landgericht seine Entscheidung?**
 
 Zunächst stellte das Gericht darauf ab, dass es sich um eine Anlageberatung und nicht nur eine Anlagevermittlung gehandelt hat. Dies ist für die Haftung eines Vermittlers von entscheidender Bedeutung. Im Gegensatz zu einer Anlagevermittlung sind die Pflichten eines Vermittlers im Rahmen einer Anlageberatung deutlich größer.
 
@@ -66,7 +64,7 @@ Darüber hinaus vertrat das Gericht die Auffassung, dass dieser Beratungsfehler 
 
 Die Rechtsanwälte konnten dem geschädigten Ehepaar helfen, dessen Ansprüche erfolgreich gerichtlich durchzusetzen. Das Urteil des Landgerichts Magdeburg ist noch nicht rechtskräftig. Gegen das Urteil kann der Vermittler noch das Rechtsmittelt der Berufung einlegen.
 
-**Fazit:**
+## **Fazit**
 
 Auch wenn bei dem Unternehmen Premium Safe nichts mehr zu holen ist, sollten geschädigte Anleger nicht die Hoffnung verlieren. Oftmals besteht die Möglichkeit, den Vermittler gerichtlich in Anspruch zu nehmen und dadurch den eingetretenen Schaden zu begrenzen.
 

@@ -1,7 +1,9 @@
 ---
 title: Schufa Recht - Erneut Löschung von Negativeintrag der Barclays Bank erreicht
 date: 2017-04-05 00:00:00
-description:
+description: >-
+  Schufa Holding AG löscht Negativeintrag der Barclays Bank PLC nach Tätigkeit
+  von Rechtsanwalt Dr. Tintemann aus der Kanzlei AdvoAdvice. 
 layout: post
 style_id: post
 image:
@@ -23,8 +25,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Die Schufa Holding AG hat einen Negativeintrag der Barclays Bank PLC nach Aufforderung durch die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB gelöscht. Betroffen war ein Kunde der Barclays Bank PLC aus der Nähe von Kiel (Schleswig Holstein).
 
 Nachdem sich der betroffene Bankkunde im März an die Kanzlei AdvoAdvice, konkret Rechtsanwalt Dr. Tintemann, gewandt hatte, wurden sowohl die Barclays Bank PLC als auch die Schufa Holding AG angeschrieben, mit der Aufforderung, einen über den Kunden veranlassten Negativeintrag zur Löschung zu bringen.
@@ -34,3 +34,5 @@ Nach einem weiteren Schreiben, als Antwort auf einen Schriftsatz der Barclays Ba
 Ein Vergleich scheiterte aber bisher an der Zustimmung der Rechtsschutzversicherung des betroffenen Bankkunden.
 
 Ob hier noch ein Vergleich mit der Bank abgeschlossen werden kann, um evtl. erneute Negativeinträge oder weitere rechtliche Auseinandersetzungen um Kostenerstattungsansprüche zu verhindern, muss noch mit der Rechtsschutzversicherung des betroffenen Bankkunden abgestimmt werden.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;

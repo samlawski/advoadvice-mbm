@@ -23,8 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Zum Ende des vergangenen Jahres wandte sich eine Anfang 40-jährige Frau an die Kanzlei AdvoAdvice. Zu Ihrem Schrecken musste Sie feststellen, dass die Barclays Bank PLC (Hamburg), einen Negativeintrag über mehrere tausend Euro veranlasst hatte. Zuvor geschah folgendes:
 
 Im August kündigte die Betroffene einen Kredit bei der Barclays Bank. Für die Rückführung des Kredites wurde ein Zeitfenster bis Mitte September gesetzt. Kurz darauf erhielt die Betroffene auch eine Kündigung vonseiten der Barclays Bank, in welcher auch eine Rückforderung des offenen Kreditbetrages enthalten war. Die Rückzahlungsdaten stimmten in beiden Schreiben überein. In der Folge glich die Frau aus Hessen den Betrag noch vor Fristablauf aus. Dennoch musste sie kurze Zeit später feststellen, dass zum Kündigungsdatum (also dem Datum des Kündigungsschreiben, nicht zur Fälligkeit der eigentlich Forderung) ein negativer Schufa-Eintrag veranlasst worden war.
@@ -40,3 +38,5 @@ Aus Sicht des zuständigen Rechtsanwaltes zeigen sich in diesem Fall einige Them
 *„In vielen Fällen kommt es vor, dass die Einmeldevoraussetzungen überhaupt nicht gegeben sind oder deren Vorliegen nach § 28 a Abs. 1 BDSG zumindest zweifelhaft erscheint. Die Betroffene handelte hier erfreulich schnell und kontaktierte selbst die Barclays Bank. Damit erreichte sie zwar einen Erledigungsvermerk, die Forderung blieb aber im Schufa-Datenbestand bestehen. Dies half nicht wirklich dabei, den Scorewert der betroffenen Mandantin entscheidend zu verbessern. Ein Negativeintrag bleibt eben auch denn negativ, wenn die damit verbundene Forderung bereits bezahlt wurde. Erst nach der Intervention durch unser Kanzlei konnte der eigentlich rechtmäßige Zustand wieder hergestellt werden. Es zeigt sich, dass häufig erst die Inanspruchnahme anwaltlicher Hilfe erfolgversprechend ist und dass es bei Negativeinträgen auch oft darauf ankommt, schnell zu handeln.“*
 
 Betroffene können sich daher gerne an die Rechtsanwälte wenden und sich eine erste Einschätzung hinsichtlich ihrer rechtlichen Möglichkeiten geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an oder laden Sie sich im Bereich Downloads unseren Fragebogen für Negativeinträge in einer Wirtschaftsauskunftei herunter. Gerne stehen wir auch per Email unter info@advoadvice.de für Anfragen zur Verfügung.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;

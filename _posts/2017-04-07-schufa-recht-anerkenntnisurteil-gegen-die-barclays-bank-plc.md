@@ -1,7 +1,9 @@
 ---
 title: 'Schufa-Recht: Anerkenntnisurteil gegen die Barclays Bank PLC'
 date: 2017-04-07 00:00:00
-description:
+description: >-
+  Rechtsanwalt Dr. Tintemann hilft Anwalt aus Hessen mit Klage vor dem
+  Landgericht Hamburg gegen Negativeintrag der Barclays Bank PLC.
 layout: post
 style_id: post
 image:
@@ -30,9 +32,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
-AdvoAdvice hilft erneut einem Rechtsanwalt aus Hessen nunmehr auch in letzter Konsequenz, einen negativen Schufa-Eintrag abzuwenden. Die Barclays Bank PLC hatte bereits im Februar 2016 nach dem Antrag auf Erlass einer einstweiligen Verfügung, den Antrag auf Widerruf des Negativeintrages anerkannt.[ Wir berichteten.](https://advoadvice.de/blog/schufa-eintrag-barclaycard-erkennt-antrag-auf-einstweilige-verf%C3%BCgung-vor-lg-hamburg-an/)
+AdvoAdvice hilft erneut einem Rechtsanwalt aus Hessen nunmehr auch in letzter Konsequenz, einen negativen Schufa-Eintrag abzuwenden. Die Barclays Bank PLC hatte bereits im Februar 2016 nach dem Antrag auf Erlass einer einstweiligen Verfügung, den Antrag auf Widerruf des Negativeintrages anerkannt.[Wir berichteten.](https://advoadvice.de/blog/schufa-eintrag-barclaycard-erkennt-antrag-auf-einstweilige-verf%C3%BCgung-vor-lg-hamburg-an/)
 
 ![Landgericht Hamburg - Außenansicht](/uploads/versions/lg-hamburg-außenansicht---x----1280-720x---.JPG)
 
@@ -47,3 +47,5 @@ Zu der Frage nach einem Schriftformerfordernis bei Mahnschreiben nach § 28 a Ab
 Im Falle eines Negativeintrages ist es empfehlenswert, anwaltliche Hilfe in Anspruch zu nehmen. Dabei konnte bereits vielen Betroffenen geholfen werden, ein unbelastetes Wirtschaftsleben zu führen.
 
 Sollten Sie unter den Folgen eines Negativeintrages leiden, können Sie jederzeit Kontakt zu unserer Kanzlei aufnehmen. Rufen Sie uns einfach unter 030 921 000 40 an senden uns eine Email unter info@advoadvice.de für Ihre Anfragen.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;

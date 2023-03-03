@@ -21,11 +21,9 @@ topics:
   - versicherung
 author: dr-sven-tintemann
 ---
-
-
 Gerade Versicherungsverträge, welche im Zeitraum von 1995 bis 2007 geschlossen wurden, enthalten in nicht seltenen Fällen eine fehlerhafte Widerspruchsbelehrung oftmals auch als Widerrufsbelehrung bezeichnet. Fehler in der Widerspruchs- oder Widerrufsbelehrung führen dazu, dass die Lebens- oder Rentenversicherungsverträge auch noch nach Jahren und sogar heute und in Zukunft noch widerrufen werden können. Hauptsächlich sind jedoch Verträge betroffen, die im so genannten Policenmodell abgeschlossen wurden.
 
-**Was bedeutet Policenmodell und wie wurde die Versicherung im Wege des Policenmodell abgeschlossen?**
+## **Was bedeutet Policenmodell und wie wurde die Versicherung im Wege des Policenmodell abgeschlossen?**
 
 Nach dem Policenmodell kommt der Versicherungsvertrag erst zustande, wenn der Versicherungsnehmer den Versicherungsschein, die Verbraucherinformationen, die Allgemeinen Versicherungsbedingungen und eine ordnungsgemäße Widerspruchsbelehrung erhalten hat. Bis zur Entscheidung des Europäischen Gerichtshofs am 19.12.2013 kam der Versicherungsvertrag spätestens nach einem Jahr nach Übersendung des Versicherungsscheins zustande, unabhängig ob der Versicherungsnehmer alle notwendigen Unterlagen und auch eine Widerspruchsbelehrung erhalten hat. So sah es die Regelung des § 5a Abs. 2 Satz 4 Versicherungsvertragsgesetz alte Fassung (kurz: VVG a.F.) vor.
 
@@ -35,11 +33,11 @@ Der Versicherungsantrag wurde dann von dem Versicherungsunternehmen bearbeitet u
 
 Zahlreiche Versicherungsunternehmen nahmen jedoch mit einer Widerspruchsbelehrung bzw. einer ordnungsgemäßen Widerspruchsbelehrung nicht so genau. Sie versteckten entweder die Widerspruchsbelehrung in den Allgemeinen Versicherungsbedingungen oder belehrten den angehenden Versicherungsnehmer nicht ordnungsgemäß, indem sie zum Beispiel in der Widerspruchsbelehrung nicht auf die Notwendigkeit der Textform des Widerspruches hinwiesen oder die gesetzliche Regelung zitierten, nach welcher die Widerspruchsmöglichkeit automatisch nach einem Jahr enden sollte, selbst wenn das Versicherungsunternehmen seine Informationspflichten gegenüber dem Kunden und angehenden Versicherungsnehmer verletzt hatte.
 
-**Keine ordnungsgemäße Widerspruchsbelehrung erhalten, Widerspruch erklärt – Versicherungsunternehmen weist Widerspruch zurück**
+## **Keine ordnungsgemäße Widerspruchsbelehrung erhalten, Widerspruch erklärt – Versicherungsunternehmen weist Widerspruch zurück**
 
 Obwohl zwischenzeitlich zahlreiche Urteile durch den Bundesgerichtshof, dem höchsten deutschen Gericht, gesprochen und die Versicherungsunternehmen entsprechend verurteilt wurden, verweigern diese oftmals die Anerkennung des Widerspruchs und die damit verbundene Folge der Rückabwicklung des Versicherungsvertrages. Hauptargument ist in den meisten Fällen, dass die Urteile des Bundesgerichtshofs nicht das Versicherungsunternehmen betreffen würden oder dass zahlreiche Gerichte die Rechtmäßigkeit der Widerspruchsbelehrung festgestellt hätten.
 
-**Was kann ich als Versicherungsnehmer dann noch tun?**
+## **Was kann ich als Versicherungsnehmer dann noch tun?**
 
 Versicherungsnehmer, deren Widerspruch durch das Versicherungsunternehmen zurück gewiesen wurde, sollten sich durch das Verhalten des Versicherungsunternehmens nicht entmutigen lassen.
 
