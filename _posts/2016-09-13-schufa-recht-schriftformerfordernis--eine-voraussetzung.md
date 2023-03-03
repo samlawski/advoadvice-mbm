@@ -1,7 +1,9 @@
 ---
-title: 'Schriftformerfordernis - Wann ist diese Schriftform gewahrt?'
+title: Schriftformerfordernis - Wann ist diese Schriftform gewahrt?
 date: 2016-09-13 00:00:00
-description: 'Schufa-Recht: Schriftformerfordernis – Eine Voraussetzung des  § 28a Abs. 1 Nr. 4 BDSG – Wann ist diese Schriftform gewahrt?'
+description: >-
+  Schufa-Recht: Schriftformerfordernis – Eine Voraussetzung des  § 28a Abs. 1
+  Nr. 4 BDSG – Wann ist diese Schriftform gewahrt?
 layout: post
 style_id: post
 image:
@@ -17,11 +19,10 @@ tags:
   - Berlin
 topics: []
 author: dr-sven-tintemann
-redirect_from: 
-  - /blog/schufa-recht-schriftformerfordernis-eine-voraussetzung-des-28a-abs-1-nr-4-bdsg-wann-ist-diese-schriftform-gewahrt/
+redirect_from:
+  - >-
+    /blog/schufa-recht-schriftformerfordernis-eine-voraussetzung-des-28a-abs-1-nr-4-bdsg-wann-ist-diese-schriftform-gewahrt/
 ---
-
-
 Mittlerweile gehört es bei vielen zum Alltag, dass an die Zahlungen offener Rechnungen erinnert werden muss. Viele Unternehmen mahnen zwischenzeitlich nicht mehr selbst, sondern haben ihr Mahnwesen ausgelagert an Inkassobüros. Die meisten in Deutschland tätigen Inkassobüros sind der SCHUFA Holding AG, einer Schutzgemeinschaft der Kreditwirtschaft, angeschlossen.
 
 Um die offenen Forderungen schneller beitreiben zu können, nutzen die Inkassobüros ein legales Mittel und drohen dem Mahnungsempfänger mit einem SCHUFA – Eintrag, mit der Begründung, dass ein vertragswidriges Verhalten vorliegt.
@@ -32,7 +33,7 @@ Mit den Mahnschreiben sind zumeist auch negative SCHUFA – Einträge verbunden,
 
 Die Frage ist durchaus berechtigt. Warum?
 
-**Können zweimalige Mahnschreiben einen negativen SCHUFA – Eintrag rechtfertigen**
+## **Können zweimalige Mahnschreiben einen negativen SCHUFA – Eintrag rechtfertigen**
 
 § 28a Abs. 1 Nr. 4 Bundesdatenschutzgesetz (BDSG) regelt die Voraussetzungen, wann nach Mahnungen ein negativer SCHUFA – Eintrag seine Rechtfertigung findet. Dabei umfasst § 28a Abs. 1 Nr. 4 Bundesdatenschutzgesetz vier Voraussetzungen, welche insgesamt erfüllt sein müssen.
 
@@ -40,7 +41,7 @@ Gleich die erste Voraussetzung des § 28a Abs. 1 Nr. 4 Bundesdatenschutzgesetz i
 
 Können Mahnschreiben, welche lediglich mit eingescannten Unterschriften versandt wurden, dieser Anforderung gerecht werden?
 
-**Wann ist das Schriftformerfordernis erfüllt?**
+## **Wann ist das Schriftformerfordernis erfüllt?**
 
 Die Rechtsanwälte der Kanzlei AdvoAdvice vertreten die Auffassung, dass Mahnschreiben, welche keine Unterschriften im Original aufweisen, dem Schriftformerfordernis nicht genügen.
 
@@ -64,16 +65,18 @@ Damit müssen die Mahnschreiben aber über eine eigenhändige Namensunterschrift
 
 Es liegen damit zwar zwei Mahnungen vor, aber diese sind nicht schriftlich im Sinne des § 28 a Abs. 1 Nr. 4 BDSG erfolgt.
 
-**Was sollten Betroffene tun?**
+## **Was sollten Betroffene tun?**
 
 Haben Sie nach zwei Mahnschreiben, welche mit eingescannten Unterschriften versandt wurden, einen negativen SCHUFA – Eintrag erhalten, sollten Sie sich anwaltlich beraten lassen.
 
 Die Erfahrungen der Rechtsanwälte der Kanzlei AdvoAdvice haben gezeigt, dass die eigenen Bemühungen der Betroffenen oftmals nicht zum Erfolg führen. Entweder bleiben die Schreiben der Betroffenen, verbunden mit der Bitte den negativen SCHUFA – Eintrag zu löschen, unbeantwortet oder die Inkassobüros drohen weiter, die Forderungen gerichtlich geltend zu machen.
 
-Spätestens dann, wenn ein Mahnbescheid oder eine Klage ins Haus flattern, sollten die Betroffenen anwaltliche Hilfe in Anspruch nehmen, da gerichtlich festgestellte Forderungen oftmals berechtigterweise zur SCHUFA Holding AG gemeldet werden können. Aus einem zunächst unberechtigten SCHUFA – Eintrag, welcher  zu löschen ist, wird dann ein berechtigter SCHUFA – Eintrag, so dass die Löschung dieses Eintrags nur in ganz wenigen Ausnahmefällen möglich ist.
+Spätestens dann, wenn ein Mahnbescheid oder eine Klage ins Haus flattern, sollten die Betroffenen anwaltliche Hilfe in Anspruch nehmen, da gerichtlich festgestellte Forderungen oftmals berechtigterweise zur SCHUFA Holding AG gemeldet werden können. Aus einem zunächst unberechtigten SCHUFA – Eintrag, welcher &nbsp;zu löschen ist, wird dann ein berechtigter SCHUFA – Eintrag, so dass die Löschung dieses Eintrags nur in ganz wenigen Ausnahmefällen möglich ist.
 
-**Fazit:**
+## **Fazit**
 
 Die Regelung des § 28a Abs. 1 Nr. 4 a) Bundesdatenschutzgesetz schreibt vor, dass die Mahnungen schriftlich zu erfolgen haben. Das Schriftformerfordernis ist nach den Vorschriften des Bürgerlichen Gesetzbuches nur dann erfüllt, wenn die Mahnschreiben eigenhändig unterschrieben sind. Diesem Erfordernis werden die Mahnschreiben der Inkassobüros in aller Regel nicht gerecht. Ein daraufhin erfolgter negativer SCHUFA – Eintrag ist damit unberechtigt erfolgt, so dass die Betroffenen sich dagegen zur Wehr setzen sollten.
 
 Die Rechtsanwälte der Kanzlei AdvoAdvice stehen Ihnen gerne im Wege einer ersten rechtlichen Einschätzung zur Verfügung. Aufgrund von Formfehlern bei der Eintragung mussten konnten schon viele Einträge von Inkassofirmen und anderen eintragenden Stellen wie z.B. Banken, Sparkassen, Telekommunikationsanbietern, Online-Händlern und ähnliches zur Löschung gebracht werden.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;

@@ -22,15 +22,11 @@ topics:
   - medien
 author: kim-oliver-klevenhagen
 ---
-
-
-Die Zeitschrift f&uuml;r Bank- und Kapitalmarktrecht (kurz: BKR) enth&auml;lt in ihrer [Ausgabe f&uuml;r Februar 2017](/uploads/tintemann-de/BKR-2017-45-ff.-Umsetzung-Wohnimmobilienkreditrichtlinie.pdf)zum Thema der Umsetzung der Wohnimmobilienkreditrichtlinie in deutsches Recht einen Fachartikel der Rechtsanw&auml;lte Kim Oliver Klevenhagen und Dr. Erik Olaf Kraatz.
+Die Zeitschrift für Bank- und Kapitalmarktrecht (kurz: BKR) enthält in ihrer [Ausgabe für Februar 2017](/uploads/tintemann-de/BKR-2017-45-ff.-Umsetzung-Wohnimmobilienkreditrichtlinie.pdf)zum Thema der Umsetzung der Wohnimmobilienkreditrichtlinie in deutsches Recht einen Fachartikel der Rechtsanwälte Kim Oliver Klevenhagen und Dr. Erik Olaf Kraatz.
 
 In dem Artikel werden unter anderem behandelt:
 
-* Umsetzung der Wohnimmobilienkreditrichtlinie
-  <br>- Informationspflichten der Darlehensgeber
-  <br>- Neuerungen bei der Kreditw&uuml;rdigkeitspr&uuml;fung
+* Umsetzung der Wohnimmobilienkreditrichtlinie<br>\- Informationspflichten der Darlehensgeber<br>\- Neuerungen bei der Kreditwürdigkeitsprüfung
 
 ![BKR Logo - Fremde Marke](/uploads/versions/bkr-ausgabe---x----160-227x---.jpg)
 

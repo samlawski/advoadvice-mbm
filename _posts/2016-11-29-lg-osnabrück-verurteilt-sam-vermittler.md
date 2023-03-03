@@ -24,11 +24,9 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Das Landgericht (LG) Osnabrück hat mit einer am 04.11.2016 verkündeten Entscheidung einen Vermittler zur Zahlung von Schadensersatz i.H.v. 15.839,02 € zzgl. Zinsen i.H.v. 5-Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 14.01.2016 verurteilt, Zug um Zug gegen Übertragung der Rechte aus dem geschlossenen Kaufvertrag zwischen dem Kläger und der SAM Management Group AG.
 
-**SAM Management Group AG Vermittler: Falschberatung – Risikoaufklärung – Broschüre und Aufklärung unzureichend**
+## **SAM Management Group AG Vermittler: Falschberatung – Risikoaufklärung – Broschüre und Aufklärung unzureichend**
 
 In der Entscheidung führte das Gericht aus, dass es von einer Falschberatung des Klägers durch den beklagten Vermittler ausgehen würde. Dieser hatte sich darauf berufen, eine Risikoaufklärung anhand der Broschüre „Cash Select“ durchgeführt zu haben. Die in der Broschüre enthaltenen Risikohinweise hielt das Gericht jedoch nicht für ausreichend. Das Gericht führte hier wie folgt aus:
 
@@ -38,7 +36,7 @@ In der Entscheidung führte das Gericht aus, dass es von einer Falschberatung de
 
 *Inwieweit diese Belehrung im Hinblick auf die Rangrücktrittsklausel genügt, kann vorliegend dahinstehen; sie genügt jedenfalls nicht, um hinreichend über die weiteren mit dem Anlagemodell verbundenen Risiken, insbesondere auch das Risiko eines Totalverlustes aus anderen Gründen aufzuklären.“*
 
-**Anlegerschutz: Aufklärungspflichten und Rechte bei der Vermittlung von Kapitalanlagen - Fehlerhafte Prospektunterlagen – Risikohinweise – fehlerhaftes Beratungsdokument**
+## **Anlegerschutz: Aufklärungspflichten und Rechte bei der Vermittlung von Kapitalanlagen - Fehlerhafte Prospektunterlagen – Risikohinweise – fehlerhaftes Beratungsdokument**
 
 Damit macht das Gericht deutlich, dass bereits das Informationsmaterial zur Aufklärung der Anleger fehlerhaft gewesen ist. Der Vermittler hätte daher nur dann ordentlich aufklären können, wenn er neben der Prospektunterlage auch noch eigene Risikohinweise erteilt hätte. Rechtsanwalt Dr. Tintemann kommentiert dies wie folgt:
 
@@ -46,8 +44,8 @@ Damit macht das Gericht deutlich, dass bereits das Informationsmaterial zur Aufk
 
 Die Entscheidung ist noch nicht rechtskräftig. Der beklagte Vermittler hat die Möglichkeit, das Rechtsmittel der Berufung gegen die Entscheidung einzulegen. Wir werden ggf. weiter berichten.
 
-**Fazit: Kapitalanleger der SAM AG sollten Ansprüche gegen Verantwortliche, Berater und Vermittler prüfen lassen!**
+## **Fazit: Kapitalanleger der SAM AG sollten Ansprüche gegen Verantwortliche, Berater und Vermittler prüfen lassen!**
 
 Die Kanzlei AdvoAdvice vertritt Anleger der SAM Management Group AG teils erstinstanzlich, aber vor allem in Berufungsverfahren gegen Verantwortliche und Hintermänner sowie gegen Berater und Vermittler der Kapitalanlage.
 
-Betroffene Anleger können sich an die Kanzlei AdvoAdvice Rechtsanwälte mbB für weitere Informationen und eine Ersteinschätzung wenden. AdvoAdvice Rechtsanwälte mbB erreichen betroffene Anleger unter 030-921 000 40 oder per mail [info@advoadvice.de](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;). Die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen, beide Fachanwälte für Bank- und Kapitalmarktrecht, verfügen über eine hohe Expertise und jahrelange Berufserfahrung in diesen und ähnlichen Fällen des Anlegerschutzes.
+Betroffene Anleger können sich an die Kanzlei AdvoAdvice Rechtsanwälte mbB für weitere Informationen und eine Ersteinschätzung wenden. AdvoAdvice Rechtsanwälte mbB erreichen betroffene Anleger unter 030-921 000 40 oder per mail [info@advoadvice.de](mailto:info@advoadvice.de). Die Rechtsanwälte Dr. Sven Tintemann und Kim Oliver Klevenhagen, beide Fachanwälte für Bank- und Kapitalmarktrecht, verfügen über eine hohe Expertise und jahrelange Berufserfahrung in diesen und ähnlichen Fällen des Anlegerschutzes.

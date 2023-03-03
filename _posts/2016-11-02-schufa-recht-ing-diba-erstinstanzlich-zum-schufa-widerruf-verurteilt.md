@@ -24,11 +24,9 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
 Das Landgericht Frankfurt (Oder) hat in erster Instanz die ING DiBa AG zum Widerruf eines negativen SCHUFA – Eintrags verurteilt. Das am 15.09.2016 verkündete Urteil ist noch nicht rechtskräftig. Die ING DiBa AG kann gegen dieses Urteil Berufung zum Brandenburgischen Oberlandesgericht einlegen.
 
-**Was war Hintergrund des Rechtsstreits**
+## **Was war Hintergrund des Rechtsstreits**
 
 Der Kläger hatte im Mai 2010 bei der ING DiBa AG ein privates Girokonto eröffnet. Auf diesem Girokonto räumte ihm die ING DiBa AG einen unbefristeten Dispositionskredit in Höhe von 5.000,00 Euro ein. Dieser Dispositionskredit war sehr schnell ausgeschöpft und die ING DiBa AG duldete sogar eine Überziehung des eingeräumten Dispositionsrahmens.
 
@@ -40,7 +38,7 @@ Das Verfahren vor dem Landgericht Frankfurt (Oder) zog sich über fast zwei Jahr
 
 Die noch nicht rechtskräftige Entscheidung des Landgerichts Frankfurt (Oder) zugunsten des Klägers ist in jeder Hinsicht zu begrüßen. Das Gericht hat sich umfangreich zu den einzelnen Tatbestandsvoraussetzungen des § 28a Abs. 1 Satz 1 Bundesdatenschutzgesetz geäußert und das Vorliegen der Voraussetzungen umfassend geprüft.
 
-**Entscheidung des Landgerichts Frankfurt (Oder) zugunsten des Klägers**
+## **Entscheidung des Landgerichts Frankfurt (Oder) zugunsten des Klägers**
 
 Während sich das Landgericht Frankfurt (Oder) mit den Voraussetzungen des § 28a Abs. 1 Satz 1 Nr. 1 und Nr. 2 Bundesdatenschutzgesetz in der notwendige Kürze auseinandersetzte, hat es sich mit den weiteren Tatbestandsvoraussetzungen des § 28a Abs. 1 Satz 1 Nr. 3 – 5 Bundesdatenschutzgesetz umfassend auseinander gesetzt. Dabei hat es sowohl die Argumente des Klägers zur Unterstützung seines Löschungsbegehrens als auch die Argumente der ING DiBa AG bei seiner Entscheidungsfindung berücksichtigt.
 
@@ -56,8 +54,10 @@ Das Landgericht Frankfurt (Oder) hat sich hier umfassend mit den Tatbestandsvora
 
 Die Entscheidung des Landgerichts Frankfurt (Oder) hat ausschlaggebenden Charakter für den Kampf gegen zu Unrecht erfolgte negative SCHUFA – Einträge. Es setzt hier noch einmal deutliche Grenzen für die Eintragenden und definiert die Anforderungen an einen ordnungsgemäßen Eintrag. wer diese nicht erreicht, muss mit einer kostenpflichtigen Verurteilung rechnen.
 
-**Fazit:**
+## **Fazit**
 
 Oft ist der Weg lang und beschwerlich, sich von einem negativen SCHUFA – Eintrag zu befreien. Dennoch sollten Betroffene die Auseinandersetzung mit Banken, Inkassofirmen, Telekommunikationsunternehmen und sonstigen eintragenden Stellen nicht scheuen, um einen negativen SCHUFA – Eintrag zur Löschung zu bringen.
 
 Die Rechtsanwälte der Anwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten haben sich auf die Vorschriften des Bundesdatenschutzgesetzes spezialisiert und schon vielen Betroffenen geholfen, Negativeeintrag bei Auskunfteien (z.B. Schufa, Bürgel, Creditreform etc.) zur Löschung zu bringen. Dabei musste nicht immer geklagt werden. Oft können bereits außergerichtlich Widerrufe oder Löschungen von Negativeinträgen erreicht werden.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;

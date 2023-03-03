@@ -21,8 +21,6 @@ tags:
 topics: []
 author: kim-oliver-klevenhagen
 ---
-
-
 [Die Versprechungen klingen verlockend: „langfristiger Wertzuwachs“, „inflationsgeschützt“, „konjunkturunabhängig“, „schöne Zusatzrente“ oder „ohne Risiko“.](){: .cc-active}
 
 Wieder muss sich die Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten mbB mit dem aktuell auf dem Kapitalanlegermarkt florierendem Konzept der Pflegeimmobilien als Kapitalanlage beschäftigen.
@@ -45,7 +43,7 @@ Sicherheit - dies wird auf den Internetseiten der Betreiber stets als ausschlagg
 
 Die Internetrecherche hierzu ergibt jedoch, dass dies so nicht pauschal richtig ist. Zwar gewährt die Pflegeversicherung durchaus monatliche Leistungen. Diese sind jedoch abhängig von der Pflegestufe des Patienten. Seit dem Jahre 2015 erhält ein Patient mit der Pflegestufe III („Schwerstbedürftigkeit“) 1.612,00 Euro an Zuschüssen.
 
-Bei der Altenpflege im Heim ohne Pflegestufe zahlt der Sozialversicherungsträger nichts. Der Heimbewohner muss für die Kosten selbst aufkommen. Was ist, wenn dieser nicht zahlt? Ist eine Räumungsklage gegen eine pflegebedürftige Person so einfach durchzusetzen?  Von einer vollständigen Sicherstellung der Kostentragung von staatlicher Seite und einer sicheren Mieteinnahme allein aufgrund des Bedarfs einer alternden Bevölkerung kann jedenfalls nicht pauschal gesprochen werden.
+Bei der Altenpflege im Heim ohne Pflegestufe zahlt der Sozialversicherungsträger nichts. Der Heimbewohner muss für die Kosten selbst aufkommen. Was ist, wenn dieser nicht zahlt? Ist eine Räumungsklage gegen eine pflegebedürftige Person so einfach durchzusetzen? Von einer vollständigen Sicherstellung der Kostentragung von staatlicher Seite und einer sicheren Mieteinnahme allein aufgrund des Bedarfs einer alternden Bevölkerung kann jedenfalls nicht pauschal gesprochen werden.
 
 **Immobilienpreise angemessen und marktkonform?**
 

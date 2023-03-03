@@ -23,15 +23,11 @@ tags:
 topics: []
 author: dr-sven-tintemann
 ---
-
-
-**Advanzia Bank S.A. vergleicht sich vor dem Landgericht Berlin**
-
 Die Rechtsanwälte konnten wieder einmal einem Betroffenen helfen, welcher durch einen negativen SCHUFA-Eintrag auf Veranlassung der Advanzia Bank S.A., mit Sitz in Luxemburg, belastet war. Das Landgericht Berlin hatte hier nach Einreichung einer Klage auf Widerruf des Eintrags sowie Scorewertberichtigung für den 22.11.2016 Termin zur mündlichen Verhandlung bestimmt. In letzter Minute konnte der Termin durch das Landgericht Berlin aufgehoben werden, weil sich die Advanzia Bank S.A. sowie der Betroffene auf einen gerichtlichen Vergleichsvorschlag geeinigt haben.
 
 Mit Beschluss des Landgerichts Berlin vom 21.11.2016 wurde der Vergleich schriftlich protokolliert. Danach verpflichtet sich die Advanzia Bank S.A. den streitgegenständlichen negativen SCHUFA – Eintrag gegenüber der SCHUFA Holding AG schriftlich zu widerrufen und zugleich die SCHUFA Holding AG zu ersuchen, den Scorewert neu zu berechnen, als habe es den Negativeintrag nicht gegeben.
 
-**Was war Gegenstand des Rechtsstreits?**
+## **Was war Gegenstand des Rechtsstreits?**
 
 Der Betroffene unterhielt zur Advanzia Bank S.A. vertragliche Beziehungen im Rahmen eines Kreditkartenvertrages. Im August 2014 kam es zu einer geringfügigen Überziehung des eingeräumten Kreditrahmens, welche der Betroffene nicht kurzfristig ausgleichen konnte.
 
@@ -51,14 +47,16 @@ Im Fall des Betroffenen erfolgte bis auf eine Verteidigungsanzeige seitens der A
 
 Kurz vor dem Termin zur mündlichen Verhandlung am 22.11.2016 kam Bewegung in die Angelegenheit des Betroffenen. Das Gericht unterbereitete den Vorschlag, die Angelegenheit durch einen Vergleich zu beenden. Diesem Vorschlag trat sowohl der Betroffene als auch die Advanzia Bank S.A. näher. Daher unterbreitete das Gericht den Vorschlag, dass die Advanzia Bank S.A. den negativen SCHUFA – Eintrag gegenüber der SCHUFA Holding AG widerruft und eine Entscheidung über den Unterlassungsanspruch, welchen der Betroffene ebenfalls geltend gemacht hatte, unterbleibt. Diesem Vergleichsvorschlag stimmten beide Parteien des Rechtsstreits einen Tag vor der mündlichen Verhandlung zu, so dass das Landgericht Berlin den Termin zur mündlichen Verhandlung am 22.11.2016 aufhob.
 
-**Welche Konsequenz hat der Vergleich?**
+## **Welche Konsequenz hat der Vergleich?**
 
 Die Advanzia Bank S.A. muss nunmehr gegenüber der SCHUFA Holding AG den Eintrag widerrufen und zugleich die SCHUFA Holding AG ersuchen, den Scorewert neu zu berechnen, wie er sich ohne den negativen SCHUFA – Eintrag darstellt. Dies kann als Meilenstein für den Betroffenen bezeichnet werden, da zum einen kein negativer Eintrag mehr im Datenbestand des Betroffenen verzeichnet ist und zugleich seine Bonität wieder hergestellt wird, so dass der Betroffene wieder uneingeschränkt am wirtschaftlichen Leben teilhaben kann.
 
-**Fazit:**
+## **Fazit**
 
 Negative SCHUFA – Einträge belasten die Betroffenen oftmals schwer. Sie sind in ihrer wirtschaftlichen Entscheidungsbefugnis massiv eingeschränkt. Kauf auf Rechnung oder auch der Abschluss eines Darlehensvertrages sind mit einem negativen SCHUFA – Eintrag oftmals nicht möglich.
 
 Aber nicht jeder negative SCHUFA – Eintrag findet seine Berechtigung nach den Vorschriften des Bundesdatenschutzgesetzes, so dass Löschungsmöglichkeiten durchaus bestehen.
 
 Betroffene können sich daher gerne an die Rechtsanwälte wenden und sich eine erste Einschätzung hinsichtlich ihrer rechtlichen Möglichkeiten geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an oder laden Sie sich im Bereich Downloads unseren Fragebogen bei Negativeinträgen in einer Wirtschaftsauskunftei herunter. Gerne stehen wir auch per Email unter info@advoadvice.de für Anfragen zur Verfügung.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
