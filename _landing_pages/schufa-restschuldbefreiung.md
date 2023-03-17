@@ -8,7 +8,7 @@ description: >-
   das Merkmal Restschuldbefreiung zu verlangen. 
 header_titel: Schufa muss Eintrag zu Restschuldbefreiung löschen.
 header_subtitle: 'Werden Sie vorzeitig Ihren Eintrag zur Restschuldbefreiung wieder los. '
-header_image: /uploads/advoadvice-01-45-von-80.jpg
+header_image: /uploads/eugh-generalanwalt.jpg
 header_cta_titel: Eintrag zu Restschuldbefreiung aus Auskunftei löschen lassen.
 header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ersteinschätzung. '
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
@@ -61,7 +61,7 @@ abschnitte:
       Der Bundesgerichtshof (BGH) will die Entscheidung des EuGH bis zu einer
       eigenen Entscheidung in den parallel geführten Verfahren erst einmal
       abwarten.&nbsp;
-    image: /uploads/eugh-generalanwalt.jpg
+    image: ''
     cta: true
   - abschnitt_template: box_hell
     titel: Entscheidung des LG Frankfurt am Main
