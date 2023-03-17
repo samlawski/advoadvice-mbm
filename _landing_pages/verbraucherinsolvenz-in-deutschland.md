@@ -14,10 +14,13 @@ header_cta_text: Vereinbaren Sie einen Termin für eine kostenfrei telefonische 
 header_portrait_image: /uploads/sven-portrait-04-square-sm-min.jpg
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: 
+    titel:
     text_markdown: >-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JIt0pfNuzt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    image: 
+      <iframe width="560" height="315"
+      src="https://www.youtube-nocookie.com/embed/JIt0pfNuzt4" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+    image:
     cta: false
   - abschnitt_template: weiss_bild_links
     titel: Verkürzung des Verbraucher&shy;insolvenzverfahrens
@@ -130,5 +133,5 @@ abschnitte:
       möglich.&nbsp;
     image: /uploads/insolvency-96596-1280.jpg
     cta: true
-sitemap: false
+sitemap: true
 ---

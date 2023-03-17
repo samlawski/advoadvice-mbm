@@ -83,7 +83,5 @@ abschnitte:
       verhelfen.
     image:
     cta: true
-sitemap: false
+sitemap: true
 ---
-
-
