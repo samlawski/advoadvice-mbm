@@ -63,7 +63,7 @@ abschnitte:
       abwarten.&nbsp;
     image: /uploads/curia-schild.jpg
     cta: true
-  - abschnitt_template: box_hell
+  - abschnitt_template: box_dunkel
     titel: Widerspruch gegen Speicherung der Restschuldbefreiung
     text_markdown: >-
       Wenn Sie ein Insolvenzverfahren durchlaufen haben und über Sie das Merkmal
