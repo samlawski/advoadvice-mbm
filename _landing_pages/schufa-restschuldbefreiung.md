@@ -111,5 +111,31 @@ abschnitte:
       Restschuldbefreiung eine neue Wendung bekommt.
     image:
     cta: true
-sitemap: false
+  - abschnitt_template: weiss_bild_links
+    titel: Widerspruch gegen Speicherung der Restschuldbefreiung
+    text_markdown: >-
+      Wenn Sie ein Insolvenzverfahren durchlaufen haben und über Sie das Merkmal
+      "Restschuldbefreiung erteilt" im Datenbestand einer Auskunftei (z.B. der
+      Schufa Holding AG) mehr als sechs Monate lang gespeichert ist, dann
+      sollten Sie zunächst einen Widerspruch gegen die Speicherung nach Art 21
+      DGSVO einlegen.&nbsp;
+
+
+      Ein entsprechendes Formular für den Widerspruch stellt Ihnen unsere
+      Kanzlei kostenfrei zur Verfügung. --&gt; [Zum
+      Formular](/uploads/dokumente/Widerspruch-RSB-Schufa.pdf)
+
+
+      Wenn Sie noch keine Rechtsschutzversicherung haben sollten, die einen
+      möglichen Prozess gegen die Auskunftei oder den zuständigen
+      Datenschutzbeauftragten des zuständigen Bundeslandes deckt, empfehlen wir
+      Ihnen, vor Absendung des Widerspruchs den Abschluss einer
+      Rechtsschutzversicherung sowie das Abwarten der vertraglichen Wartezeit,
+      bevor Sie den Widerspruch einreichen. Die Versicherung können Sie auch
+      während der Insolvenz oder gleich nach Erteilung der Restschuldbefreiung
+      abschließen, um dann nach Ablauf von sechs Monaten sofort mit dem
+      Widerspruch starten zu können.&nbsp;
+    image:
+    cta: true
+sitemap: true
 ---
