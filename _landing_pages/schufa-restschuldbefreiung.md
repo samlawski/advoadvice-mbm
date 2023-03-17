@@ -5,7 +5,7 @@ title: Eintrag zu Restschuldbefreiung in Auskunftei löschen lassen.
 description: >-
   Neue Rechtsprechung und Aussagen des Generalanwalts am Europäischen
   Gerichtshof führen zu der Möglichkeit, eine Löschung bei einer Auskunftei über
-  das Merkmal Restschuldbefreiung erteilt zu verlangen. 
+  das Merkmal Restschuldbefreiung zu verlangen. 
 header_titel: Schufa muss Eintrag zu Restschuldbefreiung löschen.
 header_subtitle: 'Werden Sie vorzeitig Ihren Eintrag zur Restschuldbefreiung wieder los. '
 header_image: /uploads/advoadvice-01-45-von-80.jpg
@@ -14,34 +14,54 @@ header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ers
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: Urteil des OLG Schleswig vom 02.07.2021
+    titel: Verfahren vor EuGH und BGH
     text_markdown: >-
-      Das Oberlandesgericht Schleswig hat mit einer Entscheidung vom 02.07.2021
-      die Schufa Holding AG zur Löschung des Eintrags "Restschuldbefreiung
-      erteilt" nach einem Speicherungszeitraum von 6 Monaten verurteilt.&nbsp;
+      Bereits am 02.07.2021 hat das Oberlandesgericht Schleswig die Schufa
+      Holding AG zur Löschung des Eintrags "Restschuldbefreiung erteilt" nach
+      einem Speicherungszeitraum von 6 Monaten verurteilt.&nbsp;
 
 
       Die Entscheidung stellt eine wesentliche Veränderung der bisher zu diesem
-      Thema ergangenen Urteile dar. Diese waren allerdings gro&szlig;teils noch
-      zur alten Rechtslage nach dem BDSG alter Fassung ergangen.&nbsp;
-
-
-      Nunmehr nach Einführung der DSGVO ergaben sich neue Argumente dafür, dass
-      ein Eintrag über das Merkmal "Restschuldbefreiung erteilt" nicht einfach
-      über einen Zeitraum von drei Jahren nach Erteilung der Restschuldbefreiung
-      gespeichert werden darf.&nbsp;
-
-
-      Die Argumente, die hier die Kanzlei AdvoAdvice vor dem OLG Schleswig
-      vertrat, scheinen nunmehr zu einer Neuausrichtung der Rechtsprechung
-      geführt zu haben.&nbsp;
+      Thema ergangenen Urteile dar. Diese waren allerdings großteils noch zur
+      alten Rechtslage nach dem BDSG alter Fassung ergangen.&nbsp;
 
 
       Die Revision zum Bundesgerichtshof wurde erstmals zugelassen und zeigt die
       Bedeutung der nunmehr aufgeworfenen Rechtsfragen im Zusammenhang mit der
       DSGVO und den Speicherfristen in der
       Insolvenzbekanntmachungsverordnung.&nbsp;
-    image:
+
+
+      In der Zwischenzeit wurden in Klageverfahren gegen den
+      Datenschutzbeauftragten des Landes Hessen, in denen die Schufa Holding AG
+      beigeladene ist, vom Verwaltungsgericht Wiesbaden sogenannte Vorlagefragen
+      an den Europäischen Gerichtshof (EuGH) gestellt.&nbsp;
+
+
+      Über diese wurde am 26.01.2023 vor dem EuGH mündlich verhandelt. Für die
+      klagenden Verbraucher tragen dort Rechtsanwalt Dr. Raphael Rohrmoser und
+      Rechtsanwalt Dr. Sven Tintemann auf.&nbsp;
+
+
+      Mittlerweile liegen die Schlussanträge des Generalanwalts Priit Pikamäe
+      vom 16.03.2023 vor. Dieser sieht die Speicherfristen zur
+      Restschuldbefreiung auf einen Zeitraum von sechs Monaten begrenzt und hat
+      sich in seiner Argumentation dem Vortrag der Kanzlei AdvoAdvice und der
+      Europäischen Kommission angeschlossen.&nbsp;
+
+
+      Der EuGH muss jetzt noch über die Vorlagefragen des Verwaltungsgerichts
+      Wiesbaden endgültig entscheiden. Die Situation für Verbraucher, die einen
+      Eintrag über ihre erteilte Restschuldbefreiung bei einer Auskunftei wie
+      z.B. der Schufa Holding AG, Boniversum oder Arvato Infoscore löschen
+      lassen wollen, hat sich aber durch das Verfahren vor dem EuGH entscheidend
+      verbessert.&nbsp;
+
+
+      Der Bundesgerichtshof (BGH) will die Entscheidung des EuGH bis zu einer
+      eigenen Entscheidung in den parallel geführten Verfahren erst einmal
+      abwarten.&nbsp;
+    image: /uploads/eugh-generalanwalt.jpg
     cta: true
   - abschnitt_template: box_hell
     titel: Entscheidung des LG Frankfurt am Main
@@ -77,7 +97,7 @@ abschnitte:
       So hatte Dr. Sven Tintemann gemeinsam mit einem anderen Kollegen bereits
       in einem Artikel vom 27.01.2012, der in der Zeitschrift Verbraucher und
       Recht (VuR) veröffentlich worden ist, die Auffassung vertreten, dass eine
-      derartig lange Speicherung gegen europäisches Recht verstö&szlig;t.&nbsp;
+      derartig lange Speicherung gegen europäisches Recht verstößt.&nbsp;
 
 
       Die lange Speicherpraxis war auch nach Einführung der DSGVO durch Prof.
@@ -85,10 +105,10 @@ abschnitte:
       kritisiert worden.
 
 
-      Die Entscheidung des OLG Schleswig führt nunmehr dazu, dass ein jahrelang
-      zum Teil erbittet geführter Rechtsstreit um die Speicherung des Merkmals
-      der Restschuldbefreiung eine neue Wendung bekommt und dem
-      Bundesgerichtshof zur Entscheidung zugeführt werden kann.&nbsp;&nbsp;
+      Die Entscheidung des OLG Schleswig und die Anträge des Generalanwalts am
+      Europäischen Gerichtshof führen nunmehr dazu, dass ein jahrelang zum Teil
+      erbittet geführter Rechtsstreit um die Speicherung des Merkmals der
+      Restschuldbefreiung eine neue Wendung bekommt.
     image:
     cta: true
 sitemap: false
