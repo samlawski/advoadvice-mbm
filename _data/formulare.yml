@@ -1,30 +1,24 @@
-- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
-  title: Fragebogen PIM Gold
-  datei_path: /uploads/fragebogen-gold-1.pdf
-- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
-  title: Fragebogen Thomas Lloyd
-  datei_path: /uploads/fragebogen-thomaslloyd.pdf
-- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
-  title: Widerruf Autokredit
-  datei_path: /uploads/fragebogen-für-widerruf-autokredit.pdf
 - _slug: fragebogen-bei-negativeintragen-in-einer-wirtschaftsauskunftdatei_path
   title: Fragebogen Negativeintrag Schufa / Auskunftei
   datei_path: /uploads/fragebogen-bei-negativeinträgen-in-einer-wirtschaftsauskunftei.pdf
-- _slug: widerruf
-  title: Widerruf Darlehensvertrag
-  datei_path: /uploads/fragebogen-widerruf-darlehensvertrag.pdf
+- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
+  title: Widerspruch Restschuldbefreiung
+  datei_path: /uploads/widerspruch-rsb-schufa.pdf
+- _slug: anmeldeformular-wohrl-glaubigergemeinschaft
+  title: Fragebogen Thomas Lloyd
+  datei_path: /uploads/fragebogen-thomaslloyd.pdf
 - _slug: vollmacht
   title: Vollmacht
   datei_path: /uploads/vollmacht.pdf
-- _slug: auftragsbestaetigung
-  title: Auftragsbestätigung
-  datei_path: /uploads/auftragsbestätigung.pdf
-- _slug: mandatsbedingungen
-  title: Mandatsbedingungen
-  datei_path: /uploads/mandatsbedingungen-stand-mai-2018.pdf
 - _slug: anmeldeformular-wohrl-glaubigergemeinschaft
   title: Hinweise zur Datenverarbeitung
   datei_path: /uploads/hinweise-zur-datenverarbeitung.pdf
+- _slug: mandatsbedingungen
+  title: Mandatsbedingungen
+  datei_path: /uploads/mandatsbedingungen-stand-mai-2018.pdf
+- _slug: auftragsbestaetigung
+  title: Auftragsbestätigung
+  datei_path: /uploads/auftragsbestätigung.pdf
 - _slug: fragebogen-fur-geschadigte-anleger
   title: Fragebogen für geschädigte Anleger
   datei_path: /uploads/fragebogen-für-geschädigte-anleger.pdf
