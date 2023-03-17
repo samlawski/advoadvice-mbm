@@ -13,7 +13,7 @@ header_cta_titel: Eintrag zu Restschuldbefreiung aus Auskunftei löschen lassen.
 header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ersteinschätzung. '
 header_portrait_image: /uploads/0-layout/kontakt-tintemann.png
 abschnitte:
-  - abschnitt_template: weiss_bild_links
+  - abschnitt_template: banner_bild_rechts
     titel: Verfahren vor EuGH und BGH
     text_markdown: >-
       Bereits am 02.07.2021 hat das Oberlandesgericht Schleswig die Schufa
