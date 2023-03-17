@@ -64,7 +64,7 @@ abschnitte:
     image: /uploads/curia-schild.jpg
     cta: true
   - abschnitt_template: box_hell
-    titel: Entscheidung des LG Frankfurt am Main
+    titel: Weitere Entscheidungen deuter
     text_markdown: >-
       Bereits mit Urteil des Landgerichts Frankfurt am Main vom 20.12.2018
       konnte die Kanzlei De Backer Rechtsanwälte erreichen, dass die Schufa
@@ -84,31 +84,6 @@ abschnitte:
       weitere Falle übertragbar, bei denen das Merkmal "Restschuldbefreiung
       erteilt" im Datenbestand der Schufa Holding AG oder anderer Auskunfteien
       (wie z.B. der Creditreform / Boniversum) gespeichert ist.&nbsp;
-    image:
-    cta: true
-  - abschnitt_template: box_dunkel
-    titel: Schon seit Jahren kritische Stimmen in der Literatur.
-    text_markdown: >-
-      Das Problem, dass das Merkmal "Restschuldbefreiung erteilt" bei einer
-      Auskunftei gespeichert und erst nach Ablauf einer Frist von drei Jahren
-      gelöscht wird, ist nicht neu.&nbsp;
-
-
-      So hatte Dr. Sven Tintemann gemeinsam mit einem anderen Kollegen bereits
-      in einem Artikel vom 27.01.2012, der in der Zeitschrift Verbraucher und
-      Recht (VuR) veröffentlich worden ist, die Auffassung vertreten, dass eine
-      derartig lange Speicherung gegen europäisches Recht verstößt.&nbsp;
-
-
-      Die lange Speicherpraxis war auch nach Einführung der DSGVO durch Prof.
-      Dr. Ulrich Krüger (Bremen) in einem Artikel in der VuR vom 14.04.2020
-      kritisiert worden.
-
-
-      Die Entscheidung des OLG Schleswig und die Anträge des Generalanwalts am
-      Europäischen Gerichtshof führen nunmehr dazu, dass ein jahrelang zum Teil
-      erbittet geführter Rechtsstreit um die Speicherung des Merkmals der
-      Restschuldbefreiung eine neue Wendung bekommt.
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
