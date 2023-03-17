@@ -3,8 +3,9 @@ layout: landing_page
 style_id: landing
 title: Eintrag zu Restschuldbefreiung in Auskunftei löschen lassen.
 description: >-
-  Neue Rechtsprechung führt zu der Möglichkeit, eine Löschung bei einer
-  Auskunftei über das Merkmal Restschuldbefreiung erteilt zu verlangen. 
+  Neue Rechtsprechung und Aussagen des Generalanwalts am Europäischen
+  Gerichtshof führen zu der Möglichkeit, eine Löschung bei einer Auskunftei über
+  das Merkmal Restschuldbefreiung erteilt zu verlangen. 
 header_titel: Schufa muss Eintrag zu Restschuldbefreiung löschen.
 header_subtitle: 'Werden Sie vorzeitig Ihren Eintrag zur Restschuldbefreiung wieder los. '
 header_image: /uploads/advoadvice-01-45-von-80.jpg
@@ -92,5 +93,3 @@ abschnitte:
     cta: true
 sitemap: false
 ---
-
-
