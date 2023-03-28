@@ -27,10 +27,31 @@ abschnitte:
     text_markdown: >-
       <video width="560" height="315"
       poster="/uploads/2-video/ra-tintemann-thumbnail-schufa.png"
-      controls><source src="/uploads/2-video/ra-tintemann-schufa-264.mp4"
-      type="video/mp4"></video>
+      controls=""><source type="video/mp4"
+      src="/uploads/2-video/ra-tintemann-schufa-264.mp4" /></video>
     image:
     cta: false
+  - abschnitt_template: weiss_bild_links
+    titel: Schufa verkürzt Speicherfrist für Restschuldbefreiung
+    text_markdown: >-
+      Am 28.03.2023 hat die Schufa Holding AG angekündigt, die Speicherfrist für
+      das Merkmal der Restschuldbefreiung von bisher drei Jahren auf nunmehr
+      sechs Monate zu verkürzen.&nbsp;
+
+
+      Die Bild-Zeitung spricht hierbei von einer Schufa-Revolution.&nbsp;
+
+
+      Die Kanzlei AdvoAdvice hat mit mehreren Verfahren von Betroffenen, die
+      u.a. am 26.01.2023 vor dem EuGH und 14.02.2023 vor dem BGH verhandelt
+      wurden, maßgeblich zu dieser Veränderung der Geschäftspolitik
+      beigetragen.&nbsp;
+
+
+      [Weitere Informationen zu diesem Thema finden Sie
+      hier](/anwalt-fuer/schufa-restschuldbefreiung/).&nbsp;
+    image: /uploads/curia-schild.jpg
+    cta: true
   - abschnitt_template: box_hell
     titel: Negativeintrag löschen
     text_markdown: >-
@@ -654,9 +675,7 @@ abschnitte:
     cta: false
 redirect_from:
   - /themen/datenschutz
-  - /themen/datenschutz/
+  - /themen/schufa
 redirect_to:
 sitemap: true
 ---
-
-
