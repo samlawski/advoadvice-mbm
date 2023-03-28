@@ -16,7 +16,7 @@ abschnitte:
   - abschnitt_template: banner_bild_rechts
     titel: Verfahren vor EuGH und BGH
     text_markdown: >-
-      ## Sensationeller Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus
+      ### Sensationeller Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus
       Berlin!
 
 
@@ -78,7 +78,7 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: Widerspruch gegen Speicherung der Restschuldbefreiung
     text_markdown: >-
-      ## Möglichkeit zum Widerspruch jetzt nutzen!
+      ### Möglichkeit zum Widerspruch jetzt nutzen!
 
 
       Wenn Sie ein Insolvenzverfahren durchlaufen haben und über Sie das Merkmal
