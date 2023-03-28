@@ -6,8 +6,8 @@ description: >-
   Neue Rechtsprechung und Aussagen des Generalanwalts am Europäischen
   Gerichtshof führen zu der Möglichkeit, eine Löschung bei einer Auskunftei über
   das Merkmal Restschuldbefreiung zu verlangen. 
-header_titel: Schufa muss Eintrag zu Restschuldbefreiung löschen.
-header_subtitle: 'Werden Sie vorzeitig Ihren Eintrag zur Restschuldbefreiung wieder los. '
+header_titel: Schufa verkürzt Speicherfrist für Restschuldbefreiung
+header_subtitle: Schufa reagiert auf Schlussanträge des Generalanwalts vor dem EuGH
 header_image: /uploads/saal-iv-leer.jpg
 header_cta_titel: Eintrag zu Restschuldbefreiung aus Auskunftei löschen lassen.
 header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ersteinschätzung. '
@@ -16,26 +16,38 @@ abschnitte:
   - abschnitt_template: banner_bild_rechts
     titel: Verfahren vor EuGH und BGH
     text_markdown: >-
-      Bereits am 02.07.2021 hat das Oberlandesgericht Schleswig die Schufa
+      Sensationeller Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin!
+
+
+      Wie die Schufa Holding AG am 28.03.2023 bekannt gegeben hat, verkürzt sie
+      die Speicherfrist für das Merkmal "Restschuldbefreiung erteilt" auf
+      nunmehr nur noch sechs Monate. Zuvor betrug die Speicherfrist drei volle
+      Jahre ab Erteilung der Restschuldbefreiung.&nbsp;
+
+
+      Bereits am 02.07.2021 hatte das Oberlandesgericht Schleswig die Schufa
       Holding AG zur Löschung des Eintrags "Restschuldbefreiung erteilt" nach
       einem Speicherungszeitraum von 6 Monaten verurteilt.&nbsp;
 
 
-      Die Entscheidung stellt eine wesentliche Veränderung der bisher zu diesem
-      Thema ergangenen Urteile dar. Diese waren allerdings großteils noch zur
-      alten Rechtslage nach dem BDSG alter Fassung ergangen.&nbsp;
+      Die Entscheidung stellte eine wesentliche Veränderung der bisher zu diesem
+      Thema ergangenen Urteile dar. Diese waren allerdings mehrheitlich noch zur
+      alten Rechtslage nach dem Bundesdatenschutzgesetzt (BDSG alter Fassung)
+      ergangen.&nbsp;
 
 
       Die Revision zum Bundesgerichtshof wurde erstmals zugelassen und zeigt die
       Bedeutung der nunmehr aufgeworfenen Rechtsfragen im Zusammenhang mit der
-      DSGVO und den Speicherfristen in der
-      Insolvenzbekanntmachungsverordnung.&nbsp;
+      DSGVO und den Speicherfristen in der Insolvenzbekanntmachungsverordnung.
+      Die Verhandlung am Bundesgerichtshof führte am 28.03.2023 zu einer
+      Aussetzung des Verfahren, um zwei Entscheidungen des EuGH
+      abzuwarten.&nbsp;
 
 
-      In der Zwischenzeit wurden in Klageverfahren gegen den
-      Datenschutzbeauftragten des Landes Hessen, in denen die Schufa Holding AG
-      beigeladene ist, vom Verwaltungsgericht Wiesbaden sogenannte Vorlagefragen
-      an den Europäischen Gerichtshof (EuGH) gestellt.&nbsp;
+      In Klageverfahren gegen den Datenschutzbeauftragten des Landes Hessen, in
+      denen die Schufa Holding AG Beigeladene ist,&nbsp; wurden vom
+      Verwaltungsgericht Wiesbaden sogenannte Vorlagefragen an den Europäischen
+      Gerichtshof (EuGH) gestellt.&nbsp;
 
 
       Über diese wurde am 26.01.2023 vor dem EuGH mündlich verhandelt. Für die
@@ -58,9 +70,8 @@ abschnitte:
       verbessert.&nbsp;
 
 
-      Der Bundesgerichtshof (BGH) will die Entscheidung des EuGH bis zu einer
-      eigenen Entscheidung in den parallel geführten Verfahren erst einmal
-      abwarten.&nbsp;
+      Spannend bleibt die Frage, ob auch die anderen Auskunfteien nachziehen und
+      ihre Speicherfristen ebenfalls anpassen werden.&nbsp;
     image: /uploads/curia-schild.jpg
     cta: true
   - abschnitt_template: box_dunkel
