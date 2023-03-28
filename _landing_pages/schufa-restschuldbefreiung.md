@@ -16,7 +16,8 @@ abschnitte:
   - abschnitt_template: banner_bild_rechts
     titel: Verfahren vor EuGH und BGH
     text_markdown: >-
-      Sensationeller Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin!
+      ## **Sensationeller Erfolg für die Kanzlei AdvoAdvice Rechtsanwälte aus
+      Berlin!**
 
 
       Wie die Schufa Holding AG am 28.03.2023 bekannt gegeben hat, verkürzt sie
@@ -77,6 +78,9 @@ abschnitte:
   - abschnitt_template: box_dunkel
     titel: Widerspruch gegen Speicherung der Restschuldbefreiung
     text_markdown: >-
+      ## **Möglichkeit zum Widerspruch jetzt nutzen!**
+
+
       Wenn Sie ein Insolvenzverfahren durchlaufen haben und über Sie das Merkmal
       "Restschuldbefreiung erteilt" im Datenbestand einer Auskunftei (z.B. der
       Schufa Holding AG) mehr als sechs Monate lang gespeichert ist, dann
