@@ -73,6 +73,19 @@ abschnitte:
 
       Spannend bleibt die Frage, ob auch die anderen Auskunfteien nachziehen und
       ihre Speicherfristen ebenfalls anpassen werden.&nbsp;
+
+
+      Außerdem ist weiterhin offen, ob die Schufa die Einträge zur
+      Restschuldbefreiung überhaupt speichern und aus dem Datenbestand von
+      www.insolvenzbekanntmachungen.de übernehmen darf. Zudem bleibt auch
+      weiterhin offen, wie es sich mit anderen Informationen verhält, die aus
+      dem Datenstand der Insolvenzbekanntmachungen zur Insolvenzeröffnung,
+      Versagung der Restschuldbefreiung oder vorzeitigen Beendigung gespeichert
+      werden.&nbsp;
+
+
+      Hierzu bietet die Kanzlei AdvoAdvice weiterhin fairen Rechtsrat im Rahmen
+      einer kostenfreien telefonischen Erstberatung an.&nbsp;
     image: /uploads/curia-schild.jpg
     cta: true
   - abschnitt_template: box_dunkel
