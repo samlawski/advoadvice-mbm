@@ -73,19 +73,32 @@ abschnitte:
 
       Spannend bleibt die Frage, ob auch die anderen Auskunfteien nachziehen und
       ihre Speicherfristen ebenfalls anpassen werden.&nbsp;
+
+
+      Außerdem ist weiterhin offen, ob die Schufa die Einträge zur
+      Restschuldbefreiung überhaupt speichern und aus dem Datenbestand von
+      www.insolvenzbekanntmachungen.de übernehmen darf. Zudem bleibt auch
+      weiterhin offen, wie es sich mit anderen Informationen verhält, die aus
+      dem Datenstand der Insolvenzbekanntmachungen zur Insolvenzeröffnung,
+      Versagung der Restschuldbefreiung oder vorzeitigen Beendigung gespeichert
+      werden.&nbsp;
+
+
+      Hierzu bietet die Kanzlei AdvoAdvice weiterhin fairen Rechtsrat im Rahmen
+      einer kostenfreien telefonischen Erstberatung an.&nbsp;
     image: /uploads/curia-schild.jpg
     cta: true
   - abschnitt_template: box_dunkel
     titel: Widerspruch gegen Speicherung der Restschuldbefreiung
     text_markdown: >-
-      ### Möglichkeit zum Widerspruch jetzt nutzen!
+      ### Widerspruch gegen Speicherung innerhalb der ersten sechs Monate
+      einlegen.&nbsp;
 
 
       Wenn Sie ein Insolvenzverfahren durchlaufen haben und über Sie das Merkmal
       "Restschuldbefreiung erteilt" im Datenbestand einer Auskunftei (z.B. der
-      Schufa Holding AG) mehr als sechs Monate lang gespeichert ist, dann
-      sollten Sie zunächst einen Widerspruch gegen die Speicherung nach Art 21
-      DGSVO einlegen.&nbsp;
+      Schufa Holding AG) gespeichert ist, dann sollten Sie zunächst einen
+      Widerspruch gegen die Speicherung nach Art 21 DGSVO einlegen.&nbsp;
 
 
       Ein entsprechendes Formular für den Widerspruch stellt Ihnen unsere
@@ -97,11 +110,19 @@ abschnitte:
       möglichen Prozess gegen die Auskunftei oder den zuständigen
       Datenschutzbeauftragten des zuständigen Bundeslandes deckt, empfehlen wir
       Ihnen, vor Absendung des Widerspruchs den Abschluss einer
-      Rechtsschutzversicherung sowie das Abwarten der vertraglichen Wartezeit,
-      bevor Sie den Widerspruch einreichen. Die Versicherung können Sie auch
-      während der Insolvenz oder gleich nach Erteilung der Restschuldbefreiung
-      abschließen, um dann nach Ablauf von sechs Monaten sofort mit dem
+      Rechtsschutzversicherung sowie ggf. das Abwarten der vertraglichen
+      Wartezeit, bevor Sie den Widerspruch einreichen.
+
+
+      Die Versicherung können Sie auch bereits während der Insolvenz oder gleich
+      nach Erteilung der Restschuldbefreiung abschließen, um dann nach Ablauf
+      einer evtl. im Versicherungsvertrag vorhandenen Wartezeit sofort mit dem
       Widerspruch starten zu können.&nbsp;
+
+
+      Wenden Sie sich bei Rückfragen zu einer Löschung des Merkmals der
+      Restschuldbefreiung innerhalb einer Frist von sechs Monaten nach Erteilung
+      gerne an unsere Experten im Bereich des Datenschutzrechts.&nbsp;
     image:
     cta: true
 sitemap: true
