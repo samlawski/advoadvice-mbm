@@ -2,8 +2,8 @@
 layout: topic
 style_id: topic
 title: >-
-  Schufa Eintrag löschen lassen. Scoring überprüfen. Rechtsanwälte und Schufa
-  Experten mit jahrelanger Erfahrung. Experten für Schufa-Recht.
+  Schufa Eintrag löschen lassen. Scoring überprüfen. Schufa Anwalt mit
+  jahrelanger Erfahrung. Experte für Schufa-Recht.
 description: >-
   Wollen Sie einen negativen Schufa Eintrag löschen lassen. Möchten Sie Ihr
   Scoring verbessern. Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael
