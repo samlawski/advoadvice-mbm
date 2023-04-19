@@ -1,13 +1,21 @@
 ---
 layout: landing_page
 style_id: landing
-title: Eintrag zu Restschuldbefreiung in Auskunftei löschen lassen.
+title: >-
+  Schufa Eintrag zur Restschuldbefreiung löschen lassen. Rechtsanwälte und
+  Schufa Experten mit jahrelanger Erfahrung. Experten für Schufa-Recht und
+  Datenschutz.
 description: >-
   Neue Rechtsprechung und Aussagen des Generalanwalts am Europäischen
   Gerichtshof führen zu der Möglichkeit, eine Löschung bei einer Auskunftei über
-  das Merkmal Restschuldbefreiung zu verlangen. 
-header_titel: Schufa verkürzt Speicherfrist für Restschuldbefreiung
-header_subtitle: Schufa reagiert auf Schlussanträge des Generalanwalts vor dem EuGH
+  das Merkmal Restschuldbefreiung zu verlangen. Schufa verkürzt daraufhin ihre
+  Speicherfristen von drei Jahren auf sechs Monate. 
+header_titel: >-
+  Großer Erfolg für AdvoAdvice - Schufa verkürzt Speicherfrist für
+  Restschuldbefreiung
+header_subtitle: >-
+  Schufa reagiert auf Schlussanträge des Generalanwalts vor dem EuGH mit
+  Verkürzung ihrer Speicherfristen für die Restschuldbefreiung.
 header_image: /uploads/saal-iv-leer.jpg
 header_cta_titel: Eintrag zu Restschuldbefreiung aus Auskunftei löschen lassen.
 header_cta_text: 'Vereinbaren Sie gerne ein kostenfreies Gespräch für eine Ersteinschätzung. '

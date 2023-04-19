@@ -1,7 +1,10 @@
 ---
 layout: topic
 style_id: topic
-title: Thomas Lloyd Anlegergemeinschaft
+title: >-
+  Kanzlei AdvoAdvice hilft bei Problemen mit Anlagen der ThomasLloyd Gruppe.
+  Jetzt Ansprüche auf Rückzahlung prüfen und diese gerichtlich durchsetzen
+  lassen.
 description: >-
   Werden Sie Teil unserer sehr erfolgreichen ThomasLloyd-Anlegergemeinschaft und
   profitieren Sie von unseren zahlreichen Prozesserfolgen. 

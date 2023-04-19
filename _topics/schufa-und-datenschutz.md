@@ -1,10 +1,15 @@
 ---
 layout: topic
 style_id: topic
-title: Schufa-Einträge löschen Score anheben
+title: >-
+  Schufa Eintrag löschen lassen. Scoring überprüfen. Rechtsanwälte und Schufa
+  Experten mit jahrelanger Erfahrung. Experten für Schufa-Recht.
 description: >-
-  Erfolgreich Schufa-Einträge löschen und Schufa-Score verbessern. Rechtsanwalt
-  Dr. Sven Tintemann berät  und kämpft für Sie im Schufa-Recht.
+  Wollen Sie einen negativen Schufa Eintrag löschen lassen. Möchten Sie Ihr
+  Scoring verbessern. Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael
+  Rohrmoser sind deutschlandweit bekannte Schufa Experten mit jahrelanger
+  Erfahrung, die Sie bei Problemen mit Negativeinträgen bei Auskunfteien beraten
+  und gerichtlich vertreten. 
 header_titel: Schufa-Einträge löschen und Score anheben
 header_image: /uploads/theme-schufa1.jpg
 erfolge:
