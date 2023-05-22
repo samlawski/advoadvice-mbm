@@ -1,7 +1,7 @@
 ---
 layout: topic
 style_id: topic
-title: Insolvenz und Restschuldbefreiung in Lettland
+title: Ihr Neustart in Lettland - Firmengründung Aufenthaltstitel Schuldenbereinigung
 description: >-
   Durch eine Insolvenz in Lettland sind Sie schneller als in Deutschland
   schuldenfrei. Nutzen Sie die Vorteile des Europarecht, indem Sie nach Lettland
