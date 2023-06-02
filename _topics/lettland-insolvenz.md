@@ -9,17 +9,40 @@ description: >-
 header_titel: Lettland - Beratung / Firmengründung / Schuldenregulierung / Immigration
 header_image: /uploads/lettland-1.png
 erfolge:
-intro_titel: Schuldenfrei in nur 12 Monaten
+intro_titel: Wir öffnen Ihnen die Tür für Ihren Weg nach Lettland.
 intro_text_markdown: >-
-  Durch einen Aufenthalt und eine Insolvenz in Lettland können Sie Ihre Schulden
-  schneller als in Deutschland loswerden und im Idealfall bereits nach 12
-  Monaten die gewünschte Restschuldbefreiung erlangen.&nbsp;
-
-
-  Klingt das für Sie interessant?
+  Sie wollen einen Neustart oder Ihr Unternehmen in Lettland erweitern? Mit
+  unserem lettischen Kooperationspartner „Berger Consulting“, ermöglichen wir
+  Ihnen eine professionelle Unterstützung während des gesamten Verfahrens in
+  Riga bei Unternehmensgründungen, Schuldenregulierungen, Immigration sowie
+  möglicherweise Steueroptimierungen.&nbsp;
 intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
+  - abschnitt_template: weiss_bild_links
+    titel: Berger Consulting ist unser Netzwerkpartner ist Lettland.
+    text_markdown: >-
+      Aufgrund der sehr guten geografischen Lage und Verkehrsverbindungen, der
+      unternehmensfreundlichen Rechtsvorschriften und des interessanten
+      Steuerrahmens ist Lettland mit seiner Hauptstadt Riga, derzeit einer der
+      besten Standorte innerhalb der EU um unternehmerische Tätigkeiten
+      auszuüben.
+
+
+      **Komplette Digitalisierung, wenig Bürokratie und Möglichkeit zur 100%
+      Remote-Work**.
+
+
+      Mit dem vor Ort erfahrenen Team in Riga stellt Berger Consulting Ihnen ein
+      **professionelles Netzwerk von Geschäftskontakten** zur Verfügung. Unser
+      Kooperationspartner findet für Sie innovative Lösungen und ist&nbsp; Ihr
+      persönlicher Ansprechpartner in Lettland. Berger Consulting bietet die
+      Beratung in unterschiedlichen Sprachen an: **Deutsch, Englisch, oder
+      Lettisch**! Für&nbsp; weitere Fragen oder Kontaktinformationen besuchen
+      Sie Berger Consultings Website unter
+      [**www.bergerconsulting.lv**](http://www.bergerconsulting.lv)!
+    image: /uploads/berger.png
+    cta: true
   - abschnitt_template: box_dunkel
     titel: Ihr Neustart in Lettland (Riga)
     text_markdown: >-
