@@ -7,7 +7,7 @@ description: >-
   schuldenfrei. Nutzen Sie die Vorteile des Europarecht, indem Sie nach Lettland
   ziehen.
 header_titel: Insolvenz und schnelle Restschuldbefreiung in Lettland
-header_image: /uploads/theme-lettland1.jpg
+header_image: /uploads/lettland.png
 erfolge:
 intro_titel: Schuldenfrei in nur 12 Monaten
 intro_text_markdown: >-
