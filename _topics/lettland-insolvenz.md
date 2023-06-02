@@ -41,7 +41,7 @@ abschnitte:
       Lettisch**! Für&nbsp; weitere Fragen oder Kontaktinformationen besuchen
       Sie Berger Consultings Website unter
       [**www.bergerconsulting.lv**](http://www.bergerconsulting.lv)!
-    image: /uploads/berger.png
+    image: /uploads/logo-berger-consulting-page-2.jpg
     cta: true
   - abschnitt_template: box_dunkel
     titel: Ihr Neustart in Lettland (Riga)
