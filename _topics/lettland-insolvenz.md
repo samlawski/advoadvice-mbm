@@ -20,7 +20,7 @@ intro_link_text: Kostenlose Erstberatung
 intro_link: '#kontakt'
 abschnitte:
   - abschnitt_template: weiss_bild_links
-    titel: Berger Consulting SIA ist unser Netzwerkpartner ist Lettland.
+    titel: Berger Consulting SIA ist unser Netzwerkpartner in Lettland.
     text_markdown: >-
       Aufgrund der sehr guten geografischen Lage und Verkehrsverbindungen, der
       unternehmensfreundlichen Rechtsvorschriften und des interessanten
@@ -41,7 +41,7 @@ abschnitte:
       Lettisch**! Für&nbsp; weitere Fragen oder Kontaktinformationen besuchen
       Sie die&nbsp; Website der Berger Consulting SIA unter
       [**www.bergerconsulting.lv**](http://www.bergerconsulting.lv)!
-    image: /uploads/logo-berger-consulting-page-1.jpg
+    image: /uploads/berger-logo-for-advoadvice.png
     cta: true
   - abschnitt_template: box_dunkel
     titel: Ihr Neustart in Lettland (Riga)
