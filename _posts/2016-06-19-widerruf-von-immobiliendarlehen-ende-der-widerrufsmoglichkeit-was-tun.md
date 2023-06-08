@@ -1,15 +1,23 @@
 ---
-title: "Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was tun?"
-date: 2016-06-19 17:00:00 -0500
+title: Widerruf von Immobiliendarlehen - Ende der Widerrufsmöglichkeit - Was tun?
+date: 2016-06-19 22:00:00
 description:
 layout: post
 style_id: post
 image:
-tags: ["Widerruf", "Immobilienkredit", "Darlehen", "Verjährung", "AdvoAdvice", "Klevenhagen", "Gesetzesänderung", "Bank", "Kredit"]
+tags:
+  - Widerruf
+  - Immobilienkredit
+  - Darlehen
+  - Verjährung
+  - AdvoAdvice
+  - Klevenhagen
+  - Gesetzesänderung
+  - Bank
+  - Kredit
 topics: []
 author: kim-oliver-klevenhagen
 ---
-
 Am 21.06.2016 ist es soweit. Die Banken und Immobilienfinanzierer haben endlich, was sie schon seit Jahren vorbereitet und dem Gesetzgeber, wohl in mühevoller Lobbyarbeit, abgetrotzt haben, die VERJÄHRUNG VON ANSPRÜCHEN AUS WIDERRUFSBELEHRUNGEN!
 
 Bisher galt, dass bei Fehlern in Widerrufsbelehrungen die zeitlich unbegrenzte Möglichkeit des Widerrufs bestand. Dies deshalb, da es sich bei der Widerrufsmöglichkeit nicht um einen Anspruch auf Schadensersatz oder ähnliches handelt, der der regelmäßigen Verjährung des Bürgerlichen Gesetzbuchs (BGB) unterliegt, sondern um ein sog. Gestaltungsrecht.
