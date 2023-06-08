@@ -19,7 +19,7 @@ erfolge:
     text: Hinterlegte Sicherheiten nach Prozesserfolgen
   - zahl: 872 T€+
     text: Auszahlungen an Anleger
-  - zahl: '80'
+  - zahl: '105'
     text: Klagen in Berufungsinstanz gewonnen
 intro_titel: Werden Sie Teil unserer erfolgreichen Anlegergemeinschaft.
 intro_text_markdown: >-
@@ -35,7 +35,7 @@ intro_text_markdown: >-
   angeschlossen. Es wurden zahlreiche Anspruchsschreiben und außerordentliche
   Kündigungen verschickt. Außerdem wurden bisher mehr als 250 Klagen an
   verschiedenen Amtsgerichten und Landgerichten in Deutschland gegen die CT
-  Infrastructure Holding Ltd. eingereicht. In 80 Berufungsverfahren haben wir
+  Infrastructure Holding Ltd. eingereicht. In 105 Berufungsverfahren haben wir
   bereits gewonnen. Davon sind bereits zahlreiche Entscheidungen rechtskräftig.
   Hier haben die Anleger dann auch die Anlagesummen ausgezahlt bekommen. Auch
   vor dem Bundesgerichtshof waren wir erfolgreich. Eine
@@ -72,12 +72,12 @@ abschnitte:
       zahlreichen erstinstanzlichen Urteilen gegen die CT Infrastructure Holding
       Ltd. als Rechtsnachfolgerin der Thomas Lloyd Investments GmbH und der DKM
       Global Opportunities Fonds 01 GmbH geführt. Auch in der zweiten Instanz
-      vor den Berufungsgerichten haben unsere Anleger bisher 80 erfolgreiche
+      vor den Berufungsgerichten haben unsere Anleger bisher 105 erfolgreiche
       Entscheidungen (Urteile oder Beschlüsse nach § 522 ZPO) erstritten. In der
       Berufungsinstanz hat unsere Kanzlei für die hier vertretenen Anleger
       bisher noch nie verloren. Der Bundesgerichtshof hat zudem eine
       Nichtzulassungsbeschwerde der Gegenseite gegen eine Entscheidung des OLG
-      Celle durch Beschluss zurückgewiesen. (Stand: 01.03.2023)&nbsp;
+      Celle durch Beschluss zurückgewiesen. (Stand: 08.06.2023)&nbsp;
     image:
     cta: false
   - abschnitt_template: weiss_bild_links
@@ -105,11 +105,11 @@ abschnitte:
       01.03.2023)
 
 
-      Es gibt mittlerweile 80 positive Entscheidungen von Berufungsgerichten
-      (darunter 78 Entscheidungen von Oberlandesgerichten und 2 Entscheidungen
+      Es gibt mittlerweile 105 positive Entscheidungen von Berufungsgerichten
+      (darunter 101 Entscheidungen von Oberlandesgerichten und 4 Entscheidungen
       von Landgerichten), die den von unserer Kanzlei vertretenen Anlegern
       Auszahlungsansprüche gegen die CT Infrastructure Holding Ltd. zugesprochen
-      haben (Stand: 01.03.2023). Der Bundesgerichtshof hat eine
+      haben (Stand: 08.06.2023). Der Bundesgerichtshof hat eine
       Nichtzulassungsbeschwerde der Beklagten bei einer Anlage in
       Genussrechtsbeteiligungen durch Beschluss vom 15.02.2022 zurückgewiesen.
     image:
@@ -263,6 +263,43 @@ abschnitte:
 
       * OLG Oldenburg, Urteil vom 23.02.2023 (Nennwert + Basisdividende)
 
+      * OLG Köln, Urteil vom 02.03.2023 (Nennbetrag)
+
+      * OLG Köln, Urteil vom 02.03.2023 (Nennbetrag und RA-Kosten)
+
+      * OLG Köln, Urteil vom 02.03.2023 (Rechnerischer Wert und RA-Kosten)
+
+      * OLG Köln, Urteil vom 02.03.2023 (Nennbetrag und RA-Kosten)
+
+      * OLG Brandenburg, Beschluss vom 23.02.2023
+
+      * LG Düsseldorf (Zuständigkeit nach Brexit)
+
+      * OLG Karlsruhe, Urteil vom 06.04.2023 (Nennbetrag + Dividende)
+
+      * OLG Karlsruhe, Urteil vom 06.04.2023 (Schadenersatz nach Kündigung)
+
+      * OLG Karlsruhe, Urteil vom 06.04.2023 (keine Kündigungsrücknahme,
+      Nennbetrag)
+
+      * OLG Schleswig, Urteil vom 06.04.2023 (Nennbetrag + Dividende)
+
+      * OLG Schleswig, Urteil vom 06.04.2023 (Nennbetrag + keine RA-Kosten)
+
+      * OLG Schleswig, Urteil vom 06.04.2023 (Nennbetrag + keine RA-Kosten)
+
+      * OLG Nürnberg, Urteil vom &nbsp;25.04.2023 (Nennbetrag + RA-Kosten)
+
+      * OLG Hamm, Urteil vom 11.05.2023 (Schadensersatz und Anwaltskosten)
+
+      * OLG Koblenz, Urteil vom 26.05.2023 (Nennbetrag und Anwaltskosten)
+
+      * OLG Koblenz, Urteil vom 26.05.2023 (Nennbetrag, Dividende und RA-Kosten)
+
+      * OLG Koblenz, Urteil vom 26.05.2023 (Nennbetrag und Dividende)
+
+      * OLG Koblenz, Urteil vom 26.05.2023 (Rechnerischer Wert und RA-Kosten)
+
 
       ### Anlagen in atypisch stille Beteiligungen:
 
@@ -310,6 +347,15 @@ abschnitte:
       * OLG Hamm, Urteil vom 25.01.2023
 
       * OLG Celle, Beschluss vom 15.02.2023
+
+      * OLG Nürnberg, Urteil vom 28.02.2023
+
+      * OLG Naumburg, Urteil vom 01.03.2023 (VAG Nennbetrag und GOF
+      rechnerischer Wert)
+
+      * LG Lüneburg, Urteil vom 11.04.2023 (Nennbetrag und keine RA-Kosten)
+
+      * OLG Hamburg, Urteil vom 08.06.2023 (Einzahlungssumme und RA-Kosten)
     image:
     cta: true
   - abschnitt_template: weiss_bild_links
