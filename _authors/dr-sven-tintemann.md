@@ -23,7 +23,7 @@ themes:
     link: https://advoadvice.de/themen/bank-und-kapitalmarkt
   - titel: Insolvenzrecht
     link: /anwalt-fuer/verbraucherinsolvenz-in-deutschland/
-  - titel: Lettland Insolvenz
+  - titel: Lettland
     link: /themen/lettland-insolvenz/
   - titel: Versicherungsrecht
     link: https://advoadvice.de/themen/versicherung
@@ -33,9 +33,5 @@ themes:
     link:
   - titel: Schufa-FraudPool
     link: /anwalt-fuer/schufa-fraudpool-eintrag-loeschen/
-  - titel: Deckungsklage
-    link: /themen/deckungsschutzklage/
-  - titel: Stichentscheid
-    link: /themen/stichentscheid/
 reihenfolge: 1
 ---
