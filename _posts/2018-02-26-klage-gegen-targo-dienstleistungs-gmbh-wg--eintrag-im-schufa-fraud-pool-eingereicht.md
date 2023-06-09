@@ -24,7 +24,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat vor dem LG Konstanz eine Klage gegen die Targo Dienstleistungs GmbH eingericht. Hintergrund war ein Eintrag in den sog. Schufa Fraud Pool.
 
 ### Was ist der Schufa Fraud Pool?
@@ -56,3 +55,9 @@ Aufforderungen zum Widerruf des Eintrags bzw. zur Löschung ggü. der Schufa Hol
 "Die Klage ist nicht nur für die betroffenen Kläger, sondern auch generell von hohem rechtlichen Interesse, da nicht klar ist, ob eine Eintragung im Schufa-FraudPool überhaupt nach den Vorschriften des BDSG oder anderen Vorschriften gerechtfertigt werden kann. Rechtsprechung hierzu ist unserer Kanzlei zumindest bisher nicht bekannt. Wir betreten hier daher meiner Einschätzung nach juristisches Neuland", erläutert Dr. Sven Tintemann, der die Klage vorbereitet und für den Kläger beim Landgericht Konstanz eingereicht hat.
 
 Betroffene von Negativeinträgen bei Auskunfteien, wie z.B. der Schufa Holding AG oder der Creditreform, oder solche, die im Schufa-FraudPool eingetragen sind, sollten sich möglichst schnell Hilfe und Rechtsrat von erfahrenen Anwälten auf dem Gebiet des Datenschutzrechts erfragen. Oft reicht schon ein anwaltliches Schreiben, um die Angelegenheit zu klären und falsche oder rechtswidrige Einträge zur Löschung zu bringen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

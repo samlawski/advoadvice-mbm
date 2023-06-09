@@ -21,7 +21,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Eine Kreditkartenkunde aus Marburg meldete sich bei der Kanzlei AdvoAdvice aus Berlin und berichtete von einem Schufa-Negativeintrag, den die Firma Real Solution Inkasso GmbH & Co. KG über ihn lanciert hatte.
 
 ![Kreditkarten - Foto Pixabay](/uploads/american-express-89024-640-4.jpg "Schufa Eintrag wegen Visa Kreditkarte der ICS")
@@ -49,3 +48,7 @@ Dies kommentiert Rechtsanwalt Dr. Sven Tintemann, der die Angelegenheit bei Advo
 ### Schnell handeln bei Problemen mit Negativeinträgen
 
 Haben auch Sie Probleme mit einem Negativeintrag bei der Schufa oder einer anderen Auskunftei, dann lassen Sie den Eintrag durch die Experten der Kanzlei AdvoAdvice Rechtsanwälte überprüfen. Wenden Sie sich hierzu an info@advoadvice.de oder rufen Sie direkt an und vereinbaren Sie ein Gespräch mit Dr. Sven Tintemann unter 030 921 000 40.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

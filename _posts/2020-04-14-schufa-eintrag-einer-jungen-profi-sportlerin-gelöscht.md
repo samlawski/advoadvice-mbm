@@ -29,7 +29,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Am 31. März 2020 musste eine junge Profi-Sportlerin aus Berlin mit Entsetzen feststellen, dass die Tesch Inkasso Finance GmbH einen SCHUFA-Eintrag in ihrem Datenbestand ohne ihr Wissen veranlasst hat. Glücklicherweise wurde der Ernst der Situation sofort erkannt und am folgenden Tag Rechtsanwalt Dr. Sven Tintemann von der Kanzlei AdvoAdvice Rechtsanwälte in Berlin kontaktiert, welcher sich der Sache sofort annahm.
 
 ## Alte Arztrechnung führte zu aktuellem Problem
@@ -38,7 +37,7 @@ Hintergrund des Eintrages war eine nicht ausgeglichene Arztrechnung aus dem Jahr
 
 Der zuständige Arzt beantragte über den Rechtsanwalt Thomas Giesen kurz vor Ablauf der Verjährungsfrist einen Mahn- und Vollstreckungsbescheid. Schon aus den Bescheiden ging für die Betroffene dabei nicht eindeutig hervor, ob sich die Forderung gegen sie oder gegen ihre damals vertretungsberechtigten Eltern richtete. Darüber hinaus wurden die Bescheide unter einer veralten Adresse zugestellt, weshalb die Verjährung zwischenzeitlich mit dem Jahreswechsel 2019 eingetreten sein dürfte.
 
-Der Eintrag verursachte gro&szlig;e Probleme für die Profi-Sportlerin, da ihre unternehmerische Tätigkeit durch den Eintrag eingeschränkt war und es zu unangenehmen Rückfragen der mit ihr verbundenen Geschäftsbanken kam. Dadurch war auch die wirtschaftliche Situation des jung gegründeten Unternehmens der Betroffenen gefährdet.&nbsp;
+Der Eintrag verursachte große Probleme für die Profi-Sportlerin, da ihre unternehmerische Tätigkeit durch den Eintrag eingeschränkt war und es zu unangenehmen Rückfragen der mit ihr verbundenen Geschäftsbanken kam. Dadurch war auch die wirtschaftliche Situation des jung gegründeten Unternehmens der Betroffenen gefährdet.&nbsp;
 
 ## Schnelle Löschung durch konsequentes Handeln
 
@@ -52,8 +51,8 @@ Die Löschung des Eintrages wurde durch die SCHUFA Holding AG sofort umgesetzt, 
 
 Rechtsanwalt Dr. Sven Tintemann zeigte sich mit dem Ergebnis sichtlich zufrieden. "Es ist gerade bei Negativeinträgen, welche mit einem Vollstreckungsbescheid zusammenhängen, oftmals schwierig, die eintragende Stelle oder die SCHUFA zur Löschung zu bewegen. Noch immer herrscht dabei scheinbar das Verständnis der alten Rechtslage, dass ein gerichtlicher Titel gleichbedeutend mit der Berechtigung zur Übermittlung von Daten an die SCHUFA ist. Mit Blick auf die heute nach der DSGVO vorzunehmende Interessenabwägung kann dies aber nicht mehr pauschal gelten. Offenbar hat die Tesch Inkasso Finance GmbH dies bei dem hier erfolgten Löschantrag auch nach unserem Vortrag entsprechend berücksichtigt."
 
-Die Rechtsanwaltskanzlei AdvoAdvice vertritt sowohl Menschen mit datenschutzrechtlichen Problemen, vor allem bei negativen SCHUFA-Einträgen, wie auch Profi-Sportler in unterschiedlichen Lebensbereichen. Für beide Gruppen steht die Kanzlei AdvoAdvice mit ihrer langjährigen Erfahrung unter 030 / 921 000 40 oder unter info@advoadvice.de zur Verfügung.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

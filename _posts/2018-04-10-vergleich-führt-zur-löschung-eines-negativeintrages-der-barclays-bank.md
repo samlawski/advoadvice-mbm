@@ -20,7 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Barclays Bank PLC hat einen negativen Schufa Eintrag nach einem gerichtlichen Vergleich zur Löschung gebracht. Der Fall hatte für den Betroffenen eine besondere Brisanz, da seine Arbeitsstelle durch den negativen Eintrag in Gefahr gebracht wurde. Der Eintrag wurde durch die Barclays Bank PLC am 23.08.2017 über mehr als 7.000,00 Euro eingemeldet.
 
 ### Wieso war der Eintrag rechtswidrig?
@@ -39,4 +38,8 @@ In diesem gerichtlichen Verfahren konnte mit der Gegenseite sodann ein Vergleich
 
 Dr. Sven Tintemann unterstrich nach dem Verfahren nochmals, wie wichtig es ist, umgehend zu handeln: "Hat man erst einmal Kenntnis von einem negativen Schufa Eintrag erlangt, sollte man unmittelbar handeln. Dabei ist es sowohl wichtig, die Forderung auszugleichen, als auch gegen den Eintrag an sich vorzugehen, da dieser nach dem Ausgleich noch über drei Jahre gespeichert bleibt."
 
-Wenn Sie Hilfe bei der Löschung eines negativen Schufa Eintrages benötigen, können Sie uns gerne unter 030 / 921 000 40 oder info@advoadvice.de kontaktieren.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

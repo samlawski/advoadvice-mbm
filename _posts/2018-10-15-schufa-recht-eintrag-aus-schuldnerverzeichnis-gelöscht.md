@@ -19,7 +19,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Immer wieder müssen Betroffene unter negativen SCHUFA-Einträgen leiden. Neben "klassischen" Negativeinträgen, welche durch die Vertragspartner der SCHUFA eingemeldet werden, kommen auch Einträge aus sog. öffentlichen Verzeichnissen in Betracht. Dazu gehören u.a. Daten dem Schuldnerverzeichnis der Amtsgerichte und Veröffentlichungen aus Insolvenzverfahren.
 {: .present-before-paste}
 
@@ -48,10 +47,19 @@ Die Frage ist nicht ganz eindeutig und einfach zu beantworten. Fakt ist, dass di
 ![Insolvenz beendet - Foto Pixabay](/uploads/insolvency-96596-640.jpg "Restschuldbefreiung nach Ende der Insolvenz")
 {: .present-before-paste}
 
-Umstrittener ist die Frage, ob und wann eine erteilte Restschuldbefreiung zu löschen ist. Die Gerichte gingen bislang davon aus, dass eine frühzeitige Löschung eines solchen Merkmals nicht durchgesetzt werden kann. Unter der DSGVO gibt es nunmehr neue Ansatzpunkte, da ein wesentlicher Argumentationsstrang aus dem alten BDSG wegfällt. Spannend an dieser Thematik ist, dass die SCHUFA bei Restschuldbefreiungen keinen Gleichlauf zu den rechtlichen Vorgaben übernimmt. Eigentlich werden solche Daten spätestens sechs Monate nach der erteilten Restschuldbefreiung zur Löschung gebracht. Hier besteht nunmehr ein erneuter Klärungsbedarf durch die Gerichte. 
+Umstrittener ist die Frage, ob und wann eine erteilte Restschuldbefreiung zu löschen ist. Die Gerichte gingen bislang davon aus, dass eine frühzeitige Löschung eines solchen Merkmals nicht durchgesetzt werden kann. Unter der DSGVO gibt es nunmehr neue Ansatzpunkte, da ein wesentlicher Argumentationsstrang aus dem alten BDSG wegfällt. Spannend an dieser Thematik ist, dass die SCHUFA bei Restschuldbefreiungen keinen Gleichlauf zu den rechtlichen Vorgaben übernimmt. Eigentlich werden solche Daten spätestens sechs Monate nach der erteilten Restschuldbefreiung zur Löschung gebracht. Hier besteht nunmehr ein erneuter Klärungsbedarf durch die Gerichte.&nbsp;
 {: .present-before-paste}
 
 ### Fazit
 
-Aus den beiden vorstehenden Punkten lässt sich wunderbar erkennen, dass datenschutzrechtliche Fragen, insbesondere auch mit Blick auf SCHUFA-Einträge, immer im Einzelfall geprüft werden müssen. Pauschale Antworten gibt es nur sehr wenige. Sofern Sie mit einem solchen Problem zu kämpfen haben, können Sie sich gerne an die Experten der Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin wenden, die Sie unter 030 921 000 40 oder per Email unter info@advoadvice.de erreichen.
+Aus den beiden vorstehenden Punkten lässt sich wunderbar erkennen, dass datenschutzrechtliche Fragen, insbesondere auch mit Blick auf SCHUFA-Einträge, immer im Einzelfall geprüft werden müssen. Pauschale Antworten gibt es nur sehr wenige.
+{: .present-before-paste}
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
+
+
 {: .present-before-paste}

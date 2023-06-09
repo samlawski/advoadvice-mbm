@@ -24,7 +24,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Experten von AdvoAdvice konnten einem jungen Mann aus Schleswig-Holstein bei der Lösung eines Problems mit einem negativen SCHUFA-Eintrag helfen. Eingetragen wurde die Forderung von der Synergie Inkasso GmbH. Die Forderung stammt aus einem Vertrag mit der FlexStrom AG und wurde im Jahr 2014 zur Abrechnung gebracht.
 
 ![Landgericht Berlin - Foto AdvoAdvice](/uploads/lg-berlin---spreeblick-1.jpg "Vergleich mit Synergie Inkasso für Flex Strom AG")
@@ -44,3 +43,9 @@ Der SCHUFA-Experte Dr. Sven Tintemann resümierte: "Es ist immer wieder erstaunl
 ### Fazit
 
 Bei Problemen mit negativen SCHUFA-Einträgen ist es dringen zu empfehlen, sich anwaltliche Hilfe zu suchen. Im Optimalfall kann eine schnelle, häufiger noch aber eine nachhaltige Lösung für das Problem gefunden werden. Eine ehrliche Beratung verhindert dabei gleichzeitig, dass man sich in sinnlose Prozesse stürzt, die man tatsächlich nicht gewinnen kann. Sollten Sie unter einem Negativeintrag leiden, können Sie uns gerne jederzeit kontaktieren.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -25,7 +25,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 In einem weiteren Verfahren konnte vor dem Landgericht Hamburg eine Einigung mit der Barclays Bank PLC gefunden werden. Vor einigen Wochen meldete sich diesbezüglich ein 56-jähriger Mann, welcher feststellen musste, dass die Barclays Bank PLC einen Negativeintrag lanciert hatte. In den vergangenen Jahren kam es bereits zwei Mal zu fehlerhaften Kündigungsandrohungen und gar SCHUFA-Einträgen, welche kurzfristig wieder zurückgenommen wurden.
 
 ### Wie kam es zu der Einmeldung?
@@ -38,7 +37,7 @@ Daraufhin meldete die Barclays Bank PLC den gesamten Kreditbetrag bei der SCHUFA
 
 ### Wie konnte geholfen werden?
 
-Bereits der geschilderte Sachverhalt lässt den juristisch vorgebildeten Leser erkennen, dass es Probleme mit den Kündigungsvoraussetzungen geben könnte. Diese wurden gegenüber der Barclays Bank PLC sodann ausfühlich dargelegt. Dennoch beharrte diese auf der Rechtmäßigkeit des Eintrages. Um die kurzen Fristen des einstweiligen Rechtsschutzes zu wahren, wurde sodann kurzfristig ein Antrag auf Erlass einer einstweiligen Verfügung beim Landgericht Hamburg eingereicht. 
+Bereits der geschilderte Sachverhalt lässt den juristisch vorgebildeten Leser erkennen, dass es Probleme mit den Kündigungsvoraussetzungen geben könnte. Diese wurden gegenüber der Barclays Bank PLC sodann ausfühlich dargelegt. Dennoch beharrte diese auf der Rechtmäßigkeit des Eintrages. Um die kurzen Fristen des einstweiligen Rechtsschutzes zu wahren, wurde sodann kurzfristig ein Antrag auf Erlass einer einstweiligen Verfügung beim Landgericht Hamburg eingereicht.&nbsp;
 
 ![Landgericht Hamburg - Foto AdvoAdvice](/uploads/lg-hamburg-außenansicht-3.JPG "Landgericht Hamburg - Außenansicht")
 
@@ -47,3 +46,9 @@ Kurze Zeit später meldete sich die Rechtsvertretung der Barclays Bank PLC. In d
 ### Fazit
 
 Nur weil ein Unternehmen auf der Rechtmäßigkeit eines Eintrages beharrt, heißt das noch lange nicht, dass eine SCHUFA-Meldung deshalb auch berechtigt erfolgte und nicht gelöscht werden kann. Es ist jedoch schwierig, die kleinen aber feinen Details zu erkennen, woran eine rechtmäßige Eintragung scheitert. Deshalb wird häufig anwaltliche Hilfe benötigt, um ein solches Problem zu lösen. Häufig muss man dabei den Weg vor die Gerichte suchen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

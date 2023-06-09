@@ -19,8 +19,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-Mit der Einführung der DSGVO ändern sich nicht nur die allgegenwärtigen Cookie-Einstellungen, sondern auch manche Begrifflichkeiten. Im Kontext der SCHUFA Holding AG trifft dies auf die vormals als "Kostenlose Selbstauskunft" auch damals noch richtig als "Datenübersicht" benannte Zusammenfassung des eigenen Datenbestandes bei der SCHUFA zu. Diese heißt nunmehr Datenkopie und kann [hier ](https://www.meineschufa.de/index.php?site=11_3)angefordert werden.
+Mit der Einführung der DSGVO ändern sich nicht nur die allgegenwärtigen Cookie-Einstellungen, sondern auch manche Begrifflichkeiten. Im Kontext der SCHUFA Holding AG trifft dies auf die vormals als "Kostenlose Selbstauskunft" auch damals noch richtig als "Datenübersicht" benannte Zusammenfassung des eigenen Datenbestandes bei der SCHUFA zu. Diese heißt nunmehr Datenkopie und kann [hier](https://www.meineschufa.de/index.php?site=11_3)angefordert werden.
 
 ### Was ändert sich?
 
@@ -43,3 +42,9 @@ Darüber hinaus hat man nicht immer davon Kenntnis, dass ein negativer SCHUFA-Ei
 ### Schlechter Scorewert oder Negativeintrag?
 
 Sollten Sie feststellen, dass Ihr Scorewert in einem schlechten Bereich oder ein negativer Eintrag in Ihrem Datenbestand zu finden ist, sollten Sie umgehend die Hilfe eines Experten in Anspruch nehmen. In diese Fällen kann eine schnelle Intervention weiterhelfen. Gerne können Sie uns diesbezüglich unter 030/921 000 40 oder unter info@advoadvice.de kontaktieren.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

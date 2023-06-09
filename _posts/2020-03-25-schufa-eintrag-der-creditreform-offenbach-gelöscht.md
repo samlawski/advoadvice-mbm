@@ -24,8 +24,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-Viele Unternehmen nutzen die Dienste der SCHUFA Holding AG. Dabei werden grundsätzlich Daten übermittelt und Auskünfte empfangen. Bei der Frage wer die SCHUFA-Einträge vornimmt, kommt es manchmal zu scheinbaren Überraschungen, wenn diese für den durchschnittlichen Verbraucher mutma&szlig;lich auf eine andere Auskunftei zurückzuführen sind.
+Viele Unternehmen nutzen die Dienste der SCHUFA Holding AG. Dabei werden grundsätzlich Daten übermittelt und Auskünfte empfangen. Bei der Frage wer die SCHUFA-Einträge vornimmt, kommt es manchmal zu scheinbaren Überraschungen, wenn diese für den durchschnittlichen Verbraucher mutmaßlich auf eine andere Auskunftei zurückzuführen sind.
 
 ## Unternehmensgruppe Creditreform
 
@@ -41,10 +40,10 @@ Der zuständige SCHUFA-Experte Rechtsanwalt Dr. Tintemann wandte sich mit einem 
 
 ## Rechtliche Einschätzung
 
-Der zuständige Rechtsanwalt Dr. Tintemann ordnete den Fall anschlie&szlig;end rechtlich ein: "Nach den allgemeinen Grundsätzen ist die Stelle, welche einen SCHUFA-Eintrag vornimmt, für die Versendung und den Zugang der Mahnschreiben beweisbelastet. Kann ein solcher Zugang nicht bewiesen werden, kann der SCHUFA-Eintrag nicht mit diesen Schreiben gerechtfertigt werden. So lag der Fall hier, wobei es überraschend war, dass sich die Creditreform Offenbach Gabold & Bleul KG auf das Schreiben überhaupt nicht gemeldet hat. Dies mag daran liegen, dass die Forderung durch unseren Mandanten in der Zwischenzeit ausgeglichen war. Die Schufa hat daher höchstwahrscheinlich den Eintrag gelöscht, weil ihre ebenfalls keine Rückmeldung zu dem Eintrag vorlag."
+Der zuständige Rechtsanwalt Dr. Tintemann ordnete den Fall anschließend rechtlich ein: "Nach den allgemeinen Grundsätzen ist die Stelle, welche einen SCHUFA-Eintrag vornimmt, für die Versendung und den Zugang der Mahnschreiben beweisbelastet. Kann ein solcher Zugang nicht bewiesen werden, kann der SCHUFA-Eintrag nicht mit diesen Schreiben gerechtfertigt werden. So lag der Fall hier, wobei es überraschend war, dass sich die Creditreform Offenbach Gabold & Bleul KG auf das Schreiben überhaupt nicht gemeldet hat. Dies mag daran liegen, dass die Forderung durch unseren Mandanten in der Zwischenzeit ausgeglichen war. Die Schufa hat daher höchstwahrscheinlich den Eintrag gelöscht, weil ihre ebenfalls keine Rückmeldung zu dem Eintrag vorlag."
 
-Wenn Sie unter den Folgen von SCHUFA-Einträgen leiden, stehen Ihnen unsere Anwälte gerne zur Seite und bieten schnelle Hilfe sowie fairen Rechtsrat.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-Bei vielen Einträgen gab es Fehler, welche dazu führen, dass diese nicht vorgenommen werden durften. Gerne prüfen wir für Sie kostenfrei, ob in Ihrem Fall Erfolgsaussichten bestehen. Rufen Sie uns gerne an 030 921 000 40 oder schreiben uns eine Email an info@advoadvice.de.
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

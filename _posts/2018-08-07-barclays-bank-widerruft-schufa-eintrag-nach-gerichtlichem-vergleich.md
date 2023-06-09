@@ -20,14 +20,13 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 In den verganenen Monaten wurde bereits mehrach berichtet, dass negative SCHUFA-Einträge, welche durch die Barclays Bank PLC eingemeldet wurden, zur Löschung gebracht oder widerrufen wurden (siehe z.B. [Reaktion in Rekordzeit](https://advoadvice.de/blog/schufa-eintrag-der-barclays-bank-reaktion-in-rekordzeit/)). Erneut konnten die Advoadvice Rechtsanwälte nun einem Betroffenen helfen.
 
 ### Umschuldung und Kündigung
 
 Anfang des Jahres 2017 wollte der Betroffene einige Kredite umschulden. Dazu sollten die entsprechenden Konten bei der Barclays Bank geschlossen werden. In der Folgezeit nahm der Betroffene von der Kündigung Abstand und wollte die Konten weiterführen. Aufgrund der darauf folgenden Korrespondenz und der Übersendung monatlicher Kontoübersichten ging der Kunde der Barclays Bank davon aus, die Konten auch weiter nutzen zu können.
 
-Im März 2017 wurde der Betroffene sodann überraschender Weise darüber informiert, dass er den Gesamtsaldo zurückzuzahlen habe und die Forderung an die SCHUFA Holding AG  übermittelt wird. Kurz darauf glich der ehemalige Kunde Barclays Bank den Gesamtsaldo aus. Die Negativeintragung blieb jedoch -als erledigtes Merkmal- bestehen.
+Im März 2017 wurde der Betroffene sodann überraschender Weise darüber informiert, dass er den Gesamtsaldo zurückzuzahlen habe und die Forderung an die SCHUFA Holding AG&nbsp; übermittelt wird. Kurz darauf glich der ehemalige Kunde Barclays Bank den Gesamtsaldo aus. Die Negativeintragung blieb jedoch -als erledigtes Merkmal- bestehen.
 
 ### Gerichtlicher Vergleich
 
@@ -38,3 +37,9 @@ Zur Abwendung eines Gerichtstermins und eines darauf folgenden Urteils, konnten 
 ### Ausblick
 
 Nach der neuen Datenschutz-Grundverordnung haben sich die grundlegenden Voraussetzungen für negative SCHUFA-Einträge geändert. Somit bestehen für Betroffene neue Möglichkeiten, gegen diese Einträge vorzugehen. Es kommt nun wieder vermehrt auf den konkreten Einzelfall an. Wenn Sie Probleme mit solchen SCHUFA-Einträgen haben, können Sie uns gerne kontaktieren oder den kostenlosen und unverbindlichen [SCHUFA-Vorab-Check](https://advoadvice.de/schufa-beratung/) durchführen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

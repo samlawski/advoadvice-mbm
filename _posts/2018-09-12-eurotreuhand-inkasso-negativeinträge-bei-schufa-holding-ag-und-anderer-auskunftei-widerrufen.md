@@ -21,7 +21,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Kanzlei AdvoAdvice konnte erneut einem Mandanten zum Widerruf von Negativeinträgen in Auskunfteien verhelfen. So wurde erreicht, dass die Eurotreuhand Inkasso GmbH Negativeinträge über eine durch AdvoAdvice vertretene Berliner Mandantin bei der Schufa Holding AG und einer weiteren Auskunftei, der I. GmbH, kurzfristig widerrufen hat.
 
 ### Zum Hintergrund:
@@ -34,10 +33,14 @@ Sowohl die Eurotreuhand Inkasso GmbH als auch die SCHUFA Holding AG wurden durch
 
 ### Unser Rechtstipp:
 
-Falls Sie Kenntnis davon haben, dass ein negativer SCHUFA-Eintrag vorgenommen wurde oder womöglich kurzfristig ansteht, sollten Sie die dazugehörigen Unterlagen unbedingt aufheben. Es ist sehr erfreulich, dass in diesem Fall eine erfolgreiche Löschung möglich war. Oftmals wird sich eine solche Löschung aber nur mit Kenntnis der tatsächlichen Unterlagen durchsetzen lassen. 
+Falls Sie Kenntnis davon haben, dass ein negativer SCHUFA-Eintrag vorgenommen wurde oder womöglich kurzfristig ansteht, sollten Sie die dazugehörigen Unterlagen unbedingt aufheben. Es ist sehr erfreulich, dass in diesem Fall eine erfolgreiche Löschung möglich war. Oftmals wird sich eine solche Löschung aber nur mit Kenntnis der tatsächlichen Unterlagen durchsetzen lassen.&nbsp;
 
-Darüber hinaus sollte schnell gehandelt werden, wenn ein negativer SCHUFA-Eintrag erfolgt ist. Zunächst kann man eine [kostenlose Datenkopie](https://www.meineschufa.de/site-11_3_1) bei der SCHUFA anfordern. Darin ist der Negativeintrag aufgeführt.
+Darüber hinaus sollte schnell gehandelt werden, wenn ein negativer SCHUFA-Eintrag erfolgt ist. Zunächst kann man eine [kostenlose Datenkopie](https://www.meineschufa.de/site-11_3_1)&nbsp;bei der SCHUFA anfordern. Darin ist der Negativeintrag aufgeführt.
 
 Sodann sollte die Angelegenheit schnellstmöglich einem Experten übergeben werden, damit dieser zielführende Handlungsoptionen aufzeigen und eine effektive Hilfe gewährleisten kann. Dies ist nötig, da negative SCHUFA-Eintrag erst drei Jahre nach dem Ausgleich der Forderung gelöscht werden. In dieser Zeit können Verträge mit Banken, Mobilfunkanbietern, Versorgungsunternehmen, etc. nur in wenigen Fällen abgeschlossen werden.
 
-Für den Fall, dass auch Sie Hilfe bei der Beseitigung eines negativen SCHUFA-Eintrages benötigen, können Sie uns gerne unter info@advoadvice.de oder unter 030/921 000 40 kontaktieren.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

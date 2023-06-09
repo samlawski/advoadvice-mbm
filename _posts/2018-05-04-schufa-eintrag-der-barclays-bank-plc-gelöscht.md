@@ -23,14 +23,13 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Erfolg von AdvoAdvice innerhalb von nur fünf Tagen. Eintrag der Barclays Bank PLC bei der Schufa Holding AG gelöscht.
 
 ![](/uploads/advoadvice-02-13-von-49.jpg)
 
 ### Schufa löscht nach fünf Tagen
 
-AdvoAdvice konnte einer zweiundfünfzigjährigen Frau aus dem Ruhrgebiet gegen einen Negativeintrag der Barclays Bank PLC bei der Schufa Holding AG in nur fünf Tagen helfen. 
+AdvoAdvice konnte einer zweiundfünfzigjährigen Frau aus dem Ruhrgebiet gegen einen Negativeintrag der Barclays Bank PLC bei der Schufa Holding AG in nur fünf Tagen helfen.&nbsp;
 
 ### Hintergrund des Eintrags
 
@@ -44,10 +43,16 @@ Dennoch sprach die Barclays Bank am 24.08.2016 eine fristlose Kündigung des Kre
 
 Mit einem Schreiben vom 15.03.2018 wandte ich AdvoAdvice dann an die Schufa Holding AG sowie an die Barclays Bank und rügte den Negativeintrag als rechtswidrig und forderte zur Löschung auf.
 
-Bereits mit Schreiben vom 20.03.2018 meldete sich die Schufa Holding AG und  teilte mit, den Negativeintrag ohne Anerkennung einer Rechtspflicht gelöscht zu haben.
+Bereits mit Schreiben vom 20.03.2018 meldete sich die Schufa Holding AG und&nbsp; teilte mit, den Negativeintrag ohne Anerkennung einer Rechtspflicht gelöscht zu haben.
 
 ### Barclays Bank PLC übernimmt Anwaltskosten
 
 Mit Schreiben vom 16.04.2018 bestätigte auch die Barclays Bank die Löschung des Eintrags sowie eine Übernahme der entstandenen Anwaltskosten auf einen Streitwert von 7.889,00 Euro.
 
 Der Vorgang zeigt wieder einmal, dass es sehr sinnvoll sein kann, sich bei einem Schufa Negativeintrag schnell an einen Rechtsanwalt und Spezialisten im Bank- und Kapitalmarktrecht zu wenden. Dieser kann oftmals schnell erkennen, ob ein Eintrag rechtswidrig ist und durch konsequentens Handeln sowohl die Schufa Holding AG als auch die eintragende Stelle hierauf ausmerksam machen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

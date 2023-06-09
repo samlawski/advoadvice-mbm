@@ -20,7 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Außergerichtlicher Erfolg gegen Schufa Negativeintrag der Synergie Inkasso. Diese hatte am 21.09.2015 eine offene Forderung über 1.618,00 Euro bei der Schufa Holding AG eingetragen. Nachdem beim Betroffenen die Stromzähler ausgetauscht wurden, gab es in der Folgezeit nicht nachvollziehbare Abrechnungen. Trotz mehrerer Kontaktversuche des Betroffenen mit der ursprünglichen Forderungsinhaberin, der FlexStrom AG, konnte keine Lösung gefunden werden. Anschließend wurde der Betroffene nur noch ein Mal kontaktiert. Dies geschah durch die Synergie Inkasso GmbH, welche die Forderungen der Flex Strom AG eintreibt, im Jahr 2014.
 
 ### Verjährung
@@ -40,3 +39,9 @@ Nicht immer werden Forderungen in berechtigter Art und Weise geltend gemacht. Ma
 Es kommt daher immer auf den konkreten Einzelfall an, ob eine Forderung berechtigt im Schufa-Datenbestand auftaucht, oder ob man einen Widerruf bzw. eine Löschung des Eintrages durchsetzen kann.
 
 Dr. Tintemann hat in den letzten Jahren mehr als 700 Schufa-Fälle bearbeitet und verfügt über viel Erfahrung auf diesem Gebiet. Nutzen Sie daher den Rat eines Fachanwalts und Experten zur Prüfung Ihrer Angelegenheit.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

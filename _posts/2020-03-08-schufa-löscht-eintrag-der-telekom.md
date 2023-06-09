@@ -24,8 +24,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-Negative Einträge bei der SCHUFA Holding AG können ganz unterschiedliche Ursachen haben. Manchmal haben die eintragenden Unternehmen daran einen grö&szlig;eren Anteil, als man glauben möchte. So erging es auch einer 45-jährigen Frau aus Schleswig-Holstein, die sich bei den Rechtsanwälten von AdvoAdvice meldete.
+Negative Einträge bei der SCHUFA Holding AG können ganz unterschiedliche Ursachen haben. Manchmal haben die eintragenden Unternehmen daran einen größeren Anteil, als man glauben möchte. So erging es auch einer 45-jährigen Frau aus Schleswig-Holstein, die sich bei den Rechtsanwälten von AdvoAdvice meldete.
 
 ## Krankheit, schlechte Beratung, SCHUFA-Eintrag
 
@@ -37,9 +36,9 @@ Nur kurze Zeit später wurde eine Kündigung ausgesprochen und zudem ein negativ
 
 ## Löschung durch die SCHUFA Holding AG
 
-Der von der Telekom Deutschland GmbH veranlasste Negativeintrag wurde nun nach fast drei-monatiger Auseinandersetzung durch die SCHUFA Holding AG gelöscht. Bereits im November wurden die Telekom sowie die SCHUFA kontaktiert und zur Löschung aufgefordert. Der zuständige SCHUFA-Experte, Rechtsanwalt Dr. Sven Tintemann, aus der Kanzlei AdvoAdvice Rechtsanwälte in Berlin-Zehlendorf, argumentierte ma&szlig;geblich mit den "neuen" Regelungen der DSGVO.
+Der von der Telekom Deutschland GmbH veranlasste Negativeintrag wurde nun nach fast drei-monatiger Auseinandersetzung durch die SCHUFA Holding AG gelöscht. Bereits im November wurden die Telekom sowie die SCHUFA kontaktiert und zur Löschung aufgefordert. Der zuständige SCHUFA-Experte, Rechtsanwalt Dr. Sven Tintemann, aus der Kanzlei AdvoAdvice Rechtsanwälte in Berlin-Zehlendorf, argumentierte maßgeblich mit den "neuen" Regelungen der DSGVO.
 
-Entgegen der alten Rechtslage reicht das blo&szlig;e Vorliegen einer Kündigungslage (&sect; 28a Abs. 1 S. 1 Nr. 5 BDSG a.F.) nicht mehr aus, um eine Datenübermittlung zu rechtfertigen. Vielmehr muss nun eine Interessenabwägung (Art. 6 Abs. 1 lit. f) DSGVO) vorgenommen werden.
+Entgegen der alten Rechtslage reicht das bloße Vorliegen einer Kündigungslage (§ 28a Abs. 1 S. 1 Nr. 5 BDSG a.F.) nicht mehr aus, um eine Datenübermittlung zu rechtfertigen. Vielmehr muss nun eine Interessenabwägung (Art. 6 Abs. 1 lit. f) DSGVO) vorgenommen werden.
 
 Ein Grundsatz der DSGVO ist, dass Datenübermittlungen transparent, vorhersehbar und in fairer Weise erfolgen müssen. Diese Grundsätze waren hier aus Sicht der Rechtsanwälte nicht gegeben, da die Betroffene weitere Probleme vermeiden wollte und die Telekom nur deshalb kontaktierte. Der Ratschlag der Telekom, dass eine Ratenzahlungsvereinbarung nur über das Inkassounternehmen getroffen werden könne, hätte aus Sicht von Rechtsanwalt Dr. Sven Tintemann zwingend mit einem expliziten Hinweis auf den ebenfalls folgenden SCHUFA-Eintrag bei Kündigung durch die Telekom verbunden werden müssen.
 
@@ -51,4 +50,8 @@ Der zuständige SCHUFA-Experte, Rechtsanwalt Dr. Sven Tintemann zeigte sich ob d
 
 Es zeigt sich an diesem Fall einmal mehr, wieso mit Fragen rund um SCHUFA-Einträge stets Experten beauftragt werden sollten, da es immer auf den Einzelfall ankommen kann und man den Fall gut durcharbeiten muss. Hier führen oftmals&nbsp; Hartnäckigkeit und schnelles Handeln zur Löschung von Negativeinträgen, nicht Musterbriefe oder Anrufe beim Gegner oder der Schufa. &nbsp;
 
-Nutzen Sie daher die Chance, sich an das Expertenteam der Kanzlei AdvoAdvice Rechtsanwälte aus Berlin-Zehlendorf zu wenden, das schon schon vielfach Negativeinträge zur Löschung bringen konnte und vielen Betroffenen schnell helfen konnte. Nutzen Sie hierzu 030 921 00 40&nbsp; oder info@advoadvice.de, um&nbsp; Kontakt zu Ihrem Anwalt aufzunehmen.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

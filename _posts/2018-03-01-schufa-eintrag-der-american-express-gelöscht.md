@@ -23,7 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Es gibt immer wieder Fälle in denen die Schufa Holding AG in Wiesbaden negative Schufa-Einträge selbständig zur Löschung bringt. Die Schufa Holding AG muss sicherstellen, dass der Datenbestand auf einer rechtmäßigen und wahren Grundlage beruft. Unabhängig von der Frage, ob eine Forderung tatsächlich entstanden und nicht sofort ausgeglichen wurde, gibt es immer wieder auch gute Gründe oder Vereinbarungen warum der Ausgleich der Forderung unterblieben ist.
 
 ### Sachverhalt
@@ -38,4 +37,8 @@ Trotz der Intervention durch Rechtsanwalt Dr. Sven Tintemann, Partner bei Advoad
 
 In vielen Stadien des Forderungseinzuges können die Voraussetzungen für eine Übermittlung an die Schufa Holding AG entstehen bzw. auch wieder entfallen. Ob eine Einmeldung erfolgen darf, hängt immer am konkreten Forderungsverlauf.
 
-Sollten Sie Hilfe bei der Löschung eines negativen Schufa  Eintrages benötigen, können Sie gerne unser Experten-Team kontaktieren (info@advoadvice.de oder 030/921 000 40). Soweit es möglich ist, helfen wir Ihnen gerne.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

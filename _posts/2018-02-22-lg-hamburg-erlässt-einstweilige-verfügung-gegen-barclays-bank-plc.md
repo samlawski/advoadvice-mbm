@@ -21,7 +21,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Das Landgericht Hamburg hat gegen die Barclays Bank PLC eine einstweilige Verfügung erlassen. Die Entscheidung erging nach einer mündlichen Verhandlung am 16.02.2018 über den Antrag der Kanzlei AdvoAdvice.
 
 ### Hintergrund der gerichtlichen Auseinandersetzung
@@ -47,3 +46,9 @@ Die vom Gericht erlassene Entscheidung wird nun der Gegenseite zugestellt. Zudem
 Kunden von Banken und Sparkassen, die einen negativen Schufa Eintrag bei sich vorfinden, der durch die Bank oder Sparkasse veranlasst wurde, sollten sich unverzüglich Rechtsrat bei einem Experten im Bereich des Datenschutzrechts einholen.
 
 Die Kanzlei AdvoAdvice ist schon seit Jahren auf diesem Gebiet tätig und konnte bereits zahlreichen Betroffenen bei der Löschung bzw. dem Widerruf von Einträgen aus dem Datenbestand verschiedener Auskunfteien helfen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
