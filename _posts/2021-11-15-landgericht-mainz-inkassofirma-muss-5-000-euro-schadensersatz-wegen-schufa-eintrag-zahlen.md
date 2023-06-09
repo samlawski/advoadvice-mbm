@@ -112,3 +112,9 @@ Sollten auch Sie Hilfe bei der Geltendmachung von Schadensersatzansprüchen wege
 ## \*Update\*
 
 Das Oberlandesgericht Koblenz hat mit Urteil vom 13.02.2023 zum Az. 12 U 2194/21 die Entscheidung aufgehoben und die Klage abgewiesen. Hinsichtlich der Schadensersatzansprüche wurde die Revision zugelassen. Die Entscheidungen sind damit noch nicht vollständig rechtskräftig.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

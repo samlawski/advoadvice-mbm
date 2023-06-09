@@ -27,7 +27,7 @@ Das Leben schreibt oft merkwürdige Geschichten. In zwei aktuellen Fällen, in d
 
 ## Ehemann erhält Negativeintrag für Vertrag der Ehefrau
 
-Im ersten Fall meldete sich ein Betroffener aus Schleswig-Holstein. Dieser teilte mit, er habe einen Negativeintrag von der Telekom Deutschland GmbH bei der Schufa Holding AG erhalten. Das Ungewöhnliche an dem Fall war jedoch, dass der Betroffene auch nie Kunden der Telekom war, da der Vertrag noch vor Eheschlie&szlig;ung durch die Ehefrau des Betroffenen abgeschlossen worden war.&nbsp;
+Im ersten Fall meldete sich ein Betroffener aus Schleswig-Holstein. Dieser teilte mit, er habe einen Negativeintrag von der Telekom Deutschland GmbH bei der Schufa Holding AG erhalten. Das Ungewöhnliche an dem Fall war jedoch, dass der Betroffene auch nie Kunden der Telekom war, da der Vertrag noch vor Eheschließung durch die Ehefrau des Betroffenen abgeschlossen worden war.&nbsp;
 
 Da der Betroffene auch nicht mehr mit der Ex-Frau zusammenlebte, hatte er an seiner ehemaligen Anschrift natürlich auch keine Mahnschreiben oder Hinweise auf einen bevorstehenden Negativeintrag erhalten.&nbsp;
 
@@ -55,6 +55,8 @@ Nachdem die Kanzlei AdvoAdvice sich an die Telekom und die Schufa Holding AG gew
 
 Sind auch Sie von einem Negativeintrag betroffen? Dann lassen Sie diesen durch einen Experten im Bereich des Schufa-Rechts überprüfen. Auch wenn Sie tatsächlich Geld an ein Unternehmen wie z.B. die Telekom schulden, bedeutet dies nicht, dass ein Negativeintrag alleine deshalb gerechtfertigt ist.&nbsp;
 
-Nehmen Sie gerne Kontakt zu unseren Experten Dr. Raphael Rohrmoser und Dr. Sven Tintemann unter 030 921 000 40 oder info@advoadvice.de auf.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

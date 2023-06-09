@@ -47,4 +47,8 @@ Die weit verbreitete Meinung, die auch oft im Internet zu finden ist, dass man e
 
 Korrekt ist, dass es immer auf die Prüfung des Einzelfalls ankommt. Hierbei sind vor allem die Feinheiten des Sachverhalts relevant. Diese muss man durch einen Experten im Bereich des Datenschutzrechts prüfen lassen.&nbsp;
 
-Die Rechtsanwälte Dr. Raphael Rohrmoser und Dr. Sven Tintemann stehen Betroffenen hierfür in der Kanzlei AdvoAdvice Rechtsanwälte mbB gerne zur Verfügung. Rufen Sie gerne an unter 030 921 000 40 oder schicken Sie eine Email an info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

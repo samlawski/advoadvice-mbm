@@ -19,7 +19,7 @@ Es gibt aber auch andere Titulierungen: Dabei reicht es jedoch nicht aus, wenn m
 
 Wenn man gegen diesen Mahnbescheid nicht vorgegangen ist, wird auf Antrag des Forderungsinhabers ein Vollstreckungsbescheid erlassen. Dieser Vollstreckungsbescheid wird erneut förmlich mit gelber Postzustellurkunde zugestellt. Dies ist das Ende des oftmals automatisierten Mahnverfahrens.
 
-Das Gericht überprüft die Forderung hierbei nicht inhaltlich, sondern nur die ordnungsgemä&szlig;e Antragstellung. Hintergrund ist u. a. die Effektivierung der Durchsetzung unstreitiger Forderungen und dass man sich recht einfach gegen den Mahnbescheid zur Wehr setzen kann.
+Das Gericht überprüft die Forderung hierbei nicht inhaltlich, sondern nur die ordnungsgemäße Antragstellung. Hintergrund ist u. a. die Effektivierung der Durchsetzung unstreitiger Forderungen und dass man sich recht einfach gegen den Mahnbescheid zur Wehr setzen kann.
 
 Der Vollstreckungsbescheid stellt dann eine titulierte Forderung dar. Gerade solche Forderungen werden oftmals als Negativeintrag an Auskunfteien gemeldet.
 
@@ -31,7 +31,7 @@ Bereits unter dem alten Bundesdatenschutzgesetz (BDSG) war anerkannt, dass eine 
 
 Der Hintergrund für diese Bevorzugung ist relativ einfach: Wenn eine betroffene Person bereits gerichtlich um eine Forderung gestritten hat, soll sie spätestens mit Abschluss des Verfahrens&nbsp; die Forderung auch erfüllen, also bezahlen. Inhaltliche Einwendungen hätten im Gerichtsverfahren berücksichtigt werden müssen.
 
-Diese Wertung hat der deutsche Gesetzgeber dann auch schriftlich umgesetzt&nbsp; in den Regelungen des &sect; 28a Abs. 1 S. 1 Nr. 1 BDSG a.F. bzw. &sect; 31 Abs. 2 Nr. 1 BDSG n.F.). Aufgrund dieser Entscheidung ist die Verarbeitung titulierter Forderungen oftmals zulässig.
+Diese Wertung hat der deutsche Gesetzgeber dann auch schriftlich umgesetzt&nbsp; in den Regelungen des § 28a Abs. 1 S. 1 Nr. 1 BDSG a.F. bzw. § 31 Abs. 2 Nr. 1 BDSG n.F.). Aufgrund dieser Entscheidung ist die Verarbeitung titulierter Forderungen oftmals zulässig.
 
 ## **Wie kann ein titulierter Negativeintrag entfernt werden?**
 
@@ -53,4 +53,8 @@ Wenn der gerichtliche Titel aber an der von Ihnen bewohnten Adresse zugestellt w
 
 Wenn der Titel zugestellt wurde, bleiben nur noch sehr wenige Ausnahmefälle, in denen eine Löschung des Eintrages denkbar scheint. Einerseits muss die betroffene Person genug Zeit haben, um auf die Titulierung zu reagieren. Erfolgt die Eintragung bereits in den ersten Tagen nach der Zustellung, gibt es zumindest gute Argumentationsansätze für eine Löschung. Anderenfalls ist es auch möglich und kommt öfter in der Praxis vor, dass die Titulierung schon viele Jahre zurückliegt. Daraus kann ebenfalls ein Löschanspruch entstehen, wie ihn u.a. der AG Magdeburg angenommen hat. Dies ist aber immer eine Frage des Einzelfalls.
 
-Sollten Sie Probleme mit einem Negativeintrag bei einer Auskunftei haben, stehen wir Ihnen gerne zur Verfügung. Bitte schildern Sie uns bei der ersten Kontaktaufnahme, ob eine der oben genannten Besonderheiten vorliegt. Sie erreichen uns unter 030 / 921 000 40 oder info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -59,8 +59,8 @@ Bis heute wurden keine Mahnschreiben oder ähnliches vorgelegt, die den Negative
 
 Dr. Sven Tintemann fasste zusammen: „Bei Negativeinträgen ist es oftmals wichtig, mit anwaltlicher Hilfe nachzufassen, um eine Löschung durchzusetzen. Lassen Sie sich nicht von Schreiben durch Anwaltskanzleien, die das Anwaltsinkasso betreiben, oder von Auskunftei wie z.B. der Creditreform Boniversum verunsichern, sondern suchen Sie sich kompetente Hilfe im Bereich des Datenschutzrechts."
 
-Die Kanzlei AdvoAdvice Rechtsanwälte mbB erreichen Sie unter 030 921 000 40 oder unter info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -22,7 +22,7 @@ tags:
 topics:
 author: dr--raphael-rohrmoser
 ---
-# **Au&szlig;ergerichtliche und gerichtliche Möglichkeiten nach einem Hack**
+# **Außergerichtliche und gerichtliche Möglichkeiten nach einem Hack**
 
 Eine Facebook-Nutzerin erhält Mitten in der Nacht eine Email, dass sich jemand in das Profil eingeloggt hat. Es folgt eine weitere Mail mit einer Änderung der hinterlegten Mail-Adressen und noch eine Mail mit einem Freischalt-Code und sodann dem Hinweis, dass das Passwort geändert wurde.
 
@@ -32,32 +32,26 @@ Was sich nach einem speziellen Einzelfall anhört, ruft immer mehr Betroffene au
 
 ## **Wo liegt das Problem nach einem Hack?**
 
-Das Hauptproblem nach einem solche Hack liegt darin, dass die meisten Nutzerinnen und Nutzer keinen Zugriff zu ihrem Profil erhalten. Im Gro&szlig;en und Ganzen lassen sich zwei Fallgruppen ausmachen:
+Das Hauptproblem nach einem solche Hack liegt darin, dass die meisten Nutzerinnen und Nutzer keinen Zugriff zu ihrem Profil erhalten. Im Großen und Ganzen lassen sich zwei Fallgruppen ausmachen:
 
-In vielen Fällen wird das Profil gehackt, anschlie&szlig;end verändert, Posts werden verfasst und von den Hackern in irgendeiner Art und Weise genutzt. Was genau die Hacker machen, kann man von au&szlig;en nur sehr schwer erkennen. Da das Profil aber scheinbar normal genutzt wird, fällt bei den offenbar automatisiert durchgeführten Prüfungen von Facebook bzw. Meta nicht auf, dass ein rechtswidriger Profilzugriff gegeben ist. Insofern folgt auf Beschwerden oft auch keine unmittelbare Reaktion.
+In vielen Fällen wird das Profil gehackt, anschließend verändert, Posts werden verfasst und von den Hackern in irgendeiner Art und Weise genutzt. Was genau die Hacker machen, kann man von außen nur sehr schwer erkennen. Da das Profil aber scheinbar normal genutzt wird, fällt bei den offenbar automatisiert durchgeführten Prüfungen von Facebook bzw. Meta nicht auf, dass ein rechtswidriger Profilzugriff gegeben ist. Insofern folgt auf Beschwerden oft auch keine unmittelbare Reaktion.
 
 In anderen Fallkonstellationen werden die Profile unmittelbar nach dem Hack deaktiviert. Diese Deaktivierung ist oftmals bereits als endgültig ausgestaltet.
 
 Hintergrund ist nach aktuellem Kenntnisstand der Rechtsanwälte aus der Kanzlei AdvoAdvice oftmals das Posten kinderpornographischer und anderer strafbarer Inhalte, welche bei der automatisierten Facebook-Prüfung zum Glück sofort auffallen.
 
-Das Problem für Betroffene: Die Posts werden regelmä&szlig;ig von den Hackern vorgenommen, sodass man selbst überhaupt keinen Versto&szlig; begangen hat. Ist das Profil aber erst einmal wegen eines solchen Vorgangs gesperrt, ist es für den Durchschnittsnutzer enorm schwer, dieses wieder freizubekommen.
+Das Problem für Betroffene: Die Posts werden regelmäßig von den Hackern vorgenommen, sodass man selbst überhaupt keinen Verstoß begangen hat. Ist das Profil aber erst einmal wegen eines solchen Vorgangs gesperrt, ist es für den Durchschnittsnutzer enorm schwer, dieses wieder freizubekommen.
 
 Viele Betroffene bemängeln, dass es bei Facebook keinen ausreichenden Support gibt. Eine Telefonnummer ist nirgends hinterlegt und auf die im Impressum angegebene Email-Adresse erhalten die Betroffen zumeist nur standardisierte Antworten, die letztlich in einer Endlosschleife an Hilfestellungen endet, die nicht funktionieren.
 
-## **AdvoAdvice hilft vielen Betroffenen – au&szlig;ergerichtlich und gerichtlich**
+## **AdvoAdvice hilft vielen Betroffenen – außergerichtlich und gerichtlich**
 
-Betroffene können gegen Facebook vorgehen, um sich wieder Zugang zu ihrem Profil zu verschaffen. Dabei wurden von AdvoAdvice Erfolge sowohl im gerichtlichen wie auch im au&szlig;ergerichtlichen Bereich erzielt.
+Betroffene können gegen Facebook vorgehen, um sich wieder Zugang zu ihrem Profil zu verschaffen. Dabei wurden von AdvoAdvice Erfolge sowohl im gerichtlichen wie auch im außergerichtlichen Bereich erzielt.
 
-Der zuständige Rechtsanwalt Dr. Raphael Rohrmoser äu&szlig;erte insofern: „*In der Zwischenzeit werden unsere Schreiben von Facebook in vielen Fällen beantwortet. Alleine in der vergangenen Woche konnten mehrere Konten wieder hergestellt werden. Wer sich innerhalb des ersten Monats nach Kenntnis des Hacks befindet, kann auch einen Eilantrag bei Gericht einreichen. Auch auf diesem Weg kann den Betroffenen schnell geholfen werden.“*
+Der zuständige Rechtsanwalt Dr. Raphael Rohrmoser äußerte insofern: „*In der Zwischenzeit werden unsere Schreiben von Facebook in vielen Fällen beantwortet. Alleine in der vergangenen Woche konnten mehrere Konten wieder hergestellt werden. Wer sich innerhalb des ersten Monats nach Kenntnis des Hacks befindet, kann auch einen Eilantrag bei Gericht einreichen. Auch auf diesem Weg kann den Betroffenen schnell geholfen werden.“*
 
-Welcher Schritt am Ende der Sinnvollste ist, hängt ma&szlig;geblich davon ab, wie wichtig der Profilzugang für für die betroffene Person ist und welches Kostenrisiko man tragen möchte. Wird beispielsweise eine Unternehmensseite über das Profil gesteuert, kann die Dringlichkeit noch höher sein, als bei einem „nur“ in unregelmä&szlig;igen Abständen, privat genutzten Profil.
+Welcher Schritt am Ende der Sinnvollste ist, hängt maßgeblich davon ab, wie wichtig der Profilzugang für für die betroffene Person ist und welches Kostenrisiko man tragen möchte. Wird beispielsweise eine Unternehmensseite über das Profil gesteuert, kann die Dringlichkeit noch höher sein, als bei einem „nur“ in unregelmäßigen Abständen, privat genutzten Profil.
 
 Sollten Sie Hilfe benötigen, um wieder Zugang zu Ihrem Facebook-Profil zu erhalten, können Sie sich gerne unter&nbsp;[info@advoadvice.de](mailto:info@advoadvice.de)&nbsp;oder 030 / 921 000 40 melden.
 
 Wir stehen Ihnen gerne mit unserem Fachwissen zur Verfügung und stellen bei Ihrer hoffentlich vorhandenen Rechtsschutzversicherung für Sie kostenfrei eine Deckungsanfrage.&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

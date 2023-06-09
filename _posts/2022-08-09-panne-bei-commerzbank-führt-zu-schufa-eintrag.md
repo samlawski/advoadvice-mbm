@@ -30,9 +30,9 @@ Die Commerzbank veranlasste einen negativen Schufa-Eintrag zu einer Betroffenen,
 
 ### **Kontoeröffnung und Schufa-Eintrag**
 
-Ein solch folgenschwerer Fehler unterlief der Commerzbank AG gegenüber einer Kundin aus Thüringen. Die Betroffene hat im Jahr 2018 ein kostenloses Girokonto bei der (seinerzeit) Comdirect Bank (nunmehr eine Marke der Commerzbank) eröffnet. Das Konto wurde in der Folge aber nie genutzt, da die Betroffene keine ausreichende Zugangsdaten o.ä. erhielt. Sie versuchte in der Folge immer wieder sich für das Konto anzumelden. Dies scheiterte jedoch regelmä&szlig;ig.
+Ein solch folgenschwerer Fehler unterlief der Commerzbank AG gegenüber einer Kundin aus Thüringen. Die Betroffene hat im Jahr 2018 ein kostenloses Girokonto bei der (seinerzeit) Comdirect Bank (nunmehr eine Marke der Commerzbank) eröffnet. Das Konto wurde in der Folge aber nie genutzt, da die Betroffene keine ausreichende Zugangsdaten o.ä. erhielt. Sie versuchte in der Folge immer wieder sich für das Konto anzumelden. Dies scheiterte jedoch regelmäßig.
 
-Da das Konto kostenfrei war, war dies zwar ärgerlich, letztlich aber zu verschmerzen. Die Betroffene lie&szlig; das Konto dann erst einmal unbeachtet. Nach der Vertragseröffnung zog die betroffene Person dann auch einige Häuser weiter und wohnte in der gleichen Stra&szlig;e. In der Folgezeit erhielt die Betroffene keine Mahnungen oder ähnliches. Lediglich im April 2021 erhielt die Betroffene durch Zufall ein Schreiben der Bank, teilte dieser dann die neue Adresse mit und konfrontierte sie mit der darin erstmals ersichtlichen Forderung.
+Da das Konto kostenfrei war, war dies zwar ärgerlich, letztlich aber zu verschmerzen. Die Betroffene ließ das Konto dann erst einmal unbeachtet. Nach der Vertragseröffnung zog die betroffene Person dann auch einige Häuser weiter und wohnte in der gleichen Straße. In der Folgezeit erhielt die Betroffene keine Mahnungen oder ähnliches. Lediglich im April 2021 erhielt die Betroffene durch Zufall ein Schreiben der Bank, teilte dieser dann die neue Adresse mit und konfrontierte sie mit der darin erstmals ersichtlichen Forderung.
 
 Im Juli 2021 erfolgte dann überraschender Weise ein negativer Schufa-Eintrag über 121,00 Euro. Die Forderung wurde dann auch umgehend weiterverkauft.
 
@@ -60,4 +60,8 @@ Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

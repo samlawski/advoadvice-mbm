@@ -33,16 +33,22 @@ Da der Betroffene jedoch nicht noch 3 Jahre länger negativ in der Schufa vermer
 
 Nachdem Rechtsanwalt Dr. Raphael Rohrmoser für den Betroffenen tätig wurde und mit Schreiben vom 17.12.2021 die Novum Bank zu einem Widerruf des Eintrages aufforderte, konnte eine Löschung des Eintrages tatsächlich erzielt werden.
 
-Den Anspruch auf Löschung begründete Anwalt Rohrmoser damit, dass die Forderung einerseits schon mehrere Jahre alt war und der Betroffene mangels ausreichender Mahnungen vor dem Eintrag keine Chance hatte, diesen durch Zahlung zu verhindern. Au&szlig;erdem war durch die vereinbarte Ratenzahlung das berechtigte Interesse an einer Meldung bei der Schufa Holding AG entfallen.
+Den Anspruch auf Löschung begründete Anwalt Rohrmoser damit, dass die Forderung einerseits schon mehrere Jahre alt war und der Betroffene mangels ausreichender Mahnungen vor dem Eintrag keine Chance hatte, diesen durch Zahlung zu verhindern. Außerdem war durch die vereinbarte Ratenzahlung das berechtigte Interesse an einer Meldung bei der Schufa Holding AG entfallen.
 
 Der Betroffene teilte daraufhin am 10.01.2022 mit, dass der Eintrag der Novum Bank durch die Schufa Holding AG gelöscht wurde, sein Basisscore jedoch weiterhin nur bei 93% lag. Er bat Dr. Rohrmoser daher darum, nochmal für ihn tätig zu werden, damit die anderen Einträge bezüglich Anfragen wegen Krediten ebenfalls gelöscht werden.
 
 ## Merkmale ebenfalls zur Löschung gebracht
 
-Dr. Rohrmoser wurde für den Betroffenen daraufhin erneut tätig und forderte die Schufa Holding AG am 11.01.2022 zur Löschung weiterer ausschlie&szlig;lich positiv gespeicherter Merkmale auf.&nbsp;
+Dr. Rohrmoser wurde für den Betroffenen daraufhin erneut tätig und forderte die Schufa Holding AG am 11.01.2022 zur Löschung weiterer ausschließlich positiv gespeicherter Merkmale auf.&nbsp;
 
 Auf dieses Schreiben meldete sich die Schufa bereits einige Tage später und teilte mit, dass die entsprechenden Einträge ebenfalls gelöscht wurden. Der Basisscore des Betroffenen stieg damit weiter an, in einen Bereich der für den Betroffenen wieder zufriedenstellend war.&nbsp;
 
 Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden.
 
-Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen oder Ihr Scoring zu verbessern. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen oder Ihr Scoring zu verbessern.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

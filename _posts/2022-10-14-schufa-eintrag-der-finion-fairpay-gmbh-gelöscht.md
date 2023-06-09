@@ -44,7 +44,7 @@ Von seinem Schufa-Eintrag erfuhr der Betroffene erst im Rahmen einer KFZ-Leasing
 
 ## Anwaltliche Hilfe führt zu schnellem Löscherfolg
 
-Rechtsanwalt Dr. Raphael Rohrmoser wandte sich mit Schreiben vom 11.08.2022 an die Finion FairPay GmbH und forderte den Widerruf des Negativeintrages. Dabei verwies er insbesondere auf die bereits vollzogene, fristgerechte Kündigung des Vertrages durch den Betroffenen. Au&szlig;erdem verwies er darauf, dass der Betroffene ohne Vorwarnung mit einem Negativeintrag nicht rechnen konnte.
+Rechtsanwalt Dr. Raphael Rohrmoser wandte sich mit Schreiben vom 11.08.2022 an die Finion FairPay GmbH und forderte den Widerruf des Negativeintrages. Dabei verwies er insbesondere auf die bereits vollzogene, fristgerechte Kündigung des Vertrages durch den Betroffenen. Außerdem verwies er darauf, dass der Betroffene ohne Vorwarnung mit einem Negativeintrag nicht rechnen konnte.
 
 Die Finion FairPay GmbH meldete sich etwa eine Woche später auf das Schreiben der Kanzlei AdvoAdvice und teilte mit, dass die Löschung des Eintrages bei der Schufa Holding AG in Auftrag gegeben wurde.
 
@@ -54,4 +54,10 @@ Der Falkenseer konnte daraufhin bereist am 19.08.2022 feststellen, dass der Schu
 
 Rechtsanwalt Dr. Rohrmoser erklärte: „*Negative Schufa-Einträge haben weitreichende Auswirkungen im Leben der Betroffenen. In aller Regel bemerken betroffene Personen sehr schnell, dass der Abschluss von Verträgen nur noch sehr schwer möglich ist, wenn es um einen Vertrag mit Vorleistung wie Miete, Finanzierungen, Leasing o.ä. geht. Gleichzeitig ist bei jedem Eintrag genau zu prüfen, ob dieser vorgenommen werden darf, da alleine das vermeintliche Bestehen einer Forderung noch nichts über deren Berechtigung oder das tatsächliche Zahlungsverhalten der betroffenen Person aussagt. Im vorliegenden Fall hat nach unserer Einschätzung genau dieser Umstand dazu geführt, dass der Eintrag schnell entfernt wurde.“*
 
-Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

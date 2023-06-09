@@ -19,7 +19,6 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-
 Ein Unternehmer aus Baden-Württemberg wandte sich im Oktober 2020 an die Rechtsanwaltskanzlei AdvoAdvice, da er feststellen musste, dass die Tesch Inkasso Forderungsmanagement GmbH einen negativen Schufa-Eintrag für die EnBW Energie Baden-Württemberg AG zu seiner Person veranlasst hat.
 
 Solche Negativeinträge wirken sich unmittelbar auf den von der Schufa Holding AG berechneten Score-Wert aus und führt dazu, dass die betroffene Person als kreditunwürdig eingestuft wird bzw. zur Einschätzung, dass *„Zahlungsverpflichtungen nicht erfüllt werden können“*. Dies kann zu einer Vielzahl verschiedener Probleme führen.
@@ -49,3 +48,9 @@ An diesem Fall zeigt sich jedoch, dass eine schnelle Reaktion auf negative Eintr
 Ein schneller Zahlungsausgleich spricht auf jeden Fall erstmal für eine Zahlungsfähigkeit und gegen ein „typisches Schuldnerverhalten“.
 
 Wenn Sie unsicher sind, ob eine zeitnahe Zahlung angebracht ist, sollten Sie sowohl dafür als auch für die Beseitigung des Negativeintrages anwaltlichen Rat suchen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

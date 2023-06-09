@@ -40,8 +40,12 @@ Die Schufa Holding AG wandte sich nach einigen Wochen mit einem Schreiben an die
 
 ## **Wie können Sie Ihren Scorewert verbessern?**
 
-Wenn Sie Ihren Scorewert verbessern wollen, muss einmal geprüft werden, ob und welche Merkmale in Ihrer Datenauskunft gelöscht werden können. Darunter fallen sowohl Anfragen wie auch veraltete Daten und erfüllte Kreditverbindlichkeiten und ähnliches. Ob und wie die Daten sich auf den Scorewert ausüben kann nicht mit Gewissheit gesagt werden. Gleichwohl besteht bei der Kanzlei AdvoAdvice eine gro&szlig;e Expertise und ein gro&szlig;er Erfahrungsschatz dahingehend, dass zu den Merkmalen ganz gut eingeschätzt werden kann, wie sich diese auf den Scorewert auswirken.
+Wenn Sie Ihren Scorewert verbessern wollen, muss einmal geprüft werden, ob und welche Merkmale in Ihrer Datenauskunft gelöscht werden können. Darunter fallen sowohl Anfragen wie auch veraltete Daten und erfüllte Kreditverbindlichkeiten und ähnliches. Ob und wie die Daten sich auf den Scorewert ausüben kann nicht mit Gewissheit gesagt werden. Gleichwohl besteht bei der Kanzlei AdvoAdvice eine große Expertise und ein großer Erfahrungsschatz dahingehend, dass zu den Merkmalen ganz gut eingeschätzt werden kann, wie sich diese auf den Scorewert auswirken.
 
 Da die Merkmale bei der Schufa und anderen Auskunfteien nach einer gewissen Zeit automatisch gelöscht werden, ist auch dies bei der Bewertung mit zu berücksichtigen. Auch hier gilt es die Unterschiede fein säuberlich herauszuarbeiten und zu analysieren.
 
-Wenn auch Sie Hilfe bei der Bereinigung Ihrer Datenauskunft und zur Verbesserung Ihres Scorewertes benötigen, können Sie sich gerne an info@advoadvice.de oder an 030 921 000 40 wenden.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

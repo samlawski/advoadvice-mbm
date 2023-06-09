@@ -19,7 +19,7 @@ topics:
   - anlegerschutz
 author: dr-sven-tintemann
 ---
-Kennen Sie das Spiel, bei dem man Dominosteine aufbaut, um diese dann nacheinander durch das Ansto&szlig;en eines einzigen Steins wieder umkippen zu lassen? Als Geschicklichkeitsspiel macht das sicherlich eine ganze Menge Spa&szlig;. Wenn allerdings im realen Leben der sog. Dominoeffekt droht, muss meist schnell und energisch gehandelt werden, damit ein gro&szlig;er Schaden für die betroffene Person verhindert werden kann.&nbsp;
+Kennen Sie das Spiel, bei dem man Dominosteine aufbaut, um diese dann nacheinander durch das Anstoßen eines einzigen Steins wieder umkippen zu lassen? Als Geschicklichkeitsspiel macht das sicherlich eine ganze Menge Spaß. Wenn allerdings im realen Leben der sog. Dominoeffekt droht, muss meist schnell und energisch gehandelt werden, damit ein großer Schaden für die betroffene Person verhindert werden kann.&nbsp;
 
 ## Schufa-Eintrag führt zu Dominoeffekt
 
@@ -53,14 +53,14 @@ Auf diesem Weg konnte ein weiterer Rechtsstreit und somit auch die Gefahr eines 
 
 Rechtsanwalt Dr. Sven Tintemann kommentiert den Fall des Betroffen wie folgt:&nbsp;
 
-"An dem Beispiel lässt sich verdeutlichen, dass ein unrechtmä&szlig;iger Schufa-Eintrag schnell zu einem Dominoeffekt führen kann, in dem Banken oder andere Vertragspartner des Betroffenen diesem das Dispo, die Kreditkarte oder einen Ratenkredit kündigen. Hierdurch drohen dann bei dortigem Zahlungsverzug weitere Schufa-Einträge, welche die Situation noch verschlimmern und den Betroffenen schnell in die Zahlungsunfähigkeit bringen können. Es ist daher notwendig, bei einem negativen Schufa-Eintrag schnell zu handeln, um einen drohenden Dominoeffekt zu stoppen."
+"An dem Beispiel lässt sich verdeutlichen, dass ein unrechtmäßiger Schufa-Eintrag schnell zu einem Dominoeffekt führen kann, in dem Banken oder andere Vertragspartner des Betroffenen diesem das Dispo, die Kreditkarte oder einen Ratenkredit kündigen. Hierdurch drohen dann bei dortigem Zahlungsverzug weitere Schufa-Einträge, welche die Situation noch verschlimmern und den Betroffenen schnell in die Zahlungsunfähigkeit bringen können. Es ist daher notwendig, bei einem negativen Schufa-Eintrag schnell zu handeln, um einen drohenden Dominoeffekt zu stoppen."
 
 Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können.
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

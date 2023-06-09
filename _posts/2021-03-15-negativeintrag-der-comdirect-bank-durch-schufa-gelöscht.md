@@ -24,7 +24,7 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Negativeinträge bei Wirtschaftsauskunfteien stellen Betroffene regelmä&szlig;ig vor enorme Herausforderungen. Die Grundregeln bei Negativeinträgen ist, dass eine Forderung nach Ausgleich noch weitere drei Jahre verarbeitet und im Scorewert berücksichtigt werden darf. Diese Grundregel ist in mancher Hinsicht umstritten, gleichwohl in einem Verhaltenskodex (sog. code of conduct) von den Aufsichtsbehörden genehmigt. Von dieser Grundregel gibt es aber auch Ausnahmen, da diese nicht immer verhältnismä&szlig;ig ist.
+Negativeinträge bei Wirtschaftsauskunfteien stellen Betroffene regelmäßig vor enorme Herausforderungen. Die Grundregeln bei Negativeinträgen ist, dass eine Forderung nach Ausgleich noch weitere drei Jahre verarbeitet und im Scorewert berücksichtigt werden darf. Diese Grundregel ist in mancher Hinsicht umstritten, gleichwohl in einem Verhaltenskodex (sog. code of conduct) von den Aufsichtsbehörden genehmigt. Von dieser Grundregel gibt es aber auch Ausnahmen, da diese nicht immer verhältnismäßig ist.
 
 ## Negativeintrag der Comdirect Bank AG
 
@@ -44,12 +44,18 @@ Aufgrund der kurzfristigen Löschung durch die Schufa Holding AG war eine vertie
 
 ## Rechtliche Einschätzung
 
-An dieser Stelle ist die Unterscheidung zwischen der Frage wichtig, ob eine Datenübermittlung rechtmä&szlig;ig war und ob die weitere Verarbeitung dann (weiterhin) rechtmä&szlig;ig bleibt. An beiden Punkten kommt es nach Art. 6 Abs. 1 lit. f) DSGVO auf eine Interessenabwägung an.
+An dieser Stelle ist die Unterscheidung zwischen der Frage wichtig, ob eine Datenübermittlung rechtmäßig war und ob die weitere Verarbeitung dann (weiterhin) rechtmäßig bleibt. An beiden Punkten kommt es nach Art. 6 Abs. 1 lit. f) DSGVO auf eine Interessenabwägung an.
 
-Im vorliegenden Fall wird nach der Einschätzung von Rechtsanwalt Dr. Raphael Rohrmoser, Spezialist bei AdvoAdvice für das Thema Datenschutz, klar erkennbar, dass selbst wenn der ursprüngliche Eintrag berechtigt gewesen sein sollte, eine weitere Verarbeitung nicht mehr rechtmä&szlig;ig oder notwendig war.
+Im vorliegenden Fall wird nach der Einschätzung von Rechtsanwalt Dr. Raphael Rohrmoser, Spezialist bei AdvoAdvice für das Thema Datenschutz, klar erkennbar, dass selbst wenn der ursprüngliche Eintrag berechtigt gewesen sein sollte, eine weitere Verarbeitung nicht mehr rechtmäßig oder notwendig war.
 
 Dies ergibt sich nach Einschätzung von Anwalt Rohrmoser aus der geringen Forderungshöhe in Verbindung mit dem zeitnahen Forderungsausgleich. Dadurch wurde die Zahlungsfähigkeit des Betroffenen nach einer kurzen Zeit bereits nachgewiesen.
 
 Wenn eine betroffene Person keine Mahnschreiben erhält, ist ein Negativeintrag in einer Auskunftei für diese normalerweise nicht vorhersehbar, weshalb ein solcher Eintrag dann oft als rechtswidrig zu bewerten ist.&nbsp;
 
 Die Erfahrungen der Experten von AdvoAdvice aus den vergangenen Jahren zeigen, dass es sich in aller Regel rentiert, den Einzelfall genau zu untersuchen. Überraschend oft können dadurch Ansatzpunkte identifiziert werden, die letztlich zu einer Löschung der Negativeinträge beitragen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -26,7 +26,7 @@ Viele Rechtsanwälte berichten über Entscheidungen, die sie gar nicht erstritte
 
 Die Kanzlei AdvoAdvice Rechtsanwälte berichtet vorliegend über die Erfolge, die unsere Kanzlei selbst erstritten hat und nicht über Fremdfälle.&nbsp;
 
-Seit dem wegweisenden Urteil des Oberlandesgericht Schleswig (Urteil vom 02.07.2021) und zwei ebenfalls durch AdvoAdvice erstrittenen Vorlagebeschlüssen des Verwaltungsgericht Wiesbaden (Az. 6 K 441/21.WI&nbsp; sowie Az. 6 K 1052/21.WI) an den EuGH wird über die Frage, ob Auskunfteien wie die Schufa Holding AG das Merkmal der Restschuldbefreiung rechtmä&szlig;ig speichern dürfen, wieder verstärkt diskutiert ([wir berichteten ausführlich hier](https://advoadvice.de/blog/restschuldbefreiung-bgh-und-eugh-entscheiden-%C3%BCber-speicherung-durch-die-schufa-holding-ag/){: target="_blank" rel="noopener"}).
+Seit dem wegweisenden Urteil des Oberlandesgericht Schleswig (Urteil vom 02.07.2021) und zwei ebenfalls durch AdvoAdvice erstrittenen Vorlagebeschlüssen des Verwaltungsgericht Wiesbaden (Az. 6 K 441/21.WI&nbsp; sowie Az. 6 K 1052/21.WI) an den EuGH wird über die Frage, ob Auskunfteien wie die Schufa Holding AG das Merkmal der Restschuldbefreiung rechtmäßig speichern dürfen, wieder verstärkt diskutiert ([wir berichteten ausführlich hier](https://advoadvice.de/blog/restschuldbefreiung-bgh-und-eugh-entscheiden-%C3%BCber-speicherung-durch-die-schufa-holding-ag/){: target="_blank"}).
 
 Hintergrund ist, dass nach dem Verhaltenskodex der Auskunfteien und der alten Rechtslage bis 2018 eine Speicherung der Daten für insgesamt drei Jahre möglich ist. In den staatlichen Portalen (insolvenzbekanntmachung.de) darf das Merkmal hingegen nur für bis zu sechs Monate verarbeitet werden. Eine grundlegende Klärung ist erst durch den EuGH (Az. C-26/22 und C-64/22) und den BGH (Az. VI ZR 225/21 + Az. VI ZR 367/21) zu erwarten.
 
@@ -34,7 +34,7 @@ Hintergrund ist, dass nach dem Verhaltenskodex der Auskunfteien und der alten Re
 
 Nach der Datenschutzgrundverordnung ist eine Löschung von Daten aus verschiedenen Gründen möglich. Neben der grundsätzlichen Frage, wie lange eine Verarbeitung von Daten notwendig und erforderlich ist, kann sich ein Löschanspruch aber auch aus dem Einzelfall ergeben.
 
-Hierzu bedarf es entweder einer besonderen persönlichen Situation, welche die Rechtmä&szlig;igkeit der Verarbeitung im Nachhinein entfallen lässt (hierfür sind die Hürden bislang sehr hoch) oder ein Einzelfall führt im Rahmen der Interessenabwägung von vornherein dazu, dass die Interessen der betroffenen Person überwiegen.
+Hierzu bedarf es entweder einer besonderen persönlichen Situation, welche die Rechtmäßigkeit der Verarbeitung im Nachhinein entfallen lässt (hierfür sind die Hürden bislang sehr hoch) oder ein Einzelfall führt im Rahmen der Interessenabwägung von vornherein dazu, dass die Interessen der betroffenen Person überwiegen.
 
 Wie an der vorstehenden Ausführung bereits erkennbar ist, handelt es sich bei einer solchen Löschung um die Ausnahme und nicht um den Regelfall. Dennoch erfolgt eine solche Löschung hin und wieder:
 
@@ -50,7 +50,7 @@ Dieser teilte mit, dass sich die Schufa Holding AG im konkreten Einzelfall ausna
 
 ### **Durchsetzung der Löschung**
 
-Nach Übersendung entsprechender Unterlagen lie&szlig; der Hessische Beauftragte für Datenschutz und Informationsfreiheit zunächst verlauten, dass eine Löschung nur im Einzelfall bei Vorliegen einer uneingeschränkten Bonität in Betracht komme. Problematisch erschien hierbei, dass die verhältnismä&szlig;ig niedrige Summe selbst im Insolvenzverfahren nicht vollständig zurückgezahlt werden konnte.
+Nach Übersendung entsprechender Unterlagen ließ der Hessische Beauftragte für Datenschutz und Informationsfreiheit zunächst verlauten, dass eine Löschung nur im Einzelfall bei Vorliegen einer uneingeschränkten Bonität in Betracht komme. Problematisch erschien hierbei, dass die verhältnismäßig niedrige Summe selbst im Insolvenzverfahren nicht vollständig zurückgezahlt werden konnte.
 
 Nach einigen Wochen meldete sich der Hessische Datenschutzbeauftragte jedoch erneut und wies darauf hin, dass er sich für eine Löschung eingesetzt und die Schufa Holding AG eine Löschung wohl bereits vorgenommen habe. Nach Überprüfung durch die Betroffene stellte sich heraus, dass der Eintrag tatsächlich gelöscht wurde.
 
@@ -58,13 +58,13 @@ Nach einigen Wochen meldete sich der Hessische Datenschutzbeauftragte jedoch ern
 
 Hintergrund des sehr speziellen Falles war, dass im Insolvenzverfahren lediglich zwei Forderungen angemeldet wurden, welche beide schon relativ alt waren. Konkret handelte es sich um Forderungen aus einem Mietverhältnis, welche bereits 15 Jahre vor Eröffnung der Insolvenz tituliert wurden. Die seinerzeit gerade volljährige Betroffene lebte mit einer dritten Person zusammen. Diese dritte Person kümmerte sich um die vertraglichen Angelegenheiten, sodass die Betroffene von dem Vorgang zunächst nichts mitbekam. Erst nach der Rückkehr aus einem Auslandsaufenthalt viele Jahre später erfuhr sie von der Forderung im mittleren vierstelligen Bereich.
 
-Da die Betroffene in ihren wirtschaftlichen Möglichkeiten sehr eingeschränkt war, strebte diese trotz des verhältnismä&szlig;ig geringen Forderungsbetrages ein Insolvenzverfahren an. Dieses wurde sodann problemlos durchlaufen. Gleichwohl wurde das Merkmal der Restschuldbefreiung im Anschluss weiter verarbeitet. Nach Auffassung der Kanzlei AdvoAdvice Rechtsanwälte lag hier jedoch ein Einzelfall vor, in welchem eine Löschung des Eintrages angezeigt war. Dies hat sich nunmehr bestätigt.
+Da die Betroffene in ihren wirtschaftlichen Möglichkeiten sehr eingeschränkt war, strebte diese trotz des verhältnismäßig geringen Forderungsbetrages ein Insolvenzverfahren an. Dieses wurde sodann problemlos durchlaufen. Gleichwohl wurde das Merkmal der Restschuldbefreiung im Anschluss weiter verarbeitet. Nach Auffassung der Kanzlei AdvoAdvice Rechtsanwälte lag hier jedoch ein Einzelfall vor, in welchem eine Löschung des Eintrages angezeigt war. Dies hat sich nunmehr bestätigt.
 
 ## **Fazit**
 
-In konkreten Ausnahmefällen kommt eine Löschung des Merkmals der Restschuldbefreiung auch au&szlig;erhalb der Grundsatzfrage in Betracht, ob eine Verarbeitung für sechs Monate oder drei Jahre erfolgen darf. Die Durchsetzung einer solchen Löschung ist jedoch nur in Ausnahmefällen möglich.
+In konkreten Ausnahmefällen kommt eine Löschung des Merkmals der Restschuldbefreiung auch außerhalb der Grundsatzfrage in Betracht, ob eine Verarbeitung für sechs Monate oder drei Jahre erfolgen darf. Die Durchsetzung einer solchen Löschung ist jedoch nur in Ausnahmefällen möglich.
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.&nbsp;
 
@@ -72,6 +72,8 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungen erzielt.&nbsp;
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

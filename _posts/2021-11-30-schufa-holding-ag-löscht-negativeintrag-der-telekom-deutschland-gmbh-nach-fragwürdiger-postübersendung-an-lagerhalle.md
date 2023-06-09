@@ -59,3 +59,9 @@ Der Eintrag konnte hier bereits 15 Tage nach der ersten Kontaktaufnahme des Mand
 Zuvor hatte es der betroffene Mandant leider mehrere Monate selbst und ohne Erfolg versucht, den Eintrag loszuwerden.&nbsp;
 
 Die Telekom Deutschland GmbH wurde nunmehr zur Übernahme der entstandenen Rechtsanwaltskosten aufgefordert.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

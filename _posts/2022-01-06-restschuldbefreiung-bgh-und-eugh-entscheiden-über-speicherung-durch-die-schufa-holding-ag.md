@@ -28,13 +28,13 @@ author: dr--raphael-rohrmoser
 ---
 Seit vielen Jahren gibt es einen weitreichenden Streit über die Frage, ob Auskunfteien wie die Schufa Holding AG, die Creditreform Boniversum und andere das Merkmal über eine erfolgte Restschuldbefreiung nach einem Insolvenzverfahren speichern dürfen und wenn ja, wie lange eine Speicherung zulässig ist.
 
-Bis zur Einführung der Datenschutzgrundverordnung im Jahr 2018 schien diese Frage – zumindest von Seiten der Rechtsprechung – ausdiskutiert. Die Gerichte erkannten regelmä&szlig;ig auf Linie des OLG Frankfurt am Main und sahen die Speicherung und Berücksichtigung des Merkmals im Scorewert für insgesamt drei Jahre nach Erteilung der Restschuldbefreiung als zulässig an.
+Bis zur Einführung der Datenschutzgrundverordnung im Jahr 2018 schien diese Frage – zumindest von Seiten der Rechtsprechung – ausdiskutiert. Die Gerichte erkannten regelmäßig auf Linie des OLG Frankfurt am Main und sahen die Speicherung und Berücksichtigung des Merkmals im Scorewert für insgesamt drei Jahre nach Erteilung der Restschuldbefreiung als zulässig an.
 
 ## **Neue Chancen durch die DSGVO**
 
 Unmittelbar mit Einführung der DSGVO kam erneut Bewegung in die weiterhin offene Rechtsfrage. Die Kanzlei AdvoAdvice vertrat dabei von Anfang an Betroffene, welche sich gegen die weitere Speicherung der Restschuldbefreiung bei der Schufa Holding AG zur Wehr setzten und eine Löschung der Restschuldbefreiung erreichen wollten.
 
-Die Interessenwahrnehmung war trotz der bis dato einheitlichen Rechtsprechung sinnvoll, da durch die Einführung der DSGVO das Regelungsgeflecht zur Speicherung und insbesondere zur Speicherlänge überarbeitet wurde. Während vor Mai 2018 noch eine „feste Speicherfrist“ von drei Jahren galt, ist diese Frist sodann durch eine flexiblere Lösung abgeschafft worden. Eine Löschung kann jetzt unter anderem dann verlangt werden, wenn die Verarbeitung nicht rechtmä&szlig;ig, nach dem Verarbeitungszweck nicht mehr notwendig oder wegen einer besonderen persönlichen Situation zu entfernen ist (Art. 17 Abs. 1 DSGVO).
+Die Interessenwahrnehmung war trotz der bis dato einheitlichen Rechtsprechung sinnvoll, da durch die Einführung der DSGVO das Regelungsgeflecht zur Speicherung und insbesondere zur Speicherlänge überarbeitet wurde. Während vor Mai 2018 noch eine „feste Speicherfrist“ von drei Jahren galt, ist diese Frist sodann durch eine flexiblere Lösung abgeschafft worden. Eine Löschung kann jetzt unter anderem dann verlangt werden, wenn die Verarbeitung nicht rechtmäßig, nach dem Verarbeitungszweck nicht mehr notwendig oder wegen einer besonderen persönlichen Situation zu entfernen ist (Art. 17 Abs. 1 DSGVO).
 
 ### **LG Frankfurt – Besondere Situation**
 
@@ -42,7 +42,7 @@ Von diesen flexibleren Möglichkeiten machte zunächst das LG Frankfurt am Main 
 
 Das von vielen Anwälten fehlerhaft interpretierte Urteil stellte dabei auf die besondere Situation des Klägers ab, da dieser aufgrund mehrfacher stationärer psychischer Behandlung erst nach vielen Jahren wieder in der Lage war, sich um seine wirtschaftlichen Belange zu kümmern. Diese Situation lässt sich weder verallgemeinern noch pauschal auf ähnliche Sachverhalte übertragen.
 
-In der folgenden Zeit entschieden die Gerichte sodann regelmä&szlig;ig auf Linie der alten Rechtsprechung vor Einführung der DSGVO. Dabei wurde immer wieder auf die veraltete Rechtsprechung des OLG Frankfurt zur Rechtslage vor Einführung der DSGV abgestellt, wonach eine Speicherung des Merkmals für drei Jahre pauschal als rechtmä&szlig;ig angesehen wurde.
+In der folgenden Zeit entschieden die Gerichte sodann regelmäßig auf Linie der alten Rechtsprechung vor Einführung der DSGVO. Dabei wurde immer wieder auf die veraltete Rechtsprechung des OLG Frankfurt zur Rechtslage vor Einführung der DSGV abgestellt, wonach eine Speicherung des Merkmals für drei Jahre pauschal als rechtmäßig angesehen wurde.
 
 ### **Weitreichende Urteil des OLG Schleswig sowie des VG Wiesbaden**
 
@@ -50,7 +50,7 @@ Die nächsten aufsehenerregenden Urteile wurden sodann im Juni und Juli 2021 vom
 
 Höchstinteressant ist, dass beide Gerichte unabhängig und ohne Kenntnis des jeweiligen Urteils des anderen Gerichts zu der Auffassung gelangten, dass die Speicherung der Restschuldbefreiung durch die Schufa Holding AG und anderen Auskunfteien nur für sechs Monate zulässig sei.
 
-Die Argumentation der Gerichte unterscheidet sich dabei nur in Nuancen. Unabhängig davon argumentieren beide Gerichte ma&szlig;geblich damit, dass das Merkmal der Restschuldbefreiung im Portal der [www.insolvenzbekanntmachungen.de](http://www.insolvenzbekanntmachungen.de) als staatliches Portal nur für sechs Monate veröffentlicht werden dürfe und diese Speicherfrist mangels anderer Regelung auch auf private Einrichtungen übertragbar sei und für diese ebenfalls gelte.
+Die Argumentation der Gerichte unterscheidet sich dabei nur in Nuancen. Unabhängig davon argumentieren beide Gerichte maßgeblich damit, dass das Merkmal der Restschuldbefreiung im Portal der [www.insolvenzbekanntmachungen.de](http://www.insolvenzbekanntmachungen.de) als staatliches Portal nur für sechs Monate veröffentlicht werden dürfe und diese Speicherfrist mangels anderer Regelung auch auf private Einrichtungen übertragbar sei und für diese ebenfalls gelte.
 
 Beide Gerichte stellten ferner klar, dass der Verhaltenskodex der Auskunfteien, welcher weiterhin eine Speicherung von drei Jahren vorsieht, zu keiner anderen Bewertung führen würde. In beiden Urteilen wird darauf abgestellt, dass die weitere Speicherung der Restschuldbefreiung nach dem Ablauf von sechs Monaten trotz des Verhaltenskodexes rechtswidrig sei.
 
@@ -66,9 +66,9 @@ Das OLG Schleswig hatte die Revision ausdrücklich zugelassen. Gleichzeitig wurd
 
 Bereits im Prozess vor dem Landgericht und auch vor dem Oberlandesgericht machte der Kläger geltend, dass er aus privaten Gründen dringend auf die Anmietung einer neuen Wohnung angewiesen sei.
 
-Der Betroffene berichtete gegenüber der Kanzlei AdvoAdvice, dass er sich vor der Löschung des Eintrages bei ungefähr 25 Wohnungen beworben habe. Bei der Hälfte der Bewerbungen wurde er nach seiner Auskunft zur Besichtigung eingeladen. Bis zur Löschung des Eintrages erhielt der Betroffene jedoch immer wieder absagen. Kurz bevor die Löschung der Restschuldbefreiung durch die Schufa Holding AG umgesetzt wurde, hat sich der Kläger auf eine weitere Wohnung beworben und wurde zur Besichtigung eingeladen. Noch vor dem Termin erfolgte die Löschung des Eintrages. Die Wohnung konnte durch den Kläger anschlie&szlig;end problemlos angemietet werden.
+Der Betroffene berichtete gegenüber der Kanzlei AdvoAdvice, dass er sich vor der Löschung des Eintrages bei ungefähr 25 Wohnungen beworben habe. Bei der Hälfte der Bewerbungen wurde er nach seiner Auskunft zur Besichtigung eingeladen. Bis zur Löschung des Eintrages erhielt der Betroffene jedoch immer wieder absagen. Kurz bevor die Löschung der Restschuldbefreiung durch die Schufa Holding AG umgesetzt wurde, hat sich der Kläger auf eine weitere Wohnung beworben und wurde zur Besichtigung eingeladen. Noch vor dem Termin erfolgte die Löschung des Eintrages. Die Wohnung konnte durch den Kläger anschließend problemlos angemietet werden.
 
-Die zuständigen Auskunfteien betonen insbesondere in gerichtlichen Verfahren immer wieder, dass diese nicht über konkrete Vertragsabschlüsse entscheiden und dass Verträge auch bei vorhandenen Negativeinträgen geschlossen werden können. Auch wenn dies in gewisser Weise richtig ist, stellt die Bonitätsauskunft von Auskunfteien ein ma&szlig;geblich entscheidendes Kriterium für Vermieter, Banken und andere Vertragspartner dar. Dies zeigt sich an vorstehendem Beispiel exemplarisch.
+Die zuständigen Auskunfteien betonen insbesondere in gerichtlichen Verfahren immer wieder, dass diese nicht über konkrete Vertragsabschlüsse entscheiden und dass Verträge auch bei vorhandenen Negativeinträgen geschlossen werden können. Auch wenn dies in gewisser Weise richtig ist, stellt die Bonitätsauskunft von Auskunfteien ein maßgeblich entscheidendes Kriterium für Vermieter, Banken und andere Vertragspartner dar. Dies zeigt sich an vorstehendem Beispiel exemplarisch.
 
 ### **OLG Oldenburg lässt Revision zum Bundesgerichthof zu**
 
@@ -92,8 +92,12 @@ Auch in diesen Verfahren ist noch nicht bekannt, wann mit einer Entscheidung zu 
 
 Betroffene können vorerst weiter einen Anspruch auf Löschung der Restschuldbefreiung und ggf. weiterer Negativeinträge geltend machen.
 
-Aufgrund der unklaren Rechtslage ist mit einer schnellen, au&szlig;ergerichtlichen Löschung jedoch oft nicht zu rechnen. Die Nutzung einer Rechtschutzversicherung ist für einen Gerichtsprozess daher sehr empfehlenswert.
+Aufgrund der unklaren Rechtslage ist mit einer schnellen, außergerichtlichen Löschung jedoch oft nicht zu rechnen. Die Nutzung einer Rechtschutzversicherung ist für einen Gerichtsprozess daher sehr empfehlenswert.
 
 Abhängig vom Einzelfall kann es Sinn machen, eine Datenschutzbeschwerde beim Hessischen Beauftragten für Datenschutz einzureichen und ggf. im Anschluss an diese Beschwerde auf Löschung des Merkmals der Restschuldbefreiung zu klagen. Insbesondere vor Zivilgerichten kann eine solche Löschung eventuell weiter durchgesetzt werden.
 
-Gerne können Sie die jahrelange Erfahrung und Expertise der Kanzlei AdvoAdvice zur Ihrer Unterstützung nutzen. Sie erreichen uns zu normalen Bürozeiten unter 030 &nbsp;921 000 40 oder unter info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

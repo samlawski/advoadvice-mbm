@@ -35,17 +35,17 @@ Die Betroffene gab sich alle Mühe, um die offene Forderung zu begleichen. Aufgr
 
 Die Klägerin suchte sich in der Folgezeit anwaltliche Hilfe, um den negativen Schufa-Eintrag entfernen zu lassen. Anfang September 2020 wurden sowohl die seinerzeit noch bestehende comdirect Bank AG sowie die Schufa Holding AG kontaktiert und zur Entfernung des Eintrages aufgefordert. Die Schufa Holding AG lehnte eine Löschung mehrfach ab. Auch über die comdirect Bank AG war nichts zu erreichen.
 
-Da eine au&szlig;ergerichtliche Lösung scheiterte, wurde eine Klage vor dem Landgericht Saarbrücken eingereicht. Nachdem sich im Verfahren herausstellte, dass die comdirect Bank AG seit November 2020 nicht mehr existierte, sondern nunmehr eine Marke der Commerzbank AG ist, wurde die Klage entsprechend umgestellt.
+Da eine außergerichtliche Lösung scheiterte, wurde eine Klage vor dem Landgericht Saarbrücken eingereicht. Nachdem sich im Verfahren herausstellte, dass die comdirect Bank AG seit November 2020 nicht mehr existierte, sondern nunmehr eine Marke der Commerzbank AG ist, wurde die Klage entsprechend umgestellt.
 
 ### **Mahnung? Kündigung? Meldevoraussetzung?**
 
-Das Landgericht Saarbrücken verurteilte die Commerzbank im August 2021 sodann dazu, den konkreten Negativeintrag zu widerrufen und eine künftige Meldung zu unterlassen. Das Gericht stellte darauf ab, dass ein überwiegendes Interesse an der Datenverarbeitung nur bestehen kann, wenn die Daten durch die Schufa Holding AG in der Folge auch genutzt werden dürfen, mithin wenn die Voraussetzungen des &sect; 31 Abs. 2 Bundesdatenschutzgesetz gegeben sind. Genau dies war im vorliegenden Rechtsstreit nicht der Fall.
+Das Landgericht Saarbrücken verurteilte die Commerzbank im August 2021 sodann dazu, den konkreten Negativeintrag zu widerrufen und eine künftige Meldung zu unterlassen. Das Gericht stellte darauf ab, dass ein überwiegendes Interesse an der Datenverarbeitung nur bestehen kann, wenn die Daten durch die Schufa Holding AG in der Folge auch genutzt werden dürfen, mithin wenn die Voraussetzungen des § 31 Abs. 2 Bundesdatenschutzgesetz gegeben sind. Genau dies war im vorliegenden Rechtsstreit nicht der Fall.
 
-In Betracht kamen lediglich die Voraussetzungen nach &sect; 31 Abs. 2 Nr. 4 BDSG (zweifache Mahnung nach Fälligkeit, unbestrittene Forderung sowie ausreichender Schufa-Hinweis) oder nach &sect; 31 Abs. 2 Nr. 5 BDSG (Möglichkeit der fristlosen Kündigung und Schufa-Hinweis). Beide Voraussetzungen waren nicht erfüllt.
+In Betracht kamen lediglich die Voraussetzungen nach § 31 Abs. 2 Nr. 4 BDSG (zweifache Mahnung nach Fälligkeit, unbestrittene Forderung sowie ausreichender Schufa-Hinweis) oder nach § 31 Abs. 2 Nr. 5 BDSG (Möglichkeit der fristlosen Kündigung und Schufa-Hinweis). Beide Voraussetzungen waren nicht erfüllt.
 
 Bezüglich der zweifachen Mahnung kam das Gericht zu folgender Ansicht:
 
-*„Diese Voraussetzungen sind im vorliegenden Fall jedenfalls hinsichtlich der zweimaligen schriftlichen Mahnung nach Eintritt der Fälligkeit nicht erfüllt. Zwar stellt das Schreiben vom 21.02.2020 eine Mahnung hinsichtlich der Forderung in Höhe von aus dem gekündigten Dispokredit von 1.801,96 € dar. Eine zweite Mahnung hinsichtlich dieser Forderung liegt jedoch nicht vor. Das Kündigungsschreiben vom 11.03.2020 stellt nicht zugleich eine Mahnung im Sinne des &sect; 286 Abs. 1 Satz 1 BGB dar.“*
+*„Diese Voraussetzungen sind im vorliegenden Fall jedenfalls hinsichtlich der zweimaligen schriftlichen Mahnung nach Eintritt der Fälligkeit nicht erfüllt. Zwar stellt das Schreiben vom 21.02.2020 eine Mahnung hinsichtlich der Forderung in Höhe von aus dem gekündigten Dispokredit von 1.801,96 € dar. Eine zweite Mahnung hinsichtlich dieser Forderung liegt jedoch nicht vor. Das Kündigungsschreiben vom 11.03.2020 stellt nicht zugleich eine Mahnung im Sinne des § 286 Abs. 1 Satz 1 BGB dar.“*
 
 Das Gericht arbeitete in der Folge zudem heraus, dass eine Mahnung und eine Kündigung zwar verknüpft werden können, dies aber nicht als Regelfall anzusehen sei. Vielmehr müsste sich dies aus dem Dokument ergeben, was vorliegend nicht der Fall war.
 
@@ -65,7 +65,7 @@ Die Klägerin war letztlich erleichtert, dass der Negativeintrag trotz des etwas
 
 Der zuständige Rechtsanwalt Dr. Raphael Rohrmoser zeigte sich erleichtert über den Ausgang des Verfahrens: „*Im Kontext von Datenübermittlungen steht immer die Frage im Raum, welche Ansprüche man gegen wen geltend machen kann. Bei Einträgen in einer Auskunftei kann man gegen die meldende Stelle oder die Auskunftei vorgehen. Meist führt dies zum gleichen Ergebnis, nämlich der Entfernung des Eintrages. Erfolgt eine Löschung trotz eines erfolgreichen Verfahrens oder eines ausgesprochenen Widerrufs nicht, muss man weiter kämpfen. Welcher Weg sinnvoller ist, hängt immer vom konkreten Einzelfall ab und bedarf einer guten rechtlichen Analyse.“*
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
@@ -73,6 +73,10 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.
 
 *&nbsp;*

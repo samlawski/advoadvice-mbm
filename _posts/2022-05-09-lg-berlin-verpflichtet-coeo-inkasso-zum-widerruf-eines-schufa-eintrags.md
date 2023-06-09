@@ -1,6 +1,6 @@
 ---
 title: LG Berlin verpflichtet COEO Inkasso zum Widerruf eines Schufa-Eintrags
-date: 2022-05-09T00:00:00.000Z
+date: 2022-05-09 00:00:00
 description: >-
   Schufa Holding AG löscht Negativeintrag nach einstweiliger Verfügung des
   Landgerichts Berlin gegen COEO Inkasso.
@@ -24,11 +24,11 @@ Prozesserfolg für die Kanzlei AdvoAdvice Rechtsanwälte mbB vor dem Landgericht
 
 ## Adressverwechslung führt zu Schufa-Eintrag
 
-Bei der Kanzlei AdvoAdvice Rechtsanwälte meldete sich ein Berliner Wissenschaftler. Dieser berichtete über einen negativen Eintrag der COEO Inkasso GmbH bei der Schufa Holding AG. Von dem Negativeintrag hatte er erfahren, weil er für seine Immobilie eine Solaranlage leasen wollte. Das Leasing scheiterte jedoch wegen des Eintrages, der den Betroffenen als kreditunwürdig erscheinen lie&szlig;.&nbsp;
+Bei der Kanzlei AdvoAdvice Rechtsanwälte meldete sich ein Berliner Wissenschaftler. Dieser berichtete über einen negativen Eintrag der COEO Inkasso GmbH bei der Schufa Holding AG. Von dem Negativeintrag hatte er erfahren, weil er für seine Immobilie eine Solaranlage leasen wollte. Das Leasing scheiterte jedoch wegen des Eintrages, der den Betroffenen als kreditunwürdig erscheinen ließ.&nbsp;
 
 Bei dem Versuch einer Klärung führte ein Anruf bei der COEO Inkasso ins Leere. Eine Rückfrage zu dem Eintrag bei der Schufa Holding AG führte zu der Information, dass die angeblich titulierte Forderung an einer Adresse in Potsdam zugestellt worden sei.
 
-## Au&szlig;ergerichtliche Tätigkeit führt nicht zum Einlenken
+## Außergerichtliche Tätigkeit führt nicht zum Einlenken
 
 Daher wandte sich der Betroffene an die Kanzlei AdvoAdvice Rechtsanwälte mbB und bat diese um Hilfe.&nbsp;
 
@@ -42,7 +42,7 @@ Auch ein später übermittelter Schriftsatz an die Schufa Holding AG mit Nachwei
 
 Die Kanzlei AdvoAdvice Rechtsanwälte beantragte daher am 02.05.2022 den Erlass einer einstweiligen Verfügung gegen die COEO Inkasso als eintragende Stelle vor dem Landgericht Berlin.&nbsp;
 
-Das Landgericht Berlin erlie&szlig; an selben Tag die einstweilige Verfügung im beantragten Umfang gegen die COEO Inkasso GmbH. Diese wurde über den Gerichtsvollzieher an die COEO Inkasso zugestellt. Zudem wurde die Schufa Holding AG erneut zur Löschung des Negativeintrags aufgefordert.&nbsp;
+Das Landgericht Berlin erließ an selben Tag die einstweilige Verfügung im beantragten Umfang gegen die COEO Inkasso GmbH. Diese wurde über den Gerichtsvollzieher an die COEO Inkasso zugestellt. Zudem wurde die Schufa Holding AG erneut zur Löschung des Negativeintrags aufgefordert.&nbsp;
 
 ## Schnelles Handeln führt zu schnellem Erfolg
 
@@ -50,7 +50,7 @@ Der negative Eintrag wurde mittlerweile, wahrscheinlich seitens der Schufa Holdi
 
 Rechtsanwalt Dr. Tintemann kommentiert den Vorgang wie folgt: "In dem vorliegenden Fall lag klar auf der Hand, dass eine Adressverwechslung vorlag. Leider haben weder die eintragende Stelle noch die Schufa Holding AG schnell genug auf die entsprechenden Nachweise reagiert. Daher musste zur Sicherung der Rechte unseres Mandanten eine einstweilige Verfügung beantragt werden, die dann erfreulicherweise auch sehr zeitnah durch das Landgericht Berlin erlassen wurde."
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
@@ -64,8 +64,8 @@ Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder
 
 Die Schufa Holding AG zeigte kurze Zeit nach Erlass der einstweiligen Verfügung an, dass der Eintrag gelöscht wurde und bekundete, dass dem Unternehmen die entstandenen Unannehmlichkeiten leid tun. Die coeo Inkasso GmbH erhob Widerspruch gegen die einstweilige Verfügung. In der mündlichen Verhandlung wurde der Rechtsstreit&nbsp; wegen der bereits erfolgten Löschung übereinstimmend für erledigt erklärt. Der Beschluss des LG Berlin vom 02.05.2022 erwuchs damit nicht in Rechtskraft.
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

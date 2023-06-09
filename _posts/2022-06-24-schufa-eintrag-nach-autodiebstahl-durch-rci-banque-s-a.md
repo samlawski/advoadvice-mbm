@@ -26,7 +26,7 @@ Eine immer beliebtere Alternative zum Barkauf eines Autos ist es, das Auto zu le
 
 Am 04.04.2022 wurde ein negativer Schufa-Eintrag bei einem unserem Mandanten vorgenommen. Hintergrund des Eintrages war eine Forderung der RCI Banque aus einem Leasingvertrag.
 
-Im März 2021 unterzeichnete der Betroffene einen Leasingvertrag über einen Renault Kadjar Business, dessen Leasingzeit 36 Monate betragen sollte. Als das Fahrzeug dann letztes Jahr gestohlen wurde, kündigte die RCI Banque S.A. den Leasingvertrag und rechnete im Folgenden rund 14.000 Euro ab. Diese Zahlung sollte durch die Versicherungsleistung der BavariaDirekt erfolgen, die die Zahlung jedoch verweigerte und ihren Versicherungskunden au&szlig;erdem auf ein Klageverfahren wegen der Versicherungsleistung verwies. Über die Summe wurde sodann ein negativer Schufa-Eintrag vorgenommen. Dieser erfolgte zunächst von der RCI Banque S.A. und wurde später durch die abwickelnde Creditreform Düsseldorf weitergeführt.
+Im März 2021 unterzeichnete der Betroffene einen Leasingvertrag über einen Renault Kadjar Business, dessen Leasingzeit 36 Monate betragen sollte. Als das Fahrzeug dann letztes Jahr gestohlen wurde, kündigte die RCI Banque S.A. den Leasingvertrag und rechnete im Folgenden rund 14.000 Euro ab. Diese Zahlung sollte durch die Versicherungsleistung der BavariaDirekt erfolgen, die die Zahlung jedoch verweigerte und ihren Versicherungskunden außerdem auf ein Klageverfahren wegen der Versicherungsleistung verwies. Über die Summe wurde sodann ein negativer Schufa-Eintrag vorgenommen. Dieser erfolgte zunächst von der RCI Banque S.A. und wurde später durch die abwickelnde Creditreform Düsseldorf weitergeführt.
 
 ## **Wie kam es zur Löschung?**
 
@@ -42,6 +42,10 @@ Bis zur Abfassung dieses Artikels (Stand: 24.06.2022) hat sich die Creditreform 
 
 ## \*\*Fazit: \*\*
 
-Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

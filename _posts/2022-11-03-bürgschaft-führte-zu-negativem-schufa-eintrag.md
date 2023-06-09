@@ -22,7 +22,7 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Ende August meldete sich ein Betroffener aus dem Gro&szlig;raum Ulm bei der Kanzlei AdvoAdvice, der aufgrund eines negativen Schufa-Eintrages Probleme bei einer Immobilienfinanzierung hatte. Durch die schnelle und erfolgreiche Hilfe der Rechtsanwälte aus Berlin, konnte ein Widerruf dieses Eintrags durch die RCI Banque erzielt werden.
+Ende August meldete sich ein Betroffener aus dem Großraum Ulm bei der Kanzlei AdvoAdvice, der aufgrund eines negativen Schufa-Eintrages Probleme bei einer Immobilienfinanzierung hatte. Durch die schnelle und erfolgreiche Hilfe der Rechtsanwälte aus Berlin, konnte ein Widerruf dieses Eintrags durch die RCI Banque erzielt werden.
 
 ## Schufa-Eintrag wegen Bürgschaft
 
@@ -34,7 +34,7 @@ Bei der Angelegenheit handelte es sich um eine Forderung aus einer Bürgschaft f
 
 Das Auto ging sodann in die Hände des Insolvenzverwalters. Im Rahmen des Insolvenzverfahrens wurde das Auto sodann verwertet. Dem Betroffenen war insofern lediglich bekannt, dass es noch eine offene Forderung gab, allerdings nicht, wie hoch diese Forderung genau gewesen ist. Daher wartete der Betroffene auf Mitteilung.
 
-Das Auto wurde sodann im Februar 2022 für ca. 22.000 Euro verkauft. Die dazugehörige Schlussrechnung wurde ausschlie&szlig;lich an den Insolvenzverwalter sowie an die Firma des Betroffenen gestellt.
+Das Auto wurde sodann im Februar 2022 für ca. 22.000 Euro verkauft. Die dazugehörige Schlussrechnung wurde ausschließlich an den Insolvenzverwalter sowie an die Firma des Betroffenen gestellt.
 
 Am 15.02.2022 soll von der RCI Banque ein weiteres Schreiben versandt worden sein, in welchem der Baden-Württemberger zur Zahlung der offenen Restforderung in Höhe von etwa 9.000 Euro aufgefordert wurde. Diese Schreiben erreichten den Betroffenen jedoch nicht. Ein Zugang wurde daher explizit bestritten. Dieses Datum wurde später jedoch bei der Schufa Holding AG eingetragen, als die Forderung an die Paigo GmbH weitergegeben wurde.
 
@@ -58,9 +58,15 @@ Zunächst ist darauf hinzuweisen, dass sich in den letzten Monaten immer wieder 
 
 1. Sind Sie sicher, dass Sie die Forderung im Falle des Zahlungsausfalles beim Vertragspartner auch tatsächlich leisten können?
 2. Sind für den Zahlungsausgleich bereits "sichere Mittel" vorhanden, die nicht erst über den eigentlichen Vertragspartner beschafft werden müssen?
-3. Sind Sie sicher, dass Sie selbst die Bürgschaft stemmen können? Blo&szlig;e Gefallen für (Ehe-)Partner sowie Freunde o.ä. können sehr riskant sein.
+3. Sind Sie sicher, dass Sie selbst die Bürgschaft stemmen können? Bloße Gefallen für (Ehe-)Partner sowie Freunde o.ä. können sehr riskant sein.
 4. Teilen Sie ihre aktuellen Kontaktdaten (auch nach Umzug) an die Bank o.ä. mit, um im Falle der Inanspruchnahme auch erreichbar zu sein.
 
-Dr. Rohrmoser wei&szlig;t abschlie&szlig;end auf folgende Aspekte hin: "Viele Betroffene denken, dass sie im Rahmen einer Bürgschaft erst sehr spät in Anspruch genommen werden können. Das ist rechtlich oft fehlerhaft. Ein solcher Fehler kann aber enorm teuer werden, wenn man dann verpflichtet ist, eine hohe Forderung auf einen Schlag zu begleichen. Wer dies nicht stemmen kann, muss dann (wenn sich das Unternehmen darauf einlässt) eine Ratenzahlungsvereinbarung abschlie&szlig;en. Dies kann aber im schlechtesten Fall dazu führen, dass ein negativer Schufa-Eintrag für lange Zeit bestehen bleibt. Bürgschaften sollten daher immer mit Vorsicht genossen werden und gut überlegt sein. Eine Löschung aus dem Schufa-Datenbestand ist oftmals nicht einfach umzusetzen."
+Dr. Rohrmoser weißt abschließend auf folgende Aspekte hin: "Viele Betroffene denken, dass sie im Rahmen einer Bürgschaft erst sehr spät in Anspruch genommen werden können. Das ist rechtlich oft fehlerhaft. Ein solcher Fehler kann aber enorm teuer werden, wenn man dann verpflichtet ist, eine hohe Forderung auf einen Schlag zu begleichen. Wer dies nicht stemmen kann, muss dann (wenn sich das Unternehmen darauf einlässt) eine Ratenzahlungsvereinbarung abschließen. Dies kann aber im schlechtesten Fall dazu führen, dass ein negativer Schufa-Eintrag für lange Zeit bestehen bleibt. Bürgschaften sollten daher immer mit Vorsicht genossen werden und gut überlegt sein. Eine Löschung aus dem Schufa-Datenbestand ist oftmals nicht einfach umzusetzen."
 
-Gleichwohl ist es immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Gleichwohl ist es immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

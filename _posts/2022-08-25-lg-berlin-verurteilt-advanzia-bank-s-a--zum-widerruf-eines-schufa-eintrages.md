@@ -41,9 +41,9 @@ In diesem Rahmen wies das Gericht zutreffend darauf hin, dass die fragliche Rate
 
 Sodann stellte das Gericht klar, dass die Advanzia Bank nicht nachgewiesen habe, dass die Mahnschreiben beim Kläger zugegangen sind und dass die Kündigung letztlich sogar aufgehoben wurde.
 
-All diese Aspekte waren zu berücksichtigen und führten dazu, dass die Interessenabwägung, auch unter Berücksichtigung des &sect; 31 Abs. 2 BDSG, zugunsten des Klägers ausfällt.
+All diese Aspekte waren zu berücksichtigen und führten dazu, dass die Interessenabwägung, auch unter Berücksichtigung des § 31 Abs. 2 BDSG, zugunsten des Klägers ausfällt.
 
-Die Advanzia Bank wurde daher zum Widerruf des Eintrages verurteilt. Ferner müssen die Folgen des Eintrages beseitigt und es darf kein neuer Eintrag über die Forderung vorgenommen werden, sofern die gesetzlichen Voraussetzungen nicht vorliegen. Letztlich waren auch die au&szlig;ergerichtlichen Gebühren zu übernehmen.
+Die Advanzia Bank wurde daher zum Widerruf des Eintrages verurteilt. Ferner müssen die Folgen des Eintrages beseitigt und es darf kein neuer Eintrag über die Forderung vorgenommen werden, sofern die gesetzlichen Voraussetzungen nicht vorliegen. Letztlich waren auch die außergerichtlichen Gebühren zu übernehmen.
 
 ## **Einschätzung durch AdvoAdvice**
 
@@ -57,6 +57,8 @@ Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

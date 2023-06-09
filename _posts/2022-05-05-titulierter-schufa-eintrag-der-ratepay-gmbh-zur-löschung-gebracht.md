@@ -19,7 +19,7 @@ topics:
   - schufa-und-datenschutz
 author: dr--raphael-rohrmoser
 ---
-Die Frage, ob und wann ein Schufa-Eintrag vorgenommen werden darf, ist immer wieder Thema in Rechtstreitigkeiten, welche durch die Kanzlei AdvoAdvice Rechtsanwälte mbB geführt werden. Auf der einen Seite stehen die meldenden Stellen, welche aus wirtschaftlichen Gründen mit möglichst geringem Aufwand die Forderung durchsetzen und ggf. eine rechtmä&szlig;ige Einmeldung bei einer Auskunftei vornehmen möchten. Auf der anderen Seite stehen die betroffenen Personen, für die ein solcher Eintrag weitreichende Konsequenzen hat.
+Die Frage, ob und wann ein Schufa-Eintrag vorgenommen werden darf, ist immer wieder Thema in Rechtstreitigkeiten, welche durch die Kanzlei AdvoAdvice Rechtsanwälte mbB geführt werden. Auf der einen Seite stehen die meldenden Stellen, welche aus wirtschaftlichen Gründen mit möglichst geringem Aufwand die Forderung durchsetzen und ggf. eine rechtmäßige Einmeldung bei einer Auskunftei vornehmen möchten. Auf der anderen Seite stehen die betroffenen Personen, für die ein solcher Eintrag weitreichende Konsequenzen hat.
 
 ## **Titulierte Forderung – manchmal ist eine Löschung möglich**
 
@@ -43,9 +43,9 @@ In der Folge hat die RatePay GmbH über ihre Anwälte die Klage zurücknehmen la
 
 ## **Fazit und Hilfe vom Expertenteam**
 
-Achten Sie bei gelber Post vom Gericht immer darauf, dass Sie in der Regel nicht übermä&szlig;ig viel Zeit haben, um zu reagieren. Mit Blick auf etwaige Schufa-Einträge macht es Sinn, einem solchen Bescheid zu widersprechen, da sonst schnell vollendete Tatsachen geschaffen werden. Eine Löschung des Eintrages wird dann nur noch in schwerwiegenden Ausnahmefällen möglich sein.
+Achten Sie bei gelber Post vom Gericht immer darauf, dass Sie in der Regel nicht übermäßig viel Zeit haben, um zu reagieren. Mit Blick auf etwaige Schufa-Einträge macht es Sinn, einem solchen Bescheid zu widersprechen, da sonst schnell vollendete Tatsachen geschaffen werden. Eine Löschung des Eintrages wird dann nur noch in schwerwiegenden Ausnahmefällen möglich sein.
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
@@ -53,6 +53,8 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt, sowie dies auch im hiesigen Fall wieder gelungen ist.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -63,8 +63,12 @@ Mit Schreiben vom 20.09.2021 forderte daher Rechtsanwalt Dr. Rohrmoser sowohl di
 
 In der Praxis lässt es sich immer wieder beobachten, dass Kreditkartenunternehmen offene Forderungen auf Firmenkreditkarten bei den Kreditkarteninhabern als Negativeintrag bei der Schufa Holding AG oder anderen Auskunfteien einmelden. Dies geschieht meist, ohne die Betroffenen vorher über den Eintrag zu informieren und auch ohne diesen Mahnungen oder eine Kündigung zu übersenden.
 
-Eine solche Praxis ist nicht zulässig und verstö&szlig;t gegen die Vorgaben der DSGVO und auch des BDSG.
+Eine solche Praxis ist nicht zulässig und verstößt gegen die Vorgaben der DSGVO und auch des BDSG.
 
 Da die Betroffenen, wie auch die vorliegenden Angelegenheiten zeigen, mit Schreiben an die eintragende Stelle oder auch die Schufa Holding AG oftmals erfolglos bleiben, empfiehlt sich die schnelle Einschaltung eines Experten im Bereich des Schufa-Rechts und des Datenschutzes.
 
-Die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin hat bereits vielen Betroffenen bei der Löschung von Negativeinträgen helfen können. Über die Löschungserfolge berichten die Rechtsanwälte regelmä&szlig;ig im Blog der Anwaltskanzlei und unter [www.anwalt.de](http://www.anwalt.de).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

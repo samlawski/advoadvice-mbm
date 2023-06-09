@@ -41,6 +41,12 @@ Schlussendlich teilte die BNP Paribas dann mit Schreiben vom 12.09.2022 endlich 
 
 ## Fazit
 
-Am konkreten Fall lassen sich verschiedene Aspekte hervorheben. Dr. Raphael Rohrmoser fasste zusammen: "Zunächst sind wir froh, dass wir dem Betroffenen mit der nötigen Geduld auch au&szlig;ergerichtlich und ohne eine langwierige Klage helfen konnten. Darüber hinaus sollte man sich nicht von jeder Verteidigung eines Schufa Eintrag beeindrucken lassen. Gerade bei Negativeinträgen gibt es immer wieder die gleichen Fehler, welche man auch bei anderen Betroffenen finden kann. Insofern empfiehlt es sich sehr, dass man sich zur Verteidigung an einen Experten wendet."
+Am konkreten Fall lassen sich verschiedene Aspekte hervorheben. Dr. Raphael Rohrmoser fasste zusammen: "Zunächst sind wir froh, dass wir dem Betroffenen mit der nötigen Geduld auch außergerichtlich und ohne eine langwierige Klage helfen konnten. Darüber hinaus sollte man sich nicht von jeder Verteidigung eines Schufa Eintrag beeindrucken lassen. Gerade bei Negativeinträgen gibt es immer wieder die gleichen Fehler, welche man auch bei anderen Betroffenen finden kann. Insofern empfiehlt es sich sehr, dass man sich zur Verteidigung an einen Experten wendet."
 
-Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

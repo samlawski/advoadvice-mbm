@@ -28,13 +28,13 @@ Die Advanzia Bank S.A. hatte am 25.07.2022 einen negativen Schufa Eintrag bei ei
 
 Am 31.07.2022 hatte die Berlinerin interessenhalber ihre Schufa-Daten online eingesehen, wodurch sie den Eintrag der Advanzia Bank, die die Forderung offensichtlich an ein Inkassounternehmen weitergegeben hatte, entdeckte. Sie tätigte eine Rückfrage bei der Schufa über den Negativeintrag, erhielt jedoch zunächst keine Rückmeldung von dieser.
 
-Da die Betroffene ihren Negativeintrag jedoch gelöscht haben wollte, kontaktierte sie anschlie&szlig;end die Kanzlei AdvoAdvice, die auch sofort tätig wurde.
+Da die Betroffene ihren Negativeintrag jedoch gelöscht haben wollte, kontaktierte sie anschließend die Kanzlei AdvoAdvice, die auch sofort tätig wurde.
 
 ## Wie kam es zur Löschung?
 
 Dr. Rohrmoser kontaktierte zunächst die Advanzia Bank S.A., um auf die Rechtswidrigkeit des Eintrages hinzuweisen. Ebenfalls wurde die Schufa Holding AG aufgefordert, den Negativeintrag zu löschen.
 
-Den Anspruch auf Löschung begründete Dr. Rohrmoser damit, dass die Forderung bereits mit der Erteilung der Restschuldbefreiung im Jahr 2018 nicht mehr durchsetzbar war, sodass kein überwiegendes Interesse mehr an der Speicherung der Daten bestand. Dieses Interesse bestand von vornherein nicht, da die zusammenhängenden Zahlungsschwierigkeiten bereits Jahre zurück lagen. Der Schufa-Eintrag lie&szlig; die Betroffene jedoch als zahlungsunfähig oder -willig erscheinen und war daher unzutreffend
+Den Anspruch auf Löschung begründete Dr. Rohrmoser damit, dass die Forderung bereits mit der Erteilung der Restschuldbefreiung im Jahr 2018 nicht mehr durchsetzbar war, sodass kein überwiegendes Interesse mehr an der Speicherung der Daten bestand. Dieses Interesse bestand von vornherein nicht, da die zusammenhängenden Zahlungsschwierigkeiten bereits Jahre zurück lagen. Der Schufa-Eintrag ließ die Betroffene jedoch als zahlungsunfähig oder -willig erscheinen und war daher unzutreffend
 
 Die Advanzia meldete sich mit Schreiben vom 01.09.2022 und teilte mit, dass die&nbsp; Betroffene nach Erteilung der Restschuldbefreiung ein Löschanspruch gegenüber der Schufa hätte geltend machen müssen, welchen diese wohl nicht geltend gemacht habe. Dr. Rohrmoser wies in der Folge nochmals darauf hin, dass es nicht um die Löschung der Daten von vor Erteilung der Restschuldbefreiung ging, sondern darum, dass die Advanzia Bank eine Forderung nach der erteilten Restschuldbefreiung gemeldet hatte, welche jedoch nicht mehr durchsetzbar war.
 
@@ -50,6 +50,8 @@ Betroffene sollten sich daher bei Problemen mit sog. Alt-Einträgen an einen spe
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

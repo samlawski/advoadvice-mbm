@@ -43,17 +43,17 @@ Die Telekom meldete den Betrag jedoch erst Ende Januar 2021 bei der Schufa Holdi
 
 ## Keine Immobilienfinanzierung möglich
 
-Da der Eintrag die Bonität des Niedersachsen negativ beeinflusste, wäre es dem Betroffenen nicht möglich gewesen eine Immobilie kaufen zu können und auch eine Anschlussfinanzierung wäre sehr schwierig geworden. Dies hängt damit zusammen, dass Banken und Kreditinstitute vor einer Kreditvergabe regelmä&szlig;ig eine Abfrage bei der Schufa Holding AG vornehmen und ein negativer Eintrag nahezu zwangsläufig zu einer enormen Risikoeinschätzung führt.
+Da der Eintrag die Bonität des Niedersachsen negativ beeinflusste, wäre es dem Betroffenen nicht möglich gewesen eine Immobilie kaufen zu können und auch eine Anschlussfinanzierung wäre sehr schwierig geworden. Dies hängt damit zusammen, dass Banken und Kreditinstitute vor einer Kreditvergabe regelmäßig eine Abfrage bei der Schufa Holding AG vornehmen und ein negativer Eintrag nahezu zwangsläufig zu einer enormen Risikoeinschätzung führt.
 
 ## Schufa löscht nach Einschaltung von AdvoAdvice
 
 Für den Betroffenen war es daher höchste Zeit, sich anwaltliche Hilfe zu suchen, um seine Immobilienfinanzierung doch noch retten zu lassen.&nbsp;
 
-Rechtsanwalt Dr. Raphael Rohrmoser wandte sich daraufhin an die Telekom Deutschland GmbH mit Schreiben vom 02.08.2022 und forderte für den betroffenen Mandanten die Löschung des Negativeintrags. Dabei wurde auf die Unvorhersehbarkeit des Eintrages verwiesen, da dem Betroffenen weder Kündigungs- noch Mahnschreiben zugegangen waren. Au&szlig;erdem verwies er auf die fehlende Warnung vor einem Eintrag bei Auskunfteien, sodass der Betroffene daher nicht mit einer entsprechenden Datenverarbeitung rechnen konnte.
+Rechtsanwalt Dr. Raphael Rohrmoser wandte sich daraufhin an die Telekom Deutschland GmbH mit Schreiben vom 02.08.2022 und forderte für den betroffenen Mandanten die Löschung des Negativeintrags. Dabei wurde auf die Unvorhersehbarkeit des Eintrages verwiesen, da dem Betroffenen weder Kündigungs- noch Mahnschreiben zugegangen waren. Außerdem verwies er auf die fehlende Warnung vor einem Eintrag bei Auskunfteien, sodass der Betroffene daher nicht mit einer entsprechenden Datenverarbeitung rechnen konnte.
 
 Auch die Schufa Holding AG erhielt von dem Schreiben eine Abschrift mit der Aufforderung zur Löschung der zu Unrecht durch die Telekom eingetragenen Daten.&nbsp;
 
-Die Telekom Deutschland GmbH meldete sich am 16.08.2022 auf das Schreiben von Dr. Rohrmoser. Sie blieb jedoch weiterhin der Ansicht, dass der Eintrag rechtmä&szlig;ig sei und somit keine Löschung beantragt werden müsse.
+Die Telekom Deutschland GmbH meldete sich am 16.08.2022 auf das Schreiben von Dr. Rohrmoser. Sie blieb jedoch weiterhin der Ansicht, dass der Eintrag rechtmäßig sei und somit keine Löschung beantragt werden müsse.
 
 Die Schufa Holding AG hingegen teilte mit Schreiben vom 19.08.2022 mit, die Daten nach Überprüfung des Vorgangs und vor dem Hintergrund der vorliegenden Informationen ohne Anerkennung einer Rechtspflicht zu löschen.
 
@@ -65,4 +65,8 @@ Der Fall zeigt auch, dass selbst dann, wenn die eintragende Stelle nicht selbst 
 
 Dem Betroffenen steht jetzt das Beantragen eines Bankkredites offen, dank Löschung des Negativeintrages und damit verbundener Verbesserung des Scorings.&nbsp;
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

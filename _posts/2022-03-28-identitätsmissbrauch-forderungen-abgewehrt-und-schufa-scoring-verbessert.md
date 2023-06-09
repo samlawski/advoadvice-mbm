@@ -21,7 +21,7 @@ author: dr-sven-tintemann
 ---
 Im Herbst 2021 meldet sich ein Hotelangestellter aus Berliner bei der Kanzlei AdvoAdvice Rechtsanwälte mbB und teilte mit, dass es gegen ihn sechs offene Forderungen von Inkasso-Firmen geben würde. Er habe aber nichts im Internet bestellt.
 
-Der Betroffene wollte einen Handy-Vertrag abschlie&szlig;en. Der Vertragsabschluss wurde aber abgelehnt, weil das Schufa-Scoring unterdurchschnittlich ausfielt aufgrund mehrerer Inkasso-Abfragen.
+Der Betroffene wollte einen Handy-Vertrag abschließen. Der Vertragsabschluss wurde aber abgelehnt, weil das Schufa-Scoring unterdurchschnittlich ausfielt aufgrund mehrerer Inkasso-Abfragen.
 
 ## Zwei Strafanzeigen gestellt
 
@@ -35,16 +35,20 @@ Nach Mandatsannahme konnte durch Rechtsanwalt Dr. Sven Tintemann festgestellt we
 
 Es wurde zudem Akteneinsicht in die Strafermittlungsakten bei der Polizeidirektion 2 Berlin sowie der Staatsanwaltschaft Berlin beantragt.&nbsp;
 
-Au&szlig;erdem wurden die Inkasso-Unternehmen über die Strafanzeigen des Mandanten informiert und dazu aufgefordert, die offene Forderung aufgrund des erfolgten Identitätsmissbrauchs auszubuchen.&nbsp;
+Außerdem wurden die Inkasso-Unternehmen über die Strafanzeigen des Mandanten informiert und dazu aufgefordert, die offene Forderung aufgrund des erfolgten Identitätsmissbrauchs auszubuchen.&nbsp;
 
 ## Erfolgreiche Forderungsabwehr und Verbesserung des Scores
 
 Aus der Ermittlungsakte konnte in Erfahrung gebracht werden, dass der angezeigte Sachverhalt der nicht veranlassten Warenlieferungen ein seit geraumer Zeit stadtweit zu beobachtender Modus Operandi sei, bei dem unbekannte Täter oftmals in einem eng begrenzten Zeitraum Waren unter Verwendung und auf Namen des Anzeigenden bestellen. Die Täter versuchten dann, die Lieferung direkt beim Zusteller abzufangen oder von einem Ersatzempfänger zu erlangen. Ein bestimmer Schwerpunkt auf einen Stadtteil oder Wohnkiez sei nicht erkennbar.
 
-Die Inkassofirmen lie&szlig;en sich, teilweise auch erst unter Zuhilfenahme dieser Information, dazu bewegen, die offenen Forderungen auszubuchen und laufende Inkassoma&szlig;nahmen gegen den Betroffenen zu beenden bzw. einzustellen.&nbsp;
+Die Inkassofirmen ließen sich, teilweise auch erst unter Zuhilfenahme dieser Information, dazu bewegen, die offenen Forderungen auszubuchen und laufende Inkassomaßnahmen gegen den Betroffenen zu beenden bzw. einzustellen.&nbsp;
 
 Auch das Schufa Scoring konnte verbessert werden. Der Betroffene hat mittlerweile einen Schufa Orientierungswert von 177 (Stand 22.02.2022).&nbsp;
 
-Rechtsanwalt Dr. Sven Tintemann zieht folgende Bilanz: "Für den Betroffenen war es hier sehr schwierig, die richtigen Ansprechpartner zu finden und die richtigen Formulierungen zu finden. Mit anwaltlicher Hilfe lie&szlig;en sich die Probleme aber leicht klären. Es erwies sich hier als sinnvoll, dass der Mandant bereits selbst Strafanzeige gestellt hatte."
+Rechtsanwalt Dr. Sven Tintemann zieht folgende Bilanz: "Für den Betroffenen war es hier sehr schwierig, die richtigen Ansprechpartner zu finden und die richtigen Formulierungen zu finden. Mit anwaltlicher Hilfe ließen sich die Probleme aber leicht klären. Es erwies sich hier als sinnvoll, dass der Mandant bereits selbst Strafanzeige gestellt hatte."
 
 Sind auch Sie Opfer eines Identitätsmissbrauchs geworden und wollen Sie sich gegen angeblich offene Forderungen zur Wehr setzen oder Ihr Schufa Scoring verbessern bzw. dort erfolgte Negativeinträge zur Löschung bringen, dann wenden Sie sich gerne an die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin.&nbsp;&nbsp;
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

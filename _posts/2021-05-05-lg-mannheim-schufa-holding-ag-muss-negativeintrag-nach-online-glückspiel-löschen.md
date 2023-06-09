@@ -31,7 +31,7 @@ Bereits im Jahr 2019 trat ein neuer Mandant an die Rechtsanwaltskanzlei AdvoAdvi
 
 Hintergrund des Mandats war, dass der Betroffene im Internet an Glücksspiel teilnahm und die offenen Beträge über PayPal auf die Kreditkarte gebucht wurden. Nach einer gewissen Zeit nahm der betroffene Abstand von diesem Glücksspiel und recherchierte dazu, ob dies überhaupt zulässig sei.
 
-In diesem Rahmen ist er auf Internet Angebote von Rechtsanwaltskollegen gesto&szlig;en, die über gerichtliche Erfolge berichteten, wonach Forderungen im Rahmen von Online-Glücksspiel nicht bezahlt werden mussten oder zurückgefordert werden konnten.
+In diesem Rahmen ist er auf Internet Angebote von Rechtsanwaltskollegen gestoßen, die über gerichtliche Erfolge berichteten, wonach Forderungen im Rahmen von Online-Glücksspiel nicht bezahlt werden mussten oder zurückgefordert werden konnten.
 
 In der Folge ging der Betroffene deshalb davon aus, dass er zum Ausgleich der Beträge nicht verpflichtet sei. Die Forderung wurde gegenüber der Barclays Bank mehrfach bestritten.
 
@@ -39,7 +39,7 @@ Gleichwohl kündigte die Barclays Bank das Kreditkartenkonto im Herbst 2018 rela
 
 **Keine Löschung des Negativeintrages** &nbsp;&nbsp;&nbsp;
 
-Bereits au&szlig;ergerichtlich wurden sowohl die Barclays Bank als ursprüngliche Forderungsinhaberin sowie die Schufa Holding AG kontaktiert und zur Beseitigung des Eintrages aufgefordert. Schon damals wurde darauf hingewiesen, dass nach rechtsanwaltlicher Auffassung eine Kündigung nicht hätte erfolgen dürfen und dass zudem die Voraussetzungen des &sect; 31 Abs. 2 BDSG nicht vorlagen. Ein Schufa Eintrag hätte daher nicht erfolgen dürfen.
+Bereits außergerichtlich wurden sowohl die Barclays Bank als ursprüngliche Forderungsinhaberin sowie die Schufa Holding AG kontaktiert und zur Beseitigung des Eintrages aufgefordert. Schon damals wurde darauf hingewiesen, dass nach rechtsanwaltlicher Auffassung eine Kündigung nicht hätte erfolgen dürfen und dass zudem die Voraussetzungen des § 31 Abs. 2 BDSG nicht vorlagen. Ein Schufa Eintrag hätte daher nicht erfolgen dürfen.
 
 Weder die Schufa Holding AG noch die Barclays Bank Ireland PLC Hamburg Branch folgten dieser Auffassung, sodass im August 2019 eine Klage gegen die Schufa Holding AG auf Löschung des Eintrages eingereicht wurde. Nach Streitigkeiten über die Zuständigkeit wurde die Sache dann vor dem Amtsgericht Mannheim verhandelt. Zwischenzeitlich wurde der Teil-Eintrag der Barclays Bank Ireland PLC Hamburg Branch entfernt, sodass es im Verfahren vor dem Amtsgericht Mannheim nur noch um den Eintrag der Axactor Germany GmbH ging.
 
@@ -51,29 +51,29 @@ Gegen dieses Urteil legte der Betroffene mit Hilfe der Kanzlei AdvoAdvice Berufu
 
 Erfreulicherweise hat das Landgericht Mannheim die mündliche Verhandlung für das Berufungsverfahren bereits auf Februar 2021 angesetzt, wodurch das Verfahren dann doch zu einem relativ schnellen Ende kommen konnte.
 
-Das Landgericht Mannheim entschied mit sehr deutlichen Worten, dass der Negativeintrag in seiner aktuellen Fassung zur Löschung zu bringen ist. Im Ausgangspunkt ging das Gericht zutreffend davon aus, dass eine Interessenabwägung nach Art. 6 Abs. 1 lit. f) DSGVO (Datenschutzgrundverordnung) durchzuführen sei. Zur näheren Ausgestaltung der Interessenabwägung wandte das Gericht sodann die Voraussetzungen des &sect; 31 Absatz 2 BDSG (Bundesdatenschutzgesetz) an.
+Das Landgericht Mannheim entschied mit sehr deutlichen Worten, dass der Negativeintrag in seiner aktuellen Fassung zur Löschung zu bringen ist. Im Ausgangspunkt ging das Gericht zutreffend davon aus, dass eine Interessenabwägung nach Art. 6 Abs. 1 lit. f) DSGVO (Datenschutzgrundverordnung) durchzuführen sei. Zur näheren Ausgestaltung der Interessenabwägung wandte das Gericht sodann die Voraussetzungen des § 31 Absatz 2 BDSG (Bundesdatenschutzgesetz) an.
 
 Dieser beinhaltet fünf verschiedene Möglichkeiten, von denen mindestens eine erfüllt sein muss, damit ein negativer Eintrag gerechtfertigt werden kann bzw. von der Schufa Holding AG sowie anderen Auskunfteien im Scoringverfahren berücksichtigt werden darf. Das Gericht verneinte alle in Betracht kommenden Möglichkeiten dieses sog. Fünferkatalogs.&nbsp;
 
 ### **Urteil des Amtsgericht Mannheim**
 
-Unter Bezugnahme auf das Urteil der ersten Instanz verwies das Landgericht darauf, dass weder die Voraussetzungen des &sect; 31 Abs. 2 Nr. 4 noch Nr. 5 BDSG vorlagen.
+Unter Bezugnahme auf das Urteil der ersten Instanz verwies das Landgericht darauf, dass weder die Voraussetzungen des § 31 Abs. 2 Nr. 4 noch Nr. 5 BDSG vorlagen.
 
-Eine ausreichende Mahnung war schon deshalb nicht gegeben, da lediglich ein Betrag über knapp 124,00 Euro angemahnt wurde, der insgesamt gemeldete Betrag jedoch bei über 2000€ lag. Sodann hei&szlig;t es in dem Urteil.
+Eine ausreichende Mahnung war schon deshalb nicht gegeben, da lediglich ein Betrag über knapp 124,00 Euro angemahnt wurde, der insgesamt gemeldete Betrag jedoch bei über 2000€ lag. Sodann heißt es in dem Urteil.
 
-*„Im Übrigen hatte der Kläger die Forderung aber auch bestritten. Soweit das Amtsgericht hierzu ausführt, das Bestreiten sei treuwidrig gewesen, da es zwar begründet, jedoch nicht durch Abgabe einer eidesstattlichen Erklärung glaubhaft gemacht worden sei, überspannt es die Anforderungen an ein Bestreiten im Sinne des &sect; 31 Abs. 2 S. 1 Nr. 4 lit. d).“ &nbsp;*
+*„Im Übrigen hatte der Kläger die Forderung aber auch bestritten. Soweit das Amtsgericht hierzu ausführt, das Bestreiten sei treuwidrig gewesen, da es zwar begründet, jedoch nicht durch Abgabe einer eidesstattlichen Erklärung glaubhaft gemacht worden sei, überspannt es die Anforderungen an ein Bestreiten im Sinne des § 31 Abs. 2 S. 1 Nr. 4 lit. d).“ &nbsp;*
 
-An dieser Stelle muss nochmals deutlich klargestellt werden, dass der Kläger die Forderung deshalb bestritten hatte, da er davon ausging, dass er aufgrund des Glücksspiel nicht zu einem Zahlungsausgleich verpflichtet sei. Das Landgericht stellt damit implizit klar, dass es ma&szlig;geblich um die Tatsache des Bestreitens und nicht auf den Inhalt des Bestreitens der Forderung oder dessen rechtliche Richtigkeit geht.
+An dieser Stelle muss nochmals deutlich klargestellt werden, dass der Kläger die Forderung deshalb bestritten hatte, da er davon ausging, dass er aufgrund des Glücksspiel nicht zu einem Zahlungsausgleich verpflichtet sei. Das Landgericht stellt damit implizit klar, dass es maßgeblich um die Tatsache des Bestreitens und nicht auf den Inhalt des Bestreitens der Forderung oder dessen rechtliche Richtigkeit geht.
 
 Mit Blick auf die Möglichkeit einer fristlosen Kündigung (Nr. 5) verwies das Landgericht darauf, dass die gesetzlichen Kündigungsvoraussetzungen nicht gegeben waren, sodass ein negativer Schufa Eintrag darüber ebenfalls nicht gefertigt werden konnte.
 
 ### **Weitere Entscheidung des Landgerichts**
 
-Im weiteren Verfahren ging es sodann ma&szlig;geblich um die Frage, ob der Betroffene die Forderung durch den Abschluss der Ratenzahlungsvereinbarung ausdrücklich anerkannt hatte (Nr. 3) und der Negativeintrag zumindest ab diesem Zeitpunkt gerechtfertigt war.
+Im weiteren Verfahren ging es sodann maßgeblich um die Frage, ob der Betroffene die Forderung durch den Abschluss der Ratenzahlungsvereinbarung ausdrücklich anerkannt hatte (Nr. 3) und der Negativeintrag zumindest ab diesem Zeitpunkt gerechtfertigt war.
 
-Die Schufa Holding AG ging genau davon aus und wandte ferner ein, dass es sich um eine nachträglich abgeschlossene Ratenzahlungsvereinbarung handle und diese damit der Rechtmä&szlig;igkeit der Datenverarbeitung nicht im Wege stehe.
+Die Schufa Holding AG ging genau davon aus und wandte ferner ein, dass es sich um eine nachträglich abgeschlossene Ratenzahlungsvereinbarung handle und diese damit der Rechtmäßigkeit der Datenverarbeitung nicht im Wege stehe.
 
-Die Schufa Holding AG hat dabei wohl übersehen oder fehlerhaft eingeschätzt, dass einerseits zuvor kein rechtmä&szlig;iger Eintrag bestand, sodass eine "nachträgliche" Ratenzahlungsvereinbarung (nach rechtmä&szlig;iger Einmeldung) bereits nicht in Betracht kam. Darüber hinaus hat der Kläger die Ratenzahlungsvereinbarung *„ohne Anerkennung einer Rechtsschuld“* abgeschlossen und ergänzend darauf hinwies, dass er nicht davon ausgehe, dass „*die Förderung überhaupt wirksam“* gewesen sei.
+Die Schufa Holding AG hat dabei wohl übersehen oder fehlerhaft eingeschätzt, dass einerseits zuvor kein rechtmäßiger Eintrag bestand, sodass eine "nachträgliche" Ratenzahlungsvereinbarung (nach rechtmäßiger Einmeldung) bereits nicht in Betracht kam. Darüber hinaus hat der Kläger die Ratenzahlungsvereinbarung *„ohne Anerkennung einer Rechtsschuld“* abgeschlossen und ergänzend darauf hinwies, dass er nicht davon ausgehe, dass „*die Förderung überhaupt wirksam“* gewesen sei.
 
 Das Landgericht Mannheim urteilte daher vollkommen richtig, dass zwar eine Ratenzahlungsvereinbarung aber kein ausdrückliches Anerkenntnis (Nr. 3) erkennbar sei.
 
@@ -87,6 +87,8 @@ Rechtsanwalt Dr. Raphael Rohrmoser, der die mündliche Verhandlung vor dem Landg
 
 *„Aus unserer Sicht hätte bereits das Amtsgericht Mannheim erkennen müssen, dass ein ausdrückliches Anerkenntnis gerade nicht gegeben war. Unter den gegebenen Umständen des Einzelfalles war dies&nbsp; aus hiesiger Sicht sogar fernliegend. Die Entscheidung des Landgerichts Mannheim berücksichtigt den konkreten Sachverhalt dagegen in all seinen Facetten und zeigt auf, dass es sich rentiert, sich auch mit aller Geduld gegen unberechtigte Datenverarbeitungen zu wehren. Das Landgericht Mannheim hat richtig erkannt, dass es am Ende schlicht und ergreifend darum geht, ob die Voraussetzungen für eine Datenverarbeitung gegeben sind oder nicht. Insofern handelt es sich um eine sehr konsequente und richtige Entscheidung die viele Rechtsfragen nochmals genau unter die Lupe nimmt.“ &nbsp;*
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

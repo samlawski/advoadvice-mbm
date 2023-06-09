@@ -44,7 +44,7 @@ Die Frage, ob eine Forderung bei der Schufa Holding AG oder einer anderen Auskun
 
 Voraussetzung ist zunächst, dass es eine fällige Forderung gibt. Gerade bei einer Ratenzahlungsvereinbarung kann – abhängig von der konkreten Vereinbarung - diese Forderung entfallen.
 
-Darüber hinaus ist anerkannt, dass die Forderung nicht nur bestehen, sondern dass die Verarbeitung auch vorhersehbar sein muss. In Betracht kommen in Anlehnung an &sect; 31 Abs. 2 Bundesdatenschutzgesetz,
+Darüber hinaus ist anerkannt, dass die Forderung nicht nur bestehen, sondern dass die Verarbeitung auch vorhersehbar sein muss. In Betracht kommen in Anlehnung an § 31 Abs. 2 Bundesdatenschutzgesetz,
 
 1. die gerichtliche Titulierung einer Forderung (oftmals Vollstreckungsbescheid oder Urteil)
 2. die Feststellung der Forderung in einem Insolvenzverfahren
@@ -54,7 +54,7 @@ Darüber hinaus ist anerkannt, dass die Forderung nicht nur bestehen, sondern da
 
 Die Voraussetzungen bieten sämtlich verschiedene Vorteile und Schwachstellen, welche einem spezialisierten Rechtsanwalt bekannt sein sollten. Das bedeutet, dass ein Eintrag nicht zwingend gerechtfertigt ist, nur weil eine der verschiedenen Möglichkeiten vorliegt.&nbsp; Liegen die Voraussetzungen tatsächlich nicht vor, dann ist der Eintrag zu entfernen.
 
-## **Au&szlig;ergerichtlich und gerichtliches Verfahren: Wer muss was beweisen?**
+## **Außergerichtlich und gerichtliches Verfahren: Wer muss was beweisen?**
 
 Wie in jedem Rechtsstreit ist die Frage wichtig, wer etwas&nbsp; zu beweisen hat und was er beweisen kann.
 
@@ -62,7 +62,7 @@ Wichtig ist zunächst, dass man grundlegend einer Wahrheitspflicht unterliegt. H
 
 Umstritten sind dabei aus unserer Erfahrung oftmals die Fragen, ob z.B. eine Erklärung (z.B. ein Telefonat mit dem Gläubiger „um die Sache zu klären“) als ausdrückliches Anerkenntnis zu verstehen ist, ob Mahn- und Kündigungsschreiben tatsächlich zugegangen sind oder ob und wie sich eine Ratenzahlungsvereinbarung auf den Schufa-Eintrag auswirkt.
 
-Es muss an dieser Stelle klar darauf hingewiesen werden, dass man ein Unternehmen unmittelbar nur durch eine gerichtliche Entscheidung dazu zwingen kann, den Eintrag zu widerrufen bzw. die Schufa Holding AG oder eine andere Auskunftei dazu, den Eintrag zu löschen und das Scoring zu berichtigen. Die Unternehmen prüfen au&szlig;ergerichtlich aber trotzdem, ob der Eintrag berechtigt war, um unnötige Verfahren zu verhindern. Hier können daher bereits oft Erfolge auch ohne Gerichtsverfahren nach Einschaltung eines Rechtsanwalts erzielt werden.&nbsp;
+Es muss an dieser Stelle klar darauf hingewiesen werden, dass man ein Unternehmen unmittelbar nur durch eine gerichtliche Entscheidung dazu zwingen kann, den Eintrag zu widerrufen bzw. die Schufa Holding AG oder eine andere Auskunftei dazu, den Eintrag zu löschen und das Scoring zu berichtigen. Die Unternehmen prüfen außergerichtlich aber trotzdem, ob der Eintrag berechtigt war, um unnötige Verfahren zu verhindern. Hier können daher bereits oft Erfolge auch ohne Gerichtsverfahren nach Einschaltung eines Rechtsanwalts erzielt werden.&nbsp;
 
 ## **Wie kam es im Fall der American Express zur Löschung?**
 
@@ -74,4 +74,8 @@ Aus Sicht des zuständigen Rechtsanwaltes Dr. Raphael Rohrmoser gilt Folgendes: 
 
 Gerne helfen wir als spezialisierte Kanzlei bei der Prüfung und Entfernung von Negativeinträgen. In einer kurzen kostenfreien Ersteinschätzung kann dabei besprochen werden, ob und welches Vorgehen Sinn macht.
 
-Die Nutzung einer Rechtsschutzversicherung wird dabei ausdrücklich empfohlen. Sie erreichen uns zu normalen Bürozeiten unter 030 921 000 40 oder info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

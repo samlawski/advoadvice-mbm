@@ -29,13 +29,13 @@ Vom Sachverhalt ähneln sich die Fälle durchaus. Die Betroffenen waren Kunden b
 
 In zwei Verfügungsverfahren entschied das Landgericht Hamburg in der Folge mit einer kurzem Begründung im Beschlusswege. Die erste Verfügung wurde Ende August erlassen und betraf eine Frau, welche die Mahnung vor der Kündigung schon nicht erhalten hatte. Nachdem diese bemerkte, dass mit der Rückzahlung etwas unklar war, überwies diese proaktiv einen Teil-Betrag an die Barclays Bank. Dies geschah noch bevor die Kündigung veranlasst wurde. Gleichwohl wurde kurze Zeit später ein negativer Schufa-Eintrag veranlasst. In der Folge wurden der Betroffenen gleich mehrere Vertragsverhältnisse gekündigt, sodass diese im einstweiligen Rechtsschutz gegen den Eintrag vorgehen musste, um weitere Schäden zu vermeiden.
 
-Erfreulicherweise erlie&szlig; das LG Hamburg die einstweilige Verfügung zeitnah. Nach Zustellung der Verfügung bei der Barclays Bank veranlasste diese sodann den Widerruf der Negativeintragung. Die Schufa Holding AG kam dieser Bitte nach Löschung nach und entfernte den Eintrag.
+Erfreulicherweise erließ das LG Hamburg die einstweilige Verfügung zeitnah. Nach Zustellung der Verfügung bei der Barclays Bank veranlasste diese sodann den Widerruf der Negativeintragung. Die Schufa Holding AG kam dieser Bitte nach Löschung nach und entfernte den Eintrag.
 
 In einem anderen Verfahren erhielt der Betroffene wegen eines Umzugs ebenfalls keine Mahnungen von der Barclays Bank. Auch hier wurde eine einstweilige Verfügung erlassen.
 
 ## **Gefestigte Rechtsprechung am LG Hamburg**
 
-Bereits vor einigen Wochen berichteten wir von einem [gerichtlichen Erfolg gegen die Barclays Bank](https://advoadvice.de/blog/lg-hamburg-verurteilt-barclays-bank-ireland-plc-zum-widerruf-eines-schufa-eintrages/){: target="_blank" rel="noopener"}. Die dortigen Argumentation hat sich in weiteren Entscheidungen gegen die Bank gefestigt.
+Bereits vor einigen Wochen berichteten wir von einem [gerichtlichen Erfolg gegen die Barclays Bank](https://advoadvice.de/blog/lg-hamburg-verurteilt-barclays-bank-ireland-plc-zum-widerruf-eines-schufa-eintrages/){: target="_blank"}. Die dortigen Argumentation hat sich in weiteren Entscheidungen gegen die Bank gefestigt.
 
 In einem neuen Urteil aus September 2021 wurde vom Landgericht Hamburg nochmals ausgiebig dargelegt, wieso der Eintrag rechtswidrig war und weder über die DSGVO noch über das BDSG a.F. gerechtfertigt werden konnte. Dabei schloss man sich der Argumentation aus dem Urteil von Mai 2021 überwiegend an, führte dahingehend aber noch weiter aus.
 
@@ -49,6 +49,8 @@ Die Rechtsanwaltskanzlei AdvoAdvice hat viel Erfahrung auf dem Gebiet von negati
 
 Rechtsanwalt Dr. Rohrmoser wies auf folgende Aspekte hin: "Bei einigen Unternehmen gibt es konzeptionelle Schwachpunkte bei der Verarbeitung personenbezogener Daten. Diese Schwachpunkte führen immer wieder zu unberechtigten Negativeinträgen. Gegen dies Einträge lässt sich in der Folge relativ gut vorgehen."
 
-Wenn auch Sie einen negativen Eintrag bei der Schufa Holding AG haben, können Sie uns gerne kontaktieren und eine kostenfreie Ersteinschätzung erfragen ([info@advoadvice.de](mailto:info@advoadvice.de) oder 030 / 921 000 40). Mit der vorhandenen Expertise helfen wir Ihnen gerne.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -26,7 +26,7 @@ Weiterer Erfolg im Kampf gegen fehlerhaften Eintrag bei der Schufa Holding AG du
 
 Die Inkassofirma Pay Due Inkasso GmbH hatte zu Lasten eines Berliners einen Negativeintrag bei der SCHUFA Holding AG lanciert. Der Eintrag wurde am 05.10.2021 vorgenommen und belief sich auf 509,00 Euro. Im Dezember wurde eine Aktualisierung auf 580,00 Euro gemeldet.
 
-Die Forderung war auf einen Fitnessstudio-Vertrag bei McFIT Berlin-Mitte zurückzuführen. Problematisch war hierbei, dass es dort zu dem Betroffenen zwei Verträge gab. Wieso zwei Verträge eingerichtet wurden konnte nicht abschlie&szlig;end geklärt werden. Ein Vertrag wurde problemlos bedient. Der zweite – hier streitgegenständliche – Vertrag wurde wohl fristlos gekündigt. Die angeblich offene Forderung wurde durch den betroffenen McFit-Kunden bestritten. Dies geschah bereits im Sommer 2021.&nbsp;
+Die Forderung war auf einen Fitnessstudio-Vertrag bei McFIT Berlin-Mitte zurückzuführen. Problematisch war hierbei, dass es dort zu dem Betroffenen zwei Verträge gab. Wieso zwei Verträge eingerichtet wurden konnte nicht abschließend geklärt werden. Ein Vertrag wurde problemlos bedient. Der zweite – hier streitgegenständliche – Vertrag wurde wohl fristlos gekündigt. Die angeblich offene Forderung wurde durch den betroffenen McFit-Kunden bestritten. Dies geschah bereits im Sommer 2021.&nbsp;
 
 Im Januar 2022 meldet sich dann die Pay Due Inkasso GmbH und teilte mit, dass sie von McFit Berlin-Mitte beauftragt worden sei, eine Forderung einzutreiben. Es seien noch 790,86 Euro aus dem Mitgliedsvertrag offen. Zudem wurde der Betroffene per Email&nbsp; aufgefordert, die Firma Pay Due wegen des Mitgliedsvertrages bei McFit Berlin-Mitte anzurufen.&nbsp;
 
@@ -44,7 +44,7 @@ Der vorliegende Fall zeigt, dass es immer wichtig ist, zuerst der Ursache eines 
 
 Wenn der Sachverhalt klar ist, kann es oftmals zu einem schnellen Löscherfolg kommen. Hierzu empfiehlt es sich, einen spezialisierten Anwalt einzuschalten.&nbsp;
 
-Die Experten der Kanzlei AdvoAdvice blicken auf eine gro&szlig;e Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird ma&szlig;geblich von eigenen Erfolgen berichtet.
+Die Experten der Kanzlei AdvoAdvice blicken auf eine große Erfahrung im Bereich Schufa-Recht und Datenschutz. Aus diesem Grund wird maßgeblich von eigenen Erfolgen berichtet.
 
 Seit der Kanzleigründung wurden mehr als 950 Fälle bearbeitet. Zudem wurden mehr als 300 Gerichtsverfahren für Betroffene geführt. Rechtsanwalt Dr. Sven Tintemann befasst sich bereits seit dem Jahr 2009 mit Fragestellungen rund um das Datenschutzrecht und Negativeinträge sowie Einträge zur Restschuldbefreiung bei Auskunfteien.
 
@@ -52,8 +52,8 @@ Die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser sind für ihre e
 
 Zudem hat die Kanzlei AdvoAdvice Rechtsanwälte mehrere wegweisende Entscheidungen zu Schadensersatzansprüchen nach rechtswidrigen Datenverarbeitungsvorgängen erzielt.
 
-Wenn Sie ebenfalls Hilfe bei Rechtsfragen rund um Negativeinträge, Scoring oder Datenschutz benötigen, wenden Sie sich gerne an info@advoadvice.de oder rufen Sie uns an unter 030 921 000 40.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

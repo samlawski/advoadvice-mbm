@@ -35,13 +35,13 @@ Konkret meldete sich ein Rechtsanwalt aus Berlin bei der Kanzlei AdvoAdvice und 
 
 Bei der Bank hatte der Rechtsanwalt ein Geschäftskonto unterhalten und dieses aufgrund einer Anstellung und damit Aufgabe seiner Selbständigkeit über längere Zeit nicht mehr genutzt.&nbsp;
 
-Es waren dort daher Gebühren in Höhe von 145,96 Euro aufgelaufen. Die DKB AG kündigte daher die Geschäftsverbindung unter Bezugnahme auf &sect; 26 Abs. 2 AGB-DKB und meldete die offene Forderung als Negativmerkmal bei der Schufa Holding AG ein.&nbsp;
+Es waren dort daher Gebühren in Höhe von 145,96 Euro aufgelaufen. Die DKB AG kündigte daher die Geschäftsverbindung unter Bezugnahme auf § 26 Abs. 2 AGB-DKB und meldete die offene Forderung als Negativmerkmal bei der Schufa Holding AG ein.&nbsp;
 
 ## Mehrmaliges Nachfassen führt zum Erfolg
 
 Die DKB AG wurde daher von der Kanzlei AdvoAdvice durch die Rechtsanwälte Dr. Sven Tintemann und Dr. Raphael Rohrmoser mehrfach angeschrieben und zur Löschung des Negativeintrags sowie zur Kostenübernahme aufgefordert.&nbsp;
 
-Dies hatte letztendlich Erfolg. Die DKB AG widerrief die Eintragung bei der Schufa Holding AG und diese löschte den Eintrag weisungsgemä&szlig;.&nbsp;
+Dies hatte letztendlich Erfolg. Die DKB AG widerrief die Eintragung bei der Schufa Holding AG und diese löschte den Eintrag weisungsgemäß.&nbsp;
 
 Der betroffene Rechtsanwalt hat seither wieder eine saubere Schufa-Auskunft.&nbsp;
 
@@ -57,10 +57,8 @@ Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen (in
 
 Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht.
 
-Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
-
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

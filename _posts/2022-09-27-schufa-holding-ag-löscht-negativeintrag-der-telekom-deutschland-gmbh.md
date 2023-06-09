@@ -44,7 +44,7 @@ Nachdem der Betroffene sich Hilfe in der Kanzlei AdvoAdvice suchte, konnte eine 
 
 *„Die Übermittlung von Daten an den SCHUFA-Datenbestand unterfällt hier schon keinem berechtigten Interesse, da unser Mandant nicht über den Eintrag informiert wurde und keine Mahnungen oder Kündigungen erhalten hat. Die Voraussetzungen für einen Eintrag liegen daher nicht vor.“*
 
-Ebenfalls mit Schreiben vom 21.06.2022 forderte er die Schufa Holding AG dazu auf, den Eintrag schnellstmöglich zur Löschung zu bringen, da dieser klar rechtswidrig sei und wies au&szlig;erdem darauf hin, dass, sollte der Eintrag nicht schnell genug gelöscht werden, ein einstweiliges Verfügungsverfahren möglich sei, um weiteren Schaden abzuwenden.
+Ebenfalls mit Schreiben vom 21.06.2022 forderte er die Schufa Holding AG dazu auf, den Eintrag schnellstmöglich zur Löschung zu bringen, da dieser klar rechtswidrig sei und wies außerdem darauf hin, dass, sollte der Eintrag nicht schnell genug gelöscht werden, ein einstweiliges Verfügungsverfahren möglich sei, um weiteren Schaden abzuwenden.
 
 Die Telekom Deutschland GmbH meldete sich bereits etwa eine Woche später auf das Schreiben von Rechtsanwalt Dr. Tintemann und teilte mit, dass sie die Einmeldung bei der Schufa widerrufen habe. Die Schufa Holding AG meldete sich daraufhin bereits am 27.06.2022, um mitzuteilen, dass der Eintrag gelöscht wurde.&nbsp; &nbsp;
 
@@ -54,8 +54,14 @@ Ein Umzug kann immer wieder dazu führen, dass Post nicht an der neuen Anschrift
 
 Es empfiehlt sich daher in jedem Fall, bei einem Umzug auch jedem Vertragspartner die neue Anschrift mitzuteilen, um immer auf dem Laufenden zu bleiben.
 
-Der vorliegende Fall zeigt, dass es bei einem Negativeintrag bei der Schufa Holding AG, der aufgrund nicht ordnungsgemä&szlig; zugestellter Post entstanden ist, gute Chancen bestehen, diesen zur Löschung zu bringen.
+Der vorliegende Fall zeigt, dass es bei einem Negativeintrag bei der Schufa Holding AG, der aufgrund nicht ordnungsgemäß zugestellter Post entstanden ist, gute Chancen bestehen, diesen zur Löschung zu bringen.
 
 Hierzu helfen spezialisierte Anwälte, die sich im Bereich Schufa-Recht und Datenschutz auskennen.
 
 Um Fristen für einen möglichen Antrag auf Erlass einer einstweiligen Verfügung nicht verstreichen zu lassen, empfiehlt es sich, möglichst zeitnah nach Kenntnis des Negativeintrags anwaltliche Hilfe zu suchen und nicht erst selbst tätig zu werden, da dies oft unnötige und vielleicht wichtige Zeit kostet.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -37,7 +37,7 @@ Nachdem sich die Betroffene eine Schufa-Auskunft besorgte und Hilfe in der Kanzl
 
 Rechtsanwalt Dr. Rohrmoser kontaktierte die Axactor Germany GmbH und die Advanzia Bank und wies auf einen Identitätsmissbrauch hin. Den Verdacht auf einen Identitätsdiebstahl begründete er wie folgt:
 
-„*In der Sache liegt ein Identitätsdiebstahl auf der Hand. Zunächst dürfte schon keine ordnungsgemä&szlig;e Aktivierung der Kreditkarte erfolgt sein, da die Unterschrift nicht der BGH-Rechtsprechung genügt. Hier ist aus einem Kringel nichts erkennbar. Mit dem Namen meiner Mandantin hat dieser auch wenig zu tun."*
+„*In der Sache liegt ein Identitätsdiebstahl auf der Hand. Zunächst dürfte schon keine ordnungsgemäße Aktivierung der Kreditkarte erfolgt sein, da die Unterschrift nicht der BGH-Rechtsprechung genügt. Hier ist aus einem Kringel nichts erkennbar. Mit dem Namen meiner Mandantin hat dieser auch wenig zu tun."*
 
 Sodann wurde darauf hingewiesen, dass alle Tätigkeiten zur Kreditkarte innerhalb weniger Stunden im S-Bahn-Bereich erfolgten. Da die Mandantin zum gleichen Zeitpunkt arbeiten war, kann diese die Zahlungen bei der S-Bahn Berlin GmbH nicht vorgenommen haben.
 
@@ -63,6 +63,10 @@ Es muss an dieser Stelle ausdrücklich darauf hingewiesen werden, dass negative 
 
 ## **Fazit:**
 
-Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

@@ -35,27 +35,27 @@ Seit September 2018 bestand eine Ratenzahlungsvereinbarung, welche der Betroffen
 
 Am 30.07.2019 leitete die EOS dann das Mahnverfahren ein. Der Mahnbescheid des Amtsgericht Hamburg-Altona vom 31.07.2019 wurde dem Betroffenen zugestellt. Da der Betroffene jedoch die Ratenzahlungsvereinbarung stets einhielt, legte er gegen den Mahnbescheid Widerspruch ein.
 
-## Zunächst beauftragte Kanzlei scheitert\!
+## Zunächst beauftragte Kanzlei scheitert!
 
 Nachdem für den Betroffenen bereits eine andere Anwaltskanzlei vergebens tätig war, um den Widerruf der durchzusetzen, kontaktierte der Mönchengladbacher am 07.06.2022 die Kanzlei AdvoAdvice Rechtsanwälte mbB, in der Hoffnung nun mehr Erfolg zu haben.
 
 ## Wie kam es zur Löschung?
 
-Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte für seinen Mandanten zunächst einmal mit Schreiben vom 22.06.2022 die EOS Deutscher Inkasso-Dienst GmbH, um diese zum Widerruf des Schufa-Eintrages aufzufordern und einen gesetzlich normierten Rechtfertigungsgrund bezüglich des Negativeintrages einzufordern. Ebenfalls verwies er darauf, dass der Eintrag keinem berechtigten Interesse unterfiel, da der Betroffenen bereits seit September 2018 regelmä&szlig;ig Raten zum Ausgleich der offenen Forderung zahlte.
+Rechtsanwalt Dr. Raphael Rohrmoser kontaktierte für seinen Mandanten zunächst einmal mit Schreiben vom 22.06.2022 die EOS Deutscher Inkasso-Dienst GmbH, um diese zum Widerruf des Schufa-Eintrages aufzufordern und einen gesetzlich normierten Rechtfertigungsgrund bezüglich des Negativeintrages einzufordern. Ebenfalls verwies er darauf, dass der Eintrag keinem berechtigten Interesse unterfiel, da der Betroffenen bereits seit September 2018 regelmäßig Raten zum Ausgleich der offenen Forderung zahlte.
 
-Die Gesamtforderung wurde daher über Jahre hinweg vereinbarungsmä&szlig;ig bedient und war somit auch nicht insgesamt fällig. Von einer Zahlungsunwilligkeit oder -unfähigkeit des Betroffenen war somit nicht auszugehen. Ein Grund für einen Negativeintrag lag somit nicht vor.&nbsp;Darüber hinaus erfolgte der Ersteintrag bereits bevor die EOS erstmalig an den Betroffenen herangetreten war. Mit so einer Datenverarbeitung konnte und musste der Betroffene daher nicht rechnen, zumal er keine Mahnung mit Schufa-Hinweis erhielt.
+Die Gesamtforderung wurde daher über Jahre hinweg vereinbarungsmäßig bedient und war somit auch nicht insgesamt fällig. Von einer Zahlungsunwilligkeit oder -unfähigkeit des Betroffenen war somit nicht auszugehen. Ein Grund für einen Negativeintrag lag somit nicht vor. Darüber hinaus erfolgte der Ersteintrag bereits bevor die EOS erstmalig an den Betroffenen herangetreten war. Mit so einer Datenverarbeitung konnte und musste der Betroffene daher nicht rechnen, zumal er keine Mahnung mit Schufa-Hinweis erhielt.
 
-Die EOS Deutscher Inkasso-Dienst GmbH lehnte den Widerruf des Eintrages unter Verweis auf das Schuldanerkenntnis von September 2018 jedoch ab und beharrte somit auf der Annahme, dass die Verarbeitung der Daten rechtmä&szlig;ig sei.
+Die EOS Deutscher Inkasso-Dienst GmbH lehnte den Widerruf des Eintrages unter Verweis auf das Schuldanerkenntnis von September 2018 jedoch ab und beharrte somit auf der Annahme, dass die Verarbeitung der Daten rechtmäßig sei.
 
 Rechtsanwalt Dr. Rohrmoser forderte die EOS daraufhin mit Schreiben vom 04.07.2022 abermals dazu auf, die Negativmeldung gegenüber der Schufa Holding AG zu widerrufen.
 
-Hintergrund war, dass zum einen die vorgelegte Vereinbarung am 11.09.2018 gezeichnet wurde und damit die vorherige Datenverarbeitung am 01.08.2018 als Erstmeldung nicht rechtfertigen konnte. Zum anderen war die genutzte Vereinbarung widersprüchlich, da es einerseits hie&szlig;, dass die Gesamtforderung nur bei Verzug einer Rate wieder auflebt und fällig ist und andererseits, dass die Gesamtfälligkeit nicht betroffen sein sollte.
+Hintergrund war, dass zum einen die vorgelegte Vereinbarung am 11.09.2018 gezeichnet wurde und damit die vorherige Datenverarbeitung am 01.08.2018 als Erstmeldung nicht rechtfertigen konnte. Zum anderen war die genutzte Vereinbarung widersprüchlich, da es einerseits hieß, dass die Gesamtforderung nur bei Verzug einer Rate wieder auflebt und fällig ist und andererseits, dass die Gesamtfälligkeit nicht betroffen sein sollte.
 
 Auf dieses Schreiben erfolgte von der EOS bislang keine Rückmeldung. Der Mönchengladbacher teilte jedoch am 29.08.2022 mit, dass er sich eine neue Schufa Auskunft besorgen konnte und in dieser der Negativeintrag nicht weiter vermerkt sei.
 
 ## Vertretung nur bei Experten sinnvoll und erfolgversprechend
 
-Viele Negativeintrage bei Auskunfteien sind nicht rechtmä&szlig;ig, weil sich die eintragenden Stellen nicht an die Vorgaben der Datenschutzgrundverordnung (DSGVO) halten.
+Viele Negativeintrage bei Auskunfteien sind nicht rechtmäßig, weil sich die eintragenden Stellen nicht an die Vorgaben der Datenschutzgrundverordnung (DSGVO) halten.
 
 Für die Betroffenen sind die Fehler bei der Datenverarbeitung aber nicht besonders leicht zu erkennen. Auch Rechtsanwälte, die nicht auf diesem Gebiet spezialisiert sind, erkennen die Fehler nicht oder scheitern an den Abwehrschreiben der Gegenseiten.
 
@@ -63,4 +63,8 @@ Daher macht es Sinn, einen Rechtsanwalt zu beauftragen, der sich auf die Löschu
 
 Die Experten aus der Kanzlei AdvoAdvice Rechtsanwälte mbB helfen Betroffenen auf Anfrage bei ihren Problemen mit negativen Schufa-Einträgen fachkundig und kompetent weiter.
 
-Gerne prüfen wir für Sie ob der eintragenden Stelle Fehler bei dem Negativeintrag unterlaufen sind und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie von unseren Experten Dr. Raphael Rohrmoser und Dr. Sven Tintemann unter 030 &nbsp;921 000 40 oder info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.
