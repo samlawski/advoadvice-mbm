@@ -19,7 +19,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Kanzlei AdvoAdvice aus Berlin konnte für eine Mandantin schnell die Löschung eines Negativeintrags der BNP Paribas S.A. erreichen.
 
 ## Konto bei Consors Finanz
@@ -30,12 +29,16 @@ Die betroffene Frau eröffnete ein Konto bei der Consors Finanz. Dabei wurde ein
 
 Die SCHUFA Holding AG wurde mit Schreiben vom 05.05.2020 ebenso kontaktiert, wie die eintragende BNP Paribas S.A. Eine Löschung des Eintrages konnte bereits am 22.05.2020 durch die SCHUFA Holding AG bestätigt werden.
 
-Die SCHUFA Holding AG hat nach ihrer Angabe eine Rücksprache mit der BNP Paribas S.A. gehalten und offenbar eine inhaltliche Antwort erhalten. Brisant ist, dass sich die BNP Paribas S.A. bis heute nicht bei der Rechtsanwaltskanzlei AdvoAdvice in dieser Sache gemeldet hat. Dies ist insofern fragwürdig, als dass die Datenschutzgrundverordnung die beteiligten Stellen gemä&szlig; den Artikeln 12 Abs. 3, 15 und 17 DSGVO zu einer Antwort innerhalb eines Monats verpflichtet, wenn Betroffenenrechte geltend gemacht werden.&nbsp;
+Die SCHUFA Holding AG hat nach ihrer Angabe eine Rücksprache mit der BNP Paribas S.A. gehalten und offenbar eine inhaltliche Antwort erhalten. Brisant ist, dass sich die BNP Paribas S.A. bis heute nicht bei der Rechtsanwaltskanzlei AdvoAdvice in dieser Sache gemeldet hat. Dies ist insofern fragwürdig, als dass die Datenschutzgrundverordnung die beteiligten Stellen gemäß den Artikeln 12 Abs. 3, 15 und 17 DSGVO zu einer Antwort innerhalb eines Monats verpflichtet, wenn Betroffenenrechte geltend gemacht werden.&nbsp;
 
 Durch die fehlende Rückmeldung, konnte bislang auch nicht aufgeklärt werden, wie es zu der widersprüchlichen Meldung kam.&nbsp;
 
 ## Fazit von AdvoAdvice
 
-Es kommt immer wieder vor, dass eintragende Stellen nicht oder nicht rechtzeitig auf die geltend gemachten Betroffenenrechte reagieren. Erfahrungsgemä&szlig; erhält die SCHUFA Holding AG deutlich schneller eine Antwort. Insofern ist es erfreulich, dass die SCHUFA Holding AG ihrer Verantwortung nachkommt und immer wieder Löschungen vornimmt. Gleichwohl müssten solch widersprüchliche Meldungen nach Auffassung von Dr. Sven Tintemann schon von vornherein verhindert werden. Wörtlich hei&szlig;t es: "Die wirtschaftlichen Schwierigkeiten, welche aus Negativeinträgen resultieren, können sehr umfassend sein und enorm schnell eintreten. Oftmals erfahren Betroffene erst von anderen Banken o.ä. von den Negativeinträgen. Dann sind die wirtschaftlichen Schwierigkeiten aber bereits Wirklichkeit geworden."
+Es kommt immer wieder vor, dass eintragende Stellen nicht oder nicht rechtzeitig auf die geltend gemachten Betroffenenrechte reagieren. Erfahrungsgemäß erhält die SCHUFA Holding AG deutlich schneller eine Antwort. Insofern ist es erfreulich, dass die SCHUFA Holding AG ihrer Verantwortung nachkommt und immer wieder Löschungen vornimmt. Gleichwohl müssten solch widersprüchliche Meldungen nach Auffassung von Dr. Sven Tintemann schon von vornherein verhindert werden. Wörtlich heißt es: "Die wirtschaftlichen Schwierigkeiten, welche aus Negativeinträgen resultieren, können sehr umfassend sein und enorm schnell eintreten. Oftmals erfahren Betroffene erst von anderen Banken o.ä. von den Negativeinträgen. Dann sind die wirtschaftlichen Schwierigkeiten aber bereits Wirklichkeit geworden."
 
-Um dies zu verhindern gilt es bei negativen Einträgen in Auskunfteien wie der SCHUFA Holding AG, der Boniversum Creditreform GmbH oder der infoscore consumer Data GmbH schnell zu reagieren, um die wirtschaftlichen Folgeprobleme und Ausma&szlig;e so gering wie möglich zu halten. Gerne unterstützen wir Sie dabei (030 / 921 000 40 oder info@advoadvice.de).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

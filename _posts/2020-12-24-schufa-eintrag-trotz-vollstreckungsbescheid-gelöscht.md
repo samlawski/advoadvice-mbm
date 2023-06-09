@@ -19,14 +19,13 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Viele Betroffene merken erst, wenn ein Eintrag bei der Schufa Holding AG oder einer anderen Auskunftei vorgenommen wurde, wie weitreichend die damit verbundenen Konsequenzen sind. Ein gegenüber der Rechtsanwaltskanzlei AdvoAdvice oftmals geschilderter Sachverhalt ist, dass man mal "gelbe Post" erhalten hat. Einige Zeit später hat man auf diese Post reagiert und die offene Forderung bezahlt. Hinter dieser "gelben Post" befindet sich oftmals ein Vollstreckungsbescheid.&nbsp;
 
 ## Vollstreckungsbescheid und Meldung an Auskunftei
 
-Hinter dem Vollstreckungsbescheid verbirgt sich ein ganz normaler gerichtlicher Titel. Klassischerweise denkt man bei gerichtlicher Titulierung als Laie allenfalls an ein Urteil. Ein normales Urteil erfolgt in der Regel nach einer mündlichen Verhandlung, sodass den Betroffenen klar ist, dass das Gericht endgültig über die Forderung entschieden hat. Vielen ist nicht bewusst, dass ein Vollstreckungsbescheid ebenso wie andere gerichtliche Entscheidungen, die gleiche Wirkung haben. Das hei&szlig;t, dass wen man sich gegen einen Vollstreckungsbescheid nicht wehrt, dann existiert in gewisser Hinsicht ein "Urteil" über die Forderung.
+Hinter dem Vollstreckungsbescheid verbirgt sich ein ganz normaler gerichtlicher Titel. Klassischerweise denkt man bei gerichtlicher Titulierung als Laie allenfalls an ein Urteil. Ein normales Urteil erfolgt in der Regel nach einer mündlichen Verhandlung, sodass den Betroffenen klar ist, dass das Gericht endgültig über die Forderung entschieden hat. Vielen ist nicht bewusst, dass ein Vollstreckungsbescheid ebenso wie andere gerichtliche Entscheidungen, die gleiche Wirkung haben. Das heißt, dass wen man sich gegen einen Vollstreckungsbescheid nicht wehrt, dann existiert in gewisser Hinsicht ein "Urteil" über die Forderung.
 
-Eine der Konsequenzen daraus ist, dass die Forderung nach einer gerichtlichen Titulierung regelmä&szlig;ig bei Auskunfteien eingemeldet werden darf. Davon geht die weit überwiegende Auffassung seit zwei Jahrzehnten aus. Unter dem alten Bundesdatenschutzgesetz gab es (bis Mai 2018) darüber so gut wie keine Diskussion. Heute sieht die Welt etwas anders aus, da die Vorschriften der DSGVO etwas dynamischer sind.&nbsp;
+Eine der Konsequenzen daraus ist, dass die Forderung nach einer gerichtlichen Titulierung regelmäßig bei Auskunfteien eingemeldet werden darf. Davon geht die weit überwiegende Auffassung seit zwei Jahrzehnten aus. Unter dem alten Bundesdatenschutzgesetz gab es (bis Mai 2018) darüber so gut wie keine Diskussion. Heute sieht die Welt etwas anders aus, da die Vorschriften der DSGVO etwas dynamischer sind.&nbsp;
 
 ## Tesch Inkasso Forderungsmanagement GmbH und der Negativeintrag
 
@@ -37,3 +36,9 @@ Dieser Sachverhalt wurde der Schufa Holding AG sowie der eintragenden Tesch Inka
 ## Fazit
 
 Bei Problemen mit Schufa Einträgen sowie bei "gelber Post" oder anderweitiger Gerichtspost gilt es immer schnell zu handeln. Nur wer schnell handelt, kann jahrelange Folgeprobleme verhindern. Eine Löschung kann oft durchgesetzt werden, wenn die betroffene Person sich umgehend um einen Forderungsausgleich kümmert oder anderweitig, tatsächlich oder rechtlich überzeugende Argumente hat, wieso die Forderung nicht bezahlt werden muss. Ob dies funktioniert ist aber immer eine Frage des Einzelfalles.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

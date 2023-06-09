@@ -19,7 +19,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Umzüge lassen sich im Leben nicht immer vermeiden. In der Regel stellt es auch kein Problem dar, wenn man umzieht und seine Vertragspartner über die neue Adresse informiert. Manchmal reicht dies aber nicht aus. Dann kann es zu weitreichenden Folgen kommen:
 
 ## Was ist passiert?
@@ -42,10 +41,16 @@ Rechtsanwalt Dr. Sven Tintemann kontaktierte die TargoBank und die Schufa Holdin
 
 Die Aufforderung zur Löschung an die Targobank erklärte er wie folgt:&nbsp;
 
-*"Der Betroffene ist in diesem Fall umgezogen. Die TargoBank hat dem Betroffenen gegenüber zwar gesagt, dass die Schreiben an die neue Adresse versandt worden seien. Diese sind dort aber nicht zugegangen. Nach der Rechtsprechung reicht es nicht, wenn die Schreiben blo&szlig; abgeschickt wurden. Vielmehr muss die eintragende Stelle auch beweisen, dass die Schreiben zugegangen sind. Dies konnte hier nicht erfolgen. Die Schufa Holding AG hat die Löschung des Eintrags daher umgehend vorgenommen."*
+*"Der Betroffene ist in diesem Fall umgezogen. Die TargoBank hat dem Betroffenen gegenüber zwar gesagt, dass die Schreiben an die neue Adresse versandt worden seien. Diese sind dort aber nicht zugegangen. Nach der Rechtsprechung reicht es nicht, wenn die Schreiben bloß abgeschickt wurden. Vielmehr muss die eintragende Stelle auch beweisen, dass die Schreiben zugegangen sind. Dies konnte hier nicht erfolgen. Die Schufa Holding AG hat die Löschung des Eintrags daher umgehend vorgenommen."*
 
 Bis zur Abfassung dieses Artikels (Stand: 16.10.2020) hat sich die TargoBank AG noch immer nicht auf die anwaltlichen Schreiben der Kanzlei Advoadvice gemeldet. Die Schufa Holding AG hingegen meldet sich bereits nach wenigen Tagen auf das Anspruchsschreiben und teilte mit, dass der strittige Eintrag gelöscht würde.&nbsp;
 
 ## Fazit
 
-Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen. Eine kostenfreie Ersteinschätzung Ihres Falles erhalten Sie unter 030 &nbsp;921 000 40 oder info@advoadvice.de.
+Es ist immer wieder erfreulich, wenn die Experten von AdvoAdvice Betroffenen bei ihren Problemen mit negativen Schufa-Einträgen helfen können. Nicht alle Einträge können vorzeitig gelöscht werden. Erstaunlich oft läuft bei der Einmeldung aber nicht alles so, wie es das Gesetz vorsieht. Gerne prüfen wir dies für Sie in Ihrem Fall und helfen Ihnen, den Eintrag zur Löschung zu bringen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -26,16 +26,15 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Anfang Juni 2020 konnten durch die AdvoAdvice Rechtsanwälte ein neuer Erfolg erzielt werden. Hintergrund war ein negativer SCHUFA-Eintrag, welcher durch die American Express Europe S.A. vorgenommen wurde. Der Eintrag wurde im August 2019 veranlasst und schränkte die Betroffene in der Folge in wirtschaftlicher Sicht massiv ein.
 
 ## Wie kam es zur Löschung?
 
-Rechtsanwalt Dr. Sven Tintemann kontaktierte die American Express Europe S.A. Mitte Mai und forderte diese zum Widerruf der SCHUFA-Meldung auf. Vor dem Eintrag wurde zwar das Kreditkartenkonto der Betroffenen gekündigt, weil diese gegen die Allgemeinen Geschäftsbedingungen der American Express Europe S.A. versto&szlig;en hatte. Dies alleine reicht aber nicht aus, um einen Negativeintrag bei der SCHUFA Holding AG oder einer anderen Auskunftei zu rechtfertigen.&nbsp;
+Rechtsanwalt Dr. Sven Tintemann kontaktierte die American Express Europe S.A. Mitte Mai und forderte diese zum Widerruf der SCHUFA-Meldung auf. Vor dem Eintrag wurde zwar das Kreditkartenkonto der Betroffenen gekündigt, weil diese gegen die Allgemeinen Geschäftsbedingungen der American Express Europe S.A. verstoßen hatte. Dies alleine reicht aber nicht aus, um einen Negativeintrag bei der SCHUFA Holding AG oder einer anderen Auskunftei zu rechtfertigen.&nbsp;
 
 Die Betroffene hatte eine Zahlung von ihrer Kreditkarte auf ihr PayPal-Konto überwiesen, was nach den Banken-AGB verboten ist. Die ordentliche Kündigung mit einer Zwei-Monats-Frist erfolgte kurze Zeit später. Allerdings ist Sinn und Zweck einer Meldung an eine Auskunftei, den Wirtschaftsverkehr vor zahlungsunfähigen oder zahlungsunwilligen Schuldnern zu warnen. Erst durch die Kündigung wurde der Betroffenen der Kreditrahmen gekürzt und der Restbetrag zur Zahlung fällig. Jedoch wurde offenbar schon mit Wirksamwerden der Kündigung ein entsprechender SCHUFA-Eintrag vorgenommen.
 
-Nachdem die American Express Europe S.A. durch die Rechtsanwälte AdvoAdvice kontaktiert wurde, gestand diese ein,dass das Mahnverfahren nicht ordnungsgemä&szlig; durchgeführt wurde und daher ein Widerruf der SCHUFA-Meldung erfolgt. Die daraus resultierende Löschung des Eintrages konnte dann auch zeitnah bestätigt werden.
+Nachdem die American Express Europe S.A. durch die Rechtsanwälte AdvoAdvice kontaktiert wurde, gestand diese ein,dass das Mahnverfahren nicht ordnungsgemäß durchgeführt wurde und daher ein Widerruf der SCHUFA-Meldung erfolgt. Die daraus resultierende Löschung des Eintrages konnte dann auch zeitnah bestätigt werden.
 
 ## Kann jeder Negativeintrag vorläufig gelöscht werden?
 
@@ -45,4 +44,10 @@ Ist der Eintrag jedoch in Folge eines Fehlers rechtswidrig, kann eine frühzeiti
 
 ## Fazit
 
-Es rentiert sich bei negativen Einträgen in einer Auskunftei genau hinzusehen. Oftmals sind bei der Einmeldung Fehler passiert, welche dazu führen, dass der Eintrag widerrufen und gelöscht werden kann. Sollten Sie diesbezüglich Probleme haben, stehen wir Ihnen gerne zur Verfügung (030 / 921 000 40 oder info@advoadvice.de).
+Es rentiert sich bei negativen Einträgen in einer Auskunftei genau hinzusehen. Oftmals sind bei der Einmeldung Fehler passiert, welche dazu führen, dass der Eintrag widerrufen und gelöscht werden kann.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

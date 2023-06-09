@@ -22,7 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Seit Monaten müssen sich Privat- sowie Geschäftspersonen mit den Folgen der Covid-19-Pandemie auseinandersetzen. Um schlimme wirtschaftliche Konsequenzen zu verhindern, hat die Bundesregierung ein**&nbsp;"**Gesetzes zur Abmilderung der Folgen der COVID-19-Pandemie im Zivil-, Insolvenz- und Strafverfahrensrecht" erlassen. Dass dies zwar ein guter Ansatz ist, in der Praxis aber dennoch umgesetzt werden muss, zeigt ein Fall rund um einen Schufa-Eintrag, veranlasst durch die Barclays Bank Ireland PLC Hamburg Branch.
 
 ## Kontaktaufnahme erfolglos
@@ -47,8 +46,16 @@ Nunmehr meldete sich nach etwas mehr als einem Monat die Barclays Bank Ireland P
 
 ## Anwaltliche Bewertung
 
-Rechtsanwalt Dr. Sven Tintemann kommentiert das erfolgreiche Vorgehen hier wie folgt:**&nbsp;***"Es handelt sich einmal mehr um einen Fall, welcher viele Fragen aufwirft. Der nationale Gesetzgeber hat sich bereits bemüht, Regelungen zu schaffen, um die Folgen der Corona-Pandemie abzufedern. Die Unternehmen, welche eigentlich im Zugzwang wären, haben aber offenbar keine ausreichenden Umsetzungsma&szlig;nahmen getroffen. Es hätte schon genügt, die automatisierten Kontokündigungen abzustellen. Stattdessen wurde, trotz vorbildlicher Kontaktaufnahmen mit der Bank, ein Eintrag bei der Schufa Holding AG veranlasst, ohne auf das Interesse des Betroffenen einzugehen.*
+Rechtsanwalt Dr. Sven Tintemann kommentiert das erfolgreiche Vorgehen hier wie folgt:**&nbsp;***"Es handelt sich einmal mehr um einen Fall, welcher viele Fragen aufwirft. Der nationale Gesetzgeber hat sich bereits bemüht, Regelungen zu schaffen, um die Folgen der Corona-Pandemie abzufedern. Die Unternehmen, welche eigentlich im Zugzwang wären, haben aber offenbar keine ausreichenden Umsetzungsmaßnahmen getroffen. Es hätte schon genügt, die automatisierten Kontokündigungen abzustellen. Stattdessen wurde, trotz vorbildlicher Kontaktaufnahmen mit der Bank, ein Eintrag bei der Schufa Holding AG veranlasst, ohne auf das Interesse des Betroffenen einzugehen.*
 
 *Noch erstaunlicher wird es, wenn die Barclays Bank Ireland PLC Hamburg Branch sodann gegenüber der Schufa Holding AG bestätigt haben soll, dass die Meldevoraussetzungen vorgelegen haben. Zwischen dieser "Bestätigung" und der sodann erfolgten Löschung wurden keine neuen Informationen an die Barclays Bank weitergegeben, sodass sich die Entscheidungsgrundlage nicht geändert haben kann. Dies wirft die Frage auf, weshalb hier bei der Schufa Holding AG andere Informationen seitens der Barclays Bank gegeben wurde, als diese nunmehr gegenüber AdvoAdvice vorliegen.&nbsp;*
 
 *Als Kanzlei freuen wird uns sehr, dass hier die Folgen der Covid-19-Pandemie in einem Einzelfall tatsächlich abgefedert und dem Betroffenen schnell geholfen werden konnten."*
+
+
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

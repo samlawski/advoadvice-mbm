@@ -24,7 +24,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die FitX Deutschland GmbH ist ein deutsches Fitnessunternehmen, was in Deutschland aktuell über 90 Studios betreibt und mehr als 650.000 Mitglieder hat (Quelle: [https://de.wikipedia.org/wiki/FitX](https://de.wikipedia.org/wiki/FitX)).
 
 Die Beiträge für die Mitgliedschaft bei FitX belaufen sich aktuell auf ca. 20,00 Euro pro Monat. Immer wieder wenden sich betroffene Kunden des Unternehmens an die Kanzlei AdvoAdvice, weil aus nicht bezahlten Rechnungen negativen SCHUFA-Einträge resultieren.
@@ -49,8 +48,12 @@ Erst durch hartnäckiges Nachsetzen durch die Kanzlei AdvoAdvice Rechtsanwälte 
 
 ## **Fazit**
 
-Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann empfiehlt, bei Negativeinträgen zuerst zu prüfen, ob die Forderung berechtigt und offen ist. Anschlie&szlig;end sollte die meldende Stelle dazu aufgefordert werden, den Eintrag bei der Schufa zu widerrufen. Ferner sollte eine kostenfreie Datenkopie bei der [Schufa Holding AG beantragt](https://www.meineschufa.de/site-11_3_1?dako_token=3875e4f20285d1ed1b9cd5b5d897943f926d18c199d665dea7a3a2f695b2edac&amp;time=1610550609) werden, um den konkreten Eintrag überprüfen zu können.
+Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sven Tintemann empfiehlt, bei Negativeinträgen zuerst zu prüfen, ob die Forderung berechtigt und offen ist. Anschließend sollte die meldende Stelle dazu aufgefordert werden, den Eintrag bei der Schufa zu widerrufen. Ferner sollte eine kostenfreie Datenkopie bei der [Schufa Holding AG beantragt](https://www.meineschufa.de/site-11_3_1?dako_token=3875e4f20285d1ed1b9cd5b5d897943f926d18c199d665dea7a3a2f695b2edac&amp;time=1610550609) werden, um den konkreten Eintrag überprüfen zu können.
 
 Wenn dies nicht zum Erfolg führt, ist es ratsam einen Rechtsanwalt zu beauftragen. Auch wenn die Unternehmen behaupten, dass der Eintrag berechtigt sei, ist dies oftmals nicht korrekt. Hier kann oft ein qualifizierter Anwalt mit einer schriftlichen Stellungnahme zur konkreten Rechtslage helfen.&nbsp;
 
-Gerne helfen wir Ihnen, wenn Sie ein solches Problem haben. Rufen Sie uns an und vereinbaren eine kostenfreie Erstberatung unter 030 921 000 40 oder info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

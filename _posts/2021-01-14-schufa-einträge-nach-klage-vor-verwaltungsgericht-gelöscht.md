@@ -22,7 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 # Hessischer Beauftragter für Datenschutz und Informationsfreiheit bekommt Denkzettel vom Verwaltungsgericht Wiesbaden verpasst
 
 Zwei Klagen, die die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin beim Verwaltungsgericht Wiesbaden eingereicht hatten, um negative Schufa-Einträge zur Löschung zu bringen, führen zu einer schnellen Löschung.
@@ -31,7 +30,7 @@ Sowohl die Schufa Holding AG als auch der Hessische Beauftragte für Datenschutz
 
 ### Einträge der Rechtsanwaltskanzlei Ralf Heyl und Deutschen Bank Privat- und Firmenkunden AG
 
-Den beiden Schufa-Einträgen der Mandanten lag jeweils eine Verbindung zu einer gro&szlig;en Bank zugrunde.
+Den beiden Schufa-Einträgen der Mandanten lag jeweils eine Verbindung zu einer großen Bank zugrunde.
 
 Eine Betroffene musste im Mai 2020 einen Negativeintrag der Deutschen Bank Privat- und Firmenkunden AG über 110,00 Euro feststellen. Der Eintrag war auf Februar 2020 datiert, wurde tatsächlich jedoch erst Ende April 2020 vorgenommen. Ein Forderungsausgleich erfolgte sodann Anfang Mai. Zwischen der Einmeldung der Forderung und dem Ausgleich lagen letztlich nur 10 Tage. Dennoch weigerten sich sowohl die Deutsche Bank Privat- und Firmenkunden AG als auch die Schufa Holding AG sowie der Hessische Beauftragte für Datenschutz und Informationsfreiheit eine Löschung des Eintrages zu beauftragen, anzuordnen oder durchzuführen. Die Prüfung des Hessischen Beauftragten für Datenschutz und Informationsfreiheit war keine 48 Stunden nach Eingang des dort durch AdvoAdvice eingereichten Antrags abgeschlossen und wurde negativ beschieden.
 
@@ -51,19 +50,19 @@ Statt eine tatsächliche Prüfung vorzunehmen, zog dieser sich auf den Verhalten
 
 Um eine gerichtliche Überprüfung der Entscheidung des Hessischen Beauftragten für Datenschutz und Informationsfreiheit bezüglich der Einträge bei der Schufa Holding AG herbeizuführen, reichten die Experten von AdvoAdvice im September beziehungsweise November eine Klage vor dem Verwaltungsgericht Wiesbaden ein. Der ursprüngliche Bescheid sollte aufgehoben und die Behörde angewiesen werden, eine Löschung der Negativeinträge anzuordnen.
 
-Auch in diesem Verfahren versuchte die Behörde die Rechtmä&szlig;igkeit der Einträge über den Verhaltenskodex zu rechtfertigen.
+Auch in diesem Verfahren versuchte die Behörde die Rechtmäßigkeit der Einträge über den Verhaltenskodex zu rechtfertigen.
 
 Eine inhaltlich nachvollziehbare Argumentation war aus Sicht der Kanzlei AdvoAdvice Rechtsanwälte mbB allerdings nicht gegeben.
 
 Kurz vor Jahresende erklärte die Schufa Holding AG überraschend über ihren Chefsyndikus, dass in beiden Verfahren eine Löschung der Einträge erfolge und sie sich dazu bereit erkläre, die Kosten des jeweiligen Verfahrens zu übernehmen. &nbsp;
 
-Im Sinne des Mandantenwohls wurde diesem Vorgehen umgehend zugestimmt, wenngleich der Hessische Beauftragte für Datenschutz und Informationsfreiheit taggleich versuchte, die Rechtmä&szlig;igkeit des zweiten Eintrages erneut zu rechtfertigen.
+Im Sinne des Mandantenwohls wurde diesem Vorgehen umgehend zugestimmt, wenngleich der Hessische Beauftragte für Datenschutz und Informationsfreiheit taggleich versuchte, die Rechtmäßigkeit des zweiten Eintrages erneut zu rechtfertigen.
 
 ### **Verwaltungsgericht positioniert sich klar und deutlich**
 
 Zumindest in dem zweiten Verfahren, bei dem die Forderung bereits seit mehr als 10 Jahren gespeichert war, positionierte sich die 6. Kammer des Verwaltungsgerichts Wiesbaden sehr klar und deutlich, obwohl der Rechtsstreit einvernehmlich beendet werden konnte. Die mündliche Verhandlung über die Angelegenheit hätte Mitte Januar 2021 erfolgen sollen.
 
-Das Gericht stellte klar, dass der Verhaltenskodex der Auskunfteien nicht dazu führe, dass keinerlei Einzelfallprüfung mehr erfolgen müsse. Insbesondere könne eine Abwägung zu den Grundrechten und Grundfreiheiten der betroffenen Person, so wie dies von der DSGVO gefordert wird, nicht pauschal mit&nbsp; einer Speicherfrist von drei Jahren festgelegt werden. Vielmehr sei eine Einzelfallprüfungen in manchen Kontexten dennoch durchzuführen. Das Gericht wies daraufhin, dass der Hessische Beauftragte für Datenschutz und Informationsfreiheit jedoch wohl vom Gegenteil ausgehe, was eine Einschränkung der Betroffenenrechte und einen Versto&szlig; gegen die DSGVO bedeute.
+Das Gericht stellte klar, dass der Verhaltenskodex der Auskunfteien nicht dazu führe, dass keinerlei Einzelfallprüfung mehr erfolgen müsse. Insbesondere könne eine Abwägung zu den Grundrechten und Grundfreiheiten der betroffenen Person, so wie dies von der DSGVO gefordert wird, nicht pauschal mit&nbsp; einer Speicherfrist von drei Jahren festgelegt werden. Vielmehr sei eine Einzelfallprüfungen in manchen Kontexten dennoch durchzuführen. Das Gericht wies daraufhin, dass der Hessische Beauftragte für Datenschutz und Informationsfreiheit jedoch wohl vom Gegenteil ausgehe, was eine Einschränkung der Betroffenenrechte und einen Verstoß gegen die DSGVO bedeute.
 
 ### **Fazit**
 
@@ -71,6 +70,8 @@ Der zuständige Rechtsanwalt Dr. Sven Tintemann kommentiert die Erfolge vor dem 
 
 „*Uns war in beiden Fällen von Anfang an klar, dass eine Löschung der Einträge die richtige Lösung sein musste. Umso überraschter waren wir, dass wir mit unserem Anliegen bei allen Stellen auf Granit gebissen haben. Insbesondere vom Hessischen Beauftragten für Datenschutz und Informationsfreiheit hätten wir uns hier erhofft, dass eine tatsächliche Prüfung der Betroffenenrechte und nicht nur eine oberflächliche Prüfung anhand einer freiwilligen Selbstverpflichtung der Auskunfteien erfolgt. Umso erfreulicher ist es, dass die Notwendigkeit einer solchen Prüfung nun durch das Verwaltungsgericht Wiesbaden in aller Deutlichkeit bestätigt wurde. Es ist zu hoffen, dass die Datenschutzbehörde in Hessen die Beschwerden von Betroffenen künftig ernster nimmt und ihre Bescheid besser prüft und begründet.“*
 
-Wenn auch Sie Probleme mit negativen Schufa-Einträgen haben, können Sie gerne unter 030 921 000 40 oder unter [info@advoadvice.de](mailto:info@advoadvice.de) einen Termin für eine kostenfreie Ersteinschätzung vereinbaren. Rechtsanwalt Dr. Sven Tintemann und sein Team helfen Ihnen gerne mit Fachkompetenz und fairem Rechtsrat weiter.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

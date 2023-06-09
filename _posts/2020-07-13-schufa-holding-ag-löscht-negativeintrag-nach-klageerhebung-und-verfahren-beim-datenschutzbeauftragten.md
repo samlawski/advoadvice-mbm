@@ -26,7 +26,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Manchmal ist man jahrelang in einem Themengebiet unterwegs und wird doch immer wieder überrascht. Eine solche Überraschung erlebte Dr. Sven Tintemann, Rechtsanwalt in der Kanzlei AdvoAdvice bezüglich eines SCHUFA-Eintrages. Bereits seit vielen Jahren begleitet er Betroffene von negativen Einträgen bei Auskunfteien und hilft diesen, einen Anspruch auf Löschung durchzusetzen.&nbsp;
 
 ## Negativeintrag und Klärung mit der Barclays Bank
@@ -55,8 +54,14 @@ Ende April teilte die Datenschutzbehörde mit, dass der Eintrag nunmehr durch di
 
 Das gesamte Verfahren vor zwei Gerichten überraschte selbst Dr. Sven Tintemann als Experten in Fragen des Datenschutzes. Er resümiert: "Das Verfahren verdeutlicht, dass im Rahmen von Negativeinträgen bei Auskunfteien, wie der Schufa Holding AG, noch viele Fragen ungeklärt sind. Es ist für uns als Datenschützer nicht nachvollziehbar, wieso die Schufa Holding AG sich zunächst auf die Aussage ihrer Vertragspartner verlässt, für weitere Diskussionen an diese Vertragspartner verweist und dann, wenn die Vertragspartner einen Löschantrag einreichen, diesem zunächst nicht folgen. Dass vorliegend eine Löschung der Daten erst dann erfolgte, nachdem bereits eine Klage und ein entsprechender Antrag bei der Datenschutzbehörde eingereicht wurde, wirft weitere Fragen auf."
 
-Der Rechtsstreit vor dem Landgericht München II ist allerdings noch nicht mit der Löschung des Negativeintrages erledigt. Die Klage wurde durch AdvoAdvice erweitert, mit dem Klageantrag, die Beklagte zu verurteilen, an die Klägerin einen angemessenen Schadensersatz zu zahlen, dessen Höhe in das pflichtgemä&szlig;e Ermessen des Gerichts gestellt wird, mindestens jedoch 3.000 Euro zzgl. Zinsen betragen soll. Es wird sich zeigen, wie das Verfahren hier weitergeht. Jedenfalls ist es erfreulich, dass der Negativeintrag in der Zwischenzeit zur Löschung gebracht wurde. Das Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch ist aber noch nicht gesprochen. Wir werden weiter berichten.&nbsp;
+Der Rechtsstreit vor dem Landgericht München II ist allerdings noch nicht mit der Löschung des Negativeintrages erledigt. Die Klage wurde durch AdvoAdvice erweitert, mit dem Klageantrag, die Beklagte zu verurteilen, an die Klägerin einen angemessenen Schadensersatz zu zahlen, dessen Höhe in das pflichtgemäße Ermessen des Gerichts gestellt wird, mindestens jedoch 3.000 Euro zzgl. Zinsen betragen soll. Es wird sich zeigen, wie das Verfahren hier weitergeht. Jedenfalls ist es erfreulich, dass der Negativeintrag in der Zwischenzeit zur Löschung gebracht wurde. Das Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch ist aber noch nicht gesprochen. Wir werden weiter berichten.&nbsp;
 
 ## *Update (18.09.2020):*
 
 Ein Urteil in Bezug auf die Frage nach einem Schadensersatzanspruch war nicht erforderlich, da sich die Parteien unterdessen vergleichsweise darauf verständigt haben, dass ein solcher nicht zu leisten ist.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

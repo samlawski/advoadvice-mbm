@@ -21,7 +21,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Ende August wandte sich ein 53-jähriger Mann an die Kanzlei AdvoAdvice Rechtsanwälte. Der Mann schilderte, dass er einen Negativeintrag bei der Schufa Holding AG, veranlasst durch die Hanseatic Bank GmbH & Co. KG feststellen musste. Der Eintrag belief sich auf einen Betrag von knapp über 300 Euro und wurde vom Betroffenen unmittelbar nach Kenntnisnahme ausgeglichen.
 
 ## Keine Kenntnis, kein Eintrag
@@ -36,4 +35,8 @@ Der Negativeintrag wurde daher kurze Zeit später durch die Hanseatic Bank wider
 
 Rechtsanwalt Dr. Sven Tintemann meint hierzu:&nbsp;*"Auch wenn über den genauen Grund für den Widerruf nur spekuliert werden kann, dürfte dieser darin begründet liegen, dass ein Zugang von Mahnschreiben nicht nachgewiesen werden konnte. Dem Betroffene dürfte es aber auch entgegen gekommen sein, dass er die Forderung sofort nach Kenntnis bezahlt hatte. Es bestand daher schlicht keinen Grund, an dem Negativeintrag bei der Schufa Holding AG festzuhalten."*
 
-Sollten auch Sie Schwierigkeiten mit einem Negativeintrag bei einer Auskunftei haben, stehen wir Ihnen gerne zur Verfügung. Vereinbaren Sie unter 030 / 921 000 40 ein kostenfreies Erstgespräch.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

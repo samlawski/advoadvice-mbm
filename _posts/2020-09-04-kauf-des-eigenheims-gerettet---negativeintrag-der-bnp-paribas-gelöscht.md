@@ -18,7 +18,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Im Juli 2020 musste ein Betroffener aus Nordrhein-Westfalen knapp drei Wochen, um einen schon fast abgeschlossenen Immobilienkauf in Berlin bangen. Der Betroffene hat für sich und seine Familie bereits eine gute Immobilie gefunden. Der Umzug in die Hauptstadt war bereits geplant. Die Verträge waren so gut wie abgeschlossen, als die Hausbank des Betroffenen diesem mitteilte, dass eine Immobilienfinanzierung aufgrund eines Negativeintrages bei der Schufa Holding AG nicht möglich sei. Der bereits vereinbarte Notartermin drohte daher zu platzen. Ein Notfall, der dringende anwaltliche Hilfe erforderte.&nbsp;
 
 ## Mehr Fragen als Antworten
@@ -35,6 +34,12 @@ Der Negativeintrag wurde danach gelöscht und der Finanzierung der Immobilie in 
 
 Nicht jede offene Forderung darf in den Datenbestand der Schufa Holding AG übermittelt werden. Vielmehr muss aus dem Gesamtverhalten der betroffenen Person ein Rückschluss auf eine Zahlungsunwilligkeit oder eine&nbsp; Zahlungsunfähigkeit gezogen werden können.
 
-Zumeist orientieren sich Unternehmen an dem Katalog des &sect; 31 Abs. 2 BDSG, in welchem fünf verschiedene Alternativen aufgeführt sind, wann dies möglich ist. Eine der fünf Alternativen setzt zwei Mahnungen im Abstand von mindestens vier Wochen und einen Hinweis auf die Datenübermittlung voraus (Nr. 4). Dies wäre vorliegend wohl die einzig denkbare Alternative gewesen, welche letztlich aber nicht eingegriffen hat.&nbsp;
+Zumeist orientieren sich Unternehmen an dem Katalog des § 31 Abs. 2 BDSG, in welchem fünf verschiedene Alternativen aufgeführt sind, wann dies möglich ist. Eine der fünf Alternativen setzt zwei Mahnungen im Abstand von mindestens vier Wochen und einen Hinweis auf die Datenübermittlung voraus (Nr. 4). Dies wäre vorliegend wohl die einzig denkbare Alternative gewesen, welche letztlich aber nicht eingegriffen hat.&nbsp;
 
 Da der Betroffene gar keine Schreiben erhielt, konnte ein Widerruf und folglich auch eine Löschung des Eintrages sehr zügig durchgesetzt werden. Einem Umzug nach Berlin ins Eigenheim steht nun nichts mehr im Weg.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

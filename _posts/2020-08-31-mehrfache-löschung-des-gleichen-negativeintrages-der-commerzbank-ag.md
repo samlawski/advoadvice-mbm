@@ -22,7 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Im Juli 2020 wurde Rechtsanwalt Dr. Sven Tintemann mit der Bitte um "Löschung eines Schufa-Eintrages" kontaktiert. Dabei handelte es sich ausweislich der Schufa-Datenkopie um einen Eintrag der Commerzbank AG GRM Intensive Care. Die Forderung wurde augenscheinlich erstmalig im Januar 2019 gespeichert.
 
 ## Mehrmals gleicher Eintrag
@@ -38,3 +37,9 @@ Das eigentliche Ziel des Mandanten ist hier noch nicht erreicht. Die Löschung d
 Die Erfahrung von Dr. Sven Tintemann zeigt, dass sich Unternehmen schwer tun, Löschungen gegenüber der Schufa zu beantragen und automatisierte Forderungensmeldungen künftig zu unterlassen. Dennoch gibt es Konstellationen, in denen genau dies aber notwendig ist.&nbsp;
 
 Wir werden an der Sache dran bleiben und zu gegebener Zeit weiter berichten.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

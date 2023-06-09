@@ -23,7 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Eine allgemeine Faustregel bei der Löschung von Negativeinträgen in Auskunfteien ist, dass es besonders schwer wird, wenn die Forderung tituliert wurde. Eine Titulierung ist eine gerichtliche Entscheidung über eine Forderung. Klassischerweise handelt es sich dabei um ein "normales" Gerichtsurteil. Um eine Meldung an eine Auskunftei zu rechtfertigen, ist es aber auch ausreichend, wenn ein anderer Vollstreckungstitel vorliegt. Zumeist handelt es sich dabei um einen Vollstreckungsbescheid, der nach einem gerichtlichen Mahnverfahren gelassen wird.&nbsp;&nbsp;
 
 ## Alte Forderung - Bestehender Titel?
@@ -42,4 +41,10 @@ Aus rechtlicher Sicht dürfte es im Übrigen keinen Unterschied machen, ob der V
 
 ## Fazit
 
-Gleichzeitig gilt auch unter der Datenschutz-Grundverordnung (DSGVO), dass titulierte Forderungen deutlich schwerer aus dem Datenbestand von Auskunfteien gelöscht werden können. Dies hängt schlicht damit zusammen, dass die Forderung gerichtlich bestätigt wurde. Es müssen daher schon au&szlig;ergewöhnliche Umstände zusammenkommen, um eine erfolgreiche Löschung durchzusetzen. Gerne prüfen wir dies für Sie an Ihrem jeweiligen Einzelfall. Kontaktieren Sie uns unter 030 / 921 000 40 oder info@advoadvice.de.
+Gleichzeitig gilt auch unter der Datenschutz-Grundverordnung (DSGVO), dass titulierte Forderungen deutlich schwerer aus dem Datenbestand von Auskunfteien gelöscht werden können. Dies hängt schlicht damit zusammen, dass die Forderung gerichtlich bestätigt wurde. Es müssen daher schon außergewöhnliche Umstände zusammenkommen, um eine erfolgreiche Löschung durchzusetzen.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -22,7 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Im September wandte sich eine türkischstämmige Frau an die Rechtsanwaltskanzlei AdvoAdvice. Völlig unerklärlich musste sie feststellen, dass sie seitens der Landebank Berlin mit einer Forderung konfrontiert wurde, zu welcher auch ein Schufa-Eintrag erfolgt war.
 
 ## Hintergrund
@@ -43,7 +42,7 @@ Leider benötigte die Allianz Rechtsschutzversicherung der Betroffenen fast drei
 
 Mitte September konnten dann sowohl die Landesbank Berlin wie auch die Schufa Holding AG kontaktiert und mit dem Sachverhalt konfrontiert werden.
 
-Die Landesbank Berlin lie&szlig; recht schnell erklären, dass diese keine Daten zu der betroffenen Mandantin an die Schufa Holding AG gemeldet hatte. Dies dürfte insofern richtig sein, als dass die Forderung auch nicht durch die betroffene Mandantin verursacht wurde.
+Die Landesbank Berlin ließ recht schnell erklären, dass diese keine Daten zu der betroffenen Mandantin an die Schufa Holding AG gemeldet hatte. Dies dürfte insofern richtig sein, als dass die Forderung auch nicht durch die betroffene Mandantin verursacht wurde.
 
 Die Schufa Holding AG bestätigte ebenso zeitnah, dass die Daten bedauerlicher Weise fehlerhaft der Betroffenen zugeordnet wurden. Eine Korrektur der Daten werde umgehend veranlasst.
 
@@ -51,4 +50,10 @@ Die Schufa Holding AG bestätigte ebenso zeitnah, dass die Daten bedauerlicher W
 
 Der vorliegende Fall verdeutlicht, dass es manchmal zu Namensverwechslungen und hierdurch zu einem negativen Eintrag bei einer Auskunftei kommen kann.&nbsp;
 
-Hier ist es natürlich möglich, sich gegen diese unberechtigten Einträge zu wehren. Personenverwechslungen bei der Schufa Holding AG selbst lassen sich tatsächlich nicht zu 100 % ausschlie&szlig;en. Insofern ist es erfreulich, dass die Schufa im vorliegenden Fall schnell reagiert und den Fehler eingeräumt hat.
+Hier ist es natürlich möglich, sich gegen diese unberechtigten Einträge zu wehren. Personenverwechslungen bei der Schufa Holding AG selbst lassen sich tatsächlich nicht zu 100 % ausschließen. Insofern ist es erfreulich, dass die Schufa im vorliegenden Fall schnell reagiert und den Fehler eingeräumt hat.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

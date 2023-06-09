@@ -22,7 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Eine tatsächlich bestehende Falle für Geschäftsführer und andere Inhaber von "Firmen-Kreditkarten" besteht darin, dass die Karteninhaber nach den Banken-AGB für die Kartennutzung mithaften.
 
 Konkret bedeutet dies, dass Forderungen oftmals nicht nur vom eigentlichen Unternehmen sondern auch unmittelbar von den Karteninhabern gefordert werden. Erfolgt ein Zahlungsausgleich nicht, kann daraus letztlich ein negativer Eintrag bei einer Auskunftei wie z.B. der Schufa Holding AG, Infoscore Consumer Date GmbH, Creditreform Boniversum GmbH oder Crif Bürgel folgen.
@@ -37,7 +36,7 @@ Da der Betroffene davon ausging, dass die GmbH die Beträge zu bezahlen hatte, u
 
 ## Kurzfristige Löschung erzielt
 
-Am 01.04.2020 kontaktierte Rechtsanwalt Dr. Sven Tintemann die Deutsche Kreditbank AG und forderte diese zum Widerruf des Negativeintrages auf. Dies wurde ma&szlig;geblich damit begründet, dass gegenüber dem Betroffenen keine ausreichende Kündigungslage vorlag und dieser auch nicht ausreichend gemahnt wurde. Überdies wurden nach Einschätzung von Dr. Tintemann die Voraussetzungen für einen ordnungsgemä&szlig;en Warnhinweis nicht beachtet.
+Am 01.04.2020 kontaktierte Rechtsanwalt Dr. Sven Tintemann die Deutsche Kreditbank AG und forderte diese zum Widerruf des Negativeintrages auf. Dies wurde maßgeblich damit begründet, dass gegenüber dem Betroffenen keine ausreichende Kündigungslage vorlag und dieser auch nicht ausreichend gemahnt wurde. Überdies wurden nach Einschätzung von Dr. Tintemann die Voraussetzungen für einen ordnungsgemäßen Warnhinweis nicht beachtet.
 
 Bereits knapp eine Woche später meldete sich die zwischenzeitlich mit dem Forderungseinzug beauftragte Forderungsmanagement Potsdam GmbH bei der Kanzlei AdvoAdvice und bestätigte, dass die Löschung des Eintrages nunmehr bei der Schufa Holding AG beantragt worden sei.
 
@@ -49,6 +48,8 @@ Dr. Sven Tintemann nahm diesen Fall zum Anlass nochmals explizit darauf hinzuwei
 
 Negative Einträge in Auskunfteien wie der Schufa Holding AG, der infoscore Consumer Data GmbH oder der Creditreform Boniversum GmbH können dann auch durchaus folgen. Um dies zu verhindern, sollte man sich auch in Streitfällen immer zügig mit seinem Arbeitgeber auseinandersetzen, um weitreichendere Probleme zu verhindern.
 
-Sollte bereits ein negativer Eintrag bei einer Auskunftei vorgenommen worden sein, helfen wir Ihnen gerne, die dazugehörigen Probleme zu lösen. Insbesondere für die Beseitigung von Negativeinträgen stehen wir Ihnen gerne zur Verfügung. Für eine kostenfreie Ersteinschätzung können Sie uns gerne kontaktieren (030 / 921 000 40&nbsp; oder info@advoaadvice.de).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

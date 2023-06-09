@@ -23,7 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Eine junge Frau aus Hannover musste im November 2020 feststellen, dass die Ferratum Bank (Unternehmenssitz auf Malta) einen negativen Schufa Eintrag zu ihrer Person vorgenommen hatte. Der Negativeintrag wurde auf das Ereignisdatum Dezember 2019 gemeldet. Zunächst hatte die Betroffene einen Kredit über wenige hundert Euro bei der Ferratum Bank in Anspruch genommen.
 
 Bei der Rückzahlung kam es zu leichten Schwierigkeiten, woraufhin die Ferratum Bank plc die Firma Alektum GmbH mit der Forderungseinziehung beauftragte. Sowohl die Fälligstellung des Betrages als auch der Forderungsverkauf wurden am gleichen Tag in den Schufa-Datenbestand eingemeldet.
@@ -44,10 +43,14 @@ Vor der Aufnahme eines solche Kredites sollte man daher genau überlegen, ob die
 
 **Fazit**
 
-Nach Einschätzung von Rechtsanwalt Dr. Sven Tintemann besteht in der Aufnahme der Mikrokredite ein unverhältnismä&szlig;ig hohes Risiko.
+Nach Einschätzung von Rechtsanwalt Dr. Sven Tintemann besteht in der Aufnahme der Mikrokredite ein unverhältnismäßig hohes Risiko.
 
 Anwalt Tintemann rät:
 
 „Neben den hohen Kosten der eigentlichen Darlehensrückzahlung, besteht immer die Gefahr, dass der Kredit nicht zurückgeführt werden kann. Aufgrund der kurzen Laufzeiten und der oftmals bestehenden Pflicht, weitere Gebühren zu bezahlen, wenn ein betroffener die Forderung nicht sofort zurückzahlen kann, kommt es immer wieder zu einem riskanten Dominoeffekt. So werden aus überschaubaren Kreditsummen oft hohe Forderungen und daraus resultieren schnell Einträge bei Auskunfteien.“
 
-Sollten Sie Probleme mit negativen Einträgen bei Auskunfteien haben, insbesondere solchen, die aus Mikrokrediten stammen, stehen wir Ihnen mit fairem Rechtsrat im Rahmen einer kostenfreien Ersteinschätzung zur Verfügung unter 030 921 000 40 oder info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

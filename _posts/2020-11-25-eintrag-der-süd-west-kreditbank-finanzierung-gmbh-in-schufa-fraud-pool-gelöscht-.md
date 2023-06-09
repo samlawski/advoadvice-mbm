@@ -20,7 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Einträge im Schufa-Fraud-Pool können hiervon betroffene Personen stark belasten und führen unter Umständen zu Problemen bei dem Abschluss oder der Verlängerung von Darlehen.&nbsp;
 
 ## Eintrag wegen Auffälligkeit bei Kontoauszügen
@@ -45,6 +44,10 @@ Der Eintragsgrund Auffälligkeit Kontoauszüge war weder für den betroffenen Ma
 
 Der Kommentar des Experten Dr. Tintemann zu dem Vorgang: "Leider stellen wir immer wieder fest, dass Banken Vorgänge, die Ihnen dubios erscheinen, ohne eine Rücksprache mit dem Betroffenen hierüber zu halten, beim Schufa-Fraud-Pool melden. Das sehen wir als Anwälte kritisch, da in Deutschland immer noch in Bezug auf strafrechtlich auffälliges Verhalten die Unschuldsvermutung gilt. Betroffene sollten sich daher in jedem Fall anwaltlichen Rat einholen, um ggf. gegen den Eintrag vorzugehen."
 
-Die Kanzlei AdvoAdvice konnte schon mehreren Mandanten helfen, Einträge im Schufa-Fraud-Pool zur Löschung zu bringen. Wenn auch Sie Fragen hierzu haben, wenden Sie sich gerne an info@advoadvice.de oder rufen uns an unter 030 921 000 40.&nbsp;
+Die Kanzlei AdvoAdvice konnte schon mehreren Mandanten helfen, Einträge im Schufa-Fraud-Pool zur Löschung zu bringen.
 
-&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

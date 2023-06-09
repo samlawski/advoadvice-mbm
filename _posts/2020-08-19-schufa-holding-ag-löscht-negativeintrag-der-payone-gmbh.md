@@ -23,7 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Das Leben schreibt seine eigenen Geschichten. Dazu gehören leider auch die weniger erfreulichen Ereignisse, wie schwierige Lebensphasen und Trauerfälle.
 
 ## Hintergrund des Eintrages
@@ -40,7 +39,7 @@ In rechtlicher Hinsicht scheint das Problem gewesen zu sein, dass eine Rate sche
 
 Aufgrund der Reihenfolge der Tage (Feiertag und Wochenende) konnte die Zahlung bei der Bank jedoch erst am vierten und nicht bereits innerhalb der ersten drei Tage des Monats verbucht werden. Daraus resultierend nahm das Übel offenbar seinen Lauf. Nachweislich wurde jedoch sowohl die Rate in diesem als auch in den Folgemonaten ausgeglichen, sodass die Forderungsangelegenheit bereits kurze Zeit später insgesamt bezahlt und somit erledigt war.
 
-In der sich anschlie&szlig;enden Diskussion stellte sich Rechtsanwalt Dr. Sven Tintemann, Experte für Einträge bei Auskunfteien, vehement auf den Standpunkt, dass die Forderungsmeldung im Rahmen der durchzuführenden Interessenabwägung nach der DSGVO nicht hätte erfolgen dürfen. Dies vor allem deshalb, weil die Gesamtumstände und die Sicht der Betroffenen zu berücksichtigen gewesen wären. Die Gesamtumstände stellten sich hier aus Sicht von Anwalt Tintemann als eindeutig heraus und zwar zu Gunsten seiner Mandantin.
+In der sich anschließenden Diskussion stellte sich Rechtsanwalt Dr. Sven Tintemann, Experte für Einträge bei Auskunfteien, vehement auf den Standpunkt, dass die Forderungsmeldung im Rahmen der durchzuführenden Interessenabwägung nach der DSGVO nicht hätte erfolgen dürfen. Dies vor allem deshalb, weil die Gesamtumstände und die Sicht der Betroffenen zu berücksichtigen gewesen wären. Die Gesamtumstände stellten sich hier aus Sicht von Anwalt Tintemann als eindeutig heraus und zwar zu Gunsten seiner Mandantin.
 
 Das hartnäckige Argumentieren und Nachfassen zahlte sich hierbei aus. Der Eintrag durch die PayOne GmbH wurde nach Prüfung der vorgebrachten Argumente durch die Schufa Holding AG gelöscht. Für die Betroffen, die den Vorgang schon verloren geglaubt hatte, eine unerwartete und freudige Wendung des Schicksals, welches ihr in der letzten Zeit eher übel mitgespielt hatte.&nbsp;
 
@@ -50,6 +49,8 @@ Im Ergebnis freute sich das Team der Rechtsanwaltskanzlei AdvoAdvice rund um Rec
 
 Dr. Tintemann fasste mit Blick auf die eigene Arbeit die Sache wie folgt zusammen:&nbsp;*"Nicht jeder Negativeintrag bei der Schufa Holding AG oder einer anderen Auskunftei kann vorzeitig gelöscht werden. Wir haben es uns aber zur Aufgabe gemacht, jede noch so kleine Möglichkeit zur Löschung zu finden und diese auch entsprechend durchzusetzen. Eine Schema-F-Abarbeitung, wie sie&nbsp; im Internet von teils zweifelhaften Anbietern und leider auch von anderen Rechtsanwälten angeboten wird, ist dabei nicht hilfreich, wie man am vorliegenden Fall sieht."*
 
-Sollten auch Sie Hilfe bei der Beseitigung von Negativeinträgen aus Auskunfteien benötigen, stehen wir Ihnen gerne zur Verfügung unter 030 / 921 000 40 oder per Emaill unter info@advoadvice.de.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
