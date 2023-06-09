@@ -37,7 +37,7 @@ Daraufhin ging die Betroffene direkt zu ihrer Bank und beglich am 15.08.2022 den
 
 ## Erneuter Negativeintrag
 
-Am 01.09.2022 wollte die Betroffene dann die letzten zwei Raten auf einmal zahlen. Jedoch war dies nicht möglich, da es hie&szlig;, dass die Forderung erledigt wäre und die Betroffene nichts mehr tun müsste.
+Am 01.09.2022 wollte die Betroffene dann die letzten zwei Raten auf einmal zahlen. Jedoch war dies nicht möglich, da es hieß, dass die Forderung erledigt wäre und die Betroffene nichts mehr tun müsste.
 
 Als die Betroffene daraufhin abermals Mahnungen per Mail sowie SMS erhielt, mit der Aufforderung die Zahlung unverzüglich zu leisten, obwohl ihr weiterhin angezeigt wurde, die Forderung wäre erledigt, beglich die Betroffene umgehend am 07.09.2022 den angemahnten Zahlungsrückstand in Höhe von 256,50 Euro.
 
@@ -45,7 +45,7 @@ Jedoch veranlasste die Ferratum Bank am 01.09.2022 erneut einen negativen Schufa
 
 Aufgrund des erneuten Negativvermerks im Datenbestand der Schufa Holding AG wurden der Betroffenen&nbsp; aus Mainz in der Zwischenzeit zwei Kreditkarten gesperrt, die diese jedoch dringend für anstehende Geschäftsreisen benötigte.
 
-Da die Betroffene ihren Negativeintrag aus diesem Grund umgehend gelöscht haben wollte, kontaktierte sie anschlie&szlig;end die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin, die auch sofort tätig wurde.
+Da die Betroffene ihren Negativeintrag aus diesem Grund umgehend gelöscht haben wollte, kontaktierte sie anschließend die Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin, die auch sofort tätig wurde.
 
 ## Wie kam es zur Löschung?
 
@@ -65,8 +65,8 @@ Sollten Sie nach Abwicklung eines Micro-Kredits von einem Eintrag bei der Schufa
 
 Besonders wichtig ist dann schnelles und konsequentes Handeln, um eine zeitnahe Eintragslöschung wie im vorliegenden Fall zu erreichen. Sollte der Eintrag nicht zeitnah gelöscht werden, muss gegen den Microkredit-Anbieter, auch wenn dieser seinen Sitz im Ausland hat, ein Gerichtsverfahren geführt werden, um die Löschung des Negativeintrags zu erreichen.&nbsp;
 
-Rechtsanwalt Dr. Raphael Rohrmoser und Rechtsanwalt Dr. Sven Tintemann beraten Sie gerne im Wege einer kostenfreien telefonischen Ersteinschätzung. Rufen Sie gerne an unter 030 921 000 40 oder schreiben Sie eine Email, am besten gleich unter Beifügung Ihrer Schufa-Auskunft, an info@advoadvice.de.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-&nbsp;
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.

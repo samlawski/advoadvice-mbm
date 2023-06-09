@@ -29,7 +29,7 @@ Der Toyota der Betroffenen wurde durch diese vier Wochen vor Ende der Laufzeit d
 
 Als diese daraufhin bei der Toyota Kredit Bank nachfragte, wo die Rechnung bliebe, wurde ihr lediglich mitgeteilt, dass im System der Toyota Kreditbank GmbH die Abgabe des Autos nicht erkannt werden konnte und die Betroffene daher weiterhin abwarten sollte.
 
-Nachdem die Betroffene dahingehend mehrere Wochen lang keine Rückmeldung erhielt, erhielt sie wie aus heiterem Himmel als Nächstes einen Mahnbescheid zugestellt. Gegen den Mahnbescheid legte die Berlinerin fristgemä&szlig; Widerspruch ein, sodass sich schlie&szlig;lich die Toyota Kreditbank bei der Betroffenen mit einem Angebot zur Ratenzahlung meldete. Diesem stimmt die Betroffene auch zu. Zudem wurde ihr mehrfach versichert, dass ihr dadurch, dass die Abschlussrechnung mit der letzten Leasingrate zusammengerechnet werde, keine Nachteile entstehen würden.
+Nachdem die Betroffene dahingehend mehrere Wochen lang keine Rückmeldung erhielt, erhielt sie wie aus heiterem Himmel als Nächstes einen Mahnbescheid zugestellt. Gegen den Mahnbescheid legte die Berlinerin fristgemäß Widerspruch ein, sodass sich schließlich die Toyota Kreditbank bei der Betroffenen mit einem Angebot zur Ratenzahlung meldete. Diesem stimmt die Betroffene auch zu. Zudem wurde ihr mehrfach versichert, dass ihr dadurch, dass die Abschlussrechnung mit der letzten Leasingrate zusammengerechnet werde, keine Nachteile entstehen würden.
 
 Dennoch hatte die Toyota Kreditbank GmbH daraufhin am 14.10.2021 einen Negativeintrag bei der Schufa Holding AG lanciert, der für die Betroffene selbstverständlich mit Nachteilen verbunden war, da sie im Schufa-Datenbestand praktisch als kreditunwürdig dargestellt wurde.
 
@@ -41,13 +41,13 @@ Dazu kontaktierte er zunächst mit Schreiben vom 13.01.2022 die Toyota Kreditban
 
 Rechtlich begründete er den Anspruch auf Widerruf damit, dass die Betroffene sich zu keinem Zeitpunkt in einem Zahlungsverzug befunden hatte. Das berechtigte Interesse an einer Speicherung ihrer Daten bei der Schufa Holding AG lag daher nicht vor, zumal die Betroffene weder ausreichend Mahnungen noch einen entsprechenden Hinweis über den bevorstehenden Negativeintrag erhalten hatte.
 
-Nachdem die Toyota Kreditbank jedoch mitteilte, dass sie weiterhin der Ansicht sei, der Eintrag sei rechtmä&szlig;ig erfolgt, musste Dr. Rohrmoser erneut nachsetzen.
+Nachdem die Toyota Kreditbank jedoch mitteilte, dass sie weiterhin der Ansicht sei, der Eintrag sei rechtmäßig erfolgt, musste Dr. Rohrmoser erneut nachsetzen.
 
-Da die Toyota Kreditbank GmbH die erneute Aufforderung zum Widerruf des Eintrags trotz zweifacher Erinnerung unbeantwortet lie&szlig;, kontaktierte Anwalt Rohrmoser im Folgenden die Schufa Holding AG direkt, um diese nun auf direktem Wege zur Löschung des Eintrages aufzufordern.
+Da die Toyota Kreditbank GmbH die erneute Aufforderung zum Widerruf des Eintrags trotz zweifacher Erinnerung unbeantwortet ließ, kontaktierte Anwalt Rohrmoser im Folgenden die Schufa Holding AG direkt, um diese nun auf direktem Wege zur Löschung des Eintrages aufzufordern.
 
 Am 23.11.2022 teilt die Schufa Holding AG dann erfreulicherweise mit, dass der Eintrag ohne Anerkennung einer Rechtspflicht gelöscht wurde.
 
-Die Toyota Kreditbank GmbH hat sich bis zum Zeitpunkt der Veröffentlichung dieses Beitrags nicht erneut zu dem Sachverhalt geäu&szlig;ert und sieht sich in Kürze mit einem Kostenerstattungsanspruch konfrontiert.&nbsp;
+Die Toyota Kreditbank GmbH hat sich bis zum Zeitpunkt der Veröffentlichung dieses Beitrags nicht erneut zu dem Sachverhalt geäußert und sieht sich in Kürze mit einem Kostenerstattungsanspruch konfrontiert.&nbsp;
 
 ## Praxistipp von AdvoAdvice
 
@@ -57,6 +57,8 @@ Hier zahlt es sich aus, sich an eine spezialisierte und erfahrende Anwaltskanzle
 
 Im konkreten Fall hat sich die Hartnäckigkeit von Rechtsanwalt Dr. Raphael Rohrmoser ausgezahlt und führt zur Eintragslöschung durch die Schufa Holding AG.&nbsp;
 
-Nehmen Sie daher bei einem Bedarf ein rechtlicher Unterstützung gerne Kontakt zu den Experten von AdvoAdvice aus unter 030 921 000 40 oder schicken Sie eine Email an info@advoadvice.de. Wir bieten Ihnen an, Ihre Schufa-Problematik im Wege einer kostenfreien Ersteinschätzung zu begutachten.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Unsere Experten in Sachen Datenschutz und Schufa-Recht Dr. Sven Tintemann und Dr. Raphael Rohrmoser erreichen Sie auch unter 030 921 000 40.
