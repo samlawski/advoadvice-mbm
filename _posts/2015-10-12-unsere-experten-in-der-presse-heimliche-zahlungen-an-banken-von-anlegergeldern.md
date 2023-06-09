@@ -31,3 +31,7 @@ Rechtsanwalt Dr. Tintemann - Beitrag vom 14.09.2015 in [portfolio international]
 ![Portfolio International Logo - Fremde Marke](/uploads/versions/portfolio-international---x----200-48x---.png)
 
 Wird einer Bank nachgewiesen, dass sie sich die Vermittlung von Kapitalanlagen heimlich mit dem Geld der Anlager als "Provision" belohnen ließ, so hat der Anleger ein Anspruch auf Schadensersatz. Es handelt sich hierbei um sogenannte Kick-Back-Geschäfte.
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

@@ -33,4 +33,6 @@ Dr. Tintemann, sachbearbeitender Partner in der Kanzlei AdvoAdvice Rechtsanwält
 
 Bei Negativeinträgen rentiert es sich, generell einen Rechtsanwalt zu kontaktieren, da die Voraussetzungen für einen berechtigten Negativeintrag auf einer sehr abstrakt-rechtlichen Ebene zu prüfen sind.“
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

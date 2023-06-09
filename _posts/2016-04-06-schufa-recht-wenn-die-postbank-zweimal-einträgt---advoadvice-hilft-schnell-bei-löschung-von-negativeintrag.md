@@ -41,4 +41,6 @@ Personen, die von negativen Einträgen bei Auskunfteien (z.B. Schufa, Bürgel, C
 
 Für eine Anfrage stellt die Kanzlei AdvoAdvice Rechtsanwälte mbB extra einen speziell entwickelten [Fragebogen für Negativeinträge bei Auskunfteien](/uploads/dokumente/Fragebogen_bei_Negativeintr_gen_in_einer_Wirtschaftsauskunftei.pdf "Fragebogen Negativeinträge") zur Verfügung.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

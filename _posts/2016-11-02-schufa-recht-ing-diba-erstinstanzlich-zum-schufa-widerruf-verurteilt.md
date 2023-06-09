@@ -58,6 +58,8 @@ Die Entscheidung des Landgerichts Frankfurt (Oder) hat ausschlaggebenden Charakt
 
 Oft ist der Weg lang und beschwerlich, sich von einem negativen SCHUFA – Eintrag zu befreien. Dennoch sollten Betroffene die Auseinandersetzung mit Banken, Inkassofirmen, Telekommunikationsunternehmen und sonstigen eintragenden Stellen nicht scheuen, um einen negativen SCHUFA – Eintrag zur Löschung zu bringen.
 
-Die Rechtsanwälte der Anwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten haben sich auf die Vorschriften des Bundesdatenschutzgesetzes spezialisiert und schon vielen Betroffenen geholfen, Negativeeintrag bei Auskunfteien (z.B. Schufa, Bürgel, Creditreform etc.) zur Löschung zu bringen. Dabei musste nicht immer geklagt werden. Oft können bereits außergerichtlich Widerrufe oder Löschungen von Negativeinträgen erreicht werden.
+Die Rechtsanwälte der Anwaltskanzlei AdvoAdvice Partnerschaft von Rechtsanwälten haben sich auf die Vorschriften des Bundesdatenschutzgesetzes spezialisiert und schon vielen Betroffenen geholfen, Negativeintrag bei Auskunfteien (z.B. Schufa, Bürgel, Creditreform etc.) zur Löschung zu bringen. Dabei musste nicht immer geklagt werden. Oft können bereits außergerichtlich Widerrufe oder Löschungen von Negativeinträgen erreicht werden.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

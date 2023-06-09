@@ -33,4 +33,6 @@ Wer muss nachweisen, dass eine Mahnung zugestellt wurde? Wann ist ein Nachweis �
 
 Unsere Experten werten die aktuelle Rechtsprechung aus und geben wertvolle Hinweise zur Anwendung und Auslegung von § 28a Bundesdatenschutzgesetz (BDSG).
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

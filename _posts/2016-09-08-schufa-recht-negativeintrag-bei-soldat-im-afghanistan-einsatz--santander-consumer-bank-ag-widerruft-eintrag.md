@@ -42,6 +42,8 @@ Dr. Sven Tintemann, Rechtsanwalt und Fachanwalt für Bank- und Kapitalmarktrecht
 
 Falls Sie auch Probleme mit einem Schufa-Eintrag haben, sollten Sie diesen umgehend von einem darauf spezialisierten Anwalt untersuchen lassen. Häufig werden die gesetzlichen Vorgaben nicht in vollem Maße erfüllt, weshalb man gegen solche Einträge noch vorgehen kann. Aber auch hier zählt es, dass man sich schnell um die Angelegenheit kümmert.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
 
 Bei weiteren Fragen, können Sie uns zu den üblichen Bürozeiten unter 030-921 00 40 erreichen und eine kostenlose Ersteinschätzung zu Ihrer Frage anfordern.

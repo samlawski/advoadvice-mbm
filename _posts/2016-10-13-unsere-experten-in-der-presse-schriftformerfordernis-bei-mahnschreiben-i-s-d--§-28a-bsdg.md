@@ -32,4 +32,6 @@ Bedarf eine Mahnung i.S.d. Datenschutzgesetzes der Schriftform, oder genügt die
 
 Unsere Experten werten die aktuelle Rechtsprechung aus und erörtern die Gründe, welche für eine qualifizierte Mahnung im Rahmen des § 28a Bundesdatenschutzgesetz (BDSG) sprechen. Konkret geht es um die Frage, ob Mahnungen von der verantwortlichen Stelle eigenhändig unterschrieben werden müssen und ob bisher genutzte Alternativen den gesetzlichen Anforderungen entsprechen.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

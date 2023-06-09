@@ -54,4 +54,6 @@ Schufa-Experte Rechtsanwalt Dr. Tintemann kommentierte den Erfolg erfreut:
 
 Es wird empfohlen, bei negativen Schufaeinträgen umgehend einen Anwalt mit Expertise auf diesem Gebiet zu kontaktieren.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

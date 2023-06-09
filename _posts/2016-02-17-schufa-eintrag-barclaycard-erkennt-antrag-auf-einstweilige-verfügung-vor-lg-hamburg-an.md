@@ -38,4 +38,6 @@ Der Erfolg zeigt, dass bei Vorliegen eines Schufa-Negativeintrags schnelles und 
 
 Die Bank muss nun die Kosten des Rechtsstreit tragen. Der Rechtsanwalt aus Hessen war begeistert und kann nun einen geplanten Kredit aufnehmen und neue Kanzleiräume anmieten.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

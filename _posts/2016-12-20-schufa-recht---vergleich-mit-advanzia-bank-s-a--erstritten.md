@@ -59,4 +59,6 @@ Aber nicht jeder negative SCHUFA – Eintrag findet seine Berechtigung nach den 
 
 Betroffene können sich daher gerne an die Rechtsanwälte wenden und sich eine erste Einschätzung hinsichtlich ihrer rechtlichen Möglichkeiten geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an oder laden Sie sich im Bereich Downloads unseren Fragebogen bei Negativeinträgen in einer Wirtschaftsauskunftei herunter. Gerne stehen wir auch per Email unter info@advoadvice.de für Anfragen zur Verfügung.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

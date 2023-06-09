@@ -40,3 +40,7 @@ In der Zeitschrift Verbraucher und Recht - VuR - kommentieren Dr. Sven Tintemann
 Zitathinweis: [Wiest/Tintemann in VuR 2012, 279 ff.](/uploads/tintemann-de/VuR-2012-279-ff.-Prominentenhaftung-bei-Werbung-für-Fonds.pdf)
 
 Den [Artikel als PDF-Dokument](/uploads/tintemann-de/VuR-2012-279-ff.-Prominentenhaftung-bei-Werbung-für-Fonds.pdf) finden Sie hier:
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

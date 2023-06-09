@@ -59,4 +59,6 @@ Rechtsanwalt Dr. Sven Tintemann, Fachanwalt für Bank- und Kapitalmarktrecht bei
 
 Die Kanzlei AdvoAdvice Rechtsanwälte mbB steht Personen, die von Negativeinträgen in Auskunfteien (z.B. Creditreform, Schufa Holding AG, Bürgel u.a.) betroffen sind, mit kompetentem Rechtsrat zur Verfügung. Die Rechtsanwälte der Kanzlei haben schon viele wegweisende Entscheidungen erstritten und gelten bundesweit auch in der Fachpresse als Experten.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

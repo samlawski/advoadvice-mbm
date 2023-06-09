@@ -33,4 +33,6 @@ Nach Einschätzung des Schufa-Experten Dr. Sven Tintemann handelt es sich an gew
 
 Sollten Sie einen negativen Schufa-Eintrag in Ihrer Auskunft vorfinden, können Sie sich gerne an unser Expertenteam wenden.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

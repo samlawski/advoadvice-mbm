@@ -39,4 +39,6 @@ Schufa-Experte Dr. Sven Tintemann rät allen Betroffenen von Schufa-Einträgen: 
 
 Sobald man einen Negativeintrag vorfindet, sollte man sich umgehend an ein Expertenteam wenden, um den Eintrag und die dazugehörigen Unterlagen überprüfen zu lassen. Zumeist kann nur demjenigen geholfen werden, der schnell reagiert.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

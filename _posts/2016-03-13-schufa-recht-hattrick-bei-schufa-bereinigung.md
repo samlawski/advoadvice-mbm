@@ -36,4 +36,6 @@ Der Kommentar der Experten von AdvoAdvice: *„Es ist immer wieder wichtig, eine
 
 Es wird daher empfohlen, sich bei einem problematischen Schufa-Eintrag oder auch bei Einträgen in anderen Auskunfteien (Creditreform, Bürgel, etc.) an eine Kanzlei zu wenden, welche sich auf Schufa-Angelegenheiten spezialisiert hat.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

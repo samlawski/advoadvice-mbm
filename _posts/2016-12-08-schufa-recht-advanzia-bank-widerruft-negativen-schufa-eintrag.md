@@ -40,4 +40,6 @@ Auch in dieser Angelegenheit zeigte sich der Schufa-Experte der Kanzlei AdvoAdvi
 
 Bei Problemen in Folge von negativen Schufa-Einträgen, können Sie sich jederzeit an unser Expertenteam wenden, um Ihren Eintrag überprüfen zu lassen. Häufig kann Betroffenen geholfen werden, da die Formalitäten für einen Schufa-Eintrag nicht eingehalten wurden oder andere Besonderheiten dazu führen, dass die Forderung unberechtigt eingemeldet wurde.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

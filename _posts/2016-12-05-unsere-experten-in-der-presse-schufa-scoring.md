@@ -32,4 +32,6 @@ Auf sechs Seiten wird ein Überblick gegeben über die folgenden Themenbereiche:
 
 Das Magazin ist unter der ISSN 1862-9032 erschienen und wird von Boorberg verlegt.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

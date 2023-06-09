@@ -49,4 +49,6 @@ Hier unsere wichtigsten Tipps für Sie im Überblick:
 
 [![Antenne Logo - Fremde Marke](https://www.radioszene.de/wp-content/uploads/2014/02/Logo_Antenne1-530.png)](/uploads/tintemann-de/Mitschnitt-Namensdoppelgaenger.mp3)
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank" rel="noopener"}.

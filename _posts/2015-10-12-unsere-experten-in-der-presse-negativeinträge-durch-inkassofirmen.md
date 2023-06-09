@@ -29,3 +29,5 @@ Rechtsanwalt Dr. Tintemann - Beitrag in der Fachzeitschrift Verbraucher und Rech
 Dürfen Inkasso-Firmen Negativeinträge bei der Schufa Holding AG und bei anderen Auskunfteien im eigenen Namen veröffentlichen? Der Fachartikel wertet die aktuelle Rechtsprechung aus und kommt zu dem Ergebnis, dass Einträge in Auskunfteien durch Inkassounternehmen nur unter sehr engen Voraussetzungen rechtmäßig sind.
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -24,8 +24,10 @@ topics:
   - anlegerschutz
 author: dr-sven-tintemann
 ---
+Rechtsanwalt Dr. Tintemann - Beitrag vom 09.11.2015 in&nbsp;[portfolio international](http://www.portfolio-international.de/newsdetails/article/etwas-mehr-und-doch-zu-wenig-i.html)
 
+Nachdem nun alle EU-Länder verpflichtet sind, bankenfinanzierte Einlagensicherungsfonds aufzubauen, die im Entschädigungsfall Rückzahlungen bis zu 100.000 Euro für jeden Kunden garantieren, &nbsp;müssen alle Kreditinstitute einem gesetzlichen oder gesetzlich anerkannten Sicherungssystem angehören. Das Einlagensicherungsgesetz umfasst damit nun auch Sparkassen, Landesbanken, Landesbausparkassen sowie Volks- und Raiffeisenbanken, die bisher von der Zuordnung zu einer gesetzlichen Entschädigungsrichtlinie befreit waren.
 
-Rechtsanwalt Dr. Tintemann - Beitrag vom 09.11.2015 in [portfolio international](http://www.portfolio-international.de/newsdetails/article/etwas-mehr-und-doch-zu-wenig-i.html)
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
 
-Nachdem nun alle EU-Länder verpflichtet sind, bankenfinanzierte Einlagensicherungsfonds aufzubauen, die im Entschädigungsfall Rückzahlungen bis zu 100.000 Euro für jeden Kunden garantieren,  müssen alle Kreditinstitute einem gesetzlichen oder gesetzlich anerkannten Sicherungssystem angehören. Das Einlagensicherungsgesetz umfasst damit nun auch Sparkassen, Landesbanken, Landesbausparkassen sowie Volks- und Raiffeisenbanken, die bisher von der Zuordnung zu einer gesetzlichen Entschädigungsrichtlinie befreit waren.
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
