@@ -35,4 +35,8 @@ Ein Vergleich scheiterte aber bisher an der Zustimmung der Rechtsschutzversicher
 
 Ob hier noch ein Vergleich mit der Bank abgeschlossen werden kann, um evtl. erneute Negativeinträge oder weitere rechtliche Auseinandersetzungen um Kostenerstattungsansprüche zu verhindern, muss noch mit der Rechtsschutzversicherung des betroffenen Bankkunden abgestimmt werden.
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

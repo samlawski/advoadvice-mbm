@@ -20,8 +20,6 @@ topics:
   - bank-und-kapitalmarkt
 author: dr-sven-tintemann
 ---
-
-
 Das Landgericht Berlin hat die Deutsche Postbank AG zum Widerruf eines Negativeintrages bei der Schufa Holding AG verurteilt. Das Gericht sah die Meldevoraussetzungen nach § 28 a Abs. 1 BDSG, welche zu Gunsten der Deutschen Postbank AG hätten eingreifen können, als nicht gegeben an und entschied daher zu Gunsten der Klägerin aus München, welche in Berlin durch die Kanzlei AdvoAdvice Rechtsanwälte mbB erfolgreich vertreten wurde.
 
 ### Zu langer Zeitraum zwischen Mahnungen und Einmeldung
@@ -45,3 +43,9 @@ Die Klägerin wird hierbei geltend machen, dass ihr Aufgrund des Negativeintrags
 Eine Berufung der Deutschen Postbank AG ist nach Ansicht des Berliner Rechtsanwalts Dr. Sven Tintemann von AdvoAdvice zwar möglich, wahrscheinlich aber nicht zulässig, da es der Deutschen Postbank AG an einem ausreichenden Berufungsstreitwert mangeln dürfte.
 
 Es bleibt aber abzuwarten, ob die erstinstanzliche Entscheidung rechtkräftig wird und wie es in dem noch zu führenden Schadensersatzprozess weitergeht.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

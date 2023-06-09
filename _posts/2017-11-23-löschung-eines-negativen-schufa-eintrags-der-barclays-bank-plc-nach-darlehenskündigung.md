@@ -24,13 +24,11 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Zum dritten Mal innerhalb von vier Wochen, löschte die Schufa Holding AG in Wiesbaden einen negativen Schufa Eintrag der Barclays Bank PLC nach Intervention durch die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin. Erneut lag der Datenübermittlung eine Kündigung der Bank zu Grunde, bei welcher man sich über das Vorliegen der Kündigungsvoraussetzungen trefflich streiten kann.
 
 ### Was sind "Kündigungsvoraussetzungen"?
 
-Wenn man einen Verbraucher-Darlehensvertrag mit einer Bank abschließt, sieht das Gesetz in den §§ 491 ff. BGB bestimmte Voraussetzungen für die Begründung, Durchführung und Beendigung der Vertragsbeziehung vor. Ob und wann ein solcher Darlehensvertrag gekündigt werden darf, bestimmt sich nach § 498 BGB. Voraussetzung für eine Kündigung ist nach Absatz 1 Satz 1, dass der Darlehensnehmer mit mindestens zwei aufeinanderfolgende Raten im Verzug ist und bei einer Vertragslaufzeit von mehr als 3 Jahren dabei einen Rückstand  von mindestens 5 % der Darlehenssumme erreicht. Darüber hinaus muss der Darlehensgeber eine zwei Wöchige Rückzahlungsfrist setzen und ankündigen, dass der Gesamtbetrag danach zurückverlangt wird.
+Wenn man einen Verbraucher-Darlehensvertrag mit einer Bank abschließt, sieht das Gesetz in den §§ 491 ff. BGB bestimmte Voraussetzungen für die Begründung, Durchführung und Beendigung der Vertragsbeziehung vor. Ob und wann ein solcher Darlehensvertrag gekündigt werden darf, bestimmt sich nach § 498 BGB. Voraussetzung für eine Kündigung ist nach Absatz 1 Satz 1, dass der Darlehensnehmer mit mindestens zwei aufeinanderfolgende Raten im Verzug ist und bei einer Vertragslaufzeit von mehr als 3 Jahren dabei einen Rückstand&nbsp; von mindestens 5 % der Darlehenssumme erreicht. Darüber hinaus muss der Darlehensgeber eine zwei Wöchige Rückzahlungsfrist setzen und ankündigen, dass der Gesamtbetrag danach zurückverlangt wird.
 
 Um diese Vorgaben einzuhalten hat die Barclays Bank PLC den Betroffenen Ende Juni dieses Jahres gemahnt und aufgefordert, einen Betrag über ca. 450,00 Euro zurückzahlen solle. Daraufhin zahlte der Betroffene einen Betrag über 200,00 Euro ein und ging davon aus, dass dies zur Abwendung der Kündigung ausreiche. Umso überraschter war dieser, als er Mitte Juli die fristlose Kündigung des Darlehensvertrages erhielt.
 
@@ -40,4 +38,8 @@ Die AdvoAdvice Rechtsanwälte argumentierten damit, dass zum Zeitpunkt der Künd
 
 Der Schufa-Experte Dr. Sven Tintemann kommentierte die Angelegenheit wie folgt: "Obwohl das Vorgehen der Barclays Bank PLC formal rechtmäßig war, stellt sich dennoch die Frage, ob der hierbei benutzte Schufa-Hinweis ausreichend war, um den Betroffenen über seine Pflichten aufzuklären. Wenn schon der BGH in seinem dazugehörigen Urteil darauf hinweist, dass es für die Gegenposition erhebliche Argumente gibt, ist die Angelegenheit für einen tatsächlich Betroffenen selbst beim Heranziehen des Gesetzestextes schwer nachzuvollziehen. Für die Übermittlung des Negativmerkmals und insbesondere wegen der weitreichenden Folgen ist deshalb zu fordern, dass der Betroffene nochmals gemahnt und über sein Fehlverhalten aufgeklärt wird."
 
-Bei Problemen mit Schufa-Einträgen können Sie gerne unsere Experten-Team beauftragen. Diesbezüglich erreichen Sie uns unter 030 / 921 000 40 und unter info@advoadvice.de
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

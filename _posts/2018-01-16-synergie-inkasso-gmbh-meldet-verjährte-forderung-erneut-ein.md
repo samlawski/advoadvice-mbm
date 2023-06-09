@@ -20,8 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 In den letzten beiden Jahren kam es zu vielfachen Schufa Einträgen durch die Synergie Inkasso GmbH. Bereits vor einem Jahr [berichteten wir](https://advoadvice.de/blog/schufa-recht-erneuter-au%C3%9Fergerichtlicher-erfolg-gegen-synergie-inkasso-gmbh/) von einem Mann aus Hessen, zu dessen Lasten ein negativer Eintrag lanciert wurde. Selbiger Mann wandte sich kurz vor dem Jahreswechsel im Jahr 2018 erneut an die Kanzlei AdvoAdvice Rechtsanwälte mbB. Schockiert musste er feststellen, dass die Synergie Inkasso GmbH erneut einen negativen Eintrag bei der Schufa Holding AG in Wiesbaden vorgenommen hat.
 
 ### Handelte es sich um die gleiche Forderung?
@@ -38,4 +36,8 @@ Nach kurzer Prüfung fiel auf, dass der Betroffene mittlerweile gegen die Forder
 
 Im Resultat der Prüfung durch die Kanzlei AdvoAdvice bedeutete dies, dass weder die Forderung durchsetzbar war noch ein diesbezüglicher Schufa Negativeintrag gerechtfertigt werden konnte. Ein weiterer Erfolg für die Kanzlei AdvoAdvice im Kampf gegen unberechtigte Schufa Einträge.
 
-Bei ähnlichen Problemen mit negativen Schufa Einträgen können Sie uns gerne jederzeit unter 030 / 921 000 40 oder unter info@advoadvice.de kontaktieren.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

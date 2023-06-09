@@ -37,4 +37,8 @@ Mit dem Problem der Namensverwechslung bei Auskunfteien, speziell der Schufa Hol
 
 Um den Radiobeitrag als MP3 Datei anzuhören klicken Sie bitte hier oder auf das Star FM Logo: [(zum Radiobeitrag als MP3-Datei)](/uploads/tintemann-de/StarFM-Dokumentation.mp3)
 
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

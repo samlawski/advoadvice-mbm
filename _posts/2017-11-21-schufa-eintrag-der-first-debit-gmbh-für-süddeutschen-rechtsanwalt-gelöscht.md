@@ -20,8 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Selbst der gelernte Rechtsexperte kann sich nicht immer sicher sein, dass er allen schlechten Dingen aus dem Weg gehen kann. So musste ein Rechtsanwalt aus Süddeutschland kürzlich feststellen, dass die First Debit GmbH einen sog. negativen Schufa Eintrag zu seinen Lasten eingemeldet hatte.
 {: .present-before-paste}
 
@@ -44,5 +42,8 @@ Die First Debit GmbH erklärte sich kurzerhand dazu bereit, den Negativeintrag z
 Der bei den Advoadvice Rechtsanwälten zuständige Partner Dr. Sven Tintemann erläuterte in diesem Kontext: "Ein negativer Schufa-Eintrag kann jeden treffen. Vorliegend hätte dem Sachverhalt noch ein langer Rechtsstreit folgen können. Erfreulich ist jedoch, dass sich Unternehmen diesen Rechtsstreit auch manchmal ersparen wollen und es so zu einer schnellen Lösung des Problems kommen kann."
 {: .present-before-paste}
 
-Wenn Sie Hilfe bei der Löschung eines negativen Schufa Eintrages benötigen, können Sie gerne unsere Kanzlei unter 030 / 921 000 40 oder unter info@advoadvice.de kontaktieren.
-{: .present-before-paste}
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

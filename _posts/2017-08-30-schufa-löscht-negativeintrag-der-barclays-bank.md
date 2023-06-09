@@ -22,8 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Wollen Sie Ihren Schufa Eintrag löschen? Erfolg der Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin bei außergerichtlichem Vorgehen gegen einen Schufa Negativeintrag der Barclays Bank PLC.
 {: .present-before-paste}
 
@@ -48,5 +46,8 @@ Da der Betroffene jedoch nur die Kündigung erhalten hatte und in dieser auch nu
 Grundsätzlich ist zu empfehlen, sich in regelmäßigen Abständen eine Schufa-Selbstauskunft zu organisieren. Sollte man tatsächlich feststellen, dass man unter einem Negativeintrag zu leiden hat, dann sollte dieser genau überprüft werden. In diesem Zuge ist es hilfreich, wenn man die Schufa-Selbstauskunft mitsamt den konkreten Unterlagen zu der Forderung von einem Experten begutachten lässt und versucht, über diesen eine Löschung des Eintrages zu erreichen.
 {: .present-before-paste}
 
-Bei Fragen zu diesem Thema, können Sie sich gerne an die Experten von AdvoAdvice aus Berlin wenden (unter info@advoadvice.de oder 030 / 921 000 40) wenden.
-{: .present-before-paste}
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

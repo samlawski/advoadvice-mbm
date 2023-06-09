@@ -50,6 +50,8 @@ Sodann kann man lernen, dass manchmal ein gerichtliches Verfahren auch ohne Urte
 
 Ebenso ist es wichtig, dass es gerade im Kontext von Schufa-Einträgen enorm auf die Einhaltung von Fristen und auf stimmige Formulierungen der einmeldende Stelle ankommt. Dies geschieht häufig nicht in dem nötigen Maße.
 
-Deshalb sollte bei Schufa-Problemen immer ein Experte zu Rate gezogen werden. Falls Sie Hilfe in einer solchen Angelegenheit benötigen, können Sie uns telefonisch (030 / 921 000 40) oder per Mail ([info@advoadvice.de](mailto:info@advoadvice.de)) erreichen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

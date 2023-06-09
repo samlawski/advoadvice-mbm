@@ -50,6 +50,8 @@ Ein ähnliches Fazit zog auch Fachanwalt für Bank- und Kapitalmarktrecht Dr. Sv
 
 &nbsp;*„Die Belastung durch einen negativen Schufa-Eintrag kann enorm sein. Es ist daher jedem zu empfehlen, sich wenigstens einmal pro Jahr eine kostenlose Selbstauskunft von der Schufa Holding AG zu besorgen, um die eigenen Daten zu überprüfen. Generell gilt in Sachen Schufa-Einträgen, dass schnelles Handeln wichtig ist, um so die Probleme noch am ehesten in den Griff zu bekommen. Eine intensive Überprüfung der rechtlichen Fragestellungen hinter einem Eintrag ist unerlässlich, um eine Lösung des Problems zu erreichen.“*
 
-Betroffene können sich daher gerne an die Rechtsanwälte wenden und sich eine erste Einschätzung hinsichtlich ihrer rechtlichen Möglichkeiten geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an oder laden Sie sich im Bereich Downloads unseren Fragebogen für Negativeinträge in einer Wirtschaftsauskunftei herunter. Gerne stehen wir auch per Email unter info@advoadvice.de für Anfragen zur Verfügung.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

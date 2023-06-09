@@ -40,6 +40,8 @@ Problematisch dagegen ist, dass die Voraussetzungen des Bundesdatenschutzgesetzt
 
 Immer wieder gilt es, die gleichen Lehren aus dem Bearbeiten von negativen Schufa Einträgen zu ziehen. Der zuständige Rechtsanwalt Dr. Sven Tintemann betont einmal mehr: „Wie nach fast jeder erfolgreichen Löschung kann man auch hier zusammenfassen, dass jeder einzelne Umstand in der Geschichte des Negativeintrages geprüft werden muss, welcher zu dem negativen Schufa Eintrag führt. Die vorliegende Konstellation ist uns trotz jahrelanger Erfahrung so noch nicht unter gekommen, sodass ein prüfender Blick in die Materialien des Gesetzgebers nötig war, um eine Lösung zu finden. Umso erfreulicher ist es, dass die Bonität der Mandantschaft wieder hergestellt werden konnte und dem geplanten Hausbau nun nichts mehr im Wege steht.“
 
-Bei Fragen zum Thema Schufa Eintrag, können Sie gerne unser Experten-Team kontaktieren. Dieses erreichen Sie unter [info@advoadvice.de](mailto:info@advoadvice.de) und unter 030 / 921 000 40.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

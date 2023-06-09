@@ -27,4 +27,6 @@ Im April 2014 war Rechtsanwalt Dr. Tintemann als Experte bei der Bild-Telefon-Ak
 
 [![BILD Logo - Fremde Marke](/uploads/versions/bild-logo---x----103-103x---.png)](http://www.bild.de/ratgeber/recht/immobilien/immobilien-experte-fragen-antworten-35433124.bild.html)
 
-<w:anchorlock><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"><o:lock v:ext="edit" aspectratio="t"><p>Einen <a href="http://www.bild.de/ratgeber/recht/immobilien/immobilien-experte-fragen-antworten-35433124.bild.html">Link zu der Berichterstattung</a> &uuml;ber die BILD Telefon Aktion finden Sie hier.</p> </o:lock></v:path></w:anchorlock>
+&lt;w:anchorlock&gt;&lt;v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"&gt;&lt;o:lock v:ext="edit" aspectratio="t"&gt;
+
+Einen [Link zu der Berichterstattung](http://www.bild.de/ratgeber/recht/immobilien/immobilien-experte-fragen-antworten-35433124.bild.html) über die BILD Telefon Aktion finden Sie hier.

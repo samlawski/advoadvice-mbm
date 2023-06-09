@@ -50,4 +50,8 @@ Der bearbeitende Partner der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälte
 
 Für den Fall, dass Sie ebenfalls unter einem negativen Schufa Eintrag zu leiden haben, empfehlen wir Ihnen die Kontaktaufnahme zu einem Experten. Dafür steht Ihnen die Kanzlei AdvoAdvice aus Berlin gerne zur deutschlandweiten Beratung und Vertretung Ihrer Interessen zur Verfügung unter Tel.: 030 / 921 000 40 oder auch per Mail unter info@advoadvice.de.
 
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

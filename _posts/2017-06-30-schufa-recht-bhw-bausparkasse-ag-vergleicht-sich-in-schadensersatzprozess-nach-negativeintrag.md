@@ -38,6 +38,8 @@ Hier ist meist die Hilfe eines erfahrenen Rechtsanwalts notwendig, der sich mit 
 
 Dr. Sven Tintemann, Partner bei AdvoAdvice in Berlin ist auf diesem Gebiet seit 2009 schwerpunktmäßig tätig und konnte schon vielen Betroffenen bei dem Vorliegen von Schufa-Negativeinträgen helfen.
 
-Im Falle eines solchen Negativeintrages müssen alle Ansprüche geprüft werden. Gerne können Sie sich dafür an unser Experten-Team wenden ([info@advoadvice.de](mailto:info@advoadvice.de) oder 030 / 941 000 40).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

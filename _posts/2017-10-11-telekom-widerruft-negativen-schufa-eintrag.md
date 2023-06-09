@@ -23,14 +23,12 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Nach über einem Jahr konnte endlich ein negativer Schufa Eintrag der Telekom Deutschland GmbH beseitigt werden. Was im außergerichtlichen Verfahren noch in weiter Ferne schien, konnte im gerichtlichen Verfahren endlich erreicht werden. Der negative Schufa Eintrag wurde nunmehr durch die Telekom Deutschland GmbH widerrufen.
 
 ## **Was ist der Hintergrund zu dem Schufa Eintrag?**
 {: .present-before-paste}
 
-Im November 2014 hat die Telekom Deutschland GmbH einen negativen Eintrag zu Lasten einer Frau aus dem Osten Westfalens eingemeldet. Die ursprüngliche Hauptforderung belief sich auf 56,89 Euro. Zuzüglich Mahnkosten, Zinsen und Inkassogebühren wurde sodann der Eintrag in Höhe von 215,00 Euro bei der Schufa Holding AG eingemeldet. Die Forderung wurde kurz darauf auf 286,00 Euro aktualisiert. Überraschend  für die Betroffene war, dass die Forderung bis zum März 2016 insgesamt weitere 14 Mal auf 286,00 Euro aktualisiert wurde, bevor im April 2016 die Erledigung der Forderung eingetragen wurde.
+Im November 2014 hat die Telekom Deutschland GmbH einen negativen Eintrag zu Lasten einer Frau aus dem Osten Westfalens eingemeldet. Die ursprüngliche Hauptforderung belief sich auf 56,89 Euro. Zuzüglich Mahnkosten, Zinsen und Inkassogebühren wurde sodann der Eintrag in Höhe von 215,00 Euro bei der Schufa Holding AG eingemeldet. Die Forderung wurde kurz darauf auf 286,00 Euro aktualisiert. Überraschend&nbsp; für die Betroffene war, dass die Forderung bis zum März 2016 insgesamt weitere 14 Mal auf 286,00 Euro aktualisiert wurde, bevor im April 2016 die Erledigung der Forderung eingetragen wurde.
 
 Diese vielfache Aktualisierung wurde bereits durch das außergerichtliche Verfahren beseitigt, sodass es im gerichtlichen Verfahren "nur" noch um den Grundeintrag sowie eine Aktualisierung und die Erledigung der Forderung ging. Das Abwicklungskonto war also weiterhin im Schufa-Datenbestand gespeichert.
 
@@ -48,4 +46,8 @@ Sollte sich in Ihrer Selbstauskunft ein sog. Abwicklungskonto o.ä. als Negative
 
 Es ist daher in der Regel zu empfehlen, die offenen Beträge auszugleichen und die Sache einem Experten vorzulegen. Dieser kann dann überprüfen, ob eine Löschung des Eintrages erreicht werden kann.
 
-Sollten Sie unter einem negativen Schufa Eintrag leiden, dann können Sie auch gerne unser Team unter info@advoadvice.de oder unter 030 / 921 000 40 kontaktieren.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -52,6 +52,8 @@ Der zuständige Anwalt Dr. Tintemann resümierte wie folgt: „Es ist schon eine
 
 Sollten Sie unter einem Negativeintrag bei der Schufa Holding AG leiden, ist Ihnen nahezulegen, sich fachkundige Hilfe zu organisieren. In vielen Fällen kann den Betroffenen geholfen werden.
 
-Gerne können Sie dafür jederzeit Kontakt zu unserer Kanzlei aufnehmen. Rufen Sie uns einfach unter 030 921 000 40 an senden uns eine Email unter info@advoadvice.de für Ihre Anfragen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

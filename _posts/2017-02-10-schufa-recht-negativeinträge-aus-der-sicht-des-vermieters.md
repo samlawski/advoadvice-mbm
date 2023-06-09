@@ -44,12 +44,10 @@ Aus den gespeicherten Daten bei der Schufa, wird sodann ein Scorewert berechnet,
 
 Einfach ausgedrückt liegt das Problem darin, dass die Schufa nur über einen gewissen Teil der Informationen verfügt, die für eine vollständige Bonitätsbewertung ausschlaggebend sind. Die Schufa-Auskunft oder ein Negativeintrag sind lediglich ein Indiz dafür, dass ein Mieter ggf. die Miete schuldig bleiben könnte.
 
-Problematisch ist, dass viele Menschen, die aufgrund einer Schufa-Auskunft als „schlechte Schuldner“ dastehen, genau das Gegenteil sind. Es gibt unzählige Sachverhalte, wie man zu einem Negativeintrag gelangt sein kann. Und unabhängig von der Frage, ob diese Einträge rechtmäßig oder unrechtmäßig erfolgt sind, ergibt sich eine verlässliche Bonitätseinschätzung meist erst nach einer genaueren und persönlichen Überprüfung der wirtschaftlichen und persönlichen Verhältnisse.
+Problematisch ist, dass viele Menschen, die aufgrund einer Schufa-Auskunft als „schlechte Schuldner“ dastehen, genau das Gegenteil sind. Es gibt unzählige Sachverhalte, wie man zu einem Negativeintrag gelangt sein kann. Und unabhängig
 
-## **Wie könnte eine Lösung aussehen?**
-
-Die Experten der Kanzlei AdvoAdvice haben langjährige Erfahrungen im Schufa-Recht und sind mittlerweile mit unglaublich vielen verschiedenen Sachverhalten rund um das Thema Schufa und Scoring vertraut. Gerade von dieser Erfahrung können auch Vermieter, Hausverwaltungen und Genossenschaften profitieren, indem sie ein Gutachten über potenzielle Mieter, deren finanzielle Situation und ihr Scoring in Auftrag geben. Nach einer Durchsicht aller dem Vermieter zur Verfügung stehenden Dokumente über einen potenziellen Mieter, wird eine detaillierte Analyse mit Handlungsempfehlung entworfen.
-
-Interessierte Vermieter können sich daher gerne an die Rechtsanwälte wenden und sich eine qualifizierte Einschätzung hinsichtlich ihrer potenziellen Mieter geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an senden uns eine Email unter info@advoadvice.de für Ihre Anfragen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

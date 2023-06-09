@@ -22,8 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Ein junger Student aus Hamburg meldete sich bei der Kanzlei AdvoAdvice Partnerschaft von Rechtsanwälten aus Berlin und bat um Hilfe bei der Löschung eines Schufa Negativeintrages. Konkret ging die Forderung auf das Ausleihen einer DVD bei der Videotaxi Media Store Videothek zurück.
 
 ### Ratenzahlungsvereinbarung und Vollstreckungsbescheid
@@ -52,4 +50,8 @@ Die Kanzlei AdvoAdvice Rechtanwälte mbB ist spezialisiert auf die Löschung und
 
 Eine Erstberatung oder auch die Auseinandersetzung mit der eintragenden Stelle wird oftmals von der Rechtsschutzversicherung übernommen.
 
-Eine erste kostenlose Einschätzung von Anfragen Betroffener erfolgt zunächst schnell und unbürokratisch am Telefon oder per Email. Wenden Sie sich hierzu an info@advoadvice.de oder an 030 / 921 000 40.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

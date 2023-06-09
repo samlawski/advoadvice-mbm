@@ -31,4 +31,8 @@ Sollten auch Sie unter den Folgen einer Weitergabe sensibler Daten leiden, könn
 
 Auch dann, wenn Sie sich als Arzt, Zahnarzt, Psychiater oder sonstiger Geheimnis dem Vorwurf des Verstoßes gegen Ihre Schweigepflicht ausgesetzt sehen, macht eine anwaltliche Beratung vor dem Hintergrund der o.g. Entscheidungen Sinn, um einen Schadensersatzanspruch abwehren oder diesen durch frühzeitigen Vergleich erledigen zu können. Nicht jeder Verstoß gegen die Schweigepflicht muss nämlich in einem Gerichtsverfahren oder einem Verfahren vor der entsprechenden Kammer des Berufsstandes enden.
 
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

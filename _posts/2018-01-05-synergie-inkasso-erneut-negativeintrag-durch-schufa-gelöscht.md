@@ -20,9 +20,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
-Zum Abschluss des Jahres 2017 konnte erneut ein negativer Schufa Eintrag, eingemeldet durch die Synergie Inkasso GmbH zur Löschung gebracht werden. Dabei äußerten sowohl die Schufa Holding AG als auch die Synergie Inkasso GmbH unabhängig voneinander, dass diese sich eine Löschung bzw.  einen Widerruf der Forderung veranlassen werden.
+Zum Abschluss des Jahres 2017 konnte erneut ein negativer Schufa Eintrag, eingemeldet durch die Synergie Inkasso GmbH zur Löschung gebracht werden. Dabei äußerten sowohl die Schufa Holding AG als auch die Synergie Inkasso GmbH unabhängig voneinander, dass diese sich eine Löschung bzw.&nbsp; einen Widerruf der Forderung veranlassen werden.
 {: .present-before-paste}
 
 ### Insolvenzverfahren und Forderungsinhaber
@@ -30,10 +28,16 @@ Zum Abschluss des Jahres 2017 konnte erneut ein negativer Schufa Eintrag, eingem
 Die Forderung war auf ein Vertragsverhältnis mit der FlexStrom AG zurückzuführen. Im Rahmen der Insolvenz wurde die Forderung vom damaligen Insolvenzverwalter übernommen. Angeblich kontaktierte die Synergie Inkasso GmbH den Betroffenen im Jahr 2014 mehrfach, um eine Zahlung des offenen Betrages zu erreichen. Im Jahr 2015 wurde die Forderung sodann in den Schufa-Datenbestand eingemeldet. Einen Zugang der entsprechenden Schreiben konnte die Synergie Inkasso GmbH aber nicht nachweisen, sodass die Rechtmäßigkeit der Datenübermittlung in Frage stand.
 {: .present-before-paste}
 
-Erst kürzlich wurde in diesem Blog darüber berichtet, dass es ohnehin fraglich ist, ob die Synergie Inkasso GmbH überhaupt die tatsächliche Forderungsinhaberin ist. In einem Urteil des AG Worms ([hier zum Artikel](advoadvice.de/blog/unberechtigte-forderung-der-synergie-inkasso-gmbh/)) wurde eine Klage mangels Nachweises der Forderungsinhaberschaft abgewiesen.
+Erst kürzlich wurde in diesem Blog darüber berichtet, dass es ohnehin fraglich ist, ob die Synergie Inkasso GmbH überhaupt die tatsächliche Forderungsinhaberin ist. In einem Urteil des AG Worms ([hier zum Artikel]()) wurde eine Klage mangels Nachweises der Forderungsinhaberschaft abgewiesen.
 {: .present-before-paste}
 
 ### Was soll man bei einem Negativeintrag tun?
 {: .present-before-paste}
 
 Sollten Sie unter einem negativen Schufa Eintrag leiden, oder vermuten, dass ein solcher Eintrag in Ihrem Schufa-Datenbestand auftaucht, sollten Sie sich zunächst eine Schufa-Selbstauskunft organisieren. Dabei kann man auf der Homepage der Schufa Holding AG auch eine kostenlose Datenübersicht anfordern. Diese Datenübersicht können Sie zusammen mit einigen Informationen zum Sachverhalt einem Experten vorlegen, damit dieser die Möglichkeit einer vorzeitigen Löschung überprüfen kann. Bei weiteren Fragen erreichen Sie uns gerne unter 030 / 21 000 41 oder unter info@advoadvice.de.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -45,6 +45,8 @@ Folglich sollte jeder Ebay-Nutzer, aber insbesondere die gewerblichen Nutzer und
 
 Dr. Sven Tintemann, Rechtsanwalt und Partner bei AdvoAdvice in Berlin ist seit Jahren im Bereich des Datenschutzrechts aktiv und hat bereits mehrfach erfolgreich Betroffenen auch bei schlechten Bewertungen auf Bewertungsportalen helfen können.
 
-Sollten Sie dazu weitere Fragen haben, können Sie sich gerne an die Experten der Kanzlei AdvoAdvice wenden (030 921 000 40 oder eine Email an info@advoadvice.de).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

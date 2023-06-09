@@ -25,8 +25,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Erneut kam es zu einem negativen Schufa Eintrag durch die Barclays Bank PLC. Genauso wie in anderen Verfahren wurde der Eintrag jedoch in der Zwischenzeit durch die Schufa Holding AG zur Löschung gebracht, nach die betroffene Person die Kanzlei AdvoAdvice Rechtsanwälte aus Berlin eingeschaltet hatte.
 
 ### Negativeintrag nach Kündigung ohne Überziehung des Kreditrahmens / Dispos?
@@ -47,4 +45,10 @@ Jedoch wurde bei der rechtlichen Bewertung durch die Barclays Bank PLC und durch
 
 ### Was tun, wenn man einen Schufa Eintrag hat?
 
-Wenn man realisiert, dass die eigene Kreditwürdigkeit unter einem negativen Schufa Eintrag leidet, sollte dringend ein Experte herangezogen werden. Häufig machen Unternehmen bei der Eintragung eines Schufa Eintrages formale Fehler. Sollte sich ein solcher Fehler eingeschlichen haben, kann ein negativer Schufa-Eintrag auch vorzeitig zur Löschung gebracht werden. Gerne können Sie unser Team für einen solchen Fall unter 030 / 921 000 40 oder unter info@advoadvice.de kontaktieren.
+Wenn man realisiert, dass die eigene Kreditwürdigkeit unter einem negativen Schufa Eintrag leidet, sollte dringend ein Experte herangezogen werden. Häufig machen Unternehmen bei der Eintragung eines Schufa Eintrages formale Fehler. Sollte sich ein solcher Fehler eingeschlichen haben, kann ein negativer Schufa-Eintrag auch vorzeitig zur Löschung gebracht werden.
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

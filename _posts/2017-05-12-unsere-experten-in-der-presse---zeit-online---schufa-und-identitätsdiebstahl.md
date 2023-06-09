@@ -32,4 +32,8 @@ Ein Problem, welches bei einer Abfrage von Daten auf Beständen von verschiedene
 
 Von einem solchen Missbrauchsfall handelt ein Bericht aus der Zeit Online vom 29.07.2014 von Tina Groll, den diese gemeinsam mit Dr. Sven Tintemann, der als Experte für Rechtsfragen zur Verfügung stand, recherchierte. [(hier klicken)](http://www.zeit.de/digital/datenschutz/2014-07/identitaetsdiebstahl-falsche-schufa-daten)
 
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

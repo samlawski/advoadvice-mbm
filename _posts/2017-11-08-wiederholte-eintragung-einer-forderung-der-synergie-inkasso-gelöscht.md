@@ -19,8 +19,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Wieder und wieder melden sich Mandanten bei unserem Experten-Team, welche von einem negativen Schufa Eintrag, veranlasst durch die Synergie Inkasso GmbH, betroffen sind. Häufig handelt es sich um Menschen, welche einen Vertrag mit der FlexStrom AG abgeschlossen hatten gegen die nunmehr noch offene Forderungen geltend gemacht werden.
 
 In dem nun geschilderten Falle kam es jedoch zu einem Novum. Ein betroffener Mandant, dem bereits vor einigen Monaten geholfen werden konnte, wandte sich erneut an die Kanzlei AdvoAdvice Rechtsanwälte, da der bereits gelöschte Eintrag wieder aufgetaucht war. Der sogenannte Zombie-Eintrag, der wieder aufersteht, musste also erneut bekämpft werden.
@@ -35,4 +33,8 @@ Im Endeffekt wurde die Bearbeitung der Angelegenheit auf dem bereits eingeschlag
 
 Es bleibt zu hoffen, dass die Forderung nicht noch einmal eingetragen wird und der Betroffene nun nicht mehr unter einem negativen Schufa Eintrag der Synergie Inkasso leiden muss.
 
-Sollten auch Sie die Folgen eines negativen Schufa Eintrages zu spüren bekommen, können Sie gerne unser Experten-Team kontaktieren (info@advoadvice.de oder 030 / 921 000 40). Gerne versuchen wir Ihnen weiterzuhelfen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

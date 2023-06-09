@@ -20,8 +20,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Die Tesch Mediafinanz GmbH hatte einen negativen Schufa Eintrag zu Lasten eines jungen Mannes aus Sachsen eingetragen. Der Betroffene konnte mit dem besagten Inkassounternehmen aus Osnabrück nichts anfangen, weshalb er sich hilfesuchend an die Kanzlei AdvoAdvice Rechtsanwälte mbB wandte.
 
 ### Wie kam es zu dem Eintrag?
@@ -44,4 +42,8 @@ Wer meint, eine Forderung an ihn sei unberechtigt, entweder, weil diese fehlerha
 
 Falls eine Rechnung nicht ausgeglichen wurde und/oder es zu einem negativen Schufa Eintrag gekommen ist, gilt es auch, diesen genau zu überprüfen. Häufig schleichen sich bei der Einmeldung von Daten einige Fehler ein, weshalb der Eintrag nicht hätte erfolgen dürfen.
 
-Gerne können Sie bei einem negativen Schufa Eintrag auch Kontakt zu unserer Kanzlei aufnehmen (info@advoadvice.de oder 030/921 000 40) und ihren Schufa Eintrag überprüfen lassen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

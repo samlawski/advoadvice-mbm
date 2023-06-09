@@ -38,6 +38,8 @@ Eine Rückmeldung von Seiten der BMW Financial Services ging bei den Rechtsanwä
 
 Der zuständige Rechtsanwalt und Schufa-Experte Dr. Sven Tintemann zeigte sich zufrieden: *"Es ist immer wieder erfreulich, wenn man Mandanten bei ihren Problemen mit Schufa Einträgen schnell helfen kann. In dieser Angelegenheit ist hervorzuheben, dass der Eintrag durch die Schufa Holding AG selbst gelöscht wurde, weil die eintragende Stelle keine befriedigende Antwort zum Eintrag liefern konnte."*
 
-Bei negativen Schufa Einträgen rentiert es sich daher, umgehend Rechtsrat bei einem Experten einzuzholen. Die jahrelange Erfahrung kann dabei helfen, einen Eintrag schnell zur Löschung zu bringen. Gerne können Sie bei Fragen rund um das Thema Schufa Einträge auch unser Experten-Team kontaktieren (030 / 921 000 40 oder info@advoadvice.de).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -19,9 +19,7 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
-Die Barclays Bank PLC hat erneut einen negativen Schufa Eintrag widerrufen. Darüber konnte sich die betroffene Frau zum Beginn dieses Jahres freuen. Der Einträge wäre  sonst noch mindestens bis zum 31.12.2018 gespeichert gewesen.
+Die Barclays Bank PLC hat erneut einen negativen Schufa Eintrag widerrufen. Darüber konnte sich die betroffene Frau zum Beginn dieses Jahres freuen. Der Einträge wäre&nbsp; sonst noch mindestens bis zum 31.12.2018 gespeichert gewesen.
 
 ### Was war geschehen?
 
@@ -41,4 +39,8 @@ Sollten Sie unter einem negativen Schufa Eintrag leiden, ist es wichtig, alle re
 
 Es ist zu empfehlen, unmittelbar einen Experten zu kontaktieren, da es für manche rechtliche Möglichkeiten nur kurze Zeiträume gibt, in welchen diese genutzt werden können.
 
-Häufig kann Ihnen ein Experte aufgrund der womöglich begangenen Fehler vor der Eintragung zum Widerruf (durch das Unternehmen) und zur Löschung des Eintrages (durch die Schufa) verhelfen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

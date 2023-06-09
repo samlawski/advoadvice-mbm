@@ -18,8 +18,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 Einmal mehr musste eine Betroffen feststellen, wie sehr man unter den Auswirkungen eines negativen Schufa-Eintrages leiden muss. Die 51-jährige Mannheimerin wandte sich an Kanzlei AdvoAdvice Rechtsanwälte mbB aus Berlin und stellte dieser ihre Schufa-Selbstauskunft zur Verfügung. Darin fand sich ein Negativeintrag seitens der Santander Consumer Bank AG über mehr als 5.000 Euro aus dem Jahr 2012.
 
 ### **Ratenzahlungsvereinbarung vor Eintrag führte zur Löschung**
@@ -34,4 +32,8 @@ Auch viele Jahre nach dem Eintrag einer Forderung, kann es noch zu einem Löschu
 
 In diesem Zuge kommentierte Dr. Sven Tintemann den Erfolg: „Es kommt für die Zulässigkeit eines Schufa Eintrages nicht auf die Forderungshöhe an. Ein Eintrag darf nur nach den gesetzlichen Bestimmungen erfolgen. Diese werden aber sehr häufig nicht durch die eintragende Firma, sei es eine Bank, wie im vorliegenden Fall, eine Inkasso-Unternehmen oder sogar andere Rechtsanwälte eingehalten, sodass vielen Betroffenen doch noch geholfen werden kann.“
 
-Gerne können sich Betroffene, die Negativeinträge in ihrem Schufa-Datenbestand bei sich feststellen, bei Problemenan die Kanzlei AdvoAdvice Rechtsanwälte mbB melden und eine Erstberatung vereinbaren. Die Kontaktaufnahme kann leicht unter [&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#097;&#100;&#118;&#111;&#097;&#100;&#118;&#105;&#099;&#101;&#046;&#100;&#101;) oder unter 030 / 921 000 40 erfolgen.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

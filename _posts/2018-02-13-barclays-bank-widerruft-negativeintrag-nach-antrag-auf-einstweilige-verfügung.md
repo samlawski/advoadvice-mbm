@@ -23,7 +23,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
 Die Barclays Bank PLC hat nach einem Antrag auf Erlass einer einstweiligen Verfügung beim Landgericht Hamburg durch die Kanzlei AdvoAdvice Rechtsanwälte mbB einen Schufa-Negativeintrag widerrufen.
 
 ### Daten aus Kreditkartenvertrag eingemeldet
@@ -53,3 +52,9 @@ Da die Barclays Bank sich aber nicht rechtsverbindlich zu einer Unterlassung von
 ### Schnelles und konsequentes Handeln zahlt sich aus
 
 Rechtsanwalt Dr. Sven Tintemann, der hier für die betroffene Antragstellerin beim Landgericht Hamburg tätig war kommentiert: "Das Vorgehen zeigt wieder einmal, dass sich ein schnelles und konsequentes Handeln tatsächlich auszahlt. Die Gegenseite, die hier zunächst außergerichtlich nicht reagiert hatte, wurde nun durch das Mittel des Antrags auf Erlass einer einstweiligen Verfügung zu schnellem Handeln gezwungen, da der Gerichtstermin kurzfristig anberaumt wurde und vorher eine Reaktion hierauf notwendig war. Betroffenen Bankkunden ist daher zu raten, bei negativen Schufa-Eintragen durch Kreditinstitute oder auch Inkassounternehmen schnell zu handeln und sich unverzüglich Rechtsrat von einem Experten im Bereich von Schufa- und Datenschutzrecht zu holen."
+
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

@@ -37,6 +37,8 @@ Es ist erfreulich, zu sehen, dass eine Entscheidung zugunsten eines Betroffenen 
 
 Rechtsanwalt Dr. Tintemann bewertete den vorliegenden Fall trotzdem positiv: „*Der Fall zeigt anschaulich, dass bei den Problemen rund um Schufa-Einträge immer alle Fakten überprüft werden müssen. Manchmal kann ein unbekannter Wohnort vor 15 Jahren der ausschlaggebende Punkt sein, wieso eine Löschung des Eintrages erfolgreich geltend gemacht werden kann. Ein anderes Mal kann diese Überprüfung auch auf eine fehlerhafte Vollmacht zurückzuführen sein. Es kommt auch vor, dass diese Umstände zusammenfallen. Bei Schufa Einträgen empfiehlt es sich für Betroffene stets auf den Rat eines im Schufa-Recht spezialisierten Anwalts zu Rate zu ziehen“.*
 
-Bei Problemen und Fragen rund um das Thema Schufa-Einträge und Scoring, können Sie sich jederzeit an unsere Kanzlei wenden. Sie erreichen uns telefonisch (030/921 000 40) oder per Mail ([info@advoadvice.de](mailto:info@advoadvice.de)).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

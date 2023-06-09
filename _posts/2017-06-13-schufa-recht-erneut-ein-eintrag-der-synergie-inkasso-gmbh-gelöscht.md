@@ -31,6 +31,8 @@ In Kontext von Schufa-Einträgen und der wirtschaftlichen Leistungsfähigkeit r�
 
 „*Sobald man realisiert, dass es einen negativen Schufa-Eintrag zur eigenen Person gibt und der Scorewert unter 90 % gerutscht ist, sollte man sich dringend Hilfe von einem Experten suchen. Die wirtschaftlichen Folgen sind häufig schwer einzuschätzen und häufig kann erst durch anwaltliche Hilfe herausgearbeitet werden, ob und welche Voraussetzungen für einen Schufa-Eintrag tatsächlich erfüllt sind. Häufig kann Betroffenen dann noch geholfen werden.“*
 
-In einem solchen Fall können Sie gerne die Experten der AdvoAdvice Partnerschaft von Rechtsanwälten kontaktieren (Telefonisch unter 030/921 000 40 oder per Mail an [info@advoadvice.de](mailto:info@advoadvice.de)).
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
 Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

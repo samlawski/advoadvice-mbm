@@ -22,8 +22,6 @@ topics:
   - schufa-und-datenschutz
 author: dr-sven-tintemann
 ---
-
-
 In den vergangenen Wochen mehrten sich Anfragen zu negativen Schufa Einträgen, veranlasst durch die Barclays Bank PLC. Mehrfach war der Schufa Eintrag auf den nahezu gleichen Sachverhalt zurückzuführen. Nun wurde zum ersten Mal ein solcher Eintrag durch die Schufa Holding AG zur Löschung gebracht.
 
 ### **Wie kam es zu dem Schufa Eintrag?**
@@ -46,4 +44,8 @@ In dem Fall, dass auch Sie unter einem Schufa Eintrag leiden, sollten Sie Ihre U
 
 Häufig gibt es Argumentationsansätze, die für eine Löschung sprechen, weil seitens der einmeldenden Stelle eine übereifrige Bearbeitung oder frühzeitige Einmeldung in den Schufa-Datenbestand erfolgt ist.
 
-Bei Vorliegen eines Schufa Eintrages können Sie uns gerne unter info@advoadvice.de oder unter 030 / 921 000 40 telefonisch kontaktieren.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
+
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.

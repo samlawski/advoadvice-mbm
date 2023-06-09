@@ -37,6 +37,8 @@ Aus Sicht des zuständigen Rechtsanwaltes zeigen sich in diesem Fall einige Them
 
 *„In vielen Fällen kommt es vor, dass die Einmeldevoraussetzungen überhaupt nicht gegeben sind oder deren Vorliegen nach § 28 a Abs. 1 BDSG zumindest zweifelhaft erscheint. Die Betroffene handelte hier erfreulich schnell und kontaktierte selbst die Barclays Bank. Damit erreichte sie zwar einen Erledigungsvermerk, die Forderung blieb aber im Schufa-Datenbestand bestehen. Dies half nicht wirklich dabei, den Scorewert der betroffenen Mandantin entscheidend zu verbessern. Ein Negativeintrag bleibt eben auch denn negativ, wenn die damit verbundene Forderung bereits bezahlt wurde. Erst nach der Intervention durch unser Kanzlei konnte der eigentlich rechtmäßige Zustand wieder hergestellt werden. Es zeigt sich, dass häufig erst die Inanspruchnahme anwaltlicher Hilfe erfolgversprechend ist und dass es bei Negativeinträgen auch oft darauf ankommt, schnell zu handeln.“*
 
-Betroffene können sich daher gerne an die Rechtsanwälte wenden und sich eine erste Einschätzung hinsichtlich ihrer rechtlichen Möglichkeiten geben lassen. Rufen Sie uns einfach unter 030 921 000 40 an oder laden Sie sich im Bereich Downloads unseren Fragebogen für Negativeinträge in einer Wirtschaftsauskunftei herunter. Gerne stehen wir auch per Email unter info@advoadvice.de für Anfragen zur Verfügung.
+Haben auch Sie Probleme mit Einträgen in Auskunfteien, wie z.B. Schufa-Holding AG, Bürgel, Creditreform, Boniversum oder anderen? Dann wenden Sie sich an die erfahrenen Rechtsanwälte der Kanzlei AdvoAdvice Rechtsanwälte mbB unter [info@advoadvice.de](mailto:info@advoadvice.de).
 
-Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)finden Sie hier.&nbsp;
+Weitere Informationen zum Thema [Schufa und Datenschutz](/themen/schufa-und-datenschutz/)&nbsp;finden Sie hier.&nbsp;
+
+Zusätzliche Informationen zu unserem Schufa-Experten Dr. Sven Tintemann finde Sie auch unter [https://tintemann.de](https://tintemann.de){: target="_blank"}.
