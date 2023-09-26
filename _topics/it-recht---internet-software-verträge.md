@@ -87,7 +87,7 @@ abschnitte:
       gehackt wurde, oder wenn Sie bereits keinen Zugriff mehr darauf haben,
       zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um Ihnen zu helfen
       und den Zugriff auf Ihre Social-Media-Profile wiederherzustellen.&nbsp;
-    image: /uploads/konto-gehackt-1.jpg
+    image: ''
     cta: true
   - abschnitt_template: weiss_bild_links
     titel: Open-Source Software
