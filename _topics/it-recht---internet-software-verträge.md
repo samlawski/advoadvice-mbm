@@ -9,7 +9,7 @@ description: >-
 header_titel: IT- und Internetrecht
 header_image: /uploads/it-recht-homepage-header.jpg
 erfolge:
-  - zahl: 50+
+  - zahl: 80+
     text: Fälle zu gehackten Konten bearbeitet
   - zahl: 10+
     text: >-
